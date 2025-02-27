@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Sensitive Scheerschuim",
+  "code": "2196790",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2909 > 3706",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027799",
+  "mmkId": "3027799",
+  "productGroupId": "459074",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-sensitive-scheerschuim/p/2196790",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267238,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/ha8/hfa/32868177182750/prd-front-2196790-1_600x600/prd-front-2196790-1-600x600.jpg"
+}

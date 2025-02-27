@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Knoflook & Visolie",
+  "code": "5611726",
+  "price": "5.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
+  "supplier": "COBECO PHARMA WHOLESALE",
+  "inStock": "inStock",
+  "onPromo": "3027871",
+  "mmkId": "3027871",
+  "productGroupId": "467738",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-knoflook-visolie/p/5611726",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267284,
+      "name": "Hart en of bloedvaten"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hc9/h52/28579429941278/prd-front-5611726-1_600x600/prd-front-5611726-1-600x600.jpg"
+}

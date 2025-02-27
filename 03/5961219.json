@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Baby & Kids Verzachtende Bodylotion",
+  "code": "5961219",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "3027845",
+  "mmkId": "3027845",
+  "productGroupId": "465606",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-baby-kids-verzachtende-bodylotion/p/5961219",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267579,
+      "name": "Babylotion"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h91/h0f/28810336534558/prd-front-5961219-1_600x600/prd-front-5961219-1-600x600.jpg"
+}

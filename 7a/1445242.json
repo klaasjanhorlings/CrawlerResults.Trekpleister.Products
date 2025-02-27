@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Digitale Thermometer",
+  "code": "1445242",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6431",
+  "supplier": "RETOMED HEALTH BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-digitale-thermometer/p/1445242",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 30267320,
+      "name": "Thermometers"
+    }
+  ],
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/hb7/h71/29097426485278/prd-front-1445242-1_600x600/prd-front-1445242-1-600x600.jpg"
+}

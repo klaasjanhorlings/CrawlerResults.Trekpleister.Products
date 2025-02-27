@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor 030 Brown Oogpotlood",
+  "code": "81741",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "3027856",
+  "mmkId": "3027856",
+  "productGroupId": "466456",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-030-brown-oogpotlood/p/81741",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267142,
+      "name": "Oogpotlood"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h65/h94/28616240660510/prd-front-81741-1_600x600/prd-front-81741-1-600x600.jpg"
+}

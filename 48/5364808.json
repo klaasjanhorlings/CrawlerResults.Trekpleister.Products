@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Revitalift Laser X3 Puur Retinol Nachtserum",
+  "code": "5364808",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027895",
+  "mmkId": "3027895",
+  "productGroupId": "470762",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-revitalift-laser-x3-puur-retinol-nachtserum/p/5364808",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
+    }
+  ],
+  "description": "30ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hdd/hcb/33485004439582/prd-front-5364808-1_600x600/prd-front-5364808-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pluggerz Enjoy Kids Oordoppen",
+  "code": "5844886",
+  "price": "10.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
+  "supplier": "COMFOOR BV",
+  "inStock": "inStock",
+  "onPromo": "3027804",
+  "mmkId": "3027804",
+  "productGroupId": "459536",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pluggerz-enjoy-kids-oordoppen/p/5844886",
+  "listName": "Lister",
+  "brand": "Pluggerz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267507,
+      "name": "Oordoppen"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h2f/h76/28581183782942/prd-front-5844886-1_600x600/prd-front-5844886-1-600x600.jpg"
+}

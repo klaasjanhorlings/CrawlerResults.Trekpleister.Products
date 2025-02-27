@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Zero% Hypoallergene Douchegel",
+  "code": "5859334",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027757",
+  "mmkId": "3027757",
+  "productGroupId": "452755",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-zero-hypoallergene-douchegel/p/5859334",
+  "listName": "Lister",
+  "brand": "Sanex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "400ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h0a/h3c/31824064938014/prd-front-5859334-1_600x600/prd-front-5859334-1-600x600.jpg"
+}

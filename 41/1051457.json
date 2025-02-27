@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Omega-3-Visolie 1000 mg Capsules",
+  "code": "1051457",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3027871",
+  "mmkId": "3027871",
+  "productGroupId": "467738",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-omega-3-visolie-1000-mg-capsules/p/1051457",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267284,
+      "name": "Hart en of bloedvaten"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h56/h85/28549344493598/prd-front-1051457-1_600x600/prd-front-1051457-1-600x600.jpg"
+}

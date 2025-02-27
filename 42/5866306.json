@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Teamsterz Reddingskazerne",
+  "code": "5866306",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2140 > 4929 > 4975 > 5021",
+  "supplier": "HTI TOYS UK LTD",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/teamsterz-reddingskazerne/p/5866306",
+  "listName": "Lister",
+  "brand": "Teamsterz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267082,
+      "name": "Voertuigen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he9/h69/28561910267934/prd-front-5866306-1_600x600/prd-front-5866306-1-600x600.jpg"
+}

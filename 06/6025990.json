@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Harmonie Maat 5 Luiers",
+  "code": "6025990",
+  "price": "14.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027793",
+  "mmkId": "3027793",
+  "productGroupId": "457995",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-harmonie-maat-5-luiers/p/6025990",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267345,
+      "name": "Luiers maat 5"
+    }
+  ],
+  "description": "mt 5 (11-16kg), 19 stuks",
+  "image": "/medias/sys_master/prd-images/h5c/h4a/30479024488478/prd-front-6025990-1_600x600/prd-front-6025990-1-600x600.jpg"
+}

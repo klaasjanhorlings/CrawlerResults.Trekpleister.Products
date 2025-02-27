@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Elvive Dream Lengths Heat Protect Hittespray",
+  "code": "5401593",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3698",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-elvive-dream-lengths-heat-protect-hittespray/p/5401593",
+  "listName": "Lister",
+  "brand": "Elvive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267490,
+      "name": "Heat protectors"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/he0/ha0/33047057039390/prd-front-5401593-1_600x600/prd-front-5401593-1-600x600.jpg"
+}

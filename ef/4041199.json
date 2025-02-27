@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SYOSS Keratine Style Perfection Haarmousse",
+  "code": "4041199",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-keratine-style-perfection-haarmousse/p/4041199",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267491,
+      "name": "Haarmousse"
+    }
+  ],
+  "description": "250ml"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rascals Maat 7 Cocomelon Luierbroekjes",
+  "code": "6240092",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
+  "supplier": "ZURU NETHERLANDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/rascals-maat-7-cocomelon-luierbroekjes/p/6240092",
+  "listName": "Lister",
+  "brand": "Rascal + Friends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267070,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 30267353,
+      "name": "Luierbroekjes maat 7"
+    }
+  ],
+  "description": "Maat 7 (17+ kg), 18 stuks",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

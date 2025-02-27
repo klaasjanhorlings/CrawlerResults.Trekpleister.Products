@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Axe Ice Chill Deodorant Bodyspray",
+  "code": "4678276",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/axe-ice-chill-deodorant-bodyspray/p/4678276",
+  "listName": "Lister",
+  "brand": "Axe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hab/hf8/33198316027934/prd-front-4678276-1_600x600/prd-front-4678276-1-600x600.jpg"
+}

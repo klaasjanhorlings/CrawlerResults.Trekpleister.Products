@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lamisil Once Voetschimmelbehandeling",
+  "code": "2520708",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6450 > 3458",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lamisil-once-voetschimmelbehandeling/p/2520708",
+  "listName": "Lister",
+  "brand": "Lamisil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48237626,
+      "name": "Voetschimmelbehandeling"
+    }
+  ],
+  "description": "Geneesmiddel - 4g",
+  "image": "/medias/sys_master/prd-images/h8e/h6f/31206155288606/prd-front-2520708-1_600x600/prd-front-2520708-1-600x600.jpg"
+}

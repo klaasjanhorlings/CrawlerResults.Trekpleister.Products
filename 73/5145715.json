@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 18+M Spaghetti Tomaat Ham",
+  "code": "5145715",
+  "price": "1.74",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 3025 > 3850",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-18m-spaghetti-tomaat-ham/p/5145715",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267328,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267571,
+      "name": "18+ maanden"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h25/hd1/30689622982686/prd-front-5145715-1_600x600/prd-front-5145715-1-600x600.jpg"
+}

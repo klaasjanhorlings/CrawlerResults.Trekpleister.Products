@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Sensitive XL Sterile Pleisters",
+  "code": "4380559",
+  "price": "4.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4110",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hansaplast-sensitive-xl-sterile-pleisters/p/4380559",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267296,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414222,
+      "name": "XL pleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 6cm x 7cm, 5 stuks",
+  "image": "/medias/sys_master/prd-images/h09/h4a/32904702492702/prd-front-4380559-1_600x600/prd-front-4380559-1-600x600.jpg"
+}

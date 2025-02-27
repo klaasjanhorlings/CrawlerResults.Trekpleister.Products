@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Page Compleet Schoon Vochtig Toiletpapier",
+  "code": "5536847",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4082",
+  "supplier": "KIMBERLY-CLARK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/page-compleet-schoon-vochtig-toiletpapier/p/5536847",
+  "listName": "Lister",
+  "brand": "Page",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267123,
+      "name": "Toiletpapier"
+    }
+  ],
+  "description": "38 stuks",
+  "image": "/medias/sys_master/prd-images/hb2/h12/32906512826398/prd-front-5536847-1_600x600/prd-front-5536847-1-600x600.jpg"
+}

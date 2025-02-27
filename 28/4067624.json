@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corine de Farme Calendula Micellair Reinigingswater",
+  "code": "4067624",
+  "price": "4.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2326 > 2995 > 3822",
+  "supplier": "LABORATOIRES SARBEC",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corine-de-farme-calendula-micellair-reinigingswater/p/4067624",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267334,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267583,
+      "name": "Babyzeep"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/prd-front-4067624-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjQ2NTB8aW1hZ2UvanBlZ3xhR016TDJnd055OHhOak0wTlRZMk16VXdORFF4TkM5d2NtUXRabkp2Ym5RdE5EQTJOell5TkMweFh6WXdNSGcyTURBfGQ2MGEzMjZjNGM2NTY3YjU5OThhNjM5NWVkMWE3NjhhNWU1MDFkY2RhNDZjYzhhZjI4ZjVlMWU2ZDUwOTlmMzg"
+}

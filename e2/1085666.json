@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wella New Wave Ultra Strong Rock & Hold Haargel Styler",
+  "code": "1085666",
+  "price": "4.85",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2933 > 3728",
+  "supplier": "WELLA COMPANY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wella-new-wave-ultra-strong-rock-hold-haargel-styler/p/1085666",
+  "listName": "Lister",
+  "brand": "Wella New Wave",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-1085666-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDYwODJ8aW1hZ2UvanBlZ3xhRGRrTDJnNFlpOHlOalUzT0RnMU5Ua3hPVFkwTmk5d2NtUXRabkp2Ym5RdE1UQTROVFkyTmkweFh6WXdNSGcyTURBfGY0OTQ4ODQzNDAwNDg1MTFhNzY1MWFjNDc5MWQxYzIzNzNmYjQ5Zjc0ZmIyMWMwZGIyMWE2OWQ2MzcyMjYxOTY"
+}

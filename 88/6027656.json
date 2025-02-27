@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier SkinActive Glow Booster Reinigingsgel",
+  "code": "6027656",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027832",
+  "mmkId": "3027832",
+  "productGroupId": "461863",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-skinactive-glow-booster-reinigingsgel/p/6027656",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267474,
+      "name": "Reinigingsgel"
+    }
+  ],
+  "description": "250ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/hdd/h9f/29991623589918/prd-front-6027656-1_600x600/prd-front-6027656-1-600x600.jpg"
+}

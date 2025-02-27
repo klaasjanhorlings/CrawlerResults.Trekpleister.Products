@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Axe Recharge Sport Refresh 3-in-1 Douchegel",
+  "code": "5434465",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/axe-recharge-sport-refresh-3-in-1-douchegel/p/5434465",
+  "listName": "Lister",
+  "brand": "Axe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h2a/h05/28578878455838/prd-front-5434465-1_600x600/prd-front-5434465-1-600x600.jpg"
+}

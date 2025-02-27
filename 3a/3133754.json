@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Kalknagelpen",
+  "code": "3133754",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6451 > 6452",
+  "supplier": "PHARMA SOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "3027890",
+  "mmkId": "3027890",
+  "productGroupId": "469904",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-kalknagelpen/p/3133754",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48237510,
+      "name": "Kalknagelbehandeling"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 4ml",
+  "image": "/medias/sys_master/prd-images/hba/h03/28548054712350/prd-front-3133754-1_600x600/prd-front-3133754-1-600x600.jpg"
+}

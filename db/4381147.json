@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Series 3 300s Scheerapparaat",
+  "code": "4381147",
+  "price": "59.99",
+  "priceOriginal": "69.99",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6442",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/braun-series-3-300s-scheerapparaat/p/4381147",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267243,
+      "name": "Baardtrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h41/h02/28576700268574/prd-front-4381147-1_600x600/prd-front-4381147-1-600x600.jpg"
+}

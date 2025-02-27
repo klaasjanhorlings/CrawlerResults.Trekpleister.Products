@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Mindful Blossom Shower Satin Douchecrème",
+  "code": "5680921",
+  "price": "6.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3027761",
+  "mmkId": "3027761",
+  "productGroupId": "452801",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-mindful-blossom-shower-satin-douchecreme/p/5680921",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267204,
+      "name": "Douchecrème"
+    }
+  ],
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hfe/hf7/28866267643934/prd-front-5680921-1_600x600/prd-front-5680921-1-600x600.jpg"
+}

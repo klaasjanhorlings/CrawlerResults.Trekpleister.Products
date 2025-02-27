@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Classic Care Milde Shampoo",
+  "code": "3572493",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027799",
+  "mmkId": "3027799",
+  "productGroupId": "459074",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-classic-care-milde-shampoo/p/3572493",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h26/ha8/32806162104350/prd-front-3572493-1_600x600/prd-front-3572493-1-600x600.jpg"
+}

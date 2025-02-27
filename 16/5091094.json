@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Ultra Chaos Power Hold 4 Styling Gel",
+  "code": "5091094",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027855",
+  "mmkId": "3027855",
+  "productGroupId": "466336",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-ultra-chaos-power-hold-4-styling-gel/p/5091094",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/ha5/hce/31270750683166/prd-front-5091094-1_600x600/prd-front-5091094-1-600x600.jpg"
+}

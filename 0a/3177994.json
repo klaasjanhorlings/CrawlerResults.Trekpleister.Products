@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Davitamon Magnesium Nacht Tabletten",
+  "code": "3177994",
+  "price": "15.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/davitamon-magnesium-nacht-tabletten/p/3177994",
+  "listName": "Lister",
+  "brand": "Davitamon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267272,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50002051,
+      "name": "Magnesium"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h8d/h87/31458994683934/prd-front-3177994-1_600x600/prd-front-3177994-1-600x600.jpg"
+}

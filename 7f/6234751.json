@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice The Essential Brow Light Set",
+  "code": "6234751",
+  "price": "10.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-the-essential-brow-light-set/p/6234751",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30267464,
+      "name": "Wenkbrauwgel"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h9a/h0c/33497570050078/prd-front-6234751-1_600x600/prd-front-6234751-1-600x600.jpg"
+}

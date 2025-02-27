@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "De Vergulde Hand Scheerzeeptablet",
+  "code": "4477397",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 3144 > 4011",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/de-vergulde-hand-scheerzeeptablet/p/4477397",
+  "listName": "Lister",
+  "brand": "De Vergulde Hand",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267238,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4477397-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzMzNTN8aW1hZ2UvanBlZ3xhRGxpTDJneE15OHhOamN6TWpBME1UVTBNemN4TUM5d2NtUXRabkp2Ym5RdE5EUTNOek01TnkweFh6WXdNSGcyTURBfDkzYzYxMjRkZWYwZDQxMjZhMDUyZjA5MTdiODczZDY4N2MwYzEyZjFiMTQwOWJkMGM0NTg4ZTYyMzNlNjg1ODM"
+}

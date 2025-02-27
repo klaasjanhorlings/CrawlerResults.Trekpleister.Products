@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ella's Kitchen Organic 6+M Carrot + Parsnip Maize Puffs",
+  "code": "4426794",
+  "price": "1.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ellas-kitchen-organic-6m-carrot-parsnip-maize-puffs/p/4426794",
+  "listName": "Lister",
+  "brand": "Ella's Kitchen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267331,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "20g",
+  "image": "/medias/prd-front-4426794-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDMxNzF8aW1hZ2UvanBlZ3xhRFF3TDJnME1DOHhOalF5TmpFME9EUXlPVGcxTkM5d2NtUXRabkp2Ym5RdE5EUXlOamM1TkMweFh6WXdNSGcyTURBfGE2MTdmNmIzYWE3NmM2MWMwNThjMjJhOTgwZjQ3NmU0YzI2YjRhOWU5ZDk0YzY2YzQ1MDgxNDc4ZGY1YjE4YzY"
+}

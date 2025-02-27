@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Mindful Blossom Hand Wash",
+  "code": "5960869",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3482",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3027761",
+  "mmkId": "3027761",
+  "productGroupId": "452801",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-mindful-blossom-hand-wash/p/5960869",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267246,
+      "name": "Handzeep"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h35/h72/30809555468318/prd-front-5960869-1_600x600/prd-front-5960869-1-600x600.jpg"
+}

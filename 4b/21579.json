@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Byte-X",
+  "code": "21579",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
+  "supplier": "TRADE SENSE BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/byte-x/p/21579",
+  "listName": "Lister",
+  "brand": "Bytex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267188,
+      "name": "Nagelbehandeling"
+    }
+  ],
+  "description": "11ml",
+  "image": "/medias/sys_master/prd-images/h64/h1f/32882911608862/prd-front-21579-1_600x600/prd-front-21579-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nicorette Fresh Fruit 2mg Kauwgom",
+  "code": "1118601",
+  "price": "10.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 3498",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nicorette-fresh-fruit-2mg-kauwgom/p/1118601",
+  "listName": "Lister",
+  "brand": "Nicorette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267266,
+      "name": "Stoppen met roken"
+    },
+    {
+      "id": 30267538,
+      "name": "Nicotinekauwgom"
+    }
+  ],
+  "description": "Geneesmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/hf0/h0a/33056616349726/prd-front-1118601-1_600x600/prd-front-1118601-1-600x600.jpg"
+}

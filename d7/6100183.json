@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Littekencrème",
+  "code": "6100183",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3027825",
+  "mmkId": "3027825",
+  "productGroupId": "461119",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-littekencreme/p/6100183",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267499,
+      "name": "Littekencremes"
+    }
+  ],
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/h84/h0c/31028041187358/prd-front-6100183-1_600x600/prd-front-6100183-1-600x600.jpg"
+}

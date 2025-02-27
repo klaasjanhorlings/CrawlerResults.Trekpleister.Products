@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Premium Protection Pants Maat 4 Luierbroekjes",
+  "code": "6243466",
+  "price": "30.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027793",
+  "mmkId": "3027793",
+  "productGroupId": "457995",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-premium-protection-pants-maat-4-luierbroekjes/p/6243466",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267070,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 30267350,
+      "name": "Luierbroekjes maat 4"
+    }
+  ],
+  "description": "mt 4 (9-15kg), 42 stuks",
+  "image": "/medias/sys_master/prd-images/h32/h27/33351619411998/prd-front-6243466-1_600x600/prd-front-6243466-1-600x600.jpg"
+}

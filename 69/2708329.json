@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sinaspril Paracetamol 120 mg Kauwtabletten",
+  "code": "2708329",
+  "price": "5.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6155 > 6166",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sinaspril-paracetamol-120-mg-kauwtabletten/p/2708329",
+  "listName": "Lister",
+  "brand": "Sinaspril",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267525,
+      "name": "Paracetamol"
+    }
+  ],
+  "description": "Geneesmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/ha4/h79/32292905680926/prd-front-2708329-1_600x600/prd-front-2708329-1-600x600.jpg"
+}

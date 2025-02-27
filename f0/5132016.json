@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Odorex Men Fresh Protection Deodorant Roller",
+  "code": "5132016",
+  "price": "4.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3874",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3027768",
+  "mmkId": "3027768",
+  "productGroupId": "455326",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/odorex-men-fresh-protection-deodorant-roller/p/5132016",
+  "listName": "Lister",
+  "brand": "Odorex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267200,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h5b/h24/28551848427550/prd-front-5132016-1_600x600/prd-front-5132016-1-600x600.jpg"
+}

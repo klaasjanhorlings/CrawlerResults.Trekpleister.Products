@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Midalgan Warm",
+  "code": "528892",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/midalgan-warm/p/528892",
+  "listName": "Lister",
+  "brand": "Midalgan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267536,
+      "name": "Spier- en gewrichtsbalsems"
+    }
+  ],
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/he9/hb7/29426622332958/prd-front-528892-1_600x600/prd-front-528892-1-600x600.jpg"
+}

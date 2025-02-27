@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Dailies Extra Long Inlegkruisjes",
+  "code": "5825944",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027786",
+  "mmkId": "3027786",
+  "productGroupId": "457743",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-dailies-extra-long-inlegkruisjes/p/5825944",
+  "listName": "Lister",
+  "brand": "Always Dailies",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267220,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "58 stuks",
+  "image": "/medias/sys_master/prd-images/h34/h6d/31843235561502/prd-front-5825944-1_600x600/prd-front-5825944-1-600x600.jpg"
+}

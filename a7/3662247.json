@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Masterpiece Nude 001 Cappucino Nudes Oogschaduwpalet",
+  "code": "3662247",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-masterpiece-nude-001-cappucino-nudes-oogschaduwpalet/p/3662247",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267153,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30267470,
+      "name": "Palette oogschaduw"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4e/h9f/28616331919390/prd-front-3662247-1_600x600/prd-front-3662247-1-600x600.jpg"
+}

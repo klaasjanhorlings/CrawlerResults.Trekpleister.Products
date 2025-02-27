@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "ThermaCare Rugpijn Warmtekompressen",
+  "code": "1836423",
+  "price": "14.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
+  "supplier": "NAVAMEDIC AB",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/thermacare-rugpijn-warmtekompressen/p/1836423",
+  "listName": "Lister",
+  "brand": "ThermaCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267535,
+      "name": "Warmtepleisters"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h37/hed/28575757565982/prd-front-1836423-1_600x600/prd-front-1836423-1-600x600.jpg"
+}

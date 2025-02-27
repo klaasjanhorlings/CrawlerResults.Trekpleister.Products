@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medisana BU 512 Bovenarm Bloeddrukmeter",
+  "code": "4824744",
+  "price": "27.99",
+  "priceOriginal": "39.9",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6677",
+  "supplier": "MEDISANA BENELUX NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 11,91",
+  "url": "/medisana-bu-512-bovenarm-bloeddrukmeter/p/4824744",
+  "listName": "Lister",
+  "brand": "Medisana",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 30267319,
+      "name": "Bloeddrukmeters"
+    }
+  ],
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h59/h08/28551385120798/prd-front-4824744-1_600x600/prd-front-4824744-1-600x600.jpg"
+}

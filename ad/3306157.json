@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Argan Olie Haarolie",
+  "code": "3306157",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6696 > 2835",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-argan-olie-haarolie/p/3306157",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267253,
+      "name": "Haarserum"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-3306157-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDc4ODd8aW1hZ2UvanBlZ3xhRFF5TDJnMll5OHhOelU1TURJeE16Z3pOamd6TUM5d2NtUXRabkp2Ym5RdE16TXdOakUxTnkweFh6WXdNSGcyTURBfDZjYTdkZTEzMTMyOWZkNTk2NTExNmRjNTI5YTBiZmQyMDZmODA3OWIyNmM5OGI1OTM3M2RlZjFhZjI0YmVhMmE"
+}

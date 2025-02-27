@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cetaphil Milde Huidreiniger",
+  "code": "6045093",
+  "price": "11.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "GALDERMA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027899",
+  "mmkId": "3027899",
+  "productGroupId": "471574",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cetaphil-milde-huidreiniger/p/6045093",
+  "listName": "Lister",
+  "brand": "Cetaphil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267168,
+      "name": "Gezichtsreiniging mannen"
+    }
+  ],
+  "description": "237ml, droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h32/h12/30643797524510/prd-front-6045093-1_600x600/prd-front-6045093-1-600x600.jpg"
+}

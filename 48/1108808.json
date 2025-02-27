@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Oesterkalk Calcium Vitamine D3 & K Tabletten",
+  "code": "1108808",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6280",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-oesterkalk-calcium-vitamine-d3-k-tabletten/p/1108808",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267272,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50002052,
+      "name": "Calcium"
+    }
+  ],
+  "description": "100 stuks",
+  "image": "/medias/prd-front-1108808-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODY3MjB8aW1hZ2UvanBlZ3xhR0pqTDJnME9DOHhOalV6T1RVM09EVTVOelF3Tmk5d2NtUXRabkp2Ym5RdE1URXdPRGd3T0MweFh6WXdNSGcyTURBfDQ3NzFlNGM4OTU2MDg2ZDdkOThkNTk1NDNmY2MwYjk3OTkwNWQ2YmNhM2ZhZTRkMjZlNDkyZWQ3YTM5ZTA2MjU"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Finger Cohesive Zelfhechtende Vingerbandage",
+  "code": "4745763",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2732 > 3651",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hansaplast-finger-cohesive-zelfhechtende-vingerbandage/p/4745763",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267296,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414283,
+      "name": "Vingerpleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 5m x 2,5cm",
+  "image": "/medias/sys_master/prd-images/h8f/h34/32907155537950/prd-front-4745763-1_600x600/prd-front-4745763-1-600x600.jpg"
+}

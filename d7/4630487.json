@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Organix 12+M Havermout, Abrikoos & Banaan Knijpfruit",
+  "code": "4630487",
+  "price": "1.45",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
+  "supplier": "HERO NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/organix-12m-havermout-abrikoos-banaan-knijpfruit/p/4630487",
+  "listName": "Lister",
+  "brand": "Organix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267565,
+      "name": "12 maanden +"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h19/h96/32823868522526/prd-front-4630487-1_600x600/prd-front-4630487-1-600x600.jpg"
+}

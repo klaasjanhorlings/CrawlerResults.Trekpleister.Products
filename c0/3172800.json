@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Prodent White System Tandpasta",
+  "code": "3172800",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027861",
+  "mmkId": "3027861",
+  "productGroupId": "467369",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/prodent-white-system-tandpasta/p/3172800",
+  "listName": "Lister",
+  "brand": "Prodent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h04/h6b/31295222087710/prd-front-3172800-1_600x600/prd-front-3172800-1-600x600.jpg"
+}

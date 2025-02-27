@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trachitol Zuigtabletten",
+  "code": "21740",
+  "price": "6.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
+  "supplier": "SALVEO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/trachitol-zuigtabletten/p/21740",
+  "listName": "Lister",
+  "brand": "Trachitol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267520,
+      "name": "Keelpastilles"
+    }
+  ],
+  "description": "Geneesmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h56/ha2/29031082721310/prd-front-21740-1_600x600/prd-front-21740-1-600x600.jpg"
+}

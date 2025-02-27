@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Relaxing Lavendel Douchegel",
+  "code": "3149875",
+  "price": "7.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kneipp-relaxing-lavendel-douchegel/p/3149875",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hb1/h4a/29955539304478/prd-front-3149875-1_600x600/prd-front-3149875-1-600x600.jpg"
+}

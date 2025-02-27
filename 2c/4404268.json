@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Pomegranate & Shea Butter Exfoliating Body Scrub",
+  "code": "4404268",
+  "price": "9.75",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 6602 > 6603",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-pomegranate-shea-butter-exfoliating-body-scrub/p/4404268",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267208,
+      "name": "Scrub"
+    }
+  ],
+  "description": "225ml - Droge huid, exfoliërend",
+  "image": "/medias/prd-front-4404268-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ5NTN8aW1hZ2UvanBlZ3xhRGs0TDJoaVlpOHhOalUxTXpRd09UVTNOams1TUM5d2NtUXRabkp2Ym5RdE5EUXdOREkyT0MweFh6WXdNSGcyTURBfDFhNmZiNzI1MWVjODczZmI0MDY5OGYzNGJhZTk0NjM4MDJlMjM5MTIwYTgwZjA5ZjgxOWRhMWE3MTc4ODNjOGU"
+}

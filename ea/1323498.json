@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Venus ComfortGlide Breeze Scheerapparaat",
+  "code": "1323498",
+  "price": "18.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027886",
+  "mmkId": "3027886",
+  "productGroupId": "469338",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-venus-comfortglide-breeze-scheerapparaat/p/1323498",
+  "listName": "Lister",
+  "brand": "Gillette Venus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267236,
+      "name": "Scheerapparaten"
+    }
+  ],
+  "description": "Inclusief 2 scheermesjes",
+  "image": "/medias/sys_master/prd-images/h16/h42/28550288506910/prd-front-1323498-1_600x600/prd-front-1323498-1-600x600.jpg"
+}

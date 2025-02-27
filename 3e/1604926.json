@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bepanthen Verzorgende Crème",
+  "code": "1604926",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bepanthen-verzorgende-creme/p/1604926",
+  "listName": "Lister",
+  "brand": "Bepanthen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267575,
+      "name": "Babycreme"
+    }
+  ],
+  "description": "30g",
+  "image": "/medias/sys_master/prd-images/h9d/hea/30916516249630/prd-front-1604926-1_600x600/prd-front-1604926-1-600x600.jpg"
+}

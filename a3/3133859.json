@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Miconazolnitraat 20mg/g Antischimmelcrème",
+  "code": "3133859",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6450 > 3458",
+  "supplier": "AUROBINDO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-miconazolnitraat-20mg/g-antischimmelcreme/p/3133859",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48237626,
+      "name": "Voetschimmelbehandeling"
+    }
+  ],
+  "description": "Geneesmiddel - 30g",
+  "image": "/medias/sys_master/prd-images/h18/hdb/30236256993310/prd-front-3133859-1_600x600/prd-front-3133859-1-600x600.jpg"
+}

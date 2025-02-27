@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Men Cool Kick Douchegel",
+  "code": "3800924",
+  "price": "7.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-cool-kick-douchegel/p/3800924",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "2 x 250ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h42/hba/28546906095646/prd-front-3800924-1_600x600/prd-front-3800924-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medela Tepelhoedjes",
+  "code": "4349276",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "MEDELA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medela-tepelhoedjes/p/4349276",
+  "listName": "Lister",
+  "brand": "Medela",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30267361,
+      "name": "Borstvoedingsaccessoires"
+    }
+  ],
+  "description": "mt L, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h11/ha9/32147597459486/prd-front-4349276-1_600x600/prd-front-4349276-1-600x600.jpg"
+}

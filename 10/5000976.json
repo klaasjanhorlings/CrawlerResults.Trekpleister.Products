@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Goodbye Stress Doucheschuim",
+  "code": "5000976",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027840",
+  "mmkId": "3027840",
+  "productGroupId": "463670",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kneipp-goodbye-stress-doucheschuim/p/5000976",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267207,
+      "name": "Doucheschuim"
+    }
+  ],
+  "description": "200ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hb4/h05/28577967243294/prd-front-5000976-1_600x600/prd-front-5000976-1-600x600.jpg"
+}

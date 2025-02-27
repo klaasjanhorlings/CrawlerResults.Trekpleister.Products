@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Express Brow Duo 00 Light Blonde Wenkbrauwpotlood",
+  "code": "5580555",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-express-brow-duo-00-light-blonde-wenkbrauwpotlood/p/5580555",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30267467,
+      "name": "Wenkbrauwpotlood"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h39/he4/33482338959390/prd-front-5580555-1_600x600/prd-front-5580555-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Iberogast Druppels bij Prikkelbare Maag- en Darmklachten",
+  "code": "3548931",
+  "price": "20.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3598",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/iberogast-druppels-bij-prikkelbare-maag-en-darmklachten/p/3548931",
+  "listName": "Lister",
+  "brand": "Iberogast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 49950161,
+      "name": "Maag en darmkramp"
+    }
+  ],
+  "description": "Geneesmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/h5c/h8f/31524942020638/prd-front-3548931-1_600x600/prd-front-3548931-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lumineux Bright Pen",
+  "code": "6073807",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
+  "supplier": "ELMARC BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/lumineux-bright-pen/p/6073807",
+  "listName": "Lister",
+  "brand": "Lumineux",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 49742490,
+      "name": "Whitening producten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h31/h4b/30557805608990/prd-front-6073807-1_600x600/prd-front-6073807-1-600x600.jpg"
+}

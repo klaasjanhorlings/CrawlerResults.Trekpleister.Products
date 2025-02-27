@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Essential Clean+ Elektrische Tandenborstel",
+  "code": "5772450",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
+  "supplier": "EUROFOUR BV",
+  "inStock": "inStock",
+  "onPromo": "3027862",
+  "mmkId": "3027862",
+  "productGroupId": "467371",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-essential-clean-elektrische-tandenborstel/p/5772450",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267234,
+      "name": "Elektrische tandenborstels"
+    }
+  ],
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/prd-front-5772450-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE3MDF8aW1hZ2UvanBlZ3xhR0UwTDJnNVppOHhOamN6TnpBMU1qQXpNekExTkM5d2NtUXRabkp2Ym5RdE5UYzNNalExTUMweFh6WXdNSGcyTURBfGI0ZTAxOTA3OWExYTk0ZDUxZDI3YjNhZTQ3OGFiOGMyNDk4MGFjZmFmOTU5MzA2OTM4MDA1MGZlNWFmZDZjYzI"
+}

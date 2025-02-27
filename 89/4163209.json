@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Q10 Energy Healthy Glow Anti-Rimpel Dagcrème",
+  "code": "4163209",
+  "price": "26.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027837",
+  "mmkId": "3027837",
+  "productGroupId": "462499",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-q10-energy-healthy-glow-anti-rimpel-dagcreme/p/4163209",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Normale en vermoeide huid",
+  "image": "/medias/sys_master/prd-images/hb1/h2f/32904095793182/prd-front-4163209-1_600x600/prd-front-4163209-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playing Kids Houten Theeset",
+  "code": "6132803",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 4640 > 5190 > 5369 > 5558",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/playing-kids-houten-theeset/p/6132803",
+  "listName": "Lister",
+  "brand": "Playing Kids",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267079,
+      "name": "Speelfiguren en speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0a/hdf/31620164616222/prd-front-6132803-1_600x600/prd-front-6132803-1-600x600.jpg"
+}

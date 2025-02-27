@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Anti-Luis Shampoo",
+  "code": "5515448",
+  "price": "9.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3103 > 4116",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-anti-luis-shampoo/p/5515448",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267260,
+      "name": "Hoofdluis"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 125ml",
+  "image": "/medias/sys_master/prd-images/he8/h94/28578943008798/prd-front-5515448-1_600x600/prd-front-5515448-1-600x600.jpg"
+}

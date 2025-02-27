@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Europrofit Face Gezichtsreinigingsdoekjes",
+  "code": "4204222",
+  "price": "0.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
+  "supplier": "CODI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/europrofit-face-gezichtsreinigingsdoekjes/p/4204222",
+  "listName": "Lister",
+  "brand": "Europrofit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267471,
+      "name": "Reinigingsdoekjes"
+    }
+  ],
+  "description": "25 stuks - Gevoelige huid",
+  "image": "/medias/prd-front-4204222-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDMxODJ8aW1hZ2UvanBlZ3xhRFptTDJneE1TOHhOekE0TkRFeE1qQXhNVEk1TkM5d2NtUXRabkp2Ym5RdE5ESXdOREl5TWkweFh6WXdNSGcyTURBfGNlM2E2MjJkNTU5YzczY2E1YzFhY2E2ZDBlMzZjYzQ5NjAwNmYyNzIyOTQ2MWJlMWZiNTIxMmQ4ZDdhM2UyNWQ"
+}

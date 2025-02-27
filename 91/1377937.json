@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Ultra Night Plus Maandverband",
+  "code": "1377937",
+  "price": "1.35",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
+  "supplier": "DRYLOCK TECHNOLOGIES SR",
+  "inStock": "inStock",
+  "onPromo": "3027859",
+  "mmkId": "3027859",
+  "productGroupId": "466905",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-ultra-night-plus-maandverband/p/1377937",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267219,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h89/h2c/28551259750430/prd-front-1377937-1_600x600/prd-front-1377937-1-600x600.jpg"
+}

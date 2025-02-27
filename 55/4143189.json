@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kiss Maximum Speed Pink Nail Glue",
+  "code": "4143189",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2684 > 3384",
+  "supplier": "ANVIRI COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "3027838",
+  "mmkId": "3027838",
+  "productGroupId": "462940",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kiss-maximum-speed-pink-nail-glue/p/4143189",
+  "listName": "Lister",
+  "brand": "Kiss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267193,
+      "name": "Nagellijm"
+    }
+  ],
+  "description": ""
+}

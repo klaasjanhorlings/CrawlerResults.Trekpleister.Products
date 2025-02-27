@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Similasan Hooikoorts Oogdruppels",
+  "code": "3145941",
+  "price": "13.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3114 > 3611",
+  "supplier": "BENCKMAR BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/similasan-hooikoorts-oogdruppels/p/3145941",
+  "listName": "Lister",
+  "brand": "Similasan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267258,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30267512,
+      "name": "Hooikoorts oogdruppels"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h3f/ha8/28821531230238/prd-front-3145941-1_600x600/prd-front-3145941-1-600x600.jpg"
+}

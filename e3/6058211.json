@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Advanced Care Deeply Nourishing Douchegel",
+  "code": "6058211",
+  "price": "5.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027766",
+  "mmkId": "3027766",
+  "productGroupId": "454705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-advanced-care-deeply-nourishing-douchegel/p/6058211",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "225ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h4f/ha8/30704119775262/prd-front-6058211-1_600x600/prd-front-6058211-1-600x600.jpg"
+}

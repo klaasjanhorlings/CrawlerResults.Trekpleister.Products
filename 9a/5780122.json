@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "St. Ives Gentle Smoothing Oatmeal Scrub & Mask",
+  "code": "5780122",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/st-ives-gentle-smoothing-oatmeal-scrub-mask/p/5780122",
+  "listName": "Lister",
+  "brand": "St. Ives",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267480,
+      "name": "Reinigingsscrub"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h7c/hdf/28561673846814/prd-front-5780122-1_600x600/prd-front-5780122-1-600x600.jpg"
+}

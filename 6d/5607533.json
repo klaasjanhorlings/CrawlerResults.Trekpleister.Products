@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sensodyne Complete Protection+ Advanced Whitening Tandpasta",
+  "code": "5607533",
+  "price": "7.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sensodyne-complete-protection-advanced-whitening-tandpasta/p/5607533",
+  "listName": "Lister",
+  "brand": "Sensodyne",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h50/h0c/32060140912670/prd-front-5607533-1_600x600/prd-front-5607533-1-600x600.jpg"
+}

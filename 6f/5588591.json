@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Remescar Retinol Anti-Aging Serum",
+  "code": "5588591",
+  "price": "26.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/remescar-retinol-anti-aging-serum/p/5588591",
+  "listName": "Lister",
+  "brand": "Remescar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hf9/h46/29678683029534/prd-front-5588591-1_600x600/prd-front-5588591-1-600x600.jpg"
+}

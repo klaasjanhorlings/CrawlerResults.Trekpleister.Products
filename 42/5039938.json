@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oscillococcinum",
+  "code": "5039938",
+  "price": "32.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2758 > 3948",
+  "supplier": "SALVEO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oscillococcinum/p/5039938",
+  "listName": "Lister",
+  "brand": "Oscillococcinum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267269,
+      "name": "Natuurlijke zelfzorgmiddelen"
+    }
+  ],
+  "description": "Geneesmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/h9e/h63/28577971830814/prd-front-5039938-1_600x600/prd-front-5039938-1-600x600.jpg"
+}

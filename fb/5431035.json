@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Novex My Curls Movie Star Deep Hair Mask",
+  "code": "5431035",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/novex-my-curls-movie-star-deep-hair-mask/p/5431035",
+  "listName": "Lister",
+  "brand": "Novex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "1kg",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

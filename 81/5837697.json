@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Libresse Ultra Normal Maandverband",
+  "code": "5837697",
+  "price": "4.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027781",
+  "mmkId": "3027781",
+  "productGroupId": "457394",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/libresse-ultra-normal-maandverband/p/5837697",
+  "listName": "Lister",
+  "brand": "Libresse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267219,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "30 stuks"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Prostaforce Capsules",
+  "code": "2868559",
+  "price": "49.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6202 > 6220 > 6278",
+  "supplier": "A.VOGEL",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-prostaforce-capsules/p/2868559",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267277,
+      "name": "Prostaatsupplementen"
+    }
+  ],
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/he4/h4d/32568354209822/prd-front-2868559-1_600x600/prd-front-2868559-1-600x600.jpg"
+}

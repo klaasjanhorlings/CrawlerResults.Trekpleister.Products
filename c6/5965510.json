@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Blue Wonder Desinfectie Reiniger Spray",
+  "code": "5965510",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
+  "supplier": "HG INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/blue-wonder-desinfectie-reiniger-spray/p/5965510",
+  "listName": "Lister",
+  "brand": "Blue Wonder",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430563,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "750ml",
+  "image": "/medias/sys_master/prd-images/he6/h4f/28950732046366/prd-front-5965510-1_600x600/prd-front-5965510-1-600x600.jpg"
+}

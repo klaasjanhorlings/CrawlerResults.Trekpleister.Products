@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister 120mg Kinderparacetamol Kauwtabletten",
+  "code": "2722511",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6155 > 6166",
+  "supplier": "AUROBINDO PHARMA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-120mg-kinderparacetamol-kauwtabletten/p/2722511",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267525,
+      "name": "Paracetamol"
+    }
+  ],
+  "description": "Geneesmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/hb7/h0b/32353148567582/prd-front-2722511-1_600x600/prd-front-2722511-1-600x600.jpg"
+}

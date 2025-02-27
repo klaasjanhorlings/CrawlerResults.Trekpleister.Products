@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vitalize Spier Comfort Magnesium Complex",
+  "code": "5945371",
+  "price": "15.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "VITALIZE PRODUCTS BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vitalize-spier-comfort-magnesium-complex/p/5945371",
+  "listName": "Lister",
+  "brand": "Vitalize",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267272,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50002051,
+      "name": "Magnesium"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h40/h4e/30098605998110/prd-front-5945371-1_600x600/prd-front-5945371-1-600x600.jpg"
+}

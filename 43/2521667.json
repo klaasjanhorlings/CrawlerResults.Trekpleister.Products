@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "2TH Picks Onbreekbare Tandenstokers met Unieke Borstelfunctie",
+  "code": "2521667",
+  "price": "6.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 3324 > 4227",
+  "supplier": "RSDW BEHEER BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/2th-picks-onbreekbare-tandenstokers-met-unieke-borstelfunctie/p/2521667",
+  "listName": "Lister",
+  "brand": "2TH",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267224,
+      "name": "Tandenstokers"
+    }
+  ],
+  "description": "2 x 60 stuks",
+  "image": "/medias/sys_master/prd-images/he8/h6c/31036492316702/prd-front-2521667-1_600x600/prd-front-2521667-1-600x600.jpg"
+}

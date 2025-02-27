@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Clotrimazol 10 mg/g Vaginale Crème",
+  "code": "6154916",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3100 > 3963",
+  "supplier": "MAE HOLDING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-clotrimazol-10-mg/g-vaginale-creme/p/6154916",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267259,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 30267513,
+      "name": "Vaginale schimmel"
+    }
+  ],
+  "description": "Geneesmiddel - 50g",
+  "image": "/medias/sys_master/prd-images/h71/h50/32274493538334/prd-front-6154916-1_600x600/prd-front-6154916-1-600x600.jpg"
+}

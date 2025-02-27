@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Elmex Complete Care Caries Protection Plus Tandpasta",
+  "code": "5736585",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027880",
+  "mmkId": "3027880",
+  "productGroupId": "468964",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elmex-complete-care-caries-protection-plus-tandpasta/p/5736585",
+  "listName": "Lister",
+  "brand": "Elmex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml - Anti-cariës",
+  "image": "/medias/sys_master/prd-images/hd6/hb1/30293186379806/prd-front-5736585-1_600x600/prd-front-5736585-1-600x600.jpg"
+}

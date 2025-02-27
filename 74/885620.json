@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Durex Play Sensitive Glijmiddel",
+  "code": "885620",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/durex-play-sensitive-glijmiddel/p/885620",
+  "listName": "Lister",
+  "brand": "Durex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267062,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30267305,
+      "name": "Glijmiddelen en massagegels"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/h04/hfe/28549980028958/prd-front-885620-1_600x600/prd-front-885620-1-600x600.jpg"
+}

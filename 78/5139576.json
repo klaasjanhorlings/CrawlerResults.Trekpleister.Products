@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alpine Sleepsoft Oordoppen",
+  "code": "5139576",
+  "price": "13.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
+  "supplier": "ALPINE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027903",
+  "mmkId": "3027903",
+  "productGroupId": "473980",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/alpine-sleepsoft-oordoppen/p/5139576",
+  "listName": "Lister",
+  "brand": "Alpine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 49950103,
+      "name": "Snurken"
+    }
+  ],
+  "description": "wit",
+  "image": "/medias/sys_master/prd-images/had/he9/28596625702942/prd-front-5139576-1_600x600/prd-front-5139576-1-600x600.jpg"
+}

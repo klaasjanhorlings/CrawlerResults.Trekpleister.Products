@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swiffer Duster Ambi Pur Navullingen",
+  "code": "3864589",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 6076 > 6077",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/swiffer-duster-ambi-pur-navullingen/p/3864589",
+  "listName": "Lister",
+  "brand": "Swiffer",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430573,
+      "name": "Schoonmaakartikelen"
+    }
+  ],
+  "description": "7 stuks",
+  "image": "/medias/sys_master/prd-images/h09/h0e/30800405495838/prd-front-3864589-1_600x600/prd-front-3864589-1-600x600.jpg"
+}

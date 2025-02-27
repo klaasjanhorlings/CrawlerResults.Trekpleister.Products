@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B Essential Waxed Dental Floss",
+  "code": "16070",
+  "price": "2.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2903 > 3700",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-essential-waxed-dental-floss/p/16070",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267225,
+      "name": "Flosdraad"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9b/h8c/31167601803294/prd-front-16070-1_600x600/prd-front-16070-1-600x600.jpg"
+}

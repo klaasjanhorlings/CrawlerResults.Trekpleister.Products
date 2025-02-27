@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Advanced Care Original Antitranspirant Deodorant Spray",
+  "code": "4978898",
+  "price": "32.94",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-advanced-care-original-antitranspirant-deodorant-spray/p/4978898",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "6 x 150ml",
+  "image": "/medias/sys_master/prd-images/h32/h39/28818379276318/prd-front-4978898-1_600x600/prd-front-4978898-1-600x600.jpg"
+}

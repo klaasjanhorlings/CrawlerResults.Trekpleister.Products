@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Arnica D6 Druppels",
+  "code": "26298",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "A.VOGEL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-arnica-d6-druppels/p/26298",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267269,
+      "name": "Natuurlijke zelfzorgmiddelen"
+    }
+  ],
+  "description": "Geneesmiddel - 20ml",
+  "image": "/medias/sys_master/prd-images/hdd/h81/33353003991070/prd-front-26298-1_600x600/prd-front-26298-1-600x600.jpg"
+}

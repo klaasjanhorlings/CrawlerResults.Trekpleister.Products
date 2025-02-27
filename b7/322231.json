@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guhl Protecture 7 Middenblond Beschermende Crème-Haarkleuring",
+  "code": "322231",
+  "price": "18.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "3027774",
+  "mmkId": "3027774",
+  "productGroupId": "455882",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/guhl-protecture-7-middenblond-beschermende-creme-haarkleuring/p/322231",
+  "listName": "Lister",
+  "brand": "Guhl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha5/h56/29116692693022/prd-front-322231-1_600x600/prd-front-322231-1-600x600.jpg"
+}

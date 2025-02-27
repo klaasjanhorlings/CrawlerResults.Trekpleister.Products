@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Studio Line Special FX Out Of Bed Fibre Cream",
+  "code": "2896475",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2838 > 3578",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027771",
+  "mmkId": "3027771",
+  "productGroupId": "455800",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-studio-line-special-fx-out-of-bed-fibre-cream/p/2896475",
+  "listName": "Lister",
+  "brand": "Studioline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267485,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h77/hff/28547552411678/prd-front-2896475-1_600x600/prd-front-2896475-1-600x600.jpg"
+}

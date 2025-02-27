@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Veet Minima Ontharingsgcrème",
+  "code": "5120193",
+  "price": "8.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 2839 > 3579",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3027841",
+  "mmkId": "3027841",
+  "productGroupId": "464695",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/veet-minima-ontharingsgcreme/p/5120193",
+  "listName": "Lister",
+  "brand": "Veet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267239,
+      "name": "Ontharingscreme, wax en hars"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/ha0/h6d/28551598342174/prd-front-5120193-1_600x600/prd-front-5120193-1-600x600.jpg"
+}

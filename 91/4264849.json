@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "O'Keeffe's Working Hands Handcrème",
+  "code": "4264849",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 3125 > 3990",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/okeeffes-working-hands-handcreme/p/4264849",
+  "listName": "Lister",
+  "brand": "O'Keeffe's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267245,
+      "name": "Handcrèmes"
+    }
+  ],
+  "description": "96g",
+  "image": "/medias/sys_master/prd-images/h95/he7/33408248905758/prd-front-4264849-1_600x600/prd-front-4264849-1-600x600.jpg"
+}

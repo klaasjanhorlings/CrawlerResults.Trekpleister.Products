@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Series 3100 S3144/00 Scheerapparaat",
+  "code": "5951895",
+  "price": "69.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6441",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "3027884",
+  "mmkId": "3027884",
+  "productGroupId": "469322",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-series-3100-s3144/00-scheerapparaat/p/5951895",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267237,
+      "name": "Elektrische scheerapparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h19/h41/33185438466078/prd-front-5951895-1_600x600/prd-front-5951895-1-600x600.jpg"
+}

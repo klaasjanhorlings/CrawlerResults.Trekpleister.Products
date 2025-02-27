@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tommy Hilfiger Girl Eau de Toilette",
+  "code": "4998267",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tommy-hilfiger-girl-eau-de-toilette/p/4998267",
+  "listName": "Lister",
+  "brand": "Tommy Hilfiger",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb1/h0c/29832580464670/prd-front-4998267-1_600x600/prd-front-4998267-1-600x600.jpg"
+}

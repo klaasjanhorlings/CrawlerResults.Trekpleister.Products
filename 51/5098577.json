@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bausch & Lomb ReNu MPS Sensitive Eyes Flightpack",
+  "code": "5098577",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bausch-lomb-renu-mps-sensitive-eyes-flightpack/p/5098577",
+  "listName": "Lister",
+  "brand": "Bausch & Lomb",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267064,
+      "name": "Optiek"
+    },
+    {
+      "id": 30267314,
+      "name": "Lenzenvloeistof"
+    }
+  ],
+  "description": "2 x 60ml",
+  "image": "/medias/sys_master/prd-images/h61/h50/31761682464798/prd-front-5098577-1_600x600/prd-front-5098577-1-600x600.jpg"
+}

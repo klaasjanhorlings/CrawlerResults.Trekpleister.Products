@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Weleda Baby Calendula Gezichtscrème",
+  "code": "5901726",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
+  "supplier": "WELEDA BENELUX SE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/weleda-baby-calendula-gezichtscreme/p/5901726",
+  "listName": "Lister",
+  "brand": "Weleda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267575,
+      "name": "Babycreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hfd/hf9/29056893976606/prd-front-5901726-1_600x600/prd-front-5901726-1-600x600.jpg"
+}

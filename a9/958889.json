@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Boldocynara Tabletten",
+  "code": "958889",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 6611",
+  "supplier": "A.VOGEL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-boldocynara-tabletten/p/958889",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267269,
+      "name": "Natuurlijke zelfzorgmiddelen"
+    }
+  ],
+  "description": "Geneesmiddel - 80 stuks",
+  "image": "/medias/sys_master/prd-images/hf7/h6b/33389952368670/prd-front-958889-1_600x600/prd-front-958889-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Syoss Intense Volume Shampoo",
+  "code": "5244667",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027854",
+  "mmkId": "3027854",
+  "productGroupId": "466332",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-intense-volume-shampoo/p/5244667",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "440ml",
+  "image": "/medias/sys_master/prd-images/hcc/h4b/33103479570462/prd-front-5244667-1_600x600/prd-front-5244667-1-600x600.jpg"
+}

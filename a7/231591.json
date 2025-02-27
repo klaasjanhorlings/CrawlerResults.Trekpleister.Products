@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "HG Onderhoudsmonteur voor (Vaat)wasmachines",
+  "code": "231591",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3012 > 3837",
+  "supplier": "HG INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hg-onderhoudsmonteur-voor-vaatwasmachines/p/231591",
+  "listName": "Lister",
+  "brand": "HG",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267114,
+      "name": "Vaatwas"
+    },
+    {
+      "id": 30267440,
+      "name": "Reiniging vaatwasser"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-231591-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzUyNDl8aW1hZ2UvanBlZ3xhRE5sTDJnMFppOHhOak0wTmpBMk1EVTFOREkzTUM5d2NtUXRabkp2Ym5RdE1qTXhOVGt4TFRGZk5qQXdlRFl3TUF8NTEyODQzYWVlZDE1YzNlNDNjZmIwMjRmMjQ3MzAwOTVmZWQ3YzY0ZmIwOTUyNDlhYzk3ZTcwZGNiZjNkMTU0Mg"
+}

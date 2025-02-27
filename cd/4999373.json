@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guess Seductive Noir Bodymist",
+  "code": "4999373",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/guess-seductive-noir-bodymist/p/4999373",
+  "listName": "Lister",
+  "brand": "Guess",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/prd-front-4999373-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQ3MjB8aW1hZ2UvanBlZ3xhR1E0TDJneFlpOHhOelF3TkRNek5EazJORGMyTmk5d2NtUXRabkp2Ym5RdE5EazVPVE0zTXkweFh6WXdNSGcyTURBfDg1NmMwM2M5NDU4MGU0NzY4ZjY4MTlhMWUzYWJjODBhODQ4Y2MxYTA2ODM0NTEwMGYzNzA1NTdjM2UzNTE2NjM"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "o.b. ProComfort Mini Tampons",
+  "code": "5451132",
+  "price": "2.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3043 > 3658",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "3027775",
+  "mmkId": "3027775",
+  "productGroupId": "456232",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ob-procomfort-mini-tampons/p/5451132",
+  "listName": "Lister",
+  "brand": "Ob",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267218,
+      "name": "Tampons"
+    }
+  ],
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h25/h3b/32021029879838/prd-front-5451132-1_600x600/prd-front-5451132-1-600x600.jpg"
+}

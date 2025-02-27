@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Glucosamine Chondroitine 1500/500 mg Tabletten",
+  "code": "2158962",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-glucosamine-chondroitine-1500/500-mg-tabletten/p/2158962",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267282,
+      "name": "Glucosamine"
+    }
+  ],
+  "description": "150 stuks",
+  "image": "/medias/prd-front-2158962-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTI2ODd8aW1hZ2UvanBlZ3xhRE0xTDJnMllpOHhOalUzTWpJNU5UQTROakV4TUM5d2NtUXRabkp2Ym5RdE1qRTFPRGsyTWkweFh6WXdNSGcyTURBfDE5ZjE2NmRiNDIzZDY5OTdlOThkZmE4NjQ0ZGMwM2VjNWY3ZWM4NWZhZDM0YWRjZTU2ODIzNDA3ODY4ZWJlNTA"
+}

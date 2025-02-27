@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Zero% Sensitive 48H Deodorant Spray",
+  "code": "2767969",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027757",
+  "mmkId": "3027757",
+  "productGroupId": "452755",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-zero-sensitive-48h-deodorant-spray/p/2767969",
+  "listName": "Lister",
+  "brand": "Sanex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "200ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hc9/h4f/31823394373662/prd-front-2767969-1_600x600/prd-front-2767969-1-600x600.jpg"
+}

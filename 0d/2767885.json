@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Zero% Respect & Control 48H Deodorant Spray",
+  "code": "2767885",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027757",
+  "mmkId": "3027757",
+  "productGroupId": "452755",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-zero-respect-control-48h-deodorant-spray/p/2767885",
+  "listName": "Lister",
+  "brand": "Sanex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "200ml - Alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h1c/h44/31823072100382/prd-front-2767885-1_600x600/prd-front-2767885-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aspirine 500mg Tabletten",
+  "code": "29429",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6154 > 6161",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aspirine-500mg-tabletten/p/29429",
+  "listName": "Lister",
+  "brand": "Aspirine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267527,
+      "name": "Acetylsalicylzuur"
+    }
+  ],
+  "description": "Geneesmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h72/hd8/29829977309214/prd-front-29429-1_600x600/prd-front-29429-1-600x600.jpg"
+}

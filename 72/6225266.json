@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Technic 42197 Graaflaadmachine",
+  "code": "6225266",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-technic-42197-graaflaadmachine/p/6225266",
+  "listName": "Lister",
+  "brand": "LEGO Technic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267381,
+      "name": "LEGO Technic"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h62/hc8/33143607722014/prd-front-6225266-1_600x600/prd-front-6225266-1-600x600.jpg"
+}

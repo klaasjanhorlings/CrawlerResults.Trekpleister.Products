@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "o.b. ExtraProtect Super Tampons",
+  "code": "5451188",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3303 > 3660",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ob-extraprotect-super-tampons/p/5451188",
+  "listName": "Lister",
+  "brand": "Ob",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267218,
+      "name": "Tampons"
+    }
+  ],
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/ha2/h37/32018492391454/prd-front-5451188-1_600x600/prd-front-5451188-1-600x600.jpg"
+}

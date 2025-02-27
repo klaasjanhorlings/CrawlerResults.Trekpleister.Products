@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "ThermaCare Nek-Schouder-Pols Warmtekompressen",
+  "code": "1836416",
+  "price": "14.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
+  "supplier": "NAVAMEDIC AB",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/thermacare-nek-schouder-pols-warmtekompressen/p/1836416",
+  "listName": "Lister",
+  "brand": "ThermaCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267535,
+      "name": "Warmtepleisters"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/hc6/hf7/28575757238302/prd-front-1836416-1_600x600/prd-front-1836416-1-600x600.jpg"
+}

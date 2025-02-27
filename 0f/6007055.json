@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London Kind & Free 002 Peachy Cheeks Tinted Multi-Stick",
+  "code": "6007055",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-kind-free-002-peachy-cheeks-tinted-multi-stick/p/6007055",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267139,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/heb/h1d/29795546890270/prd-front-6007055-1_600x600/prd-front-6007055-1-600x600.jpg"
+}

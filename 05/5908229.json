@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fa Cocomilk Douchecrème",
+  "code": "5908229",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027767",
+  "mmkId": "3027767",
+  "productGroupId": "454958",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fa-cocomilk-douchecreme/p/5908229",
+  "listName": "Lister",
+  "brand": "Fa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h28/h84/31037188276254/prd-front-5908229-1_600x600/prd-front-5908229-1-600x600.jpg"
+}

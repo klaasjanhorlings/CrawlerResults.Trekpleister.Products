@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dagravit Vitamine B-Complex Dragees",
+  "code": "21731",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dagravit-vitamine-b-complex-dragees/p/21731",
+  "listName": "Lister",
+  "brand": "Dagravit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267548,
+      "name": "Vitamine B"
+    }
+  ],
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h0a/h87/33268143849502/prd-front-21731-1_600x600/prd-front-21731-1-600x600.jpg"
+}

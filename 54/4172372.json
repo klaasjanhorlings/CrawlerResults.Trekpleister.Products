@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Instant Age Rewind Eraser 5 Brightener Eye Concealer",
+  "code": "4172372",
+  "price": "14.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3027873",
+  "mmkId": "3027873",
+  "productGroupId": "468329",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-instant-age-rewind-eraser-5-brightener-eye-concealer/p/4172372",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267135,
+      "name": "Concealer"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbe/h07/33483687165982/prd-front-4172372-1_600x600/prd-front-4172372-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nisita Neuszalf",
+  "code": "5749262",
+  "price": "7.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3530",
+  "supplier": "SALVEO PHARMA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nisita-neuszalf/p/5749262",
+  "listName": "Lister",
+  "brand": "Nisita",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 49949778,
+      "name": "Neuszalf"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10g",
+  "image": "/medias/sys_master/prd-images/h76/hc1/29031876821022/prd-front-5749262-1_600x600/prd-front-5749262-1-600x600.jpg"
+}

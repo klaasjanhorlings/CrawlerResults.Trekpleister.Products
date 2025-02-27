@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Davitamon Vitamine C Forte + Extra D3 Time-Release Tabletten",
+  "code": "3424485",
+  "price": "11.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/davitamon-vitamine-c-forte-extra-d3-time-release-tabletten/p/3424485",
+  "listName": "Lister",
+  "brand": "Davitamon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267549,
+      "name": "Vitamine C"
+    }
+  ],
+  "description": "42 stuks",
+  "image": "/medias/sys_master/prd-images/h17/h46/31477317992478/prd-front-3424485-1_600x600/prd-front-3424485-1-600x600.jpg"
+}

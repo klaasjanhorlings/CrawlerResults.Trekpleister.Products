@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SheaMoisture Manuka Honey & Mafura Oil Intensief Hydraterende Leave-In Conditioner",
+  "code": "6069320",
+  "price": "18.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sheamoisture-manuka-honey-mafura-oil-intensief-hydraterende-leave-in-conditioner/p/6069320",
+  "listName": "Lister",
+  "brand": "SheaMoisture",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49745451,
+      "name": "Leave-in conditioner"
+    }
+  ],
+  "description": "326ml",
+  "image": "/medias/sys_master/prd-images/h25/hba/30586112475166/prd-front-6069320-1_600x600/prd-front-6069320-1-600x600.jpg"
+}

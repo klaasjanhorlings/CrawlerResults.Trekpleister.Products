@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Roter Vitamine C 70mg Citroen Kauwtabletten",
+  "code": "1998725",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027847",
+  "mmkId": "3027847",
+  "productGroupId": "465773",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/roter-vitamine-c-70mg-citroen-kauwtabletten/p/1998725",
+  "listName": "Lister",
+  "brand": "Roter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267549,
+      "name": "Vitamine C"
+    }
+  ],
+  "description": "400 stuks",
+  "image": "/medias/sys_master/prd-images/h33/h8e/33186113945630/prd-front-1998725-1_600x600/prd-front-1998725-1-600x600.jpg"
+}

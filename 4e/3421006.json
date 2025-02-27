@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Colgate Max Fresh Active & Clean Protect Tandpasta",
+  "code": "3421006",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027879",
+  "mmkId": "3027879",
+  "productGroupId": "468957",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/colgate-max-fresh-active-clean-protect-tandpasta/p/3421006",
+  "listName": "Lister",
+  "brand": "Colgate",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml - Frisse adem"
+}

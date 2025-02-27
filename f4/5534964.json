@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Voetvijl",
+  "code": "5534964",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6332",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-voetvijl/p/5534964",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267191,
+      "name": "Nagelvijlen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5534964-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTQ5OTJ8aW1hZ2UvanBlZ3xhR1kxTDJnd1ppOHhOekEyT0RneE16TXlNREl5TWk5d2NtUXRabkp2Ym5RdE5UVXpORGsyTkMweFh6WXdNSGcyTURBfDYwNGQ2ZGVlOWRjZDA2Y2RkZjM2YjA5ZGE4ZjYwNTYxNDFhZDNmMDQ4ODk0ZDI4ZGE3ZDA5ZWMyMzJjNjMyMTY"
+}

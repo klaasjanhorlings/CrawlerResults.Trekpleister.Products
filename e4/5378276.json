@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Got2b Volumizing Styling Powder",
+  "code": "5378276",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3326 > 3697",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027854",
+  "mmkId": "3027854",
+  "productGroupId": "466332",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/got2b-volumizing-styling-powder/p/5378276",
+  "listName": "Lister",
+  "brand": "Got2B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267489,
+      "name": "Haarpoeder"
+    }
+  ],
+  "description": "10g",
+  "image": "/medias/prd-front-5378276-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzk0MDB8aW1hZ2UvanBlZ3xhRGc0TDJobE5TOHhOekEyTURBME5qVXdNemsyTmk5d2NtUXRabkp2Ym5RdE5UTTNPREkzTmkweFh6WXdNSGcyTURBfDBkMDFmOGM4MGZjZjlmNjg0MDY4MzZjN2EyZGIzNzBlNmI5YWRjMmZkZTIyNzAyMjk2YmE2NjdlNTNiM2Q3NGM"
+}

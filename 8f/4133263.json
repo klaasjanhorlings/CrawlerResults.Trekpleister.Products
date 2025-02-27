@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "VSM Tonsiotreen Zuigtabletten",
+  "code": "4133263",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
+  "supplier": "HEEL BIOLOGISCHE GENEES",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vsm-tonsiotreen-zuigtabletten/p/4133263",
+  "listName": "Lister",
+  "brand": "VSM",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267269,
+      "name": "Natuurlijke zelfzorgmiddelen"
+    }
+  ],
+  "description": "Geneesmiddel - 40 stuks",
+  "image": "/medias/sys_master/prd-images/h30/hb0/32294913540126/prd-front-4133263-1_600x600/prd-front-4133263-1-600x600.jpg"
+}

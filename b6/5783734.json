@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Infaillible 24H Brow 3.0 Brunette Filling Triangular Pencil",
+  "code": "5783734",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-infaillible-24h-brow-30-brunette-filling-triangular-pencil/p/5783734",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30267467,
+      "name": "Wenkbrauwpotlood"
+    }
+  ],
+  "description": "1ml",
+  "image": "/medias/sys_master/prd-images/h84/hc6/28552192360478/prd-front-5783734-1_600x600/prd-front-5783734-1-600x600.jpg"
+}

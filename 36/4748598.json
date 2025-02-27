@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Strepsils Aardbei Suikervrij Zuigtabletten",
+  "code": "4748598",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/strepsils-aardbei-suikervrij-zuigtabletten/p/4748598",
+  "listName": "Lister",
+  "brand": "Strepsils",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267520,
+      "name": "Keelpastilles"
+    }
+  ],
+  "description": "Geneesmiddel - 24 stuks",
+  "image": "/medias/sys_master/prd-images/h24/hda/28551697170462/prd-front-4748598-1_600x600/prd-front-4748598-1-600x600.jpg"
+}

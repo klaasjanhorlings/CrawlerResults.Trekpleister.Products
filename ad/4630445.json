@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Organix 6+M Mango, Peer & Granola Knijpfruit",
+  "code": "4630445",
+  "price": "1.45",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "HERO NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/organix-6m-mango-peer-granola-knijpfruit/p/4630445",
+  "listName": "Lister",
+  "brand": "Organix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267564,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h39/h89/32823868194846/prd-front-4630445-1_600x600/prd-front-4630445-1-600x600.jpg"
+}

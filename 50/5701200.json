@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olay Eyes Collageenpeptide 24 Max Oogcrème",
+  "code": "5701200",
+  "price": "41.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027851",
+  "mmkId": "3027851",
+  "productGroupId": "465965",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olay-eyes-collageenpeptide-24-max-oogcreme/p/5701200",
+  "listName": "Lister",
+  "brand": "Olay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267161,
+      "name": "Oogcreme"
+    }
+  ],
+  "description": "15ml, rijpe huid",
+  "image": "/medias/sys_master/prd-images/hcc/hdb/31242872782878/prd-front-5701200-1_600x600/prd-front-5701200-1-600x600.jpg"
+}

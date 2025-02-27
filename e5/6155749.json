@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "EasyGlide Toycleaner",
+  "code": "6155749",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 6463 > 6464 > 6401",
+  "supplier": "ONE-DC B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/easyglide-toycleaner/p/6155749",
+  "listName": "Lister",
+  "brand": "Easyglide",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267062,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30267304,
+      "name": "Seksspeeltjes"
+    },
+    {
+      "id": 30267556,
+      "name": "Vibrator"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h2c/ha0/31587760046110/prd-front-6155749-1_600x600/prd-front-6155749-1-600x600.jpg"
+}

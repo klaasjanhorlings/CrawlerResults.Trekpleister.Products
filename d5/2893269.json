@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Studio Line Invisi Fix 24H Clear & Clean Gel Strong",
+  "code": "2893269",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027771",
+  "mmkId": "3027771",
+  "productGroupId": "455800",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-studio-line-invisi-fix-24h-clear-clean-gel-strong/p/2893269",
+  "listName": "Lister",
+  "brand": "Studioline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h6d/ha1/28547551756318/prd-front-2893269-1_600x600/prd-front-2893269-1-600x600.jpg"
+}

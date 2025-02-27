@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wella Ultra Sterk Haarmousse",
+  "code": "1269766",
+  "price": "4.35",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
+  "supplier": "WELLA COMPANY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wella-ultra-sterk-haarmousse/p/1269766",
+  "listName": "Lister",
+  "brand": "Wella",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267491,
+      "name": "Haarmousse"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/ha5/ha5/28550276710430/prd-front-1269766-1_600x600/prd-front-1269766-1-600x600.jpg"
+}

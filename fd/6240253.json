@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Baby-Dry Maat 2 Luiers",
+  "code": "6240253",
+  "price": "14.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027791",
+  "mmkId": "3027791",
+  "productGroupId": "457990",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-baby-dry-maat-2-luiers/p/6240253",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267342,
+      "name": "Luiers maat 2"
+    }
+  ],
+  "description": "mt 2 (4-8kg), 42 stuks",
+  "image": "/medias/sys_master/prd-images/h61/hf8/33430901424158/prd-front-6240253-1_600x600/prd-front-6240253-1-600x600.jpg"
+}

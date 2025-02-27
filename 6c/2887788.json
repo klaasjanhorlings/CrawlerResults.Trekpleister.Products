@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Parodontax Whitening Tandpasta",
+  "code": "2887788",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/parodontax-whitening-tandpasta/p/2887788",
+  "listName": "Lister",
+  "brand": "Parodontax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 2 x 75ml",
+  "image": "/medias/prd-front-2887788-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTM5NTB8aW1hZ2UvanBlZ3xhREU1TDJnM05DOHhOekV6T0RVMk9URTRNekkyTWk5d2NtUXRabkp2Ym5RdE1qZzROemM0T0MweFh6WXdNSGcyTURBfGRkODBjYjczYWE0MjIyNTgzYjE3MTY5YTkzOTRiNTQ1YjM5ZDVkZTg2MTE5NWI0NmU3ZjNkMzA2N2YzYjk1OWQ"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Odorex Extra Dry Antitranspirant Depper",
+  "code": "948116",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/odorex-extra-dry-antitranspirant-depper/p/948116",
+  "listName": "Lister",
+  "brand": "Odorex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267199,
+      "name": "Deodorant creme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-948116-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTI3OTd8aW1hZ2UvanBlZ3xhR1V6TDJnMU9TOHhOalkzTkRBeU5UUTNNakF6TUM5d2NtUXRabkp2Ym5RdE9UUTRNVEUyTFRGZk5qQXdlRFl3TUF8YjBkMzQwNWY2ZjhiMjc1NjgxYzg5MmRjYTE1OGYzZGFmYWMwMmFhZDA2Nzk3YmY1YjJjYTlhMjJiN2IxNTJiNw"
+}

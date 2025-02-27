@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Steradent Triple Action Plus Reinigingstabletten",
+  "code": "152891",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/steradent-triple-action-plus-reinigingstabletten/p/152891",
+  "listName": "Lister",
+  "brand": "Steradent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267229,
+      "name": "Kunstgebitreiniger"
+    }
+  ],
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h18/h87/28789137997854/prd-front-152891-1_600x600/prd-front-152891-1-600x600.jpg"
+}

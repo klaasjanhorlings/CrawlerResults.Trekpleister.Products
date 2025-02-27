@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mycosan Voetschimmel Behandelset",
+  "code": "4084277",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6450 > 3458",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/mycosan-voetschimmel-behandelset/p/4084277",
+  "listName": "Lister",
+  "brand": "Mycosan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48237626,
+      "name": "Voetschimmelbehandeling"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 15ml",
+  "image": "/medias/prd-front-4084277-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk4NjB8aW1hZ2UvanBlZ3xhR1kyTDJnNU5pOHlOalkzTXpBME1qUTFOall3Tmk5d2NtUXRabkp2Ym5RdE5EQTROREkzTnkweFh6WXdNSGcyTURBfDQwNDU4OTAwMTU0MWVlZDcyY2YwZGNkNTAzZjQyYzc1ODg3YjQzNTU3ODVjNjhkZTczOTFmMTViMDY2ODkyNzI"
+}

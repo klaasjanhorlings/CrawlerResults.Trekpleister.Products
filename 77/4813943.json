@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sheba Délices du Jour in Saus met Zalm, Tonijn & Kabeljauw Maaltijdzakjes Kattenvoer",
+  "code": "4813943",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2081 > 2239 > 2360 > 2911 > 4250",
+  "supplier": "MARS PETFOODS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sheba-delices-du-jour-in-saus-met-zalm-tonijn-kabeljauw-maaltijdzakjes-kattenvoer/p/4813943",
+  "listName": "Lister",
+  "brand": "Sheba",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267128,
+      "name": "Dier"
+    },
+    {
+      "id": 30267446,
+      "name": "Diervoeding"
+    }
+  ],
+  "description": "36 x 50g",
+  "image": "/medias/sys_master/prd-images/h83/h6f/28577853866014/prd-front-4813943-1_600x600/prd-front-4813943-1-600x600.jpg"
+}

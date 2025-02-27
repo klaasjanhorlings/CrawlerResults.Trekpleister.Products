@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Davitamon Compleet Weerstand Dragees",
+  "code": "3587984",
+  "price": "23.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/davitamon-compleet-weerstand-dragees/p/3587984",
+  "listName": "Lister",
+  "brand": "Davitamon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267274,
+      "name": "Weerstand en of energie"
+    }
+  ],
+  "description": "150 stuks",
+  "image": "/medias/sys_master/prd-images/hfc/hc6/31461927223326/prd-front-3587984-1_600x600/prd-front-3587984-1-600x600.jpg"
+}

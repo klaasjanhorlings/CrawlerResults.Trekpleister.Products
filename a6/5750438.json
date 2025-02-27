@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 6+M Banaan Aardbei Knijpfruit",
+  "code": "5750438",
+  "price": "1.15",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-6m-banaan-aardbei-knijpfruit/p/5750438",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267564,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/prd-front-5750438-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzg3Mjd8aW1hZ2UvanBlZ3xhREJtTDJnek9DOHhOekExTnpVd05qQTJOalEyTWk5d2NtUXRabkp2Ym5RdE5UYzFNRFF6T0MweFh6WXdNSGcyTURBfDNhMmI5MGFhNWVkYTMxN2JjOGExNWUwODMwMDg0NzJlNzRhMTljZTE3OGQzNzYxODBmNzU2YmU1ZWY0ODBkZWI"
+}

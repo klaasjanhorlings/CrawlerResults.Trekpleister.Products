@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lactona Easyclean 5.0mm Ragers",
+  "code": "6060605",
+  "price": "6.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lactona-easyclean-50mm-ragers/p/6060605",
+  "listName": "Lister",
+  "brand": "Lactona",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267226,
+      "name": "Tandenragers"
+    }
+  ],
+  "description": "mt M, 8 stuks",
+  "image": "/medias/sys_master/prd-images/h09/h61/30858370678814/prd-front-6060605-1_600x600/prd-front-6060605-1-600x600.jpg"
+}

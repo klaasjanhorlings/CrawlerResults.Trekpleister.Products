@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Page Compleet Schoon Toiletpapier",
+  "code": "5386046",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
+  "supplier": "KIMBERLY-CLARK BV",
+  "inStock": "inStock",
+  "onPromo": "3027062",
+  "mmkId": "3027062",
+  "productGroupId": "460325",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/page-compleet-schoon-toiletpapier/p/5386046",
+  "listName": "Lister",
+  "brand": "Page",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267123,
+      "name": "Toiletpapier"
+    }
+  ],
+  "description": "6 rollen",
+  "image": "/medias/sys_master/prd-images/he1/he9/28559567814686/prd-front-5386046-1_600x600/prd-front-5386046-1-600x600.jpg"
+}

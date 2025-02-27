@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Advanced Care Invisible Dry Clean Touch Antitranspirant Deodorant Spray",
+  "code": "806261",
+  "price": "6.15",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-advanced-care-invisible-dry-clean-touch-antitranspirant-deodorant-spray/p/806261",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h14/h7a/33199834464286/prd-front-806261-1_600x600/prd-front-806261-1-600x600.jpg"
+}

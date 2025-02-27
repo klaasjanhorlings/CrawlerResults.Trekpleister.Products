@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nicorette Invisi 10mg Nicotinepleisters",
+  "code": "5876960",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 4054",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nicorette-invisi-10mg-nicotinepleisters/p/5876960",
+  "listName": "Lister",
+  "brand": "Nicorette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267266,
+      "name": "Stoppen met roken"
+    },
+    {
+      "id": 30267539,
+      "name": "Nicotinepleisters"
+    }
+  ],
+  "description": "Geneesmiddel - 14 stuks",
+  "image": "/medias/sys_master/prd-images/h94/hce/33056728743966/prd-front-5876960-1_600x600/prd-front-5876960-1-600x600.jpg"
+}

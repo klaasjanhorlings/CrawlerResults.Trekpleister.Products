@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Curanol Tabletten",
+  "code": "3758651",
+  "price": "6.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2500 > 3102 > 3965",
+  "supplier": "NIA CARE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/curanol-tabletten/p/3758651",
+  "listName": "Lister",
+  "brand": "Curanol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267259,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 49949757,
+      "name": "Anale verzorging"
+    }
+  ],
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/h28/hbd/29035059806238/prd-front-3758651-1_600x600/prd-front-3758651-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Oorspray",
+  "code": "5440471",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-oorspray/p/5440471",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267505,
+      "name": "Oorspray"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/h1d/h47/32896711000094/prd-front-5440471-1_600x600/prd-front-5440471-1-600x600.jpg"
+}

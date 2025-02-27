@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Tattoo Liner Black Ink Pen",
+  "code": "5783237",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3027873",
+  "mmkId": "3027873",
+  "productGroupId": "468329",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-tattoo-liner-black-ink-pen/p/5783237",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267143,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "1ml",
+  "image": "/medias/prd-front-5783237-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQxNTd8aW1hZ2UvanBlZ3xhRFE1TDJobU5TOHlOalUzTkRrNU56ZzRNRGcyTWk5d2NtUXRabkp2Ym5RdE5UYzRNekl6TnkweFh6WXdNSGcyTURBfGRlOTYxM2U2MjJiYzE0MzQ2M2IyZWEyYjJlZGVkOTI2MWZjZmRhOGY3ZDEyMDk5YzgyMjYzMTA1YmM0MTdiZTA"
+}

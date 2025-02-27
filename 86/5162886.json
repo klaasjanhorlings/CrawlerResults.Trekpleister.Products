@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lactacyd 0% Intieme Wasgel",
+  "code": "5162886",
+  "price": "8.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lactacyd-0-intieme-wasgel/p/5162886",
+  "listName": "Lister",
+  "brand": "Lactacyd",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267222,
+      "name": "Intieme hygiëne"
+    }
+  ],
+  "description": "250ml - Intiem Verzorging",
+  "image": "/medias/prd-front-5162886-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDMxMTV8aW1hZ2UvanBlZ3xhRGN4TDJoaE9DOHlOalEwTmpFd056STNPVE01TUM5d2NtUXRabkp2Ym5RdE5URTJNamc0TmkweFh6WXdNSGcyTURBfDI4Y2ZmNmIwZGQwZmFlYjg4MmQ2ZDgxYWQ2YzlkYTVkZTQyODljYzA2YmI5MzZkMmVlMjcwZDVkNWIzYTliZjY"
+}

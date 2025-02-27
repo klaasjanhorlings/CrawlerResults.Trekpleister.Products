@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Magnesium Kauwtabletten",
+  "code": "4269266",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-magnesium-kauwtabletten/p/4269266",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267272,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50002051,
+      "name": "Magnesium"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hb2/h59/29570327707678/prd-front-4269266-1_600x600/prd-front-4269266-1-600x600.jpg"
+}

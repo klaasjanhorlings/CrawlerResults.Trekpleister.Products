@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Glade by Brise Aerosol Relaxing Zen Luchtverfrisser",
+  "code": "3178414",
+  "price": "2.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 3063 > 4145",
+  "supplier": "S.C. JOHNSON",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/glade-by-brise-aerosol-relaxing-zen-luchtverfrisser/p/3178414",
+  "listName": "Lister",
+  "brand": "Glade by Brise",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267126,
+      "name": "Luchtverfrissers"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hd0/hc9/31178098212894/prd-front-3178414-1_600x600/prd-front-3178414-1-600x600.jpg"
+}

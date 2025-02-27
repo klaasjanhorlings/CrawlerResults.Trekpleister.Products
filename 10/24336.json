@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leukosilk Hechtpleister",
+  "code": "24336",
+  "price": "4.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 2690 > 3390",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3027887",
+  "mmkId": "3027887",
+  "productGroupId": "469869",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/leukosilk-hechtpleister/p/24336",
+  "listName": "Lister",
+  "brand": "Leukosilk",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 49259483,
+      "name": "Hechtpleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 500cm x 2,5cm",
+  "image": "/medias/prd-front-24336-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzU4MzR8aW1hZ2UvanBlZ3xhR1UxTDJnek5pOHhOakl5T0RVeE56Z3dOakV4TUM5d2NtUXRabkp2Ym5RdE1qUXpNell0TVY4Mk1EQjROakF3fDJiOTNmZDU0ZTJjOTgzYjI5NzFjYmY1MDhiMDVlYjYzZjc5NjgwNGZkMjBhMzUxYTM5ZmNlNjAwODg3NDhhNjY"
+}

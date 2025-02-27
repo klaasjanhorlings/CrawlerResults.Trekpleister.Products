@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fluimucil Drank",
+  "code": "2597239",
+  "price": "8.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fluimucil-drank/p/2597239",
+  "listName": "Lister",
+  "brand": "Fluimucil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267517,
+      "name": "Hoestdrank"
+    }
+  ],
+  "description": "Geneesmiddel - Bij vastzittende hoest door taai slijm, 200ml",
+  "image": "/medias/sys_master/prd-images/h7f/h36/29038333493278/prd-front-2597239-1_600x600/prd-front-2597239-1-600x600.jpg"
+}

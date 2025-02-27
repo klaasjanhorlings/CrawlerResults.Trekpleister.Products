@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Fit Me Matte & Poreless 115 Ivory Foundation",
+  "code": "3827202",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3027873",
+  "mmkId": "3027873",
+  "productGroupId": "468329",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-fit-me-matte-poreless-115-ivory-foundation/p/3827202",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267134,
+      "name": "Foundation"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha1/h58/28576276152350/prd-front-3827202-1_600x600/prd-front-3827202-1-600x600.jpg"
+}

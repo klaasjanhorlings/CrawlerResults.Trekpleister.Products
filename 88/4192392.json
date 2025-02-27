@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Special Zilver Care Shampoo",
+  "code": "4192392",
+  "price": "8.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027857",
+  "mmkId": "3027857",
+  "productGroupId": "466488",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-special-zilver-care-shampoo/p/4192392",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/prd-front-4192392-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTkyNzd8aW1hZ2UvanBlZ3xhRFV6TDJoalpDOHhOak0xTmpRNE9UTXpNRGN4T0M5d2NtUXRabkp2Ym5RdE5ERTVNak01TWkweFh6WXdNSGcyTURBfGRkYzE4MDliMzY1NDM5ZmEwODQ4MGZiODYyNmU4NmQ4NWZjNmIxNTg1YWEyNTU0YmYwZDYzMDAxMjgxOWNiZWU"
+}

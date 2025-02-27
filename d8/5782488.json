@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Axe Copper Santal Deodorant Bodyspray",
+  "code": "5782488",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027765",
+  "mmkId": "3027765",
+  "productGroupId": "454700",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/axe-copper-santal-deodorant-bodyspray/p/5782488",
+  "listName": "Lister",
+  "brand": "Axe Fine Fragrance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h31/hcd/33200077799454/prd-front-5782488-1_600x600/prd-front-5782488-1-600x600.jpg"
+}

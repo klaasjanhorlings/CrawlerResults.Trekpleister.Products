@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Multi-Gyn FloraPlus",
+  "code": "2604925",
+  "price": "18.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/multi-gyn-floraplus/p/2604925",
+  "listName": "Lister",
+  "brand": "Multi-Gyn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267259,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 49949762,
+      "name": "Vrouw"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 25ml",
+  "image": "/medias/sys_master/prd-images/h37/h9b/32808849637406/prd-front-2604925-1_600x600/prd-front-2604925-1-600x600.jpg"
+}

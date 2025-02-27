@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Clean Beauty Bio Algen & Zeezout Douchegel",
+  "code": "6054165",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3673",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kneipp-clean-beauty-bio-algen-zeezout-douchegel/p/6054165",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "200ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hbf/h9f/31122046124062/prd-front-6054165-1_600x600/prd-front-6054165-1-600x600.jpg"
+}

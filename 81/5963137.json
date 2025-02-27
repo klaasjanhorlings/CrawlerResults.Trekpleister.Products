@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Basic Small Haarborstel",
+  "code": "5963137",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6320",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-basic-small-haarborstel/p/5963137",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267044,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30267181,
+      "name": "Haarborstels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h60/h22/29309922607134/prd-front-5963137-1_600x600/prd-front-5963137-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Zacht & Sterk Toiletpapier",
+  "code": "586075",
+  "price": "2.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
+  "supplier": "WEPA FRANCE SAS",
+  "inStock": "inStock",
+  "onPromo": "3027937",
+  "mmkId": "3027937",
+  "productGroupId": "452546",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-zacht-sterk-toiletpapier/p/586075",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267123,
+      "name": "Toiletpapier"
+    }
+  ],
+  "description": "8 rollen",
+  "image": "/medias/sys_master/prd-images/h3f/hfb/28549285412894/prd-front-586075-1_600x600/prd-front-586075-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Oil & Care Anti-Klitspray",
+  "code": "5802263",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6694 > 2835",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-oil-care-anti-klitspray/p/5802263",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213322,
+      "name": "Anti-klitspray"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h6d/hf5/32930454306846/prd-front-5802263-1_600x600/prd-front-5802263-1-600x600.jpg"
+}

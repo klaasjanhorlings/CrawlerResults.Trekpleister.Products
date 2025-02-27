@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Perskindol Thermo Hot Gel",
+  "code": "5141228",
+  "price": "15.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/perskindol-thermo-hot-gel/p/5141228",
+  "listName": "Lister",
+  "brand": "Perskindol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267537,
+      "name": "Spierwrijfmiddelen"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/h9d/h8b/32541671751710/prd-front-5141228-1_600x600/prd-front-5141228-1-600x600.jpg"
+}

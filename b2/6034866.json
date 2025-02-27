@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Scholl Verzorging van Hielkloven Herstellende Balsem Stick 70g",
+  "code": "6034866",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6459 > 6460",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/scholl-verzorging-van-hielkloven-herstellende-balsem-stick-70g/p/6034866",
+  "listName": "Lister",
+  "brand": "Scholl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 49316313,
+      "name": "Voetkloven"
+    }
+  ],
+  "description": "70g",
+  "image": "/medias/sys_master/prd-images/h92/h7e/30693026299934/prd-front-6034866-1_600x600/prd-front-6034866-1-600x600.jpg"
+}

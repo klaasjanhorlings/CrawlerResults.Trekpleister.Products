@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Centrum Family Multivitaminen Tabletten",
+  "code": "2248786",
+  "price": "42.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "3026657",
+  "mmkId": "3026657",
+  "productGroupId": "437814",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/centrum-family-multivitaminen-tabletten/p/2248786",
+  "listName": "Lister",
+  "brand": "Centrum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267552,
+      "name": "Multivitamines"
+    }
+  ],
+  "description": "180 stuks",
+  "image": "/medias/sys_master/prd-images/h19/h08/33005102792734/prd-front-2248786-1_600x600/prd-front-2248786-1-600x600.jpg"
+}

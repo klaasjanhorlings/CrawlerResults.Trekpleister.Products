@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Series 5 MGK5411 All-In-One Multigroomkit",
+  "code": "6199114",
+  "price": "69.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6442",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-series-5-mgk5411-all-in-one-multigroomkit/p/6199114",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267241,
+      "name": "Multigroomers"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h42/h8d/32944319594526/prd-front-6199114-1_600x600/prd-front-6199114-1-600x600.jpg"
+}

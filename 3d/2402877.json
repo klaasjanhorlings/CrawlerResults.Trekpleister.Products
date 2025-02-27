@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor 2000 Calorie Dramatic Volume 001 Black Mascara",
+  "code": "2402877",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-2000-calorie-dramatic-volume-001-black-mascara/p/2402877",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267133,
+      "name": "Mascara"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h33/h4f/30343081230366/prd-front-2402877-1_600x600/prd-front-2402877-1-600x600.jpg"
+}

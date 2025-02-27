@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Glucosamine Chondroïtine Tabletten",
+  "code": "1049196",
+  "price": "13.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-glucosamine-chondroitine-tabletten/p/1049196",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267282,
+      "name": "Glucosamine"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h7a/h58/28549342199838/prd-front-1049196-1_600x600/prd-front-1049196-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aunt Jackie's Kids E-Blast Nourishing Scalp Remedy",
+  "code": "5616759",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aunt-jackies-kids-e-blast-nourishing-scalp-remedy/p/5616759",
+  "listName": "Lister",
+  "brand": "Aunt Jackie's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213692,
+      "name": "Haartreatment"
+    }
+  ],
+  "description": "237ml",
+  "image": "/medias/sys_master/prd-images/h79/h00/28567871356958/prd-front-5616759-1_600x600/prd-front-5616759-1-600x600.jpg"
+}

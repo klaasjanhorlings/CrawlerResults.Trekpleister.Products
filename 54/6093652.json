@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Slaaptabletten",
+  "code": "6093652",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-slaaptabletten/p/6093652",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267281,
+      "name": "Rust en ontspanning"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hf4/h82/31066871300126/prd-front-6093652-1_600x600/prd-front-6093652-1-600x600.jpg"
+}

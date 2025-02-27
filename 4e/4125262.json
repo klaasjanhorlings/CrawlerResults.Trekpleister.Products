@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Voltaren Emulgel 1,16% (diclofenac) Gel",
+  "code": "4125262",
+  "price": "21.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/voltaren-emulgel-1-16-diclofenac-gel/p/4125262",
+  "listName": "Lister",
+  "brand": "Voltaren",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267530,
+      "name": "Diclofenac"
+    }
+  ],
+  "description": "Geneesmiddel - 120g",
+  "image": "/medias/sys_master/prd-images/h32/h1d/32353575632926/prd-front-4125262-1_600x600/prd-front-4125262-1-600x600.jpg"
+}

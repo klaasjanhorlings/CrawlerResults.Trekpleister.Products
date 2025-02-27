@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tena Lights Sensitive Normal Verbanden",
+  "code": "5721640",
+  "price": "4.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027778",
+  "mmkId": "3027778",
+  "productGroupId": "457391",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-lights-sensitive-normal-verbanden/p/5721640",
+  "listName": "Lister",
+  "brand": "Lights by Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267482,
+      "name": "Incontinentieverband"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/ha8/h53/28579617701918/prd-front-5721640-1_600x600/prd-front-5721640-1-600x600.jpg"
+}

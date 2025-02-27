@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Excellence Crème 7.3 Goudblond Permanente Haarverf",
+  "code": "16738",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027826",
+  "mmkId": "3027826",
+  "productGroupId": "461160",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-excellence-creme-73-goudblond-permanente-haarverf/p/16738",
+  "listName": "Lister",
+  "brand": "Excellence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbe/h29/32295529218078/prd-front-16738-1_600x600/prd-front-16738-1-600x600.jpg"
+}

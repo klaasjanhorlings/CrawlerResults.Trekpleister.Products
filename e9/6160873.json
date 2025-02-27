@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Healthypharm Ulipristalacetaat HTP 30 mg Noodanticonceptie",
+  "code": "6160873",
+  "price": "15.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2553 > 4298 > 4299",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/healthypharm-ulipristalacetaat-htp-30-mg-noodanticonceptie/p/6160873",
+  "listName": "Lister",
+  "brand": "Healthypharm",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267271,
+      "name": "Morning after pil"
+    }
+  ],
+  "description": "Geneesmiddel",
+  "image": "/medias/sys_master/prd-images/h18/h4e/31803413987358/prd-front-6160873-1_600x600/prd-front-6160873-1-600x600.jpg"
+}

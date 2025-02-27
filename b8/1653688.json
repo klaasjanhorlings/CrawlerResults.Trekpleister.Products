@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vogue Girl Cats Deodorant Spray",
+  "code": "1653688",
+  "price": "3.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3027762",
+  "mmkId": "3027762",
+  "productGroupId": "453110",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vogue-girl-cats-deodorant-spray/p/1653688",
+  "listName": "Lister",
+  "brand": "Vogue",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h6d/h6e/28546356445214/prd-front-1653688-1_600x600/prd-front-1653688-1-600x600.jpg"
+}

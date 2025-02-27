@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Thursday Plantation Tea Tree Olie",
+  "code": "1873012",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/thursday-plantation-tea-tree-olie/p/1873012",
+  "listName": "Lister",
+  "brand": "Thursday Plantation",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267292,
+      "name": "EHBO-doos"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/hc6/hdb/28546161410078/prd-front-1873012-1_600x600/prd-front-1873012-1-600x600.jpg"
+}

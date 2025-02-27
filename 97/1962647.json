@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Modifast Protein Shape Granen-Chocoladestukjes Koekjes",
+  "code": "1962647",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3435",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/modifast-protein-shape-granen-chocoladestukjes-koekjes/p/1962647",
+  "listName": "Lister",
+  "brand": "Modifast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 30267303,
+      "name": "Gewichtsbeheersing snacks"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/haa/h80/28575766741022/prd-front-1962647-1_600x600/prd-front-1962647-1-600x600.jpg"
+}

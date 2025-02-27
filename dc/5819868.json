@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Harmonie New Baby Billendoekjes",
+  "code": "5819868",
+  "price": "3.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027905",
+  "mmkId": "3027905",
+  "productGroupId": "476150",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-harmonie-new-baby-billendoekjes/p/5819868",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "46 stuks",
+  "image": "/medias/sys_master/prd-images/h68/h48/30926939062302/prd-front-5819868-1_600x600/prd-front-5819868-1-600x600.jpg"
+}

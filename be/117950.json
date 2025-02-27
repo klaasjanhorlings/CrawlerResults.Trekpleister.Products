@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Perskindol Active Gel",
+  "code": "117950",
+  "price": "14.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/perskindol-active-gel/p/117950",
+  "listName": "Lister",
+  "brand": "Perskindol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267536,
+      "name": "Spier- en gewrichtsbalsems"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/prd-front-117950-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTY1MjZ8aW1hZ2UvanBlZ3xhRFExTDJnMVppOHhOakl6TlRVNE5EVTROVGMxT0M5d2NtUXRabkp2Ym5RdE1URTNPVFV3TFRGZk5qQXdlRFl3TUF8MjllZmM1OTMwYmYxZTRhMjRiNTY1ZjJkOTJiZTk4M2I4M2VkNTAxZjc2NmMxNjA5YWQ2M2JkYTI2YWVlYzg4ZQ"
+}

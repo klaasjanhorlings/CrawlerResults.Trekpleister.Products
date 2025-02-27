@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Imodium Diarree Smelttabletten",
+  "code": "1118503",
+  "price": "7.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2765 > 3471",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/imodium-diarree-smelttabletten/p/1118503",
+  "listName": "Lister",
+  "brand": "Imodium",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 30267533,
+      "name": "Diarreeremmers"
+    }
+  ],
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h89/h4f/31388713746462/prd-front-1118503-1_600x600/prd-front-1118503-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NG Bella Vida Eau de Parfum",
+  "code": "4197348",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "NEXT GENERATION PERFUME",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/ng-bella-vida-eau-de-parfum/p/4197348",
+  "listName": "Lister",
+  "brand": "NG",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "80ml",
+  "image": "/medias/prd-front-4197348-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzAyNjd8aW1hZ2UvanBlZ3xhREl3TDJnek15OHhOalUzTXpReU56RXlNakl3Tmk5d2NtUXRabkp2Ym5RdE5ERTVOek0wT0MweFh6WXdNSGcyTURBfDMxNzU0MWQ3ODg0ZTYwNjE4MzVlNDRmYTAwYWQ3ZGY0YjcwNTg3MTYyZmZlYTIxM2IyMjBlZTcxMDVkMDgyM2U"
+}

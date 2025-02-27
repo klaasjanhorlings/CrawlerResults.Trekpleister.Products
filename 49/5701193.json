@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olay Collage Peptide MAX Hydraterende Dagcrème",
+  "code": "5701193",
+  "price": "45.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027851",
+  "mmkId": "3027851",
+  "productGroupId": "465965",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olay-collage-peptide-max-hydraterende-dagcreme/p/5701193",
+  "listName": "Lister",
+  "brand": "Olay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml, rijpe huid",
+  "image": "/medias/sys_master/prd-images/heb/h35/31338145939486/prd-front-5701193-1_600x600/prd-front-5701193-1-600x600.jpg"
+}

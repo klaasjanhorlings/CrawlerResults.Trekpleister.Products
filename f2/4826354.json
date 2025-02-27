@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Men Dermo Active Control 48-Uur Antitranspirant Spray",
+  "code": "4826354",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3865",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027757",
+  "mmkId": "3027757",
+  "productGroupId": "452755",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-men-dermo-active-control-48-uur-antitranspirant-spray/p/4826354",
+  "listName": "Lister",
+  "brand": "Sanex Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "200ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h9d/h13/29096878604318/prd-front-4826354-1_600x600/prd-front-4826354-1-600x600.jpg"
+}

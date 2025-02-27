@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Theranal Aambeienzalf",
+  "code": "24273",
+  "price": "8.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2500 > 3102 > 4104",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/theranal-aambeienzalf/p/24273",
+  "listName": "Lister",
+  "brand": "Theranal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267259,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 30267514,
+      "name": "Aambeien"
+    }
+  ],
+  "description": "Geneesmiddel - 35g",
+  "image": "/medias/prd-front-24273-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIxMjB8aW1hZ2UvanBlZ3xhR0V4TDJoa1lpOHhOak13T0RrME16STVNRE01T0M5d2NtUXRabkp2Ym5RdE1qUXlOek10TVY4Mk1EQjROakF3fDZkMjU5NmVjYjA0YTExNDc2ZTM3ODEyNGE1ZjRmZDM4NGM0YmUwZjZmZTBkNzIxOWQ5ODE4YzI1ZGE0Zjc2ZGY"
+}

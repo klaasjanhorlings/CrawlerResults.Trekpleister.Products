@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wella New Wave Ultra Strong Rock & Hold Gel",
+  "code": "1435904",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "WELLA COMPANY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wella-new-wave-ultra-strong-rock-hold-gel/p/1435904",
+  "listName": "Lister",
+  "brand": "Wella New Wave",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-1435904-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjIzMTB8aW1hZ2UvanBlZ3xhRE5sTDJnM1l5OHhOakkwT0Rjd01qVTVPVEU1T0M5d2NtUXRabkp2Ym5RdE1UUXpOVGt3TkMweFh6WXdNSGcyTURBfDFkODhkM2UwNDAwYTY5Y2EyNTNkMzZmYThiNWY0MzEyYWU4OTNjOTVjZDJjMmM4MGJhODA3MGZmYzZmNjJlNTk"
+}

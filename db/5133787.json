@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bepanthen 4-in-1 Wondgel",
+  "code": "5133787",
+  "price": "10.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bepanthen-4-in-1-wondgel/p/5133787",
+  "listName": "Lister",
+  "brand": "Bepanthen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 49950787,
+      "name": "Wondzalven"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 50g",
+  "image": "/medias/sys_master/prd-images/hbc/hba/31287375331358/prd-front-5133787-1_600x600/prd-front-5133787-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Luxe Afwasborstels",
+  "code": "772535",
+  "price": "1.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2514 > 3128 > 3993",
+  "supplier": "PDC BRUSH NV/SA",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/luxe-afwasborstels/p/772535",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430573,
+      "name": "Schoonmaakartikelen"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/prd-front-772535-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mjc3MjJ8aW1hZ2UvanBlZ3xhRGMyTDJobFlTOHhOakl6TkRReU1qa3lOek01TUM5d2NtUXRabkp2Ym5RdE56Y3lOVE0xTFRGZk5qQXdlRFl3TUF8ZjAyMzY0NWRmNTViZjcxMTkyMjUxNmYxM2IwMjg4NDZjNGI2NWQ3NTlmOTQ4YTUwMDhkYzEwNTAxNDg3Zjg1Ng"
+}

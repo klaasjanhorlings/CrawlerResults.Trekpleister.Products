@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WaterWipes Soothing Clean Babydoekjes",
+  "code": "6253770",
+  "price": "51.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/waterwipes-soothing-clean-babydoekjes/p/6253770",
+  "listName": "Lister",
+  "brand": "Waterwipes",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "12 x 60 stuks",
+  "image": "/medias/sys_master/prd-images/h4e/hd5/33240534810654/prd-front-6253770-1_600x600/prd-front-6253770-1-600x600.jpg"
+}

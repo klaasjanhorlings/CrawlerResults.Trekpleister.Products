@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York SuperStay Matte Ink 165 Successful Lipstick",
+  "code": "5058929",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3027873",
+  "mmkId": "3027873",
+  "productGroupId": "468329",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-superstay-matte-ink-165-successful-lipstick/p/5058929",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267139,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "26g",
+  "image": "/medias/sys_master/prd-images/h0b/h2f/29032540176414/prd-front-5058929-1_600x600/prd-front-5058929-1-600x600.jpg"
+}

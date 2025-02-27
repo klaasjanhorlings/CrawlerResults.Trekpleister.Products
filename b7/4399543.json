@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leukoplast Leukomed Wondverband",
+  "code": "4399543",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4110",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3027887",
+  "mmkId": "3027887",
+  "productGroupId": "469869",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/leukoplast-leukomed-wondverband/p/4399543",
+  "listName": "Lister",
+  "brand": "Leukoplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267296,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414144,
+      "name": "Klassieke pleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 8cm x 10cm, 5 stuks",
+  "image": "/medias/sys_master/prd-images/h50/hfd/31198108549150/prd-front-4399543-1_600x600/prd-front-4399543-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Cannabidiol CBD 20% Olie",
+  "code": "5846937",
+  "price": "59.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6523 > 6524 > 6525",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-cannabidiol-cbd-20-olie/p/5846937",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267280,
+      "name": "CBD"
+    }
+  ],
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h8e/hdb/28581253414942/prd-front-5846937-1_600x600/prd-front-5846937-1-600x600.jpg"
+}

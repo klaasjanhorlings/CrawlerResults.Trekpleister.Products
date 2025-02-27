@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Treaclemoon Brazilian Love Bodyscrub",
+  "code": "5696160",
+  "price": "6.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 6602 > 6603",
+  "supplier": "TRADE SENSE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/treaclemoon-brazilian-love-bodyscrub/p/5696160",
+  "listName": "Lister",
+  "brand": "Treaclemoon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267208,
+      "name": "Scrub"
+    }
+  ],
+  "description": "225ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/he9/hdf/28826620690462/prd-front-5696160-1_600x600/prd-front-5696160-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. Beckmann Pre-Wash met Ossengalzeep",
+  "code": "29705",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
+  "supplier": "BENCKMAR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dr-beckmann-pre-wash-met-ossengalzeep/p/29705",
+  "listName": "Lister",
+  "brand": "Dr. Beckmann",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267119,
+      "name": "Vlekverwijderaars"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h43/h78/31197109682206/prd-front-29705-1_600x600/prd-front-29705-1-600x600.jpg"
+}

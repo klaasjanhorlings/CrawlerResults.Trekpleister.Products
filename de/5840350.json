@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Invisible Care Dry Deodorant Spray",
+  "code": "5840350",
+  "price": "7.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-invisible-care-dry-deodorant-spray/p/5840350",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hf2/h2d/33196864077854/prd-front-5840350-1_600x600/prd-front-5840350-1-600x600.jpg"
+}

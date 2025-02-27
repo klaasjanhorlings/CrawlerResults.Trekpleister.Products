@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SheaMoisture Jamaican Black Castor Oil Strengthen & Restore Conditioner",
+  "code": "5435970",
+  "price": "17.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6700 > 5896",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sheamoisture-jamaican-black-castor-oil-strengthen-restore-conditioner/p/5435970",
+  "listName": "Lister",
+  "brand": "SheaMoisture",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "384ml",
+  "image": "/medias/sys_master/prd-images/h35/h8f/28552897691678/prd-front-5435970-1_600x600/prd-front-5435970-1-600x600.jpg"
+}

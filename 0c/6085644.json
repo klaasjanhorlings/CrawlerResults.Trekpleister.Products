@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Cellular Luminous630 Anti-spot 02 Medium SPF30 3-in-1 CC Crème",
+  "code": "6085644",
+  "price": "42.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027837",
+  "mmkId": "3027837",
+  "productGroupId": "462499",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-cellular-luminous630-anti-spot-02-medium-spf30-3-in-1-cc-creme/p/6085644",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267138,
+      "name": "CC cream"
+    }
+  ],
+  "description": "40ml"
+}

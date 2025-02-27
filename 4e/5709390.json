@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Rode Gist Rijst Tabletten",
+  "code": "5709390",
+  "price": "37.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6209 > 6227 > 6313",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-rode-gist-rijst-tabletten/p/5709390",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49792193,
+      "name": "Rode gist rijst"
+    }
+  ],
+  "description": "360 stuks",
+  "image": "/medias/prd-front-5709390-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzI1MjJ8aW1hZ2UvanBlZ3xhRFF4TDJnMU9DOHhOekExT0RRNE9UWTVOakk0Tmk5d2NtUXRabkp2Ym5RdE5UY3dPVE01TUMweFh6WXdNSGcyTURBfDEwNzZkM2ZkZGRkYmM1Y2MwOTZhOTJkYThiZWJlMjlkMmI0N2ZlN2JjNWY3MWRhNGM0OWY5MmUxOTY1YjU5MTA"
+}

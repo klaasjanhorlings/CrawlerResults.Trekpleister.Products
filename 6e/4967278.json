@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Natterman Broomhexine Extra Sterk 8mg/5ml Hoestdrank",
+  "code": "4967278",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/natterman-broomhexine-extra-sterk-8mg/5ml-hoestdrank/p/4967278",
+  "listName": "Lister",
+  "brand": "Natterman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267517,
+      "name": "Hoestdrank"
+    }
+  ],
+  "description": "Geneesmiddel - 150ml",
+  "image": "/medias/sys_master/prd-images/hcc/h7f/32893910384670/prd-front-4967278-1_600x600/prd-front-4967278-1-600x600.jpg"
+}

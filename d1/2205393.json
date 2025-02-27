@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Men+Care Advanced Invisible Dry Antitranspirant Deodorant Spray",
+  "code": "2205393",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027766",
+  "mmkId": "3027766",
+  "productGroupId": "454705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-mencare-advanced-invisible-dry-antitranspirant-deodorant-spray/p/2205393",
+  "listName": "Lister",
+  "brand": "Dove Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hfa/h04/32825401311262/prd-front-2205393-1_600x600/prd-front-2205393-1-600x600.jpg"
+}

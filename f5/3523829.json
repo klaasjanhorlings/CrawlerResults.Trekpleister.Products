@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Men+Care Extra Fresh Deodorant Roller",
+  "code": "3523829",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3874",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027766",
+  "mmkId": "3027766",
+  "productGroupId": "454705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-mencare-extra-fresh-deodorant-roller/p/3523829",
+  "listName": "Lister",
+  "brand": "Dove Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267200,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h14/h82/32819941376030/prd-front-3523829-1_600x600/prd-front-3523829-1-600x600.jpg"
+}

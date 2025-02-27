@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Body & Fit Banana Flavour Whey Perfection Eiwitpoeder",
+  "code": "6238937",
+  "price": "22.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
+  "supplier": "BODY & FIT SPORTSNUTRIT",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/body-fit-banana-flavour-whey-perfection-eiwitpoeder/p/6238937",
+  "listName": "Lister",
+  "brand": "Body & Fit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267307,
+      "name": "Proteïne (eiwit) poeders"
+    }
+  ],
+  "description": "476g",
+  "image": "/medias/sys_master/prd-images/he4/h09/33017943916574/prd-front-6238937-1_600x600/prd-front-6238937-1-600x600.jpg"
+}

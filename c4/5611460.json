@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "HP 305 Cartridge Combo Pack",
+  "code": "5611460",
+  "price": "26.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6014 > 2153 > 5034 > 5035 > 4879",
+  "supplier": "SUPPLIES SERVICE PARTN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hp-305-cartridge-combo-pack/p/5611460",
+  "listName": "Lister",
+  "brand": "HP",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 49259294,
+      "name": "Printers"
+    }
+  ],
+  "description": "zwart, kleur",
+  "image": "/medias/sys_master/prd-images/h50/hf7/28597031272478/prd-front-5611460-1_600x600/prd-front-5611460-1-600x600.jpg"
+}

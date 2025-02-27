@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dettol Med Benzalkoniumchloride 2mg/g Huidspray voor Wondontsmetting",
+  "code": "2500947",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dettol-med-benzalkoniumchloride-2mg/g-huidspray-voor-wondontsmetting/p/2500947",
+  "listName": "Lister",
+  "brand": "Dettol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267297,
+      "name": "Wondontsmetting"
+    }
+  ],
+  "description": "Geneesmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/ha3/hb6/28547086352414/prd-front-2500947-1_600x600/prd-front-2500947-1-600x600.jpg"
+}

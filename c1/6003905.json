@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Got2b Got Gloss Shine Finish Hairspray",
+  "code": "6003905",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3698",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/got2b-got-gloss-shine-finish-hairspray/p/6003905",
+  "listName": "Lister",
+  "brand": "Got2B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267490,
+      "name": "Heat protectors"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h11/ha5/31270467174430/prd-front-6003905-1_600x600/prd-front-6003905-1-600x600.jpg"
+}

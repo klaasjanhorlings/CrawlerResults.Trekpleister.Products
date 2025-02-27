@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Crime Scene Game Stockholm 2007 Spel",
+  "code": "6133006",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5164 > 5227 > 5416",
+  "supplier": "SELECTA SPEL EN HOBBY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/crime-scene-game-stockholm-2007-spel/p/6133006",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h77/ha0/31458743222302/prd-front-6133006-1_600x600/prd-front-6133006-1-600x600.jpg"
+}

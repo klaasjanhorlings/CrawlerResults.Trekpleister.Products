@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "HiPP 2 Bio Combiotik Opvolgmelk",
+  "code": "4226902",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
+  "supplier": "FRIQUEZ BV HIPP NEDERLA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hipp-2-bio-combiotik-opvolgmelk/p/4226902",
+  "listName": "Lister",
+  "brand": "Hipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267560,
+      "name": "Opvolgmelk"
+    }
+  ],
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/h4d/h1d/28786793775134/prd-front-4226902-1_600x600/prd-front-4226902-1-600x600.jpg"
+}

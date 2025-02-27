@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London The Multi-Tasker 050 Sand Concealer",
+  "code": "5466987",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-the-multi-tasker-050-sand-concealer/p/5466987",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267135,
+      "name": "Concealer"
+    }
+  ],
+  "description": "31,3g",
+  "image": "/medias/sys_master/prd-images/hec/h47/30773905948702/prd-front-5466987-1_600x600/prd-front-5466987-1-600x600.jpg"
+}

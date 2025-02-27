@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Borotalco Relaxing Lavender & Iris Douchecrème",
+  "code": "4404996",
+  "price": "2.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
+  "supplier": "BOLTON BELGIUM NV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/borotalco-relaxing-lavender-iris-douchecreme/p/4404996",
+  "listName": "Lister",
+  "brand": "Borotalco",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267204,
+      "name": "Douchecrème"
+    }
+  ],
+  "description": "250ml"
+}

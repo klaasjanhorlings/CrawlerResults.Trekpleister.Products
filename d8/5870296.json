@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fa Sense Empowering Moments Douchegel",
+  "code": "5870296",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027767",
+  "mmkId": "3027767",
+  "productGroupId": "454958",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fa-sense-empowering-moments-douchegel/p/5870296",
+  "listName": "Lister",
+  "brand": "Fa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h54/h52/28561276403742/prd-front-5870296-1_600x600/prd-front-5870296-1-600x600.jpg"
+}

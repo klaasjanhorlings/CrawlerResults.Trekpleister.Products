@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Simply Venus Wegwerpmesjes",
+  "code": "4366965",
+  "price": "7.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3790",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-simply-venus-wegwerpmesjes/p/4366965",
+  "listName": "Lister",
+  "brand": "Gillette Venus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h80/hea/28550833504286/prd-front-4366965-1_600x600/prd-front-4366965-1-600x600.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Listerine Advanced White Milde Smaak Mondspoeling",
+  "code": "3486925",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/listerine-advanced-white-milde-smaak-mondspoeling/p/3486925",
+  "listName": "Lister",
+  "brand": "Listerine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267233,
+      "name": "Mondwater en mondspray"
+    }
+  ],
+  "description": "500ml"
+}

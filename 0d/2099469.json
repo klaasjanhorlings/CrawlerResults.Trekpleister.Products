@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schwarzkopf 7 Kruiden Shampoo",
+  "code": "2099469",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027872",
+  "mmkId": "3027872",
+  "productGroupId": "467804",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schwarzkopf-7-kruiden-shampoo/p/2099469",
+  "listName": "Lister",
+  "brand": "Schwarzkopf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hee/hcd/32038872907806/prd-front-2099469-1_600x600/prd-front-2099469-1-600x600.jpg"
+}

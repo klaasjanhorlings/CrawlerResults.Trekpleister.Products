@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wella Ultra Sterk Haarspray",
+  "code": "1698054",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
+  "supplier": "WELLA COMPANY",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wella-ultra-sterk-haarspray/p/1698054",
+  "listName": "Lister",
+  "brand": "Wella",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267492,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hc3/h44/28546147581982/prd-front-1698054-1_600x600/prd-front-1698054-1-600x600.jpg"
+}

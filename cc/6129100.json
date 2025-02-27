@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bolsius Cleanlight Cedarwood & Vetiver Navulling",
+  "code": "6129100",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 6679 > 2146 > 5962 > 5979 > 5996",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bolsius-cleanlight-cedarwood-vetiver-navulling/p/6129100",
+  "listName": "Lister",
+  "brand": "Bolsius",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267452,
+      "name": "Kaarsen"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/hb6/ha8/31601004478494/prd-front-6129100-1_600x600/prd-front-6129100-1-600x600.jpg"
+}

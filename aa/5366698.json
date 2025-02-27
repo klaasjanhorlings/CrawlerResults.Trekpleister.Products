@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Toilettas",
+  "code": "5366698",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2271 > 2637 > 3320 > 6343",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-toilettas/p/5366698",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267177,
+      "name": "Toilettassen"
+    }
+  ],
+  "description": "zwart, 30cm x 12,5cm x 19,5cm",
+  "image": "/medias/prd-front-5366698-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQ5OTN8aW1hZ2UvanBlZ3xhRE0zTDJnMU5pOHhOekEyTXpVM09UZzBORFl6T0M5d2NtUXRabkp2Ym5RdE5UTTJOalk1T0MweFh6WXdNSGcyTURBfDgyMGFmM2Q1YzlhODE5M2U2OWNlZGVkM2FlZDJiYWJmNjRlZDE3NGY2NzcwM2U0MzZkNWZhMzUxZjA1NWIxOGM"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Paracetamol 1000 Mg Zetpillen",
+  "code": "2836513",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6157 > 6180",
+  "supplier": "AUROBINDO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-paracetamol-1000-mg-zetpillen/p/2836513",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267525,
+      "name": "Paracetamol"
+    }
+  ],
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h02/hc8/29499773386782/prd-front-2836513-1_600x600/prd-front-2836513-1-600x600.jpg"
+}

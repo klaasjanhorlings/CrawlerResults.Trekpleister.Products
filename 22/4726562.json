@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gaviscon Munt Kauwtabletten",
+  "code": "4726562",
+  "price": "10.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3465",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gaviscon-munt-kauwtabletten/p/4726562",
+  "listName": "Lister",
+  "brand": "Gaviscon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 30267531,
+      "name": "Maagzuurremmers"
+    }
+  ],
+  "description": "Geneesmiddel - 48 stuks",
+  "image": "/medias/sys_master/prd-images/h38/hda/28551524745246/prd-front-4726562-1_600x600/prd-front-4726562-1-600x600.jpg"
+}

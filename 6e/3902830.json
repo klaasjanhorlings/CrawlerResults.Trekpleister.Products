@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Evisense Pro Aften Gel",
+  "code": "3902830",
+  "price": "14.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/evisense-pro-aften-gel/p/3902830",
+  "listName": "Lister",
+  "brand": "Evisense",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267504,
+      "name": "Aftenbehandeling"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h62/h20/29031890649118/prd-front-3902830-1_600x600/prd-front-3902830-1-600x600.jpg"
+}

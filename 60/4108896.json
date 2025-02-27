@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Suprimal",
+  "code": "4108896",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2642 > 3327 > 4231",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/suprimal/p/4108896",
+  "listName": "Lister",
+  "brand": "Suprimal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267261,
+      "name": "Reisziekte"
+    }
+  ],
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h46/h33/29038338080798/prd-front-4108896-1_600x600/prd-front-4108896-1-600x600.jpg"
+}

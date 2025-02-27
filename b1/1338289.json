@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Styling Verrassend Volume Mousse",
+  "code": "1338289",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027857",
+  "mmkId": "3027857",
+  "productGroupId": "466488",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-styling-verrassend-volume-mousse/p/1338289",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267491,
+      "name": "Haarmousse"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-1338289-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTUxNTF8aW1hZ2UvanBlZ3xhR1poTDJobFpTOHhOakkwT0RJeE16UTNNVEkyTWk5d2NtUXRabkp2Ym5RdE1UTXpPREk0T1MweFh6WXdNSGcyTURBfDFkZWQ4NGE0NDdhMTNmNDQzZjZmMTIwYjcxNjg1MjM2ZDY4ZDU4ZTExOTBiMmI4NzVmMTIyZTExOGUzZDM1NTU"
+}

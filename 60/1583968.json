@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Calcium 1000mg Tabletten",
+  "code": "1583968",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-calcium-1000mg-tabletten/p/1583968",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267272,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50002052,
+      "name": "Calcium"
+    }
+  ],
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h91/he9/28546340061214/prd-front-1583968-1_600x600/prd-front-1583968-1-600x600.jpg"
+}

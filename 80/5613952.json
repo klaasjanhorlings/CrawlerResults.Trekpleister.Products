@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pluggerz Enjoy Sleep Oordoppen",
+  "code": "5613952",
+  "price": "10.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
+  "supplier": "COMFOOR BV",
+  "inStock": "inStock",
+  "onPromo": "3027804",
+  "mmkId": "3027804",
+  "productGroupId": "459536",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pluggerz-enjoy-sleep-oordoppen/p/5613952",
+  "listName": "Lister",
+  "brand": "Pluggerz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267507,
+      "name": "Oordoppen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5613952-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU5ODF8aW1hZ2UvanBlZ3xhR0U0TDJobFpTOHhOek16T1RneU56Z3hORFF6TUM5d2NtUXRabkp2Ym5RdE5UWXhNemsxTWkweFh6WXdNSGcyTURBfDM5MWI0OTJlYzdkOGYzNTllOTA5YzMzNjVhYWNjYzU0YmY1NmE0N2IyMDk0ZDBkNDNmMmE5ZTljYjg5OTlmODQ"
+}

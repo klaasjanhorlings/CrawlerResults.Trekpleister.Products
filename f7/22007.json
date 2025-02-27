@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Primatour Reistabletten",
+  "code": "22007",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2642 > 3327 > 4231",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/primatour-reistabletten/p/22007",
+  "listName": "Lister",
+  "brand": "Primatour",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267261,
+      "name": "Reisziekte"
+    }
+  ],
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h80/h7a/28548522475550/prd-front-22007-1_600x600/prd-front-22007-1-600x600.jpg"
+}

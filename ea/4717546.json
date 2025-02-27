@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Biodermal Pure Balance Skin Renewing Cleansing Mousse",
+  "code": "4717546",
+  "price": "23.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/biodermal-pure-balance-skin-renewing-cleansing-mousse/p/4717546",
+  "listName": "Lister",
+  "brand": "Biodermal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677084,
+      "name": "Reinigingsmousse"
+    }
+  ],
+  "description": "150ml - Gecombineerde huid",
+  "image": "/medias/sys_master/prd-images/h2f/hc9/28577826668574/prd-front-4717546-1_600x600/prd-front-4717546-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L’Oréal Paris True Match Le Blush 160 Pêche Blush",
+  "code": "3255491",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-true-match-le-blush-160-peche-blush/p/3255491",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267147,
+      "name": "Blush"
+    }
+  ],
+  "description": "32g",
+  "image": "/medias/prd-front-3255491-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzgzNTJ8aW1hZ2UvanBlZ3xhRFF3TDJoa05TOHhOak0yTnpBMk16VTVOekE0Tmk5d2NtUXRabkp2Ym5RdE16STFOVFE1TVMweFh6WXdNSGcyTURBfGM3MWVlYTU1OGRlOGQyN2Q4MmYyYjYxY2M0NGQ0MTYxY2U4ZWJkNjhhZTcxNTAxYjliY2Q1OWEwOGM2NjkwMjI"
+}

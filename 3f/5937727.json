@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Body & Fit Green Apple Crazy Pre-Workout",
+  "code": "5937727",
+  "price": "25.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6391 > 6392",
+  "supplier": "BODY & FIT SPORTSNUTRIT",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/body-fit-green-apple-crazy-pre-workout/p/5937727",
+  "listName": "Lister",
+  "brand": "Body & Fit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267311,
+      "name": "Pre-workout"
+    }
+  ],
+  "description": "407g",
+  "image": "/medias/sys_master/prd-images/hf1/h9c/28665824051230/prd-front-5937727-1_600x600/prd-front-5937727-1-600x600.jpg"
+}

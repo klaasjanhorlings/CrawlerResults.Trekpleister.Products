@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rennie Anijs Kauwtabletten",
+  "code": "29297",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3465",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rennie-anijs-kauwtabletten/p/29297",
+  "listName": "Lister",
+  "brand": "Rennie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 30267531,
+      "name": "Maagzuurremmers"
+    }
+  ],
+  "description": "Geneesmiddel - 24 stuks",
+  "image": "/medias/sys_master/prd-images/h63/h6e/28549189861406/prd-front-29297-2_600x600/prd-front-29297-2-600x600.jpg"
+}

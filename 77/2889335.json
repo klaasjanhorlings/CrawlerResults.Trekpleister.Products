@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Gaaskompressen",
+  "code": "2889335",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2930 > 3725",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-gaaskompressen/p/2889335",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267293,
+      "name": "Steriele gaasjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 8,5cm x 5cm, 16 stuks",
+  "image": "/medias/sys_master/prd-images/h43/h92/30305922121758/prd-front-2889335-1_600x600/prd-front-2889335-1-600x600.jpg"
+}

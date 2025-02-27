@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Midalgan Warm Spray",
+  "code": "5509022",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/midalgan-warm-spray/p/5509022",
+  "listName": "Lister",
+  "brand": "Midalgan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267536,
+      "name": "Spier- en gewrichtsbalsems"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-5509022-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjE0MDB8aW1hZ2UvanBlZ3xhR1V5TDJnME55OHhOekEyT0RJNE56QXdNRFl3Tmk5d2NtUXRabkp2Ym5RdE5UVXdPVEF5TWkweFh6WXdNSGcyTURBfGQzNWVkZTAwZDNhNjExMTJhNWQ0YzkwOGI4M2Q2ZDUzOWRjMjM1Mjc0NjBkYThjZmU3OWM3ZmIwYmRmYWZlOTM"
+}

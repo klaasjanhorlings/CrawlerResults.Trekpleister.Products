@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "4711 Remix Electric Night Eau de Parfum",
+  "code": "6186976",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "MAURER&WIRTZ GMBH&CO KG",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/4711-remix-electric-night-eau-de-parfum/p/6186976",
+  "listName": "Lister",
+  "brand": "4711",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/ha0/hf3/32156684648478/prd-front-6186976-1_600x600/prd-front-6186976-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Drs Leenarts Normale & Gevoelige Huid Dag- & Nachtcrème",
+  "code": "5754715",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "DR LEENARTS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/drs-leenarts-normale-gevoelige-huid-dag-nachtcreme/p/5754715",
+  "listName": "Lister",
+  "brand": "Drs Leenarts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hfe/h33/33479991722014/prd-front-5754715-1_600x600/prd-front-5754715-1-600x600.jpg"
+}

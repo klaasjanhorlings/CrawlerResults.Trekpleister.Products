@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ella's Kitchen The Yellow One Fruitsmoothie",
+  "code": "3583994",
+  "price": "1.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ellas-kitchen-the-yellow-one-fruitsmoothie/p/3583994",
+  "listName": "Lister",
+  "brand": "Ella's Kitchen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267564,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "90g",
+  "image": "/medias/prd-front-3583994-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzI5OTZ8aW1hZ2UvanBlZ3xhR001TDJnNFppOHhOak14TkRRd05qQTNOalEwTmk5d2NtUXRabkp2Ym5RdE16VTRNems1TkMweFh6WXdNSGcyTURBfDE5MDljNmMyNzljMzNlZTk4ZTZiYjliMzllMjhiMjI0YWY3OTdhZjIyMzkwNGIwYjEzZjc5MjY0YjQ4NGQ0YTQ"
+}

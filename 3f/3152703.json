@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Assorti Blaarpleisters",
+  "code": "3152703",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 3177 > 3445",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "3027890",
+  "mmkId": "3027890",
+  "productGroupId": "469904",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-assorti-blaarpleisters/p/3152703",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48238514,
+      "name": "Blarenpleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 3 x 2 stuks",
+  "image": "/medias/sys_master/prd-images/h78/h08/33466484883486/prd-front-3152703-1_600x600/prd-front-3152703-1-600x600.jpg"
+}

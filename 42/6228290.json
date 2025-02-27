@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO DUPLO 10449 Voor het Eerst naar de Dokter",
+  "code": "6228290",
+  "price": "37.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-duplo-10449-voor-het-eerst-naar-de-dokter/p/6228290",
+  "listName": "Lister",
+  "brand": "LEGO Duplo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267380,
+      "name": "LEGO Duplo"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h3b/he0/33139295453214/prd-front-6228290-1_600x600/prd-front-6228290-1-600x600.jpg"
+}

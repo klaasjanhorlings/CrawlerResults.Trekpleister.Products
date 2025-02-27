@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jordan Step by Step 6-9 Jaar Tandenborstel",
+  "code": "2208109",
+  "price": "2.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3519",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3027868",
+  "mmkId": "3027868",
+  "productGroupId": "467541",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jordan-step-by-step-6-9-jaar-tandenborstel/p/2208109",
+  "listName": "Lister",
+  "brand": "Jordan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267228,
+      "name": "Tandenborstels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-2208109-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTkwODd8aW1hZ2UvanBlZ3xhRFZqTDJoak5DOHhOakkxTkRNd09UQXdOek01TUM5d2NtUXRabkp2Ym5RdE1qSXdPREV3T1MweFh6WXdNSGcyTURBfDViYjA3NGYzMDZiZmExMzVjMmJhZDYzZTQ3MWNmYzc2NWVmM2U0MzY1ZDAxNTQ2NGQ2ZDlkYzY1MTE3MmE2YTk"
+}

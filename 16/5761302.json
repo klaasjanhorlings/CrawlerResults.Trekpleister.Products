@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nijntje Shampoo",
+  "code": "5761302",
+  "price": "3.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
+  "supplier": "CARESSE COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nijntje-shampoo/p/5761302",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267332,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267573,
+      "name": "Babyshampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/prd-front-5761302-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQzMDN8aW1hZ2UvanBlZ3xhRGxtTDJobU1TOHhOalEwTkRZeE5Ua3hOelU1T0M5d2NtUXRabkp2Ym5RdE5UYzJNVE13TWkweFh6WXdNSGcyTURBfGE0YTBmODEwN2NlMDc2MzlmMzlkMTVjNjExNTMzMGRmNTNhY2FiNWY5ZWZkOWQ2MjdmNzJjODA4MTZlMzZjN2M"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LUUF Baby Verkoudheidsbalsem",
+  "code": "21551",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 4100",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/luuf-baby-verkoudheidsbalsem/p/21551",
+  "listName": "Lister",
+  "brand": "Luuf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267522,
+      "name": "Verkoudheidsbalsems"
+    }
+  ],
+  "description": "Geneesmiddel - 30g",
+  "image": "/medias/prd-front-21551-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTY5MDh8aW1hZ2UvanBlZ3xhRFF4TDJoalpDOHhOakl5T0RBME9EVXdNamd4TkM5d2NtUXRabkp2Ym5RdE1qRTFOVEV0TVY4Mk1EQjROakF3fGJhZTRlYmMyYzdkZTk2OWI1MDJiNDNlMWMwODU3N2I0ZWE3YTY3NWU2OTIxMjQxNGY0NjE0ZmFkZmFkNTcyZmI"
+}

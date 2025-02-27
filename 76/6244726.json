@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO DUPLO 10440 Balanceer- en Stapelboom",
+  "code": "6244726",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-duplo-10440-balanceer-en-stapelboom/p/6244726",
+  "listName": "Lister",
+  "brand": "LEGO Duplo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267380,
+      "name": "LEGO Duplo"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha8/hc4/33064742289438/prd-front-6244726-1_600x600/prd-front-6244726-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tena Discreet Extra Plus Verbanden",
+  "code": "6037820",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027779",
+  "mmkId": "3027779",
+  "productGroupId": "457392",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-discreet-extra-plus-verbanden/p/6037820",
+  "listName": "Lister",
+  "brand": "Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267481,
+      "name": "Incontinentie-inlegkruisjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 2 x 8 stuks",
+  "image": "/medias/sys_master/prd-images/h26/h65/31089142038558/prd-front-6037820-1_600x600/prd-front-6037820-1-600x600.jpg"
+}

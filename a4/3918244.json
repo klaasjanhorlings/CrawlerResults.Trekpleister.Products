@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. Brown's Fase 2 3+M Flesspenen voor Smalle Halsfles",
+  "code": "3918244",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
+  "supplier": "BABY CASE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dr-browns-fase-2-3m-flesspenen-voor-smalle-halsfles/p/3918244",
+  "listName": "Lister",
+  "brand": "Dr. Brown's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267355,
+      "name": "Flessenspenen"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/hbe/hf5/29955121971230/prd-front-3918244-1_600x600/prd-front-3918244-1-600x600.jpg"
+}

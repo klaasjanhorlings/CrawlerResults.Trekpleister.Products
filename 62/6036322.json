@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Sonicare S2 Sensitive Hx6052/10 Opzetborstel",
+  "code": "6036322",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-sonicare-s2-sensitive-hx6052/10-opzetborstel/p/6036322",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267232,
+      "name": "Opzetborstels"
+    }
+  ],
+  "description": "wit, 2 stuks",
+  "image": "/medias/sys_master/prd-images/he0/h39/32897171914782/prd-front-6036322-1_600x600/prd-front-6036322-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bausch & Lomb ReNu MPS Lenzenvloeistof",
+  "code": "5497416",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bausch-lomb-renu-mps-lenzenvloeistof/p/5497416",
+  "listName": "Lister",
+  "brand": "Bausch & Lomb",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267064,
+      "name": "Optiek"
+    },
+    {
+      "id": 30267314,
+      "name": "Lenzenvloeistof"
+    }
+  ],
+  "description": "3x 360ml + 60ml",
+  "image": "/medias/sys_master/prd-images/h88/h42/28553432399902/prd-front-5497416-1_600x600/prd-front-5497416-1-600x600.jpg"
+}

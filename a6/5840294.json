@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fa Balancing Moments Lotus & Sesame Flower Deodorant",
+  "code": "5840294",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027767",
+  "mmkId": "3027767",
+  "productGroupId": "454958",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fa-balancing-moments-lotus-sesame-flower-deodorant/p/5840294",
+  "listName": "Lister",
+  "brand": "Fa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hc5/h94/28572362244126/prd-front-5840294-1_600x600/prd-front-5840294-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 6+M Fruit Variatiemenu",
+  "code": "4670716",
+  "price": "16.68",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-6m-fruit-variatiemenu/p/4670716",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267564,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "12 x 200g",
+  "image": "/medias/sys_master/prd-images/hb5/h30/30689289043998/prd-front-4670716-1_600x600/prd-front-4670716-1-600x600.jpg"
+}

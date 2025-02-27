@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "DermaXPro by Head & Shoulders Revitaliseert Conditioner",
+  "code": "5807562",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027813",
+  "mmkId": "3027813",
+  "productGroupId": "460011",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dermaxpro-by-head-shoulders-revitaliseert-conditioner/p/5807562",
+  "listName": "Lister",
+  "brand": "Head & Shoulders",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h0c/h5a/33115475738654/prd-front-5807562-1_600x600/prd-front-5807562-1-600x600.jpg"
+}

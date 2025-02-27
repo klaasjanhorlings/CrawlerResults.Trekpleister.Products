@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Invisibobble Heatless Curling Set",
+  "code": "6223432",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 3437",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/invisibobble-heatless-curling-set/p/6223432",
+  "listName": "Lister",
+  "brand": "Invisibobble",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267044,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30267184,
+      "name": "Haarbanden"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1e/h58/32568064344094/prd-front-6223432-1_600x600/prd-front-6223432-1-600x600.jpg"
+}

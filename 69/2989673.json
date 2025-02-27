@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Weleda Baby Calendula Verzorgende Olie",
+  "code": "2989673",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2716 > 3419",
+  "supplier": "WELEDA BENELUX SE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/weleda-baby-calendula-verzorgende-olie/p/2989673",
+  "listName": "Lister",
+  "brand": "Weleda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267576,
+      "name": "Babyolie"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h05/hbf/29058185953310/prd-front-2989673-1_600x600/prd-front-2989673-1-600x600.jpg"
+}

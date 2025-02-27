@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 12+M Banaan Kiwi Aardbei Knijpfruit",
+  "code": "5750452",
+  "price": "1.15",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-12m-banaan-kiwi-aardbei-knijpfruit/p/5750452",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267565,
+      "name": "12 maanden +"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/prd-front-5750452-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzcwNDN8aW1hZ2UvanBlZ3xhR0kwTDJneU5pOHhOekExTnpVeE1ETXlOak13TWk5d2NtUXRabkp2Ym5RdE5UYzFNRFExTWkweFh6WXdNSGcyTURBfGY5YjQ3NGM1NjlkZWM2Y2RkNDQ3NWIzMjIwZDVlMWMyMzVjM2M3MmUwOWQ4MzQ3MGY2MmY0YWRjZDQzMzQ3ZmI"
+}

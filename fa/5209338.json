@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Performance Kniebandage",
+  "code": "5209338",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 2698 > 3778",
+  "supplier": "BEIERSDORF NV BL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hansaplast-performance-kniebandage/p/5209338",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267298,
+      "name": "Sport, -blessures en herstel"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h30/h54/31943429750814/prd-front-5209338-1_600x600/prd-front-5209338-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Natterman Voor Alle Hoest Kindersiroop",
+  "code": "3662926",
+  "price": "15.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/natterman-voor-alle-hoest-kindersiroop/p/3662926",
+  "listName": "Lister",
+  "brand": "Natterman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267517,
+      "name": "Hoestdrank"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 180ml",
+  "image": "/medias/sys_master/prd-images/hd0/h27/32897126334494/prd-front-3662926-1_600x600/prd-front-3662926-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Davitamon Vitamine K en D Olie",
+  "code": "3535498",
+  "price": "17.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/davitamon-vitamine-k-en-d-olie/p/3535498",
+  "listName": "Lister",
+  "brand": "Davitamon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267551,
+      "name": "Vitamine K"
+    }
+  ],
+  "description": "10ml + 25ml",
+  "image": "/medias/sys_master/prd-images/hf0/h87/31459853402142/prd-front-3535498-1_600x600/prd-front-3535498-1-600x600.jpg"
+}

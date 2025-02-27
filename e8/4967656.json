@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Stress Moment Tabletten",
+  "code": "4967656",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3027870",
+  "mmkId": "3027870",
+  "productGroupId": "467737",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-stress-moment-tabletten/p/4967656",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267281,
+      "name": "Rust en ontspanning"
+    }
+  ],
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/hc4/h78/28553861922846/prd-front-4967656-1_600x600/prd-front-4967656-1-600x600.jpg"
+}

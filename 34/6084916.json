@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wilkinson Sword Intuition Bikini Care Navulmesjes",
+  "code": "6084916",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
+  "supplier": "WILKINSON SWORD GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wilkinson-sword-intuition-bikini-care-navulmesjes/p/6084916",
+  "listName": "Lister",
+  "brand": "Wilkinson Sword",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h45/h60/30802032001054/prd-front-6084916-1_600x600/prd-front-6084916-1-600x600.jpg"
+}

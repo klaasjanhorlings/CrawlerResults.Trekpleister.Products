@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fashy Kruik",
+  "code": "20511",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 6475 > 6476 > 6477 > 6479",
+  "supplier": "FASHY GMBH - PRODUKTION",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/fashy-kruik/p/20511",
+  "listName": "Lister",
+  "brand": "Fashy",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 30267323,
+      "name": "Hulpmiddelen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2d/hd8/28548743561246/prd-front-20511-1_600x600/prd-front-20511-1-600x600.jpg"
+}

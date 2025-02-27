@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Carmen C5040 Pro Roller Krulset",
+  "code": "5465223",
+  "price": "49.99",
+  "priceOriginal": "64.99",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6429",
+  "supplier": "INVENTUM HUISHOUDELIJKE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 15,00",
+  "url": "/carmen-c5040-pro-roller-krulset/p/5465223",
+  "listName": "Lister",
+  "brand": "Carmen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267496,
+      "name": "Krultangen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5465223-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzE2NTZ8aW1hZ2UvanBlZ3xhR05oTDJnNU5DOHhOekEyTmpnME16VXdORFkzTUM5d2NtUXRabkp2Ym5RdE5UUTJOVEl5TXkweFh6WXdNSGcyTURBfGNlODYxZTVkZTFiYTNjYjEzYWU1MDcwYmU0ZDRmYjAwM2MzNDJlYzJmNDJlYWE3OTJhMTgwYTdlOTJhMjg5ODY"
+}

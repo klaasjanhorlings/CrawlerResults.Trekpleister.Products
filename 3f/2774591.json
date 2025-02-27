@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutrilon A.R. 2 Dieetvoeding Vanaf 6 Maanden",
+  "code": "2774591",
+  "price": "22.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutrilon-ar-2-dieetvoeding-vanaf-6-maanden/p/2774591",
+  "listName": "Lister",
+  "brand": "Nutrilon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267560,
+      "name": "Opvolgmelk"
+    }
+  ],
+  "description": "800g",
+  "image": "/medias/prd-front-2774591-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTM1NzR8aW1hZ2UvanBlZ3xhRFkyTDJnNU9TOHlOalEwTlRnNU9EUXhOakUxT0M5d2NtUXRabkp2Ym5RdE1qYzNORFU1TVMweFh6WXdNSGcyTURBfDMyODU5YzEzNzVlMzFjZGE0MzUxZjc0NjI5MmQ5MmU1YjRmYTZiMTg2ZmU1YjZhNTQ0OTY2ZWI2ODQ4NDc2Njc"
+}

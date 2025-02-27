@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Elvive Extraordinary Oil Oil-In-Cream Voedende Crème",
+  "code": "3484188",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 3577",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-elvive-extraordinary-oil-oil-in-cream-voedende-creme/p/3484188",
+  "listName": "Lister",
+  "brand": "Elvive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267485,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf5/hdd/33039295807518/prd-front-3484188-1_600x600/prd-front-3484188-1-600x600.jpg"
+}

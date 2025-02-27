@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zovirax Koortslip Crème Tube",
+  "code": "39101",
+  "price": "10.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 2842 > 3581",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zovirax-koortslip-creme-tube/p/39101",
+  "listName": "Lister",
+  "brand": "Zovirax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267506,
+      "name": "Koortslip"
+    }
+  ],
+  "description": "Geneesmiddel - 2g",
+  "image": "/medias/sys_master/prd-images/h5b/h6a/28575679905822/prd-front-39101-1_600x600/prd-front-39101-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "XXL Nutrition N'Joy Vanille Protein Drink",
+  "code": "5920003",
+  "price": "2.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
+  "supplier": "XXL INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/xxl-nutrition-njoy-vanille-protein-drink/p/5920003",
+  "listName": "Lister",
+  "brand": "XXL Nutrition",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267309,
+      "name": "Sportdrank"
+    }
+  ],
+  "description": "310ml",
+  "image": "/medias/sys_master/prd-images/hab/h5e/28574326161438/prd-front-5920003-1_600x600/prd-front-5920003-1-600x600.jpg"
+}

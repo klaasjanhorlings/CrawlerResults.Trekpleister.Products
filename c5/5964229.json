@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Gebogen Nagelschaar",
+  "code": "5964229",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6331",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-gebogen-nagelschaar/p/5964229",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267192,
+      "name": "Nagelknippers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h60/hb2/29677693992990/prd-front-5964229-1_600x600/prd-front-5964229-1-600x600.jpg"
+}

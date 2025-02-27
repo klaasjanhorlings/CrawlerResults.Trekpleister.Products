@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "HG Duo Ontstopper",
+  "code": "3772644",
+  "price": "14.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3245 > 4136",
+  "supplier": "HG INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hg-duo-ontstopper/p/3772644",
+  "listName": "Lister",
+  "brand": "HG",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430563,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "1L",
+  "image": "/medias/prd-front-3772644-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjkxMzJ8aW1hZ2UvanBlZ3xhR1U1TDJnM1pDOHhOak0wTnpNNU1EVTBNVGcxTkM5d2NtUXRabkp2Ym5RdE16YzNNalkwTkMweFh6WXdNSGcyTURBfDllNWI2M2Q2Y2FjN2IwMDBiMWJiNDQyZjllOTU5OTUwMjViNmFkNDk2NGZjZTU3ZTVkMWU1MDQ4N2QxN2Y3ZTY"
+}

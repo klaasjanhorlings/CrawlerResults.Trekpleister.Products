@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Facefinity Matte 001 Light Bronze Bronzer",
+  "code": "5235644",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "3027856",
+  "mmkId": "3027856",
+  "productGroupId": "466456",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-facefinity-matte-001-light-bronze-bronzer/p/5235644",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267145,
+      "name": "Bronzer"
+    }
+  ],
+  "description": "10g",
+  "image": "/medias/prd-front-5235644-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzIxMTh8aW1hZ2UvanBlZ3xhREE1TDJnNU5TOHhOamd6TXpZNU56Z3dPRFF4TkM5d2NtUXRabkp2Ym5RdE5USXpOVFkwTkMweFh6WXdNSGcyTURBfDFkNTBiMzllZmFkMTE2NmExYTY2ZmNjOTkzMjgyYTk1YTFkZjhkZGNhNDhhNzExODI4ZjQxNzA5ZTZhNTE4Yzc"
+}

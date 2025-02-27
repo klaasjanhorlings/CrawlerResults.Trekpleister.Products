@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alpecin Liquid Hair Energizer",
+  "code": "2668961",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6697 > 2835",
+  "supplier": "BENCKMAR BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/alpecin-liquid-hair-energizer/p/2668961",
+  "listName": "Lister",
+  "brand": "Alpecin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h6f/he6/33108965097502/prd-front-2668961-1_600x600/prd-front-2668961-1-600x600.jpg"
+}

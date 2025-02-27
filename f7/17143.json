@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Steradent Triple Action Plus Bruistabletten",
+  "code": "17143",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/steradent-triple-action-plus-bruistabletten/p/17143",
+  "listName": "Lister",
+  "brand": "Steradent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267229,
+      "name": "Kunstgebitreiniger"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/h3e/h8b/30266568933406/prd-front-17143-1_600x600/prd-front-17143-1-600x600.jpg"
+}

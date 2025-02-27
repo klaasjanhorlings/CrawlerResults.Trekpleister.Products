@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Glijmiddel Op Siliconenbasis",
+  "code": "6018059",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
+  "supplier": "COBECO PHARMA WHOLESALE",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-glijmiddel-op-siliconenbasis/p/6018059",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267062,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30267305,
+      "name": "Glijmiddelen en massagegels"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hc1/h30/30189022019614/prd-front-6018059-1_600x600/prd-front-6018059-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari 100% Natural Vitamin E Oil",
+  "code": "4449523",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-100-natural-vitamin-e-oil/p/4449523",
+  "listName": "Lister",
+  "brand": "Yari",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213498,
+      "name": "Haarolie"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/prd-front-4449523-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTYxMjV8aW1hZ2UvanBlZ3xhR1ZrTDJnNE5pOHhOamN5T1RFMk5UTXpNalV4TUM5d2NtUXRabkp2Ym5RdE5EUTBPVFV5TXkweFh6WXdNSGcyTURBfDJiZWU5NGQxMmM2MWQ0NGJiNmQzMmIxZTgxODVlZTRkYTMxZmU2Yjg1YTU1ZDNiYWZkZTMwZDEzNjA3MjZiODQ"
+}

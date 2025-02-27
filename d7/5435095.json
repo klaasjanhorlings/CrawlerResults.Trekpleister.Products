@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Men Fresh Active Deodorant Spray",
+  "code": "5435095",
+  "price": "8.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-fresh-active-deodorant-spray/p/5435095",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "2 x 150ml",
+  "image": "/medias/prd-front-5435095-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQ3OTd8aW1hZ2UvanBlZ3xhRE5tTDJnMk9TOHhOekEyTmpFek1EUTNNams1TUM5d2NtUXRabkp2Ym5RdE5UUXpOVEE1TlMweFh6WXdNSGcyTURBfGRjOTRiNzQwZTRlYWM5YjBlMTIzMmQ0OWM0MTY5YjcwZTViYWE5M2M5M2JlMWFhNzMwZWNmM2I2MzFjYTJkZDM"
+}

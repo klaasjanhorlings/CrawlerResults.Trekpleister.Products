@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Energie Vitamine B12 1000 ug Tabletten",
+  "code": "3963352",
+  "price": "5.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-energie-vitamine-b12-1000-ug-tabletten/p/3963352",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267548,
+      "name": "Vitamine B"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h73/h6f/32640280559646/prd-front-3963352-1_600x600/prd-front-3963352-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fujifilm instax Wide Instant Films",
+  "code": "5759769",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4870 > 6017 > 2173 > 2427 > 3260 > 4158",
+  "supplier": "FUJIFILM IMAGING PRODUC",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fujifilm-instax-wide-instant-films/p/5759769",
+  "listName": "Lister",
+  "brand": "Fujifilm",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267113,
+      "name": "Instax"
+    },
+    {
+      "id": 55889979,
+      "name": "Instax fotopapier"
+    }
+  ],
+  "description": "2 x 10 stuks",
+  "image": "/medias/sys_master/prd-images/hcc/h12/28575474122782/prd-front-5759769-1_600x600/prd-front-5759769-1-600x600.jpg"
+}

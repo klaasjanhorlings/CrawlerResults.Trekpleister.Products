@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jil Sander Sun Eau de Toilette",
+  "code": "907502",
+  "price": "18.99",
+  "priceOriginal": "42.94",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "SAR TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 23,95",
+  "url": "/jil-sander-sun-eau-de-toilette/p/907502",
+  "listName": "Lister",
+  "brand": "Jil Sander",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/prd-front-907502-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjkzNjB8aW1hZ2UvanBlZ3xhRFZtTDJoallTOHhOalUzTXpBMU5USTNNRGswTWk5d2NtUXRabkp2Ym5RdE9UQTNOVEF5TFRGZk5qQXdlRFl3TUF8NjExMzEzN2U5NzhiNjAyMjlkNjMzYzk2N2M5Y2Y4ODRiNDZiNzNjZTIyMjg2NzZhMzZiZmNlOWFjYmFlNGY0Nw"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Sensitive 0% Plastic Babydoekjes",
+  "code": "5835821",
+  "price": "62.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027905",
+  "mmkId": "3027905",
+  "productGroupId": "476150",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-sensitive-0-plastic-babydoekjes/p/5835821",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "24 x 52 stuks",
+  "image": "/medias/sys_master/prd-images/h3a/h29/29332926038046/prd-front-5835821-1_600x600/prd-front-5835821-1-600x600.jpg"
+}

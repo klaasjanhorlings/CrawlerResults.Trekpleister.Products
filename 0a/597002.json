@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "John Frieda Frizz Ease Miraculous Recovery Deep Conditioner",
+  "code": "597002",
+  "price": "13.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6695",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/john-frieda-frizz-ease-miraculous-recovery-deep-conditioner/p/597002",
+  "listName": "Lister",
+  "brand": "John Frieda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h70/h33/28998787530782/prd-front-597002-1_600x600/prd-front-597002-1-600x600.jpg"
+}

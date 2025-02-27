@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Got2b Got Gloss Shine Primer",
+  "code": "6010891",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3246 > 4137",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027854",
+  "mmkId": "3027854",
+  "productGroupId": "466332",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/got2b-got-gloss-shine-primer/p/6010891",
+  "listName": "Lister",
+  "brand": "Got2B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267485,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h21/h7a/31270145851422/prd-front-6010891-1_600x600/prd-front-6010891-1-600x600.jpg"
+}

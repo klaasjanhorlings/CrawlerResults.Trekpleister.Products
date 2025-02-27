@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L Oréal Paris Studio Line Fix & Shine High Gloss Wax",
+  "code": "2896412",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027771",
+  "mmkId": "3027771",
+  "productGroupId": "455800",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/l-oreal-paris-studio-line-fix-shine-high-gloss-wax/p/2896412",
+  "listName": "Lister",
+  "brand": "Studioline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267486,
+      "name": "Haarwax"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h18/hb1/28576010207262/prd-front-2896412-1_600x600/prd-front-2896412-1-600x600.jpg"
+}

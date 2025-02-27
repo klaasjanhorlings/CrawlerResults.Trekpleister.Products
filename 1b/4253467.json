@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanature Pro Vivo 100% Katoenen Mini Plus Incontinentieverband",
+  "code": "4253467",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "SANATURE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/sanature-pro-vivo-100-katoenen-mini-plus-incontinentieverband/p/4253467",
+  "listName": "Lister",
+  "brand": "Sanature",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267482,
+      "name": "Incontinentieverband"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 14 stuks",
+  "image": "/medias/sys_master/prd-images/h93/h30/30543653503006/prd-front-4253467-1_600x600/prd-front-4253467-1-600x600.jpg"
+}

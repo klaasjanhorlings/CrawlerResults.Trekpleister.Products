@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gliss Split Hair Miracle Sealing Serum",
+  "code": "5208001",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6696 > 2835",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027900",
+  "mmkId": "3027900",
+  "productGroupId": "472414",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gliss-split-hair-miracle-sealing-serum/p/5208001",
+  "listName": "Lister",
+  "brand": "Gliss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267253,
+      "name": "Haarserum"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/he0/hdd/30885809029150/prd-front-5208001-1_600x600/prd-front-5208001-1-600x600.jpg"
+}

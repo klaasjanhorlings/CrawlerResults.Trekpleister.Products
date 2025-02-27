@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Original Compressed Deodorant Spray",
+  "code": "5840945",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027766",
+  "mmkId": "3027766",
+  "productGroupId": "454705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-original-compressed-deodorant-spray/p/5840945",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hd5/h3d/33196806832158/prd-front-5840945-1_600x600/prd-front-5840945-1-600x600.jpg"
+}

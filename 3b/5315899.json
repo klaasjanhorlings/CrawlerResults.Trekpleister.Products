@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Fructis Watermelon Hair Food Shampoo",
+  "code": "5315899",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027772",
+  "mmkId": "3027772",
+  "productGroupId": "455802",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-fructis-watermelon-hair-food-shampoo/p/5315899",
+  "listName": "Lister",
+  "brand": "Fructis",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "350ml",
+  "image": "/medias/sys_master/prd-images/h16/h89/30140600451102/prd-front-5315899-1_600x600/prd-front-5315899-1-600x600.jpg"
+}

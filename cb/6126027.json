@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "donttellmum Eczeem Repair Junior",
+  "code": "6126027",
+  "price": "21.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4152",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/donttellmum-eczeem-repair-junior/p/6126027",
+  "listName": "Lister",
+  "brand": "donttellmum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267497,
+      "name": "Eczeemcreme"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/he5/h21/31387955494942/prd-front-6126027-1_600x600/prd-front-6126027-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Libresse Intimawear Menstruatie-ondergoed",
+  "code": "5832888",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/libresse-intimawear-menstruatie-ondergoed/p/5832888",
+  "listName": "Lister",
+  "brand": "Libresse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267223,
+      "name": "Menstruatieondergoed"
+    }
+  ],
+  "description": "zwart, mt L",
+  "image": "/medias/sys_master/prd-images/h71/h6c/31087540305950/prd-front-5832888-1_600x600/prd-front-5832888-1-600x600.jpg"
+}

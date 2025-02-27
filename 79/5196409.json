@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ardell Wispies Kunstwimpers",
+  "code": "5196409",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6508 > 6512 > 6516",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/ardell-wispies-kunstwimpers/p/5196409",
+  "listName": "Lister",
+  "brand": "Ardell",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267172,
+      "name": "Nepwimpers"
+    }
+  ],
+  "description": "zwart, 5 paar",
+  "image": "/medias/prd-front-5196409-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTExNzExfGltYWdlL2pwZWd8YURnM0wyaGhOeTh4TmpVME1qZ3dNakV4TmpZek9DOXdjbVF0Wm5KdmJuUXROVEU1TmpRd09TMHhYell3TUhnMk1EQXwwYjhlNmUyZGE1ZDViN2Q4OTM5YmQyMTU0NTcxNGZiMTMzMDk5NDI1Yjg4ZGQ1OTI5MWU3Y2E5ZGJhMjI5Njk3"
+}

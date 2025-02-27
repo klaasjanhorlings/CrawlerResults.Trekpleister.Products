@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L Oréal Paris Studio Line Invisi Fix 24H Clean Modeling Gel-Cream",
+  "code": "2890679",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2838 > 3578",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027771",
+  "mmkId": "3027771",
+  "productGroupId": "455800",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/l-oreal-paris-studio-line-invisi-fix-24h-clean-modeling-gel-cream/p/2890679",
+  "listName": "Lister",
+  "brand": "Studioline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267485,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-2890679-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDMzMDJ8aW1hZ2UvanBlZ3xhRGRqTDJoaVpTOHhOalUxT0RBM05EVTJNRFUwTWk5d2NtUXRabkp2Ym5RdE1qZzVNRFkzT1MweFh6WXdNSGcyTURBfGQyMmM0OTAxZWQ3NWExZjNhNzZiZjY5YTExMDMzOWFmZDJjYWNkMzI3YTJkOTdiNDg0YWI0NDQzZWQ1NzJlM2Y"
+}

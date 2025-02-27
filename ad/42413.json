@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tena Lady Discreet Ultra Mini Inlegkruisjes",
+  "code": "42413",
+  "price": "4.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027778",
+  "mmkId": "3027778",
+  "productGroupId": "457391",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-lady-discreet-ultra-mini-inlegkruisjes/p/42413",
+  "listName": "Lister",
+  "brand": "Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267481,
+      "name": "Incontinentie-inlegkruisjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 28 stuks",
+  "image": "/medias/sys_master/prd-images/ha1/hd5/33389953351710/prd-front-42413-1_600x600/prd-front-42413-1-600x600.jpg"
+}

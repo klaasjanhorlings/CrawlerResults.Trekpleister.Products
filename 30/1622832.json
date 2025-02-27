@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Glycerona Hygiënische Handgel",
+  "code": "1622832",
+  "price": "3.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 5675 > 5672 > 5673",
+  "supplier": "REMARK GROEP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/glycerona-hygienische-handgel/p/1622832",
+  "listName": "Lister",
+  "brand": "Glycerona",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267247,
+      "name": "Handgel"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-1622832-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDEzMjh8aW1hZ2UvanBlZ3xhRFJoTDJobE55OHlOalExTkRBMU1qYzJOVGN5Tmk5d2NtUXRabkp2Ym5RdE1UWXlNamd6TWkweFh6WXdNSGcyTURBfGI0YzQyODA4YjQ4NzNiNTdiZWVhMjllNDA3Nzk3OWQ0NWNkZTZiNTNiOGE4ZWFkZTc2YzYwMTFjYjcwMzQ3YTg"
+}

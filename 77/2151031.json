@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Formule W Wrattenpen",
+  "code": "2151031",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6457 > 6458",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/formule-w-wrattenpen/p/2151031",
+  "listName": "Lister",
+  "brand": "Formule W",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267501,
+      "name": "Wrattenbehandeling"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 1,5ml",
+  "image": "/medias/sys_master/prd-images/h07/h1f/32782322860062/prd-front-2151031-1_600x600/prd-front-2151031-1-600x600.jpg"
+}

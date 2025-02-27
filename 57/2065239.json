@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister 200mg Ibuprofen Omhulde Tabletten",
+  "code": "2065239",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6156 > 6171",
+  "supplier": "AUROBINDO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-200mg-ibuprofen-omhulde-tabletten/p/2065239",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267526,
+      "name": "Ibuprofen"
+    }
+  ],
+  "description": "Geneesmiddel - 40 stuks",
+  "image": "/medias/sys_master/prd-images/hf5/h30/29143649124382/prd-front-2065239-1_600x600/prd-front-2065239-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alpine SleepDeep Slaapoordoppen",
+  "code": "5654825",
+  "price": "14.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
+  "supplier": "ALPINE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027903",
+  "mmkId": "3027903",
+  "productGroupId": "473980",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/alpine-sleepdeep-slaapoordoppen/p/5654825",
+  "listName": "Lister",
+  "brand": "Alpine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267507,
+      "name": "Oordoppen"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h05/h2a/28580873666590/prd-front-5654825-1_600x600/prd-front-5654825-1-600x600.jpg"
+}

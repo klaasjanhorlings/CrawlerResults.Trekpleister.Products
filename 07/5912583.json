@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guhl Color 98 Zilverblond Forming Mousse",
+  "code": "5912583",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2375 > 2815 > 3557",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "3027774",
+  "mmkId": "3027774",
+  "productGroupId": "455882",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/guhl-color-98-zilverblond-forming-mousse/p/5912583",
+  "listName": "Lister",
+  "brand": "Guhl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267491,
+      "name": "Haarmousse"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6a/h6e/28568518131742/prd-front-5912583-1_600x600/prd-front-5912583-1-600x600.jpg"
+}

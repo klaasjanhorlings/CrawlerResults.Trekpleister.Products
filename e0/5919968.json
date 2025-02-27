@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Noorse Formule Intense Repair CICA Voetcrème",
+  "code": "5919968",
+  "price": "10.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6459 > 6460",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-noorse-formule-intense-repair-cica-voetcreme/p/5919968",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48238489,
+      "name": "Voetcrème"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h19/h64/30690471182366/prd-front-5919968-1_600x600/prd-front-5919968-1-600x600.jpg"
+}

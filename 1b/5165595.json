@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Men + Care Extra Fresh Deodorant Spray",
+  "code": "5165595",
+  "price": "32.94",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027738",
+  "mmkId": "3027738",
+  "productGroupId": "471684",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-men-care-extra-fresh-deodorant-spray/p/5165595",
+  "listName": "Lister",
+  "brand": "Dove Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "6 x 150ml",
+  "image": "/medias/sys_master/prd-images/h59/hc4/29308795191326/prd-front-5165595-1_600x600/prd-front-5165595-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Hello, Good Stuff! 48H Hydrating Serum Stick",
+  "code": "6123227",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-hello-good-stuff-48h-hydrating-serum-stick/p/6123227",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267136,
+      "name": "Primer"
+    }
+  ],
+  "description": "30g",
+  "image": "/medias/sys_master/prd-images/ha2/h18/31687288651806/prd-front-6123227-1_600x600/prd-front-6123227-1-600x600.jpg"
+}

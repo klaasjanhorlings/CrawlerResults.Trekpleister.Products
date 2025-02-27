@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vicks Sinex Neusspray",
+  "code": "2226064",
+  "price": "7.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
+  "supplier": "P&G HEALTH BELGIUM BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vicks-sinex-neusspray/p/2226064",
+  "listName": "Lister",
+  "brand": "Vicks",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267518,
+      "name": "Neusspray"
+    }
+  ],
+  "description": "Geneesmiddel - 15ml",
+  "image": "/medias/sys_master/prd-images/h2a/hb3/28575850299422/prd-front-2226064-1_600x600/prd-front-2226064-1-600x600.jpg"
+}

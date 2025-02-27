@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Oogreinigingslotion",
+  "code": "16997",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027831",
+  "mmkId": "3027831",
+  "productGroupId": "461855",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-oogreinigingslotion/p/16997",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267478,
+      "name": "Reinigingstonic"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/prd-front-16997-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTE5OTV8aW1hZ2UvanBlZ3xhR05rTDJnNU15OHhOelEwTlRrek1qazVNRFE1TkM5d2NtUXRabkp2Ym5RdE1UWTVPVGN0TVY4Mk1EQjROakF3fDc1YWI2YzdmZWVmOTlhNTQ1MzJlMGJiMTQzNjE0NWIxZjU2MzgwZDU3ZTE2OGYxYzAzZjJjZDRjY2VkOTI2ZTg"
+}

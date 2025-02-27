@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Silk-épil 9 Epilator",
+  "code": "6037064",
+  "price": "179.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 5886 > 6439",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-silk-epil-9-epilator/p/6037064",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267244,
+      "name": "Epilators"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h91/hdd/30018428436510/prd-front-6037064-1_600x600/prd-front-6037064-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Eau de Zwitsal",
+  "code": "1889105",
+  "price": "17.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-eau-de-zwitsal/p/1889105",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "95ml",
+  "image": "/medias/prd-front-1889105-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQ4NjB8aW1hZ2UvanBlZ3xhRFU0TDJoaE5TOHhOalUzTmpnMk5UWXpNakk0Tmk5d2NtUXRabkp2Ym5RdE1UZzRPVEV3TlMweFh6WXdNSGcyTURBfGI3OGY3NThjYjYyYjgyY2MwYmMzYzZiYWQ1YjY1OTFmYWM2M2NjZTVkNTQxNmJjZTFjNDE4MmY3N2EwMWI3YTQ"
+}

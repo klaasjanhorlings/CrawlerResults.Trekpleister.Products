@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Unicura Balance Soapbar",
+  "code": "2317120",
+  "price": "2.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2597 > 3010 > 5669",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027821",
+  "mmkId": "3027821",
+  "productGroupId": "460846",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/unicura-balance-soapbar/p/2317120",
+  "listName": "Lister",
+  "brand": "Unicura",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267246,
+      "name": "Handzeep"
+    }
+  ],
+  "description": "2 x 90g - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h5b/hb3/28546593030174/prd-front-2317120-1_600x600/prd-front-2317120-1-600x600.jpg"
+}

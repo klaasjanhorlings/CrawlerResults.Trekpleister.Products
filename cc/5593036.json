@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Maat 5 Junior Valuepack Luiers",
+  "code": "5593036",
+  "price": "11.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 2969 > 3771",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-maat-5-junior-valuepack-luiers/p/5593036",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267345,
+      "name": "Luiers maat 5"
+    }
+  ],
+  "description": "42 stuks",
+  "image": "/medias/sys_master/prd-images/h72/h02/28579307388958/prd-front-5593036-1_600x600/prd-front-5593036-1-600x600.jpg"
+}

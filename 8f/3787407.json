@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier PureActive 3-In-1 Anti-Mee-Eters Gezichtsreiniger met Charcoal",
+  "code": "3787407",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027832",
+  "mmkId": "3027832",
+  "productGroupId": "461863",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-pureactive-3-in-1-anti-mee-eters-gezichtsreiniger-met-charcoal/p/3787407",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267480,
+      "name": "Reinigingsscrub"
+    }
+  ],
+  "description": "150ml - Vette en onzuivere huid",
+  "image": "/medias/sys_master/prd-images/h9c/h50/30207724093470/prd-front-3787407-1_600x600/prd-front-3787407-1-600x600.jpg"
+}

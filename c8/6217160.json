@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Koffiemokkenset met Geometrische Patroon",
+  "code": "6217160",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 5860 > 2195 > 4908 > 4954 > 5000",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/koffiemokkenset-met-geometrische-patroon/p/6217160",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267454,
+      "name": "Keuken"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h5c/h2f/32867484368926/prd-front-6217160-1_600x600/prd-front-6217160-1-600x600.jpg"
+}

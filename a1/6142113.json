@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ella's Kitchen Organic 8M+ Bio Pasta Met Groente",
+  "code": "6142113",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ellas-kitchen-organic-8m-bio-pasta-met-groente/p/6142113",
+  "listName": "Lister",
+  "brand": "Ella's Kitchen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267328,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267568,
+      "name": "8+ maanden"
+    }
+  ],
+  "description": "190g",
+  "image": "/medias/sys_master/prd-images/h5e/h84/31460305338398/prd-front-6142113-1_600x600/prd-front-6142113-1-600x600.jpg"
+}

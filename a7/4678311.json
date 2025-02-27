@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Sensor3 Wegwerpscheermesjes",
+  "code": "4678311",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3870",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-sensor3-wegwerpscheermesjes/p/4678311",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "6 stuks",
+  "image": "/medias/prd-front-4678311-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQwMDB8aW1hZ2UvanBlZ3xhRFF5TDJneE15OHhOalU0TVRNeE5EQTFNakV5Tmk5d2NtUXRabkp2Ym5RdE5EWTNPRE14TVMweFh6WXdNSGcyTURBfGI3ZjI4ZGY5ODY1NjU1MjI1ZDc0MmMyZTE5NWZhMjUxOGM1ZjYwNGVmOWJiMjRjZTQ2NDRhMWVkM2NjYjFmMDQ"
+}

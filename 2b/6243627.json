@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "o.b. Menstruatieondergoed",
+  "code": "6243627",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "3027720",
+  "mmkId": "3027720",
+  "productGroupId": "456229",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ob-menstruatieondergoed/p/6243627",
+  "listName": "Lister",
+  "brand": "Ob",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267223,
+      "name": "Menstruatieondergoed"
+    }
+  ],
+  "description": "mt XL",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

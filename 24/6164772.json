@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Vitamine D3 75ug Kauwtabletten",
+  "code": "6164772",
+  "price": "7.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-vitamine-d3-75ug-kauwtabletten/p/6164772",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/he9/h60/32494986723358/prd-front-6164772-1_600x600/prd-front-6164772-1-600x600.jpg"
+}

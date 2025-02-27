@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Allegra Fexotabs Hooikoortstabletten",
+  "code": "5099473",
+  "price": "8.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 3472",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/allegra-fexotabs-hooikoortstabletten/p/5099473",
+  "listName": "Lister",
+  "brand": "Allegra",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267258,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30267510,
+      "name": "Hooikoortstabletten"
+    }
+  ],
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/hde/h40/28578043789342/prd-front-5099473-1_600x600/prd-front-5099473-1-600x600.jpg"
+}

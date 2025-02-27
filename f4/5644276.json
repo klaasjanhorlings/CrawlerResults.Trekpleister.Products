@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Special Oil & Care Shampoo",
+  "code": "5644276",
+  "price": "41.34",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027952",
+  "mmkId": "3027952",
+  "productGroupId": "474589",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-special-oil-care-shampoo/p/5644276",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "6 x 300ml",
+  "image": "/medias/prd-front-5644276-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTU5NzV8aW1hZ2UvanBlZ3xhRFJoTDJnNVlpOHlOalF5TWpReU1UZ3hOVE15Tmk5d2NtUXRabkp2Ym5RdE5UWTBOREkzTmkweFh6WXdNSGcyTURBfGRlN2NmNTYzYzViYzk1ZmRjZTRlZDk1MDFlYzg1NTUyN2M4NzIxOWRiZmIyMmJmMGViMTkxOWRkZmM1MzQ2MDM"
+}

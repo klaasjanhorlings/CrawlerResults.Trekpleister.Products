@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Baby & Kids Babydoekjes",
+  "code": "6131480",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "3027846",
+  "mmkId": "3027846",
+  "productGroupId": "465607",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-baby-kids-babydoekjes/p/6131480",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "3 x 54 stuks",
+  "image": "/medias/sys_master/prd-images/h91/h82/31978230808606/prd-front-6131480-1_600x600/prd-front-6131480-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Elektrische Gezichtsreinigingsborstel",
+  "code": "5964166",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 3905",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-elektrische-gezichtsreinigingsborstel/p/5964166",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50967306,
+      "name": "Gezichtsreinigingstools"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7c/h5a/30105694208030/prd-front-5964166-1_600x600/prd-front-5964166-1-600x600.jpg"
+}

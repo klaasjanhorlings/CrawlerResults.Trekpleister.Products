@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Real Techniques Miracle Complexion Sponge",
+  "code": "4308025",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6406",
+  "supplier": "EMA COMPANY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/real-techniques-miracle-complexion-sponge/p/4308025",
+  "listName": "Lister",
+  "brand": "Real Techniques",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267176,
+      "name": "Make-up sponsjes"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he0/ha8/28576675856414/prd-front-4308025-1_600x600/prd-front-4308025-1-600x600.jpg"
+}

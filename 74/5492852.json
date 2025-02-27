@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Waterwipes Snoetendoekjes",
+  "code": "5492852",
+  "price": "28.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
+  "supplier": "ORANGE-SHEEP BV",
+  "inStock": "inStock",
+  "onPromo": "3027797",
+  "mmkId": "3027797",
+  "productGroupId": "458533",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/waterwipes-snoetendoekjes/p/5492852",
+  "listName": "Lister",
+  "brand": "Waterwipes",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267336,
+      "name": "Snoetenpoetsers"
+    }
+  ],
+  "description": "9 x 60 stuks",
+  "image": "/medias/prd-front-5492852-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzMzMjB8aW1hZ2UvanBlZ3xhRGd3TDJoa1l5OHhOekEyTnpjd05URTNNVGs1T0M5d2NtUXRabkp2Ym5RdE5UUTVNamcxTWkweFh6WXdNSGcyTURBfDMxNzMwNWM1ZDc2Njc3OGM4MTU2MmYzZjQ4NzlhNDE1OGMwZWViMDY5NmE5Mzg4YmRjNzBhNjk4Yjg1ZmRjMmM"
+}

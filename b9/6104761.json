@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Aloe Vera 060 Cranberry Crush Eyeshadow Stick",
+  "code": "6104761",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-aloe-vera-060-cranberry-crush-eyeshadow-stick/p/6104761",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267153,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30267469,
+      "name": "Mono oogschaduw"
+    }
+  ],
+  "description": "1,5g",
+  "image": "/medias/sys_master/prd-images/h81/hc4/31459011723294/prd-front-6104761-1_600x600/prd-front-6104761-1-600x600.jpg"
+}

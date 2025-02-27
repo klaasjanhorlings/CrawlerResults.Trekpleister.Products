@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Prodent Junior 6-13 Jaar Tandpasta",
+  "code": "6070069",
+  "price": "3.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3532",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027861",
+  "mmkId": "3027861",
+  "productGroupId": "467369",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/prodent-junior-6-13-jaar-tandpasta/p/6070069",
+  "listName": "Lister",
+  "brand": "Prodent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h7b/h6f/31142417170462/prd-front-6070069-1_600x600/prd-front-6070069-1-600x600.jpg"
+}

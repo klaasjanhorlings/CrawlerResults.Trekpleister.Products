@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Natterman Noscasan Hoestsiroop",
+  "code": "1538790",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/natterman-noscasan-hoestsiroop/p/1538790",
+  "listName": "Lister",
+  "brand": "Natterman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267523,
+      "name": "Hoestsiropen"
+    }
+  ],
+  "description": "Geneesmiddel - 150ml",
+  "image": "/medias/sys_master/prd-images/h23/hc3/32924208726046/prd-front-1538790-1_600x600/prd-front-1538790-1-600x600.jpg"
+}

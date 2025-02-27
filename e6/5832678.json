@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Munchkin Miracle 360° Sippy Cup",
+  "code": "5832678",
+  "price": "13.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
+  "supplier": "MEUBLEPLUS BV",
+  "inStock": "inStock",
+  "onPromo": "3027909",
+  "mmkId": "3027909",
+  "productGroupId": "471472",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/munchkin-miracle-360-sippy-cup/p/5832678",
+  "listName": "Lister",
+  "brand": "Munchkin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267357,
+      "name": "Drinkbeker"
+    }
+  ],
+  "description": "roze, 295ml",
+  "image": "/medias/prd-front-5832678-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTcxMzJ8aW1hZ2UvanBlZ3xhRFl4TDJoa01TOHlOalkyTnpnME5EWTVPREUwTWk5d2NtUXRabkp2Ym5RdE5UZ3pNalkzT0MweFh6WXdNSGcyTURBfGE2OTAxMzM0ZjZjNGYwZjFjNTZjNTExODVmODNkMWMwN2YyMTk3OTFmOTM2ZTMzZWIzYWI0YjEwNzkwNmM2NzE"
+}

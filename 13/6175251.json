@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Finish Powerball Quantum Vaatwastabletten",
+  "code": "6175251",
+  "price": "27.99",
+  "priceOriginal": "79.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
+  "supplier": "RB HYGIENE HOME NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 52,00",
+  "url": "/finish-powerball-quantum-vaatwastabletten/p/6175251",
+  "listName": "Lister",
+  "brand": "Finish",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267114,
+      "name": "Vaatwas"
+    },
+    {
+      "id": 30267439,
+      "name": "Vaatwastabletten"
+    }
+  ],
+  "description": "161 stuks"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hero Nutrasense Comfort+ AR 2 6+M Opvolgmelk",
+  "code": "3689771",
+  "price": "20.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
+  "supplier": "HERO NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hero-nutrasense-comfort-ar-2-6m-opvolgmelk/p/3689771",
+  "listName": "Lister",
+  "brand": "Hero Nutrasense",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267560,
+      "name": "Opvolgmelk"
+    }
+  ],
+  "description": "700g",
+  "image": "/medias/sys_master/prd-images/h65/hc1/32818931204126/prd-front-3689771-1_600x600/prd-front-3689771-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Breathe Right Neusstrips",
+  "code": "1838600",
+  "price": "18.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6598",
+  "supplier": "THEOTCLAB HEALTHCARE BV",
+  "inStock": "inStock",
+  "onPromo": "3027852",
+  "mmkId": "3027852",
+  "productGroupId": "466220",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/breathe-right-neusstrips/p/1838600",
+  "listName": "Lister",
+  "brand": "Breathe Right",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 49950103,
+      "name": "Snurken"
+    }
+  ],
+  "description": "Medisch hulpmiddel - mt L, 30 stuks",
+  "image": "/medias/sys_master/prd-images/hd2/hf4/28939995643934/prd-front-1838600-1_600x600/prd-front-1838600-1-600x600.jpg"
+}

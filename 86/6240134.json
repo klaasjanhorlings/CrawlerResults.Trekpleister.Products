@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rascals Maat 7 Premium Luiers",
+  "code": "6240134",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3017 > 3842",
+  "supplier": "ZURU NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/rascals-maat-7-premium-luiers/p/6240134",
+  "listName": "Lister",
+  "brand": "Rascal + Friends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267347,
+      "name": "Luiers maat 7"
+    }
+  ],
+  "description": "mt 7, 20 stuks",
+  "image": "/medias/sys_master/prd-images/h1c/h9e/33268864417822/prd-front-6240134-1_600x600/prd-front-6240134-1-600x600.jpg"
+}

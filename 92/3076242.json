@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dermolin Dagcrème",
+  "code": "3076242",
+  "price": "12.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "BMEDCARE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dermolin-dagcreme/p/3076242",
+  "listName": "Lister",
+  "brand": "Dermolin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-3076242-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQzODV8aW1hZ2UvanBlZ3xhR1F6TDJoallTOHhOelV5TURBME5qZ3pNelk1TkM5d2NtUXRabkp2Ym5RdE16QTNOakkwTWkweFh6WXdNSGcyTURBfGZiZTFjMzY4YzI2ZDAzYTRhM2ZkMjM4NTJjZDhkMDY3YzljMDI4MWY2NGYyNzhhNWQ1M2NlOWJhZWM5ZTZiYjk"
+}

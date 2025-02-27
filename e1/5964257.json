@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Neus- en Oorhaar Trimmer",
+  "code": "5964257",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6331",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-neus-en-oorhaar-trimmer/p/5964257",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267242,
+      "name": "Haartrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf7/h2a/29677181665310/prd-front-5964257-1_600x600/prd-front-5964257-1-600x600.jpg"
+}

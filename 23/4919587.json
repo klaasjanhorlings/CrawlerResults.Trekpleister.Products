@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 15+M Bruine Bonen Appel Rundvlees Aardappel",
+  "code": "4919587",
+  "price": "1.74",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 3025 > 3850",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-15m-bruine-bonen-appel-rundvlees-aardappel/p/4919587",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267328,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267570,
+      "name": "15+ maanden"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h88/hc8/30689473069086/prd-front-4919587-1_600x600/prd-front-4919587-1-600x600.jpg"
+}

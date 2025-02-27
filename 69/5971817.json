@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Estée Lauder Revitalizing Supreme Youth Dagcrème",
+  "code": "5971817",
+  "price": "77.99",
+  "priceOriginal": "123.0",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "K!CK TRADING BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 45,01",
+  "url": "/estee-lauder-revitalizing-supreme-youth-dagcreme/p/5971817",
+  "listName": "Lister",
+  "brand": "Estée Lauder",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hec/h46/30108275539998/prd-front-5971817-1_600x600/prd-front-5971817-1-600x600.jpg"
+}

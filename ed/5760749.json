@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nijntje Wasgel",
+  "code": "5760749",
+  "price": "3.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
+  "supplier": "CARESSE COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nijntje-wasgel/p/5760749",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267334,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267582,
+      "name": "Babywasgel"
+    }
+  ],
+  "description": "blauw, 250ml",
+  "image": "/medias/prd-front-5760749-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzY0MTd8aW1hZ2UvanBlZ3xhRFl4TDJnMVpDOHhOalF6T0RJek5UWXlOelUxTUM5d2NtUXRabkp2Ym5RdE5UYzJNRGMwT1MweFh6WXdNSGcyTURBfDAzYzljMzdmNzI1NTBjNGRjYzA4MGZhNDY3YmI4YTJkNWQ2ZDJjNzc5MjMzMTIxNjY3YTEzZmYxZTVjNzQ3YmY"
+}

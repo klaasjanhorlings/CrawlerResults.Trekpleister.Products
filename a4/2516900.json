@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Libresse Dailies Fresh & Protect Extra Long Inlegkruisjes",
+  "code": "2516900",
+  "price": "2.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027782",
+  "mmkId": "3027782",
+  "productGroupId": "457395",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/libresse-dailies-fresh-protect-extra-long-inlegkruisjes/p/2516900",
+  "listName": "Lister",
+  "brand": "Libresse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267220,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "22 stuks",
+  "image": "/medias/prd-front-2516900-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDE0MzJ8aW1hZ2UvanBlZ3xhREkzTDJnNFppOHhOakkxTmpNeE1UQTVPVFF5TWk5d2NtUXRabkp2Ym5RdE1qVXhOamt3TUMweFh6WXdNSGcyTURBfDAxNmQ0NDJmOTRlYmE2NzlkM2UxYWFjODcyYWFhMmMzZjMxN2Y1NmQxZjlkNGNkYzVhZjFlY2QyMTczZDM2ZTI"
+}

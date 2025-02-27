@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clearblue Digitale Ovulatietest",
+  "code": "6120021",
+  "price": "38.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2553 > 4301 > 4300",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/clearblue-digitale-ovulatietest/p/6120021",
+  "listName": "Lister",
+  "brand": "Clearblue",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267267,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30267544,
+      "name": "Ovulatietesten"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h88/hb4/32249092636702/prd-front-6120021-1_600x600/prd-front-6120021-1-600x600.jpg"
+}

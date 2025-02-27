@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Men Deep Sport Antitranspirant Deodorant Roller",
+  "code": "6039724",
+  "price": "6.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3874",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-deep-sport-antitranspirant-deodorant-roller/p/6039724",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267200,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h92/hdc/30226381373470/prd-front-6039724-1_600x600/prd-front-6039724-1-600x600.jpg"
+}

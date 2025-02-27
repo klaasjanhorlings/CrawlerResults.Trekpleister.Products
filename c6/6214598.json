@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Celenes by Sweden Sea Buckthorn + Vitamine C Cleansing Foam",
+  "code": "6214598",
+  "price": "17.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "CAREX BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/celenes-by-sweden-sea-buckthorn-vitamine-c-cleansing-foam/p/6214598",
+  "listName": "Lister",
+  "brand": "CELENES BY SWEDEN",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677084,
+      "name": "Reinigingsmousse"
+    }
+  ],
+  "description": "250ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h94/h1c/33294708506654/prd-front-6214598-1_600x600/prd-front-6214598-1-600x600.jpg"
+}

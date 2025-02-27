@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Brow Shaper 20 Brown Wenkbrauwpotlood",
+  "code": "4161494",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "3027856",
+  "mmkId": "3027856",
+  "productGroupId": "466456",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-brow-shaper-20-brown-wenkbrauwpotlood/p/4161494",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30267467,
+      "name": "Wenkbrauwpotlood"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbf/hff/28616356429854/prd-front-4161494-1_600x600/prd-front-4161494-1-600x600.jpg"
+}

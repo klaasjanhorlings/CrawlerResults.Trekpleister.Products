@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Strepfen Sinaasappel Suikervrij Zuigtabletten",
+  "code": "3907170",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/strepfen-sinaasappel-suikervrij-zuigtabletten/p/3907170",
+  "listName": "Lister",
+  "brand": "Strepfen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267520,
+      "name": "Keelpastilles"
+    }
+  ],
+  "description": "Geneesmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/h93/hc2/28549859803166/prd-front-3907170-1_600x600/prd-front-3907170-1-600x600.jpg"
+}

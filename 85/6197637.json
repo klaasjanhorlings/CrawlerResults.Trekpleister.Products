@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Expert+ Second Skin Protection Hydrocolloïde Pleisters",
+  "code": "6197637",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4247",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hansaplast-expert-second-skin-protection-hydrocolloide-pleisters/p/6197637",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267296,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414262,
+      "name": "Waterbestendige pleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/h4f/hc2/32902331170846/prd-front-6197637-1_600x600/prd-front-6197637-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Premium Protection Maat 6 Luiers",
+  "code": "6243739",
+  "price": "52.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-premium-protection-maat-6-luiers/p/6243739",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267346,
+      "name": "Luiers maat 6"
+    }
+  ],
+  "description": "mt 6 (13-18kg), 70 stuks",
+  "image": "/medias/sys_master/prd-images/hba/hfa/33351620722718/prd-front-6243739-1_600x600/prd-front-6243739-1-600x600.jpg"
+}

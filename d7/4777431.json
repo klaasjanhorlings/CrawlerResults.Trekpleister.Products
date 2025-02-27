@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medisana BS 483 Lichaamsanalyse Weegschaal",
+  "code": "4777431",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 6475 > 6476 > 6477 > 5698",
+  "supplier": "MEDISANA BENELUX NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medisana-bs-483-lichaamsanalyse-weegschaal/p/4777431",
+  "listName": "Lister",
+  "brand": "Medisana",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 30267317,
+      "name": "Weegschaal"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd5/h33/29174071394334/prd-front-4777431-1_600x600/prd-front-4777431-1-600x600.jpg"
+}

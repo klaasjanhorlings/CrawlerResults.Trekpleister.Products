@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanature 100% Katoenen Ultra Thin Night Maandverband",
+  "code": "5971691",
+  "price": "4.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
+  "supplier": "SANATURE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/sanature-100-katoenen-ultra-thin-night-maandverband/p/5971691",
+  "listName": "Lister",
+  "brand": "Sanature",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267219,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h59/hfa/28754786517022/prd-front-5971691-1_600x600/prd-front-5971691-1-600x600.jpg"
+}

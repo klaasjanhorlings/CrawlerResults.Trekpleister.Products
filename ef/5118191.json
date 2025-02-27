@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Veet Miraculous Oil",
+  "code": "5118191",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 3115 > 3981",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3027841",
+  "mmkId": "3027841",
+  "productGroupId": "464695",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/veet-miraculous-oil/p/5118191",
+  "listName": "Lister",
+  "brand": "Veet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267239,
+      "name": "Ontharingscreme, wax en hars"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-5118191-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTM5NDB8aW1hZ2UvanBlZ3xhRGt3TDJnMU55OHlOalU1TlRFNU16YzBPVFV6TkM5d2NtUXRabkp2Ym5RdE5URXhPREU1TVMweFh6WXdNSGcyTURBfDM1YTI3NTIwMmQyMzU3NWUyMDE5ZTM1MTRiM2E2M2VkMDk3MmY2YTI0N2JkODJhNzNmMDZhMjNiYWI1ZDY1MTI"
+}

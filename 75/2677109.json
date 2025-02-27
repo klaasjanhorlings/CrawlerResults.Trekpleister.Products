@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Body Love Intense Care Bodylotion",
+  "code": "2677109",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027766",
+  "mmkId": "3027766",
+  "productGroupId": "454705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-body-love-intense-care-bodylotion/p/2677109",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267194,
+      "name": "Bodylotion"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/prd-front-2677109-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQ0Mjl8aW1hZ2UvanBlZ3xhR1E1TDJnMU15OHhOall3TlRVMk16UTFNelEzTUM5d2NtUXRabkp2Ym5RdE1qWTNOekV3T1MweFh6WXdNSGcyTURBfGIzNjBkYTdmNWVmNzY0OWE3YmU3ZWFmZGE5ZTcwMjM5MmExYjUyMjc4ZmUzNTg1MTM0NmJjMTE2MWViNTE5YjM"
+}

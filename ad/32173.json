@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Lady Ontharingscrème voor de Gevoelige Huid",
+  "code": "32173",
+  "price": "3.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 2839 > 3579",
+  "supplier": "VIOKOX SA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-lady-ontharingscreme-voor-de-gevoelige-huid/p/32173",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267239,
+      "name": "Ontharingscreme, wax en hars"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h48/hd4/29176355749918/prd-front-32173-1_600x600/prd-front-32173-1-600x600.jpg"
+}

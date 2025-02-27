@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Roter Paracetamol 500 mg Liquid Caps",
+  "code": "4267166",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6157 > 6176",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/roter-paracetamol-500-mg-liquid-caps/p/4267166",
+  "listName": "Lister",
+  "brand": "Roter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267529,
+      "name": "Pijnstiller"
+    }
+  ],
+  "description": "Geneesmiddel - 20 capsules",
+  "image": "/medias/prd-front-4267166-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzUzOTh8aW1hZ2UvanBlZ3xhREEwTDJnMVlpOHhOelV6TkRnd016Y3dOVGc0Tmk5d2NtUXRabkp2Ym5RdE5ESTJOekUyTmkweFh6WXdNSGcyTURBfDFmM2RlNjMzMDAxNzYwYjJkZGI1YWZkNWUyOWEyNzc5OGMzMzUxYzY5YTk2YmRkYzg4NDRjMTBhZWRiOWViYTA"
+}

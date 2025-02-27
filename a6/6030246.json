@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Classics Color  3-in-1 Wascapsules",
+  "code": "6030246",
+  "price": "39.99",
+  "priceOriginal": "85.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 46,00",
+  "url": "/robijn-classics-color-3-in-1-wascapsules/p/6030246",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/hf7/h35/30169573392414/prd-front-6030246-1_600x600/prd-front-6030246-1-600x600.jpg"
+}

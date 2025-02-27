@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jean Paul Gaultier Scandal Eau de Parfum",
+  "code": "5985145",
+  "price": "48.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "JTG BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jean-paul-gaultier-scandal-eau-de-parfum/p/5985145",
+  "listName": "Lister",
+  "brand": "Jean Paul Gaultier",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/heb/h6a/29215812255774/prd-front-5985145-1_600x600/prd-front-5985145-1-600x600.jpg"
+}

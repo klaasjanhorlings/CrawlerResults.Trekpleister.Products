@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York SuperStay 24H 6 Hybrid Powder Foundation",
+  "code": "5904673",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3027873",
+  "mmkId": "3027873",
+  "productGroupId": "468329",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-superstay-24h-6-hybrid-powder-foundation/p/5904673",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267134,
+      "name": "Foundation"
+    }
+  ],
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/h31/h8f/28567694409758/prd-front-5904673-1_600x600/prd-front-5904673-1-600x600.jpg"
+}

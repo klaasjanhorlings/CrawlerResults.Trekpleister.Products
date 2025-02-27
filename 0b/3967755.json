@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister SOS Handcrème",
+  "code": "3967755",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-sos-handcreme/p/3967755",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267245,
+      "name": "Handcrèmes"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-3967755-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjYxOTR8aW1hZ2UvanBlZ3xhR0U1TDJnellpOHhOekExTnpReE16TXpNekF5TWk5d2NtUXRabkp2Ym5RdE16azJOemMxTlMweFh6WXdNSGcyTURBfDI2YzM5MzkzZmZmMWUxOTNjMzAxZTEzMzhhMWU5MzY1ODg2MGE2YjUwZDg2ZjkyMTZhNTY3NDE5ODhmNzg0N2E"
+}

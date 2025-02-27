@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Happy Earth Baby & Kids 100% Natural Hair Lotion",
+  "code": "6129079",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2721 > 3424",
+  "supplier": "ORANGE-SHEEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/happy-earth-baby-kids-100-natural-hair-lotion/p/6129079",
+  "listName": "Lister",
+  "brand": "Happy Earth",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267332,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267572,
+      "name": "Baby haarlotion"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h8f/h3b/31463296335902/prd-front-6129079-1_600x600/prd-front-6129079-1-600x600.jpg"
+}

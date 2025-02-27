@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aunt Jackie's Coconut Crème Recipes Curl Boss Coconut Curling Gelée",
+  "code": "5431147",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5918 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aunt-jackies-coconut-creme-recipes-curl-boss-coconut-curling-gelee/p/5431147",
+  "listName": "Lister",
+  "brand": "Aunt Jackie's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "426g",
+  "image": "/medias/prd-front-5431147-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTQwOTF8aW1hZ2UvanBlZ3xhRFkzTDJnMU1TOHhOalUyT0Rjek1EazNOakk0Tmk5d2NtUXRabkp2Ym5RdE5UUXpNVEUwTnkweFh6WXdNSGcyTURBfGY5ZTBiYmI3YmFkNDc0MDc1NzY3ZWNhOWU4YTljNTQ0ZWMxODVlNjI1M2Q5MWE0Y2YwNTQyNWVmMWZiYTQ3ZTA"
+}

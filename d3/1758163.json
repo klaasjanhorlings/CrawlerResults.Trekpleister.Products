@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rexona Men Maximum Protection Clean Scent Antitranspirant Deodorant Stick",
+  "code": "1758163",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5731 > 3876",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027766",
+  "mmkId": "3027766",
+  "productGroupId": "454705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rexona-men-maximum-protection-clean-scent-antitranspirant-deodorant-stick/p/1758163",
+  "listName": "Lister",
+  "brand": "Rexona",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267202,
+      "name": "Deostick"
+    }
+  ],
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/h61/hc7/30115363422238/prd-front-1758163-1_600x600/prd-front-1758163-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Shiepz Melatonine Time Release 0,1mg Tabletten",
+  "code": "5210367",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6605",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/shiepz-melatonine-time-release-0-1mg-tabletten/p/5210367",
+  "listName": "Lister",
+  "brand": "Shiepz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49950674,
+      "name": "Melatonine"
+    }
+  ],
+  "description": "500 stuks",
+  "image": "/medias/sys_master/prd-images/hb7/h78/32639930335262/prd-front-5210367-1_600x600/prd-front-5210367-1-600x600.jpg"
+}

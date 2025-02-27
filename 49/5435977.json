@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SheaMoisture Coconut & Hibiscus Curl & Shine Conditioner",
+  "code": "5435977",
+  "price": "17.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6700 > 5896",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sheamoisture-coconut-hibiscus-curl-shine-conditioner/p/5435977",
+  "listName": "Lister",
+  "brand": "SheaMoisture",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "384ml",
+  "image": "/medias/sys_master/prd-images/h7b/h39/28552899330078/prd-front-5435977-1_600x600/prd-front-5435977-1-600x600.jpg"
+}

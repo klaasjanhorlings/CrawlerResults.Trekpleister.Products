@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fleuril Renew White Vloeibaar Wasmiddel",
+  "code": "6033326",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 4253",
+  "supplier": "HENKEL NEDERLAND BV U-W",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fleuril-renew-white-vloeibaar-wasmiddel/p/6033326",
+  "listName": "Lister",
+  "brand": "Fleuril",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "1350ml, 27 wasbeurten",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

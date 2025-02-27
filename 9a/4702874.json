@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Syoss Texture Clay",
+  "code": "4702874",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3246 > 4137",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027854",
+  "mmkId": "3027854",
+  "productGroupId": "466332",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-texture-clay/p/4702874",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267484,
+      "name": "Haarklei"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h18/h27/33038972452894/prd-front-4702874-1_600x600/prd-front-4702874-1-600x600.jpg"
+}

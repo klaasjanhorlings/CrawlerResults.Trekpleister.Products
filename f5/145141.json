@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Atrosan Spier- en Gewrichtsgel",
+  "code": "145141",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "A.VOGEL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-atrosan-spier-en-gewrichtsgel/p/145141",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267536,
+      "name": "Spier- en gewrichtsbalsems"
+    }
+  ],
+  "description": "Geneesmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/he8/hec/33354227449886/prd-front-145141-1_600x600/prd-front-145141-1-600x600.jpg"
+}

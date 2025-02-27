@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lena Truckies Oogstmachine",
+  "code": "6127833",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2140 > 4929 > 4975 > 5021",
+  "supplier": "SELECTA SPEL EN HOBBY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/lena-truckies-oogstmachine/p/6127833",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267082,
+      "name": "Voertuigen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h77/hba/31459010084894/prd-front-6127833-1_600x600/prd-front-6127833-1-600x600.jpg"
+}

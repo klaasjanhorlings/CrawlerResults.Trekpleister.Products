@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Fructis Hairfood Aloë Vera Haarmasker",
+  "code": "4713906",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-fructis-hairfood-aloe-vera-haarmasker/p/4713906",
+  "listName": "Lister",
+  "brand": "Fructis",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "390ml",
+  "image": "/medias/sys_master/prd-images/h64/hc8/31568445374494/prd-front-4713906-1_600x600/prd-front-4713906-1-600x600.jpg"
+}

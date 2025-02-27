@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Zen By Night Massage Oil",
+  "code": "5472062",
+  "price": "11.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-zen-by-night-massage-oil/p/5472062",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267197,
+      "name": "Massageolie en massagelotion"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h9a/h02/28764833447966/prd-front-5472062-1_600x600/prd-front-5472062-1-600x600.jpg"
+}

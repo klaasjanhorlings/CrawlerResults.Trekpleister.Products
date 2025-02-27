@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Infacol Orale Suspensie",
+  "code": "1557228",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3943",
+  "supplier": "TEVA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/infacol-orale-suspensie/p/1557228",
+  "listName": "Lister",
+  "brand": "Infacol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 49950161,
+      "name": "Maag en darmkramp"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/h0a/h41/33278830805022/prd-front-1557228-1_600x600/prd-front-1557228-1-600x600.jpg"
+}

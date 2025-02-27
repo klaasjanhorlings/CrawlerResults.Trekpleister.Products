@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vagisil Crème 30Gr",
+  "code": "5930041",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3100 > 3963",
+  "supplier": "THEOTCLAB HEALTHCARE BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vagisil-creme-30gr/p/5930041",
+  "listName": "Lister",
+  "brand": "Vagisil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267259,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 49949762,
+      "name": "Vrouw"
+    }
+  ],
+  "description": "30g",
+  "image": "/medias/sys_master/prd-images/hc5/hcd/33485008044062/prd-front-5930041-1_600x600/prd-front-5930041-1-600x600.jpg"
+}

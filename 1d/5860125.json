@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Glorix Original Dikke Bleek",
+  "code": "5860125",
+  "price": "1.49",
+  "priceOriginal": "2.15",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 0,66",
+  "url": "/glorix-original-dikke-bleek/p/5860125",
+  "listName": "Lister",
+  "brand": "Glorix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430563,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "750ml",
+  "image": "/medias/sys_master/prd-images/hac/h93/31944411480094/prd-front-5860125-1_600x600/prd-front-5860125-1-600x600.jpg"
+}

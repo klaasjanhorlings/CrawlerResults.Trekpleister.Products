@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Sonicare W2 Optimal White HX6064/11 Opzetborstels",
+  "code": "6131459",
+  "price": "32.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-sonicare-w2-optimal-white-hx6064/11-opzetborstels/p/6131459",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267232,
+      "name": "Opzetborstels"
+    }
+  ],
+  "description": "zwart, 4 stuks",
+  "image": "/medias/sys_master/prd-images/hcc/hd9/33486274723870/prd-front-6131459-1_600x600/prd-front-6131459-1-600x600.jpg"
+}

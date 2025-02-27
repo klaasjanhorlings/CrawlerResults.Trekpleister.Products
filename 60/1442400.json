@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Lady Wax Ontharingsstrips",
+  "code": "1442400",
+  "price": "3.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 3272 > 4173",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-lady-wax-ontharingsstrips/p/1442400",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267239,
+      "name": "Ontharingscreme, wax en hars"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/h96/h64/31529791684638/prd-front-1442400-1_600x600/prd-front-1442400-1-600x600.jpg"
+}

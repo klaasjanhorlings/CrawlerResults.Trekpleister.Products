@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Foamie Shake Your Coconuts Conditioner Bar",
+  "code": "5799246",
+  "price": "5.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 6599",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/foamie-shake-your-coconuts-conditioner-bar/p/5799246",
+  "listName": "Lister",
+  "brand": "Foamie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "45g",
+  "image": "/medias/prd-front-5799246-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODkxMjl8aW1hZ2UvanBlZ3xhREl4TDJneVl5OHlOalF4TURrME1UZ3dPRFkzTUM5d2NtUXRabkp2Ym5RdE5UYzVPVEkwTmkweFh6WXdNSGcyTURBfGM1OTQ0ZWJmOGIyYTFhNmRlMjRmMTA1NDY3MWM1OGY4ZDlmZmE5MGZiYWYwZjRjNGU1ZTA5NDgyZGU2OGRmYTk"
+}

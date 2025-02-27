@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Pro-Care Protein Plex Repair Pre-treatment",
+  "code": "6121869",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027858",
+  "mmkId": "3027858",
+  "productGroupId": "466489",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-pro-care-protein-plex-repair-pre-treatment/p/6121869",
+  "listName": "Lister",
+  "brand": "Andrelon Pro-Care",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 68375865,
+      "name": "Pre shampoo"
+    }
+  ],
+  "description": "170ml",
+  "image": "/medias/sys_master/prd-images/h23/h5f/31447630413854/prd-front-6121869-1_600x600/prd-front-6121869-1-600x600.jpg"
+}

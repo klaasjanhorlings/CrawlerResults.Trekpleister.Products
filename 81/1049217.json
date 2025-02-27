@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Ginkgo Biloba Tabletten",
+  "code": "1049217",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3027871",
+  "mmkId": "3027871",
+  "productGroupId": "467738",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-ginkgo-biloba-tabletten/p/1049217",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49793784,
+      "name": "Geheugen & Concentratie"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hbe/h33/28549589860382/prd-front-1049217-1_600x600/prd-front-1049217-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Goudmerk Oploskoffie",
+  "code": "4434102",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2963 > 3764",
+  "supplier": "TB BROWN BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-goudmerk-oploskoffie/p/4434102",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267443,
+      "name": "Koffie"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/hef/ha7/28551069663262/prd-front-4434102-1_600x600/prd-front-4434102-1-600x600.jpg"
+}

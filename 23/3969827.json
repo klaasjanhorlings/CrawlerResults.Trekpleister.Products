@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hugo Boss Orange Woman Eau de Toilette",
+  "code": "3969827",
+  "price": "33.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "SAR TRADING BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hugo-boss-orange-woman-eau-de-toilette/p/3969827",
+  "listName": "Lister",
+  "brand": "Hugo Boss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h54/h35/28549912461342/prd-front-3969827-1_600x600/prd-front-3969827-1-600x600.jpg"
+}

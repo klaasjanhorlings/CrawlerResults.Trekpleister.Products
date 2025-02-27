@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Disney Frozen Multivitaminen Gummies",
+  "code": "4727906",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/disney-frozen-multivitaminen-gummies/p/4727906",
+  "listName": "Lister",
+  "brand": "Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267553,
+      "name": "Kindervitamines"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/prd-front-4727906-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzQ4MDF8aW1hZ2UvanBlZ3xhREUxTDJnMlppOHhOek0yTlRFNE1qUTBOelkwTmk5d2NtUXRabkp2Ym5RdE5EY3lOemt3TmkweFh6WXdNSGcyTURBfGJmNzA5NTJhYWUyNGFiYzI5NzRmYzNkZjgyMTEyNjA2NTk4ZmQ5NzE1MTU4NTQwZDA4ZjAyNDkxYjIxODQyN2U"
+}

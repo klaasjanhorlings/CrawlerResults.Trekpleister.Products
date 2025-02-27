@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Avent Scf551/05 6+M Drinkbeker met Zachte Tuit",
+  "code": "5297517",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-avent-scf551/05-6m-drinkbeker-met-zachte-tuit/p/5297517",
+  "listName": "Lister",
+  "brand": "Philips Avent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267357,
+      "name": "Drinkbeker"
+    }
+  ],
+  "description": "blauw, 200ml",
+  "image": "/medias/sys_master/prd-images/h9c/h5a/28578706751518/prd-front-5297517-1_600x600/prd-front-5297517-1-600x600.jpg"
+}

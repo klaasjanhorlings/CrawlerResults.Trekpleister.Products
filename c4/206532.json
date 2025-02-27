@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. Beckmann Ossengalzeep Pre-Wash Vlekkenspray",
+  "code": "206532",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
+  "supplier": "BENCKMAR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dr-beckmann-ossengalzeep-pre-wash-vlekkenspray/p/206532",
+  "listName": "Lister",
+  "brand": "Dr. Beckmann",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267119,
+      "name": "Vlekverwijderaars"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/prd-front-206532-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDk5NTZ8aW1hZ2UvanBlZ3xhREZsTDJnNFlpOHhOekV4TVRRd09EUXhNRFkxTkM5d2NtUXRabkp2Ym5RdE1qQTJOVE15TFRGZk5qQXdlRFl3TUF8NjM0MjNiYjNlMjJhNTc4Yjk0YzBhOTFlNzNjNGZjMzQ3YWI4MWMzMjM1NTdjY2JhNTUyZTBlNGM4N2RmM2EyZA"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cantu Carbon Fibre Kammenset",
+  "code": "5932820",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6321",
+  "supplier": "ORIGINAL ADDITIONS (BP)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/cantu-carbon-fibre-kammenset/p/5932820",
+  "listName": "Lister",
+  "brand": "Cantu",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267044,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30267182,
+      "name": "Kammen"
+    }
+  ],
+  "description": "grijs, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hfb/h33/28887638016030/prd-front-5932820-1_600x600/prd-front-5932820-1-600x600.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Sensitive Billendoekjes",
+  "code": "4746281",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027726",
+  "mmkId": "3027726",
+  "productGroupId": "457983",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-sensitive-billendoekjes/p/4746281",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "12 x 52 stuks"
+}

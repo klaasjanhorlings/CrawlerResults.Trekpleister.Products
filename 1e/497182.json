@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutral Parfumvrije Deodorant Roller",
+  "code": "497182",
+  "price": "5.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027764",
+  "mmkId": "3027764",
+  "productGroupId": "454699",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutral-parfumvrije-deodorant-roller/p/497182",
+  "listName": "Lister",
+  "brand": "Neutral",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267200,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-497182-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTY3MjV8aW1hZ2UvanBlZ3xhR1EzTDJneFl5OHhOakl6TnpFeE1UVXdPVEF5TWk5d2NtUXRabkp2Ym5RdE5EazNNVGd5TFRGZk5qQXdlRFl3TUF8OWZhNTBkNjgxOGY5OTY3NDQ5YjY2MDlkZWM4ZWIwZTc1Njg4MzJjNjM3MTNkNjdhYzYxMTIxOTg4OWNkMWMxOQ"
+}

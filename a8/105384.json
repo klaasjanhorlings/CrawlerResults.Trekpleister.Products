@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Melkmeisje Honing Bad & Douchecrème",
+  "code": "105384",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/melkmeisje-honing-bad-douchecreme/p/105384",
+  "listName": "Lister",
+  "brand": "Melkmeisje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267204,
+      "name": "Douchecrème"
+    }
+  ],
+  "description": "1L - Normale huid",
+  "image": "/medias/sys_master/prd-images/h73/h68/28549302190110/prd-front-105384-1_600x600/prd-front-105384-1-600x600.jpg"
+}

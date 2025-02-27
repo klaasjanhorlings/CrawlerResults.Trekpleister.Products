@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tweezerman Slant Tweezer Pincet",
+  "code": "5222036",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6329",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tweezerman-slant-tweezer-pincet/p/5222036",
+  "listName": "Lister",
+  "brand": "Tweezerman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267178,
+      "name": "Pincetten"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h48/hbb/28578648752158/prd-front-5222036-1_600x600/prd-front-5222036-1-600x600.jpg"
+}

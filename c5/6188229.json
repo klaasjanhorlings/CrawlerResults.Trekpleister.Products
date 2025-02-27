@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Ultra Day Normal Maandverband",
+  "code": "6188229",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-ultra-day-normal-maandverband/p/6188229",
+  "listName": "Lister",
+  "brand": "Always",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267219,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "mt 1, 3 x 38 stuks",
+  "image": "/medias/sys_master/prd-images/hf3/h5c/33456417898526/prd-front-6188229-1_600x600/prd-front-6188229-1-600x600.jpg"
+}

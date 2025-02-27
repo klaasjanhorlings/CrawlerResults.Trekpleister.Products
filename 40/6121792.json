@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tena Silhouette Plus High Waist Incontinentiebroekjes",
+  "code": "6121792",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027780",
+  "mmkId": "3027780",
+  "productGroupId": "457393",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-silhouette-plus-high-waist-incontinentiebroekjes/p/6121792",
+  "listName": "Lister",
+  "brand": "Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267483,
+      "name": "Incontinentiebroekjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - crème, mt M, 9 stuks",
+  "image": "/medias/sys_master/prd-images/hdb/h43/33397176008734/prd-front-6121792-1_600x600/prd-front-6121792-1-600x600.jpg"
+}

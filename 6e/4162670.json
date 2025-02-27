@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bic Twin Lady Pouch Wegwerpscheermesjes",
+  "code": "4162670",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3790",
+  "supplier": "BIC BENELUX",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bic-twin-lady-pouch-wegwerpscheermesjes/p/4162670",
+  "listName": "Lister",
+  "brand": "Bic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/sys_master/prd-images/h73/hf8/28790042820638/prd-front-4162670-1_600x600/prd-front-4162670-1-600x600.jpg"
+}

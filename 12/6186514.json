@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fujifilm instax Square Link Fotoprinter",
+  "code": "6186514",
+  "price": "129.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4870 > 6031 > 2243 > 2408 > 2849 > 3588",
+  "supplier": "FUJIFILM IMAGING PRODUC",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fujifilm-instax-square-link-fotoprinter/p/6186514",
+  "listName": "Lister",
+  "brand": "Fujifilm",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267113,
+      "name": "Instax"
+    },
+    {
+      "id": 55890031,
+      "name": "Instax printers"
+    }
+  ],
+  "description": "wit",
+  "image": "/medias/sys_master/prd-images/hc2/hd5/32271802204190/prd-front-6186514-1_600x600/prd-front-6186514-1-600x600.jpg"
+}

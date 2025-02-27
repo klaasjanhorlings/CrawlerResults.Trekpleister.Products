@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Prodent Wit + Fris Tandpasta",
+  "code": "6061907",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027861",
+  "mmkId": "3027861",
+  "productGroupId": "467369",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/prodent-wit-fris-tandpasta/p/6061907",
+  "listName": "Lister",
+  "brand": "Prodent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h3c/h0f/31295236177950/prd-front-6061907-1_600x600/prd-front-6061907-1-600x600.jpg"
+}

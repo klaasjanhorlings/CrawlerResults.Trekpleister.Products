@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier SkinActive Hyaluronzuur en Aloë Vera Hydraterende Dagcrème",
+  "code": "5771764",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027832",
+  "mmkId": "3027832",
+  "productGroupId": "461863",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-skinactive-hyaluronzuur-en-aloe-vera-hydraterende-dagcreme/p/5771764",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/heb/h41/30207847301150/prd-front-5771764-1_600x600/prd-front-5771764-1-600x600.jpg"
+}

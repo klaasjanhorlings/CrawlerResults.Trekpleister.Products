@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nip + Fab Iluminate Vitamin C Fix 10% Oogcrème",
+  "code": "6041565",
+  "price": "24.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "supplier": "NIP + FAB",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nip-fab-iluminate-vitamin-c-fix-10-oogcreme/p/6041565",
+  "listName": "Lister",
+  "brand": "NIP+FAB",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267161,
+      "name": "Oogcreme"
+    }
+  ],
+  "description": "15ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/ha0/h19/30123825135646/prd-front-6041565-1_600x600/prd-front-6041565-1-600x600.jpg"
+}

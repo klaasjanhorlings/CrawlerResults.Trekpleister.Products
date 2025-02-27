@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips NT2650/16 Neus- en Oorhaartrimmer",
+  "code": "5295676",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 5887 > 6444",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-nt2650/16-neus-en-oorhaartrimmer/p/5295676",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 49747316,
+      "name": "Neustrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9e/hb3/30015320621086/prd-front-5295676-1_600x600/prd-front-5295676-1-600x600.jpg"
+}

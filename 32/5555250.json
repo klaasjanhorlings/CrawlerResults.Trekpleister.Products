@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Kamille Vochtig Toiletpapier",
+  "code": "5555250",
+  "price": "1.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4163",
+  "supplier": "EUROFOUR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-kamille-vochtig-toiletpapier/p/5555250",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267124,
+      "name": "Vochtig toiletpapier"
+    }
+  ],
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/h7d/h3c/28579077685278/prd-front-5555250-1_600x600/prd-front-5555250-1-600x600.jpg"
+}

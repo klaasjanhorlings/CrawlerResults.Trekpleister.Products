@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "John Frieda Frizz Ease Dream Curls Wave-Revitalising Spray",
+  "code": "6228696",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/john-frieda-frizz-ease-dream-curls-wave-revitalising-spray/p/6228696",
+  "listName": "Lister",
+  "brand": "John Frieda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 82417106,
+      "name": "Krullenverzorging"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h14/he2/32739273146398/prd-front-6228696-1_600x600/prd-front-6228696-1-600x600.jpg"
+}

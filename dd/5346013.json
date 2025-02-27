@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Carelastin Oogdruppels",
+  "code": "5346013",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 3609",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/carelastin-oogdruppels/p/5346013",
+  "listName": "Lister",
+  "brand": "Carelastin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267258,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 49949727,
+      "name": "Azelastine"
+    }
+  ],
+  "description": "Geneesmiddel - 6ml",
+  "image": "/medias/prd-front-5346013-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDc0MDF8aW1hZ2UvanBlZ3xhR1V3TDJnek1TOHhOamM0T1RJd01UY3hOVEl6TUM5d2NtUXRabkp2Ym5RdE5UTTBOakF4TXkweFh6WXdNSGcyTURBfDhjZGQxYzg0MjU0YzdlMjFhN2Q3MDZlNGRhOGVlZjkwOTIyYzNjNzliMTUzNTlkOWJhM2Q4NzA4MDU1YThiOWQ"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bourjois Rouge Velvet 06 Pink Pong Lipstick",
+  "code": "4169026",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bourjois-rouge-velvet-06-pink-pong-lipstick/p/4169026",
+  "listName": "Lister",
+  "brand": "Bourjois",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267139,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4169026-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTM5NDZ8aW1hZ2UvanBlZ3xhR0ZrTDJnMFpDOHhOamd6TVRBMk5qQXhNemN5Tmk5d2NtUXRabkp2Ym5RdE5ERTJPVEF5TmkweFh6WXdNSGcyTURBfGI4ZGNlNmZjM2E4ZTRiYzdlNGI2ZmM1NjBjZDZjZjFlODEyMjIzOTA5MDlmNzY1NWQ3ZjIzNWQ4ZTdiYjFlMjk"
+}

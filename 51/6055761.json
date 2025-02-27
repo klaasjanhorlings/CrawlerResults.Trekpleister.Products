@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WaterWipes Babydoekjes",
+  "code": "6055761",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 4330 > 4332",
+  "supplier": "ORANGE-SHEEP BV",
+  "inStock": "inStock",
+  "onPromo": "3027797",
+  "mmkId": "3027797",
+  "productGroupId": "458533",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/waterwipes-babydoekjes/p/6055761",
+  "listName": "Lister",
+  "brand": "Waterwipes",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "3x48 stuks",
+  "image": "/medias/sys_master/prd-images/h4d/h32/30229193424926/prd-front-6055761-1_600x600/prd-front-6055761-1-600x600.jpg"
+}

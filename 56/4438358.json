@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nature Box Avocado Shampoo",
+  "code": "4438358",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nature-box-avocado-shampoo/p/4438358",
+  "listName": "Lister",
+  "brand": "Nature Box",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "385ml",
+  "image": "/medias/sys_master/prd-images/haa/hb9/28624841539614/prd-front-4438358-1_600x600/prd-front-4438358-1-600x600.jpg"
+}

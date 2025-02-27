@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medela Contact Tepelhoedjes",
+  "code": "3497761",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "MEDELA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medela-contact-tepelhoedjes/p/3497761",
+  "listName": "Lister",
+  "brand": "Medela",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30267361,
+      "name": "Borstvoedingsaccessoires"
+    }
+  ],
+  "description": "mt M, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hee/hae/32146845270046/prd-front-3497761-1_600x600/prd-front-3497761-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medisana FTC 99132 Digitale Thermometer",
+  "code": "5322948",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6431",
+  "supplier": "MEDISANA BENELUX NV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medisana-ftc-99132-digitale-thermometer/p/5322948",
+  "listName": "Lister",
+  "brand": "Medisana",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 30267320,
+      "name": "Thermometers"
+    }
+  ],
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/prd-front-5322948-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDM3MjR8aW1hZ2UvanBlZ3xhRFJpTDJoa09DOHhOelV6T0RVeU1ETXhOems0TWk5d2NtUXRabkp2Ym5RdE5UTXlNamswT0MweFh6WXdNSGcyTURBfGJlNzBkNTFkY2EwOTk4NjY5MTAzNzVkNTE5MzZhZmI4YmY4YzIxNDA0M2NiMGZkYWI0NTlmZDg4ZTIxNjIxNjQ"
+}

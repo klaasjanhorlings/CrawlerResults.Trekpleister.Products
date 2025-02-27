@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Elmex Sensitive Fresh Breath Tandpasta",
+  "code": "4953761",
+  "price": "6.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027880",
+  "mmkId": "3027880",
+  "productGroupId": "468964",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elmex-sensitive-fresh-breath-tandpasta/p/4953761",
+  "listName": "Lister",
+  "brand": "Elmex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml - Gevoelige tanden",
+  "image": "/medias/sys_master/prd-images/h26/hd4/31925940518942/prd-front-4953761-1_600x600/prd-front-4953761-1-600x600.jpg"
+}

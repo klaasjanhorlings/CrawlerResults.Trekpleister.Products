@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Marvel 76313 Marvel Logo en Minifiguren",
+  "code": "6232245",
+  "price": "89.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-marvel-76313-marvel-logo-en-minifiguren/p/6232245",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267376,
+      "name": "LEGO Marvel"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h75/h20/33144359911454/prd-front-6232245-1_600x600/prd-front-6232245-1-600x600.jpg"
+}

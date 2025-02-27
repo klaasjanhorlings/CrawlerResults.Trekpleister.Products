@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Nagelknipper",
+  "code": "5534971",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6331",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-nagelknipper/p/5534971",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267192,
+      "name": "Nagelknippers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5534971-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTYyNjJ8aW1hZ2UvanBlZ3xhR0V4TDJnMU9TOHhOekEyT0RneE5ETXdNekkyTWk5d2NtUXRabkp2Ym5RdE5UVXpORGszTVMweFh6WXdNSGcyTURBfDkyYjVjODU4MzBkNGY5NTU4NTExZjRlNTczYzY1NDM2YmE1OTg4MzA5ZTFiMWZjOGI5MmY4OGY0MzgxN2Q2N2Y"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Odorex Natural Fresh Deodorant Roller",
+  "code": "3941309",
+  "price": "4.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3027768",
+  "mmkId": "3027768",
+  "productGroupId": "455326",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/odorex-natural-fresh-deodorant-roller/p/3941309",
+  "listName": "Lister",
+  "brand": "Odorex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267200,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "55ml",
+  "image": "/medias/sys_master/prd-images/h2c/hf8/28576341360670/prd-front-3941309-1_600x600/prd-front-3941309-1-600x600.jpg"
+}

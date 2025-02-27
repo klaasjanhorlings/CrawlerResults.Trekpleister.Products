@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dulcolax 5mg Tabletten",
+  "code": "1652190",
+  "price": "8.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2759 > 3466",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dulcolax-5mg-tabletten/p/1652190",
+  "listName": "Lister",
+  "brand": "Dulcolax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 30267532,
+      "name": "Laxeermiddelen"
+    }
+  ],
+  "description": "Geneesmiddel - 60 stuks",
+  "image": "/medias/sys_master/prd-images/ha0/hb5/33279293063198/prd-front-1652190-1_600x600/prd-front-1652190-1-600x600.jpg"
+}

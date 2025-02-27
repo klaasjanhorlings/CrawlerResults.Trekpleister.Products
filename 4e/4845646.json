@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Sensitive 2-in-1 Reinigingsmelk",
+  "code": "4845646",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3889",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "3027942",
+  "mmkId": "3027942",
+  "productGroupId": "461126",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-sensitive-2-in-1-reinigingsmelk/p/4845646",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267473,
+      "name": "Reinigingsmelk"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/he9/h64/28654735130654/prd-front-4845646-1_600x600/prd-front-4845646-1-600x600.jpg"
+}

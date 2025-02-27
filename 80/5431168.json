@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "As I Am Leave-In Conditioner",
+  "code": "5431168",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/as-i-am-leave-in-conditioner/p/5431168",
+  "listName": "Lister",
+  "brand": "As I Am",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49745451,
+      "name": "Leave-in conditioner"
+    }
+  ],
+  "description": "237ml",
+  "image": "/medias/prd-front-5431168-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTYwODd8aW1hZ2UvanBlZ3xhR013TDJoak5TOHhOekEyTlRnM09Ea3hNekExTkM5d2NtUXRabkp2Ym5RdE5UUXpNVEUyT0MweFh6WXdNSGcyTURBfDQxZDhmZTdhZDljYTU3YjM5YTYzODliNDRhNzc0N2NhNjcwYTkzY2U1N2FlNmFkMDE0ZTIxMWQxNzY4MTNkZmQ"
+}

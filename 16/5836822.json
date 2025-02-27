@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Formule W Wratten Bevriezingsstift",
+  "code": "5836822",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6457 > 6458",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/formule-w-wratten-bevriezingsstift/p/5836822",
+  "listName": "Lister",
+  "brand": "Formule W",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267501,
+      "name": "Wrattenbehandeling"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 15ml",
+  "image": "/medias/sys_master/prd-images/h9f/h03/32402740281374/prd-front-5836822-1_600x600/prd-front-5836822-1-600x600.jpg"
+}

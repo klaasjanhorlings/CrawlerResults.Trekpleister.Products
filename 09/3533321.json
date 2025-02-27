@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Lift+ Super Filler Dagcrème",
+  "code": "3533321",
+  "price": "21.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "3027796",
+  "mmkId": "3027796",
+  "productGroupId": "458453",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-lift-super-filler-dagcreme/p/3533321",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hc5/hd2/30567822098462/prd-front-3533321-1_600x600/prd-front-3533321-1-600x600.jpg"
+}

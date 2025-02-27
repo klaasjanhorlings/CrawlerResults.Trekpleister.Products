@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Veet In-Shower Ontharingscrème voor de Gevoelige Huid",
+  "code": "1553357",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 2839 > 3579",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3027841",
+  "mmkId": "3027841",
+  "productGroupId": "464695",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/veet-in-shower-ontharingscreme-voor-de-gevoelige-huid/p/1553357",
+  "listName": "Lister",
+  "brand": "Veet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267239,
+      "name": "Ontharingscreme, wax en hars"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h35/h3f/33487352627230/prd-front-1553357-1_600x600/prd-front-1553357-1-600x600.jpg"
+}

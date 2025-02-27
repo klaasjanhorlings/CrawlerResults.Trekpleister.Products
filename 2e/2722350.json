@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "VSM Calendulan Littekencrème",
+  "code": "2722350",
+  "price": "10.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "HEEL BIOLOGISCHE GENEES",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vsm-calendulan-littekencreme/p/2722350",
+  "listName": "Lister",
+  "brand": "VSM",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267499,
+      "name": "Littekencremes"
+    }
+  ],
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/h67/ha7/32292193042462/prd-front-2722350-1_600x600/prd-front-2722350-1-600x600.jpg"
+}

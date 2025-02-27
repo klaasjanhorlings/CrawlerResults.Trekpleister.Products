@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GluconCombi Glucosamine Chondroïtine/MSM+ Mangaan Tabletten",
+  "code": "2042524",
+  "price": "21.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gluconcombi-glucosamine-chondroitine/msm-mangaan-tabletten/p/2042524",
+  "listName": "Lister",
+  "brand": "Glucon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267282,
+      "name": "Glucosamine"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/prd-front-2042524-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU1ODh8aW1hZ2UvanBlZ3xhR0l4TDJnMVpTOHhOak00TURNeE9EWTNPVEEzTUM5d2NtUXRabkp2Ym5RdE1qQTBNalV5TkMweFh6WXdNSGcyTURBfDAyNjlhMDkxMzMxZjBlOWYxYTI2ODE4NWUxOTAyMTEyMTMwM2U0NjM1YTdlNjE3NTE1ZWY1OGViOGVmMGUzOWU"
+}

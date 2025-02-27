@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Blue Wonder Disinfect & Cleaning Wipes",
+  "code": "5961408",
+  "price": "4.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 6076 > 6077",
+  "supplier": "HG INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/blue-wonder-disinfect-cleaning-wipes/p/5961408",
+  "listName": "Lister",
+  "brand": "Blue Wonder",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430563,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "72 stuks",
+  "image": "/medias/sys_master/prd-images/h0d/h75/29798409994270/prd-front-5961408-1_600x600/prd-front-5961408-1-600x600.jpg"
+}

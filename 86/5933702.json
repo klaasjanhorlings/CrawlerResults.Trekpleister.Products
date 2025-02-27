@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leukoplast Fixomull Stretch Uitrekbare Fixatiepleister",
+  "code": "5933702",
+  "price": "7.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3032 > 4109",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3027887",
+  "mmkId": "3027887",
+  "productGroupId": "469869",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/leukoplast-fixomull-stretch-uitrekbare-fixatiepleister/p/5933702",
+  "listName": "Lister",
+  "brand": "Leukoplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267294,
+      "name": "Bandages en windsels"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10cm x 200cm",
+  "image": "/medias/sys_master/prd-images/hf3/h5a/28573648125982/prd-front-5933702-1_600x600/prd-front-5933702-1-600x600.jpg"
+}

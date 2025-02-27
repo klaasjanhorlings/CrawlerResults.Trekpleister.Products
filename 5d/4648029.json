@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Fit Me 06 Nude Concealer",
+  "code": "4648029",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3027873",
+  "mmkId": "3027873",
+  "productGroupId": "468329",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-fit-me-06-nude-concealer/p/4648029",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267135,
+      "name": "Concealer"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4648029-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzMxNDZ8aW1hZ2UvanBlZ3xhR0poTDJoaVlpOHhOamd6TXpZMU5USTBNamM0TWk5d2NtUXRabkp2Ym5RdE5EWTBPREF5T1MweFh6WXdNSGcyTURBfGIwNjcxMDVjYmQ0YzJhOWYwMGVkZWZhMzE0MzRkNDE1OTJlNmUzZmQ2YjVjZDVmZmZiZWM5YjMzM2M4YWMwOGU"
+}

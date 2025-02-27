@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Strepfen Flurbiprofen Keelspray",
+  "code": "5245472",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 4147",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/strepfen-flurbiprofen-keelspray/p/5245472",
+  "listName": "Lister",
+  "brand": "Strepfen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 49950083,
+      "name": "Keelspray"
+    }
+  ],
+  "description": "Geneesmiddel - 15ml",
+  "image": "/medias/prd-front-5245472-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDA1OTZ8aW1hZ2UvanBlZ3xhR1JsTDJobU9TOHhOamMxT0RjeE5URTROekl6TUM5d2NtUXRabkp2Ym5RdE5USTBOVFEzTWkweFh6WXdNSGcyTURBfDg5M2IzNDg0NDE2OTQ5NGM2ODIzY2Q0YWRlYzhlNTMxN2ZjNTBlMGYxMGJiYzc0YzFiYTU3ZTE1YzE0ZmUyMWQ"
+}

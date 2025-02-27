@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 4+M Bloemkool",
+  "code": "3817668",
+  "price": "1.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-4m-bloemkool/p/3817668",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267328,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267566,
+      "name": "4+ maanden"
+    }
+  ],
+  "description": "125g",
+  "image": "/medias/sys_master/prd-images/h7d/he7/30687113379870/prd-front-3817668-1_600x600/prd-front-3817668-1-600x600.jpg"
+}

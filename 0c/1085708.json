@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wella New Wave Boost It Volume Mousse",
+  "code": "1085708",
+  "price": "5.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
+  "supplier": "WELLA COMPANY",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wella-new-wave-boost-it-volume-mousse/p/1085708",
+  "listName": "Lister",
+  "brand": "Wella New Wave",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267491,
+      "name": "Haarmousse"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-1085708-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDYyMDN8aW1hZ2UvanBlZ3xhRFJqTDJobE1pOHhOamd4TURRMk16STJORGM1T0M5d2NtUXRabkp2Ym5RdE1UQTROVGN3T0MweFh6WXdNSGcyTURBfDc1Nzk0NGI5ZTY5OGQ1ZjY1YTg3ZjhmNjBmNzRiYWUyNzZjMzA0ZWYwMDZmMGVmNzdkZjkxMjdhMjUxNTZkMWY"
+}

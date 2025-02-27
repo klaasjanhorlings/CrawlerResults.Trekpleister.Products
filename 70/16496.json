@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WeCare Fruity Banana Meal Replacement Bars",
+  "code": "16496",
+  "price": "2.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3851",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wecare-fruity-banana-meal-replacement-bars/p/16496",
+  "listName": "Lister",
+  "brand": "WeCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 30267299,
+      "name": "Maaltijdrepen, drinkmaaltijden"
+    }
+  ],
+  "description": "2 x 58g",
+  "image": "/medias/sys_master/prd-images/hf8/h8e/32902245220382/prd-front-16496-1_600x600/prd-front-16496-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Davidoff Cool Water Homme Eau de Toilette",
+  "code": "31307",
+  "price": "25.99",
+  "priceOriginal": "26.99",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "SAR TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,00",
+  "url": "/davidoff-cool-water-homme-eau-de-toilette/p/31307",
+  "listName": "Lister",
+  "brand": "Davidoff",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/prd-front-31307-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDE1NTN8aW1hZ2UvanBlZ3xhREJoTDJoaVpTOHhOalU1TWpBM01UZzFNakEyTWk5d2NtUXRabkp2Ym5RdE16RXpNRGN0TVY4Mk1EQjROakF3fDg3ZWFkN2M0Zjg0NWNjZDdjZmUxZjY2MThjMzNmZDQ3MDVkZTg0YjhjNTlkZGMwZDljZDFkYTM1M2UzODE3OTI"
+}

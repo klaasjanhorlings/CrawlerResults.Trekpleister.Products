@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nestlé Baby 6+M Banaan Pyjamapapje",
+  "code": "2491889",
+  "price": "3.25",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5678 > 5679",
+  "supplier": "NESTLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nestle-baby-6m-banaan-pyjamapapje/p/2491889",
+  "listName": "Lister",
+  "brand": "Nestle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267329,
+      "name": "Babypap"
+    }
+  ],
+  "description": "3 x 250ml",
+  "image": "/medias/prd-front-2491889-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzc5Njd8aW1hZ2UvanBlZ3xhRFZsTDJoaE1DOHlOalUzTkRrNU5qZ3pNakk0Tmk5d2NtUXRabkp2Ym5RdE1qUTVNVGc0T1MweFh6WXdNSGcyTURBfDViODIyN2RiNzAxNjhmNjQ1NTJhYzlkN2VlZWMxNGFhNjNkMDc1ZmQ1NzNmYTA3YzQ4YzhiYTUyM2IyOWRjYWY"
+}

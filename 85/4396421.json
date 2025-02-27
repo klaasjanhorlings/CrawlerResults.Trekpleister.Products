@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Maxi Long Maandverband",
+  "code": "4396421",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027785",
+  "mmkId": "3027785",
+  "productGroupId": "457740",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-maxi-long-maandverband/p/4396421",
+  "listName": "Lister",
+  "brand": "Always",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267219,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "18 stuks",
+  "image": "/medias/sys_master/prd-images/h20/h97/32028498231326/prd-front-4396421-1_600x600/prd-front-4396421-1-600x600.jpg"
+}

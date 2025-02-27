@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Celenes by Sweden Thermal Toner",
+  "code": "6214563",
+  "price": "12.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 4226",
+  "supplier": "CAREX BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/celenes-by-sweden-thermal-toner/p/6214563",
+  "listName": "Lister",
+  "brand": "CELENES BY SWEDEN",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267478,
+      "name": "Reinigingstonic"
+    }
+  ],
+  "description": "200ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h84/h45/33289391570974/prd-front-6214563-1_600x600/prd-front-6214563-1-600x600.jpg"
+}

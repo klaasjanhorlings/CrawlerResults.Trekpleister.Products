@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Stralend Wit Perfect Match Pakket",
+  "code": "5556223",
+  "price": "52.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 4253",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/robijn-stralend-wit-perfect-match-pakket/p/5556223",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "5 stuks, 123 wasbeurten",
+  "image": "/medias/sys_master/prd-images/haf/h4c/31941893816350/prd-front-5556223-1_600x600/prd-front-5556223-1-600x600.jpg"
+}

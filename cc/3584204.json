@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ella's Kitchen Baby Mango Ontbijtje",
+  "code": "3584204",
+  "price": "1.85",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ellas-kitchen-baby-mango-ontbijtje/p/3584204",
+  "listName": "Lister",
+  "brand": "Ella's Kitchen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267564,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/prd-front-3584204-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzU5NDB8aW1hZ2UvanBlZ3xhREJpTDJobU5pOHhOak14TkRReE1EVTVPRFF6TUM5d2NtUXRabkp2Ym5RdE16VTROREl3TkMweFh6WXdNSGcyTURBfDBiNzgyODdmZTgyNGQwOTFmNGQ1NWU2Njk2N2UyMTg3OWM5MDE2MGNhN2RjOGYyMjI1NTJjMWNiMDQ4NTU2OTg"
+}

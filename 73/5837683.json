@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Libresse Dailies Normal Inlegkruisjes",
+  "code": "5837683",
+  "price": "4.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027781",
+  "mmkId": "3027781",
+  "productGroupId": "457394",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/libresse-dailies-normal-inlegkruisjes/p/5837683",
+  "listName": "Lister",
+  "brand": "Libresse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267220,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "58 stuks",
+  "image": "/medias/sys_master/prd-images/h56/h11/28736793739294/prd-front-5837683-1_600x600/prd-front-5837683-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bisolnasal Neusspray",
+  "code": "2016925",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3934",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bisolnasal-neusspray/p/2016925",
+  "listName": "Lister",
+  "brand": "Bisolnasal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267518,
+      "name": "Neusspray"
+    }
+  ],
+  "description": "Geneesmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h0d/he6/28575472156702/prd-front-2016925-1_600x600/prd-front-2016925-1-600x600.jpg"
+}

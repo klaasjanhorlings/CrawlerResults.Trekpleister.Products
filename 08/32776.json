@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sebamed Zeepvrije Wasemulsie",
+  "code": "32776",
+  "price": "18.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3916",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sebamed-zeepvrije-wasemulsie/p/32776",
+  "listName": "Lister",
+  "brand": "Sebamed",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267204,
+      "name": "Douchecrème"
+    }
+  ],
+  "description": "1000ml - Zeepvrij",
+  "image": "/medias/sys_master/prd-images/h26/h85/31942439338014/prd-front-32776-1_600x600/prd-front-32776-1-600x600.jpg"
+}

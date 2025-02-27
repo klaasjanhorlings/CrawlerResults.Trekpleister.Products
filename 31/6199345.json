@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "B&B Amber & Musk Italiaans Wasparfum",
+  "code": "6199345",
+  "price": "9.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "B&B ITALIAANS WASPARFUM",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/b-b-amber-musk-italiaans-wasparfum/p/6199345",
+  "listName": "Lister",
+  "brand": "B&B Italiaans Wasparfum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 49313699,
+      "name": "Wasparfum"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h5d/hd6/32436773683230/prd-front-6199345-1_600x600/prd-front-6199345-1-600x600.jpg"
+}

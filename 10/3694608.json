@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Schuursponzen",
+  "code": "3694608",
+  "price": "0.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2548 > 3139 > 4005",
+  "supplier": "SCHULPEN SCHUIM",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-schuursponzen/p/3694608",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430573,
+      "name": "Schoonmaakartikelen"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/ha4/h43/30868700659742/prd-front-3694608-1_600x600/prd-front-3694608-1-600x600.jpg"
+}

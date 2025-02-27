@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Otalgan Oorsmeer",
+  "code": "972826",
+  "price": "11.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027801",
+  "mmkId": "3027801",
+  "productGroupId": "459445",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/otalgan-oorsmeer/p/972826",
+  "listName": "Lister",
+  "brand": "Otalgan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 49949615,
+      "name": "Oordruppels"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h7e/h1a/32164722933790/prd-front-972826-1_600x600/prd-front-972826-1-600x600.jpg"
+}

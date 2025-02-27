@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bach Rescue Spray",
+  "code": "3805551",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6301",
+  "supplier": "TS HEALTH PRODUCTS",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bach-rescue-spray/p/3805551",
+  "listName": "Lister",
+  "brand": "Bach rescue",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267278,
+      "name": "Overige supplementen"
+    }
+  ],
+  "description": "7ml",
+  "image": "/medias/sys_master/prd-images/hc4/h4a/33102657814558/prd-front-3805551-1_600x600/prd-front-3805551-1-600x600.jpg"
+}

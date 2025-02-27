@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Real Techniques Artist Essentials Set",
+  "code": "5309529",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6327",
+  "supplier": "EMA COMPANY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/real-techniques-artist-essentials-set/p/5309529",
+  "listName": "Lister",
+  "brand": "Real Techniques",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267174,
+      "name": "Make-up kwasten"
+    }
+  ],
+  "description": "5 stuks",
+  "image": "/medias/sys_master/prd-images/hb2/ha6/30237342138398/prd-front-5309529-1_600x600/prd-front-5309529-1-600x600.jpg"
+}

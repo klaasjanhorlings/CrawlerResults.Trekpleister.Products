@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jordan 3-In-1 Flossers",
+  "code": "3034291",
+  "price": "4.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2903 > 3700",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jordan-3-in-1-flossers/p/3034291",
+  "listName": "Lister",
+  "brand": "Jordan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267225,
+      "name": "Flosdraad"
+    }
+  ],
+  "description": "36 stuks",
+  "image": "/medias/sys_master/prd-images/h1d/hb6/30721717075998/prd-front-3034291-1_600x600/prd-front-3034291-1-600x600.jpg"
+}

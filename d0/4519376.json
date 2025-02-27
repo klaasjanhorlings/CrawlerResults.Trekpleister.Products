@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Styling Molding Clay",
+  "code": "4519376",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3246 > 4137",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027855",
+  "mmkId": "3027855",
+  "productGroupId": "466336",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-styling-molding-clay/p/4519376",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267484,
+      "name": "Haarklei"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h1c/hc5/31271682867230/prd-front-4519376-1_600x600/prd-front-4519376-1-600x600.jpg"
+}

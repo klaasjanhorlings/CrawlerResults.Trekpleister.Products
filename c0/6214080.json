@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Peppa Reist de Wereld Rond Speurboek",
+  "code": "6214080",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4868 > 2092 > 2245 > 2343 > 2743 > 6568",
+  "supplier": "BOOK & SERVICE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/peppa-reist-de-wereld-rond-speurboek/p/6214080",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267085,
+      "name": "Educatief speelgoed"
+    }
+  ],
+  "description": "Nederlandstalig boek",
+  "image": "/medias/sys_master/prd-images/he9/ha5/32582821642270/prd-front-6214080-1_600x600/prd-front-6214080-1-600x600.jpg"
+}

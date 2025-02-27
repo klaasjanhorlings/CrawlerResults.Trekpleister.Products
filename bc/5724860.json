@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Miracle Pure Topcoat",
+  "code": "5724860",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "3027856",
+  "mmkId": "3027856",
+  "productGroupId": "466456",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-miracle-pure-topcoat/p/5724860",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267141,
+      "name": "Nagellak"
+    }
+  ],
+  "description": "12ml",
+  "image": "/medias/prd-front-5724860-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDE4MzF8aW1hZ2UvanBlZ3xhREV4TDJneFppOHhOamd5T0RReE5UVXdPRFV4TUM5d2NtUXRabkp2Ym5RdE5UY3lORGcyTUMweFh6WXdNSGcyTURBfGE5N2MyMjE1OWIwNGY0YTlhNGM5OWFhM2U3MjEzNTEyYzUyM2E0MWYyYzdlZTg4Yzg3YWE4NjNiYzlhYWM0YWI"
+}

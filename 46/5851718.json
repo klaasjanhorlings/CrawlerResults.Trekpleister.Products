@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun FG1106 Mini-Precisietrimmer",
+  "code": "5851718",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 5886 > 6440",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-fg1106-mini-precisietrimmer/p/5851718",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267242,
+      "name": "Haartrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2b/hb0/28573014753310/prd-front-5851718-1_600x600/prd-front-5851718-1-600x600.jpg"
+}

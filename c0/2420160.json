@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Batiste Original Droogshampoo",
+  "code": "2420160",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
+  "supplier": "ASPIRE BRANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/batiste-original-droogshampoo/p/2420160",
+  "listName": "Lister",
+  "brand": "Batiste",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267250,
+      "name": "Droogshampoo"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h1f/h28/32640276955166/prd-front-2420160-1_600x600/prd-front-2420160-1-600x600.jpg"
+}

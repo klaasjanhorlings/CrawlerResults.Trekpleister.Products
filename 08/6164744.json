@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Biergist Tabletten",
+  "code": "6164744",
+  "price": "3.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6233",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-biergist-tabletten/p/6164744",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267276,
+      "name": "Beautysupplementen"
+    }
+  ],
+  "description": "240 stuks",
+  "image": "/medias/sys_master/prd-images/he3/hcf/32497194696734/prd-front-6164744-1_600x600/prd-front-6164744-1-600x600.jpg"
+}

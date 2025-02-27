@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nicotinell 7mg/24u Pleisters",
+  "code": "50000",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 4054",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nicotinell-7mg/24u-pleisters/p/50000",
+  "listName": "Lister",
+  "brand": "Nicotinell",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267266,
+      "name": "Stoppen met roken"
+    },
+    {
+      "id": 30267539,
+      "name": "Nicotinepleisters"
+    }
+  ],
+  "description": "Geneesmiddel - 7 stuks",
+  "image": "/medias/sys_master/prd-images/h92/hed/28550104317982/prd-front-50000-1_600x600/prd-front-50000-1-600x600.jpg"
+}

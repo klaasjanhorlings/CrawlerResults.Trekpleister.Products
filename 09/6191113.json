@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zadig & Voltaire This Is Him Geschenkset",
+  "code": "6191113",
+  "price": "34.99",
+  "priceOriginal": "73.94",
+  "itemBgbcat": "2002 > 5861 > 5864 > 6705 > 6706 > 4114",
+  "supplier": "AVENTUS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 38,95",
+  "url": "/zadig-voltaire-this-is-him-geschenkset/p/6191113",
+  "listName": "Lister",
+  "brand": "Zadig & Voltaire",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666312,
+      "name": "Geschenkset voor hem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1c/h6a/32204325978142/prd-front-6191113-1_600x600/prd-front-6191113-1-600x600.jpg"
+}

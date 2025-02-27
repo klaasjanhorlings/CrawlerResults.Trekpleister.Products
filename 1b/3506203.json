@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corega 3 Minutes Dagelijkse Reiniger Tabletten",
+  "code": "3506203",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corega-3-minutes-dagelijkse-reiniger-tabletten/p/3506203",
+  "listName": "Lister",
+  "brand": "Corega",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267229,
+      "name": "Kunstgebitreiniger"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 30 stuks",
+  "image": "/medias/prd-front-3506203-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzkxOTZ8aW1hZ2UvanBlZ3xhR05oTDJnd055OHhOak13TkRFMk9UQXlOVFUyTmk5d2NtUXRabkp2Ym5RdE16VXdOakl3TXkweFh6WXdNSGcyTURBfGJhYzM5NjAyZTExODc4Y2U0YmI2ZGY0MTI4MjZmYjNiMjMwZTY2NGQ1ODExY2I1NzY1YmEyMTM5ZDhjYzM5ZDg"
+}

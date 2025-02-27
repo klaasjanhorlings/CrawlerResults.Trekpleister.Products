@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Air Wick Pure Zachtheid van Katoen Luchtverfrisser",
+  "code": "4628457",
+  "price": "4.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 3063 > 4145",
+  "supplier": "RB HYGIENE HOME NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/air-wick-pure-zachtheid-van-katoen-luchtverfrisser/p/4628457",
+  "listName": "Lister",
+  "brand": "Airwick",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267126,
+      "name": "Luchtverfrissers"
+    }
+  ],
+  "description": "250ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

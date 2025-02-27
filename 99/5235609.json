@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Facefinity 002 Warm Tan Bronzer",
+  "code": "5235609",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-facefinity-002-warm-tan-bronzer/p/5235609",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267145,
+      "name": "Bronzer"
+    }
+  ],
+  "description": "10g",
+  "image": "/medias/prd-front-5235609-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzQ4ODB8aW1hZ2UvanBlZ3xhREF5TDJneE9TOHhOamd6TVRRd056STFPVFkzT0M5d2NtUXRabkp2Ym5RdE5USXpOVFl3T1MweFh6WXdNSGcyTURBfDg4MTY0MTMwN2IyMWJiMGIxNzFkMzEwNjk4NWUwODM3YmU0MGZkODUyYjFhZjg0Nzg4NTM5OTA0YTAwZGQzNzI"
+}

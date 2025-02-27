@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Tekentang",
+  "code": "4102813",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 6070",
+  "supplier": "BEVAPLAST BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-tekentang/p/4102813",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267268,
+      "name": "Insecten"
+    },
+    {
+      "id": 30267546,
+      "name": "Na de beet"
+    }
+  ],
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h46/h45/28576433864734/prd-front-4102813-1_600x600/prd-front-4102813-1-600x600.jpg"
+}

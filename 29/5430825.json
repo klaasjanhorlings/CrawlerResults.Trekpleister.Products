@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari Green Curls Moisturizing Shampoo",
+  "code": "5430825",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3027904",
+  "mmkId": "3027904",
+  "productGroupId": "474296",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-green-curls-moisturizing-shampoo/p/5430825",
+  "listName": "Lister",
+  "brand": "Yari Green Curls",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "355ml",
+  "image": "/medias/sys_master/prd-images/h26/h6b/28798580195358/prd-front-5430825-1_600x600/prd-front-5430825-1-600x600.jpg"
+}

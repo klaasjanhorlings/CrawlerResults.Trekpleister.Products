@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Creator 31157 3-in-1 Exotische Pauw",
+  "code": "6003275",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-creator-31157-3-in-1-exotische-pauw/p/6003275",
+  "listName": "Lister",
+  "brand": "LEGO Creator",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69045709,
+      "name": "LEGO Verjaardagscadeaus"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb8/ha8/33461511815198/prd-front-6003275-1_600x600/prd-front-6003275-1-600x600.jpg"
+}

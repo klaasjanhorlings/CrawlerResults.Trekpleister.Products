@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Wondspray",
+  "code": "4733002",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hansaplast-wondspray/p/4733002",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267297,
+      "name": "Wondontsmetting"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/h0c/h82/32900936695838/prd-front-4733002-1_600x600/prd-front-4733002-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bausch & Lomb Boston Cleaner Lensvloeistof",
+  "code": "5495148",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bausch-lomb-boston-cleaner-lensvloeistof/p/5495148",
+  "listName": "Lister",
+  "brand": "Bausch & Lomb",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267064,
+      "name": "Optiek"
+    },
+    {
+      "id": 30267314,
+      "name": "Lenzenvloeistof"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 30ml",
+  "image": "/medias/prd-front-5495148-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzM3NjV8aW1hZ2UvanBlZ3xhREJrTDJobVl5OHhOek0zTnpnd05EWTBPRFEzT0M5d2NtUXRabkp2Ym5RdE5UUTVOVEUwT0MweFh6WXdNSGcyTURBfDA5YWFjNWY3ZDE0YmZhZDc3ZDhjMWVjZWExNzQ3ZDEzZTQ1M2QwNDk4NTdiZDlmNzNmNGU4YmUzNWY1NTc5YTA"
+}

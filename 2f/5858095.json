@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olay Vitamine C Hydra Glow SPF30 Hydraterende Dagcrème",
+  "code": "5858095",
+  "price": "41.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027851",
+  "mmkId": "3027851",
+  "productGroupId": "465965",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olay-vitamine-c-hydra-glow-spf30-hydraterende-dagcreme/p/5858095",
+  "listName": "Lister",
+  "brand": "Olay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h3f/h09/31243439570974/prd-front-5858095-1_600x600/prd-front-5858095-1-600x600.jpg"
+}

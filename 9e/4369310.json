@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister 100% Pure Whey Vanille Protein Eiwitshake",
+  "code": "4369310",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
+  "supplier": "PRINSEN BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-100-pure-whey-vanille-protein-eiwitshake/p/4369310",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267307,
+      "name": "Proteïne (eiwit) poeders"
+    }
+  ],
+  "description": "670g",
+  "image": "/medias/sys_master/prd-images/h2e/hc4/28550837764126/prd-front-4369310-1_600x600/prd-front-4369310-1-600x600.jpg"
+}

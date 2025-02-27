@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Colgate Max White Charcoal Whitening Tandpasta",
+  "code": "4822364",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027879",
+  "mmkId": "3027879",
+  "productGroupId": "468957",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/colgate-max-white-charcoal-whitening-tandpasta/p/4822364",
+  "listName": "Lister",
+  "brand": "Colgate",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml - Whitening",
+  "image": "/medias/sys_master/prd-images/h74/h20/31567316320286/prd-front-4822364-1_600x600/prd-front-4822364-1-600x600.jpg"
+}

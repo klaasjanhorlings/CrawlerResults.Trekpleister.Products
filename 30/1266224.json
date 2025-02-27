@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Palmer's Cocoa Butter Formula Geconcentreerde Crème",
+  "code": "1266224",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
+  "supplier": "KUYPERS & CO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/palmers-cocoa-butter-formula-geconcentreerde-creme/p/1266224",
+  "listName": "Lister",
+  "brand": "Palmers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267245,
+      "name": "Handcrèmes"
+    }
+  ],
+  "description": "60g",
+  "image": "/medias/prd-front-1266224-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTcxMDB8aW1hZ2UvanBlZ3xhR05pTDJneU9TOHhOamd4TWpZNU5EQXhNVGt6TkM5d2NtUXRabkp2Ym5RdE1USTJOakl5TkMweFh6WXdNSGcyTURBfGJmOTc4NmIyM2ZkNGM0Y2U0ZWZiMTNmM2IxNzExY2JiMjQ2ODBlMjM3ZDYxMWU4ZTk2MGRmN2JkNzkwZjc4OGY"
+}

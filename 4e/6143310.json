@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nûby 2-in-1 Drinkbeker met Harde Tuit",
+  "code": "6143310",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
+  "supplier": "NEW VALMAR BV",
+  "inStock": "inStock",
+  "onPromo": "3027833",
+  "mmkId": "3027833",
+  "productGroupId": "462030",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nuby-2-in-1-drinkbeker-met-harde-tuit/p/6143310",
+  "listName": "Lister",
+  "brand": "Nuby",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267357,
+      "name": "Drinkbeker"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h40/he3/32354329919518/prd-front-6143310-1_600x600/prd-front-6143310-1-600x600.jpg"
+}

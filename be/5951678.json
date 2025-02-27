@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Refreshing Fullness Wonder 2-in-1 Poeder",
+  "code": "5951678",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3326 > 3697",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027855",
+  "mmkId": "3027855",
+  "productGroupId": "466336",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-refreshing-fullness-wonder-2-in-1-poeder/p/5951678",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267489,
+      "name": "Haarpoeder"
+    }
+  ],
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/h3a/h9d/30089309913118/prd-front-5951678-1_600x600/prd-front-5951678-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Teddysjaal",
+  "code": "6081962",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 2225 > 5069 > 5071 > 5096",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-teddysjaal/p/6081962",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267423,
+      "name": "Winteraccessoires"
+    }
+  ],
+  "description": "donkerbruin",
+  "image": "/medias/sys_master/prd-images/hf1/ha0/31271712292894/prd-front-6081962-1_600x600/prd-front-6081962-1-600x600.jpg"
+}

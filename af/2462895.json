@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft V12 Level 12 Haargel Tube",
+  "code": "2462895",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027855",
+  "mmkId": "3027855",
+  "productGroupId": "466336",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-v12-level-12-haargel-tube/p/2462895",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hcb/h8d/31271224868894/prd-front-2462895-1_600x600/prd-front-2462895-1-600x600.jpg"
+}

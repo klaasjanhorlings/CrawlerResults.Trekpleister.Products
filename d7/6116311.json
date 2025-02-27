@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Wow 1 Minuut Perfecte Krul Care Haarmasker",
+  "code": "6116311",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 3577",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027858",
+  "mmkId": "3027858",
+  "productGroupId": "466489",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-wow-1-minuut-perfecte-krul-care-haarmasker/p/6116311",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "180ml",
+  "image": "/medias/sys_master/prd-images/h5d/hf4/31730527469598/prd-front-6116311-1_600x600/prd-front-6116311-1-600x600.jpg"
+}

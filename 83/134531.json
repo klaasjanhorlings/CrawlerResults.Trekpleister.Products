@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Isostar Hydrate & Perform Lemon Sportdrink Poeder",
+  "code": "134531",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6387 > 6388",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/isostar-hydrate-perform-lemon-sportdrink-poeder/p/134531",
+  "listName": "Lister",
+  "brand": "Isostar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267309,
+      "name": "Sportdrank"
+    }
+  ],
+  "description": "400g",
+  "image": "/medias/prd-front-134531-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODYyOTd8aW1hZ2UvanBlZ3xhRGhoTDJnNU5DOHlOalkyTnpFME1EWTNOelkyTWk5d2NtUXRabkp2Ym5RdE1UTTBOVE14TFRGZk5qQXdlRFl3TUF8NmY1MWEzODAwMTJjY2NjOTNhMjM0MDFhYmVmMmY2YzQ5NDZlNzRkZjU2MWRmODk4YjAwMzI5NmEzNGQ1YjBhOA"
+}

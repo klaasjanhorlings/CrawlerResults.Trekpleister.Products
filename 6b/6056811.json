@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Style & Go Haarklem met Satijnen Strik",
+  "code": "6056811",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6323",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-style-go-haarklem-met-satijnen-strik/p/6056811",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267044,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30267183,
+      "name": "Haarklemmen"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h85/h60/31168061800478/prd-front-6056811-1_600x600/prd-front-6056811-1-600x600.jpg"
+}

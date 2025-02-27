@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tiger Balm Fluid",
+  "code": "6079673",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027803",
+  "mmkId": "3027803",
+  "productGroupId": "459452",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tiger-balm-fluid/p/6079673",
+  "listName": "Lister",
+  "brand": "Tiger Balm",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267537,
+      "name": "Spierwrijfmiddelen"
+    }
+  ],
+  "description": "90ml",
+  "image": "/medias/sys_master/prd-images/h1f/h57/31685389680670/prd-front-6079673-1_600x600/prd-front-6079673-1-600x600.jpg"
+}

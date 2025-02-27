@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister 6 Plus Scheerapparaat",
+  "code": "4726891",
+  "price": "5.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3880",
+  "supplier": "ELLIPSE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-6-plus-scheerapparaat/p/4726891",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4726891-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQ3ODl8aW1hZ2UvanBlZ3xhRGszTDJneE1pOHhOalU1TWpBMk5UWTFPRGt4TUM5d2NtUXRabkp2Ym5RdE5EY3lOamc1TVMweFh6WXdNSGcyTURBfDRmNzU1MGE3YzllMGEzMjQ1NjYzYThjMjI3MWEyNDk2ZTJhOGY2YzUzNTdhNmJhODE0YjI2YjkxNmM5ODQ5OWI"
+}

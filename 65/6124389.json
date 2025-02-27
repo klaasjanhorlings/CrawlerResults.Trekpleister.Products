@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "donttellmum Billenzalf",
+  "code": "6124389",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/donttellmum-billenzalf/p/6124389",
+  "listName": "Lister",
+  "brand": "donttellmum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267577,
+      "name": "Luierzalf"
+    }
+  ],
+  "description": "70ml",
+  "image": "/medias/sys_master/prd-images/h12/h4b/31369560260638/prd-front-6124389-1_600x600/prd-front-6124389-1-600x600.jpg"
+}

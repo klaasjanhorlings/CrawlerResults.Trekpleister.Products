@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Préférence Le Blonding Pearly Boost Acidic Toner",
+  "code": "6035335",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027826",
+  "mmkId": "3027826",
+  "productGroupId": "461160",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-preference-le-blonding-pearly-boost-acidic-toner/p/6035335",
+  "listName": "Lister",
+  "brand": "Preference",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267177,
+      "name": "Toilettassen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf7/hee/31764244070430/prd-front-6035335-1_600x600/prd-front-6035335-1-600x600.jpg"
+}

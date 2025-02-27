@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nûby 0+M Neusreiniger",
+  "code": "4167920",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "NEW VALMAR BV",
+  "inStock": "inStock",
+  "onPromo": "3027833",
+  "mmkId": "3027833",
+  "productGroupId": "462030",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nuby-0m-neusreiniger/p/4167920",
+  "listName": "Lister",
+  "brand": "Nuby",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267339,
+      "name": "Verschonen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4167920-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzE1NzV8aW1hZ2UvanBlZ3xhRGM0TDJoaVpTOHhOalEzTWpJeU5UVTNPVEF6T0M5d2NtUXRabkp2Ym5RdE5ERTJOemt5TUMweFh6WXdNSGcyTURBfDAyNDI5MTJhNTQwMjU5ZmU0ZmYzYjU2OTg4ODMyMzBiZjU1NDE1OGQ1MDU1OTZjM2JiY2MyMWJkZjk0ZjVkZjU"
+}

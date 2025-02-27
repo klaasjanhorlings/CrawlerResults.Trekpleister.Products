@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Difrax Natural Anti-colic S-fles",
+  "code": "5913367",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
+  "supplier": "DIFRAX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/difrax-natural-anti-colic-s-fles/p/5913367",
+  "listName": "Lister",
+  "brand": "Difrax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267356,
+      "name": "Babyflesjes"
+    }
+  ],
+  "description": "crème, 170ml",
+  "image": "/medias/sys_master/prd-images/hd8/h33/32540552265758/prd-front-5913367-1_600x600/prd-front-5913367-1-600x600.jpg"
+}

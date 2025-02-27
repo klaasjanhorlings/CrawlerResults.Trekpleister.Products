@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GUM Expanding Floss",
+  "code": "5745587",
+  "price": "3.75",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2903 > 3700",
+  "supplier": "SUNSTAR BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027869",
+  "mmkId": "3027869",
+  "productGroupId": "467553",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gum-expanding-floss/p/5745587",
+  "listName": "Lister",
+  "brand": "Gum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267225,
+      "name": "Flosdraad"
+    }
+  ],
+  "description": "30m",
+  "image": "/medias/prd-front-5745587-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzY5NjJ8aW1hZ2UvanBlZ3xhR0V5TDJnek9TOHhOekExTnpZek9ESXhPVGd3Tmk5d2NtUXRabkp2Ym5RdE5UYzBOVFU0TnkweFh6WXdNSGcyTURBfGE0MjA3YThmOTk0ODE0MzZmZTZlZmFiN2QzOTAxZWMzN2RhZTcwOGZmN2FhYTYyZTExYWQ3MzBjN2VlMDAwZDU"
+}

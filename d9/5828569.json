@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Harmonie Aqua Babydoekjes",
+  "code": "5828569",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027726",
+  "mmkId": "3027726",
+  "productGroupId": "457983",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-harmonie-aqua-babydoekjes/p/5828569",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "432 stuks",
+  "image": "/medias/sys_master/prd-images/h2a/h58/31525782519838/prd-front-5828569-1_600x600/prd-front-5828569-1-600x600.jpg"
+}

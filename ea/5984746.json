@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York The Falsies Surreal Extensions Meta Black Mascara",
+  "code": "5984746",
+  "price": "20.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3027873",
+  "mmkId": "3027873",
+  "productGroupId": "468329",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-the-falsies-surreal-extensions-meta-black-mascara/p/5984746",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267133,
+      "name": "Mascara"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/hac/hb4/29992254242846/prd-front-5984746-1_600x600/prd-front-5984746-1-600x600.jpg"
+}

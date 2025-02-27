@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cantu Shea Butter Sulfate-Free Hydrating Cream Conditioner",
+  "code": "3805229",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6700 > 5896",
+  "supplier": "ORIGINAL ADDITIONS (BP)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/cantu-shea-butter-sulfate-free-hydrating-cream-conditioner/p/3805229",
+  "listName": "Lister",
+  "brand": "Cantu",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/prd-front-3805229-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTI3NDB8aW1hZ2UvanBlZ3xhRE5pTDJnMU1pOHhOelUzT1RFeU56UXdOall5TWk5d2NtUXRabkp2Ym5RdE16Z3dOVEl5T1MweFh6WXdNSGcyTURBfGVlMzZmNjI4MDhjYjg5ZGMxZmUwM2Q3ODc2MGIxOWQ4ZTVkNzIzYzc5YjM1OTgyNGNjNzYzYjQyNGU1NGMzYmY"
+}

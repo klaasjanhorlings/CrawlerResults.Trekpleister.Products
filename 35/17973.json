@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Pure Harmony Sinaasappel Lindebloesem Badolie",
+  "code": "17973",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kneipp-pure-harmony-sinaasappel-lindebloesem-badolie/p/17973",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267210,
+      "name": "Badolie"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h0c/h1d/28547457286174/prd-front-17973-1_600x600/prd-front-17973-1-600x600.jpg"
+}

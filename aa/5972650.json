@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wellaflex Men Dynamic Texture Matte Paste",
+  "code": "5972650",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
+  "supplier": "WELLA COMPANY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wellaflex-men-dynamic-texture-matte-paste/p/5972650",
+  "listName": "Lister",
+  "brand": "Wellaflex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267488,
+      "name": "Haarpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/ha4/h75/28820368359454/prd-front-5972650-1_600x600/prd-front-5972650-1-600x600.jpg"
+}

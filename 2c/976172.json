@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Goedemorgen Vochtige Washandjes",
+  "code": "976172",
+  "price": "4.35",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027834",
+  "mmkId": "3027834",
+  "productGroupId": "462053",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-goedemorgen-vochtige-washandjes/p/976172",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267338,
+      "name": "Baby vochtige washandjes"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hbe/h57/29331878051870/prd-front-976172-1_600x600/prd-front-976172-1-600x600.jpg"
+}

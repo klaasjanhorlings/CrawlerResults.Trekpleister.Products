@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "John Frieda Frizz Ease Dream Curls Curl Defining Crème",
+  "code": "5091024",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 3577",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/john-frieda-frizz-ease-dream-curls-curl-defining-creme/p/5091024",
+  "listName": "Lister",
+  "brand": "John Frieda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 82417106,
+      "name": "Krullenverzorging"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h04/he6/28998120669214/prd-front-5091024-1_600x600/prd-front-5091024-1-600x600.jpg"
+}

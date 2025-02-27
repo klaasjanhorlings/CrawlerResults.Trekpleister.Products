@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Weleda Calendula Zalf",
+  "code": "6139621",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 6467 > 6468 > 6469",
+  "supplier": "WELEDA BENELUX SE",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/weleda-calendula-zalf/p/6139621",
+  "listName": "Lister",
+  "brand": "Weleda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 51216437,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235394,
+      "name": "Droge en gevoelige huid"
+    }
+  ],
+  "description": "25g",
+  "image": "/medias/sys_master/prd-images/h7c/hc7/32304409542686/prd-front-6139621-1_600x600/prd-front-6139621-1-600x600.jpg"
+}

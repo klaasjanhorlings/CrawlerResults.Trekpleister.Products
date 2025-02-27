@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Odorex Marine Fresh Deodorant Roller",
+  "code": "3941302",
+  "price": "4.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3027768",
+  "mmkId": "3027768",
+  "productGroupId": "455326",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/odorex-marine-fresh-deodorant-roller/p/3941302",
+  "listName": "Lister",
+  "brand": "Odorex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267200,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "55ml",
+  "image": "/medias/prd-front-3941302-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDUwMDN8aW1hZ2UvanBlZ3xhRGxtTDJnNU5TOHhOelEwTlRBMk1qa3pORFUxT0M5d2NtUXRabkp2Ym5RdE16azBNVE13TWkweFh6WXdNSGcyTURBfDJiZDAzNTFiNjY2YmI2ZjY1ZjMzZjJlZWI4OGYwNzU1ODVkYzJmZjRhYmQ0ZDU2ZTc5NzcyZjUxMjNhZDk0ZWY"
+}

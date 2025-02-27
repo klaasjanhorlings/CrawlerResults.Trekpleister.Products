@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Head & Shoulders Menthol Fresh 2-in-1 Antiroosshampoo",
+  "code": "4672333",
+  "price": "7.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027813",
+  "mmkId": "3027813",
+  "productGroupId": "460011",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/head-shoulders-menthol-fresh-2-in-1-antiroosshampoo/p/4672333",
+  "listName": "Lister",
+  "brand": "Head & Shoulders",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "300ml - Alle haar- en hoofdhuidtypen",
+  "image": "/medias/sys_master/prd-images/h5f/h67/29869422411806/prd-front-4672333-1_600x600/prd-front-4672333-1-600x600.jpg"
+}

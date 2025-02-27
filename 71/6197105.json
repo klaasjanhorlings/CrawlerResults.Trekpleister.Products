@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Series 5 HC5310 Haartrimmer",
+  "code": "6197105",
+  "price": "59.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 5887 > 6443",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-series-5-hc5310-haartrimmer/p/6197105",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267240,
+      "name": "Tondeuses"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h51/h11/32944019275806/prd-front-6197105-1_600x600/prd-front-6197105-1-600x600.jpg"
+}

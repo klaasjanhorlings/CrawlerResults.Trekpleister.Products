@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fixodent Original Kleefpasta",
+  "code": "5160716",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 3270 > 4171",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fixodent-original-kleefpasta/p/5160716",
+  "listName": "Lister",
+  "brand": "Fixodent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267230,
+      "name": "Kleefpasta"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 70g",
+  "image": "/medias/sys_master/prd-images/ha2/ha7/33139546095646/prd-front-5160716-1_600x600/prd-front-5160716-1-600x600.jpg"
+}

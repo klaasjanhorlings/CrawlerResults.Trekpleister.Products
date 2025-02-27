@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Finish Glans Protector",
+  "code": "517895",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3012 > 3837",
+  "supplier": "RB HYGIENE HOME NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/finish-glans-protector/p/517895",
+  "listName": "Lister",
+  "brand": "Finish",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267114,
+      "name": "Vaatwas"
+    },
+    {
+      "id": 30267440,
+      "name": "Reiniging vaatwasser"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h3a/hd4/32353468776478/prd-front-517895-1_600x600/prd-front-517895-1-600x600.jpg"
+}

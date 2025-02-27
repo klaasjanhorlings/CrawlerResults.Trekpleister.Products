@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Strepfen Citroen en Honing 8,75mg Zuigtabletten",
+  "code": "2061445",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/strepfen-citroen-en-honing-8-75mg-zuigtabletten/p/2061445",
+  "listName": "Lister",
+  "brand": "Strepfen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267520,
+      "name": "Keelpastilles"
+    }
+  ],
+  "description": "Geneesmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/hd4/hde/28546573402142/prd-front-2061445-1_600x600/prd-front-2061445-1-600x600.jpg"
+}

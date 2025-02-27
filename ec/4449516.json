@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari 100% Pure Organic Extra Virgin Coconut Oil",
+  "code": "4449516",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-100-pure-organic-extra-virgin-coconut-oil/p/4449516",
+  "listName": "Lister",
+  "brand": "Yari",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213498,
+      "name": "Haarolie"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/prd-front-4449516-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzc0Njh8aW1hZ2UvanBlZ3xhRFZsTDJnM1l5OHhOamN5T1RFMk5UQXdORGd6TUM5d2NtUXRabkp2Ym5RdE5EUTBPVFV4TmkweFh6WXdNSGcyTURBfDE2N2ZiMThkOGY4ZDQyZTIzNjg3NWM0NTBiZDE3OGZlZTE4ZjhhOTdlMDE5YTIwODBjNzI4MGJhYTBlNThlY2E"
+}

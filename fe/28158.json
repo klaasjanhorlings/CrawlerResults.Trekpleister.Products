@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tabac Original Aftershave Splash",
+  "code": "28158",
+  "price": "23.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3395",
+  "supplier": "MAURER&WIRTZ GMBH&CO KG",
+  "inStock": "inStock",
+  "onPromo": "3027894",
+  "mmkId": "3027894",
+  "productGroupId": "470723",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tabac-original-aftershave-splash/p/28158",
+  "listName": "Lister",
+  "brand": "Tabac",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267169,
+      "name": "Aftershave"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h55/h39/30701706346526/prd-front-28158-1_600x600/prd-front-28158-1-600x600.jpg"
+}

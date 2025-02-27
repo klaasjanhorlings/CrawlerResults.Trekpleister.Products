@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nurofen Migraine Tabletten",
+  "code": "2794247",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 2760 > 3467",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nurofen-migraine-tabletten/p/2794247",
+  "listName": "Lister",
+  "brand": "Nurofen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267526,
+      "name": "Ibuprofen"
+    }
+  ],
+  "description": "Geneesmiddel - 24 stuks",
+  "image": "/medias/sys_master/prd-images/hdf/hd3/28628341981214/prd-front-2794247-1_600x600/prd-front-2794247-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cantu Shea Butter Biotin-Infused Haar- en Hoofdhuidolie",
+  "code": "5886487",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5920 > 5896",
+  "supplier": "ORIGINAL ADDITIONS (BP)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/cantu-shea-butter-biotin-infused-haar-en-hoofdhuidolie/p/5886487",
+  "listName": "Lister",
+  "brand": "Cantu",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213498,
+      "name": "Haarolie"
+    }
+  ],
+  "description": "59ml",
+  "image": "/medias/sys_master/prd-images/hab/hff/28582779879454/prd-front-5886487-1_600x600/prd-front-5886487-1-600x600.jpg"
+}

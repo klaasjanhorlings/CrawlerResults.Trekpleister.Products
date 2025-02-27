@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Expert Skin Healh Hypoallergenic Douchegel",
+  "code": "6134399",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3679",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027757",
+  "mmkId": "3027757",
+  "productGroupId": "452755",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-expert-skin-healh-hypoallergenic-douchegel/p/6134399",
+  "listName": "Lister",
+  "brand": "Sanex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hd4/h6e/31367580680222/prd-front-6134399-1_600x600/prd-front-6134399-1-600x600.jpg"
+}

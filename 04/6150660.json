@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutricia Olvarit 8M+ Pompoencurry met Linzen",
+  "code": "6150660",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutricia-olvarit-8m-pompoencurry-met-linzen/p/6150660",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267328,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267568,
+      "name": "8+ maanden"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h0c/h2f/31569503158302/prd-front-6150660-1_600x600/prd-front-6150660-1-600x600.jpg"
+}

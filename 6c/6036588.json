@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "My Nailcandy Rode Gellak Stickers",
+  "code": "6036588",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6505 > 6506",
+  "supplier": "LITTLE CONCEPTS NETTO",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/my-nailcandy-rode-gellak-stickers/p/6036588",
+  "listName": "Lister",
+  "brand": "MY NAILCANDY",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 72476753,
+      "name": "Gellak"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/h3e/hb0/32342635380766/prd-front-6036588-1_600x600/prd-front-6036588-1-600x600.jpg"
+}

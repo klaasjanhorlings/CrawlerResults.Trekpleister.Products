@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Men Active Energy Hydraterende Gezichtscrème",
+  "code": "1451556",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027837",
+  "mmkId": "3027837",
+  "productGroupId": "462499",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-active-energy-hydraterende-gezichtscreme/p/1451556",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267167,
+      "name": "Gezichtscreme mannen"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-1451556-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzk4OTd8aW1hZ2UvanBlZ3xhREptTDJoaE1DOHhOakkwT0RJNE16VXlPVEkwTmk5d2NtUXRabkp2Ym5RdE1UUTFNVFUxTmkweFh6WXdNSGcyTURBfGUxNGY5ZGIyMGU0ZjZiNjU4YjU1NWZjMjBjMTg2ODhhZmMxMWI0YTJiMjE2ZjI5Yzc0OTczNGIwZWYwYzI0NjI"
+}

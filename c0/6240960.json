@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rascal + Friends Maat 1 Premium Luiers",
+  "code": "6240960",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
+  "supplier": "ZURU NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/rascal-friends-maat-1-premium-luiers/p/6240960",
+  "listName": "Lister",
+  "brand": "Rascal + Friends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267341,
+      "name": "Luiers maat 1"
+    }
+  ],
+  "description": "44 stuks"
+}

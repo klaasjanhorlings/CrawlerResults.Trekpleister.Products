@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister O.R.S. Oral Rehydration Salts Sachets",
+  "code": "2815191",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2765 > 3638",
+  "supplier": "AUROBINDO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-ors-oral-rehydration-salts-sachets/p/2815191",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267290,
+      "name": "ORS"
+    }
+  ],
+  "description": "10 x 42g",
+  "image": "/medias/sys_master/prd-images/h4c/hdf/28625719394334/prd-front-2815191-1_600x600/prd-front-2815191-1-600x600.jpg"
+}

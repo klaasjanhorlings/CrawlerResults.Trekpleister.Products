@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Series Scheerschuim voor de Gevoelige Huid",
+  "code": "20080",
+  "price": "4.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2909 > 3706",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-series-scheerschuim-voor-de-gevoelige-huid/p/20080",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267238,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h02/ha6/31067685912606/prd-front-20080-1_600x600/prd-front-20080-1-600x600.jpg"
+}

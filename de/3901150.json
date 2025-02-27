@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sensodyne Deep Clean Gel Tandpasta voor Gevoelige Tanden",
+  "code": "3901150",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3027863",
+  "mmkId": "3027863",
+  "productGroupId": "467489",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sensodyne-deep-clean-gel-tandpasta-voor-gevoelige-tanden/p/3901150",
+  "listName": "Lister",
+  "brand": "Sensodyne",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h39/h44/31927366058014/prd-front-3901150-1_600x600/prd-front-3901150-1-600x600.jpg"
+}

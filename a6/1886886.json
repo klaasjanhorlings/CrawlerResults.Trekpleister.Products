@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence 15 Behind The Scenes Kajal Pencil",
+  "code": "1886886",
+  "price": "1.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-15-behind-the-scenes-kajal-pencil/p/1886886",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267142,
+      "name": "Oogpotlood"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha7/h50/30118433554462/prd-front-1886886-1_600x600/prd-front-1886886-1-600x600.jpg"
+}

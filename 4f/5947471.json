@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "King C. Gillette Pro Baardtrimmer",
+  "code": "5947471",
+  "price": "59.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6442",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027829",
+  "mmkId": "3027829",
+  "productGroupId": "461667",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/king-c-gillette-pro-baardtrimmer/p/5947471",
+  "listName": "Lister",
+  "brand": "King C",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267243,
+      "name": "Baardtrimmers"
+    }
+  ],
+  "description": "Inclusief 2 opzetstukken",
+  "image": "/medias/sys_master/prd-images/h2b/hf5/31217392255006/prd-front-5947471-1_600x600/prd-front-5947471-1-600x600.jpg"
+}

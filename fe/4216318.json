@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Lift+ Super Filler Capsules",
+  "code": "4216318",
+  "price": "10.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "3027796",
+  "mmkId": "3027796",
+  "productGroupId": "458453",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-lift-super-filler-capsules/p/4216318",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
+    }
+  ],
+  "description": "4ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hb4/h97/30330109362206/prd-front-4216318-1_600x600/prd-front-4216318-1-600x600.jpg"
+}

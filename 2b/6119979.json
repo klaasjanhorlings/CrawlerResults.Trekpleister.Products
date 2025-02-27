@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clearblue Ultravroege Zwangerschapstest",
+  "code": "6119979",
+  "price": "15.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2553 > 3187 > 3620",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/clearblue-ultravroege-zwangerschapstest/p/6119979",
+  "listName": "Lister",
+  "brand": "Clearblue",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267267,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30267542,
+      "name": "Zwangerschapstesten"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 2 stuks",
+  "image": "/medias/sys_master/prd-images/h8a/h02/32249651757086/prd-front-6119979-1_600x600/prd-front-6119979-1-600x600.jpg"
+}

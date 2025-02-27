@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Meridol Tandpasta",
+  "code": "34213",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027880",
+  "mmkId": "3027880",
+  "productGroupId": "468964",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/meridol-tandpasta/p/34213",
+  "listName": "Lister",
+  "brand": "Meridol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml - Tandvleesbescherming",
+  "image": "/medias/sys_master/prd-images/hd6/he9/30285493993502/prd-front-34213-1_600x600/prd-front-34213-1-600x600.jpg"
+}

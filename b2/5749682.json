@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Avent SCF281/02 Magnetronsterilisator",
+  "code": "5749682",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-avent-scf281/02-magnetronsterilisator/p/5749682",
+  "listName": "Lister",
+  "brand": "Philips Avent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30267364,
+      "name": "Babyaccessoires"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5749682-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTg4NDJ8aW1hZ2UvanBlZ3xhRGhoTDJnME5pOHhOekEwT0RjM05ESTNPVEU1T0M5d2NtUXRabkp2Ym5RdE5UYzBPVFk0TWkweFh6WXdNSGcyTURBfGU4MGU1ODFkMWZjMzIxYzEwYjEwYTA3ZmMzMWU1YTIzYmFlMDU2ZDA0ZmE5ZGRhNTY4ZGRkYjc1M2ExOTM3NTI"
+}

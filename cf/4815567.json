@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Durex Thin Feel Condooms",
+  "code": "4815567",
+  "price": "89.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/durex-thin-feel-condooms/p/4815567",
+  "listName": "Lister",
+  "brand": "Durex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267062,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30267306,
+      "name": "Condooms"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 144 stuks"
+}

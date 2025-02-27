@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vitalize Vitamine D3 25mg 1000IE Parelcapsules",
+  "code": "5945385",
+  "price": "12.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
+  "supplier": "VITALIZE PRODUCTS BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vitalize-vitamine-d3-25mg-1000ie-parelcapsules/p/5945385",
+  "listName": "Lister",
+  "brand": "Vitalize",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267286,
+      "name": "Botten en gewrichten"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h3b/hd8/30099315261470/prd-front-5945385-1_600x600/prd-front-5945385-1-600x600.jpg"
+}

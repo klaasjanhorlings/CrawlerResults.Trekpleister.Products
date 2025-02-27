@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Multi-Gyn FemiWash Gel",
+  "code": "6037834",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/multi-gyn-femiwash-gel/p/6037834",
+  "listName": "Lister",
+  "brand": "Multi-Gyn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267222,
+      "name": "Intieme hygiëne"
+    }
+  ],
+  "description": "220ml",
+  "image": "/medias/sys_master/prd-images/h18/h93/31149162037278/prd-front-6037834-1_600x600/prd-front-6037834-1-600x600.jpg"
+}

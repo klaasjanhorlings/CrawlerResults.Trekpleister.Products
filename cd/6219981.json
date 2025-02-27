@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Curalyn Mondmaskers",
+  "code": "6219981",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 6664 > 6665 > 6666",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/curalyn-mondmaskers/p/6219981",
+  "listName": "Lister",
+  "brand": "Curalyn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 49363491,
+      "name": "Mondkapjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/he1/hb5/32780263129118/prd-front-6219981-1_600x600/prd-front-6219981-1-600x600.jpg"
+}

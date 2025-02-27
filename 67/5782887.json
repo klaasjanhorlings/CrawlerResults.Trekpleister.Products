@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sun Classic Vaatwaspoeder",
+  "code": "5782887",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sun-classic-vaatwaspoeder/p/5782887",
+  "listName": "Lister",
+  "brand": "Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267114,
+      "name": "Vaatwas"
+    },
+    {
+      "id": 49282595,
+      "name": "Vaatwaspoeder"
+    }
+  ],
+  "description": "1360g",
+  "image": "/medias/prd-front-5782887-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzA0MTV8aW1hZ2UvanBlZ3xhR1kzTDJnNU1DOHhOekl4TVRBM016azFNemd5TWk5d2NtUXRabkp2Ym5RdE5UYzRNamc0TnkweFh6WXdNSGcyTURBfDMyNGNmNjA1YmZiNGI4NWFkOTJiNzhkMTEwODMyODBhYTBmNDlhZGQyNzFkMWY0MjQxODI2MjkyZmYzNGQ0MGI"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Imodium 2mg Capsules",
+  "code": "5847203",
+  "price": "6.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2765 > 3471",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/imodium-2mg-capsules/p/5847203",
+  "listName": "Lister",
+  "brand": "Imodium",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 30267533,
+      "name": "Diarreeremmers"
+    }
+  ],
+  "description": "Geneesmiddel - 12 stuks",
+  "image": "/medias/sys_master/prd-images/h47/h62/28624933093406/prd-front-5847203-1_600x600/prd-front-5847203-1-600x600.jpg"
+}

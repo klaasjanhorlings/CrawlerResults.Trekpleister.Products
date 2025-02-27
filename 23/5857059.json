@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun BS1000  Mini Bodytrimmer",
+  "code": "5857059",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 5886 > 6440",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-bs1000-mini-bodytrimmer/p/5857059",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267242,
+      "name": "Haartrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h77/h9c/28573161357342/prd-front-5857059-1_600x600/prd-front-5857059-1-600x600.jpg"
+}

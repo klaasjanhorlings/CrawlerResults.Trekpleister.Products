@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vitalize Vitamine B12 Energie Smelttabletten",
+  "code": "5945378",
+  "price": "15.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "VITALIZE PRODUCTS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vitalize-vitamine-b12-energie-smelttabletten/p/5945378",
+  "listName": "Lister",
+  "brand": "Vitalize",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267548,
+      "name": "Vitamine B"
+    }
+  ],
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/hbb/hd3/30091673829406/prd-front-5945378-1_600x600/prd-front-5945378-1-600x600.jpg"
+}

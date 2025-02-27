@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aquafresh Freshmint Frisse Adem Mondspray",
+  "code": "23911",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3052 > 3901",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3027864",
+  "mmkId": "3027864",
+  "productGroupId": "467493",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aquafresh-freshmint-frisse-adem-mondspray/p/23911",
+  "listName": "Lister",
+  "brand": "Aquafresh",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267233,
+      "name": "Mondwater en mondspray"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/haf/hca/32235672436766/prd-front-23911-1_600x600/prd-front-23911-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Dreamzzz 71491 Mateo en het Z-Blob Actievoertuig",
+  "code": "6232021",
+  "price": "44.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-dreamzzz-71491-mateo-en-het-z-blob-actievoertuig/p/6232021",
+  "listName": "Lister",
+  "brand": "LEGO DREAMZzz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69047768,
+      "name": "LEGO DreamZzz"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6f/h98/33349050925086/prd-front-6232021-1_600x600/prd-front-6232021-1-600x600.jpg"
+}

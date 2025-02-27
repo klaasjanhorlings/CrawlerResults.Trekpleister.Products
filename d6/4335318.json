@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Rose Oil Shower Mousse",
+  "code": "4335318",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-rose-oil-shower-mousse/p/4335318",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267207,
+      "name": "Doucheschuim"
+    }
+  ],
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h42/hbb/29274685308958/prd-front-4335318-1_600x600/prd-front-4335318-1-600x600.jpg"
+}

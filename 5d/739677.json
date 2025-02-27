@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sinaspril Vloeibaar Paracetamol",
+  "code": "739677",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6155 > 6167",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sinaspril-vloeibaar-paracetamol/p/739677",
+  "listName": "Lister",
+  "brand": "Sinaspril",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267529,
+      "name": "Pijnstiller"
+    }
+  ],
+  "description": "Geneesmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/ha4/h8e/32164721623070/prd-front-739677-1_600x600/prd-front-739677-1-600x600.jpg"
+}

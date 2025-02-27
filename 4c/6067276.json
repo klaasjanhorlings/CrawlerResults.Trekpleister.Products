@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lansinoh Babyfles met NaturalWave Speen",
+  "code": "6067276",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
+  "supplier": "LANSINOH LABORATORIES",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lansinoh-babyfles-met-naturalwave-speen/p/6067276",
+  "listName": "Lister",
+  "brand": "Lansinoh",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267356,
+      "name": "Babyflesjes"
+    }
+  ],
+  "description": "160ml",
+  "image": "/medias/sys_master/prd-images/hf8/h79/30463017484318/prd-front-6067276-1_600x600/prd-front-6067276-1-600x600.jpg"
+}

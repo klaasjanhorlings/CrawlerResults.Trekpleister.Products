@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Series 7 BT7420 Baardtrimmer",
+  "code": "6199121",
+  "price": "99.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6442",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-series-7-bt7420-baardtrimmer/p/6199121",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267243,
+      "name": "Baardtrimmers"
+    }
+  ],
+  "description": "zwart, grijs",
+  "image": "/medias/sys_master/prd-images/h1a/h8a/32944320577566/prd-front-6199121-1_600x600/prd-front-6199121-1-600x600.jpg"
+}

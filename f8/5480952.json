@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Cetirizine 10Mg Hooikoortstabletten",
+  "code": "5480952",
+  "price": "4.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 3472",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-cetirizine-10mg-hooikoortstabletten/p/5480952",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267258,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30267510,
+      "name": "Hooikoortstabletten"
+    }
+  ],
+  "description": "Geneesmiddel - 21 stuks",
+  "image": "/medias/sys_master/prd-images/h0b/h09/28578899099678/prd-front-5480952-1_600x600/prd-front-5480952-1-600x600.jpg"
+}

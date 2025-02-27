@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Strepsils Original Zuigtabletten",
+  "code": "21658",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/strepsils-original-zuigtabletten/p/21658",
+  "listName": "Lister",
+  "brand": "Strepsils",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267520,
+      "name": "Keelpastilles"
+    }
+  ],
+  "description": "Geneesmiddel - 24 stuks",
+  "image": "/medias/prd-front-21658-2-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDM0ODF8aW1hZ2UvanBlZ3xhR0ZsTDJneU15OHhOakl5T0RJd09EUTBNelF5TWk5d2NtUXRabkp2Ym5RdE1qRTJOVGd0TWw4Mk1EQjROakF3fDgxNjZhNDk4YTU5ZjUyNjU4ZTM5ZGUyZWQ3OWUyMTM4NTM3OGRmNWMxMGY5MmE1MWNiN2Y2NjM4Y2UyMGNkMjc"
+}

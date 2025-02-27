@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "HiPP Biologisch Opvolgmelk 2 op Basis van Geitenmelk",
+  "code": "5866747",
+  "price": "16.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
+  "supplier": "FRIQUEZ BV HIPP NEDERLA",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hipp-biologisch-opvolgmelk-2-op-basis-van-geitenmelk/p/5866747",
+  "listName": "Lister",
+  "brand": "Hipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267560,
+      "name": "Opvolgmelk"
+    }
+  ],
+  "description": "400g",
+  "image": "/medias/sys_master/prd-images/h97/h6a/29937551835166/prd-front-5866747-1_600x600/prd-front-5866747-1-600x600.jpg"
+}

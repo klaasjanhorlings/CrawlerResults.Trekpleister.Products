@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Marcel's Green Soap Sandelhout & Kardemom Handzeep",
+  "code": "5746952",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3482",
+  "supplier": "GREEN SOAP COMPANY BV",
+  "inStock": "inStock",
+  "onPromo": "3027811",
+  "mmkId": "3027811",
+  "productGroupId": "459931",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/marcels-green-soap-sandelhout-kardemom-handzeep/p/5746952",
+  "listName": "Lister",
+  "brand": "Marcel's Green Soap",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267246,
+      "name": "Handzeep"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h67/h67/28910667235358/prd-front-5746952-1_600x600/prd-front-5746952-1-600x600.jpg"
+}

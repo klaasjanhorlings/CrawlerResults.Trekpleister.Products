@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Voltaren K 12,5mg Diclofenac-Kalium Filmomhulde Tabletten",
+  "code": "228226",
+  "price": "7.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6159 > 6187",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/voltaren-k-12-5mg-diclofenac-kalium-filmomhulde-tabletten/p/228226",
+  "listName": "Lister",
+  "brand": "Voltaren",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267530,
+      "name": "Diclofenac"
+    }
+  ],
+  "description": "Geneesmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h54/h73/32292811833374/prd-front-228226-1_600x600/prd-front-228226-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "TePe 0,6mm Interdentale Ragers",
+  "code": "5988666",
+  "price": "5.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
+  "supplier": "TEPE BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tepe-0-6mm-interdentale-ragers/p/5988666",
+  "listName": "Lister",
+  "brand": "TePe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267226,
+      "name": "Tandenragers"
+    }
+  ],
+  "description": "blauw, 6 stuks",
+  "image": "/medias/sys_master/prd-images/hd2/h3d/30434408923166/prd-front-5988666-1_600x600/prd-front-5988666-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanicur Sensitive Bad- en Douchegel",
+  "code": "3203544",
+  "price": "4.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanicur-sensitive-bad-en-douchegel/p/3203544",
+  "listName": "Lister",
+  "brand": "Sanicur",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "1L - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hb8/haf/28620458360862/prd-front-3203544-1_600x600/prd-front-3203544-1-600x600.jpg"
+}

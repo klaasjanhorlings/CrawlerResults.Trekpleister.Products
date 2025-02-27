@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutrilon 1 Volledige Zuigelingenvoeding Flesvoeding 0-6 Maanden",
+  "code": "3825662",
+  "price": "2.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutrilon-1-volledige-zuigelingenvoeding-flesvoeding-0-6-maanden/p/3825662",
+  "listName": "Lister",
+  "brand": "Nutrilon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267559,
+      "name": "Zuigelingenmelk"
+    }
+  ],
+  "description": "3 x 23g",
+  "image": "/medias/sys_master/prd-images/hfa/hdb/31197116956702/prd-front-3825662-1_600x600/prd-front-3825662-1-600x600.jpg"
+}

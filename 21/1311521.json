@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Unlimited Hold Level 7 Haargel",
+  "code": "1311521",
+  "price": "8.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027855",
+  "mmkId": "3027855",
+  "productGroupId": "466336",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-unlimited-hold-level-7-haargel/p/1311521",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h1e/hc7/31270741508126/prd-front-1311521-1_600x600/prd-front-1311521-1-600x600.jpg"
+}

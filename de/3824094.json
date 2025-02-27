@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 15+M Bloemkool Kalkoen Aardappel",
+  "code": "3824094",
+  "price": "1.74",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 3025 > 3850",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-15m-bloemkool-kalkoen-aardappel/p/3824094",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267328,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267570,
+      "name": "15+ maanden"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/hdf/h3f/30687768969246/prd-front-3824094-1_600x600/prd-front-3824094-1-600x600.jpg"
+}

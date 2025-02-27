@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips 3100 Series Sonicare Elektrische Tandenborstel",
+  "code": "6166963",
+  "price": "99.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "3027910",
+  "mmkId": "3027910",
+  "productGroupId": "477222",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-3100-series-sonicare-elektrische-tandenborstel/p/6166963",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267234,
+      "name": "Elektrische tandenborstels"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h41/h71/31708529426462/prd-front-6166963-1_600x600/prd-front-6166963-1-600x600.jpg"
+}

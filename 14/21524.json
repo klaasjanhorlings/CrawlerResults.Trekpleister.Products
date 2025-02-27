@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Daro Thijm Siroop",
+  "code": "21524",
+  "price": "9.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/daro-thijm-siroop/p/21524",
+  "listName": "Lister",
+  "brand": "Daro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267521,
+      "name": "Keelsiropen"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-21524-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjQ5MTZ8aW1hZ2UvanBlZ3xhREJpTDJnek15OHhOakl5TnpjMk1qa3lPVFk1TkM5d2NtUXRabkp2Ym5RdE1qRTFNalF0TVY4Mk1EQjROakF3fDRlMjQ2NjkzMDEzYTYwOGJhZTUzZjc2ZDI5OTEzNjUyOGQ3MTkxZmIxZDZiNjhmYjRjZDhkMDI1NTY2OWEwZWU"
+}

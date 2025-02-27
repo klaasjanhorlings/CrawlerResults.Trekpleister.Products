@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Men Expert Derma Control S.O.S. Pimple Paste",
+  "code": "6237334",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027831",
+  "mmkId": "3027831",
+  "productGroupId": "461855",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-men-expert-derma-control-sos-pimple-paste/p/6237334",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris Men Expert",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267167,
+      "name": "Gezichtscreme mannen"
+    }
+  ],
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/h5e/h16/32950799433758/prd-front-6237334-1_600x600/prd-front-6237334-1-600x600.jpg"
+}

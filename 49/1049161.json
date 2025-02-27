@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Natuurlijk en Zuiver Cranberry Puur Tabletten",
+  "code": "1049161",
+  "price": "6.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6530 > 6531",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-natuurlijk-en-zuiver-cranberry-puur-tabletten/p/1049161",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267291,
+      "name": "Cranberrysupplementen"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h08/h4e/28549588156446/prd-front-1049161-1_600x600/prd-front-1049161-1-600x600.jpg"
+}

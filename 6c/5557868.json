@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Avent Soothie 0-6M Fopspeen",
+  "code": "5557868",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3381",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-avent-soothie-0-6m-fopspeen/p/5557868",
+  "listName": "Lister",
+  "brand": "Philips Avent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267354,
+      "name": "Fopspenen"
+    }
+  ],
+  "description": "blauw",
+  "image": "/medias/sys_master/prd-images/h5d/h9e/28579083583518/prd-front-5557868-1_600x600/prd-front-5557868-1-600x600.jpg"
+}

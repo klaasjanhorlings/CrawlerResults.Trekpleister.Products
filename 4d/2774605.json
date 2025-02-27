@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutrilon Omneo 1 Dieetvoeding 0-6 Maanden",
+  "code": "2774605",
+  "price": "22.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutrilon-omneo-1-dieetvoeding-0-6-maanden/p/2774605",
+  "listName": "Lister",
+  "brand": "Nutrilon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267559,
+      "name": "Zuigelingenmelk"
+    }
+  ],
+  "description": "800g",
+  "image": "/medias/prd-front-2774605-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTE5Mjh8aW1hZ2UvanBlZ3xhR1UxTDJoak1TOHhOekExTmpjNU5EY3dOVGsxTUM5d2NtUXRabkp2Ym5RdE1qYzNORFl3TlMweFh6WXdNSGcyTURBfDEzZTgzZDMxZGIwMDM1MmEzNTFjYzM0OWVhN2IwYzkxZjhiYjM2MjMwYjk4N2JiNTRiMDM3YmQzZTk0NWUxMTI"
+}

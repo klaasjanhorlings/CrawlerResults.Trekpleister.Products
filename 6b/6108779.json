@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jo Malone Wood Sage & Sea Salt Eau de Cologne",
+  "code": "6108779",
+  "price": "56.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3625",
+  "supplier": "AVENTUS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jo-malone-wood-sage-sea-salt-eau-de-cologne/p/6108779",
+  "listName": "Lister",
+  "brand": "JO MALONE",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h6a/h8e/31029223620638/prd-front-6108779-1_600x600/prd-front-6108779-1-600x600.jpg"
+}

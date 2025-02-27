@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Difrax Starterset Pasgeborenen",
+  "code": "3622676",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "DIFRAX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/difrax-starterset-pasgeborenen/p/3622676",
+  "listName": "Lister",
+  "brand": "Difrax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267355,
+      "name": "Flessenspenen"
+    }
+  ],
+  "description": ""
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Shampoo",
+  "code": "5471467",
+  "price": "10.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3429",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027834",
+  "mmkId": "3027834",
+  "productGroupId": "462053",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-shampoo/p/5471467",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267332,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267573,
+      "name": "Babyshampoo"
+    }
+  ],
+  "description": "700ml",
+  "image": "/medias/sys_master/prd-images/hf7/hb7/28547744038942/prd-front-5471467-1_600x600/prd-front-5471467-1-600x600.jpg"
+}

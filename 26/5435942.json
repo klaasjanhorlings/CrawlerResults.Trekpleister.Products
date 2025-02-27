@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SheaMoisture Manuka Honey & Mafura Oil Intensive Hydration Shampoo",
+  "code": "5435942",
+  "price": "17.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sheamoisture-manuka-honey-mafura-oil-intensive-hydration-shampoo/p/5435942",
+  "listName": "Lister",
+  "brand": "SheaMoisture",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "384ml",
+  "image": "/medias/sys_master/prd-images/h4c/he4/28552891138078/prd-front-5435942-1_600x600/prd-front-5435942-1-600x600.jpg"
+}

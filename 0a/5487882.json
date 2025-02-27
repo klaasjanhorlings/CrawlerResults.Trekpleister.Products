@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WeCare Caramel Choco Peanut Lower Carb Bar",
+  "code": "5487882",
+  "price": "2.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6647",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wecare-caramel-choco-peanut-lower-carb-bar/p/5487882",
+  "listName": "Lister",
+  "brand": "WeCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 49431794,
+      "name": "Koolhydraatarm"
+    }
+  ],
+  "description": "35g",
+  "image": "/medias/sys_master/prd-images/h4b/hd1/31310675771422/prd-front-5487882-1_600x600/prd-front-5487882-1-600x600.jpg"
+}

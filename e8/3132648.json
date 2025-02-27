@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Glycerona Classic Handcrème",
+  "code": "3132648",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
+  "supplier": "REMARK GROEP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/glycerona-classic-handcreme/p/3132648",
+  "listName": "Lister",
+  "brand": "Glycerona",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267245,
+      "name": "Handcrèmes"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h2f/h67/28576038060062/prd-front-3132648-1_600x600/prd-front-3132648-1-600x600.jpg"
+}

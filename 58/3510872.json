@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Color Riche 302 Bois de Ros Lipliner",
+  "code": "3510872",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-color-riche-302-bois-de-ros-lipliner/p/3510872",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267152,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-3510872-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA5NzN8aW1hZ2UvanBlZ3xhREkwTDJnd1lpOHhOak14TWpjMk9ETTVOek0wTWk5d2NtUXRabkp2Ym5RdE16VXhNRGczTWkweFh6WXdNSGcyTURBfDlhNzc1YzJkNGRlOTQwYzE3MDllOGU1ZmMxMmRmZWUxZDlhNDdjYTBkZDRkMDU3MDA3OTFkNjJhMzMzOGFkMDM"
+}

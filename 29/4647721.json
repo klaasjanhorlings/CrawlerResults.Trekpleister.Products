@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GUM Ortho Wax",
+  "code": "4647721",
+  "price": "6.65",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "SUNSTAR BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027869",
+  "mmkId": "3027869",
+  "productGroupId": "467553",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gum-ortho-wax/p/4647721",
+  "listName": "Lister",
+  "brand": "Gum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 64454079,
+      "name": "Beugelverzorging"
+    }
+  ],
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h6f/he7/30722830106654/prd-front-4647721-1_600x600/prd-front-4647721-1-600x600.jpg"
+}

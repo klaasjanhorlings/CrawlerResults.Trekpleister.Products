@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WeCare Natural Tortillas Lower Carb Wraps",
+  "code": "5487854",
+  "price": "4.75",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6647",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wecare-natural-tortillas-lower-carb-wraps/p/5487854",
+  "listName": "Lister",
+  "brand": "WeCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 49431794,
+      "name": "Koolhydraatarm"
+    }
+  ],
+  "description": "160g",
+  "image": "/medias/sys_master/prd-images/he5/hcc/31685235703838/prd-front-5487854-1_600x600/prd-front-5487854-1-600x600.jpg"
+}

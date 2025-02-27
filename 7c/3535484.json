@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Roter Vitamine C 500 mg Kauwtabletten",
+  "code": "3535484",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027847",
+  "mmkId": "3027847",
+  "productGroupId": "465773",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/roter-vitamine-c-500-mg-kauwtabletten/p/3535484",
+  "listName": "Lister",
+  "brand": "Roter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267274,
+      "name": "Weerstand en of energie"
+    }
+  ],
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/ha2/hed/33185135788062/prd-front-3535484-1_600x600/prd-front-3535484-1-600x600.jpg"
+}

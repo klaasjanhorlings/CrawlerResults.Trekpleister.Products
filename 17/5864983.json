@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Libresse Dailies V-Protection & Freshness Inlegkruisjes",
+  "code": "5864983",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027783",
+  "mmkId": "3027783",
+  "productGroupId": "457396",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/libresse-dailies-v-protection-freshness-inlegkruisjes/p/5864983",
+  "listName": "Lister",
+  "brand": "Libresse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267220,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "80 stuks",
+  "image": "/medias/sys_master/prd-images/had/h66/29399609671710/prd-front-5864983-1_600x600/prd-front-5864983-1-600x600.jpg"
+}

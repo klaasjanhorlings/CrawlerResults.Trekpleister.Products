@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Ninjamas Jongens 4-7 Jaar Pyjama Pants",
+  "code": "5951636",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027722",
+  "mmkId": "3027722",
+  "productGroupId": "457928",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-ninjamas-jongens-4-7-jaar-pyjama-pants/p/5951636",
+  "listName": "Lister",
+  "brand": "Ninjamas",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267072,
+      "name": "Pyjamabroekjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - mt 4-7 jaar, 10 stuks",
+  "image": "/medias/sys_master/prd-images/ha9/hbe/28728405590046/prd-front-5951636-1_600x600/prd-front-5951636-1-600x600.jpg"
+}

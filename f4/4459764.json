@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vogue Girl Sweet Cupcake Antitranspirant Spray",
+  "code": "4459764",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "REMARK GROEP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vogue-girl-sweet-cupcake-antitranspirant-spray/p/4459764",
+  "listName": "Lister",
+  "brand": "Vogue",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-4459764-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjAzNzd8aW1hZ2UvanBlZ3xhR1k0TDJnd015OHhOamN5T1RVNE16VTFNRFE1TkM5d2NtUXRabkp2Ym5RdE5EUTFPVGMyTkMweFh6WXdNSGcyTURBfDZmYmY5MGQ3YjBlZjI0N2Y2MTBjNWJjM2M1ZDJkMTQ3NzdhNzdiMGI0MDQ4M2JhYjI4YTcxODA4OTU3NTYyMWE"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Happy Earth 100% Natural Bergamot Deodorant Balm",
+  "code": "5430916",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
+  "supplier": "ORANGE-SHEEP BV",
+  "inStock": "inStock",
+  "onPromo": "3027763",
+  "mmkId": "3027763",
+  "productGroupId": "453733",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/happy-earth-100-natural-bergamot-deodorant-balm/p/5430916",
+  "listName": "Lister",
+  "brand": "Happy Earth",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267199,
+      "name": "Deodorant creme"
+    }
+  ],
+  "description": "45g",
+  "image": "/medias/prd-front-5430916-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDcwNzJ8aW1hZ2UvanBlZ3xhRE5qTDJnME9DOHhOekExTmpZd05EWXhPRGM0TWk5d2NtUXRabkp2Ym5RdE5UUXpNRGt4TmkweFh6WXdNSGcyTURBfDVhZDZkNjJhZmI1N2I5N2JmZDU4MjAyOWRmZjEwNjczOGM2ZjkwODljNWVhYTg1OWIxNWU4NTBlN2EzNDgxMTA"
+}

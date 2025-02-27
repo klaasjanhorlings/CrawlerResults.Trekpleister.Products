@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Drs Leenarts Vette & Onzuivere Huid SPF30 Dagcrème",
+  "code": "5754694",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "DR LEENARTS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/drs-leenarts-vette-onzuivere-huid-spf30-dagcreme/p/5754694",
+  "listName": "Lister",
+  "brand": "Drs Leenarts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267163,
+      "name": "Dermacare"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h6f/h76/33480460632094/prd-front-5754694-1_600x600/prd-front-5754694-1-600x600.jpg"
+}

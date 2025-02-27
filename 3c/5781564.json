@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Axe Aqua Bergamot Douchegel",
+  "code": "5781564",
+  "price": "6.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027765",
+  "mmkId": "3027765",
+  "productGroupId": "454700",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/axe-aqua-bergamot-douchegel/p/5781564",
+  "listName": "Lister",
+  "brand": "Axe Fine Fragrance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "225ml",
+  "image": "/medias/sys_master/prd-images/h6d/hf6/33196803555358/prd-front-5781564-1_600x600/prd-front-5781564-1-600x600.jpg"
+}

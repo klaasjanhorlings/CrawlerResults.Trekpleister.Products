@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Atrix Handcrème",
+  "code": "557438",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/atrix-handcreme/p/557438",
+  "listName": "Lister",
+  "brand": "Atrix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267245,
+      "name": "Handcrèmes"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h37/he1/28549340561438/prd-front-557438-1_600x600/prd-front-557438-1-600x600.jpg"
+}

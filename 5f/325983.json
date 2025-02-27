@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fluimucil Bruistabletten",
+  "code": "325983",
+  "price": "7.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3935",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fluimucil-bruistabletten/p/325983",
+  "listName": "Lister",
+  "brand": "Fluimucil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 48656877,
+      "name": "Hoesttabletten"
+    }
+  ],
+  "description": "Geneesmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/h8f/hec/28549329190942/prd-front-325983-1_600x600/prd-front-325983-1-600x600.jpg"
+}

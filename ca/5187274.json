@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bepanthen Eczeem Crème voor Baby's",
+  "code": "5187274",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bepanthen-eczeem-creme-voor-babys/p/5187274",
+  "listName": "Lister",
+  "brand": "Bepanthen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267575,
+      "name": "Babycreme"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20g",
+  "image": "/medias/prd-front-5187274-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjIzNTB8aW1hZ2UvanBlZ3xhR1ZtTDJoaVpTOHhOamN4TURZeU5UUXlOelE0Tmk5d2NtUXRabkp2Ym5RdE5URTROekkzTkMweFh6WXdNSGcyTURBfGZjZjc3ZTQwOGIyNDU0NWI1MzFjOTFmYzM1ZTg3NmMxNDE3NDA4YjJlNjEzNWE4ODgxYWRhOTRjZjFmMzJjNjQ"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Treaclemoon One Ginger Morning Bad- en Douchegel",
+  "code": "4321087",
+  "price": "6.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "TRADE SENSE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/treaclemoon-one-ginger-morning-bad-en-douchegel/p/4321087",
+  "listName": "Lister",
+  "brand": "Treaclemoon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267212,
+      "name": "Badschuim"
+    }
+  ],
+  "description": "500ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hc1/hce/28865959231518/prd-front-4321087-1_600x600/prd-front-4321087-1-600x600.jpg"
+}

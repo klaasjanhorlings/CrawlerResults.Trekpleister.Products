@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vagisan Beschermende Zalf",
+  "code": "4772580",
+  "price": "14.45",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "supplier": "BENCKMAR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vagisan-beschermende-zalf/p/4772580",
+  "listName": "Lister",
+  "brand": "Vagisan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267222,
+      "name": "Intieme hygiëne"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h9d/hd4/32826445660190/prd-front-4772580-1_600x600/prd-front-4772580-1-600x600.jpg"
+}

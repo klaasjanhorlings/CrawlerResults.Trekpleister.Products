@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playing Kids Houten Kassa",
+  "code": "6132950",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 4640 > 5190 > 5369 > 5558",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/playing-kids-houten-kassa/p/6132950",
+  "listName": "Lister",
+  "brand": "Playing Kids",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267087,
+      "name": "Houten speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcd/h36/31458742239262/prd-front-6132950-1_600x600/prd-front-6132950-1-600x600.jpg"
+}

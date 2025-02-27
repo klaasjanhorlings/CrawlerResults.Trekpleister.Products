@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Vitamine D3 75mcg Capsules",
+  "code": "5846979",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-vitamine-d3-75mcg-capsules/p/5846979",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267286,
+      "name": "Botten en gewrichten"
+    }
+  ],
+  "description": "365 stuks",
+  "image": "/medias/sys_master/prd-images/hc3/h7f/33478884294686/prd-front-5846979-1_600x600/prd-front-5846979-1-600x600.jpg"
+}

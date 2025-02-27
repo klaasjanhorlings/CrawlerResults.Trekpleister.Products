@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Cranberry X-Tra Capsules",
+  "code": "3806146",
+  "price": "26.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6530 > 6531",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-cranberry-x-tra-capsules/p/3806146",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267291,
+      "name": "Cranberrysupplementen"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/prd-front-3806146-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODM4NDR8aW1hZ2UvanBlZ3xhR1ZrTDJoa01pOHhOall3TWpFME9UUXlNVEE0Tmk5d2NtUXRabkp2Ym5RdE16Z3dOakUwTmkweFh6WXdNSGcyTURBfDY4MGZiMGZmNzM1NGYxN2Y0NWYwM2JhNzlmNjhlZjBhY2MyMGVmMzhhOTM0MmRjMTc4MTk2MWIxMTM2ODJkZDg"
+}

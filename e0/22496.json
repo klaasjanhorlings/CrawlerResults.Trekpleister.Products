@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "After Bite Classic",
+  "code": "22496",
+  "price": "6.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 6070",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/after-bite-classic/p/22496",
+  "listName": "Lister",
+  "brand": "After Bite",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267268,
+      "name": "Insecten"
+    },
+    {
+      "id": 30267546,
+      "name": "Na de beet"
+    }
+  ],
+  "description": "14ml",
+  "image": "/medias/sys_master/prd-images/hce/hbc/28548524113950/prd-front-22496-1_600x600/prd-front-22496-1-600x600.jpg"
+}

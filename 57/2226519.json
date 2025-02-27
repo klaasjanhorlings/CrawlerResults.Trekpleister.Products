@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "VSM Spiroflor Sport Warm Gel",
+  "code": "2226519",
+  "price": "13.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "HEEL BIOLOGISCHE GENEES",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vsm-spiroflor-sport-warm-gel/p/2226519",
+  "listName": "Lister",
+  "brand": "VSM",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267537,
+      "name": "Spierwrijfmiddelen"
+    }
+  ],
+  "description": "75g",
+  "image": "/medias/sys_master/prd-images/hdf/hd2/32291970252830/prd-front-2226519-1_600x600/prd-front-2226519-1-600x600.jpg"
+}

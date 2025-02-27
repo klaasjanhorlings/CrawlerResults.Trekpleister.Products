@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pluggerz Enjoy Music Oordoppen",
+  "code": "5613959",
+  "price": "10.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
+  "supplier": "COMFOOR BV",
+  "inStock": "inStock",
+  "onPromo": "3027804",
+  "mmkId": "3027804",
+  "productGroupId": "459536",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pluggerz-enjoy-music-oordoppen/p/5613959",
+  "listName": "Lister",
+  "brand": "Pluggerz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267507,
+      "name": "Oordoppen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5613959-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTY5NTJ8aW1hZ2UvanBlZ3xhRFF3TDJnMU55OHhOek16TkRrNU56WTRNREUxT0M5d2NtUXRabkp2Ym5RdE5UWXhNemsxT1MweFh6WXdNSGcyTURBfGI3Njk5YzEwZmE2NGFkNjJhZTRjN2Y2NzFlZGE1ZDFiMDI2YTJlOTQ2NjUzNGMzNGViY2VkMjE5OTM4Mzg3Yjk"
+}

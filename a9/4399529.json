@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leukoplast Cutisoft Kompressen",
+  "code": "4399529",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2930 > 3725",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3027887",
+  "mmkId": "3027887",
+  "productGroupId": "469869",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/leukoplast-cutisoft-kompressen/p/4399529",
+  "listName": "Lister",
+  "brand": "Leukoplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267293,
+      "name": "Steriele gaasjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 7.5cm x 7.5cm, 12 stuks",
+  "image": "/medias/sys_master/prd-images/h15/h73/28817758126110/prd-front-4399529-1_600x600/prd-front-4399529-1-600x600.jpg"
+}

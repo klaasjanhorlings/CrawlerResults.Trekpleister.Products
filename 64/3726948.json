@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nestosyl Wondgel",
+  "code": "3726948",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nestosyl-wondgel/p/3726948",
+  "listName": "Lister",
+  "brand": "Nestosyl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267292,
+      "name": "EHBO-doos"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 75ml",
+  "image": "/medias/prd-front-3726948-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQ3NDl8aW1hZ2UvanBlZ3xhRFJpTDJneE5pOHlOall5TlRVMU9UUTJNVGt4T0M5d2NtUXRabkp2Ym5RdE16Y3lOamswT0MweFh6WXdNSGcyTURBfDJmZTdkYjRkYTViMDdjYTg2MjhkNGIwYzRkYWUxZDA4MGNmNGM4MWQ0OTRmMTE0ZGM1ZGU2ODVjOGRhOWNlMzc"
+}

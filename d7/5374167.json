@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L’Oréal Paris Wrinkle Expert 65+ Anti-Rimpel Dagcrème",
+  "code": "5374167",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-wrinkle-expert-65-anti-rimpel-dagcreme/p/5374167",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/prd-front-5374167-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjMxMjR8aW1hZ2UvanBlZ3xhRFl3TDJnMFpDOHhOekEyTXprME56YzVOalV4TUM5d2NtUXRabkp2Ym5RdE5UTTNOREUyTnkweFh6WXdNSGcyTURBfDQwN2EzY2RkZTU4MTQ4ZDQ0OWVjN2EwZWY1MDQ2NDM0NzU3YTk2MjUwMTZmMGE0YTU5OWViYzRmMjQ3MGUwNDE"
+}

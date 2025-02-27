@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olay Hyaluronic24 + Vitamin B5 Ultra Hydrating Dagserum",
+  "code": "5784623",
+  "price": "41.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027851",
+  "mmkId": "3027851",
+  "productGroupId": "465965",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olay-hyaluronic24-vitamin-b5-ultra-hydrating-dagserum/p/5784623",
+  "listName": "Lister",
+  "brand": "Olay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
+    }
+  ],
+  "description": "40ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h95/h67/31340031377438/prd-front-5784623-1_600x600/prd-front-5784623-1-600x600.jpg"
+}

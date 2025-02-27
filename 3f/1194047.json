@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "VSM Insectenbeet Prrrikweg Gel",
+  "code": "1194047",
+  "price": "8.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 6070",
+  "supplier": "HEEL BIOLOGISCHE GENEES",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vsm-insectenbeet-prrrikweg-gel/p/1194047",
+  "listName": "Lister",
+  "brand": "VSM",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267268,
+      "name": "Insecten"
+    },
+    {
+      "id": 30267546,
+      "name": "Na de beet"
+    }
+  ],
+  "description": "20g",
+  "image": "/medias/sys_master/prd-images/h00/h60/32165247385630/prd-front-1194047-1_600x600/prd-front-1194047-1-600x600.jpg"
+}

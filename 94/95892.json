@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Assorti Gevulde Paaseitjes",
+  "code": "95892",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3648",
+  "supplier": "BARONIE - DE HEER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-assorti-gevulde-paaseitjes/p/95892",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267585,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "750g",
+  "image": "/medias/sys_master/prd-images/ha1/h75/32698872397854/prd-front-95892-1_600x600/prd-front-95892-1-600x600.jpg"
+}

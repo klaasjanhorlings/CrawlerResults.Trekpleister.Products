@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Orca Collagen + C Tabletten",
+  "code": "3745351",
+  "price": "12.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6233",
+  "supplier": "KEYPHARM NV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/orca-collagen-c-tabletten/p/3745351",
+  "listName": "Lister",
+  "brand": "Orca",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267276,
+      "name": "Beautysupplementen"
+    }
+  ],
+  "description": "45 stuks",
+  "image": "/medias/sys_master/prd-images/h23/h7d/32223982256158/prd-front-3745351-1_600x600/prd-front-3745351-1-600x600.jpg"
+}

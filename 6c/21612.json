@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Echinaforce Tabletten",
+  "code": "21612",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
+  "supplier": "A.VOGEL",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-echinaforce-tabletten/p/21612",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49950754,
+      "name": "Natuurlijke supplementen"
+    }
+  ],
+  "description": "80 stuks",
+  "image": "/medias/sys_master/prd-images/h7f/hfc/32569466093598/prd-front-21612-1_600x600/prd-front-21612-1-600x600.jpg"
+}

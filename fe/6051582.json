@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Organic Shop Sea Mud Algae Facial Mud Mask",
+  "code": "6051582",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "TRADE SENSE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/organic-shop-sea-mud-algae-facial-mud-mask/p/6051582",
+  "listName": "Lister",
+  "brand": "Organic Shop",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h80/hfd/30607360851998/prd-front-6051582-1_600x600/prd-front-6051582-1-600x600.jpg"
+}

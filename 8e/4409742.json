@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Inoli Baby Intensief Vettende Crème",
+  "code": "4409742",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
+  "supplier": "NIA CARE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/inoli-baby-intensief-vettende-creme/p/4409742",
+  "listName": "Lister",
+  "brand": "Inoli",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267575,
+      "name": "Babycreme"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h85/ha7/28619939807262/prd-front-4409742-1_600x600/prd-front-4409742-1-600x600.jpg"
+}

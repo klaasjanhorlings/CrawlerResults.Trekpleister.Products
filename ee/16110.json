@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Panadol Junior 500 mg Zetpillen voor Kinderen vanaf 6 Jaar",
+  "code": "16110",
+  "price": "5.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6155 > 6170",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/panadol-junior-500-mg-zetpillen-voor-kinderen-vanaf-6-jaar/p/16110",
+  "listName": "Lister",
+  "brand": "Panadol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267525,
+      "name": "Paracetamol"
+    }
+  ],
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/prd-front-16110-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjEyNjh8aW1hZ2UvanBlZ3xhREF5TDJnMFlpOHlOall5TnpnNE5ERTFORGt4TUM5d2NtUXRabkp2Ym5RdE1UWXhNVEF0TVY4Mk1EQjROakF3fDg5YTM3YzhiNDUyNWExNzBmOTg2NGE5MDAxMDkyNDczOWU1N2YyMjY4M2Q4ZjM1NjNiMWY5NDcyZWU2YmY4ZTE"
+}

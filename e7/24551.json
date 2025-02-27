@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Verzorgende Handzeep",
+  "code": "24551",
+  "price": "3.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3916",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027766",
+  "mmkId": "3027766",
+  "productGroupId": "454705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-verzorgende-handzeep/p/24551",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267246,
+      "name": "Handzeep"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/heb/h7f/28549184815134/prd-front-24551-1_600x600/prd-front-24551-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LU Naturel Cracottes",
+  "code": "3218209",
+  "price": "2.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2340 > 2740 > 3442",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lu-naturel-cracottes/p/3218209",
+  "listName": "Lister",
+  "brand": "Liga",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267584,
+      "name": "Koek"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h5e/hef/28548251779102/prd-front-3218209-1_600x600/prd-front-3218209-1-600x600.jpg"
+}

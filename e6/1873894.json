@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mycosan Kalknagel Behandelset",
+  "code": "1873894",
+  "price": "26.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6451 > 6452",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/mycosan-kalknagel-behandelset/p/1873894",
+  "listName": "Lister",
+  "brand": "Mycosan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48237510,
+      "name": "Kalknagelbehandeling"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 5ml",
+  "image": "/medias/sys_master/prd-images/h07/h3c/29175829495838/prd-front-1873894-1_600x600/prd-front-1873894-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Metallic Spark 010 Champagne Chic Cream Eyeshadow",
+  "code": "6233435",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-metallic-spark-010-champagne-chic-cream-eyeshadow/p/6233435",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267153,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30267469,
+      "name": "Mono oogschaduw"
+    }
+  ],
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h81/h05/33478898384926/prd-front-6233435-1_600x600/prd-front-6233435-1-600x600.jpg"
+}

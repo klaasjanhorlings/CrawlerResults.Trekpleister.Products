@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wilkinson Sword Intuition Complete Navulmesjes",
+  "code": "5109007",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
+  "supplier": "WILKINSON SWORD GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wilkinson-sword-intuition-complete-navulmesjes/p/5109007",
+  "listName": "Lister",
+  "brand": "Wilkinson Sword",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h89/h87/28552672903198/prd-front-5109007-1_600x600/prd-front-5109007-1-600x600.jpg"
+}

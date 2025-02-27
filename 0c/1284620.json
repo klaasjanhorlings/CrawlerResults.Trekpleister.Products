@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NiQuitin Clear Pleister Stap 1 - 21 mg - Nicotinepleister",
+  "code": "1284620",
+  "price": "45.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 4054",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/niquitin-clear-pleister-stap-1-21-mg-nicotinepleister/p/1284620",
+  "listName": "Lister",
+  "brand": "Niquitin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267266,
+      "name": "Stoppen met roken"
+    },
+    {
+      "id": 30267539,
+      "name": "Nicotinepleisters"
+    }
+  ],
+  "description": "Geneesmiddel - 14 stuks",
+  "image": "/medias/sys_master/prd-images/hef/h19/33220498096158/prd-front-1284620-1_600x600/prd-front-1284620-1-600x600.jpg"
+}

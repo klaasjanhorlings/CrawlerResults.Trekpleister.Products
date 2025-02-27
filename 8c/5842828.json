@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dettol No-Touch Extra Care Honing & Sheaboter Antibacteriële Handzeep Navulling",
+  "code": "5842828",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 5668",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3027943",
+  "mmkId": "3027943",
+  "productGroupId": "466110",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dettol-no-touch-extra-care-honing-sheaboter-antibacteriele-handzeep-navulling/p/5842828",
+  "listName": "Lister",
+  "brand": "Dettol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 68231144,
+      "name": "Handzeep navulling"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hc0/hea/33479655358494/prd-front-5842828-1_600x600/prd-front-5842828-1-600x600.jpg"
+}

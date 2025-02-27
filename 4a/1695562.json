@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. Beckmann Pennen & Inkt Vlekkenduivel Vlekkenverwijderaar",
+  "code": "1695562",
+  "price": "3.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
+  "supplier": "BENCKMAR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dr-beckmann-pennen-inkt-vlekkenduivel-vlekkenverwijderaar/p/1695562",
+  "listName": "Lister",
+  "brand": "Dr. Beckmann",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267119,
+      "name": "Vlekverwijderaars"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/haa/h5b/31178095919134/prd-front-1695562-1_600x600/prd-front-1695562-1-600x600.jpg"
+}

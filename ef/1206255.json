@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. E.J. Swaab Zinkzalf",
+  "code": "1206255",
+  "price": "6.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "REMARK GROEP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dr-ej-swaab-zinkzalf/p/1206255",
+  "listName": "Lister",
+  "brand": "Dr. E.J. Swaab",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267502,
+      "name": "Huidirritatie"
+    }
+  ],
+  "description": "Geneesmiddel - 30g",
+  "image": "/medias/sys_master/prd-images/hd9/hbb/28630951231518/prd-front-1206255-1_600x600/prd-front-1206255-1-600x600.jpg"
+}

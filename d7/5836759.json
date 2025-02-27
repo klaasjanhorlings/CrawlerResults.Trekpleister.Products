@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dagravit Kids Multivitaminen Paw Patrol Gummies",
+  "code": "5836759",
+  "price": "25.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dagravit-kids-multivitaminen-paw-patrol-gummies/p/5836759",
+  "listName": "Lister",
+  "brand": "Dagravit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267552,
+      "name": "Multivitamines"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/hf9/h75/32819618250782/prd-front-5836759-1_600x600/prd-front-5836759-1-600x600.jpg"
+}

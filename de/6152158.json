@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Organix Bio 6M+ Melty Baby Biscuits",
+  "code": "6152158",
+  "price": "3.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
+  "supplier": "HERO NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/organix-bio-6m-melty-baby-biscuits/p/6152158",
+  "listName": "Lister",
+  "brand": "Organix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267331,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h1c/h8f/32878065582110/prd-front-6152158-1_600x600/prd-front-6152158-1-600x600.jpg"
+}

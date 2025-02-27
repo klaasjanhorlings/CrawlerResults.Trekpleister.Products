@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jil Sander Sun Eau De Toilette",
+  "code": "1013986",
+  "price": "14.99",
+  "priceOriginal": "41.67",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 26,68",
+  "url": "/jil-sander-sun-eau-de-toilette/p/1013986",
+  "listName": "Lister",
+  "brand": "Jil Sander",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h0a/h35/28575660245022/prd-front-1013986-1_600x600/prd-front-1013986-1-600x600.jpg"
+}

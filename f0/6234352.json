@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Veiligheidsspelden",
+  "code": "6234352",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "TOBY'S BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-veiligheidsspelden/p/6234352",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30267364,
+      "name": "Babyaccessoires"
+    }
+  ],
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/hd7/h8b/32822058123294/prd-front-6234352-1_600x600/prd-front-6234352-1-600x600.jpg"
+}

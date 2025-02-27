@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Labello Sun Protect SPF30 Lippenbalsem",
+  "code": "232753",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/labello-sun-protect-spf30-lippenbalsem/p/232753",
+  "listName": "Lister",
+  "brand": "Labello",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267166,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5e/hbb/32900925554718/prd-front-232753-1_600x600/prd-front-232753-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Aqua Boost Gelcrème",
+  "code": "6041600",
+  "price": "1.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "MARION PRIVATE LABEL",
+  "inStock": "inStock",
+  "onPromo": "3027889",
+  "mmkId": "3027889",
+  "productGroupId": "469901",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-aqua-boost-gelcreme/p/6041600",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h74/h3a/30148066639902/prd-front-6041600-1_600x600/prd-front-6041600-1-600x600.jpg"
+}

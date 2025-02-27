@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Daro Suikervrij Thijm Siroop",
+  "code": "21496",
+  "price": "9.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/daro-suikervrij-thijm-siroop/p/21496",
+  "listName": "Lister",
+  "brand": "Daro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267521,
+      "name": "Keelsiropen"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h8c/h78/28548747362334/prd-front-21496-1_600x600/prd-front-21496-1-600x600.jpg"
+}

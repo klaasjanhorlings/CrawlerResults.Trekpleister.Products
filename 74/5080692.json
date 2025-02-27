@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Elmex Junior Mondwater",
+  "code": "5080692",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027880",
+  "mmkId": "3027880",
+  "productGroupId": "468964",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elmex-junior-mondwater/p/5080692",
+  "listName": "Lister",
+  "brand": "Elmex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267233,
+      "name": "Mondwater en mondspray"
+    }
+  ],
+  "description": "6-12 jaar, 400ml",
+  "image": "/medias/sys_master/prd-images/h35/hbb/30301725229086/prd-front-5080692-1_600x600/prd-front-5080692-1-600x600.jpg"
+}

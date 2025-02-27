@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Broomhexine 8mg/5ml Drank",
+  "code": "4671360",
+  "price": "4.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
+  "supplier": "MAE HOLDING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-broomhexine-8mg/5ml-drank/p/4671360",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267517,
+      "name": "Hoestdrank"
+    }
+  ],
+  "description": "Geneesmiddel - 150ml",
+  "image": "/medias/sys_master/prd-images/h35/hbc/31508239155230/prd-front-4671360-1_600x600/prd-front-4671360-1-600x600.jpg"
+}

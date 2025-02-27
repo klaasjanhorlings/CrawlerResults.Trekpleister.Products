@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tangle Teezer Scalp Brush",
+  "code": "5416342",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6320",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tangle-teezer-scalp-brush/p/5416342",
+  "listName": "Lister",
+  "brand": "Tangle Teezer",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267495,
+      "name": "Haarborstels"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h22/h36/30948015439902/prd-front-5416342-1_600x600/prd-front-5416342-1-600x600.jpg"
+}

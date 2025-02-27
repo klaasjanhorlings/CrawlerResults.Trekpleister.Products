@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Unicura Ultra Handzeep",
+  "code": "2813042",
+  "price": "3.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 5668",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027821",
+  "mmkId": "3027821",
+  "productGroupId": "460846",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/unicura-ultra-handzeep/p/2813042",
+  "listName": "Lister",
+  "brand": "Unicura",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267246,
+      "name": "Handzeep"
+    }
+  ],
+  "description": "250ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h1b/h34/30936766316574/prd-front-2813042-1_600x600/prd-front-2813042-1-600x600.jpg"
+}

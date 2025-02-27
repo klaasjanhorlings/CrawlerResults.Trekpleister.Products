@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playmobil 123 71319 Disney Mickey Mouse and Friends",
+  "code": "6198071",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "HERMANEX INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/playmobil-123-71319-disney-mickey-mouse-and-friends/p/6198071",
+  "listName": "Lister",
+  "brand": "Playmobil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 49262597,
+      "name": "Playmobil"
+    }
+  ],
+  "description": ""
+}

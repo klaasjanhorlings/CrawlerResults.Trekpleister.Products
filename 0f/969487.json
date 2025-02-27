@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Meridol Zacht Tandenborstel",
+  "code": "969487",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 4129",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027868",
+  "mmkId": "3027868",
+  "productGroupId": "467541",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/meridol-zacht-tandenborstel/p/969487",
+  "listName": "Lister",
+  "brand": "Meridol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267228,
+      "name": "Tandenborstels"
+    }
+  ],
+  "description": "Tandvleesbescherming",
+  "image": "/medias/sys_master/prd-images/h5e/h15/30365111123998/prd-front-969487-1_600x600/prd-front-969487-1-600x600.jpg"
+}

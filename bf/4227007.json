@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bisolvon 2-In-1 Hoestdrank voor Volwassenen",
+  "code": "4227007",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bisolvon-2-in-1-hoestdrank-voor-volwassenen/p/4227007",
+  "listName": "Lister",
+  "brand": "Bisolvon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267523,
+      "name": "Hoestsiropen"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 180g",
+  "image": "/medias/sys_master/prd-images/h3c/h0c/28575466913822/prd-front-4227007-1_600x600/prd-front-4227007-1-600x600.jpg"
+}

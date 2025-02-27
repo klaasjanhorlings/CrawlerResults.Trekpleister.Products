@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Discreet Boutique Incontinentiebroekjes",
+  "code": "6037778",
+  "price": "15.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-discreet-boutique-incontinentiebroekjes/p/6037778",
+  "listName": "Lister",
+  "brand": "Always Discreet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267483,
+      "name": "Incontinentiebroekjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel -zwart, mt M, 6 stuks",
+  "image": "/medias/sys_master/prd-images/hb0/h67/31287395713054/prd-front-6037778-1_600x600/prd-front-6037778-1-600x600.jpg"
+}

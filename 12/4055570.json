@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Sun Kids Protect & Hydrate SPF50+ 5-In-1 Zonnebrand",
+  "code": "4055570",
+  "price": "26.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027902",
+  "mmkId": "3027902",
+  "productGroupId": "473013",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-sun-kids-protect-hydrate-spf50-5-in-1-zonnebrand/p/4055570",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h59/h6f/33488556130334/prd-front-4055570-1_600x600/prd-front-4055570-1-600x600.jpg"
+}

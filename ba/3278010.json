@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Warmtepleisters",
+  "code": "3278010",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
+  "supplier": "DR. KLEINE PHARMA GMHB",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-warmtepleisters/p/3278010",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267535,
+      "name": "Warmtepleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 13cm x 9,5cm, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h75/h20/30560009486366/prd-front-3278010-1_600x600/prd-front-3278010-1-600x600.jpg"
+}

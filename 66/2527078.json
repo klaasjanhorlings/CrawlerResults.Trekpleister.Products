@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schwarzkopf Kids Shampoo & Conditioner",
+  "code": "2527078",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027872",
+  "mmkId": "3027872",
+  "productGroupId": "467804",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schwarzkopf-kids-shampoo-conditioner/p/2527078",
+  "listName": "Lister",
+  "brand": "Schwarzkopf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267332,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267573,
+      "name": "Babyshampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h76/had/32104352612382/prd-front-2527078-1_600x600/prd-front-2527078-1-600x600.jpg"
+}

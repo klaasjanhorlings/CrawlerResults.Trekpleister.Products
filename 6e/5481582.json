@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Medicijnbox",
+  "code": "5481582",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6575 > 6576 > 6577",
+  "supplier": "TREFFINA BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-medicijnbox/p/5481582",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 30267323,
+      "name": "Hulpmiddelen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4b/ha5/29031915946014/prd-front-5481582-1_600x600/prd-front-5481582-1-600x600.jpg"
+}

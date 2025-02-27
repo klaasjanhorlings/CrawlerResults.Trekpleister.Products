@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Vloeibare Groenlipmossel",
+  "code": "4428936",
+  "price": "43.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6209 > 6227 > 6313",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-vloeibare-groenlipmossel/p/4428936",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49792619,
+      "name": "Groenlipmossel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-4428936-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODg1NDR8aW1hZ2UvanBlZ3xhRGczTDJnME15OHhOalUzTkRNM05qWTNNek14TUM5d2NtUXRabkp2Ym5RdE5EUXlPRGt6TmkweFh6WXdNSGcyTURBfDAzOGY4M2RlZDhjZThmYTc5OTFiMDZkMmQwZjQ5NWZmZGU5NGYxMjJiZWI4MDUwMjgwNmUwZmY5YTkwYzg5MTk"
+}

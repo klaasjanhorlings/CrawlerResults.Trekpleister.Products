@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nicorette Menthol Mint 2mg Kauwgom",
+  "code": "5549083",
+  "price": "33.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 3498",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nicorette-menthol-mint-2mg-kauwgom/p/5549083",
+  "listName": "Lister",
+  "brand": "Nicorette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267266,
+      "name": "Stoppen met roken"
+    },
+    {
+      "id": 30267538,
+      "name": "Nicotinekauwgom"
+    }
+  ],
+  "description": "Geneesmiddel - 105 stuks",
+  "image": "/medias/sys_master/prd-images/h1a/hb1/33057054130206/prd-front-5549083-1_600x600/prd-front-5549083-1-600x600.jpg"
+}

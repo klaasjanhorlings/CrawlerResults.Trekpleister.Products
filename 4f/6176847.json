@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Color FX by imPRESS The No Glue Mani Rebel Kunstnagels",
+  "code": "6176847",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6502 > 6503",
+  "supplier": "ANVIRI COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "3027838",
+  "mmkId": "3027838",
+  "productGroupId": "462940",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/color-fx-by-impress-the-no-glue-mani-rebel-kunstnagels/p/6176847",
+  "listName": "Lister",
+  "brand": "Impress",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267187,
+      "name": "Kunstnagels"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h88/hc9/32211744391198/prd-front-6176847-1_600x600/prd-front-6176847-1-600x600.jpg"
+}

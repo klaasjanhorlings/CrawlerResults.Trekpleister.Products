@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Curanol Zalf",
+  "code": "3757839",
+  "price": "14.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2500 > 3102 > 3965",
+  "supplier": "NIA CARE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/curanol-zalf/p/3757839",
+  "listName": "Lister",
+  "brand": "Curanol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267259,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 49949757,
+      "name": "Anale verzorging"
+    }
+  ],
+  "description": "30g",
+  "image": "/medias/sys_master/prd-images/h48/hb0/29035059478558/prd-front-3757839-1_600x600/prd-front-3757839-1-600x600.jpg"
+}

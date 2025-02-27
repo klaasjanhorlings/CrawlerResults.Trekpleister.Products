@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vaseline Rosy Lip Therapy",
+  "code": "5664814",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 2968 > 3770",
+  "supplier": "UNILEVER ASIA PRIV. LTD",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vaseline-rosy-lip-therapy/p/5664814",
+  "listName": "Lister",
+  "brand": "Vaseline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267166,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "7g",
+  "image": "/medias/sys_master/prd-images/hd6/h94/32303021752350/prd-front-5664814-1_600x600/prd-front-5664814-1-600x600.jpg"
+}

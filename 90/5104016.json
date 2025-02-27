@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Sensitive Gezichtscrème",
+  "code": "5104016",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027837",
+  "mmkId": "3027837",
+  "productGroupId": "462499",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-sensitive-gezichtscreme/p/5104016",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267167,
+      "name": "Gezichtscreme mannen"
+    }
+  ],
+  "description": "50ml - Gevoelige en droge huid",
+  "image": "/medias/sys_master/prd-images/h88/h9f/33154989555742/prd-front-5104016-1_600x600/prd-front-5104016-1-600x600.jpg"
+}

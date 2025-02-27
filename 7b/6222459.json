@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Marcel's Green Soap Lily & Grapefruit Handzeep Navulling",
+  "code": "6222459",
+  "price": "4.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2597 > 3010 > 3917",
+  "supplier": "GREEN SOAP COMPANY BV",
+  "inStock": "inStock",
+  "onPromo": "3027811",
+  "mmkId": "3027811",
+  "productGroupId": "459931",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/marcels-green-soap-lily-grapefruit-handzeep-navulling/p/6222459",
+  "listName": "Lister",
+  "brand": "Marcel's Green Soap",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 68231144,
+      "name": "Handzeep navulling"
+    }
+  ],
+  "description": "500 ml",
+  "image": "/medias/sys_master/prd-images/h31/h49/33480004829214/prd-front-6222459-1_600x600/prd-front-6222459-1-600x600.jpg"
+}

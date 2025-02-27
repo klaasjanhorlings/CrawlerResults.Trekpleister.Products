@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Sonicare Optimal hx6068/13 White Opzetborstels",
+  "code": "5607526",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-sonicare-optimal-hx6068/13-white-opzetborstels/p/5607526",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267232,
+      "name": "Opzetborstels"
+    }
+  ],
+  "description": "zwart, 8 stuks",
+  "image": "/medias/sys_master/prd-images/h64/hda/33486038040606/prd-front-5607526-1_600x600/prd-front-5607526-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Classic 11025 Blauwe Bouwplaat",
+  "code": "4373146",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-classic-11025-blauwe-bouwplaat/p/4373146",
+  "listName": "Lister",
+  "brand": "LEGO Classic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 49429329,
+      "name": "LEGO bouwplaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4373146-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQ4NDB8aW1hZ2UvanBlZ3xhREppTDJnMk9TOHhOalF4T1RFME5UVTRNRFUzTkM5d2NtUXRabkp2Ym5RdE5ETTNNekUwTmkweFh6WXdNSGcyTURBfDMxZDU0MzY2Nzg0MmVjMzI1MTFiNmY3MWNiZGZhMTFmZmNkMjMyOGY3Y2NkZDZmMmEwYWNlNDNhZjAwN2FmZmM"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Difrax Antilektuitbeker",
+  "code": "5766167",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
+  "supplier": "DIFRAX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/difrax-antilektuitbeker/p/5766167",
+  "listName": "Lister",
+  "brand": "Difrax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267357,
+      "name": "Drinkbeker"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5766167-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQ3MTl8aW1hZ2UvanBlZ3xhRGxpTDJnell5OHhOelV4TWpJNE9UYzJNek0xT0M5d2NtUXRabkp2Ym5RdE5UYzJOakUyTnkweFh6WXdNSGcyTURBfDJjNzRiNmMzNmM4NGNmZTU5NTFlN2Q2NWRlOGRmYjFlOThjMGRmNGM2NmE4MDI2NDdkNTI4ZGVkNmU3N2FlMjU"
+}

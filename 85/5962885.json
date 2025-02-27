@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hero 6+M Nutrasense Classic 2 Opvolgmelk",
+  "code": "5962885",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
+  "supplier": "HERO NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hero-6m-nutrasense-classic-2-opvolgmelk/p/5962885",
+  "listName": "Lister",
+  "brand": "Hero",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267560,
+      "name": "Opvolgmelk"
+    }
+  ],
+  "description": "750g",
+  "image": "/medias/sys_master/prd-images/hc9/h8a/32824648433694/prd-front-5962885-1_600x600/prd-front-5962885-1-600x600.jpg"
+}

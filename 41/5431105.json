@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aunt Jackie's Oh So Clean Shampoo",
+  "code": "5431105",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aunt-jackies-oh-so-clean-shampoo/p/5431105",
+  "listName": "Lister",
+  "brand": "Aunt Jackie's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "355ml",
+  "image": "/medias/prd-front-5431105-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjI2NDV8aW1hZ2UvanBlZ3xhRE01TDJoaU9TOHhOekEyTlRnM056STNORFkxTkM5d2NtUXRabkp2Ym5RdE5UUXpNVEV3TlMweFh6WXdNSGcyTURBfDZkNjZkZGE2NDFiMTRhMGJhN2RiZTRlZDgxN2QwMDQ2MTRkOWZkMWJmZjIwYzRmMjExNjBmNzNjOTU3YTkyZWY"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Psylliumvezels Poeder",
+  "code": "1049168",
+  "price": "5.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-psylliumvezels-poeder/p/1049168",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267275,
+      "name": "Spijsvertering"
+    }
+  ],
+  "description": "125g",
+  "image": "/medias/sys_master/prd-images/h45/he1/31896827166750/prd-front-1049168-1_600x600/prd-front-1049168-1-600x600.jpg"
+}

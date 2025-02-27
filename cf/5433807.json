@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Roter Immuun Bruistabletten",
+  "code": "5433807",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027847",
+  "mmkId": "3027847",
+  "productGroupId": "465773",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/roter-immuun-bruistabletten/p/5433807",
+  "listName": "Lister",
+  "brand": "Roter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267274,
+      "name": "Weerstand en of energie"
+    }
+  ],
+  "description": "2 x 20 stuks",
+  "image": "/medias/sys_master/prd-images/h16/hed/32820961148958/prd-front-5433807-1_600x600/prd-front-5433807-1-600x600.jpg"
+}

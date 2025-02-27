@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kidsner Alexia De Verkoelende Foam",
+  "code": "5141137",
+  "price": "14.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "THEOTCLAB HEALTHCARE BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kidsner-alexia-de-verkoelende-foam/p/5141137",
+  "listName": "Lister",
+  "brand": "Kidsner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267500,
+      "name": "Waterpokken"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h21/hdc/32895741460510/prd-front-5141137-1_600x600/prd-front-5141137-1-600x600.jpg"
+}

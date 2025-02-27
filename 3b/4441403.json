@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutrilon 3 Opvolgmelk Flesvoeding 10-12 maanden",
+  "code": "4441403",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutrilon-3-opvolgmelk-flesvoeding-10-12-maanden/p/4441403",
+  "listName": "Lister",
+  "brand": "Nutrilon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267560,
+      "name": "Opvolgmelk"
+    }
+  ],
+  "description": "800g",
+  "image": "/medias/prd-front-4441403-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjU3Nzh8aW1hZ2UvanBlZ3xhR0psTDJobVpTOHhOamN5T0RNMU56YzJOVEUxTUM5d2NtUXRabkp2Ym5RdE5EUTBNVFF3TXkweFh6WXdNSGcyTURBfGE0NzliMTE0ZGU0YzI2ZWE5NGNiZTljODNmMDJlMjZiMzY3ZTg5MTQ0YjcxMmNkNjZiZTEyNWZmMDVlMDg2MDI"
+}

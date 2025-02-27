@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bausch & Lomb Conditioning Solution Lensvloeistof",
+  "code": "5495127",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bausch-lomb-conditioning-solution-lensvloeistof/p/5495127",
+  "listName": "Lister",
+  "brand": "Bausch & Lomb",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267064,
+      "name": "Optiek"
+    },
+    {
+      "id": 30267314,
+      "name": "Lenzenvloeistof"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 120ml"
+}

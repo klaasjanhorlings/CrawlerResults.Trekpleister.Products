@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Body Love Essential Care Body Milk",
+  "code": "1057043",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027766",
+  "mmkId": "3027766",
+  "productGroupId": "454705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-body-love-essential-care-body-milk/p/1057043",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267194,
+      "name": "Bodylotion"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hd8/h3f/32272511893534/prd-front-1057043-1_600x600/prd-front-1057043-1-600x600.jpg"
+}

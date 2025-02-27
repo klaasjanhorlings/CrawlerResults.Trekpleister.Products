@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Merci Finest Selection Pure Chocolade",
+  "code": "192245",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "STORCK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/merci-finest-selection-pure-chocolade/p/192245",
+  "listName": "Lister",
+  "brand": "Merci",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267585,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h91/ha9/30106632978462/prd-front-192245-1_600x600/prd-front-192245-1-600x600.jpg"
+}

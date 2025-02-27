@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Libresse String Inlegkruisjes",
+  "code": "28882",
+  "price": "2.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027782",
+  "mmkId": "3027782",
+  "productGroupId": "457395",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/libresse-string-inlegkruisjes/p/28882",
+  "listName": "Lister",
+  "brand": "Libresse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267220,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h69/h3b/32018332483614/prd-front-28882-1_600x600/prd-front-28882-1-600x600.jpg"
+}

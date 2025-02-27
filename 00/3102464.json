@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Durex Nude No Latex Condooms",
+  "code": "3102464",
+  "price": "17.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/durex-nude-no-latex-condooms/p/3102464",
+  "listName": "Lister",
+  "brand": "Durex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267062,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30267306,
+      "name": "Condooms"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/hc5/h75/28547100868638/prd-front-3102464-1_600x600/prd-front-3102464-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Prodent Gevoeligheid Tandpasta",
+  "code": "6066632",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027861",
+  "mmkId": "3027861",
+  "productGroupId": "467369",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/prodent-gevoeligheid-tandpasta/p/6066632",
+  "listName": "Lister",
+  "brand": "Prodent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hdc/he3/31295372754974/prd-front-6066632-1_600x600/prd-front-6066632-1-600x600.jpg"
+}

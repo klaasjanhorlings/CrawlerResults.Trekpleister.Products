@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Revolution Reloaded Raise The Bar Highlighter",
+  "code": "4838961",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "NORDIC BEAUTY COMPANY APS",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/revolution-reloaded-raise-the-bar-highlighter/p/4838961",
+  "listName": "Lister",
+  "brand": "Revolution",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267146,
+      "name": "Highlighter"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h59/h68/28663192715294/prd-front-4838961-1_600x600/prd-front-4838961-1-600x600.jpg"
+}

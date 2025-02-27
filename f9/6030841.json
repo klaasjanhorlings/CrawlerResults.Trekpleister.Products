@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Venus Huid en Schaamhaar Trimmer",
+  "code": "6030841",
+  "price": "44.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6441",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027828",
+  "mmkId": "3027828",
+  "productGroupId": "461666",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-venus-huid-en-schaamhaar-trimmer/p/6030841",
+  "listName": "Lister",
+  "brand": "Gillette Venus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267242,
+      "name": "Haartrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf8/h1f/31168146079774/prd-front-6030841-1_600x600/prd-front-6030841-1-600x600.jpg"
+}

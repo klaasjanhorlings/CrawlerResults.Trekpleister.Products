@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SheaMoisture Manuka Honey & Mafura Oil Intensive Hydration Masker",
+  "code": "5430790",
+  "price": "18.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sheamoisture-manuka-honey-mafura-oil-intensive-hydration-masker/p/5430790",
+  "listName": "Lister",
+  "brand": "SheaMoisture",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "355ml",
+  "image": "/medias/sys_master/prd-images/hf6/h9c/28552887533598/prd-front-5430790-1_600x600/prd-front-5430790-1-600x600.jpg"
+}

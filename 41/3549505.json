@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Strepfen 8,75 Mg Keelspray",
+  "code": "3549505",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 4147",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/strepfen-8-75-mg-keelspray/p/3549505",
+  "listName": "Lister",
+  "brand": "Strepfen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 49950083,
+      "name": "Keelspray"
+    }
+  ],
+  "description": "Geneesmiddel - 15ml",
+  "image": "/medias/sys_master/prd-images/hd3/h02/28551584514078/prd-front-3549505-1_600x600/prd-front-3549505-1-600x600.jpg"
+}

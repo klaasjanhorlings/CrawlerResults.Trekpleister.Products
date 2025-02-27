@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Infaillible 36H Grip Gel Automatic Intense Black Eyeliner",
+  "code": "5589536",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-infaillible-36h-grip-gel-automatic-intense-black-eyeliner/p/5589536",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267143,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/h58/h29/28579297558558/prd-front-5589536-1_600x600/prd-front-5589536-1-600x600.jpg"
+}

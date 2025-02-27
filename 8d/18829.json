@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WeCare Golden Banana Meal Replacement Shake",
+  "code": "18829",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2707 > 3891",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wecare-golden-banana-meal-replacement-shake/p/18829",
+  "listName": "Lister",
+  "brand": "WeCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 30267300,
+      "name": "Maaltijdvervangers"
+    }
+  ],
+  "description": "436g",
+  "image": "/medias/sys_master/prd-images/h51/h51/31687187529758/prd-front-18829-1_600x600/prd-front-18829-1-600x600.jpg"
+}

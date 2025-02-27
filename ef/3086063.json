@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jumbo Toren van Pisa Reisspel",
+  "code": "3086063",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 6740 > 6739 > 6741",
+  "supplier": "JUMBO NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jumbo-toren-van-pisa-reisspel/p/3086063",
+  "listName": "Lister",
+  "brand": "Jumbo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30267393,
+      "name": "Reisspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/prd-front-3086063-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQ0MDN8aW1hZ2UvanBlZ3xhREF3TDJnMU5DOHhOakk1T0RneU1UTTROakkzTUM5d2NtUXRabkp2Ym5RdE16QTROakEyTXkweFh6WXdNSGcyTURBfDIyNGNmNDg2NjJkNTcxMjVlYzVmYzhkYWRiNDNmMGY1MDMyYzZkZDRlMTg1NmMwYmZmNGI2Nzg5MmIxY2E4ODU"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gucci Guilty Love Edition Pour Homme Eau de Toilette",
+  "code": "5659858",
+  "price": "49.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "JTG BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gucci-guilty-love-edition-pour-homme-eau-de-toilette/p/5659858",
+  "listName": "Lister",
+  "brand": "Gucci",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-5659858-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTM4Mjh8aW1hZ2UvanBlZ3xhR1JsTDJoaFl5OHhOekEzTmpjNE5UWTNOak14T0M5d2NtUXRabkp2Ym5RdE5UWTFPVGcxT0MweFh6WXdNSGcyTURBfGZhM2U1NDEyOWM1NmI1ZDcwOTRiODYwOWI3MTc1MzQ1NTg3NTg1MDIwZWU1ZTljNzA4OTVkYzAxNmM3ZDIwMDg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Uv Face Specialist Invisible Daily Fluid 50+SPF Zonnefluïde",
+  "code": "6071518",
+  "price": "25.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027902",
+  "mmkId": "3027902",
+  "productGroupId": "473013",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-uv-face-specialist-invisible-daily-fluid-50spf-zonnefluide/p/6071518",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h94/h8a/33479999389726/prd-front-6071518-1_600x600/prd-front-6071518-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nicotinell Mint 2mg Zuigtabletten",
+  "code": "1710640",
+  "price": "16.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 3940",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nicotinell-mint-2mg-zuigtabletten/p/1710640",
+  "listName": "Lister",
+  "brand": "Nicotinell",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267266,
+      "name": "Stoppen met roken"
+    },
+    {
+      "id": 30267540,
+      "name": "Nicotinezuigtabletten"
+    }
+  ],
+  "description": "Geneesmiddel - 36 stuks",
+  "image": "/medias/sys_master/prd-images/h44/h1a/28546148237342/prd-front-1710640-1_600x600/prd-front-1710640-1-600x600.jpg"
+}

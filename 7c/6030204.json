@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Classics Morgenfris Wasverzachter",
+  "code": "6030204",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/robijn-classics-morgenfris-wasverzachter/p/6030204",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267115,
+      "name": "Wasverzachter"
+    }
+  ],
+  "description": "4 x 825ml, 132 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hf2/h90/31942133350430/prd-front-6030204-1_600x600/prd-front-6030204-1-600x600.jpg"
+}

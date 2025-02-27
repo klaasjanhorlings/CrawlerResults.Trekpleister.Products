@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Neus- en Oorhaar Schaar",
+  "code": "5964236",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6331",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-neus-en-oorhaar-schaar/p/5964236",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 49747316,
+      "name": "Neustrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h65/h10/29679349923870/prd-front-5964236-1_600x600/prd-front-5964236-1-600x600.jpg"
+}

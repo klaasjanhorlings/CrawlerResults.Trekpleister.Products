@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kids Stuff Sparkling Bubble Bath Badschuim",
+  "code": "6125999",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kids-stuff-sparkling-bubble-bath-badschuim/p/6125999",
+  "listName": "Lister",
+  "brand": "Kids stuff",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267334,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267581,
+      "name": "Babybadschuim"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hf8/h56/31371523719198/prd-front-6125999-1_600x600/prd-front-6125999-1-600x600.jpg"
+}

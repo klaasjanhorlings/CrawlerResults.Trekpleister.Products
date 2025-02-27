@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dettol Power & Fresh Citrus Multi-reinigingsdoekjes",
+  "code": "5584972",
+  "price": "5.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 6076 > 6077",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dettol-power-fresh-citrus-multi-reinigingsdoekjes/p/5584972",
+  "listName": "Lister",
+  "brand": "Dettol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430563,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "110 stuks",
+  "image": "/medias/sys_master/prd-images/h6c/he3/32337045061662/prd-front-5584972-1_600x600/prd-front-5584972-1-600x600.jpg"
+}

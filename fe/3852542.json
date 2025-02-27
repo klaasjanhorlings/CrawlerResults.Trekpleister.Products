@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Urinecontainers",
+  "code": "3852542",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6575 > 6576 > 6577",
+  "supplier": "TOBY'S BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-urinecontainers/p/3852542",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 30267323,
+      "name": "Hulpmiddelen"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 3 stuks",
+  "image": "/medias/sys_master/prd-images/hf6/h26/29035951783966/prd-front-3852542-1_600x600/prd-front-3852542-1-600x600.jpg"
+}

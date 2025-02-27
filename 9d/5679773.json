@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Difrax Natural 0+M S-Fles",
+  "code": "5679773",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
+  "supplier": "DIFRAX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/difrax-natural-0m-s-fles/p/5679773",
+  "listName": "Lister",
+  "brand": "Difrax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267356,
+      "name": "Babyflesjes"
+    }
+  ],
+  "description": "blauw, 250ml",
+  "image": "/medias/prd-front-5679773-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTY4Mzd8aW1hZ2UvanBlZ3xhR1F3TDJnNU9TOHhOekEzTmprME9UWTRNREUxT0M5d2NtUXRabkp2Ym5RdE5UWTNPVGMzTXkweFh6WXdNSGcyTURBfGUwNWY4NzRlNjgxNmU0MjY0NDU0OTgxOWZhNjVjZmVlNjhiYjljZDU4NTFjYzM2YTQ5OTM5NWFmNWNiYWM5NDE"
+}

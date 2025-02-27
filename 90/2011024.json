@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Joop! Homme Eau de Toilette",
+  "code": "2011024",
+  "price": "22.99",
+  "priceOriginal": "24.99",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "SAR TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 2,00",
+  "url": "/joop-homme-eau-de-toilette/p/2011024",
+  "listName": "Lister",
+  "brand": "Joop!",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/prd-front-2011024-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE4NzZ8aW1hZ2UvanBlZ3xhR0V4TDJnNVpTOHhOalUzTkRFME5ERTRORE0xTUM5d2NtUXRabkp2Ym5RdE1qQXhNVEF5TkMweFh6WXdNSGcyTURBfGNlMmViYWZmYzJmMWQ3NzBjMzA1OTdiOTY4OTQ4ODhkZTBkMDRmMTg0MzhkZWU0ZTJjZDNhYmUxMDJiZmZhN2Y"
+}

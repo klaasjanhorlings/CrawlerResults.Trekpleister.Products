@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Salus Floradix Vloeibaar IJzer-Elixer",
+  "code": "1552720",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6281",
+  "supplier": "OCE BIO NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/salus-floradix-vloeibaar-ijzer-elixer/p/1552720",
+  "listName": "Lister",
+  "brand": "Floradix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267272,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50002046,
+      "name": "Ijzer"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h54/h43/28820293877790/prd-front-1552720-1_600x600/prd-front-1552720-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Ninjamas Jongens 8-12 Jaar Pyjama Pants",
+  "code": "5951650",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027722",
+  "mmkId": "3027722",
+  "productGroupId": "457928",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-ninjamas-jongens-8-12-jaar-pyjama-pants/p/5951650",
+  "listName": "Lister",
+  "brand": "Ninjamas",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267072,
+      "name": "Pyjamabroekjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - mt 8-12 jaar, 9 stuks",
+  "image": "/medias/sys_master/prd-images/h1c/hc9/28725951561758/prd-front-5951650-1_600x600/prd-front-5951650-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Durex Nude Condooms",
+  "code": "5391905",
+  "price": "16.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/durex-nude-condooms/p/5391905",
+  "listName": "Lister",
+  "brand": "Durex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267062,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30267306,
+      "name": "Condooms"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h88/h99/31710888591390/prd-front-5391905-1_600x600/prd-front-5391905-1-600x600.jpg"
+}

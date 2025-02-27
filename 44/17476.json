@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Palmolive For Men Classic Scheercrème",
+  "code": "17476",
+  "price": "2.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2833 > 3575",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/palmolive-for-men-classic-scheercreme/p/17476",
+  "listName": "Lister",
+  "brand": "Palmolive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267238,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-17476-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzAxOTB8aW1hZ2UvanBlZ3xhRGs0TDJnMk9TOHhOelEwT0RZNU1qRXlNVFl6TUM5d2NtUXRabkp2Ym5RdE1UYzBOell0TVY4Mk1EQjROakF3fDM0YmU5MjJiZDBkOTdkZTA5MDQ0Y2U5MTU3OGJhODMxZDA3ZDI2NmVjMzM2MjUxMTRiNjg4NjIzOWI1MzJlNWU"
+}

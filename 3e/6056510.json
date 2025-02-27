@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Odorex Men Energy Boost 3-in-1 Showergel",
+  "code": "6056510",
+  "price": "3.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3868",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3027768",
+  "mmkId": "3027768",
+  "productGroupId": "455326",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/odorex-men-energy-boost-3-in-1-showergel/p/6056510",
+  "listName": "Lister",
+  "brand": "Odorex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "300ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h15/hc4/30533483528222/prd-front-6056510-1_600x600/prd-front-6056510-1-600x600.jpg"
+}

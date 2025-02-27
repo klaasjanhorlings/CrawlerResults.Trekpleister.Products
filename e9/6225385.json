@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO City 60443 F1 Pitstop en Pitcrew met Ferrari Auto",
+  "code": "6225385",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-city-60443-f1-pitstop-en-pitcrew-met-ferrari-auto/p/6225385",
+  "listName": "Lister",
+  "brand": "LEGO City",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267367,
+      "name": "LEGO City"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0b/hfd/33142380691486/prd-front-6225385-1_600x600/prd-front-6225385-1-600x600.jpg"
+}

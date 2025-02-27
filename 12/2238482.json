@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Baby Zeepvrij Schuimbad",
+  "code": "2238482",
+  "price": "6.55",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027834",
+  "mmkId": "3027834",
+  "productGroupId": "462053",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-baby-zeepvrij-schuimbad/p/2238482",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267334,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267581,
+      "name": "Babybadschuim"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/prd-front-2238482-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTI4MTZ8aW1hZ2UvanBlZ3xhR0kzTDJnMVlpOHhOak13TnpZM09UQXdNalkxTkM5d2NtUXRabkp2Ym5RdE1qSXpPRFE0TWkweFh6WXdNSGcyTURBfDcyZTg2MWViMDlkMWI2NGViYzJiNjY3MjJlY2Y0YzllMjNmMjcyOWM0ZDU4N2VkZTQzYWU0MjkyZjU1OTc0MGM"
+}

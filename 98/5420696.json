@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Axe Dark Temptation Antitranspirant Roller",
+  "code": "5420696",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3874",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027765",
+  "mmkId": "3027765",
+  "productGroupId": "454700",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/axe-dark-temptation-antitranspirant-roller/p/5420696",
+  "listName": "Lister",
+  "brand": "Axe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267200,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h47/h82/33196802244638/prd-front-5420696-1_600x600/prd-front-5420696-1-600x600.jpg"
+}

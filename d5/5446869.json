@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Real Techniques Seamless Complexion Brush",
+  "code": "5446869",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6327",
+  "supplier": "EMA COMPANY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/real-techniques-seamless-complexion-brush/p/5446869",
+  "listName": "Lister",
+  "brand": "Real Techniques",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267174,
+      "name": "Make-up kwasten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h64/hb6/28578883371038/prd-front-5446869-1_600x600/prd-front-5446869-1-600x600.jpg"
+}

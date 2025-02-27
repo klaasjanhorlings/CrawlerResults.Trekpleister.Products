@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dettol No-Touch Aloë Vera Antibacteriële Handzeep Navulling",
+  "code": "2591310",
+  "price": "3.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 5668",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3027943",
+  "mmkId": "3027943",
+  "productGroupId": "466110",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dettol-no-touch-aloe-vera-antibacteriele-handzeep-navulling/p/2591310",
+  "listName": "Lister",
+  "brand": "Dettol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267246,
+      "name": "Handzeep"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/he3/hca/33478867910686/prd-front-2591310-1_600x600/prd-front-2591310-1-600x600.jpg"
+}

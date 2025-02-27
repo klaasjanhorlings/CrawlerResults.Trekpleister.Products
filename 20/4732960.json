@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wilkinson Sword Intuition 2-in-1 Sensitive Navulmesjes",
+  "code": "4732960",
+  "price": "21.49",
+  "priceOriginal": "25.99",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
+  "supplier": "WILKINSON SWORD GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 4,50",
+  "url": "/wilkinson-sword-intuition-2-in-1-sensitive-navulmesjes/p/4732960",
+  "listName": "Lister",
+  "brand": "Wilkinson Sword",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/hd7/ha8/28551740031006/prd-front-4732960-1_600x600/prd-front-4732960-1-600x600.jpg"
+}

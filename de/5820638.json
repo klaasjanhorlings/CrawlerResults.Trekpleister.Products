@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Ultra Day Normal Maandverband met Vleugels",
+  "code": "5820638",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027786",
+  "mmkId": "3027786",
+  "productGroupId": "457743",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-ultra-day-normal-maandverband-met-vleugels/p/5820638",
+  "listName": "Lister",
+  "brand": "Always",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267219,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "38 stuks",
+  "image": "/medias/sys_master/prd-images/hdf/h19/29326270922782/prd-front-5820638-1_600x600/prd-front-5820638-1-600x600.jpg"
+}

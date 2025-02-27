@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Baby & Kids Parfumvrije Zinkcrème",
+  "code": "5743697",
+  "price": "12.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "3027845",
+  "mmkId": "3027845",
+  "productGroupId": "465606",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-baby-kids-parfumvrije-zinkcreme/p/5743697",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267577,
+      "name": "Luierzalf"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h09/h88/30188694896670/prd-front-5743697-1_600x600/prd-front-5743697-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leukoplast Cuticell Contact Zacht Siliconen Wondverband",
+  "code": "4399620",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2930 > 3725",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3027887",
+  "mmkId": "3027887",
+  "productGroupId": "469869",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/leukoplast-cuticell-contact-zacht-siliconen-wondverband/p/4399620",
+  "listName": "Lister",
+  "brand": "Leukoplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267293,
+      "name": "Steriele gaasjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 5cm x 7.5cm, 5 stuks",
+  "image": "/medias/sys_master/prd-images/he2/he3/28909847216158/prd-front-4399620-1_600x600/prd-front-4399620-1-600x600.jpg"
+}

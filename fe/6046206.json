@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ob Menstruatieondergoed Maat Xs/S",
+  "code": "6046206",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "3027720",
+  "mmkId": "3027720",
+  "productGroupId": "456229",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ob-menstruatieondergoed-maat-xs/s/p/6046206",
+  "listName": "Lister",
+  "brand": "Ob",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267223,
+      "name": "Menstruatieondergoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfb/he9/33398064513054/prd-front-6046206-1_600x600/prd-front-6046206-1-600x600.jpg"
+}

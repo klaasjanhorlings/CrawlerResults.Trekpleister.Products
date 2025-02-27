@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bepanthen Beschermende Zalf",
+  "code": "1899801",
+  "price": "8.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bepanthen-beschermende-zalf/p/1899801",
+  "listName": "Lister",
+  "brand": "Bepanthen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 51216437,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235394,
+      "name": "Droge en gevoelige huid"
+    }
+  ],
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/h53/h49/31793951735838/prd-front-1899801-1_600x600/prd-front-1899801-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tena Discreet Ultra Mini Verbanden",
+  "code": "4107706",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027779",
+  "mmkId": "3027779",
+  "productGroupId": "457392",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-discreet-ultra-mini-verbanden/p/4107706",
+  "listName": "Lister",
+  "brand": "Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267220,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "2 x 20 stuks",
+  "image": "/medias/sys_master/prd-images/he5/h10/33391219933214/prd-front-4107706-1_600x600/prd-front-4107706-1-600x600.jpg"
+}

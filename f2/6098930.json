@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Miracle Pure 395 Magic Sunstone Nagellak",
+  "code": "6098930",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "3027856",
+  "mmkId": "3027856",
+  "productGroupId": "466456",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-miracle-pure-395-magic-sunstone-nagellak/p/6098930",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267141,
+      "name": "Nagellak"
+    }
+  ],
+  "description": "12ml",
+  "image": "/medias/sys_master/prd-images/h14/hd0/31169652654110/prd-front-6098930-1_600x600/prd-front-6098930-1-600x600.jpg"
+}

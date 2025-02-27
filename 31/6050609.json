@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fujifilm instax Mini 12 Beschermhoes",
+  "code": "6050609",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4870 > 6031 > 2243 > 2408 > 2849 > 3588",
+  "supplier": "FUJIFILM IMAGING PRODUC",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fujifilm-instax-mini-12-beschermhoes/p/6050609",
+  "listName": "Lister",
+  "brand": "Fujifilm",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267113,
+      "name": "Instax"
+    },
+    {
+      "id": 55889907,
+      "name": "Instax beschermhoezen"
+    }
+  ],
+  "description": "groen",
+  "image": "/medias/sys_master/prd-images/hc4/h88/30761483370526/prd-front-6050609-1_600x600/prd-front-6050609-1-600x600.jpg"
+}

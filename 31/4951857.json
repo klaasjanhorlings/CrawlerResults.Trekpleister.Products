@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leefvitaal Glucosamine Puur Tabletten",
+  "code": "4951857",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027848",
+  "mmkId": "3027848",
+  "productGroupId": "465775",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/leefvitaal-glucosamine-puur-tabletten/p/4951857",
+  "listName": "Lister",
+  "brand": "Leefvitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267282,
+      "name": "Glucosamine"
+    }
+  ],
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h30/hbf/29570365587486/prd-front-4951857-1_600x600/prd-front-4951857-1-600x600.jpg"
+}

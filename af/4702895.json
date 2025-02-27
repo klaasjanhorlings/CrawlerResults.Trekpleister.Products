@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Carbon Bright Activated Charcoal",
+  "code": "4702895",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
+  "supplier": "DIT-IS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/carbon-bright-activated-charcoal/p/4702895",
+  "listName": "Lister",
+  "brand": "Carbon Bright",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 49742490,
+      "name": "Whitening producten"
+    }
+  ],
+  "description": "30g",
+  "image": "/medias/prd-front-4702895-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQ5OTR8aW1hZ2UvanBlZ3xhR00zTDJnek15OHhOalU1TURneE5qQTFNVEl6TUM5d2NtUXRabkp2Ym5RdE5EY3dNamc1TlMweFh6WXdNSGcyTURBfDY1NTYyYjg4OGZmNzg5ZGRmMWJiMjMyY2Q0YzA5MDI5NGVkZTRjZjI4OGNjZTdiZGNiNjc3MTY4NjBhNmZkY2I"
+}

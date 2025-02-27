@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B iO Gentle Care Opzetborstels",
+  "code": "5263070",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027866",
+  "mmkId": "3027866",
+  "productGroupId": "467498",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-io-gentle-care-opzetborstels/p/5263070",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267232,
+      "name": "Opzetborstels"
+    }
+  ],
+  "description": "wit, 2 stuks",
+  "image": "/medias/prd-front-5263070-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTU4NTZ8aW1hZ2UvanBlZ3xhREJtTDJneU1TOHhOekkzT0RBNE5Ea3pPVGd3Tmk5d2NtUXRabkp2Ym5RdE5USTJNekEzTUMweFh6WXdNSGcyTURBfDI3ZmEyZjFlYzkyZGU3NzNlMjRmNzIwMGY2ZTU0NjhkYmRhZWY2OTJiNzUxMjRjMjQ3ZWEyNjE5NDBkYmM0YjI"
+}

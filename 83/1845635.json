@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. E.J. Swaab Verzorgende Aambeiendoekjes",
+  "code": "1845635",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2500 > 3102 > 4104",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dr-ej-swaab-verzorgende-aambeiendoekjes/p/1845635",
+  "listName": "Lister",
+  "brand": "Dr. E.J. Swaab",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267259,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 30267514,
+      "name": "Aambeien"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 25 stuks",
+  "image": "/medias/sys_master/prd-images/h7e/hae/29991220019230/prd-front-1845635-1_600x600/prd-front-1845635-1-600x600.jpg"
+}

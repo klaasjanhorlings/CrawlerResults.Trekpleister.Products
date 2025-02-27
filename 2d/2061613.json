@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aleve Select Tabletten",
+  "code": "2061613",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6158 > 6181",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aleve-select-tabletten/p/2061613",
+  "listName": "Lister",
+  "brand": "Aleve",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267528,
+      "name": "Naproxen"
+    }
+  ],
+  "description": "Geneesmiddel - 12 stuks",
+  "image": "/medias/sys_master/prd-images/h34/h02/28575487229982/prd-front-2061613-1_600x600/prd-front-2061613-1-600x600.jpg"
+}

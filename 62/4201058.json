@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kiss Accent Just Kidding Nagelstickers",
+  "code": "4201058",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2958 > 3753",
+  "supplier": "ANVIRI COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kiss-accent-just-kidding-nagelstickers/p/4201058",
+  "listName": "Lister",
+  "brand": "Kiss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 72476798,
+      "name": "Nagelstickers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4201058-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDIzMjZ8aW1hZ2UvanBlZ3xhR0psTDJnek5DOHhOak0xT0RFME5UQTJORGs1TUM5d2NtUXRabkp2Ym5RdE5ESXdNVEExT0MweFh6WXdNSGcyTURBfDZlMGQ0MjA3NTg4NWNlMTZjNDQwYTQ4MWZlYmZhZmEzMzI3YzgwOTJmOWJjM2Y4ZDY2MzBlYzlmNjI5ODg2MWY"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fujifilm instax Square Film Fotopapier",
+  "code": "5119976",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4870 > 6017 > 2173 > 2427 > 3260 > 4158",
+  "supplier": "FUJIFILM IMAGING PRODUC",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fujifilm-instax-square-film-fotopapier/p/5119976",
+  "listName": "Lister",
+  "brand": "Fujifilm",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267113,
+      "name": "Instax"
+    },
+    {
+      "id": 55889979,
+      "name": "Instax fotopapier"
+    }
+  ],
+  "description": "2 x 10 stuks",
+  "image": "/medias/sys_master/prd-images/h4b/h39/28571759214622/prd-front-5119976-1_600x600/prd-front-5119976-1-600x600.jpg"
+}

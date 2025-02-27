@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanature 100% Katoenen Normal Maandverband",
+  "code": "3745778",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
+  "supplier": "SANATURE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/sanature-100-katoenen-normal-maandverband/p/3745778",
+  "listName": "Lister",
+  "brand": "Sanature",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267219,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/prd-front-3745778-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk3NjR8aW1hZ2UvanBlZ3xhREZsTDJneU5pOHhOekEwTnpjeU9UUTNNVFV4T0M5d2NtUXRabkp2Ym5RdE16YzBOVGMzT0MweFh6WXdNSGcyTURBfDk1NTVkZjRhNzA4OTU0MjkyMDE0ZWM1ZmNmOGMzYTdjOTEzZDU1NzQ1YjUyNjBmNDZkYjExNjZlYjVmYWE2M2E"
+}

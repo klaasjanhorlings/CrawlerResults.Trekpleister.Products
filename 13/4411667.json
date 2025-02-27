@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nûby 6+M Voedingslepeltjes met Lange Handgreep",
+  "code": "4411667",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "NEW VALMAR BV",
+  "inStock": "inStock",
+  "onPromo": "3027833",
+  "mmkId": "3027833",
+  "productGroupId": "462030",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nuby-6m-voedingslepeltjes-met-lange-handgreep/p/4411667",
+  "listName": "Lister",
+  "brand": "Nuby",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267360,
+      "name": "Kinderservies"
+    }
+  ],
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/ha0/h3f/28576783499294/prd-front-4411667-1_600x600/prd-front-4411667-1-600x600.jpg"
+}

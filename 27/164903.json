@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Roter Vitamine C 1000 mg Abrikoos-Sinaasappel Bruistabletten",
+  "code": "164903",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6295",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027847",
+  "mmkId": "3027847",
+  "productGroupId": "465773",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/roter-vitamine-c-1000-mg-abrikoos-sinaasappel-bruistabletten/p/164903",
+  "listName": "Lister",
+  "brand": "Roter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267549,
+      "name": "Vitamine C"
+    }
+  ],
+  "description": "2 x 20 stuks",
+  "image": "/medias/sys_master/prd-images/hcb/h0d/33156097966110/prd-front-164903-1_600x600/prd-front-164903-1-600x600.jpg"
+}

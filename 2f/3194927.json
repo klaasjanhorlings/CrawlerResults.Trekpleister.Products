@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vaseline Intensive Care Advanced Repair Bodylotion",
+  "code": "3194927",
+  "price": "7.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027815",
+  "mmkId": "3027815",
+  "productGroupId": "460088",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vaseline-intensive-care-advanced-repair-bodylotion/p/3194927",
+  "listName": "Lister",
+  "brand": "Vaseline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267194,
+      "name": "Bodylotion"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-3194927-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTY0NjB8aW1hZ2UvanBlZ3xhREUzTDJoalppOHhOakk1T1RreE5EVXlOamMxTUM5d2NtUXRabkp2Ym5RdE16RTVORGt5TnkweFh6WXdNSGcyTURBfDY5Y2FjODc4YTJjNTVlMTMwOWUyMTVkNDFkZDI4OTJlMDU1MzA1NzI3NTNhNmM3NjlkNjk0YmE4NTQ4ZDlkYzg"
+}

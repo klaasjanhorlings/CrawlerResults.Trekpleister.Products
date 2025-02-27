@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Opvouwbare Paraplu met Bloemenprint",
+  "code": "6181012",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 4294 > 6347 > 6348 > 6349",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/opvouwbare-paraplu-met-bloemenprint/p/6181012",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267419,
+      "name": "Regenkleding"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he0/hba/32166996213790/prd-front-6181012-1_600x600/prd-front-6181012-1-600x600.jpg"
+}

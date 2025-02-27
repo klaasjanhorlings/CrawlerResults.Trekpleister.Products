@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Casting Crème Gloss 300 Donkerbruin Semi-Permanente Haarkleuring",
+  "code": "1070049",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027826",
+  "mmkId": "3027826",
+  "productGroupId": "461160",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-casting-creme-gloss-300-donkerbruin-semi-permanente-haarkleuring/p/1070049",
+  "listName": "Lister",
+  "brand": "Casting",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "180ml",
+  "image": "/medias/sys_master/prd-images/h36/h05/32293794775070/prd-front-1070049-1_600x600/prd-front-1070049-1-600x600.jpg"
+}

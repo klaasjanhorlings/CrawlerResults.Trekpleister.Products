@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bepanthen Eczeem Crème",
+  "code": "3218979",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bepanthen-eczeem-creme/p/3218979",
+  "listName": "Lister",
+  "brand": "Bepanthen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267497,
+      "name": "Eczeemcreme"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20g",
+  "image": "/medias/sys_master/prd-images/h2c/h08/28576055427102/prd-front-3218979-1_600x600/prd-front-3218979-1-600x600.jpg"
+}

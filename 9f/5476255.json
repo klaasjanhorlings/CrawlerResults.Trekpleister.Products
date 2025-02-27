@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Pro-Age Hand & Body Crème",
+  "code": "5476255",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027766",
+  "mmkId": "3027766",
+  "productGroupId": "454705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-pro-age-hand-body-creme/p/5476255",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267245,
+      "name": "Handcrèmes"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/prd-front-5476255-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTk1NDh8aW1hZ2UvanBlZ3xhR1UwTDJoaFlpOHhOekEyTnpBMU5qa3lNalkxTkM5d2NtUXRabkp2Ym5RdE5UUTNOakkxTlMweFh6WXdNSGcyTURBfGM2MGNmMTUwMWM2ODJmNDZlNjIyNTU0ZGRiZDQzN2E1ZmIzOWQ4NzVlYjQxMTNiYmY0NzhlNThiNDA3ZGM1MTM"
+}

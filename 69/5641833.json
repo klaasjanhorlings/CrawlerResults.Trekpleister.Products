@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guess Seductive Red Homme Eau de Toilette",
+  "code": "5641833",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/guess-seductive-red-homme-eau-de-toilette/p/5641833",
+  "listName": "Lister",
+  "brand": "Guess",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-5641833-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTg5MzF8aW1hZ2UvanBlZ3xhREZpTDJoa05DOHhOekEzTmpNek9ESTVORGd4TkM5d2NtUXRabkp2Ym5RdE5UWTBNVGd6TXkweFh6WXdNSGcyTURBfDAwMTAxNGRlMzU1NTRlNjNhNjllNzNjMDQ3MzZlN2Y3MmE4M2E0YjYyYzZjNzcwOTc5NTlhNDEwM2Y3OGJlMjY"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Carmen HD2195 Salon Performance 2000 Föhn",
+  "code": "4235162",
+  "price": "19.99",
+  "priceOriginal": "24.99",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6430",
+  "supplier": "INVENTUM HUISHOUDELIJKE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/carmen-hd2195-salon-performance-2000-fohn/p/4235162",
+  "listName": "Lister",
+  "brand": "Carmen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267493,
+      "name": "Föhns"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h15/h64/29288993980446/prd-front-4235162-1_600x600/prd-front-4235162-1-600x600.jpg"
+}

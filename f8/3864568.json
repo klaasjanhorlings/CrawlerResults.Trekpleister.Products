@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swiffer Citrus Fresh Vochtige Vloerdoekjes",
+  "code": "3864568",
+  "price": "10.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 6076 > 6077",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027798",
+  "mmkId": "3027798",
+  "productGroupId": "458619",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/swiffer-citrus-fresh-vochtige-vloerdoekjes/p/3864568",
+  "listName": "Lister",
+  "brand": "Swiffer",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430592,
+      "name": "Dweilen en vloerwissers"
+    }
+  ],
+  "description": "18 stuks",
+  "image": "/medias/sys_master/prd-images/hf6/h6b/30801360224286/prd-front-3864568-1_600x600/prd-front-3864568-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Sensitive Aftershave Balsem",
+  "code": "1451549",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 3144 > 6670",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027837",
+  "mmkId": "3027837",
+  "productGroupId": "462499",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-sensitive-aftershave-balsem/p/1451549",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267169,
+      "name": "Aftershave"
+    }
+  ],
+  "description": "100ml - Gevoelige en droge huid",
+  "image": "/medias/sys_master/prd-images/h9f/h5c/33179006763038/prd-front-1451549-1_600x600/prd-front-1451549-1-600x600.jpg"
+}

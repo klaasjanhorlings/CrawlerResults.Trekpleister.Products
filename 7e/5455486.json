@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "FlowFlex COVID-19 Zelftest",
+  "code": "5455486",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6493 > 6494",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/flowflex-covid-19-zelftest/p/5455486",
+  "listName": "Lister",
+  "brand": "FlowFlex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267267,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30267543,
+      "name": "Gezondheidstesten"
+    }
+  ],
+  "description": "5 stuks",
+  "image": "/medias/prd-front-5455486-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzA0MzB8aW1hZ2UvanBlZ3xhR0U0TDJnMk55OHhOelV6TlRjek9EWTBNalEyTWk5d2NtUXRabkp2Ym5RdE5UUTFOVFE0TmkweFh6WXdNSGcyTURBfGY4MWUwNDdhODc0NmNhZjIyOGViNWIzYzI2NzEyYTEwZTRiOWQ2MTVjYTgxY2Y2NTY5NmRiODA2MDY5MDFlNDc"
+}

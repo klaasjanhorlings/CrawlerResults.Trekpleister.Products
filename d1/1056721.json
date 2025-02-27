@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Fusion5 Scheermesjes",
+  "code": "1056721",
+  "price": "23.99",
+  "priceOriginal": "24.45",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027885",
+  "mmkId": "3027885",
+  "productGroupId": "469337",
+  "brandType": "A of B merk",
+  "discount": "€ 0,46",
+  "url": "/gillette-fusion5-scheermesjes/p/1056721",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h51/h70/33259356258334/prd-front-1056721-1_600x600/prd-front-1056721-1-600x600.jpg"
+}

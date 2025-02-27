@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris True Match 2C Vanilla Rose Poeder",
+  "code": "4502394",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-true-match-2c-vanilla-rose-poeder/p/4502394",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267144,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd7/h1e/28793184026654/prd-front-4502394-1_600x600/prd-front-4502394-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutral 0% Parfumvrije Bodylotion",
+  "code": "2843478",
+  "price": "6.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 4155",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutral-0-parfumvrije-bodylotion/p/2843478",
+  "listName": "Lister",
+  "brand": "Neutral",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267194,
+      "name": "Bodylotion"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hd5/hfd/28547683418142/prd-front-2843478-1_600x600/prd-front-2843478-1-600x600.jpg"
+}

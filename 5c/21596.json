@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Betadine Oplossing",
+  "code": "21596",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/betadine-oplossing/p/21596",
+  "listName": "Lister",
+  "brand": "Betadine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267297,
+      "name": "Wondontsmetting"
+    }
+  ],
+  "description": "Geneesmiddel - 30ml",
+  "image": "/medias/prd-front-21596-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjM0MzF8aW1hZ2UvanBlZ3xhRFEwTDJnMllpOHhOakl5T0RBek9UWTFOVFExTkM5d2NtUXRabkp2Ym5RdE1qRTFPVFl0TVY4Mk1EQjROakF3fDk3MDkxZGNkZWZiYmQxMDRlMGU0YjVjM2RlZTg4NTA3OTllZmYwYTNkMWIyYzgwMjYwZjJkNzZmMGZlMjk1MGQ"
+}

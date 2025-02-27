@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Revitalift Laser Gelreiniger",
+  "code": "6112783",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027895",
+  "mmkId": "3027895",
+  "productGroupId": "470762",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-revitalift-laser-gelreiniger/p/6112783",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267475,
+      "name": "Cleanser"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h86/hcb/31511684481054/prd-front-6112783-1_600x600/prd-front-6112783-1-600x600.jpg"
+}

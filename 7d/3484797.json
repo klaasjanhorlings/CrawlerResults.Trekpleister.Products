@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aunt Jackie's Quench! Leave in Conditioner",
+  "code": "3484797",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aunt-jackies-quench-leave-in-conditioner/p/3484797",
+  "listName": "Lister",
+  "brand": "Aunt Jackie's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49745451,
+      "name": "Leave-in conditioner"
+    }
+  ],
+  "description": "355ml",
+  "image": "/medias/prd-front-3484797-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjE5MjB8aW1hZ2UvanBlZ3xhRGRtTDJnd01pOHhOak13TkRFek5UVXpOalkzTUM5d2NtUXRabkp2Ym5RdE16UTRORGM1TnkweFh6WXdNSGcyTURBfDNhZTI5ODRlOWFhMzcwZGRjZWYwYjRhY2NkY2JiMjJmNWZkMTA5ODk2NTc2YWFkMTY2YTZjZGFlM2UxMDBjMzE"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Mebendazol 100 mg Anti-Worm Tabletten",
+  "code": "1189469",
+  "price": "3.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 3099 > 3962",
+  "supplier": "AUROBINDO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-mebendazol-100-mg-anti-worm-tabletten/p/1189469",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 49950200,
+      "name": "Anti-worm"
+    }
+  ],
+  "description": "Geneesmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/h4d/hf7/32894916952094/prd-front-1189469-1_600x600/prd-front-1189469-1-600x600.jpg"
+}

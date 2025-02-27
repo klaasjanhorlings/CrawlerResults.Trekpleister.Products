@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Styling Fantastische Fixatie Haarspray",
+  "code": "1334761",
+  "price": "6.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027857",
+  "mmkId": "3027857",
+  "productGroupId": "466488",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-styling-fantastische-fixatie-haarspray/p/1334761",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267492,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/prd-front-1334761-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDAwMzZ8aW1hZ2UvanBlZ3xhR1U1TDJnMk55OHhOelU0TURVNU5qWXlOVFF6T0M5d2NtUXRabkp2Ym5RdE1UTXpORGMyTVMweFh6WXdNSGcyTURBfDkwZjJlZTUyNGUxZTg1N2ZhZjJiMDJjN2Y0ZGNhYTE3ODAxMTIxODU0MDdlNmU4MDVhNjY5YTMzZDlmNjUxMmY"
+}

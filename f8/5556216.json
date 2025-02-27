@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Classics Klein & Krachtig Color Original Vloeibaar Wasmiddel",
+  "code": "5556216",
+  "price": "49.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/robijn-classics-klein-krachtig-color-original-vloeibaar-wasmiddel/p/5556216",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "2 x 1190ml, 68 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hd5/hc0/31941892505630/prd-front-5556216-1_600x600/prd-front-5556216-1-600x600.jpg"
+}

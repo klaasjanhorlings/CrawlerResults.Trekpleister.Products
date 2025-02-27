@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Iwhite Instant Professionele Whitening Kit",
+  "code": "3177875",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/iwhite-instant-professionele-whitening-kit/p/3177875",
+  "listName": "Lister",
+  "brand": "iWhite",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 49742490,
+      "name": "Whitening producten"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/he0/h82/28793628491806/prd-front-3177875-1_600x600/prd-front-3177875-1-600x600.jpg"
+}

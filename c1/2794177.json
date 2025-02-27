@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Gel voor Soepele Spieren en Gewrichten",
+  "code": "2794177",
+  "price": "4.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "AUROBINDO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-gel-voor-soepele-spieren-en-gewrichten/p/2794177",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267536,
+      "name": "Spier- en gewrichtsbalsems"
+    }
+  ],
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/hd1/hcc/28629952528414/prd-front-2794177-1_600x600/prd-front-2794177-1-600x600.jpg"
+}

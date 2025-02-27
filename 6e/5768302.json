@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 12+M Knijpfruit Variatiemenu",
+  "code": "5768302",
+  "price": "13.81",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-12m-knijpfruit-variatiemenu/p/5768302",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267565,
+      "name": "12 maanden +"
+    }
+  ],
+  "description": "12 stuks",
+  "image": "/medias/prd-front-5768302-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTg0NjZ8aW1hZ2UvanBlZ3xhR00yTDJnMFlTOHhOekUxTmpNd05qY3pNVEF6T0M5d2NtUXRabkp2Ym5RdE5UYzJPRE13TWkweFh6WXdNSGcyTURBfDFmZWFlMDQ0OWRhMGExM2JlYTBhYzIzMDc4NTgyYzgxMmIyMWJkNmJkZjA0NjUwNmZiM2FiYWUyYzE2MTQ3ZjA"
+}

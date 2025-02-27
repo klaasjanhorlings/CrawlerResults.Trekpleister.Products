@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Poederzacht Deodorant Spray",
+  "code": "5165616",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-poederzacht-deodorant-spray/p/5165616",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-5165616-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTc3ODN8aW1hZ2UvanBlZ3xhRFExTDJneU15OHhOamN4TWpVNE5EUTJNak0yTmk5d2NtUXRabkp2Ym5RdE5URTJOVFl4TmkweFh6WXdNSGcyTURBfDE1ZTg2NGI0OTI4YmRmMTBjNmRmODVmYzdmZWY1ZTcyZGE4NmFmNzRmMTQ1ODBlOGE3YmViMzYxMmI0ZDMxZTc"
+}

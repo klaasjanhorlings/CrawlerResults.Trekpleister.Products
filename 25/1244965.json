@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutral Parfumvrije Baby Huidolie",
+  "code": "1244965",
+  "price": "6.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2724 > 3427",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutral-parfumvrije-baby-huidolie/p/1244965",
+  "listName": "Lister",
+  "brand": "Neutral",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267576,
+      "name": "Babyolie"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-1244965-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODA2MDZ8aW1hZ2UvanBlZ3xhR0kwTDJnNE1DOHhOak15TkRBek1UTXhOVGs1T0M5d2NtUXRabkp2Ym5RdE1USTBORGsyTlMweFh6WXdNSGcyTURBfDVlN2IyOTNhODc3Y2U5MjYzMDlhZDdjYTUzZjljMmIyNDZhMzliMDlhMDgyMTFlYjEyZGJjYmM0YWI1MGZlYzA"
+}

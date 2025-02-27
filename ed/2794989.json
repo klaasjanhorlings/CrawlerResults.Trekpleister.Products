@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dettol Touch of Foam Rose & Cherry in Bloom Handzeep",
+  "code": "2794989",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3916",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3027943",
+  "mmkId": "3027943",
+  "productGroupId": "466110",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dettol-touch-of-foam-rose-cherry-in-bloom-handzeep/p/2794989",
+  "listName": "Lister",
+  "brand": "Dettol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267246,
+      "name": "Handzeep"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h9c/h63/33478868893726/prd-front-2794989-1_600x600/prd-front-2794989-1-600x600.jpg"
+}

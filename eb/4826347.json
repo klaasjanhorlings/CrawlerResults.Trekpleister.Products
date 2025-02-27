@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Men Dermo Sensitive 24-uur Antitranspirant Spray",
+  "code": "4826347",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3865",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027757",
+  "mmkId": "3027757",
+  "productGroupId": "452755",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-men-dermo-sensitive-24-uur-antitranspirant-spray/p/4826347",
+  "listName": "Lister",
+  "brand": "Sanex Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "200ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hbe/hc1/28577854193694/prd-front-4826347-1_600x600/prd-front-4826347-1-600x600.jpg"
+}

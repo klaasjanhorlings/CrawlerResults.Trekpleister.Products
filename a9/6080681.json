@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SoreFix Aften Plus Gel",
+  "code": "6080681",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3027940",
+  "mmkId": "3027940",
+  "productGroupId": "459743",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sorefix-aften-plus-gel/p/6080681",
+  "listName": "Lister",
+  "brand": "Sorefix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267504,
+      "name": "Aftenbehandeling"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 7ml",
+  "image": "/medias/sys_master/prd-images/h53/h1b/30800751165470/prd-front-6080681-1_600x600/prd-front-6080681-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Witte Reus Kracht Actief Citrus Toiletblok",
+  "code": "4513202",
+  "price": "2.49",
+  "priceOriginal": "2.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 6071 > 6072 > 6074",
+  "supplier": "HENKEL NEDERLAND BV U-W",
+  "inStock": "inStock",
+  "onPromo": "3027752",
+  "mmkId": "3027752",
+  "productGroupId": "451121",
+  "brandType": "A of B merk",
+  "discount": "€ 0,50",
+  "url": "/witte-reus-kracht-actief-citrus-toiletblok/p/4513202",
+  "listName": "Lister",
+  "brand": "Witte Reus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267122,
+      "name": "Toiletblokken"
+    }
+  ],
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/h49/hfd/31803377418270/prd-front-4513202-1_600x600/prd-front-4513202-1-600x600.jpg"
+}

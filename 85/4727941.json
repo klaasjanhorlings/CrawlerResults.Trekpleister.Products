@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Disney Disney Princess Multivit",
+  "code": "4727941",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/disney-disney-princess-multivit/p/4727941",
+  "listName": "Lister",
+  "brand": "Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267553,
+      "name": "Kindervitamines"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/prd-front-4727941-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk2MDd8aW1hZ2UvanBlZ3xhREJtTDJoa09TOHhOek0yTWpVeU1URTJNVGMxT0M5d2NtUXRabkp2Ym5RdE5EY3lOemswTVMweFh6WXdNSGcyTURBfDU1MWY0OTUyMjZiMjk0YWJhNzdhYjYxZDMyZjljOTE0M2Y5MTQ1NGI0ZjgyZTdhODFmZjIzMzVkYjcyOTJkYzU"
+}

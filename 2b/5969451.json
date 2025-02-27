@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ecostyle Mouse & Rat Free",
+  "code": "5969451",
+  "price": "40.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 6065",
+  "supplier": "EUROSTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ecostyle-mouse-rat-free/p/5969451",
+  "listName": "Lister",
+  "brand": "ECOstyle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267453,
+      "name": "Insectenbestrijding"
+    }
+  ],
+  "description": "2x 30m2",
+  "image": "/medias/sys_master/prd-images/h88/haf/30358480814110/prd-front-5969451-1_600x600/prd-front-5969451-1-600x600.jpg"
+}

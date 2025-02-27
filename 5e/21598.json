@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Azaron Insectenbeet Stick",
+  "code": "21598",
+  "price": "8.75",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 6070",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/azaron-insectenbeet-stick/p/21598",
+  "listName": "Lister",
+  "brand": "Azaron",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267268,
+      "name": "Insecten"
+    },
+    {
+      "id": 30267546,
+      "name": "Na de beet"
+    }
+  ],
+  "description": "Geneesmiddel - 5,75g",
+  "image": "/medias/sys_master/prd-images/h99/hdd/32878510768158/prd-front-21598-1_600x600/prd-front-21598-1-600x600.jpg"
+}

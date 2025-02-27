@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutrilon 6 Peuterplusmelk Flesvoeding Vanaf 3 Jaar",
+  "code": "2559397",
+  "price": "10.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutrilon-6-peuterplusmelk-flesvoeding-vanaf-3-jaar/p/2559397",
+  "listName": "Lister",
+  "brand": "Nutrilon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267562,
+      "name": "Peutermelk"
+    }
+  ],
+  "description": "400g",
+  "image": "/medias/sys_master/prd-images/h09/hb5/28595138953246/prd-front-2559397-1_600x600/prd-front-2559397-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mycosan Voet & Schoenpoeder",
+  "code": "4342248",
+  "price": "11.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2913 > 3709",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/mycosan-voet-schoenpoeder/p/4342248",
+  "listName": "Lister",
+  "brand": "Mycosan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48237435,
+      "name": "Zweetvoeten"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 65g",
+  "image": "/medias/sys_master/prd-images/hf1/hbd/28550887112734/prd-front-4342248-1_600x600/prd-front-4342248-1-600x600.jpg"
+}

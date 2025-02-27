@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dolce & Gabbana Light Blue Pour Femme Eau de Toilette",
+  "code": "5021731",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dolce-gabbana-light-blue-pour-femme-eau-de-toilette/p/5021731",
+  "listName": "Lister",
+  "brand": "Dolce & Gabbana",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "25ml",
+  "image": "/medias/prd-front-5021731-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODMxNnxpbWFnZS9qcGVnfGFHTTBMMmd4Wmk4eE5qWXpOamt3TkRJME16SXpNQzl3Y21RdFpuSnZiblF0TlRBeU1UY3pNUzB4WHpZd01IZzJNREF8NGNkN2E1OGVlYTZjZGI5MGEwY2FjMDI2NTRhNzc0M2RhOWZlZWM5Mjc4NTAyZTBkMjRkYWM3YmUyNWViNTBmYw"
+}

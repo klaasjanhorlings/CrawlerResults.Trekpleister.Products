@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Organic Shop Brazilian Coffee Bodyscrub",
+  "code": "4341891",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 6602 > 6603",
+  "supplier": "TRADE SENSE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/organic-shop-brazilian-coffee-bodyscrub/p/4341891",
+  "listName": "Lister",
+  "brand": "Organic Shop",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267208,
+      "name": "Scrub"
+    }
+  ],
+  "description": "250ml - Normale huid, exfoliërend",
+  "image": "/medias/prd-front-4341891-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAwMDIwfGltYWdlL2pwZWd8YUdZd0wyaGhNaTh5TmpRNE5EWTVORE00TkRZM01DOXdjbVF0Wm5KdmJuUXRORE0wTVRnNU1TMHhYell3TUhnMk1EQXwxZmViYjlhYTY2MGI0MzNlNzJjMDk3N2YzMzhhZjI0MzE0OTE4ZWE2ODgzZWM3NGE2YTAyNmY2ZDJlNmVjMGM1"
+}

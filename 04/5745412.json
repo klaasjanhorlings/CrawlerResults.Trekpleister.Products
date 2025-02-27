@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lactona Easydent A 2.5/5.0 mm Ragers",
+  "code": "5745412",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lactona-easydent-a-25/50-mm-ragers/p/5745412",
+  "listName": "Lister",
+  "brand": "Lactona",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267226,
+      "name": "Tandenragers"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/prd-front-5745412-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODM4MTJ8aW1hZ2UvanBlZ3xhR1ExTDJoak1pOHhOelV5TURZek1qVTJNVFk1TkM5d2NtUXRabkp2Ym5RdE5UYzBOVFF4TWkweFh6WXdNSGcyTURBfDg4YWM5NTQ0YTYyZGI2NGMzMWJlMDg5OWQ1NzYwMTljYTI1Y2UxMjMyMjVmZWFiYzBmYzAyM2YyMjBmYzA2M2U"
+}

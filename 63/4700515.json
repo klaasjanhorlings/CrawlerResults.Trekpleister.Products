@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Montagne Jeunesse 24K* Gold Firming Sheet Mask",
+  "code": "4700515",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/montagne-jeunesse-24k-gold-firming-sheet-mask/p/4700515",
+  "listName": "Lister",
+  "brand": "7th Heaven",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/hf4/h5d/28550996656158/prd-front-4700515-1_600x600/prd-front-4700515-1-600x600.jpg"
+}

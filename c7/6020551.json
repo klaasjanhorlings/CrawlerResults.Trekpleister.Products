@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jean & Len Rosemary & Ginger Handzeep",
+  "code": "6020551",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3916",
+  "supplier": "JEAN &LEN GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jean-len-rosemary-ginger-handzeep/p/6020551",
+  "listName": "Lister",
+  "brand": "Jean&Len",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267246,
+      "name": "Handzeep"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hd5/h14/30774891675678/prd-front-6020551-1_600x600/prd-front-6020551-1-600x600.jpg"
+}

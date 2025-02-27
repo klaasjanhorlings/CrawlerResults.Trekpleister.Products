@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Scholl Expert Care Manuka Honey Voedend Voetmasker",
+  "code": "6199443",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6662 > 6663",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/scholl-expert-care-manuka-honey-voedend-voetmasker/p/6199443",
+  "listName": "Lister",
+  "brand": "Scholl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 49314549,
+      "name": "Voetmasker"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/haa/h27/32662925279262/prd-front-6199443-1_600x600/prd-front-6199443-1-600x600.jpg"
+}

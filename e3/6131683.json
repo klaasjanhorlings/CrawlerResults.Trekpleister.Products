@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bolsius 8-Uur Waxinelichtjes",
+  "code": "6131683",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 6679 > 2146 > 2631 > 2889 > 3664",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027954",
+  "mmkId": "3027954",
+  "productGroupId": "471354",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bolsius-8-uur-waxinelichtjes/p/6131683",
+  "listName": "Lister",
+  "brand": "Bolsius",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267452,
+      "name": "Kaarsen"
+    }
+  ],
+  "description": "45 stuks",
+  "image": "/medias/sys_master/prd-images/h53/h11/31620161994782/prd-front-6131683-1_600x600/prd-front-6131683-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Iberolax bij Obstipatie",
+  "code": "4748577",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2759 > 3466",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/iberolax-bij-obstipatie/p/4748577",
+  "listName": "Lister",
+  "brand": "Iberolax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 30267532,
+      "name": "Laxeermiddelen"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/hac/h7b/28577843052574/prd-front-4748577-1_600x600/prd-front-4748577-1-600x600.jpg"
+}

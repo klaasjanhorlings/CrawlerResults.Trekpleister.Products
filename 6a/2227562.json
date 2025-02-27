@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pyralvex Aanstipvloeistof",
+  "code": "2227562",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pyralvex-aanstipvloeistof/p/2227562",
+  "listName": "Lister",
+  "brand": "Pyralvex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267504,
+      "name": "Aftenbehandeling"
+    }
+  ],
+  "description": "Geneesmiddel - 10ml",
+  "image": "/medias/prd-front-2227562-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mjg1NjN8aW1hZ2UvanBlZ3xhR1JoTDJoak9DOHhOakkxTkRZeE9EZzJNVFU1T0M5d2NtUXRabkp2Ym5RdE1qSXlOelUyTWkweFh6WXdNSGcyTURBfDY2ODk4MDA3ZWYzZTVjZTJlZGE4MmFhYjA0NWVjYWUzNDkxYTFmZmU3NDBjZDQxYzY4Yzk1MjMyMDkzOTllNTc"
+}

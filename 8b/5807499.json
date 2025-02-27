@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari Fruity Curls Mousse",
+  "code": "5807499",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-fruity-curls-mousse/p/5807499",
+  "listName": "Lister",
+  "brand": "Yari",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267491,
+      "name": "Haarmousse"
+    }
+  ],
+  "description": "220ml",
+  "image": "/medias/sys_master/prd-images/he0/h9a/28561763270686/prd-front-5807499-1_600x600/prd-front-5807499-1-600x600.jpg"
+}

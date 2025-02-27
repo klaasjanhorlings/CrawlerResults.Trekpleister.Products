@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Dailies Cotton Large Inlegkruisjes",
+  "code": "5531009",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 2979 > 3805",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027785",
+  "mmkId": "3027785",
+  "productGroupId": "457740",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-dailies-cotton-large-inlegkruisjes/p/5531009",
+  "listName": "Lister",
+  "brand": "Always Dailies",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267220,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/h24/hff/28578952183838/prd-front-5531009-1_600x600/prd-front-5531009-1-600x600.jpg"
+}

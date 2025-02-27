@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanature Pro Vivo 100% Katoenen Normaal Incontinentieverband",
+  "code": "5829108",
+  "price": "5.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "SANATURE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/sanature-pro-vivo-100-katoenen-normaal-incontinentieverband/p/5829108",
+  "listName": "Lister",
+  "brand": "Sanature",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267482,
+      "name": "Incontinentieverband"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 12 stuks",
+  "image": "/medias/sys_master/prd-images/hdc/hc5/28573859446814/prd-front-5829108-1_600x600/prd-front-5829108-1-600x600.jpg"
+}

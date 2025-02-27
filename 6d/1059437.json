@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Bodylotion",
+  "code": "1059437",
+  "price": "10.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 5713 > 5733 > 5714",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027799",
+  "mmkId": "3027799",
+  "productGroupId": "459074",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-bodylotion/p/1059437",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267194,
+      "name": "Bodylotion"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/ha1/h90/32828353380382/prd-front-1059437-1_600x600/prd-front-1059437-1-600x600.jpg"
+}

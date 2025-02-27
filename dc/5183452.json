@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister AA Alkaline Batterijen",
+  "code": "5183452",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "6013 > 2134 > 6145 > 6146 > 6147 > 2007",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-aa-alkaline-batterijen/p/5183452",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267106,
+      "name": "Batterijen"
+    }
+  ],
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/h64/hec/28785929617438/prd-front-5183452-1_600x600/prd-front-5183452-1-600x600.jpg"
+}

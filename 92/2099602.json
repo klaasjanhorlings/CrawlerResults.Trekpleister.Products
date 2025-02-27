@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schwarzkopf Repair & Care Shampoo",
+  "code": "2099602",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schwarzkopf-repair-care-shampoo/p/2099602",
+  "listName": "Lister",
+  "brand": "Schwarzkopf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h23/h71/32038873563166/prd-front-2099602-1_600x600/prd-front-2099602-1-600x600.jpg"
+}

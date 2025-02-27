@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari 100% Pure Conoconut Oil",
+  "code": "3019535",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-100-pure-conoconut-oil/p/3019535",
+  "listName": "Lister",
+  "brand": "Yari",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213498,
+      "name": "Haarolie"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/prd-front-3019535-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzIzNjZ8aW1hZ2UvanBlZ3xhRGxpTDJnMU5DOHhOakk1TkRnMk1qRTFPVGt3TWk5d2NtUXRabkp2Ym5RdE16QXhPVFV6TlMweFh6WXdNSGcyTURBfDJhYmI3MmQ0ODVjYTI1YzhmOTk2ZDhiZWY5NzU5NGZiN2Y0ODBmZjMzODVkZjdiYjJiYWY0NTlkMTVlNGU0Mzc"
+}

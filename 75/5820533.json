@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Normal Tampons",
+  "code": "5820533",
+  "price": "1.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3659",
+  "supplier": "ONTEX BVBA",
+  "inStock": "inStock",
+  "onPromo": "3027859",
+  "mmkId": "3027859",
+  "productGroupId": "466905",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-normal-tampons/p/5820533",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267218,
+      "name": "Tampons"
+    }
+  ],
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/h34/h47/28559336603678/prd-front-5820533-1_600x600/prd-front-5820533-1-600x600.jpg"
+}

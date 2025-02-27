@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Marcel's Green Soap Vanille & Katoen Vloeibaar Wasmiddel",
+  "code": "5996009",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "GREEN SOAP COMPANY BV",
+  "inStock": "inStock",
+  "onPromo": "3021955",
+  "mmkId": "3021955",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/marcels-green-soap-vanille-katoen-vloeibaar-wasmiddel/p/5996009",
+  "listName": "Lister",
+  "brand": "Marcel's Green Soap",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "3L, 69 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h6d/hf5/29956197449758/prd-front-5996009-1_600x600/prd-front-5996009-1-600x600.jpg"
+}

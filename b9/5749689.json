@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Avent Droogrek",
+  "code": "5749689",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-avent-droogrek/p/5749689",
+  "listName": "Lister",
+  "brand": "Philips Avent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30267364,
+      "name": "Babyaccessoires"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5749689-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTgxODJ8aW1hZ2UvanBlZ3xhREF3TDJnM1ppOHhOekEwT0RjM01UTXpNREEzT0M5d2NtUXRabkp2Ym5RdE5UYzBPVFk0T1MweFh6WXdNSGcyTURBfDgwYWI0ODZjZjA5ZjJiNWU2M2EwNzNlYjY5NTFkNDIyNWQ4MmYxMDU3YzUxNzcyYTI0MWNmMWQ0NzNiY2Y2Y2U"
+}

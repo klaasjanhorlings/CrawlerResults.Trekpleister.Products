@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Discreet voor Urineverlies Small Verband",
+  "code": "3231208",
+  "price": "4.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027787",
+  "mmkId": "3027787",
+  "productGroupId": "457747",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-discreet-voor-urineverlies-small-verband/p/3231208",
+  "listName": "Lister",
+  "brand": "Always Discreet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267482,
+      "name": "Incontinentieverband"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h04/h60/30360200642590/prd-front-3231208-1_600x600/prd-front-3231208-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Ninjago 71828 Lloyds Pull-Back Racewagen",
+  "code": "6226099",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-ninjago-71828-lloyds-pull-back-racewagen/p/6226099",
+  "listName": "Lister",
+  "brand": "LEGO Ninjago",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267369,
+      "name": "LEGO Ninjago"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hba/hba/33144351260702/prd-front-6226099-1_600x600/prd-front-6226099-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tena Silhouette Noir Normal Inlegkruisjes",
+  "code": "5163257",
+  "price": "4.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027778",
+  "mmkId": "3027778",
+  "productGroupId": "457391",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-silhouette-noir-normal-inlegkruisjes/p/5163257",
+  "listName": "Lister",
+  "brand": "Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267481,
+      "name": "Incontinentie-inlegkruisjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - zwart, 26 stuks",
+  "image": "/medias/sys_master/prd-images/h2b/he9/33389791150110/prd-front-5163257-1_600x600/prd-front-5163257-1-600x600.jpg"
+}

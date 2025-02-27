@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "HiPP 1 Bio Combiotik Zuigelingenmelk",
+  "code": "4230864",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
+  "supplier": "FRIQUEZ BV HIPP NEDERLA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hipp-1-bio-combiotik-zuigelingenmelk/p/4230864",
+  "listName": "Lister",
+  "brand": "Hipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267559,
+      "name": "Zuigelingenmelk"
+    }
+  ],
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/h9b/h97/28794167099422/prd-front-4230864-1_600x600/prd-front-4230864-1-600x600.jpg"
+}

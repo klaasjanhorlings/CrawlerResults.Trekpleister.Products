@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "B&B Katoen Bloem Italiaans Wasmiddel",
+  "code": "6199331",
+  "price": "8.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "B&B ITALIAANS WASPARFUM",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/b-b-katoen-bloem-italiaans-wasmiddel/p/6199331",
+  "listName": "Lister",
+  "brand": "B&B Italiaans Wasparfum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 49313699,
+      "name": "Wasparfum"
+    }
+  ],
+  "description": "1L",
+  "image": "/medias/sys_master/prd-images/h5c/hef/32483634642974/prd-front-6199331-1_600x600/prd-front-6199331-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "o.b. ProComfort Super Tampons",
+  "code": "5451118",
+  "price": "2.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3303 > 3660",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "3027775",
+  "mmkId": "3027775",
+  "productGroupId": "456232",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ob-procomfort-super-tampons/p/5451118",
+  "listName": "Lister",
+  "brand": "Ob",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267218,
+      "name": "Tampons"
+    }
+  ],
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h98/hc9/32017904533534/prd-front-5451118-1_600x600/prd-front-5451118-1-600x600.jpg"
+}

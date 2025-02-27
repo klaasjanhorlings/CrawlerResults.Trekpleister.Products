@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tempo Complete Care Zakdoekjes",
+  "code": "1532364",
+  "price": "3.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2537 > 3165 > 3758",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tempo-complete-care-zakdoekjes/p/1532364",
+  "listName": "Lister",
+  "brand": "Tempo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267125,
+      "name": "Tissues en zakdoekjes"
+    }
+  ],
+  "description": "10 x 9 stuks",
+  "image": "/medias/sys_master/prd-images/h76/h4a/30399086723102/prd-front-1532364-1_600x600/prd-front-1532364-1-600x600.jpg"
+}

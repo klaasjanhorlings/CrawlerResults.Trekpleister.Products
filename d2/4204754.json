@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "TePe Easypick Interdentale Borsteltjes",
+  "code": "4204754",
+  "price": "6.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
+  "supplier": "TEPE BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tepe-easypick-interdentale-borsteltjes/p/4204754",
+  "listName": "Lister",
+  "brand": "TePe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267224,
+      "name": "Tandenstokers"
+    }
+  ],
+  "description": "mt M/L, 36 stuks",
+  "image": "/medias/sys_master/prd-images/hc8/h1e/31271613202462/prd-front-4204754-1_600x600/prd-front-4204754-1-600x600.jpg"
+}

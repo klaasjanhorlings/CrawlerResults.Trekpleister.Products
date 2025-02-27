@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sheba Paté met Kip Nat Kattenvoer",
+  "code": "4813747",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2081 > 2239 > 2360 > 2911 > 4250",
+  "supplier": "MARS PETFOODS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sheba-pate-met-kip-nat-kattenvoer/p/4813747",
+  "listName": "Lister",
+  "brand": "Sheba",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267128,
+      "name": "Dier"
+    },
+    {
+      "id": 30267446,
+      "name": "Diervoeding"
+    }
+  ],
+  "description": "22 stuks",
+  "image": "/medias/prd-front-4813747-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzAxNzV8aW1hZ2UvanBlZ3xhR1V6TDJoaE55OHhOall4TlRVME1EWTROamczT0M5d2NtUXRabkp2Ym5RdE5EZ3hNemMwTnkweFh6WXdNSGcyTURBfDA5NDAwZGRkNDgyMDE1OTAwMTZjMTkxMGM2OTI3YmM2MTJjYzQ1OGVjMGVhY2M1ZDg0OWRlMGM3ZmI5ZDMzNzQ"
+}

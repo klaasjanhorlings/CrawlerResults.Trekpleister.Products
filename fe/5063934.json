@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Mach3 Turbo Scheersysteem",
+  "code": "5063934",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3880",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027886",
+  "mmkId": "3027886",
+  "productGroupId": "469338",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-mach3-turbo-scheersysteem/p/5063934",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267236,
+      "name": "Scheerapparaten"
+    }
+  ],
+  "description": "Inclusief 2 navulmesjes",
+  "image": "/medias/sys_master/prd-images/h87/h52/33334187524126/prd-front-5063934-1_600x600/prd-front-5063934-1-600x600.jpg"
+}

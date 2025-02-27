@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cantu Shea Butter Leave In Conditioning Repair Cream",
+  "code": "3019563",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "ORIGINAL ADDITIONS (BP)",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/cantu-shea-butter-leave-in-conditioning-repair-cream/p/3019563",
+  "listName": "Lister",
+  "brand": "Cantu",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49745451,
+      "name": "Leave-in conditioner"
+    }
+  ],
+  "description": "453ml",
+  "image": "/medias/prd-front-3019563-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTQwMzF8aW1hZ2UvanBlZ3xhRFpsTDJoa01TOHhOelU0TWpjMU1qVTVOVGs1T0M5d2NtUXRabkp2Ym5RdE16QXhPVFUyTXkweFh6WXdNSGcyTURBfDVlM2Y3MTViNjdiZmUwNGE2ZGYxYTE0YWFhMTRjYzg4MGE5MzJmZmIxNWIzMjhlMWFiZTRkYTE4NjVhMTM1NzE"
+}

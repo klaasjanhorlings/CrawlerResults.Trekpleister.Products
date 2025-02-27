@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Loving Blends Magnetic Charcoal Haarmasker",
+  "code": "5789488",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027951",
+  "mmkId": "3027951",
+  "productGroupId": "473512",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-loving-blends-magnetic-charcoal-haarmasker/p/5789488",
+  "listName": "Lister",
+  "brand": "Loving Blends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "340ml",
+  "image": "/medias/sys_master/prd-images/h0f/h2b/29789884284958/prd-front-5789488-1_600x600/prd-front-5789488-1-600x600.jpg"
+}

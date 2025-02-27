@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "DKNY Be Delicious Orchard Street Bodymist",
+  "code": "6086281",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "3027891",
+  "mmkId": "3027891",
+  "productGroupId": "470706",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dkny-be-delicious-orchard-street-bodymist/p/6086281",
+  "listName": "Lister",
+  "brand": "DKNY",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "250ml"
+}

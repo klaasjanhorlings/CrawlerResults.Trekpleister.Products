@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medela Ultra-Ademende Zoogkompressen",
+  "code": "6069187",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "MEDELA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medela-ultra-ademende-zoogkompressen/p/6069187",
+  "listName": "Lister",
+  "brand": "Medela",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30267363,
+      "name": "Zoogkompressen"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h36/hfe/30949046714398/prd-front-6069187-1_600x600/prd-front-6069187-1-600x600.jpg"
+}

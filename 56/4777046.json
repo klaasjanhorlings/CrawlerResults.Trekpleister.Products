@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Zen White Lotus Extra Dry 48H Antitranspirant Roller",
+  "code": "4777046",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3027777",
+  "mmkId": "3027777",
+  "productGroupId": "456946",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-zen-white-lotus-extra-dry-48h-antitranspirant-roller/p/4777046",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267200,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/hd8/hbb/29340275114014/prd-front-4777046-1_600x600/prd-front-4777046-1-600x600.jpg"
+}

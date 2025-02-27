@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swiffer Duster Startersset",
+  "code": "5733085",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2514 > 3128 > 3993",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027798",
+  "mmkId": "3027798",
+  "productGroupId": "458619",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/swiffer-duster-startersset/p/5733085",
+  "listName": "Lister",
+  "brand": "Swiffer",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430573,
+      "name": "Schoonmaakartikelen"
+    }
+  ],
+  "description": "1 + 4 stuks",
+  "image": "/medias/sys_master/prd-images/hd5/hb1/30750894227486/prd-front-5733085-1_600x600/prd-front-5733085-1-600x600.jpg"
+}

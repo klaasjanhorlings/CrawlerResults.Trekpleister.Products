@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Colgate Maximum Cariës Protection Tandpasta",
+  "code": "3586038",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/colgate-maximum-caries-protection-tandpasta/p/3586038",
+  "listName": "Lister",
+  "brand": "Colgate",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "3 x 75ml - Anti-cariës",
+  "image": "/medias/sys_master/prd-images/he8/h4c/31583661457438/prd-front-3586038-1_600x600/prd-front-3586038-1-600x600.jpg"
+}

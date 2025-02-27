@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Metamucil Orange Sachets",
+  "code": "4109127",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2759 > 3950",
+  "supplier": "P&G HEALTH BELGIUM BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/metamucil-orange-sachets/p/4109127",
+  "listName": "Lister",
+  "brand": "Metamucil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 30267534,
+      "name": "Stoelgang"
+    }
+  ],
+  "description": "Geneesmiddel - 30 stuks - Obstipatie",
+  "image": "/medias/prd-front-4109127-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTY1Mzd8aW1hZ2UvanBlZ3xhR00xTDJnek1pOHhOalkzTnpjNE1qTTRPRGMyTmk5d2NtUXRabkp2Ym5RdE5ERXdPVEV5TnkweFh6WXdNSGcyTURBfGUzYWU0YTE4MjdjYzA3OGY5NzAyZDZiZTllNzRkZjQ0ZDI4ZGMzNDM3YWFjMTVlNjBhMTM4NGQ0Y2UzYjNkNWU"
+}

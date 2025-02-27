@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "HG Kalkweg Schuimspray",
+  "code": "230741",
+  "price": "5.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3245 > 4136",
+  "supplier": "HG INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hg-kalkweg-schuimspray/p/230741",
+  "listName": "Lister",
+  "brand": "HG",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430604,
+      "name": "Ontkalkmiddel"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/prd-front-230741-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTY3MjV8aW1hZ2UvanBlZ3xhR1l5TDJnM1l5OHhOakl6TlRFMk1qRXdOemt6TkM5d2NtUXRabkp2Ym5RdE1qTXdOelF4TFRGZk5qQXdlRFl3TUF8YmM3YjY5OTNkMTljNzE4NTA4MDJjNzQ1ZTIzM2ZlZTVhMmU0ZDhjZjJhY2M1ZDI4NmI0NDQ0YTNlNjYyOTI2OA"
+}

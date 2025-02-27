@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corega Free Kleefcrème",
+  "code": "4421355",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 3270 > 4171",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corega-free-kleefcreme/p/4421355",
+  "listName": "Lister",
+  "brand": "Corega",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267230,
+      "name": "Kleefpasta"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 70g",
+  "image": "/medias/prd-front-4421355-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTk0NzF8aW1hZ2UvanBlZ3xhREV6TDJobU55OHhOalF5TWpNeE9UZ3hOamN6TkM5d2NtUXRabkp2Ym5RdE5EUXlNVE0xTlMweFh6WXdNSGcyTURBfDY2MzA2NjUzMzY4YzQ4YTUzNTBiZmZlZDJiMjgxMjc1NDQzOThhMDM2MzQ4YTkxOGJjZmFmODJhYTE3ZTdhZmE"
+}

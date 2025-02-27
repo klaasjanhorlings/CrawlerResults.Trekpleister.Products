@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Body & Mind Balance Douchegel",
+  "code": "5949760",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027759",
+  "mmkId": "3027759",
+  "productGroupId": "452791",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kneipp-body-mind-balance-douchegel/p/5949760",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267204,
+      "name": "Douchecrème"
+    }
+  ],
+  "description": "200ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hf3/h95/30356616609822/prd-front-5949760-1_600x600/prd-front-5949760-1-600x600.jpg"
+}

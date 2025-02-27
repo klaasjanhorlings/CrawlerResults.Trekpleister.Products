@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Age Perfect Collageen Expert Verstevigende Nachtcrème",
+  "code": "49872",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027831",
+  "mmkId": "3027831",
+  "productGroupId": "461855",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-age-perfect-collageen-expert-verstevigende-nachtcreme/p/49872",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h18/h67/29712595189790/prd-front-49872-1_600x600/prd-front-49872-1-600x600.jpg"
+}

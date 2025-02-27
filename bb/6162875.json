@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Valdispert Slaap & Fris Wakker Triple Layer Tabletten",
+  "code": "6162875",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/valdispert-slaap-fris-wakker-triple-layer-tabletten/p/6162875",
+  "listName": "Lister",
+  "brand": "Valdispert",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267281,
+      "name": "Rust en ontspanning"
+    }
+  ],
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/hf9/hf9/32793725501470/prd-front-6162875-1_600x600/prd-front-6162875-1-600x600.jpg"
+}

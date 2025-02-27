@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nestlé 6+M Vanille Pyjamapapje",
+  "code": "3689806",
+  "price": "3.25",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5678 > 5679",
+  "supplier": "NESTLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nestle-6m-vanille-pyjamapapje/p/3689806",
+  "listName": "Lister",
+  "brand": "Nestle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267329,
+      "name": "Babypap"
+    }
+  ],
+  "description": "3 x 250ml",
+  "image": "/medias/prd-front-3689806-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDc5NzB8aW1hZ2UvanBlZ3xhRFZoTDJnNE9TOHhOak14T0RZeU1qUTVPRGcwTmk5d2NtUXRabkp2Ym5RdE16WTRPVGd3TmkweFh6WXdNSGcyTURBfGE0Y2IxYjY4ODg5MWNlZGU2NDEwY2Y2NmI2Y2Y5YjU5YTVjNzMwYzNkODFiM2U5ODY4MTIzZGQyMGRmZTNjMzE"
+}

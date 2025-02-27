@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutricia Olvarit 12+M Hutspot met Bulgur en Kalkoen",
+  "code": "6150646",
+  "price": "1.74",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutricia-olvarit-12m-hutspot-met-bulgur-en-kalkoen/p/6150646",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267328,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267569,
+      "name": "12+ maanden"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h9b/h39/31569503485982/prd-front-6150646-1_600x600/prd-front-6150646-1-600x600.jpg"
+}

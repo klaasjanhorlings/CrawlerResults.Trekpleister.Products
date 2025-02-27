@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Star Wars 75349 Captain Rex Helm",
+  "code": "5958258",
+  "price": "64.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-star-wars-75349-captain-rex-helm/p/5958258",
+  "listName": "Lister",
+  "brand": "LEGO Star Wars",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267378,
+      "name": "LEGO Star Wars"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2a/h3d/28581340381214/prd-front-5958258-1_600x600/prd-front-5958258-1-600x600.jpg"
+}

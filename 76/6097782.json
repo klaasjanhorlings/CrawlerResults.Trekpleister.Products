@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London Wonder'Last 003 Copper Wink Shadow Stick",
+  "code": "6097782",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-wonderlast-003-copper-wink-shadow-stick/p/6097782",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267153,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30267469,
+      "name": "Mono oogschaduw"
+    }
+  ],
+  "description": "1,6g",
+  "image": "/medias/sys_master/prd-images/hd8/h04/31782741213214/prd-front-6097782-1_600x600/prd-front-6097782-1-600x600.jpg"
+}

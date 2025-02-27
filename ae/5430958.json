@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari Green Curls Curling Mousse",
+  "code": "5430958",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5918 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3027904",
+  "mmkId": "3027904",
+  "productGroupId": "474296",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-green-curls-curling-mousse/p/5430958",
+  "listName": "Lister",
+  "brand": "Yari Green Curls",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267491,
+      "name": "Haarmousse"
+    }
+  ],
+  "description": "220ml",
+  "image": "/medias/sys_master/prd-images/h04/hcf/28796161523742/prd-front-5430958-1_600x600/prd-front-5430958-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mielle Pomegranate & Honey Smoothie",
+  "code": "5431084",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/mielle-pomegranate-honey-smoothie/p/5431084",
+  "listName": "Lister",
+  "brand": "Mielle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 82417106,
+      "name": "Krullenverzorging"
+    }
+  ],
+  "description": "355ml",
+  "image": "/medias/prd-front-5431084-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjU3Njl8aW1hZ2UvanBlZ3xhRFpsTDJnMVl5OHhOekEyTlRnM05qWXhPVEk1TkM5d2NtUXRabkp2Ym5RdE5UUXpNVEE0TkMweFh6WXdNSGcyTURBfDk3Y2UyYWI2MjhjYzI4Zjg1M2FjMDAwOTY3NzYyNGFlYjY3NWFmOWIwYTFmNzFjZjM0OTRjMmJkZjdhNmFkNzc"
+}

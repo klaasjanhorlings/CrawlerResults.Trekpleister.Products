@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Special Klei Fris & Zuiver Conditioner",
+  "code": "5858774",
+  "price": "6.15",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027857",
+  "mmkId": "3027857",
+  "productGroupId": "466488",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-special-klei-fris-zuiver-conditioner/p/5858774",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h7f/h3d/28557433176094/prd-front-5858774-1_600x600/prd-front-5858774-1-600x600.jpg"
+}

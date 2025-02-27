@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pu Erh Thee",
+  "code": "5885780",
+  "price": "2.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2630 > 2947 > 3743",
+  "supplier": "OSTFRIES TEE GESELLSCH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/pu-erh-thee/p/5885780",
+  "listName": "Lister",
+  "brand": "Pu Erh",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267444,
+      "name": "Thee"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hfd/hd6/28582782271518/prd-front-5885780-1_600x600/prd-front-5885780-1-600x600.jpg"
+}

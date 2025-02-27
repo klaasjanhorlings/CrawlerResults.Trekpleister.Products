@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Otrivin Xylometazoline HCI 1 mg/ml Neusspray",
+  "code": "76338",
+  "price": "6.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/otrivin-xylometazoline-hci-1-mg/ml-neusspray/p/76338",
+  "listName": "Lister",
+  "brand": "Otrivin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267518,
+      "name": "Neusspray"
+    }
+  ],
+  "description": "Geneesmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/hbf/hba/31793949376542/prd-front-76338-1_600x600/prd-front-76338-1-600x600.jpg"
+}

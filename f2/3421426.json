@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lactacyd Verfrissende Intiem Tissues",
+  "code": "3421426",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lactacyd-verfrissende-intiem-tissues/p/3421426",
+  "listName": "Lister",
+  "brand": "Lactacyd",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267222,
+      "name": "Intieme hygiëne"
+    }
+  ],
+  "description": "15 stuks - Intiem verzorging",
+  "image": "/medias/prd-front-3421426-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjU4NjN8aW1hZ2UvanBlZ3xhRFUzTDJnMk1pOHlOalEwTkRNMU9ERTRPVEE0Tmk5d2NtUXRabkp2Ym5RdE16UXlNVFF5TmkweFh6WXdNSGcyTURBfDQ2Mzc0YTZjOTI1OGVkMDU4MDAyZWU5MGM0MDhhZTNjMWZhODY1OTUyOGIyNDllMTczZGUwODM0ODRkOGE2MjY"
+}

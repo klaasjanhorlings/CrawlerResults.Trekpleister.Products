@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Black & White Invisible Original Antitranspirant Spray",
+  "code": "5435102",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-black-white-invisible-original-antitranspirant-spray/p/5435102",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "2 x 150ml",
+  "image": "/medias/prd-front-5435102-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzA2MTR8aW1hZ2UvanBlZ3xhREZsTDJnM05pOHhOekEyTmpFek1EZ3dNRFkzTUM5d2NtUXRabkp2Ym5RdE5UUXpOVEV3TWkweFh6WXdNSGcyTURBfDM5NWFkNDczOWNlMmY1MDQzNTgwNGJiYjQ5N2YzZjI1M2QyMDU2Yjk4ZWI0ZWY0YzU1NmI5NmZlY2YyZGM2OGU"
+}

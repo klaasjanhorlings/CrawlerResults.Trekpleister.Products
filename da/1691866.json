@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bional Prostavit Forte Capsules",
+  "code": "1691866",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6202 > 6220 > 6278",
+  "supplier": "OCE BIO NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bional-prostavit-forte-capsules/p/1691866",
+  "listName": "Lister",
+  "brand": "Bional",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267277,
+      "name": "Prostaatsupplementen"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/he9/hc3/28575492472862/prd-front-1691866-1_600x600/prd-front-1691866-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Paracetamol met Coffeïne 500 Mg / 50 Mg Tabletten",
+  "code": "1027013",
+  "price": "3.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6157 > 6176",
+  "supplier": "AUROBINDO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-paracetamol-met-coffeine-500-mg-/-50-mg-tabletten/p/1027013",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267525,
+      "name": "Paracetamol"
+    }
+  ],
+  "description": "Geneesmiddel - 50 stuks",
+  "image": "/medias/prd-front-1027013-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjY5OTV8aW1hZ2UvanBlZ3xhR1psTDJnME5DOHhOak14TmpNME9USXhPRGcwTmk5d2NtUXRabkp2Ym5RdE1UQXlOekF4TXkweFh6WXdNSGcyTURBfDliOWY4ZDdjZWFkODVlYTNiM2I0ZDNlOWUxNDEzY2Y1NjRjMmFiYWQzNzllZTJlZGFlYTlhNzc1YThlZWNiZmE"
+}

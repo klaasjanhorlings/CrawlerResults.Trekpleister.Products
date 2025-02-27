@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tristar Elektrische Fleecedeken",
+  "code": "5911428",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 6686 > 6687 > 6688",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tristar-elektrische-fleecedeken/p/5911428",
+  "listName": "Lister",
+  "brand": "Tristar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 51235487,
+      "name": "Kachels"
+    }
+  ],
+  "description": "180cm x 120cm",
+  "image": "/medias/sys_master/prd-images/h2d/h67/31729720524830/prd-front-5911428-1_600x600/prd-front-5911428-1-600x600.jpg"
+}

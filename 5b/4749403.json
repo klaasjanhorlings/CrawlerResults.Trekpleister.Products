@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Pre & Pro Biotica Capsules",
+  "code": "4749403",
+  "price": "21.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-pre-pro-biotica-capsules/p/4749403",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49364064,
+      "name": "Prebiotica"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/prd-front-4749403-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDI2MTh8aW1hZ2UvanBlZ3xhREZsTDJnME55OHhOalU1TlRJeU56ZzJPVEl4TkM5d2NtUXRabkp2Ym5RdE5EYzBPVFF3TXkweFh6WXdNSGcyTURBfGZiYTUxZmZiMjU1ZWM4NDRkZTFiNjk3YjBlYzVjMjY0MDAzOWZkZjE3OWI1Y2Y4ZmJjODliZDM3MmM0YjczYjY"
+}

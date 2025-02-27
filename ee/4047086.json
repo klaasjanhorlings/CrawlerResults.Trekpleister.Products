@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SYOSS Men Power Hold Extreme Styling Paste",
+  "code": "4047086",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3027854",
+  "mmkId": "3027854",
+  "productGroupId": "466332",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-men-power-hold-extreme-styling-paste/p/4047086",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267486,
+      "name": "Haarwax"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h4a/hde/32808174682142/prd-front-4047086-1_600x600/prd-front-4047086-1-600x600.jpg"
+}

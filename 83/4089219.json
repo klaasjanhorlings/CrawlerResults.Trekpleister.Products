@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sensodyne Deep Clean Extra Soft Tandenborstel voor Gevoelige Tanden",
+  "code": "4089219",
+  "price": "4.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 4129",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3027868",
+  "mmkId": "3027868",
+  "productGroupId": "467541",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sensodyne-deep-clean-extra-soft-tandenborstel-voor-gevoelige-tanden/p/4089219",
+  "listName": "Lister",
+  "brand": "Sensodyne",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267228,
+      "name": "Tandenborstels"
+    }
+  ],
+  "description": ""
+}

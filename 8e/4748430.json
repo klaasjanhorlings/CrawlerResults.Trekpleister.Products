@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Japanse Q10 Capsules",
+  "code": "4748430",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6197 > 6215 > 6253",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-japanse-q10-capsules/p/4748430",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267274,
+      "name": "Weerstand en of energie"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/prd-front-4748430-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzEwNjJ8aW1hZ2UvanBlZ3xhRFZqTDJnM05DOHhOalU1TlRJeU9URTBOekUyTmk5d2NtUXRabkp2Ym5RdE5EYzBPRFF6TUMweFh6WXdNSGcyTURBfDkzMTRkNDAwYjY1YTI2MmM1MmQyNjczNWJiOWM5Yzg5MmUxMDYzMWRhZmIwOTYwMTI2ZTRhMDI4N2M1MWFiY2I"
+}

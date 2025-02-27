@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Cellular Expert Filler Anti-Age Oog- en Lipcontourcrème",
+  "code": "2785707",
+  "price": "33.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027837",
+  "mmkId": "3027837",
+  "productGroupId": "462499",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-cellular-expert-filler-anti-age-oog-en-lipcontourcreme/p/2785707",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267161,
+      "name": "Oogcreme"
+    }
+  ],
+  "description": "15ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/he4/h94/32905576054814/prd-front-2785707-1_600x600/prd-front-2785707-1-600x600.jpg"
+}

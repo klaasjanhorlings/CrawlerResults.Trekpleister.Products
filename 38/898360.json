@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tena Lady Discreet Mini Magic Inlegkruisjes",
+  "code": "898360",
+  "price": "4.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3027778",
+  "mmkId": "3027778",
+  "productGroupId": "457391",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-lady-discreet-mini-magic-inlegkruisjes/p/898360",
+  "listName": "Lister",
+  "brand": "Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267481,
+      "name": "Incontinentie-inlegkruisjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 34 stuks",
+  "image": "/medias/sys_master/prd-images/h7c/h28/29087850266654/prd-front-898360-1_600x600/prd-front-898360-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Pink Styling Shape Your Curl Gelspray",
+  "code": "3674931",
+  "price": "7.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2933 > 3728",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027857",
+  "mmkId": "3027857",
+  "productGroupId": "466488",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-pink-styling-shape-your-curl-gelspray/p/3674931",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/he1/hb3/28820913422366/prd-front-3674931-1_600x600/prd-front-3674931-1-600x600.jpg"
+}

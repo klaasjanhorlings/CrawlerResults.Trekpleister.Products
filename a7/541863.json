@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nestlé Yogolino 6+M Aardbei Babydessert",
+  "code": "541863",
+  "price": "3.25",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5678 > 5679",
+  "supplier": "NESTLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nestle-yogolino-6m-aardbei-babydessert/p/541863",
+  "listName": "Lister",
+  "brand": "Nestle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267564,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "4 x 100g",
+  "image": "/medias/prd-front-541863-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTM4MjY1fGltYWdlL2pwZWd8YUdJeUwyZzJNeTh5TmpRME5EQXpNVEEyTmpFME1pOXdjbVF0Wm5KdmJuUXROVFF4T0RZekxURmZOakF3ZURZd01BfDA3YmUxM2FmNjY1MTg4MjJkZWRhNGRmOGFmYjhhNTcyZjA5MjdkN2U0MzhhYTc3YTI5NmFmNzVhYTZkMzY1NzE"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leukoplast Elastomull Fixatiewinsel",
+  "code": "5933534",
+  "price": "1.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2732 > 3651",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3027887",
+  "mmkId": "3027887",
+  "productGroupId": "469869",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/leukoplast-elastomull-fixatiewinsel/p/5933534",
+  "listName": "Lister",
+  "brand": "Leukoplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267294,
+      "name": "Bandages en windsels"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 8cm x 4m",
+  "image": "/medias/sys_master/prd-images/h26/he5/28572756279326/prd-front-5933534-1_600x600/prd-front-5933534-1-600x600.jpg"
+}

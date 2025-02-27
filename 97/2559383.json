@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 12+M Acht Granen Ontbijtpap",
+  "code": "2559383",
+  "price": "2.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 5682 > 5683",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-12m-acht-granen-ontbijtpap/p/2559383",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267329,
+      "name": "Babypap"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h1c/hf1/30686875877406/prd-front-2559383-1_600x600/prd-front-2559383-1-600x600.jpg"
+}

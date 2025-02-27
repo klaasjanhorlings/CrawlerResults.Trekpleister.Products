@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Venus Satin Care Scheergel voor de Gevoelige Huid",
+  "code": "1816214",
+  "price": "5.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 5717 > 5718 > 5719",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-venus-satin-care-scheergel-voor-de-gevoelige-huid/p/1816214",
+  "listName": "Lister",
+  "brand": "Gillette Venus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267238,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h67/h4c/28575755927582/prd-front-1816214-1_600x600/prd-front-1816214-1-600x600.jpg"
+}

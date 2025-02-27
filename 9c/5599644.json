@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L’Oréal Paris Revitalift Filler Verkoelend Oogserum Masker",
+  "code": "5599644",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027831",
+  "mmkId": "3027831",
+  "productGroupId": "461855",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-revitalift-filler-verkoelend-oogserum-masker/p/5599644",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "11g",
+  "image": "/medias/sys_master/prd-images/h0d/h1f/29709764591646/prd-front-5599644-1_600x600/prd-front-5599644-1-600x600.jpg"
+}

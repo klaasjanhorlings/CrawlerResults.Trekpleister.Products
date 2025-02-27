@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Natterman Droge Hoest & Keelpijn 2-in-1 Siroop",
+  "code": "5221427",
+  "price": "13.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027802",
+  "mmkId": "3027802",
+  "productGroupId": "459448",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/natterman-droge-hoest-keelpijn-2-in-1-siroop/p/5221427",
+  "listName": "Lister",
+  "brand": "Natterman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267523,
+      "name": "Hoestsiropen"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 150ml",
+  "image": "/medias/sys_master/prd-images/hab/h8c/32893910712350/prd-front-5221427-1_600x600/prd-front-5221427-1-600x600.jpg"
+}

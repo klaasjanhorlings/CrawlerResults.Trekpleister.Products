@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Noorse Formule Ultrarijke Voetcrème",
+  "code": "5919975",
+  "price": "15.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2834 > 3576",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-noorse-formule-ultrarijke-voetcreme/p/5919975",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48238489,
+      "name": "Voetcrème"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hde/h11/30690470854686/prd-front-5919975-1_600x600/prd-front-5919975-1-600x600.jpg"
+}

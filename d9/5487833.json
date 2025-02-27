@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WeCare Choco Coconut Lower Carb Bar",
+  "code": "5487833",
+  "price": "2.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6647",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wecare-choco-coconut-lower-carb-bar/p/5487833",
+  "listName": "Lister",
+  "brand": "WeCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 49431794,
+      "name": "Koolhydraatarm"
+    }
+  ],
+  "description": "35g",
+  "image": "/medias/sys_master/prd-images/h7f/h37/31688166735902/prd-front-5487833-1_600x600/prd-front-5487833-1-600x600.jpg"
+}

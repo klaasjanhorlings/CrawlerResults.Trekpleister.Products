@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Odorex Extra Dry Antitranspirant Spray",
+  "code": "1453502",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3067 > 3681",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/odorex-extra-dry-antitranspirant-spray/p/1453502",
+  "listName": "Lister",
+  "brand": "Odorex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267203,
+      "name": "Overmatig transpireren"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/prd-front-1453502-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA4NTZ8aW1hZ2UvanBlZ3xhR0k1TDJnMllpOHhOalkzTVRnME5Ua3dPRFV4TUM5d2NtUXRabkp2Ym5RdE1UUTFNelV3TWkweFh6WXdNSGcyTURBfDY0NWI1Y2M2ZTM0YmUwMjhmODE5NGIyMzgwZDNjNThlMDhjOGM3N2U2YTU1YWZhNWZmYTA0ZTU0M2Y1MzcxOTM"
+}

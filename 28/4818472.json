@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "HeltiQ Kraampakket",
+  "code": "4818472",
+  "price": "35.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "UTERMOHLEN",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/heltiq-kraampakket/p/4818472",
+  "listName": "Lister",
+  "brand": "Heltiq",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30267362,
+      "name": "Mama verzorgingsproducten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4818472-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzAwMDV8aW1hZ2UvanBlZ3xhRE01TDJobU1pOHhOelV6T0RZME16a3hPRGczT0M5d2NtUXRabkp2Ym5RdE5EZ3hPRFEzTWkweFh6WXdNSGcyTURBfDVlMGRhNWQ1NzNhN2U2NzQzNTA1NWYyZmZmOWUxZjhiMGYwNWQzMzViMDBjMTFjNWQ3ODY5YTljMzQyYjU5YWY"
+}

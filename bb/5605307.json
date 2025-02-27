@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "DermaXPro by Head & Shoulders Hydrateert Antiroosshampoo",
+  "code": "5605307",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027813",
+  "mmkId": "3027813",
+  "productGroupId": "460011",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dermaxpro-by-head-shoulders-hydrateert-antiroosshampoo/p/5605307",
+  "listName": "Lister",
+  "brand": "Head & Shoulders",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "225ml",
+  "image": "/medias/sys_master/prd-images/hca/h6a/33116239298590/prd-front-5605307-1_600x600/prd-front-5605307-1-600x600.jpg"
+}

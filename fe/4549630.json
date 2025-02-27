@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Multi+ Compleet Vrouw Tabletten",
+  "code": "4549630",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-multi-compleet-vrouw-tabletten/p/4549630",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267274,
+      "name": "Weerstand en of energie"
+    }
+  ],
+  "description": "40 stuks",
+  "image": "/medias/prd-front-4549630-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTA3Mzd8aW1hZ2UvanBlZ3xhRFU0TDJoaE9TOHhOalU0TURBNE1EY3pNREUwTWk5d2NtUXRabkp2Ym5RdE5EVTBPVFl6TUMweFh6WXdNSGcyTURBfGQ3NmNlOWUxZDk1MWYxMGZjYTZlYTgzZGYyZjAwNDY0MjJlMDcwM2I5NjQyMDc4ZWZlOWZjY2RiNzQ4NjMwYmE"
+}

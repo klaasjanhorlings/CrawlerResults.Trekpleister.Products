@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Anti-Allergie Neusspray",
+  "code": "5165196",
+  "price": "6.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 4146",
+  "supplier": "MAE HOLDING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-anti-allergie-neusspray/p/5165196",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267258,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30267511,
+      "name": "Hooikoorts neussprays"
+    }
+  ],
+  "description": "Geneesmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/he1/hc3/29032181334046/prd-front-5165196-1_600x600/prd-front-5165196-1-600x600.jpg"
+}

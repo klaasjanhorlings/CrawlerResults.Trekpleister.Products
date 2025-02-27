@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Remington CI5538 Pro Big Curl Krultang",
+  "code": "4975251",
+  "price": "29.99",
+  "priceOriginal": "39.99",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6427",
+  "supplier": "SPECTRUM BRANDS BENELUX",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/remington-ci5538-pro-big-curl-krultang/p/4975251",
+  "listName": "Lister",
+  "brand": "Remington",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267496,
+      "name": "Krultangen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hce/h6c/28577916780574/prd-front-4975251-1_600x600/prd-front-4975251-1-600x600.jpg"
+}

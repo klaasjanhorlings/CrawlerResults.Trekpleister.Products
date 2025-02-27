@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Harmonie Protect & Care Calendula Babydoekjes",
+  "code": "6031065",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027905",
+  "mmkId": "3027905",
+  "productGroupId": "476150",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-harmonie-protect-care-calendula-babydoekjes/p/6031065",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "9 x 44 stuks",
+  "image": "/medias/sys_master/prd-images/hc6/h8d/31522884190238/prd-front-6031065-1_600x600/prd-front-6031065-1-600x600.jpg"
+}

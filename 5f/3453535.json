@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Similasan Droge Ogen Oogdruppels",
+  "code": "3453535",
+  "price": "13.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3114 > 3611",
+  "supplier": "BENCKMAR BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/similasan-droge-ogen-oogdruppels/p/3453535",
+  "listName": "Lister",
+  "brand": "Similasan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267064,
+      "name": "Optiek"
+    },
+    {
+      "id": 30267316,
+      "name": "Oogdruppels"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/hb3/he8/28817461280798/prd-front-3453535-1_600x600/prd-front-3453535-1-600x600.jpg"
+}

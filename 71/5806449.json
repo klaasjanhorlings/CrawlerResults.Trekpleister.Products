@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Ambre Solaire Natural Bronzer Zelfbruinende Gezichtsdruppels",
+  "code": "5806449",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027902",
+  "mmkId": "3027902",
+  "productGroupId": "473013",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-ambre-solaire-natural-bronzer-zelfbruinende-gezichtsdruppels/p/5806449",
+  "listName": "Lister",
+  "brand": "Garnier Ambre Solaire",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267216,
+      "name": "Zelfbruiners"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h65/hab/33498682163230/prd-front-5806449-1_600x600/prd-front-5806449-1-600x600.jpg"
+}

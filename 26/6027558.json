@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Labello Disney Mickey And Friends Original Lippenbalsem",
+  "code": "6027558",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
+  "supplier": "BEIERSDORF NV BL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/labello-disney-mickey-and-friends-original-lippenbalsem/p/6027558",
+  "listName": "Lister",
+  "brand": "Labello",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267166,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "4,8g",
+  "image": "/medias/sys_master/prd-images/h73/h54/32902654820382/prd-front-6027558-1_600x600/prd-front-6027558-1-600x600.jpg"
+}

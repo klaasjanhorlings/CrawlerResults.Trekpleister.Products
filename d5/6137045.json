@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rascal + Friends Maat 5 Premium Luiers",
+  "code": "6137045",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
+  "supplier": "ZURU NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/rascal-friends-maat-5-premium-luiers/p/6137045",
+  "listName": "Lister",
+  "brand": "Rascal + Friends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267345,
+      "name": "Luiers maat 5"
+    }
+  ],
+  "description": "mt 5 (13-18kg), 26 stuks",
+  "image": "/medias/sys_master/prd-images/h6d/h20/33270680125470/prd-front-6137045-1_600x600/prd-front-6137045-1-600x600.jpg"
+}

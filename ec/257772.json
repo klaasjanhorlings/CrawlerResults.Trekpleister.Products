@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Freeman Facial Clay Mask Avocado & Oatmeal Gezichtsmasker",
+  "code": "257772",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/freeman-facial-clay-mask-avocado-oatmeal-gezichtsmasker/p/257772",
+  "listName": "Lister",
+  "brand": "Freeman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "175ml - Normale tot vette huid",
+  "image": "/medias/sys_master/prd-images/hd7/h46/28762108657694/prd-front-257772-1_600x600/prd-front-257772-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Saffieren Nagelvijl",
+  "code": "5535027",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6330",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-saffieren-nagelvijl/p/5535027",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267191,
+      "name": "Nagelvijlen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5535027-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA2OTJ8aW1hZ2UvanBlZ3xhRGd3TDJoa05TOHhOekEyT0RneE5qSTJPVE0wTWk5d2NtUXRabkp2Ym5RdE5UVXpOVEF5TnkweFh6WXdNSGcyTURBfDM5MDRiNTUxYzViZTZlNzEzNjI4NWVhNWQ3YTVjNTkzNTU1NjVkMmZlNzhlNjNlOWE0OWE1NmY2NWQ4Mzg3NWQ"
+}

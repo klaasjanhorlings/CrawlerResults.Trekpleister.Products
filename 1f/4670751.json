@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 12+M Maaltijd Variatiemenu",
+  "code": "4670751",
+  "price": "20.88",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 3025 > 3850",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-12m-maaltijd-variatiemenu/p/4670751",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267328,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267569,
+      "name": "12+ maanden"
+    }
+  ],
+  "description": "12 x 250g",
+  "image": "/medias/sys_master/prd-images/hfb/hce/30689460256798/prd-front-4670751-1_600x600/prd-front-4670751-1-600x600.jpg"
+}

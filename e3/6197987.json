@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Series 8 8517s Elektrisch Scheerapparaat",
+  "code": "6197987",
+  "price": "309.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6441",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-series-8-8517s-elektrisch-scheerapparaat/p/6197987",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267237,
+      "name": "Elektrische scheerapparaten"
+    }
+  ],
+  "description": "zilverkleur",
+  "image": "/medias/sys_master/prd-images/h80/h9b/32943655583774/prd-front-6197987-1_600x600/prd-front-6197987-1-600x600.jpg"
+}

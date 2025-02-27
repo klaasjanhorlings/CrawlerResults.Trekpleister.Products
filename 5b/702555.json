@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Antitranspirant Behandelspray",
+  "code": "702555",
+  "price": "20.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3027777",
+  "mmkId": "3027777",
+  "productGroupId": "456946",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-antitranspirant-behandelspray/p/702555",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267203,
+      "name": "Overmatig transpireren"
+    }
+  ],
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/he0/h76/29339206582302/prd-front-702555-1_600x600/prd-front-702555-1-600x600.jpg"
+}

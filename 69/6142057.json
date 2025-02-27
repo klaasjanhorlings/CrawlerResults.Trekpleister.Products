@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips OneBlade Intimate Female QP1924/22 Scheerapparaat en Trimmer",
+  "code": "6142057",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 2816 > 3789",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "3027882",
+  "mmkId": "3027882",
+  "productGroupId": "469320",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-oneblade-intimate-female-qp1924/22-scheerapparaat-en-trimmer/p/6142057",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267241,
+      "name": "Multigroomers"
+    }
+  ],
+  "description": "1 stuk",
+  "image": "/medias/sys_master/prd-images/hdd/hb1/31661008584734/prd-front-6142057-1_600x600/prd-front-6142057-1-600x600.jpg"
+}

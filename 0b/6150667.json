@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutricia Olvarit 8M+ Courgetteschotel met Kalfsvlees",
+  "code": "6150667",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutricia-olvarit-8m-courgetteschotel-met-kalfsvlees/p/6150667",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267328,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267568,
+      "name": "8+ maanden"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h79/h83/31565298696222/prd-front-6150667-1_600x600/prd-front-6150667-1-600x600.jpg"
+}

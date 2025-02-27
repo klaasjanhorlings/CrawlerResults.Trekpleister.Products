@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Supradyn Complex Forte Tabletten",
+  "code": "1290010",
+  "price": "14.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "3027839",
+  "mmkId": "3027839",
+  "productGroupId": "463365",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/supradyn-complex-forte-tabletten/p/1290010",
+  "listName": "Lister",
+  "brand": "Supradyn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267274,
+      "name": "Weerstand en of energie"
+    }
+  ],
+  "description": "35 stuks",
+  "image": "/medias/sys_master/prd-images/h85/ha0/32491632001054/prd-front-1290010-1_600x600/prd-front-1290010-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Melatonine 5mg Tabletten",
+  "code": "5571693",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6594",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-melatonine-5mg-tabletten/p/5571693",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267270,
+      "name": "Melatonine"
+    }
+  ],
+  "description": "Geneesmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/hcc/h90/28558110916638/prd-front-5571693-1_600x600/prd-front-5571693-1-600x600.jpg"
+}

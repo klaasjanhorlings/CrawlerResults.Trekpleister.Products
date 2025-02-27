@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ella's Kitchen 4+M Perziken En Bananen Pureehapje",
+  "code": "5962850",
+  "price": "1.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 2920 > 3715",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ellas-kitchen-4m-perziken-en-bananen-pureehapje/p/5962850",
+  "listName": "Lister",
+  "brand": "Ella's Kitchen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267563,
+      "name": "4 maanden +"
+    }
+  ],
+  "description": "120g",
+  "image": "/medias/sys_master/prd-images/he5/h7f/28826076938270/prd-front-5962850-1_600x600/prd-front-5962850-1-600x600.jpg"
+}

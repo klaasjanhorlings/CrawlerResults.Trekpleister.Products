@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Extra Strong Waterproof Pleisters",
+  "code": "2477616",
+  "price": "4.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4247",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hansaplast-extra-strong-waterproof-pleisters/p/2477616",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267296,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414262,
+      "name": "Waterbestendige pleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/he0/hb0/32901499322398/prd-front-2477616-1_600x600/prd-front-2477616-1-600x600.jpg"
+}

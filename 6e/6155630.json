@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tease & Please Touch Me Spel",
+  "code": "6155630",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 6463 > 6464 > 6401",
+  "supplier": "ONE-DC B.V.",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tease-please-touch-me-spel/p/6155630",
+  "listName": "Lister",
+  "brand": "Tease & Please",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267062,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30267304,
+      "name": "Seksspeeltjes"
+    },
+    {
+      "id": 30267556,
+      "name": "Vibrator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h41/h01/31697414225950/prd-front-6155630-1_600x600/prd-front-6155630-1-600x600.jpg"
+}

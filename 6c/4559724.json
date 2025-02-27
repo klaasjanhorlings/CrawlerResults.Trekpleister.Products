@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swiss Point of Care On Call Extra Glucosemeter",
+  "code": "4559724",
+  "price": "13.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6677",
+  "supplier": "SWISS POINT OF CARE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/swiss-point-of-care-on-call-extra-glucosemeter/p/4559724",
+  "listName": "Lister",
+  "brand": "Swiss Point of Care",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 30267322,
+      "name": "Bloedsuikermeters"
+    }
+  ],
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h96/h71/30779891154974/prd-front-4559724-1_600x600/prd-front-4559724-1-600x600.jpg"
+}

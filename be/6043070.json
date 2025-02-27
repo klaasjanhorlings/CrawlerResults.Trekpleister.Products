@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nip + Fab Ceramide Fix Overnight Nachtcrème 12%",
+  "code": "6043070",
+  "price": "34.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "NIP + FAB",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nip-fab-ceramide-fix-overnight-nachtcreme-12/p/6043070",
+  "listName": "Lister",
+  "brand": "NIP+FAB",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml, rijpe huid",
+  "image": "/medias/sys_master/prd-images/h15/h2f/30117455200286/prd-front-6043070-1_600x600/prd-front-6043070-1-600x600.jpg"
+}

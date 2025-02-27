@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Dailies Fresh Slim Flexistyle Inlegkruisjes",
+  "code": "5861042",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027785",
+  "mmkId": "3027785",
+  "productGroupId": "457740",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-dailies-fresh-slim-flexistyle-inlegkruisjes/p/5861042",
+  "listName": "Lister",
+  "brand": "Always Dailies",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267220,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hea/hc2/31875848765470/prd-front-5861042-1_600x600/prd-front-5861042-1-600x600.jpg"
+}

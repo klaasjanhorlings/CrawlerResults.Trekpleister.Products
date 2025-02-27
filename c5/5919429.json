@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "XXL Nutrition Whey Delicious Vanille Eiwitshake",
+  "code": "5919429",
+  "price": "16.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
+  "supplier": "XXL INTERNATIONAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/xxl-nutrition-whey-delicious-vanille-eiwitshake/p/5919429",
+  "listName": "Lister",
+  "brand": "XXL Nutrition",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267307,
+      "name": "Proteïne (eiwit) poeders"
+    }
+  ],
+  "description": "450g",
+  "image": "/medias/sys_master/prd-images/hef/h3c/28574084464670/prd-front-5919429-1_600x600/prd-front-5919429-1-600x600.jpg"
+}

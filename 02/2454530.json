@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Unicura Balance Handzeep Navulling",
+  "code": "2454530",
+  "price": "2.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3916",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027821",
+  "mmkId": "3027821",
+  "productGroupId": "460846",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/unicura-balance-handzeep-navulling/p/2454530",
+  "listName": "Lister",
+  "brand": "Unicura",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267246,
+      "name": "Handzeep"
+    }
+  ],
+  "description": "250ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h89/hdb/31458516434974/prd-front-2454530-1_600x600/prd-front-2454530-1-600x600.jpg"
+}

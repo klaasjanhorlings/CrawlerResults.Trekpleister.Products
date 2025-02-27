@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Waterproof Oogmake-Up Remover",
+  "code": "1307090",
+  "price": "8.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3027949",
+  "mmkId": "3027949",
+  "productGroupId": "469300",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-waterproof-oogmake-up-remover/p/1307090",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267477,
+      "name": "Oogmake-up remover"
+    }
+  ],
+  "description": "125ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hca/h6a/32866162835486/prd-front-1307090-1_600x600/prd-front-1307090-1-600x600.jpg"
+}

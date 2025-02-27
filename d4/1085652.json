@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wella New Wave Ultra Strong Power Hold Haargel Spray",
+  "code": "1085652",
+  "price": "4.65",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2933 > 3728",
+  "supplier": "WELLA COMPANY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wella-new-wave-ultra-strong-power-hold-haargel-spray/p/1085652",
+  "listName": "Lister",
+  "brand": "Wella New Wave",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267492,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hdd/h02/28549775392798/prd-front-1085652-1_600x600/prd-front-1085652-1-600x600.jpg"
+}

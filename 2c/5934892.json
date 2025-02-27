@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Simple Skin Booster 10% Niacinamide (Vitamine B3) + B5 Serum",
+  "code": "5934892",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/simple-skin-booster-10-niacinamide-vitamine-b3-b5-serum/p/5934892",
+  "listName": "Lister",
+  "brand": "Simple",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
+    }
+  ],
+  "description": "30ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h41/hd7/28659313049630/prd-front-5934892-1_600x600/prd-front-5934892-1-600x600.jpg"
+}

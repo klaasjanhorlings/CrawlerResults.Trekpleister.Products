@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "O'Keeffe's Healthy Feet Voetcrème",
+  "code": "4670709",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2834 > 3576",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/okeeffes-healthy-feet-voetcreme/p/4670709",
+  "listName": "Lister",
+  "brand": "O'Keeffe's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48238489,
+      "name": "Voetcrème"
+    }
+  ],
+  "description": "91g",
+  "image": "/medias/sys_master/prd-images/hf6/hea/31934182752286/prd-front-4670709-1_600x600/prd-front-4670709-1-600x600.jpg"
+}

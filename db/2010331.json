@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Palmolive Aroma Essence Ultimate Relax Douchegel",
+  "code": "2010331",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3027758",
+  "mmkId": "3027758",
+  "productGroupId": "452766",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/palmolive-aroma-essence-ultimate-relax-douchegel/p/2010331",
+  "listName": "Lister",
+  "brand": "Palmolive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h21/h33/32085302804510/prd-front-2010331-1_600x600/prd-front-2010331-1-600x600.jpg"
+}

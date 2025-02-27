@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Revolution C2 Conceal and Define Concealer",
+  "code": "4389946",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "NORDIC BEAUTY COMPANY APS",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/revolution-c2-conceal-and-define-concealer/p/4389946",
+  "listName": "Lister",
+  "brand": "Revolution",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267135,
+      "name": "Concealer"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4389946-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjcwODZ8aW1hZ2UvanBlZ3xhR00wTDJobE9DOHhOamd5T0RNeU16SXpNemd5TWk5d2NtUXRabkp2Ym5RdE5ETTRPVGswTmkweFh6WXdNSGcyTURBfDZlYTE3ZWI0YjQ1YzM0MzgxZDM3NjU0MGY5ZmIyZTQ1NTMxOTAxZjNiNjFhOGU0YmI3ZmNlOTVmZGI1YjE5ZDQ"
+}

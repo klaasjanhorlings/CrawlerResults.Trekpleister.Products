@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Baby & Kids Nurturing Cream",
+  "code": "5961394",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "3027845",
+  "mmkId": "3027845",
+  "productGroupId": "465606",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-baby-kids-nurturing-cream/p/5961394",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267575,
+      "name": "Babycreme"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h11/h39/28826627702814/prd-front-5961394-1_600x600/prd-front-5961394-1-600x600.jpg"
+}

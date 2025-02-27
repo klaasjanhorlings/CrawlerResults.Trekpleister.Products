@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Difrax Manicureset voor Baby's",
+  "code": "4613491",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "DIFRAX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/difrax-manicureset-voor-babys/p/4613491",
+  "listName": "Lister",
+  "brand": "Difrax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267339,
+      "name": "Verschonen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4613491-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzY5MXxpbWFnZS9qcGVnfGFEZzFMMmczTXk4eE5qUTFNVFU0TkRZeU1qWXlNaTl3Y21RdFpuSnZiblF0TkRZeE16UTVNUzB4WHpZd01IZzJNREF8M2U0NjQyZWM1MmFhZGZhMDk4ZmM2NzEyOGNjNzY2NmM2M2JiMTI4NGQzMDU5ODc4NDFlNzhhMDQ3MDliYmRjNw"
+}

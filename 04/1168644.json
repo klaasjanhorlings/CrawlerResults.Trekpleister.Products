@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Baby Wattenstaafjes",
+  "code": "1168644",
+  "price": "1.15",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 4327 > 4328 > 4329",
+  "supplier": "CURATEX GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-baby-wattenstaafjes/p/1168644",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267339,
+      "name": "Verschonen"
+    }
+  ],
+  "description": "72 stuks",
+  "image": "/medias/sys_master/prd-images/hce/h3a/28737081737246/prd-front-1168644-1_600x600/prd-front-1168644-1-600x600.jpg"
+}

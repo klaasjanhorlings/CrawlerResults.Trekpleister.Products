@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rascals Maat 4 Cocomelon Luierbroekjes",
+  "code": "6240127",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
+  "supplier": "ZURU NETHERLANDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/rascals-maat-4-cocomelon-luierbroekjes/p/6240127",
+  "listName": "Lister",
+  "brand": "Rascal + Friends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267070,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 30267350,
+      "name": "Luierbroekjes maat 4"
+    }
+  ],
+  "description": "Maat 4 (10-15 kg), 30 stuks",
+  "image": "/medias/sys_master/prd-images/h8e/hdb/33271988453406/prd-front-6240127-1_600x600/prd-front-6240127-1-600x600.jpg"
+}

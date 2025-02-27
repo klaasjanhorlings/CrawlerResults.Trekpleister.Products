@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dettol Chloroxylenol 48 mg/ml Ontsmettingsmiddel",
+  "code": "21592",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dettol-chloroxylenol-48-mg/ml-ontsmettingsmiddel/p/21592",
+  "listName": "Lister",
+  "brand": "Dettol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267297,
+      "name": "Wondontsmetting"
+    }
+  ],
+  "description": "Geneesmiddel - 500ml",
+  "image": "/medias/sys_master/prd-images/h82/h52/28548512514078/prd-front-21592-1_600x600/prd-front-21592-1-600x600.jpg"
+}

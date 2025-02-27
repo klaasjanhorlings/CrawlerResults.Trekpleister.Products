@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Voetbutter",
+  "code": "5593414",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2834 > 3576",
+  "supplier": "DELIA COSMETICS SP ZOO",
+  "inStock": "inStock",
+  "onPromo": "3027890",
+  "mmkId": "3027890",
+  "productGroupId": "469904",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-voetbutter/p/5593414",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48238489,
+      "name": "Voetcrème"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h3d/h3a/28551266959390/prd-front-5593414-1_600x600/prd-front-5593414-1-600x600.jpg"
+}

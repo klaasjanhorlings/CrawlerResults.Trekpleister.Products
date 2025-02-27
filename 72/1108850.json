@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Vochtbalans Tabletten",
+  "code": "1108850",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6209 > 6227 > 6313",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-vochtbalans-tabletten/p/1108850",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267278,
+      "name": "Overige supplementen"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/prd-front-1108850-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODY4MTl8aW1hZ2UvanBlZ3xhR0l5TDJnME9TOHhOalUwTmpRMU5UWTFNRE16TkM5d2NtUXRabkp2Ym5RdE1URXdPRGcxTUMweFh6WXdNSGcyTURBfDQ2Y2IwNjE4MmVkZmYwYjBlNzVkOTA4ZDkxZmZmZmEyNDVhMWJmMGY5YjkxMzVhMWY0YzY2MGU2ZTQ3MzVjNmQ"
+}

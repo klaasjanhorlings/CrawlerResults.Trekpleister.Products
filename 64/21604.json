@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Bioforce Droge Huid Crème",
+  "code": "21604",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "A.VOGEL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-bioforce-droge-huid-creme/p/21604",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 51216437,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235394,
+      "name": "Droge en gevoelige huid"
+    }
+  ],
+  "description": "30g",
+  "image": "/medias/sys_master/prd-images/h5c/hbd/33352357707806/prd-front-21604-1_600x600/prd-front-21604-1-600x600.jpg"
+}

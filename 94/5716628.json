@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lansinoh Natural Wave Medium Flesspeen",
+  "code": "5716628",
+  "price": "8.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
+  "supplier": "LANSINOH LABORATORIES",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lansinoh-natural-wave-medium-flesspeen/p/5716628",
+  "listName": "Lister",
+  "brand": "Lansinoh",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267355,
+      "name": "Flessenspenen"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/prd-front-5716628-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjYyMTB8aW1hZ2UvanBlZ3xhRGxpTDJnMk9DOHhOamd4TXpJNU5UVXdNVE0wTWk5d2NtUXRabkp2Ym5RdE5UY3hOall5T0MweFh6WXdNSGcyTURBfDExNzIxNzdiZGU0MTUzYTMyOTA4MTJjYzliOTg2ZGI5ZjhhOTAyMWE1ODc3MTA1NmZhODZiNjg0ZjkxYWNlMjk"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tooth Fairy Tooth Crystal Kit",
+  "code": "6174719",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 3905",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tooth-fairy-tooth-crystal-kit/p/6174719",
+  "listName": "Lister",
+  "brand": "Tooth Fairy",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267417,
+      "name": "Sieraden en bijoux"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h05/hbe/32639210389534/prd-front-6174719-1_600x600/prd-front-6174719-1-600x600.jpg"
+}

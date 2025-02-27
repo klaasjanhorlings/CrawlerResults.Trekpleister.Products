@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corsodyl Mondspoeling",
+  "code": "4903578",
+  "price": "11.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corsodyl-mondspoeling/p/4903578",
+  "listName": "Lister",
+  "brand": "Corsodyl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267509,
+      "name": "Mondspoeling"
+    }
+  ],
+  "description": "Geneesmiddel - 300ml",
+  "image": "/medias/sys_master/prd-images/h12/he9/29032539127838/prd-front-4903578-1_600x600/prd-front-4903578-1-600x600.jpg"
+}

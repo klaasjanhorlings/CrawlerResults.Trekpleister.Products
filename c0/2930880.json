@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B Pro-Expert Professionele Bescherming Tandpasta",
+  "code": "2930880",
+  "price": "18.76",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027736",
+  "mmkId": "3027736",
+  "productGroupId": "469710",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-pro-expert-professionele-bescherming-tandpasta/p/2930880",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "4 x 75ml",
+  "image": "/medias/sys_master/prd-images/h12/hd9/31459812278302/prd-front-2930880-1_600x600/prd-front-2930880-1-600x600.jpg"
+}

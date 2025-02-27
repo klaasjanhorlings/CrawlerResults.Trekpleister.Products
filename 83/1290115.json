@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Supradyn Vital 50+ Tabletten",
+  "code": "1290115",
+  "price": "31.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
+  "supplier": "BAYER BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/supradyn-vital-50-tabletten/p/1290115",
+  "listName": "Lister",
+  "brand": "Supradyn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267274,
+      "name": "Weerstand en of energie"
+    }
+  ],
+  "description": "95 stuks",
+  "image": "/medias/sys_master/prd-images/hfc/ha1/33349256773662/prd-front-1290115-1_600x600/prd-front-1290115-1-600x600.jpg"
+}

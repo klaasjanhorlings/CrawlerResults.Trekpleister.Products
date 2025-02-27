@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Scheergel voor de Gevoelige Huid",
+  "code": "577031",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2932 > 3727",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3027897",
+  "mmkId": "3027897",
+  "productGroupId": "471086",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-scheergel-voor-de-gevoelige-huid/p/577031",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267238,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h14/hbe/28575659589662/prd-front-577031-1_600x600/prd-front-577031-1-600x600.jpg"
+}

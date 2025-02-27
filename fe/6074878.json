@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Smyle Toothpaste Tablets Navulling",
+  "code": "6074878",
+  "price": "5.25",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/smyle-toothpaste-tablets-navulling/p/6074878",
+  "listName": "Lister",
+  "brand": "Smyle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "65 stuks",
+  "image": "/medias/sys_master/prd-images/h4e/h3e/30585148604446/prd-front-6074878-1_600x600/prd-front-6074878-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ecosym Week Forte",
+  "code": "248714",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ecosym-week-forte/p/248714",
+  "listName": "Lister",
+  "brand": "Ecosym",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267229,
+      "name": "Kunstgebitreiniger"
+    }
+  ],
+  "description": "100ml - Kunstgebit",
+  "image": "/medias/prd-front-248714-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjgxOTl8aW1hZ2UvanBlZ3xhR1F6TDJnM1l5OHhOakl6TXpZd09URXpOREV4TUM5d2NtUXRabkp2Ym5RdE1qUTROekUwTFRGZk5qQXdlRFl3TUF8ODA0NTVhZWM3MDFjZWEyNzUyZjQzM2M2NDVmMDE2Y2FkNDU1ZmFiNzVhZWI0NzlkZmFjNGRjZDIwNzQzNDQzZQ"
+}

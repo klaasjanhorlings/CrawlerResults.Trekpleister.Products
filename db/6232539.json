@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Super Mario 72035 Mario Kart – Toads Garage",
+  "code": "6232539",
+  "price": "37.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-super-mario-72035-mario-kart-toads-garage/p/6232539",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267379,
+      "name": "LEGO Super Mario"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h57/hfd/33065319432222/prd-front-6232539-1_600x600/prd-front-6232539-1-600x600.jpg"
+}

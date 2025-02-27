@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aunt Jackie's Girls Curling & Twisting Custard",
+  "code": "3484846",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3027896",
+  "mmkId": "3027896",
+  "productGroupId": "471003",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aunt-jackies-girls-curling-twisting-custard/p/3484846",
+  "listName": "Lister",
+  "brand": "Aunt Jackie's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 82417106,
+      "name": "Krullenverzorging"
+    }
+  ],
+  "description": "425g",
+  "image": "/medias/prd-front-3484846-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzk5Njl8aW1hZ2UvanBlZ3xhREUyTDJnMll5OHhOak13TkRFek5qVXhPVGN4TUM5d2NtUXRabkp2Ym5RdE16UTRORGcwTmkweFh6WXdNSGcyTURBfGQ3YmU0NzdhMTJlZjJjNDZhODFmNjUzMTlhMGNmYzJjNDI0MDY1NGE4ZGRiYjI4OTBmMzM4OWY0NjlkYjBiZjE"
+}

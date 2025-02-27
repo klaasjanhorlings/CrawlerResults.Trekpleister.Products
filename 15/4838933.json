@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Revolution Reloaded Impact Highlighter",
+  "code": "4838933",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "NORDIC BEAUTY COMPANY APS",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/revolution-reloaded-impact-highlighter/p/4838933",
+  "listName": "Lister",
+  "brand": "Revolution",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267146,
+      "name": "Highlighter"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/haa/ha6/28616438317086/prd-front-4838933-1_600x600/prd-front-4838933-1-600x600.jpg"
+}

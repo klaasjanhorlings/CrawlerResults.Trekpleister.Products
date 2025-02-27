@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LUUF Verkoudheidsbalsem",
+  "code": "19742",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 4100",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/luuf-verkoudheidsbalsem/p/19742",
+  "listName": "Lister",
+  "brand": "Luuf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267522,
+      "name": "Verkoudheidsbalsems"
+    }
+  ],
+  "description": "Geneesmiddel - 30g",
+  "image": "/medias/sys_master/prd-images/h26/hd9/28575508856862/prd-front-19742-1_600x600/prd-front-19742-1-600x600.jpg"
+}

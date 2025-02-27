@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Munchkin Miracle 360° Trainer Cup",
+  "code": "5832552",
+  "price": "12.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
+  "supplier": "MEUBLEPLUS BV",
+  "inStock": "inStock",
+  "onPromo": "3027909",
+  "mmkId": "3027909",
+  "productGroupId": "471472",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/munchkin-miracle-360-trainer-cup/p/5832552",
+  "listName": "Lister",
+  "brand": "Munchkin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267357,
+      "name": "Drinkbeker"
+    }
+  ],
+  "description": "blauw, 207ml",
+  "image": "/medias/prd-front-5832552-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQyMTh8aW1hZ2UvanBlZ3xhR0V4TDJobE9DOHlOalkyTnpFM016WXdPVFV3TWk5d2NtUXRabkp2Ym5RdE5UZ3pNalUxTWkweFh6WXdNSGcyTURBfDAyMTgyMmU3MTRjNzY0ZmUwOWJlZDYyMTk2ZTQ5M2Y5ZWI0M2FjNDJhYmNkMzM3YWU5MDk2ODhhZmQ5NzhhMWE"
+}

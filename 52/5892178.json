@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Skins Minis The Massage a Trois",
+  "code": "5892178",
+  "price": "59.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 6463 > 6464 > 6401",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/skins-minis-the-massage-a-trois/p/5892178",
+  "listName": "Lister",
+  "brand": "Skins",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267062,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30267304,
+      "name": "Seksspeeltjes"
+    },
+    {
+      "id": 30267556,
+      "name": "Vibrator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf7/h5d/28566371827742/prd-front-5892178-1_600x600/prd-front-5892178-1-600x600.jpg"
+}

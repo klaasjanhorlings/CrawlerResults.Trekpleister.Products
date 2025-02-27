@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun FaceSpa Pro 910 Gezichtsepilator",
+  "code": "4386747",
+  "price": "154.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 5886 > 6438",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-facespa-pro-910-gezichtsepilator/p/4386747",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267244,
+      "name": "Epilators"
+    }
+  ],
+  "description": "wit, zilverkleur",
+  "image": "/medias/sys_master/prd-images/hce/h9a/28550921519134/prd-front-4386747-1_600x600/prd-front-4386747-1-600x600.jpg"
+}

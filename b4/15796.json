@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Harmisol Vloeibaar Water- en Vuilafstotend voor Textiel",
+  "code": "15796",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
+  "supplier": "SIDERIUS ZEEPFABRIEK",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/harmisol-vloeibaar-water-en-vuilafstotend-voor-textiel/p/15796",
+  "listName": "Lister",
+  "brand": "Harmisol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267119,
+      "name": "Vlekverwijderaars"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hb6/h34/31900905635870/prd-front-15796-1_600x600/prd-front-15796-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Duracell Classic AAA-batterijen",
+  "code": "5507328",
+  "price": "13.49",
+  "priceOriginal": "",
+  "itemBgbcat": "6013 > 2134 > 6145 > 6146 > 6147 > 2007",
+  "supplier": "DURACELL NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/duracell-classic-aaa-batterijen/p/5507328",
+  "listName": "Lister",
+  "brand": "Duracell",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267106,
+      "name": "Batterijen"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hec/h97/30460192620574/prd-front-5507328-1_600x600/prd-front-5507328-1-600x600.jpg"
+}

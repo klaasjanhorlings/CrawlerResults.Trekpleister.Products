@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Whole Body Lavender & Camomile Deodorant Stick",
+  "code": "6227842",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3786",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3027766",
+  "mmkId": "3027766",
+  "productGroupId": "454705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-whole-body-lavender-camomile-deodorant-stick/p/6227842",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267202,
+      "name": "Deostick"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h9e/hb9/33372700573726/prd-front-6227842-1_600x600/prd-front-6227842-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hipp Bio Biscuit Babykoekjes",
+  "code": "4230745",
+  "price": "2.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
+  "supplier": "FRIQUEZ BV HIPP NEDERLA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hipp-bio-biscuit-babykoekjes/p/4230745",
+  "listName": "Lister",
+  "brand": "Hipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267331,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "150g",
+  "image": "/medias/prd-front-4230745-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzk5NTJ8aW1hZ2UvanBlZ3xhRE0yTDJnek5DOHhOelF6TnpjME9EazFNekV4T0M5d2NtUXRabkp2Ym5RdE5ESXpNRGMwTlMweFh6WXdNSGcyTURBfDgyYjg3MzIwZDk1ZGQ3MWE0MGI4MjY0ODFkNzA2ZWM0MzUyNjRmOGYxZjQ0NTBiMTM1NmY3YTc1YWUwZDk0NDA"
+}

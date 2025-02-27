@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zinolium-Z Gel voor Lipblaasjes",
+  "code": "976368",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 2842 > 3581",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zinolium-z-gel-voor-lipblaasjes/p/976368",
+  "listName": "Lister",
+  "brand": "Zinolium",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267506,
+      "name": "Koortslip"
+    }
+  ],
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/hce/hd5/28549989859358/prd-front-976368-1_600x600/prd-front-976368-1-600x600.jpg"
+}

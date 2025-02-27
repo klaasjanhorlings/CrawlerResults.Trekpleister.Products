@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier SkinActive Alles-in-1 Micellair Reinigend Jelly-water met Charcoal",
+  "code": "5780696",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027832",
+  "mmkId": "3027832",
+  "productGroupId": "461863",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-skinactive-alles-in-1-micellair-reinigend-jelly-water-met-charcoal/p/5780696",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267472,
+      "name": "Micellair water"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/ha5/he5/30209316192286/prd-front-5780696-1_600x600/prd-front-5780696-1-600x600.jpg"
+}

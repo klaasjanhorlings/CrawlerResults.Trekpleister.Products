@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nicotinell Cool Mint 4mg Kauwgom",
+  "code": "1291613",
+  "price": "33.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 3498",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nicotinell-cool-mint-4mg-kauwgom/p/1291613",
+  "listName": "Lister",
+  "brand": "Nicotinell",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267266,
+      "name": "Stoppen met roken"
+    },
+    {
+      "id": 30267538,
+      "name": "Nicotinekauwgom"
+    }
+  ],
+  "description": "Geneesmiddel - 96 stuks",
+  "image": "/medias/sys_master/prd-images/hb5/hd1/28623679782942/prd-front-1291613-1_600x600/prd-front-1291613-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Microlax Oplossing Voor Rectaal Gebruik",
+  "code": "1206360",
+  "price": "8.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2759 > 3950",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/microlax-oplossing-voor-rectaal-gebruik/p/1206360",
+  "listName": "Lister",
+  "brand": "Microlax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 30267532,
+      "name": "Laxeermiddelen"
+    }
+  ],
+  "description": "Geneesmiddel - 4 x 5ml",
+  "image": "/medias/sys_master/prd-images/h4c/h7e/28575701205022/prd-front-1206360-1_600x600/prd-front-1206360-1-600x600.jpg"
+}

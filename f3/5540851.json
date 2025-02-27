@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Vitamine K2 Capsules",
+  "code": "5540851",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3027850",
+  "mmkId": "3027850",
+  "productGroupId": "465943",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-vitamine-k2-capsules/p/5540851",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267551,
+      "name": "Vitamine K"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/prd-front-5540851-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzcwNjF8aW1hZ2UvanBlZ3xhRFkwTDJoa1ppOHhOekExT0RRNU5Ea3pPVEUyTmk5d2NtUXRabkp2Ym5RdE5UVTBNRGcxTVMweFh6WXdNSGcyTURBfDdmY2NmNTNlMDAxMGM5M2U3ZTEwZWRkYTRiZmJmMDVmZjhiYzUzYzBjZDM1MWQyOWVkMThiMzM0ZDE5ODViNGU"
+}

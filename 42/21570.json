@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dulcolax Zetpillen",
+  "code": "21570",
+  "price": "5.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2759 > 3950",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dulcolax-zetpillen/p/21570",
+  "listName": "Lister",
+  "brand": "Dulcolax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darmkramp"
+    },
+    {
+      "id": 30267532,
+      "name": "Laxeermiddelen"
+    }
+  ],
+  "description": "Geneesmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/h72/h6a/33284034265118/prd-front-21570-1_600x600/prd-front-21570-1-600x600.jpg"
+}

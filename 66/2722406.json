@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "VSM Calendulan Emulsie",
+  "code": "2722406",
+  "price": "11.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "HEEL BIOLOGISCHE GENEES",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vsm-calendulan-emulsie/p/2722406",
+  "listName": "Lister",
+  "brand": "VSM",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 51216437,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235357,
+      "name": "Verkoelende zalf"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hb9/he5/32291966648350/prd-front-2722406-1_600x600/prd-front-2722406-1-600x600.jpg"
+}

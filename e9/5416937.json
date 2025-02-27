@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Curcuma Clear Kalmerende Reinigingsmouse",
+  "code": "5416937",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "3027835",
+  "mmkId": "3027835",
+  "productGroupId": "462159",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-curcuma-clear-kalmerende-reinigingsmouse/p/5416937",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267475,
+      "name": "Cleanser"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-5416937-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA1MTh8aW1hZ2UvanBlZ3xhRE00TDJnM01DOHhOekEyTURVd09ESTNNRFl5TWk5d2NtUXRabkp2Ym5RdE5UUXhOamt6TnkweFh6WXdNSGcyTURBfGI0ZTJmYmIwZWFhYjJiNWY2ZDI1YjVjMDQ3NmI3NmIwY2RjMGY2NGFiNWU5ZjBkZjIzMjkyNDdhOGFlNzU2Y2M"
+}
