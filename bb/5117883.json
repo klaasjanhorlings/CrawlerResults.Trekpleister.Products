@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Foamie Hibiskiss Conditioner Bar",
+  "code": "5117883",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 6599",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/foamie-hibiskiss-conditioner-bar/p/5117883",
+  "listName": "Lister",
+  "brand": "Foamie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "65g",
+  "image": "/medias/prd-front-5117883-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAzMTU5fGltYWdlL2pwZWd8YURNMkwyZzVOeTh5TmpVM056RTVOVEl3TkRZek9DOXdjbVF0Wm5KdmJuUXROVEV4TnpnNE15MHhYell3TUhnMk1EQXxjN2RhNjIyM2RjMjU2ODY1NzFkNjZhM2Q1OGZkNTlkZjUyNWI2NGIxNGQ4YTEyY2Y4MTM3MWZkNDllZTIwZmYx"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 2968 > 3770",
   "supplier": "UNILEVER ASIA PRIV. LTD",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "7g"
+  "description": "7g",
+  "image": "/medias/sys_master/prd-images/h56/hfd/31944410497054/prd-front-5822591-1_600x600/prd-front-5822591-1-600x600.jpg"
 }

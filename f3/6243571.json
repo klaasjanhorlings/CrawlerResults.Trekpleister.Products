@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Flora & Curl Rose Water Cream Shampoo",
+  "code": "6243571",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/flora-curl-rose-water-cream-shampoo/p/6243571",
+  "listName": "Lister",
+  "brand": "Flora & Curl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hc0/haa/33103503851550/prd-front-6243571-1_600x600/prd-front-6243571-1-600x600.jpg"
+}

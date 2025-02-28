@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3027854",
+  "mmkId": "3027854",
+  "productGroupId": "466332",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-keratine-style-perfection-haarmousse/p/4041199",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h3c/h58/33455412510750/prd-front-4041199-1_600x600/prd-front-4041199-1-600x600.jpg"
 }

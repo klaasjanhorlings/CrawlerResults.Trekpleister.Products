@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Juicy Bomb Shiny Lipgloss Set",
+  "code": "6189741",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 5690 > 5691 > 5692",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-juicy-bomb-shiny-lipgloss-set/p/6189741",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666175,
+      "name": "Geschenkset voor haar"
+    }
+  ],
+  "description": "5 stuks",
+  "image": "/medias/sys_master/prd-images/h59/h30/33505681670174/prd-front-6189741-1_600x600/prd-front-6189741-1-600x600.jpg"
+}

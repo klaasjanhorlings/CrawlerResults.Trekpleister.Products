@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3027815",
+  "mmkId": "3027815",
+  "productGroupId": "460088",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vaseline-intensive-care-mature-skin-lotion/p/4406298",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/prd-front-4406298-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTY1MTF8aW1hZ2UvanBlZ3xhR1E1TDJnME1DOHhOalF5TkRVMk1UQTRNak01T0M5d2NtUXRabkp2Ym5RdE5EUXdOakk1T0MweFh6WXdNSGcyTURBfDQ1ZjNkYjVmYThjYjE5MzcyZTAyMjdkNDA5YTRkM2U4MWZlOTAwZTBlOGE1MDlhODg1Y2I5NDIwNmRjNDY5ODI"
+  "description": "400ml"
 }

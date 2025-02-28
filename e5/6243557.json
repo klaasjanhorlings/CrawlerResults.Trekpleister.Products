@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Flora & Curl Rose Water Cream Conditioner",
+  "code": "6243557",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6700",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/flora-curl-rose-water-cream-conditioner/p/6243557",
+  "listName": "Lister",
+  "brand": "Flora & Curl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h4e/h58/33111393796126/prd-front-6243557-1_600x600/prd-front-6243557-1-600x600.jpg"
+}

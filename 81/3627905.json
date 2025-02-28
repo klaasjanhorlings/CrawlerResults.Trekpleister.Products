@@ -7,7 +7,7 @@
   "priceOriginal": "70.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 10 stuks"
+  "description": "wit, 10 stuks",
+  "image": "/medias/sys_master/prd-images/h15/h11/32943336620062/prd-front-3627905-1_600x600/prd-front-3627905-1-600x600.jpg"
 }

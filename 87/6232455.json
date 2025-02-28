@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Icons 10362 Frans Café",
+  "code": "6232455",
+  "price": "74.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-icons-10362-frans-cafe/p/6232455",
+  "listName": "Lister",
+  "brand": "LEGO Icons",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69032145,
+      "name": "LEGO Voertuigen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0c/h98/33502246207518/prd-front-6232455-1_600x600/prd-front-6232455-1-600x600.jpg"
+}

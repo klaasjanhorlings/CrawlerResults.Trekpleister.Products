@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Pro-Care Amino+ Glossy Shine Shampoo",
+  "code": "6247449",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-pro-care-amino-glossy-shine-shampoo/p/6247449",
+  "listName": "Lister",
+  "brand": "Andrelon Pro-Care",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hb7/ha7/33142924181534/prd-front-6247449-1_600x600/prd-front-6247449-1-600x600.jpg"
+}

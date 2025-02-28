@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Lashes To Impress 01 Kunstwimpers",
+  "code": "6246301",
+  "price": "7.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-lashes-to-impress-01-kunstwimpers/p/6246301",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267172,
+      "name": "Nepwimpers"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/hd0/h11/33505698906142/prd-front-6246301-1_600x600/prd-front-6246301-1-600x600.jpg"
+}

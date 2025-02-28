@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Foamie Hibiskiss Shampoo Bar",
+  "code": "4992632",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 6600",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/foamie-hibiskiss-shampoo-bar/p/4992632",
+  "listName": "Lister",
+  "brand": "Foamie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "65g",
+  "image": "/medias/prd-front-4992632-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODQzOTN8aW1hZ2UvanBlZ3xhRFJtTDJoak55OHlOalF3T0RZek5USTJPVEUxTUM5d2NtUXRabkp2Ym5RdE5EazVNall6TWkweFh6WXdNSGcyTURBfDZiOWI1NDI1ZTA1Zjg2ODYwOTUxYmFkMTkyNThmMjhmNzFmMzM2ZGRhNmM5MDY1NjIzZjU1MDkxYzYwYWU3NGM"
+}

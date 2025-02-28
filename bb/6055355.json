@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3027769",
-  "mmkId": "3027769",
-  "productGroupId": "455329",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-invisible-dry-deodorant-antitranspirant-spray/p/6055355",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h54/hc2/30305938407454/prd-front-6055355-1_600x600/prd-front-6055355-1-600x600.jpg"
+  "description": "150ml"
 }

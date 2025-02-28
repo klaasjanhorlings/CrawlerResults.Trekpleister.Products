@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Hydra Kiss 08 Mocha Glow Lip Oil",
+  "code": "6245965",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-hydra-kiss-08-mocha-glow-lip-oil/p/6245965",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267140,
+      "name": "Lipgloss"
+    }
+  ],
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/hb3/h3e/33488736026654/prd-front-6245965-1_600x600/prd-front-6245965-1-600x600.jpg"
+}

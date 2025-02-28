@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 3775",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,8 +33,8 @@
       "name": "Pleisters"
     },
     {
-      "id": 73414173,
-      "name": "Kinderpleisters"
+      "id": 73414206,
+      "name": "Sensitive pleisters"
     }
   ],
   "description": "Medisch hulpmiddel - 20 stuks",

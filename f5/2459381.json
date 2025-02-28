@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA Sun Protect & Bronze SPF30 Zonnebrand Spray",
+  "itemName": "NIVEA Sun Protect & Bronze SPF30 Zonnebrandspray",
   "code": "2459381",
   "price": "25.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "473013",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-sun-protect-bronze-spf30-zonnebrand-spray/p/2459381",
+  "url": "/nivea-sun-protect-bronze-spf30-zonnebrandspray/p/2459381",
   "listName": "Lister",
   "brand": "Nivea",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hf1/h19/33488552034334/prd-front-2459381-1_600x600/prd-front-2459381-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h89/h2d/33505505574942/prd-front-2459381-1_600x600/prd-front-2459381-1-600x600.jpg"
 }

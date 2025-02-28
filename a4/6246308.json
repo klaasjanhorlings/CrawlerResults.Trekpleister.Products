@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Happy Brush To You! Brush Set",
+  "code": "6246308",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-happy-brush-to-you-brush-set/p/6246308",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666175,
+      "name": "Geschenkset voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h82/hcb/33499921317918/prd-front-6246308-1_600x600/prd-front-6246308-1-600x600.jpg"
+}

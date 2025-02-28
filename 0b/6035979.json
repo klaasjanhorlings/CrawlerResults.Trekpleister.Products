@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "CG Curl Shampoo Cream",
+  "code": "6035979",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/cg-curl-shampoo-cream/p/6035979",
+  "listName": "Lister",
+  "brand": "CG Curl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "355ml",
+  "image": "/medias/sys_master/prd-images/hef/h27/30293650178078/prd-front-6035979-1_600x600/prd-front-6035979-1-600x600.jpg"
+}

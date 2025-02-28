@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Glijmiddelen en massagegels"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml",
-  "image": "/medias/sys_master/prd-images/h2c/h04/28559586000926/prd-front-5391870-1_600x600/prd-front-5391870-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 100ml"
 }

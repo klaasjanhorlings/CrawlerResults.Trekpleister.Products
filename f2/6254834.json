@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Black Velvet Wasmiddelcapsules",
+  "code": "6254834",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 6078",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/robijn-black-velvet-wasmiddelcapsules/p/6254834",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "3 x 40 stuks",
+  "image": "/medias/sys_master/prd-images/h57/h4c/33155738206238/prd-front-6254834-1_600x600/prd-front-6254834-1-600x600.jpg"
+}

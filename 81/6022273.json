@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3027854",
+  "mmkId": "3027854",
+  "productGroupId": "466332",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-intense-plex-bonding-shampoo/p/6022273",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "440ml",
-  "image": "/medias/sys_master/prd-images/h68/h28/33323590811678/prd-front-6022273-1_600x600/prd-front-6022273-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2f/h0b/33509246271518/prd-front-6022273-1_600x600/prd-front-6022273-1-600x600.jpg"
 }

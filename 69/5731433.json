@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Fix & Last 14G Make-Up Fixing Loose Powder",
+  "code": "5731433",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-fix-last-14g-make-up-fixing-loose-powder/p/5731433",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267144,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "9,5g",
+  "image": "/medias/sys_master/prd-images/h82/h99/33334476734494/prd-front-5731433-1_600x600/prd-front-5731433-1-600x600.jpg"
+}

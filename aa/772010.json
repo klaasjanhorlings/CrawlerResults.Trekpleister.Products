@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "3027834",
-  "mmkId": "3027834",
-  "productGroupId": "462053",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/robijn-zwitsal-geurbuiltjes/p/772010",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "3 stuks"
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/hff/h45/31977870458910/prd-front-772010-1_600x600/prd-front-772010-1-600x600.jpg"
 }

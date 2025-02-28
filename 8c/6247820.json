@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari Green Curls Hairwax",
+  "code": "6247820",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5918",
+  "supplier": "YARI BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-green-curls-hairwax/p/6247820",
+  "listName": "Lister",
+  "brand": "Yari Green Curls",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267486,
+      "name": "Haarwax"
+    }
+  ],
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/hfb/hd2/33104663150622/prd-front-6247820-1_600x600/prd-front-6247820-1-600x600.jpg"
+}
