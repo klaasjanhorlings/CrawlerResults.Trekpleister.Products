@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Nagelstickers"
     }
   ],
-  "description": "75 stuks"
+  "description": "75 stuks",
+  "image": "/medias/sys_master/prd-images/h57/hc9/33346080276510/prd-front-6246378-1_600x600/prd-front-6246378-1-600x600.jpg"
 }

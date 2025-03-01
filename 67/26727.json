@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 5710 > 5711 > 5712",
   "supplier": "THEOTCLAB HEALTHCARE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": "66ml"
+  "description": "66ml",
+  "image": "/medias/prd-front-26727-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzg1MjJ8aW1hZ2UvanBlZ3xhRFJtTDJneE1TOHhOakl5T0Rnd01UVTNOams1TUM5d2NtUXRabkp2Ym5RdE1qWTNNamN0TVY4Mk1EQjROakF3fDY5Mzc3NDU3YjBmMWQxMGQ5MTk2NDhmZWU1OTM3NDczZjcyNjhmOTQ5MmU3YjNkNmU1OGU3OTIxMTI3YjI2ZjU"
 }
