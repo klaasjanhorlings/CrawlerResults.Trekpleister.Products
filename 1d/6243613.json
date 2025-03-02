@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Loving Blends Honing Goud Shampoo Refill",
+  "code": "6243613",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-loving-blends-honing-goud-shampoo-refill/p/6243613",
+  "listName": "Lister",
+  "brand": "Loving Blends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h34/h76/33144355848222/prd-front-6243613-1_600x600/prd-front-6243613-1-600x600.jpg"
+}

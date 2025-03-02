@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 6366 > 6368 > 6367",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "inStock",
-  "onPromo": "3027731",
-  "mmkId": "3027731",
-  "productGroupId": "466386",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-baby-dry-maat-6-luiers/p/6061669",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 6"
     }
   ],
-  "description": "mt 6 (13-18kg), 93 stuks"
+  "description": "mt 6 (13-18kg), 93 stuks",
+  "image": "/medias/sys_master/prd-images/hc8/he1/30294568894494/prd-front-6061669-1_600x600/prd-front-6061669-1-600x600.jpg"
 }

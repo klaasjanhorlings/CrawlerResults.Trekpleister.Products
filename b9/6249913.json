@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Elvive Fiber Booster Anti-Haaruitval Conditioner",
+  "code": "6249913",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3027771",
+  "mmkId": "3027771",
+  "productGroupId": "455800",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-elvive-fiber-booster-anti-haaruitval-conditioner/p/6249913",
+  "listName": "Lister",
+  "brand": "Elvive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h52/h75/33115498348574/prd-front-6249913-1_600x600/prd-front-6249913-1-600x600.jpg"
+}

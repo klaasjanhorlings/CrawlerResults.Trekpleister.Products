@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Foamie Kiss Me Argan Conditioner Bar",
+  "code": "5799253",
+  "price": "5.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 6599",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/foamie-kiss-me-argan-conditioner-bar/p/5799253",
+  "listName": "Lister",
+  "brand": "Foamie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "45g",
+  "image": "/medias/prd-front-5799253-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODk5MDF8aW1hZ2UvanBlZ3xhRE0yTDJobE5TOHlOalF4TURJME5ETTNORFUxT0M5d2NtUXRabkp2Ym5RdE5UYzVPVEkxTXkweFh6WXdNSGcyTURBfDI4MmZlNjExZjNkZDQ4NGM2YTQxZDkyNDU5MDc1NmE0MmM3YmE1MjhlMzBiY2YzYTQ0YWI4ZGIzYzgyNWI0YWI"
+}

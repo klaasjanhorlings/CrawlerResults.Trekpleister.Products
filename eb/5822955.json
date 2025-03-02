@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Umberto Giannini Banana Butter Conditioner",
+  "code": "5822955",
+  "price": "11.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "COSMOGROUP BRANDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/umberto-giannini-banana-butter-conditioner/p/5822955",
+  "listName": "Lister",
+  "brand": "Umberto Giannini",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hb0/hbd/31031751671838/prd-front-5822955-1_600x600/prd-front-5822955-1-600x600.jpg"
+}
