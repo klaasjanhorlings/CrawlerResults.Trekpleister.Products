@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3027837",
-  "mmkId": "3027837",
-  "productGroupId": "462499",
+  "onPromo": "3028030",
+  "mmkId": "3028030",
+  "productGroupId": "460248",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-cellular-expert-filler-hyaluron-serum/p/6213835",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h66/h93/32709483560990/prd-front-6213835-1_600x600/prd-front-6213835-1-600x600.jpg"
 }

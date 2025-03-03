@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3027998",
+  "mmkId": "3027998",
+  "productGroupId": "454411",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/l-oreal-paris-true-match-2n-vanilla-foundation/p/4167087",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h82/hd4/33512480178206/prd-front-4167087-1_600x600/prd-front-4167087-1-600x600.jpg"
+  "description": "30ml"
 }

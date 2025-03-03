@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L’Oréal Paris True Match Le Blush 150 Rose Sucre D'Orge Blush",
+  "code": "1709107",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3027998",
+  "mmkId": "3027998",
+  "productGroupId": "454411",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-true-match-le-blush-150-rose-sucre-dorge-blush/p/1709107",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267147,
+      "name": "Blush"
+    }
+  ],
+  "description": "32g",
+  "image": "/medias/prd-front-1709107-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzgyNTZ8aW1hZ2UvanBlZ3xhR0UwTDJobVppOHhOak0wTURJMU16WTNNVFExTkM5d2NtUXRabkp2Ym5RdE1UY3dPVEV3TnkweFh6WXdNSGcyTURBfDlmMWQyMGUwNzIxODQ0MzZjOTFjYTYxODY3MWE2ZTA1ZDM5MTM2MWE1ODVkZmM5YzllYjM1NzkwZTc5NDRlMmE"
+}

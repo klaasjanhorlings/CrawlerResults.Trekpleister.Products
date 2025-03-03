@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3027951",
-  "mmkId": "3027951",
-  "productGroupId": "473512",
+  "onPromo": "3028005",
+  "mmkId": "3028005",
+  "productGroupId": "455806",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-voedende-amandelmelk-shampoo/p/4822252",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h31/h9d/29787122794526/prd-front-4822252-1_600x600/prd-front-4822252-1-600x600.jpg"
 }

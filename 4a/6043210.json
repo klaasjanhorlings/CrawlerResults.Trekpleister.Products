@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3027998",
+  "mmkId": "3027998",
+  "productGroupId": "454411",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-30-dark-brunette-brow-color-wenkbrauwverf/p/6043210",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwverf"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h42/hc9/30750904647710/prd-front-6043210-1_600x600/prd-front-6043210-1-600x600.jpg"
+  "description": "30ml"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Senseo Extra Strong Koffiepads",
+  "code": "3354975",
+  "price": "7.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 4354 > 4355",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/douwe-egberts-senseo-extra-strong-koffiepads/p/3354975",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267443,
+      "name": "Koffie"
+    }
+  ],
+  "description": "54 stuks",
+  "image": "/medias/prd-front-3354975-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQzOTd8aW1hZ2UvanBlZ3xhR0V6TDJnNU1TOHhOak13TWpNM056UXpOVEUyTmk5d2NtUXRabkp2Ym5RdE16TTFORGszTlMweFh6WXdNSGcyTURBfDcyYzhjNjQwMzI1OTQwNDQ1ZGIwNjM3YmUxYmNkODBhMzJlMDE1MzVkNWM2YzFkZWJmNzhhODIwYzY4OTg1MDQ"
+}

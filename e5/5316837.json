@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "3027902",
-  "mmkId": "3027902",
-  "productGroupId": "473013",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-alpin-spf50-face-sunscreen/p/5316837",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hd7/h19/33512454553630/prd-front-5316837-1_600x600/prd-front-5316837-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h64/hec/33531586412574/prd-front-5316837-1_600x600/prd-front-5316837-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3027791",
-  "mmkId": "3027791",
-  "productGroupId": "457990",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-baby-dry-maat-7-luiers/p/6240204",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 7"
     }
   ],
-  "description": "mt 7 (15+kg), 20 stuks",
-  "image": "/medias/sys_master/prd-images/hdb/haa/33356740984862/prd-front-6240204-1_600x600/prd-front-6240204-1-600x600.jpg"
+  "description": "mt 7 (15+kg), 20 stuks"
 }

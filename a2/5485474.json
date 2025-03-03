@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3027998",
+  "mmkId": "3027998",
+  "productGroupId": "454411",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-nude-7-8-tan-deep-volumegevend-tinted-serum-foundation/p/5485474",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hb1/h2e/31691515723806/prd-front-5485474-1_600x600/prd-front-5485474-1-600x600.jpg"
 }

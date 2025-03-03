@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 4303 > 4306 > 4307 > 2272",
   "supplier": "KIMBERLY-CLARK BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3027988",
+  "mmkId": "3027988",
+  "productGroupId": "452439",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/huggies-5-6-little-swimmers-12-18kg-zwemluiers/p/2779120",
@@ -29,6 +29,5 @@
       "name": "Zwemluiers"
     }
   ],
-  "description": "11 stuks",
-  "image": "/medias/prd-front-2779120-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA0NjB8aW1hZ2UvanBlZ3xhRGN4TDJnMlppOHhOakkxT1RFd05ETTNORGd4TkM5d2NtUXRabkp2Ym5RdE1qYzNPVEV5TUMweFh6WXdNSGcyTURBfGFlYjgyYzg1NGI0NjgxNmE2NDRhOWNmZjQ4YmE4ZmFkNGRjNDZmNDVhMmZjZTE3MGMyNTUyZTkxNjI2MmFhNzQ"
+  "description": "11 stuks"
 }

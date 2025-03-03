@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3027793",
-  "mmkId": "3027793",
-  "productGroupId": "457995",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-night-pants-maat-5-luierbroekjes/p/6240176",
@@ -29,5 +29,6 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "mt 5 (11-17kg), 35 stuks"
+  "description": "mt 5 (11-17kg), 35 stuks",
+  "image": "/medias/sys_master/prd-images/h91/heb/33352581054494/prd-front-6240176-1_600x600/prd-front-6240176-1-600x600.jpg"
 }

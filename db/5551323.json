@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Miss So..? Midnight Magic Bodymist",
+  "code": "5551323",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/miss-so-midnight-magic-bodymist/p/5551323",
+  "listName": "Lister",
+  "brand": "So",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "140ml",
+  "image": "/medias/prd-front-5551323-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQ4MDR8aW1hZ2UvanBlZ3xhR0UwTDJneU9DOHhOalUzTXpReU56UTBPVGc0Tmk5d2NtUXRabkp2Ym5RdE5UVTFNVE15TXkweFh6WXdNSGcyTURBfDc5MTA1ZGE1ZjVlNjY5ZjEzMzU0YWViNTkzZWFlZDk0ZTIzZDYxMzRlMWJlMTlkNmY1MjFlNjA3YzlmZTI3ZDQ"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3679",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3027758",
-  "mmkId": "3027758",
-  "productGroupId": "452766",
+  "onPromo": "3027991",
+  "mmkId": "3027991",
+  "productGroupId": "452769",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmolive-skin-radiance-avocado-honey-bodywash/p/6059737",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hb4/h6e/30985718005790/prd-front-6059737-1_600x600/prd-front-6059737-1-600x600.jpg"
 }

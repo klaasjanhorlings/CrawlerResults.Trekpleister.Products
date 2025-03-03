@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 2979 > 3805",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3027785",
-  "mmkId": "3027785",
-  "productGroupId": "457740",
+  "onPromo": "3028014",
+  "mmkId": "3028014",
+  "productGroupId": "457750",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-dailies-cotton-large-inlegkruisjes/p/5531009",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "24 stuks"
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/h24/hff/28578952183838/prd-front-5531009-1_600x600/prd-front-5531009-1-600x600.jpg"
 }

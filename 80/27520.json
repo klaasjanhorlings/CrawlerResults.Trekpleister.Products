@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3027799",
-  "mmkId": "3027799",
-  "productGroupId": "459074",
+  "onPromo": "3028030",
+  "mmkId": "3028030",
+  "productGroupId": "460248",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-creme/p/27520",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h77/hd2/32826433536030/prd-front-27520-1_600x600/prd-front-27520-1-600x600.jpg"
+  "description": "400ml"
 }

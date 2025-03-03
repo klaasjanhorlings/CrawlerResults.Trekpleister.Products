@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3868",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3027757",
-  "mmkId": "3027757",
-  "productGroupId": "452755",
+  "onPromo": "3027992",
+  "mmkId": "3027992",
+  "productGroupId": "452770",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-men-skin-health-sensitive-care-douchegel/p/6068522",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hcd/h08/31655384121374/prd-front-6068522-1_600x600/prd-front-6068522-1-600x600.jpg"
 }

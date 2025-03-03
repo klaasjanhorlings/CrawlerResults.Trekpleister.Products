@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "3027763",
-  "mmkId": "3027763",
-  "productGroupId": "453733",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-baby-kids-100-natural-soft-bodylotion/p/5742472",
@@ -37,6 +37,5 @@
       "name": "Babylotion"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/prd-front-5742472-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTcyODd8aW1hZ2UvanBlZ3xhREpqTDJneE1pOHhOekEwT1RVeU1UWTFNVGMwTWk5d2NtUXRabkp2Ym5RdE5UYzBNalEzTWkweFh6WXdNSGcyTURBfDM4MTVhNTg0YTc4ZjQ1MjhhNmFmMjRiYzk0N2NiODk1MzFlZGNiYTlkZDNlZWU2N2QxMTBmMzRiNzMxNGY2ODQ"
+  "description": "200ml"
 }

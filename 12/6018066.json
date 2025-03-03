@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3027905",
-  "mmkId": "3027905",
-  "productGroupId": "476150",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-harmonie-protect-care-billendoekjes/p/6018066",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "3 x 44 stuks"
+  "description": "3 x 44 stuks",
+  "image": "/medias/sys_master/prd-images/hac/hcc/30123771559966/prd-front-6018066-1_600x600/prd-front-6018066-1-600x600.jpg"
 }

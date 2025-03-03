@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 4129",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3027868",
-  "mmkId": "3027868",
-  "productGroupId": "467541",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/parodontax-tandvlees-tanden-tandenborstel/p/2958040",
@@ -33,6 +33,5 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hcd/hb2/32236723961886/prd-front-2958040-1_600x600/prd-front-2958040-1-600x600.jpg"
+  "description": ""
 }

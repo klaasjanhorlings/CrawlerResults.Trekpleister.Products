@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3027793",
-  "mmkId": "3027793",
-  "productGroupId": "457995",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-premium-protection-pants-maat-5-luierbroekjes/p/6241177",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 5"
     }
   ],
-  "description": "mt 5 (11-17kg), 17 stuks"
+  "description": "mt 5 (11-17kg), 17 stuks",
+  "image": "/medias/sys_master/prd-images/h5f/hf8/33349056167966/prd-front-6241177-1_600x600/prd-front-6241177-1-600x600.jpg"
 }

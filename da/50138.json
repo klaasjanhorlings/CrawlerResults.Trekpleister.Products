@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4247",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028047",
+  "mmkId": "3028047",
+  "productGroupId": "462124",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-universal-pleisters/p/50138",
@@ -37,5 +37,6 @@
       "name": "Waterbestendige pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 40 stuks"
+  "description": "Medisch hulpmiddel - 40 stuks",
+  "image": "/medias/sys_master/prd-images/h7e/hf1/32901377130526/prd-front-50138-1_600x600/prd-front-50138-1-600x600.jpg"
 }

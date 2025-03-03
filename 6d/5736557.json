@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3027880",
-  "mmkId": "3027880",
-  "productGroupId": "468964",
+  "onPromo": "3028003",
+  "mmkId": "3028003",
+  "productGroupId": "455301",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elmex-sensitive-plus-complete-protection-tandpasta/p/5736557",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Gevoelige tanden"
+  "description": "75ml - Gevoelige tanden",
+  "image": "/medias/sys_master/prd-images/h13/hf5/31967740362782/prd-front-5736557-1_600x600/prd-front-5736557-1-600x600.jpg"
 }

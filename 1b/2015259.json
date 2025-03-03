@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028019",
+  "mmkId": "3028019",
+  "productGroupId": "458064",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-echinaforce-sterk-vitamine-c-kauwtabletten/p/2015259",
@@ -33,5 +33,6 @@
       "name": "Weerstand en of energie"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/he3/h02/32571532312606/prd-front-2015259-1_600x600/prd-front-2015259-1-600x600.jpg"
 }

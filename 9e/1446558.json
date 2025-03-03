@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3600",
   "supplier": "NUTRITION&SANTE BENELX",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028087",
+  "mmkId": "3028087",
+  "productGroupId": "468403",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/modifast-koffie-maaltijddrink/p/1446558",
@@ -33,5 +33,6 @@
       "name": "Maaltijdrepen, drinkmaaltijden"
     }
   ],
-  "description": "236ml"
+  "description": "236ml",
+  "image": "/medias/sys_master/prd-images/h53/h9a/28575732662302/prd-front-1446558-1_600x600/prd-front-1446558-1-600x600.jpg"
 }

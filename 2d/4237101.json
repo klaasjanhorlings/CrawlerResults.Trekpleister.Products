@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Senseo Café Latte Vanilla Coffee Pads",
+  "code": "4237101",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 4354 > 4355",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "3027987",
+  "mmkId": "3027987",
+  "productGroupId": "452323",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/douwe-egberts-senseo-cafe-latte-vanilla-coffee-pads/p/4237101",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267443,
+      "name": "Koffie"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/prd-front-4237101-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzI2Mjh8aW1hZ2UvanBlZ3xhR1EwTDJobE9DOHhOelEwT1RFd016ZzRORE14T0M5d2NtUXRabkp2Ym5RdE5ESXpOekV3TVMweFh6WXdNSGcyTURBfDA3OTYwMzRhNmRlOGY2YTg1Y2NiMzViZTM0MWU0YzZiZWVkZmZiYTM0ZmVlODI2NTgxOTJhZDE4NjA3NzQwMTM"
+}

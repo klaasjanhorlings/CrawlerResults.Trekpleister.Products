@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "3027763",
-  "mmkId": "3027763",
-  "productGroupId": "453733",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-100-natural-cedar-lime-deodorant-roller/p/5139275",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/prd-front-5139275-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjE4OTh8aW1hZ2UvanBlZ3xhR0UxTDJnellpOHhOamN3TVRnek16STBPRGM1T0M5d2NtUXRabkp2Ym5RdE5URXpPVEkzTlMweFh6WXdNSGcyTURBfDJiYjkxNTljZjY3ZjAxMGRmNmZlY2UxNDFiMTBhOGU4MWMxOWFhYmM4ZDlkMTA2ZTgxNzZiY2FmN2IwNzExYmM"
 }

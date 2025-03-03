@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3027766",
-  "mmkId": "3027766",
-  "productGroupId": "454705",
+  "onPromo": "3028000",
+  "mmkId": "3028000",
+  "productGroupId": "454708",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-almond-caring-badschuim/p/5813729",
@@ -33,5 +33,6 @@
       "name": "Badschuim"
     }
   ],
-  "description": "450ml"
+  "description": "450ml",
+  "image": "/medias/prd-front-5813729-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDMzNjJ8aW1hZ2UvanBlZ3xhRFF4TDJneFpTOHlOalkzTVRNd05EZzJOemczTUM5d2NtUXRabkp2Ym5RdE5UZ3hNemN5T1MweFh6WXdNSGcyTURBfGY2MjRkYTNhOTA4YTI4NWVmODAzMjlmODVkNjNhNjUwZDRmNmE1OTVlZGE3MGU5OWY0ZDg1OGQyOTExMmI0MTE"
 }

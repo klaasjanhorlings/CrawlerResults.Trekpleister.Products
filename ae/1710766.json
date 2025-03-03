@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 6602 > 6603",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3027761",
-  "mmkId": "3027761",
-  "productGroupId": "452801",
+  "onPromo": "3027981",
+  "mmkId": "3027981",
+  "productGroupId": "451000",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-white-lotus-douchescrub/p/1710766",
@@ -33,6 +33,5 @@
       "name": "Scrub"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/ha3/h8f/28869518458910/prd-front-1710766-1_600x600/prd-front-1710766-1-600x600.jpg"
+  "description": "200ml"
 }

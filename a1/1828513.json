@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3108 > 3485",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3027799",
-  "mmkId": "3027799",
-  "productGroupId": "459074",
+  "onPromo": "3028030",
+  "mmkId": "3028030",
+  "productGroupId": "460248",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-q10-5-in-1-verstevigende-cellulitis-gel/p/1828513",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h31/he4/33359163392030/prd-front-1828513-1_600x600/prd-front-1828513-1-600x600.jpg"
 }

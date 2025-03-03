@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,6 +37,5 @@
       "name": "Neusspray"
     }
   ],
-  "description": "Medisch hulpmiddel - 20ml",
-  "image": "/medias/sys_master/prd-images/h31/h31/33349258739742/prd-front-3902662-1_600x600/prd-front-3902662-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 20ml"
 }
