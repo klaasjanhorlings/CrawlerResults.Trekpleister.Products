@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Krups Dolce Gusto Piccolo XS Koffiemachine",
+  "code": "6054963",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 2454 > 2957 > 3751",
+  "supplier": "GROUPE SEB NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/krups-dolce-gusto-piccolo-xs-koffiemachine/p/6054963",
+  "listName": "Lister",
+  "brand": "Krups",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267103,
+      "name": "Huishoudelijke apparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hab/h85/32176771956766/prd-front-6054963-1_600x600/prd-front-6054963-1-600x600.jpg"
+}

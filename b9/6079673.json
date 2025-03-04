@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267046,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30267265,
-      "name": "Spieren en gewrichten"
-    },
-    {
-      "id": 30267537,
-      "name": "Spierwrijfmiddelen"
+      "id": 30267197,
+      "name": "Massageolie en massagelotion"
     }
   ],
   "description": "90ml",

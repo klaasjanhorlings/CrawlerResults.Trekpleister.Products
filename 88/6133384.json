@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Damesinstapsneakers",
+  "code": "6133384",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6351 > 6352 > 2487 > 3056 > 3904",
+  "supplier": "MIJNSCHOENENSHOP.NL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/damesinstapsneakers/p/6133384",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267094,
+      "name": "Schoenen"
+    },
+    {
+      "id": 30267415,
+      "name": "Damesschoenen"
+    }
+  ],
+  "description": "zwart, mt 39",
+  "image": "/medias/sys_master/prd-images/h54/hfa/31967753469982/prd-front-6133384-1_600x600/prd-front-6133384-1-600x600.jpg"
+}

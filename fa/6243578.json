@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6697",
   "supplier": "GUHL IKEBANA COSMETICS",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028006",
+  "mmkId": "3028006",
+  "productGroupId": "455885",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-kracht-volume-hoofdhuid-tonic/p/6243578",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h54/ha2/33105936187422/prd-front-6243578-1_600x600/prd-front-6243578-1-600x600.jpg"
 }

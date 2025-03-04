@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028030",
+  "mmkId": "3028030",
+  "productGroupId": "460248",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-protect-hydrate-spf50-zonnespray/p/4059476",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h6d/h73/33531711881246/prd-front-4059476-1_600x600/prd-front-4059476-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb3/h94/33540493377566/prd-front-4059476-1_600x600/prd-front-4059476-1-600x600.jpg"
 }

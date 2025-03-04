@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Fleuril Renew Color Bloesem Vloeibaar Wasmiddel",
+  "itemName": "Fleuril Renew Color Blossom Vloeibaar Wasmiddel",
   "code": "5987672",
   "price": "9.49",
   "priceOriginal": "21.49",
@@ -13,7 +13,7 @@
   "productGroupId": "451219",
   "brandType": "A of B merk",
   "discount": "€ 12,00",
-  "url": "/fleuril-renew-color-bloesem-vloeibaar-wasmiddel/p/5987672",
+  "url": "/fleuril-renew-color-blossom-vloeibaar-wasmiddel/p/5987672",
   "listName": "Lister",
   "brand": "Fleuril",
   "mpOrigin": "Kruidvat",
@@ -29,6 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "2550ml, 51 wasbeurten",
+  "description": "2430ml, 54 wasbeurten",
   "image": "/medias/sys_master/prd-images/h60/hb3/33371479244830/prd-front-5987672-1_600x600/prd-front-5987672-1-600x600.jpg"
 }

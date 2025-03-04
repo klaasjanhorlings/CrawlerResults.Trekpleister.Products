@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "GUHL IKEBANA COSMETICS",
-  "inStock": "inStock",
-  "onPromo": "3028100",
-  "mmkId": "3028100",
-  "productGroupId": "470720",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-protecture-8-lichtblond-beschermende-creme-haarkleuring/p/322252",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h6d/h60/29115948498974/prd-front-322252-1_600x600/prd-front-322252-1-600x600.jpg"
+  "description": ""
 }

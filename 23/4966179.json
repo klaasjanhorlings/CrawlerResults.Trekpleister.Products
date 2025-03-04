@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3108 > 3485",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028056",
+  "mmkId": "3028056",
+  "productGroupId": "465024",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/okeeffes-skin-repair-bodylotion/p/4966179",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "325ml",
-  "image": "/medias/sys_master/prd-images/hb2/h87/33535345066014/prd-front-4966179-1_600x600/prd-front-4966179-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0d/h39/33546052632606/prd-front-4966179-1_600x600/prd-front-4966179-1-600x600.jpg"
 }

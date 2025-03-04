@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "3028030",
-  "mmkId": "3028030",
-  "productGroupId": "460248",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-protect-bronze-spf30-zonnebrandspray/p/2459381",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h64/h75/33534971838494/prd-front-2459381-1_600x600/prd-front-2459381-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h04/h98/33544648785950/prd-front-2459381-1_600x600/prd-front-2459381-1-600x600.jpg"
 }

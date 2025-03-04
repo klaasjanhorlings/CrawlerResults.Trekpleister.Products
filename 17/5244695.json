@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Syoss Color Shampoo",
+  "itemName": "Syoss Intense Color Deep Caring Shampoo",
   "code": "5244695",
   "price": "7.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "458051",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/syoss-color-shampoo/p/5244695",
+  "url": "/syoss-intense-color-deep-caring-shampoo/p/5244695",
   "listName": "Lister",
   "brand": "Syoss",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "440ml"
+  "description": "440ml",
+  "image": "/medias/sys_master/prd-images/h6f/h17/33538816540702/prd-front-5244695-1_600x600/prd-front-5244695-1-600x600.jpg"
 }

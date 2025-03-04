@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Syoss Intense Keratin Shampoo",
+  "itemName": "Syoss Intense Keratin Deep Caring Shampoo",
   "code": "5244688",
   "price": "7.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028018",
+  "mmkId": "3028018",
+  "productGroupId": "458051",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/syoss-intense-keratin-shampoo/p/5244688",
+  "url": "/syoss-intense-keratin-deep-caring-shampoo/p/5244688",
   "listName": "Lister",
   "brand": "Syoss",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "440ml",
-  "image": "/medias/sys_master/prd-images/hd6/h30/33538899410974/prd-front-5244688-1_600x600/prd-front-5244688-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

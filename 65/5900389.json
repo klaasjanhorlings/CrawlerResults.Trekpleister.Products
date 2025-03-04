@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tupperware Essentials Eco Drinkfles",
+  "code": "5900389",
+  "price": "6.99",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "5926 > 5860 > 2195 > 4908 > 4954 > 5000",
+  "supplier": "TUPPERWARE PRODUCTS AG",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 3,00",
+  "url": "/tupperware-essentials-eco-drinkfles/p/5900389",
+  "listName": "Lister",
+  "brand": "Tupperware®",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267454,
+      "name": "Keuken"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/hf2/h8b/30026576003102/prd-front-5900389-1_600x600/prd-front-5900389-1-600x600.jpg"
+}
