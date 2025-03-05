@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Swirl Leddinerkaars",
+  "code": "6111509",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 6679 > 2146 > 5980 > 5997 > 6732",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "3028398",
+  "mmkId": "3028398",
+  "productGroupId": "471354",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-swirl-leddinerkaars/p/6111509",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267452,
+      "name": "Kaarsen"
+    }
+  ],
+  "description": "beige, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h87/hfb/31695673720862/prd-front-6111509-1_600x600/prd-front-6111509-1-600x600.jpg"
+}

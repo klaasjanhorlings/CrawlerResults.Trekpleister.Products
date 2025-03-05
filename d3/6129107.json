@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bolsius Cleanlight No Fragrance Navulling",
+  "code": "6129107",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 6679 > 2146 > 5962 > 5979 > 5996",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3028398",
+  "mmkId": "3028398",
+  "productGroupId": "471354",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bolsius-cleanlight-no-fragrance-navulling/p/6129107",
+  "listName": "Lister",
+  "brand": "Bolsius",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267452,
+      "name": "Kaarsen"
+    }
+  ],
+  "description": "2 stuks"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028005",
+  "mmkId": "3028005",
+  "productGroupId": "455806",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-glycolic-gloss-conditioner/p/6024464",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hd2/h93/30690820325406/prd-front-6024464-1_600x600/prd-front-6024464-1-600x600.jpg"
 }

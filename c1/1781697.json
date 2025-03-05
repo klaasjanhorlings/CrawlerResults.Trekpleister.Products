@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Maxi Theelichten",
+  "code": "1781697",
+  "price": "4.59",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 6679 > 2146 > 2631 > 2889 > 3664",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3028398",
+  "mmkId": "3028398",
+  "productGroupId": "471354",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-maxi-theelichten/p/1781697",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267452,
+      "name": "Kaarsen"
+    }
+  ],
+  "description": "12 stuks",
+  "image": "/medias/prd-front-1781697-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk4NzF8aW1hZ2UvanBlZ3xhREZrTDJnNFlpOHhOekV5TXpJM056azJNekk1TkM5d2NtUXRabkp2Ym5RdE1UYzRNVFk1TnkweFh6WXdNSGcyTURBfGY2MDdmOTcxMmVmNzNjOWYzMTEzMjdjNDk3NzBlMzU0OWU4MWQ3ZDc0YWE3NTY1ZGUyMmNjOTU0MmE4ZmI5MzM"
+}

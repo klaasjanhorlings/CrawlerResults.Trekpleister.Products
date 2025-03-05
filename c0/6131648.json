@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bolsius Cleanlight No Fragrance Starterkit",
+  "code": "6131648",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 6679 > 2146 > 2351 > 2704 > 3407",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3028398",
+  "mmkId": "3028398",
+  "productGroupId": "471354",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bolsius-cleanlight-no-fragrance-starterkit/p/6131648",
+  "listName": "Lister",
+  "brand": "Bolsius",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267452,
+      "name": "Kaarsen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hce/h64/31601874468894/prd-front-6131648-1_600x600/prd-front-6131648-1-600x600.jpg"
+}

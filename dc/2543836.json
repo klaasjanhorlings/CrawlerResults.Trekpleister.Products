@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": "175ml - Alle huidtypen",
-  "image": "/medias/prd-front-2543836-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODQ1NDR8aW1hZ2UvanBlZ3xhREZrTDJoalppOHhOelV6TnpnMU1EQTRNVE14TUM5d2NtUXRabkp2Ym5RdE1qVTBNemd6TmkweFh6WXdNSGcyTURBfDM2ZWUzYWEwNzI0NDYyMjc3ZDkzNTY0Mzg0MDQzOTdkOTM1YWUzOWQ2OWE0ZTM3OTcyMDRiZDAzMzkwYjI1YzI"
+  "description": "175ml - Alle huidtypen"
 }
