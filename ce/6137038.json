@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "ZURU NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "3028042",
-  "mmkId": "3028042",
-  "productGroupId": "461238",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/rascal-friends-maat-4-premium-luiers/p/6137038",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 5"
     }
   ],
-  "description": "mt 4 (10-15kg), 30 stuks",
-  "image": "/medias/sys_master/prd-images/h20/h9c/33267990134814/prd-front-6137038-1_600x600/prd-front-6137038-1-600x600.jpg"
+  "description": "mt 4 (10-15kg), 30 stuks"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "3028098",
-  "mmkId": "3028098",
-  "productGroupId": "469342",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-deluxe-smooth-sensitive-navulmesjes/p/5818720",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "3 stuks",
-  "image": "/medias/sys_master/prd-images/h5a/he9/29427799293982/prd-front-5818720-1_600x600/prd-front-5818720-1-600x600.jpg"
+  "description": "3 stuks"
 }
