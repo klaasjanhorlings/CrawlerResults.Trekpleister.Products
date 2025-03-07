@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Face Sensitive SPF50 Gezichtszonnecrème",
+  "code": "4700977",
+  "price": "20.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3028030",
+  "mmkId": "3028030",
+  "productGroupId": "460248",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-sun-face-sensitive-spf50-gezichtszonnecreme/p/4700977",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "50ml"
+}

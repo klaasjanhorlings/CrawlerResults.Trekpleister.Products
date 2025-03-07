@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Ambre Solaire Aftersun met Zelfbruiner",
+  "code": "4689049",
+  "price": "16.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-ambre-solaire-aftersun-met-zelfbruiner/p/4689049",
+  "listName": "Lister",
+  "brand": "Garnier Ambre Solaire",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267215,
+      "name": "Aftersun"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h20/haf/33562587070494/prd-front-4689049-1_600x600/prd-front-4689049-1-600x600.jpg"
+}

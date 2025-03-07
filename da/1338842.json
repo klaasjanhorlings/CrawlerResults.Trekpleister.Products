@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister High SPF30 Sunmilk",
+  "code": "1338842",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "DALLI - WERKE GMBH & CO",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-high-spf30-sunmilk/p/1338842",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h7f/h83/29991201144862/prd-front-1338842-1_600x600/prd-front-1338842-1-600x600.jpg"
+}

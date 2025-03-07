@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hawaiian Tropic Glowing Oil Tanning Oil",
+  "code": "5083639",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "WILKINSON SWORD GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/hawaiian-tropic-glowing-oil-tanning-oil/p/5083639",
+  "listName": "Lister",
+  "brand": "Hawaiian Tropic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267216,
+      "name": "Zelfbruiners"
+    }
+  ],
+  "description": "200ml"
+}

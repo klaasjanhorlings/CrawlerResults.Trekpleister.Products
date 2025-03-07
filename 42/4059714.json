@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Kids SPF50+ Sun Spray",
+  "code": "4059714",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "DERMCOS GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-kids-spf50-sun-spray/p/4059714",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/he6/h87/29999166128158/prd-front-4059714-1_600x600/prd-front-4059714-1-600x600.jpg"
+}

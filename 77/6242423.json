@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Protect & Hydrate Invisible Finish SPF50+ Zonnecrème",
+  "code": "6242423",
+  "price": "26.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-protect-hydrate-invisible-finish-spf50-zonnecreme/p/6242423",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h04/h9a/33549372653598/prd-front-6242423-1_600x600/prd-front-6242423-1-600x600.jpg"
+}

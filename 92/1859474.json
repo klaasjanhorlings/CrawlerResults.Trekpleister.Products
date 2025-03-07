@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Hydraterende & Kalmerende Aftersun Lotion",
+  "code": "1859474",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3028030",
+  "mmkId": "3028030",
+  "productGroupId": "460248",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-sun-hydraterende-kalmerende-aftersun-lotion/p/1859474",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267215,
+      "name": "Aftersun"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h8a/h21/33549367738398/prd-front-1859474-1_600x600/prd-front-1859474-1-600x600.jpg"
+}

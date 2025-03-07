@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jacob Hooy SPF20 Haarlemmer Bruin",
+  "code": "6234653",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "JACOB HOOY&CO BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jacob-hooy-spf20-haarlemmer-bruin/p/6234653",
+  "listName": "Lister",
+  "brand": "Jacob Hooy",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h38/hac/33160636170270/prd-front-6234653-1_600x600/prd-front-6234653-1-600x600.jpg"
+}

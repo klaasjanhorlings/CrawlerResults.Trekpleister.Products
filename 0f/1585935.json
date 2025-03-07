@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vision SPF30 Zonnebrandlotion",
+  "code": "1585935",
+  "price": "21.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "COOPER CONSUMER HEALTH NL B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vision-spf30-zonnebrandlotion/p/1585935",
+  "listName": "Lister",
+  "brand": "Vision",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "90ml",
+  "image": "/medias/sys_master/prd-images/hd2/h57/33161836920862/prd-front-1585935-1_600x600/prd-front-1585935-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Baby & Kids SPF50 Zonnebrandcrème",
+  "code": "5806722",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2714 > 3417",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-baby-kids-spf50-zonnebrandcreme/p/5806722",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc2/h09/29996237881374/prd-front-5806722-1_600x600/prd-front-5806722-1-600x600.jpg"
+}

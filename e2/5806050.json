@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hawaiian Tropic Silk Hydration SPF30 Spray",
+  "code": "5806050",
+  "price": "21.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "WILKINSON SWORD GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/hawaiian-tropic-silk-hydration-spf30-spray/p/5806050",
+  "listName": "Lister",
+  "brand": "Hawaiian Tropic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "177ml",
+  "image": "/medias/sys_master/prd-images/h8d/hcb/33165802962974/prd-front-5806050-1_600x600/prd-front-5806050-1-600x600.jpg"
+}

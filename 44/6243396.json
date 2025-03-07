@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Ambre Solaire Invisible Protect SPF30 Beschermende Mist",
+  "code": "6243396",
+  "price": "26.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-ambre-solaire-invisible-protect-spf30-beschermende-mist/p/6243396",
+  "listName": "Lister",
+  "brand": "Garnier Ambre Solaire",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hd1/h90/33105027301406/prd-front-6243396-1_600x600/prd-front-6243396-1-600x600.jpg"
+}

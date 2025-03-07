@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister 50% Deet Anti-Insect Spray",
+  "code": "3339925",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
+  "supplier": "PRIMMED BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-50-deet-anti-insect-spray/p/3339925",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267453,
+      "name": "Insectenbestrijding"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h99/h88/28548412637214/prd-front-3339925-1_600x600/prd-front-3339925-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Babies & Kids Sensitive Protect SPF50+ Zonnespray",
+  "code": "5604768",
+  "price": "32.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3028030",
+  "mmkId": "3028030",
+  "productGroupId": "460248",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-sun-babies-kids-sensitive-protect-spf50-zonnespray/p/5604768",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "270ml",
+  "image": "/medias/sys_master/prd-images/hdd/h6d/33549987643422/prd-front-5604768-1_600x600/prd-front-5604768-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Australian Gold Soothing Aloe Aftersun Gel",
+  "code": "3339806",
+  "price": "18.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
+  "supplier": "BRADFORD & HAMILTON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/australian-gold-soothing-aloe-aftersun-gel/p/3339806",
+  "listName": "Lister",
+  "brand": "Australian Gold",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267215,
+      "name": "Aftersun"
+    }
+  ],
+  "description": "237ml",
+  "image": "/medias/sys_master/prd-images/h2d/hff/33396394491934/prd-front-3339806-1_600x600/prd-front-3339806-1-600x600.jpg"
+}

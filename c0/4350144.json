@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Zwitsal Lotion Billendoekjes",
   "code": "4350144",
-  "price": "35.99",
+  "price": "36.99",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "UNILEVER NEDERLAND BV",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "12 x 65 stuks"
+  "description": "12 x 65 stuks",
+  "image": "/medias/sys_master/prd-images/h91/h03/31461068275742/prd-front-4350144-1_600x600/prd-front-4350144-1-600x600.jpg"
 }

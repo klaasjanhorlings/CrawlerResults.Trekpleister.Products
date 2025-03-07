@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Kids Protect & Hydrate SPF50+ Zonnemelk",
+  "code": "5818643",
+  "price": "18.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2714 > 3417",
+  "supplier": "BEIERSDORF NV BL",
+  "inStock": "inStock",
+  "onPromo": "3028030",
+  "mmkId": "3028030",
+  "productGroupId": "460248",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-sun-kids-protect-hydrate-spf50-zonnemelk/p/5818643",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h38/he8/33539790929950/prd-front-5818643-1_600x600/prd-front-5818643-1-600x600.jpg"
+}

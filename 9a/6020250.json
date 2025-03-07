@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bondi Sands Light/Medium Self Tan Drops",
+  "code": "6020250",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bondi-sands-light/medium-self-tan-drops/p/6020250",
+  "listName": "Lister",
+  "brand": "Bondi Sands",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267216,
+      "name": "Zelfbruiners"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h0e/h49/32480288604190/prd-front-6020250-1_600x600/prd-front-6020250-1-600x600.jpg"
+}

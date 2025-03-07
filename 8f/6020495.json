@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Ambre Solaire Super Uv Niacinamide SPF50+ Anti-Imperfecties Fluid",
+  "code": "6020495",
+  "price": "23.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-ambre-solaire-super-uv-niacinamide-spf50-anti-imperfecties-fluid/p/6020495",
+  "listName": "Lister",
+  "brand": "Garnier Ambre Solaire",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h62/h3a/33565914857502/prd-front-6020495-1_600x600/prd-front-6020495-1-600x600.jpg"
+}

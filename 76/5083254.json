@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Ambre Solaire Ideal Bronze SPF30 Beschermende Mist Zonnespray",
+  "code": "5083254",
+  "price": "25.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-ambre-solaire-ideal-bronze-spf30-beschermende-mist-zonnespray/p/5083254",
+  "listName": "Lister",
+  "brand": "Garnier Ambre Solaire",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h3e/h48/33564812476446/prd-front-5083254-1_600x600/prd-front-5083254-1-600x600.jpg"
+}

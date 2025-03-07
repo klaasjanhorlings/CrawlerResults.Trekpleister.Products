@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hawaiian Tropic Glowing Protection SPF50 Lotion",
+  "code": "5083688",
+  "price": "21.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "WILKINSON SWORD GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/hawaiian-tropic-glowing-protection-spf50-lotion/p/5083688",
+  "listName": "Lister",
+  "brand": "Hawaiian Tropic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "180ml",
+  "image": "/medias/sys_master/prd-images/h49/h9c/33349042929694/prd-front-5083688-1_600x600/prd-front-5083688-1-600x600.jpg"
+}

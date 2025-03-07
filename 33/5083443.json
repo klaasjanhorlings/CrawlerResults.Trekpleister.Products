@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Sensitive Immediate Protect SPF30 Zonnespray",
+  "code": "5083443",
+  "price": "26.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3028030",
+  "mmkId": "3028030",
+  "productGroupId": "460248",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-sun-sensitive-immediate-protect-spf30-zonnespray/p/5083443",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h6c/ha2/33562647330846/prd-front-5083443-1_600x600/prd-front-5083443-1-600x600.jpg"
+}

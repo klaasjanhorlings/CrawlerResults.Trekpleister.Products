@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "St. Moriz Professional 1 Hour Fast Tan Mist",
+  "code": "5602689",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/st-moriz-professional-1-hour-fast-tan-mist/p/5602689",
+  "listName": "Lister",
+  "brand": "St. Moriz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267216,
+      "name": "Zelfbruiners"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf5/h88/33103236333598/prd-front-5602689-1_600x600/prd-front-5602689-1-600x600.jpg"
+}

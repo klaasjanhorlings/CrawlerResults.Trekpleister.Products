@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Corine de Farme Liniment Calcium Balsem",
   "code": "4486350",
-  "price": "7.5",
+  "price": "8.5",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4152",
   "supplier": "LABORATOIRES SARBEC",
@@ -33,8 +33,8 @@
       "name": "Baby huidverzorging"
     },
     {
-      "id": 30267575,
-      "name": "Babycreme"
+      "id": 30267579,
+      "name": "Babylotion"
     }
   ],
   "description": "500ml",

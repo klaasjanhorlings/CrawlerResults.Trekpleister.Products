@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "B.Tan I Want The Darkest Tan Possible Darkest 1 Hour Self Tan Mousse",
+  "code": "6050077",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
+  "supplier": "MARQUE OF BRANDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/btan-i-want-the-darkest-tan-possible-darkest-1-hour-self-tan-mousse/p/6050077",
+  "listName": "Lister",
+  "brand": "B.TAN",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267216,
+      "name": "Zelfbruiners"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h4f/ha7/33541920260126/prd-front-6050077-1_600x600/prd-front-6050077-1-600x600.jpg"
+}

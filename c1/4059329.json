@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Biodermal After Sun Bruinverlengende Melk",
+  "code": "4059329",
+  "price": "26.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3028029",
+  "mmkId": "3028029",
+  "productGroupId": "460190",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/biodermal-after-sun-bruinverlengende-melk/p/4059329",
+  "listName": "Lister",
+  "brand": "Biodermal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267215,
+      "name": "Aftersun"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h73/hd3/33162444275742/prd-front-4059329-1_600x600/prd-front-4059329-1-600x600.jpg"
+}
