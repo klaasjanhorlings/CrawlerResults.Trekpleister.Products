@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Syoss Pantone 18-3530 Lavender Crystal Permanente Haarverf",
-  "code": "5571392",
+  "itemName": "Syoss Metallic Shine 10-15 Titanium Haarkleuring",
+  "code": "5046749",
   "price": "16.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "3028105",
-  "mmkId": "3028105",
-  "productGroupId": "470731",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/syoss-pantone-18-3530-lavender-crystal-permanente-haarverf/p/5571392",
+  "url": "/syoss-metallic-shine-10-15-titanium-haarkleuring/p/5046749",
   "listName": "Lister",
   "brand": "Syoss",
   "mpOrigin": "Kruidvat",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h9b/hee/32890095534110/prd-front-5571392-1_600x600/prd-front-5571392-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0d/h99/33589740404766/prd-front-5046749-1_600x600/prd-front-5046749-1-600x600.jpg"
 }
