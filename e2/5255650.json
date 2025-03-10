@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Mammoet XXXXL Keukenrol",
+  "code": "5255650",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 2973 > 3777",
+  "supplier": "ICT POLAND SP. Z.O.O.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-mammoet-xxxxl-keukenrol/p/5255650",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267454,
+      "name": "Keuken"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h36/hc9/28799625920542/prd-front-5255650-1_600x600/prd-front-5255650-1-600x600.jpg"
+}

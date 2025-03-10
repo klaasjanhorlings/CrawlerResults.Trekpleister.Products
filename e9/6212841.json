@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "inStock",
-  "onPromo": "3027998",
-  "mmkId": "3027998",
-  "productGroupId": "454411",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-paradise-big-deal-black-waterproof-mascara/p/6212841",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "9,9ml",
-  "image": "/medias/sys_master/prd-images/h43/h3a/33600863698974/prd-front-6212841-1_600x600/prd-front-6212841-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h63/h78/33608491696158/prd-front-6212841-1_600x600/prd-front-6212841-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Edet Tropical Morning Vochtig Toiletpapier",
+  "code": "5910938",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4082",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3028150",
+  "mmkId": "3028150",
+  "productGroupId": "453845",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/edet-tropical-morning-vochtig-toiletpapier/p/5910938",
+  "listName": "Lister",
+  "brand": "Edet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267123,
+      "name": "Toiletpapier"
+    }
+  ],
+  "description": "42 stuks",
+  "image": "/medias/sys_master/prd-images/h71/h32/31295073583134/prd-front-5910938-1_600x600/prd-front-5910938-1-600x600.jpg"
+}

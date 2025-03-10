@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2759 > 3950",
   "supplier": "HEALTHYPHARM BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Laxeermiddelen"
     }
   ],
-  "description": "Geneesmiddel - 6 stuks"
+  "description": "Geneesmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/h72/h6a/33284034265118/prd-front-21570-1_600x600/prd-front-21570-1-600x600.jpg"
 }

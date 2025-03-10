@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5678 > 5679",
   "supplier": "NESTLE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028159",
+  "mmkId": "3028159",
+  "productGroupId": "471036",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nestle-yogolino-12m-vanille-babytoetje/p/2559376",
@@ -33,5 +33,6 @@
       "name": "Babypap"
     }
   ],
-  "description": "4 x 100ml"
+  "description": "4 x 100ml",
+  "image": "/medias/prd-front-2559376-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA0ODg0fGltYWdlL2pwZWd8YURReEwyaGpOQzh5TmpRNU56RTVNREEyT0RJMU5DOXdjbVF0Wm5KdmJuUXRNalUxT1RNM05pMHhYell3TUhnMk1EQXxkMTMzYTU0ZjI5NjY2YWYzNGNjYjJiNjM5OTBiOGNjYTU0YzM2ODA1ZTdiYTg5NDg2NzMyYzlmZjI2MjI5MTc4"
 }

@@ -8,8 +8,8 @@
   "itemBgbcat": "5926 > 6679 > 2146 > 2631 > 2889 > 3664",
   "supplier": "BOLSIUS NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028398",
-  "mmkId": "3028398",
+  "onPromo": "3028562",
+  "mmkId": "3028562",
   "productGroupId": "471354",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Kaarsen"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h34/hc5/31602302582814/prd-front-6128596-1_600x600/prd-front-6128596-1-600x600.jpg"
+  "description": "30 stuks"
 }

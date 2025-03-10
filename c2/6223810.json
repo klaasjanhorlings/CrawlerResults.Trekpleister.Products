@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Shortama",
+  "code": "6223810",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6716 > 5795 > 2495 > 3061 > 3791",
+  "supplier": "FULLY FASHION",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/shortama/p/6223810",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267090,
+      "name": "Dames"
+    },
+    {
+      "id": 30267400,
+      "name": "Damespyjama's"
+    }
+  ],
+  "description": "blauw, mt L",
+  "image": "/medias/sys_master/prd-images/h0c/hf7/33544738930718/prd-front-6223810-1_600x600/prd-front-6223810-1-600x600.jpg"
+}
