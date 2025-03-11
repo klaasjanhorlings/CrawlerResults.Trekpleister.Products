@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alpina Koekenpan",
+  "code": "6180004",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 5860 > 2195 > 5091 > 5121 > 5124",
+  "supplier": "EDCO EINDHOVEN BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/alpina-koekenpan/p/6180004",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267454,
+      "name": "Keuken"
+    }
+  ],
+  "description": "Ø 24cm",
+  "image": "/medias/sys_master/prd-images/hec/hd2/32894339514398/prd-front-6180004-1_600x600/prd-front-6180004-1-600x600.jpg"
+}

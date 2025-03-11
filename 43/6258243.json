@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nestlé Little Steps 1 0-6 Maanden Standaard Zuigelingenmelk",
+  "code": "6258243",
+  "price": "13.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
+  "supplier": "NESTLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nestle-little-steps-1-0-6-maanden-standaard-zuigelingenmelk/p/6258243",
+  "listName": "Lister",
+  "brand": "Nestle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267559,
+      "name": "Zuigelingenmelk"
+    }
+  ],
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/hf0/hbf/33409599897630/prd-front-6258243-1_600x600/prd-front-6258243-1-600x600.jpg"
+}

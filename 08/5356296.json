@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3028041",
-  "mmkId": "3028041",
-  "productGroupId": "461162",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-excellence-cool-creme-311-ultra-as-donkerbruin-permanente-haarverf/p/5356296",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hee/h42/31763255132190/prd-front-5356296-1_600x600/prd-front-5356296-1-600x600.jpg"
+  "description": ""
 }

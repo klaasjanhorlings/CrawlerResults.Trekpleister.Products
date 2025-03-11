@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pokémon Pikachu Pantoffels",
+  "code": "6135295",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6351 > 6352 > 2487 > 3056 > 5804",
+  "supplier": "FLA EUROPE NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pokemon-pikachu-pantoffels/p/6135295",
+  "listName": "Lister",
+  "brand": "Pokemon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267095,
+      "name": "Pantoffels"
+    }
+  ],
+  "description": "mt 29",
+  "image": "/medias/sys_master/prd-images/h8a/hd6/32467397378078/prd-front-6135295-1_600x600/prd-front-6135295-1-600x600.jpg"
+}

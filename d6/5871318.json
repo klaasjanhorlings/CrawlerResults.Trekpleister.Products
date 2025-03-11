@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zonnatura Ochtendmelange Kruideninfusie",
+  "code": "5871318",
+  "price": "2.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2630 > 2947 > 3743",
+  "supplier": "WESSANEN BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zonnatura-ochtendmelange-kruideninfusie/p/5871318",
+  "listName": "Lister",
+  "brand": "Zonnatura",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267444,
+      "name": "Thee"
+    }
+  ],
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/h5c/h8b/29531825504286/prd-front-5871318-1_600x600/prd-front-5871318-1-600x600.jpg"
+}

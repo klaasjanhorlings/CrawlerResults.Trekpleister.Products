@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rascal + Friends Maat 2 Premium Luiers",
+  "code": "5302998",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
+  "supplier": "ZURU NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3028042",
+  "mmkId": "3028042",
+  "productGroupId": "461238",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/rascal-friends-maat-2-premium-luiers/p/5302998",
+  "listName": "Lister",
+  "brand": "Rascal + Friends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267342,
+      "name": "Luiers maat 2"
+    }
+  ],
+  "description": "mt 2 (4-8kg), 33 stuks",
+  "image": "/medias/sys_master/prd-images/hd9/hbc/30365119414302/prd-front-5302998-1_600x600/prd-front-5302998-1-600x600.jpg"
+}

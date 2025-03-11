@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028105",
+  "mmkId": "3028105",
+  "productGroupId": "470731",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-professional-performance-3-3-trendy-violet-permanente-haarkleuring/p/3569602",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h55/h70/33604372430878/prd-front-3569602-1_600x600/prd-front-3569602-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc3/h2f/33612205457438/prd-front-3569602-1_600x600/prd-front-3569602-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Australian Gold Golden Sunshine Intensifier Zonnebank Bruiningslotion",
+  "code": "3348829",
+  "price": "14.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3240 > 4131",
+  "supplier": "BRADFORD & HAMILTON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/australian-gold-golden-sunshine-intensifier-zonnebank-bruiningslotion/p/3348829",
+  "listName": "Lister",
+  "brand": "Australian Gold",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267216,
+      "name": "Zelfbruiners"
+    }
+  ],
+  "description": "130ml",
+  "image": "/medias/sys_master/prd-images/h10/h99/33420122161182/prd-front-3348829-1_600x600/prd-front-3348829-1-600x600.jpg"
+}

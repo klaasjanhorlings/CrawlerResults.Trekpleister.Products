@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nestlé Little Steps 3 12+ Maanden Standaard Dreumesmelk",
+  "code": "6258229",
+  "price": "13.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
+  "supplier": "NESTLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nestle-little-steps-3-12-maanden-standaard-dreumesmelk/p/6258229",
+  "listName": "Lister",
+  "brand": "Nestle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267561,
+      "name": "Dreumesmelk"
+    }
+  ],
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/ha9/h1f/33408898695198/prd-front-6258229-1_600x600/prd-front-6258229-1-600x600.jpg"
+}

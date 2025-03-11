@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028105",
+  "mmkId": "3028105",
+  "productGroupId": "470731",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-salonplex-4-8-chocoladebruin-permanente-haarkleuring/p/1825125",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h78/hf0/33607023591454/prd-front-1825125-1_600x600/prd-front-1825125-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he7/h6a/33613416038430/prd-front-1825125-1_600x600/prd-front-1825125-1-600x600.jpg"
 }

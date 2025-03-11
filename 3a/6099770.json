@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ambi Pur Fresh Water & Mint Toiletblok",
+  "code": "6099770",
+  "price": "1.49",
+  "priceOriginal": "3.19",
+  "itemBgbcat": "2007 > 2068 > 2194 > 6071 > 6073 > 6075",
+  "supplier": "BLUESUN CONSUMER BRANDS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,70",
+  "url": "/ambi-pur-fresh-water-mint-toiletblok/p/6099770",
+  "listName": "Lister",
+  "brand": "Ambi Pur",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267122,
+      "name": "Toiletblokken"
+    }
+  ],
+  "description": "55ml",
+  "image": "/medias/sys_master/prd-images/hbb/h5f/30818958835742/prd-front-6099770-1_600x600/prd-front-6099770-1-600x600.jpg"
+}
