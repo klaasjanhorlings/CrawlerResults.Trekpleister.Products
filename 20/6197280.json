@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
   "supplier": "STUDIO 100 NV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "Baby- en peuterspeelgoed"
     },
     {
-      "id": 69053992,
-      "name": "Bouwen"
+      "id": 30267389,
+      "name": "Vormenstoof"
     }
   ],
   "description": "",

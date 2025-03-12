@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "3028079",
-  "mmkId": "3028079",
-  "productGroupId": "467988",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-hydrogel-pads/p/5648875",
@@ -33,5 +33,6 @@
       "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h6a/h93/32146756599838/prd-front-5648875-1_600x600/prd-front-5648875-1-600x600.jpg"
 }
