@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3737",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "3 stuks",
-  "image": "/medias/sys_master/prd-images/h89/h59/32235490181150/prd-front-3173108-1_600x600/prd-front-3173108-1-600x600.jpg"
+  "description": "3 stuks"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2375 > 2815 > 3557",
   "supplier": "GUHL IKEBANA COSMETICS",
-  "inStock": "inStock",
-  "onPromo": "3028100",
-  "mmkId": "3028100",
-  "productGroupId": "470720",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-color-30-donkerbruin-forming-mousse/p/5912569",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf8/h85/28568219942942/prd-front-5912569-1_600x600/prd-front-5912569-1-600x600.jpg"
+  "description": ""
 }

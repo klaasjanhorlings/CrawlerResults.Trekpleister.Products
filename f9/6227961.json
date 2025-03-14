@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dove men Dove M+C Stick Adv Clean Co",
+  "itemName": "Dove Men+Care Clean Comfort Antitranspirant Deostick",
   "code": "6227961",
   "price": "5.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "454708",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dove-men-dove-mc-stick-adv-clean-co/p/6227961",
+  "url": "/dove-mencare-clean-comfort-antitranspirant-deostick/p/6227961",
   "listName": "Lister",
   "brand": "Dove Men",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Deostick"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h65/h69/33486275903518/prd-front-6227961-1_600x600/prd-front-6227961-1-600x600.jpg"
+  "description": "50ml"
 }

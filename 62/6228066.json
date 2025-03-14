@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rexona Rexona W Ap Max Pro Clean S",
+  "itemName": "Rexona Maximum Protection Clean Scent Antitranspirant Spray",
   "code": "6228066",
   "price": "8.75",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "454708",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rexona-rexona-w-ap-max-pro-clean-s/p/6228066",
+  "url": "/rexona-maximum-protection-clean-scent-antitranspirant-spray/p/6228066",
   "listName": "Lister",
   "brand": "Rexona",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h1f/h58/33540117921822/prd-front-6228066-1_600x600/prd-front-6228066-1-600x600.jpg"
+  "description": "150ml"
 }

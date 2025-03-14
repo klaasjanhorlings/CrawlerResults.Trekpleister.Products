@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Roxasect Anti-Mieren Poeder",
+  "code": "5662441",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2908 > 3705",
+  "supplier": "DUMMY INTERN",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/roxasect-anti-mieren-poeder/p/5662441",
+  "listName": "Lister",
+  "brand": "Roxasect",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267453,
+      "name": "Insectenbestrijding"
+    }
+  ],
+  "description": "75g",
+  "image": "/medias/prd-front-5662441-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mjg3OTR8aW1hZ2UvanBlZ3xhR1l6TDJnd05DOHhOekEzTmpFMk1ESXpNelV3TWk5d2NtUXRabkp2Ym5RdE5UWTJNalEwTVMweFh6WXdNSGcyTURBfDBkY2Y2NWQwYTlkZDQzZWNjMGY4NDVlOTQ2ZjdjYTAwYWJkNDUzM2Y1YmM3ZmVmZGU0NGE5ODkzYTE5Zjc2ZjQ"
+}
