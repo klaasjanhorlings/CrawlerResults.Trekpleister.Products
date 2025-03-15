@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Care Plus Anti-Insect Anti-Tick Spray",
+  "code": "6247148",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
+  "supplier": "TROPENZORG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/care-plus-anti-insect-anti-tick-spray/p/6247148",
+  "listName": "Lister",
+  "brand": "Care Plus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267268,
+      "name": "Insecten"
+    },
+    {
+      "id": 30267545,
+      "name": "Voor de beet"
+    }
+  ],
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h5c/h8d/33502243913758/prd-front-6247148-1_600x600/prd-front-6247148-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Silk-épil 7 Wet & Dry Epilator",
+  "code": "6261855",
+  "price": "107.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 5886 > 6439",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-silk-epil-7-wet-dry-epilator/p/6261855",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 74629216,
+      "name": "IPL lichtontharingsapparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hdc/hcc/33391763193886/prd-front-6261855-1_600x600/prd-front-6261855-1-600x600.jpg"
+}
