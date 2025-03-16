@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olay Hyaluronic Hydra Boost Hydraterende Gel Dagcrème",
+  "code": "5784770",
+  "price": "41.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3027959",
+  "mmkId": "3027959",
+  "productGroupId": "458390",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olay-hyaluronic-hydra-boost-hydraterende-gel-dagcreme/p/5784770",
+  "listName": "Lister",
+  "brand": "Olay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h6a/h7f/31596706103326/prd-front-5784770-1_600x600/prd-front-5784770-1-600x600.jpg"
+}
