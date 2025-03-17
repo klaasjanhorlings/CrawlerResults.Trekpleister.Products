@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028235",
+  "mmkId": "3028235",
+  "productGroupId": "458404",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/skincyclopedia-niacinamide-zinc-spf50-face-cream-serum/p/6085336",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h7e/h3d/30834958270494/prd-front-6085336-1_600x600/prd-front-6085336-1-600x600.jpg"
+  "description": "30ml"
 }

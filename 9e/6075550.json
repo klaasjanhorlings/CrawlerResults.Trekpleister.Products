@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3027992",
-  "mmkId": "3027992",
-  "productGroupId": "452770",
+  "onPromo": "3028204",
+  "mmkId": "3028204",
+  "productGroupId": "452773",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-expert-skin-health-natural-douchecreme/p/6075550",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "750ml"
+  "description": "750ml",
+  "image": "/medias/sys_master/prd-images/h85/ha0/31999459754014/prd-front-6075550-1_600x600/prd-front-6075550-1-600x600.jpg"
 }

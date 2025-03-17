@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028349",
+  "mmkId": "3028349",
+  "productGroupId": "469434",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-marvel-11198-spin-en-electro-achtervolging-met-dinosaurusvoertuigen/p/6226848",
@@ -33,5 +33,6 @@
       "name": "LEGO Marvel"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/h14/33147449016350/prd-front-6226848-1_600x600/prd-front-6226848-1-600x600.jpg"
 }

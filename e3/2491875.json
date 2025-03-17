@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5678 > 5679",
   "supplier": "NESTLE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028159",
-  "mmkId": "3028159",
-  "productGroupId": "471036",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nestle-6m-biscuit-pyjamapapje/p/2491875",
@@ -33,5 +33,6 @@
       "name": "Babypap"
     }
   ],
-  "description": "3 x 250ml"
+  "description": "3 x 250ml",
+  "image": "/medias/prd-front-2491875-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDY1MTV8aW1hZ2UvanBlZ3xhREEyTDJnMk55OHhOakkxTmpJNE56TXdPVGcxTkM5d2NtUXRabkp2Ym5RdE1qUTVNVGczTlMweFh6WXdNSGcyTURBfDQ5MDliZDViYThlOTQ2YjcwY2E2M2EzZWUxOTZkNTZhNGUwZjRlNDY1MjhhYmE0ZGM3NGJhYmM0ZjJlOTI5ZjI"
 }

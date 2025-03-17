@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "3028101",
-  "mmkId": "3028101",
-  "productGroupId": "470726",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/chopard-pink-wish-eau-de-toilette/p/6154503",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/ha6/h6a/32114715263006/prd-front-6154503-1_600x600/prd-front-6154503-1-600x600.jpg"
+  "description": "75ml"
 }

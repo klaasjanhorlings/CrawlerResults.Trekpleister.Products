@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Damessneakers",
+  "code": "6133454",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6351 > 6352 > 2487 > 3056 > 3904",
+  "supplier": "MIJNSCHOENENSHOP.NL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/damessneakers/p/6133454",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267094,
+      "name": "Schoenen"
+    },
+    {
+      "id": 30267415,
+      "name": "Damesschoenen"
+    }
+  ],
+  "description": "blauw, mt 38",
+  "image": "/medias/sys_master/prd-images/h4d/h1e/33488751624222/prd-front-6133454-1_600x600/prd-front-6133454-1-600x600.jpg"
+}

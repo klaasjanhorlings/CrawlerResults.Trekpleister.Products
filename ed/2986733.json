@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3028044",
-  "mmkId": "3028044",
-  "productGroupId": "461864",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skin-naturals-express-2-in-1-oogreinigingslotion/p/2986733",
@@ -37,5 +37,6 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "125ml - Gevoelige huid"
+  "description": "125ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/ha5/had/29799340539934/prd-front-2986733-1_600x600/prd-front-2986733-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028235",
+  "mmkId": "3028235",
+  "productGroupId": "458404",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/skincyclopedia-nacht-gezichtsserum/p/5933548",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h82/h1a/28851411615774/prd-front-5933548-1_600x600/prd-front-5933548-1-600x600.jpg"
 }

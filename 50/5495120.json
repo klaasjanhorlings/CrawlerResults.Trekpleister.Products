@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "3028035",
-  "mmkId": "3028035",
-  "productGroupId": "460443",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bausch-lomb-renu-mps-lensvloeistof/p/5495120",
@@ -33,6 +33,5 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel - 240ml",
-  "image": "/medias/sys_master/prd-images/h29/hf7/28553430761502/prd-front-5495120-1_600x600/prd-front-5495120-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 240ml"
 }

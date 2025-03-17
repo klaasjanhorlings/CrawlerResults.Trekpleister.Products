@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "BOLTON NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028202",
+  "mmkId": "3028202",
+  "productGroupId": "452177",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/borotalco-intensive-deodorant-roller/p/5105612",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h81/ha5/32819346636830/prd-front-5105612-1_600x600/prd-front-5105612-1-600x600.jpg"
+  "description": "50ml"
 }

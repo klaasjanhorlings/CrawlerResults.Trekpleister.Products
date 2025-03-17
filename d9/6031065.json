@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028177",
+  "mmkId": "3028177",
+  "productGroupId": "466453",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-harmonie-protect-care-calendula-babydoekjes/p/6031065",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "9 x 44 stuks",
-  "image": "/medias/sys_master/prd-images/hc6/h8d/31522884190238/prd-front-6031065-1_600x600/prd-front-6031065-1-600x600.jpg"
+  "description": "9 x 44 stuks"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3028005",
-  "mmkId": "3028005",
-  "productGroupId": "455806",
+  "onPromo": "3028220",
+  "mmkId": "3028220",
+  "productGroupId": "455813",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-fructis-quenching-aloe-vera-hair-food-shampoo/p/5051131",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "350ml"
+  "description": "350ml",
+  "image": "/medias/sys_master/prd-images/h1a/hdd/30139902558238/prd-front-5051131-1_600x600/prd-front-5051131-1-600x600.jpg"
 }

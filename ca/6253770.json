@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "3028139",
-  "mmkId": "3028139",
-  "productGroupId": "458538",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/waterwipes-soothing-clean-babydoekjes/p/6253770",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "12 x 60 stuks",
-  "image": "/medias/sys_master/prd-images/h4e/hd5/33240534810654/prd-front-6253770-1_600x600/prd-front-6253770-1-600x600.jpg"
+  "description": "12 x 60 stuks"
 }

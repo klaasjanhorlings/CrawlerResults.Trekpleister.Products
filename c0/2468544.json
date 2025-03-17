@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2038 > 2157 > 2385 > 2827 > 3841",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3028125",
-  "mmkId": "3028125",
-  "productGroupId": "461427",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/demakup-expert-ovale-wattenschijfjes/p/2468544",
@@ -33,6 +33,5 @@
       "name": "Wattenschijfjes en staafjes"
     }
   ],
-  "description": "50 stuks",
-  "image": "/medias/sys_master/prd-images/h4c/haf/31066149617694/prd-front-2468544-1_600x600/prd-front-2468544-1-600x600.jpg"
+  "description": "50 stuks"
 }

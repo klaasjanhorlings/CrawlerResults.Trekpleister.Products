@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3028014",
-  "mmkId": "3028014",
-  "productGroupId": "457750",
+  "onPromo": "3028227",
+  "mmkId": "3028227",
+  "productGroupId": "457131",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-dailies-fresh-normal-inlegkruisjes/p/5839930",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h6a/hbe/31876239294494/prd-front-5839930-1_600x600/prd-front-5839930-1-600x600.jpg"
 }

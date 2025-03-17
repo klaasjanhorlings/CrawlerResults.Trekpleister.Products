@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028228",
+  "mmkId": "3028228",
+  "productGroupId": "457132",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-fusion5-power-scheermesjes/p/1056707",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h81/h24/33334178021406/prd-front-1056707-1_600x600/prd-front-1056707-1-600x600.jpg"
+  "description": "4 stuks"
 }

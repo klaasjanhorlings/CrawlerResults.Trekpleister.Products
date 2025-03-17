@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028264",
+  "mmkId": "3028264",
+  "productGroupId": "465774",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-ambre-solaire-invisible-protect-spf30-zonnebrandspray/p/6243284",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h34/hf1/33110630367262/prd-front-6243284-1_600x600/prd-front-6243284-1-600x600.jpg"
+  "description": "150ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3028030",
-  "mmkId": "3028030",
-  "productGroupId": "460248",
+  "onPromo": "3028232",
+  "mmkId": "3028232",
+  "productGroupId": "458343",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-hold-5-ultra-strong-styling-haarmousse/p/20674",
@@ -33,6 +33,5 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h8a/h84/32805869748254/prd-front-20674-1_600x600/prd-front-20674-1-600x600.jpg"
+  "description": "150ml"
 }

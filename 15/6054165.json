@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3673",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028055",
-  "mmkId": "3028055",
-  "productGroupId": "464182",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kneipp-clean-beauty-bio-algen-zeezout-douchegel/p/6054165",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "200ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/hbf/h9f/31122046124062/prd-front-6054165-1_600x600/prd-front-6054165-1-600x600.jpg"
+  "description": "200ml - Droge huid"
 }

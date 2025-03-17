@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3027999",
-  "mmkId": "3027999",
-  "productGroupId": "454529",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/libresse-goodnight-ultra-night-wing-maandverband/p/35795",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/hd3/h92/32020208615454/prd-front-35795-1_600x600/prd-front-35795-1-600x600.jpg"
+  "description": "10 stuks"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2707 > 3891",
   "supplier": "NUTRITION&SANTE BENELX",
   "inStock": "inStock",
-  "onPromo": "3028087",
-  "mmkId": "3028087",
-  "productGroupId": "468403",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wecare-golden-banana-meal-replacement-shake/p/18829",
@@ -33,5 +33,6 @@
       "name": "Maaltijdvervangers"
     }
   ],
-  "description": "436g"
+  "description": "436g",
+  "image": "/medias/sys_master/prd-images/h51/h51/31687187529758/prd-front-18829-1_600x600/prd-front-18829-1-600x600.jpg"
 }

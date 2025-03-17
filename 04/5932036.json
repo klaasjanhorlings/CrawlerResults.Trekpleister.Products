@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3675",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3028166",
-  "mmkId": "3028166",
-  "productGroupId": "452772",
+  "onPromo": "3028204",
+  "mmkId": "3028204",
+  "productGroupId": "452773",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-dermo-active-freshness-antitranspirant-deoroller/p/5932036",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h39/he7/32930572271646/prd-front-5932036-1_600x600/prd-front-5932036-1-600x600.jpg"
 }

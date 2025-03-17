@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
   "supplier": "BABY CASE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028327",
+  "mmkId": "3028327",
+  "productGroupId": "471475",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-browns-fase-2-3m-flesspenen-voor-smalle-halsfles/p/3918244",
@@ -33,6 +33,5 @@
       "name": "Flessenspenen"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/hbe/hf5/29955121971230/prd-front-3918244-1_600x600/prd-front-3918244-1-600x600.jpg"
+  "description": "2 stuks"
 }

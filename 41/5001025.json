@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028055",
-  "mmkId": "3028055",
-  "productGroupId": "464182",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kneipp-goodbye-stress-watermunt-rozemarijn-badolie/p/5001025",
@@ -33,6 +33,5 @@
       "name": "Badolie"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-5001025-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjAwMzZ8aW1hZ2UvanBlZ3xhR00xTDJoaFppOHhOall6TlRBeE1ERXlNVGMxT0M5d2NtUXRabkp2Ym5RdE5UQXdNVEF5TlMweFh6WXdNSGcyTURBfDcyMjRjOTA3MTk3NWQwZjdmMjM4NDM3MzA3MGIwZjA2NDNjYjVjOGNhY2M3NGYwZjliMTgwZWVlNWVlYzVjOTE"
+  "description": "100ml"
 }

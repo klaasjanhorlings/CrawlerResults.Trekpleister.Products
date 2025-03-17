@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2913 > 3709",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
-  "onPromo": "3028074",
-  "mmkId": "3028074",
-  "productGroupId": "467171",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/mycosan-voet-schoenpoeder/p/4342248",
@@ -33,6 +33,5 @@
       "name": "Zweetvoeten"
     }
   ],
-  "description": "Medisch hulpmiddel - 65g",
-  "image": "/medias/sys_master/prd-images/hf1/hbd/28550887112734/prd-front-4342248-1_600x600/prd-front-4342248-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 65g"
 }

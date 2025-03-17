@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028212",
+  "mmkId": "3028212",
+  "productGroupId": "454698",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutral-deodorant-spray/p/4486329",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/prd-front-4486329-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTQyMTB8aW1hZ2UvanBlZ3xhRGRoTDJobE9TOHhOamN5T1RreE16TTVNekU0TWk5d2NtUXRabkp2Ym5RdE5EUTROak15T1MweFh6WXdNSGcyTURBfDIzMGUzYTk1MTE5MGJhM2U4ODZkMTc0Nzg0NzZkMTIyNTJkNGFlZmIyZTFkYzEyM2UyNzYzYzBlZjcwYWExMjU"
 }

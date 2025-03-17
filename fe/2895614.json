@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "COTY NETHERLANDS CB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028319",
+  "mmkId": "3028319",
+  "productGroupId": "470730",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mexx-woman-eau-de-toilette/p/2895614",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/hc5/hee/31387147862046/prd-front-2895614-1_600x600/prd-front-2895614-1-600x600.jpg"
 }

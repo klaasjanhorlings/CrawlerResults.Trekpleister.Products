@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "ALL-IN-1 BVBA",
   "inStock": "inStock",
-  "onPromo": "3028038",
-  "mmkId": "3028038",
-  "productGroupId": "461099",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/remescar-hals-decollete-creme/p/6025325",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "40ml, alle huidtypes"
+  "description": "40ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/he3/hc5/30503645937694/prd-front-6025325-1_600x600/prd-front-6025325-1-600x600.jpg"
 }

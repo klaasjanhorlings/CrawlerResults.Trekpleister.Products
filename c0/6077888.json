@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028307",
+  "mmkId": "3028307",
+  "productGroupId": "468770",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-io-series-8-elektrische-tandenborstels/p/6077888",
@@ -33,6 +33,5 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "paars, zwart, 2 stuks",
-  "image": "/medias/sys_master/prd-images/haf/hf2/30996083343390/prd-front-6077888-1_600x600/prd-front-6077888-1-600x600.jpg"
+  "description": "paars, zwart, 2 stuks"
 }

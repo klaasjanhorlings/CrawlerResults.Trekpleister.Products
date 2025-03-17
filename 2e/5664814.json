@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 2968 > 3770",
   "supplier": "UNILEVER ASIA PRIV. LTD",
   "inStock": "inStock",
-  "onPromo": "3028027",
-  "mmkId": "3028027",
-  "productGroupId": "460032",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vaseline-rosy-lip-therapy/p/5664814",
@@ -33,6 +33,5 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "7g",
-  "image": "/medias/sys_master/prd-images/hd6/h94/32303021752350/prd-front-5664814-1_600x600/prd-front-5664814-1-600x600.jpg"
+  "description": "7g"
 }

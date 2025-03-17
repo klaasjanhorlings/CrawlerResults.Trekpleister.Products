@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath That's Life Art Market Puzzel",
+  "code": "6202992",
+  "price": "3.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 4,00",
+  "url": "/goliath-thats-life-art-market-puzzel/p/6202992",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30267394,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "1000 stukjes",
+  "image": "/medias/sys_master/prd-images/h24/h96/33565197041694/prd-front-6202992-1_600x600/prd-front-6202992-1-600x600.jpg"
+}

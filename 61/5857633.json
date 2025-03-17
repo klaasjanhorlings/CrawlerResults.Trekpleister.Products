@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028312",
+  "mmkId": "3028312",
+  "productGroupId": "469325",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-oneblade-360-qp420/50-navulmesjes/p/5857633",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h60/h7a/28573931929630/prd-front-5857633-1_600x600/prd-front-5857633-1-600x600.jpg"
 }

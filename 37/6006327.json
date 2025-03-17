@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3028343",
+  "mmkId": "3028343",
+  "productGroupId": "466463",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-lasting-finish-35hr-500-toffee-foundation/p/6006327",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h7c/h2d/29797904220190/prd-front-6006327-1_600x600/prd-front-6006327-1-600x600.jpg"
 }

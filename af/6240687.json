@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Harry Potter 30706 Zwerkbal Les",
+  "code": "6240687",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3028349",
+  "mmkId": "3028349",
+  "productGroupId": "469434",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-harry-potter-30706-zwerkbal-les/p/6240687",
+  "listName": "Lister",
+  "brand": "LEGO Harry Potter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267373,
+      "name": "LEGO Harry Potter"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h76/h86/33613439631390/prd-front-6240687-1_600x600/prd-front-6240687-1-600x600.jpg"
+}

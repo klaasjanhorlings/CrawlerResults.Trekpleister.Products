@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028217",
+  "mmkId": "3028217",
+  "productGroupId": "455587",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanicur-bad-en-douche-gel/p/24569",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "1L - Normale huid"
+  "description": "1L - Normale huid",
+  "image": "/medias/sys_master/prd-images/h20/h23/28549185470494/prd-front-24569-1_600x600/prd-front-24569-1-600x600.jpg"
 }

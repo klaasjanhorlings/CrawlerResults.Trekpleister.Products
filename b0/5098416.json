@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028081",
-  "mmkId": "3028081",
-  "productGroupId": "468251",
+  "onPromo": "3028301",
+  "mmkId": "3028301",
+  "productGroupId": "468698",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zendium-sensitive-whitener-tandpasta/p/5098416",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h64/h74/32096678412318/prd-front-5098416-1_600x600/prd-front-5098416-1-600x600.jpg"
 }

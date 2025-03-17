@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Intense Spa Sensation Wasparfum",
+  "code": "6151003",
+  "price": "3.49",
+  "priceOriginal": "6.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 3,50",
+  "url": "/robijn-intense-spa-sensation-wasparfum/p/6151003",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 49313699,
+      "name": "Wasparfum"
+    }
+  ],
+  "description": "342ml",
+  "image": "/medias/sys_master/prd-images/h8a/h49/31944418230302/prd-front-6151003-1_600x600/prd-front-6151003-1-600x600.jpg"
+}

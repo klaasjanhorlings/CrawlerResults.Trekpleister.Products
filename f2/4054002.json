@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
-  "onPromo": "3028008",
-  "mmkId": "3028008",
-  "productGroupId": "456617",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wilkinson-sword-quattro-titanium-sensitive-limited-edition-navulmesjes/p/4054002",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "7 stuks"
+  "description": "7 stuks",
+  "image": "/medias/sys_master/prd-images/h94/hb0/28549890277406/prd-front-4054002-1_600x600/prd-front-4054002-1-600x600.jpg"
 }
