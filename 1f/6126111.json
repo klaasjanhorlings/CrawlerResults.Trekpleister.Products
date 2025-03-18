@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Inventum MK352S Automatische Melkopschuimer",
+  "code": "6126111",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 2454 > 2957 > 3751",
+  "supplier": "INVENTUM HUISHOUDELIJKE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/inventum-mk352s-automatische-melkopschuimer/p/6126111",
+  "listName": "Lister",
+  "brand": "Inventum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267103,
+      "name": "Huishoudelijke apparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h74/h6a/31270895091742/prd-front-6126111-1_600x600/prd-front-6126111-1-600x600.jpg"
+}

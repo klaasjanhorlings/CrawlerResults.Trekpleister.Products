@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028235",
+  "mmkId": "3028235",
+  "productGroupId": "458404",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-vitamine-c-glow-booster-liquid-care/p/6237152",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "120ml"
+  "description": "120ml",
+  "image": "/medias/sys_master/prd-images/hb1/h36/33352583348254/prd-front-6237152-1_600x600/prd-front-6237152-1-600x600.jpg"
 }

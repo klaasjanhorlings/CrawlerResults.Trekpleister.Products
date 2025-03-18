@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Geruite Herenpyjamabroek",
+  "code": "6189125",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6716 > 5795 > 2495 > 3061 > 3871",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/geruite-herenpyjamabroek/p/6189125",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267091,
+      "name": "Heren"
+    },
+    {
+      "id": 30267405,
+      "name": "Herenpyjama's"
+    }
+  ],
+  "description": "mt XL",
+  "image": "/medias/sys_master/prd-images/h38/h37/33155738861598/prd-front-6189125-1_600x600/prd-front-6189125-1-600x600.jpg"
+}

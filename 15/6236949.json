@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3028234",
-  "mmkId": "3028234",
-  "productGroupId": "458400",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-pure-active-pimple-patches/p/6236949",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "22 stuks",
-  "image": "/medias/sys_master/prd-images/h0a/hed/33671810252830/prd-front-6236949-1_600x600/prd-front-6236949-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2b/he2/33679972794398/prd-front-6236949-1_600x600/prd-front-6236949-1-600x600.jpg"
 }
