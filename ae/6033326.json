@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Fleuril Renew White Vloeibaar Wasmiddel",
+  "itemName": "Fleuril Renew White & Light Vloeibaar Wasmiddel",
   "code": "6033326",
   "price": "13.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "451257",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/fleuril-renew-white-vloeibaar-wasmiddel/p/6033326",
+  "url": "/fleuril-renew-white-light-vloeibaar-wasmiddel/p/6033326",
   "listName": "Lister",
   "brand": "Fleuril",
   "mpOrigin": "Kruidvat",
@@ -29,6 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "1350ml, 27 wasbeurten",
+  "description": "1350ml, 29 wasbeurten",
   "image": "/medias/sys_master/prd-images/ha1/h9a/33586542510110/prd-front-6033326-1_600x600/prd-front-6033326-1-600x600.jpg"
 }

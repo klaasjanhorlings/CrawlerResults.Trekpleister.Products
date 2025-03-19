@@ -5,7 +5,7 @@
   "code": "6241247",
   "price": "14.49",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4344 > 4345",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
   "onPromo": "3028280",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4 (9-14 kg), 25 stuks",
-  "image": "/medias/sys_master/prd-images/h4c/h32/33351615479838/prd-front-6241247-1_600x600/prd-front-6241247-1-600x600.jpg"
+  "description": "mt 4 (9-14 kg), 25 stuks"
 }
