@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "CURATEX GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028328",
+  "mmkId": "3028328",
+  "productGroupId": "472428",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-classic-long-inlegkruisjes/p/4392711",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "45 stuks"
+  "description": "45 stuks",
+  "image": "/medias/sys_master/prd-images/h79/h11/28585206218782/prd-front-4392711-1_600x600/prd-front-4392711-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L Oréal Paris Matte Signature 03 Bruin Eyeliner",
+  "code": "4844694",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3027998",
+  "mmkId": "3027998",
+  "productGroupId": "454411",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/l-oreal-paris-matte-signature-03-bruin-eyeliner/p/4844694",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267143,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4844694-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTYwMTV8aW1hZ2UvanBlZ3xhRGswTDJoallTOHhOall5TURJMk1qTXlOak13TWk5d2NtUXRabkp2Ym5RdE5EZzBORFk1TkMweFh6WXdNSGcyTURBfGMzN2FiZDRmZTMxM2UwMDY0YjQ4NGIyNzhjYTFmODBkZGY4NDU4ZjlhZjk2N2FkMWRjZjY0MTE4MzJiODRmODA"
+}

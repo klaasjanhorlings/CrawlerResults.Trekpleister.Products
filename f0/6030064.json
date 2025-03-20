@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Premium Protection Maat 2 Luiers",
+  "code": "6030064",
+  "price": "28.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4350 > 4351",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3028339",
+  "mmkId": "3028339",
+  "productGroupId": "481504",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-premium-protection-maat-2-luiers/p/6030064",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267342,
+      "name": "Luiers maat 2"
+    }
+  ],
+  "description": "mt 2, (4-8kg), 68 stuks",
+  "image": "/medias/sys_master/prd-images/hc7/hb0/30484098678814/prd-front-6030064-1_600x600/prd-front-6030064-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028218",
+  "mmkId": "3028218",
+  "productGroupId": "455808",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-gember-boost-conditioner/p/5207952",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h50/hf8/29791593103390/prd-front-5207952-1_600x600/prd-front-5207952-1-600x600.jpg"
 }
