@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Harmonie Maat 6 Luiers",
+  "code": "6262177",
+  "price": "53.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3028176",
+  "mmkId": "3028176",
+  "productGroupId": "466429",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-harmonie-maat-6-luiers/p/6262177",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267346,
+      "name": "Luiers maat 6"
+    }
+  ],
+  "description": "Maat 6 (13+kg), 62 stuks",
+  "image": "/medias/sys_master/prd-images/h2e/h41/33352583020574/prd-front-6262177-1_600x600/prd-front-6262177-1-600x600.jpg"
+}

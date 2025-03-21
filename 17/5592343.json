@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Men Sterk & Verzorgend Shampoo",
+  "code": "5592343",
+  "price": "6.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3028285",
+  "mmkId": "3028285",
+  "productGroupId": "466504",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-men-sterk-verzorgend-shampoo/p/5592343",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h49/h4f/28551266304030/prd-front-5592343-1_600x600/prd-front-5592343-1-600x600.jpg"
+}

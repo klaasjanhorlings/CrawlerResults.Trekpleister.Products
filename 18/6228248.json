@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3028349",
-  "mmkId": "3028349",
-  "productGroupId": "469434",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-art-31214-love/p/6228248",
@@ -33,5 +33,6 @@
       "name": "LEGO Verjaardagscadeaus"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4b/h32/33355988205598/prd-front-6228248-1_600x600/prd-front-6228248-1-600x600.jpg"
 }

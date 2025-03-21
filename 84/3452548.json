@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Pure Geschenkset",
+  "code": "3452548",
+  "price": "10.99",
+  "priceOriginal": "12.69",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,70",
+  "url": "/nivea-men-pure-geschenkset/p/3452548",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h22/ha7/32789391114270/prd-front-3452548-1_600x600/prd-front-3452548-1-600x600.jpg"
+}

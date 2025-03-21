@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6321",
   "supplier": "ORIGINAL ADDITIONS (BP)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "Haaraccessoires"
     },
     {
-      "id": 30267181,
-      "name": "Haarborstels"
+      "id": 30267182,
+      "name": "Kammen"
     }
   ],
   "description": "grijs",

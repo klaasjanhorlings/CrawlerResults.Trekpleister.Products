@@ -7,10 +7,10 @@
   "priceOriginal": "45.99",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
   "supplier": "HENKEL NEDERLAND BV U-W",
-  "inStock": "inStock",
-  "onPromo": "3028153",
-  "mmkId": "3028153",
-  "productGroupId": "457296",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 34,00",
   "url": "/color-reus-vloeibaar-wasmiddel/p/5851305",
@@ -29,5 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "4,5L, 100 wasbeurten"
+  "description": "4,5L, 100 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hbb/he1/30885817024542/prd-front-5851305-1_600x600/prd-front-5851305-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
   "supplier": "NESTLE NEDERLAND B.V",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h26/h64/33690899644446/prd-front-6103844-1_600x600/prd-front-6103844-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1e/h5d/33700889493534/prd-front-6103844-1_600x600/prd-front-6103844-1-600x600.jpg"
 }

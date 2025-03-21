@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Van Gils Strictly For Men Geschenkset",
+  "code": "5287052",
+  "price": "10.99",
+  "priceOriginal": "25.9",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 14,91",
+  "url": "/van-gils-strictly-for-men-geschenkset/p/5287052",
+  "listName": "Lister",
+  "brand": "Van Gils",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666312,
+      "name": "Geschenkset voor hem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hac/hd1/29133961101342/prd-front-5287052-1_600x600/prd-front-5287052-1-600x600.jpg"
+}
