@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "mt M, 8 stuks"
+  "description": "mt M, 8 stuks",
+  "image": "/medias/sys_master/prd-images/h09/h61/30858370678814/prd-front-6060605-1_600x600/prd-front-6060605-1-600x600.jpg"
 }

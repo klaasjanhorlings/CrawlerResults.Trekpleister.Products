@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "3028358",
-  "mmkId": "3028358",
-  "productGroupId": "461195",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-baby-kids-mini-set/p/5608786",
@@ -37,6 +37,5 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "4 x 15ml",
-  "image": "/medias/sys_master/prd-images/hff/hc2/28616551333918/prd-front-5608786-1_600x600/prd-front-5608786-1-600x600.jpg"
+  "description": "4 x 15ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "3028358",
-  "mmkId": "3028358",
-  "productGroupId": "461195",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-baby-kids-wash-gel-navulling/p/5961303",
@@ -37,5 +37,6 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/hf4/h9b/32789590507550/prd-front-5961303-1_600x600/prd-front-5961303-1-600x600.jpg"
 }

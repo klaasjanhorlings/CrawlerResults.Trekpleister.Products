@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Maybelline New York The Colossal 100% Black Waterproof Mascara",
-  "code": "5998445",
-  "price": "16.99",
+  "itemName": "Maybelline New York Lash Sensational Sky High Volume Mascara",
+  "code": "5998361",
+  "price": "20.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "inStock",
-  "onPromo": "3027998",
-  "mmkId": "3027998",
-  "productGroupId": "454411",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/maybelline-new-york-the-colossal-100-black-waterproof-mascara/p/5998445",
+  "url": "/maybelline-new-york-lash-sensational-sky-high-volume-mascara/p/5998361",
   "listName": "Lister",
   "brand": "Maybelline",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hc7/h9c/32104684421150/prd-front-5998445-1_600x600/prd-front-5998445-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4b/h92/32104684748830/prd-front-5998361-1_600x600/prd-front-5998361-1-600x600.jpg"
 }

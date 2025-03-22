@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "DIFRAX BV",
-  "inStock": "inStock",
-  "onPromo": "3028370",
-  "mmkId": "3028370",
-  "productGroupId": "477301",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-lovi-mammafeel-fles/p/6143506",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h56/h2e/32150806134814/prd-front-6143506-1_600x600/prd-front-6143506-1-600x600.jpg"
 }
