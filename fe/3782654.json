@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Liftende Nachtcrème",
+  "code": "3782654",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-liftende-nachtcreme/p/3782654",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-3782654-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzc5MDl8aW1hZ2UvanBlZ3xhRE15TDJnNFlTOHhOalEwTkRrNU9UYzJNVGsxTUM5d2NtUXRabkp2Ym5RdE16YzRNalkxTkMweFh6WXdNSGcyTURBfGFlYmQzNmMxY2EwZWFkY2JhYTE1YTYzZWUwNmE5Mjg3MjU5NDdjM2EyZDE3MjI0YTI4MmY3MTIyOWFmYTJmOTM"
+}
