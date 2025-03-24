@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3028246",
-  "mmkId": "3028246",
-  "productGroupId": "460971",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-excellence-creme-7-middenblond-permanente-haarverf/p/16737",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h91/hb2/32293791105054/prd-front-16737-1_600x600/prd-front-16737-1-600x600.jpg"
+  "description": ""
 }

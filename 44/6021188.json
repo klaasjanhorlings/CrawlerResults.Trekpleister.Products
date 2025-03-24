@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lenor Gouden Orchidee Wasverzachter",
+  "code": "6021188",
+  "price": "3.99",
+  "priceOriginal": "6.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3028387",
+  "mmkId": "3028387",
+  "productGroupId": "458933",
+  "brandType": "A of B merk",
+  "discount": "€ 3,00",
+  "url": "/lenor-gouden-orchidee-wasverzachter/p/6021188",
+  "listName": "Lister",
+  "brand": "Lenor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267115,
+      "name": "Wasverzachter"
+    }
+  ],
+  "description": "840ml/40 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hc0/h60/33642645946398/prd-front-6021188-1_600x600/prd-front-6021188-1-600x600.jpg"
+}

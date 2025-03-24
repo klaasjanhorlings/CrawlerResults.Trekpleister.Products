@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3028349",
-  "mmkId": "3028349",
-  "productGroupId": "469434",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-creator-3-in-1-31151-t-rex/p/6086855",
@@ -33,6 +33,5 @@
       "name": "LEGO Creator"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h54/h94/30948228431902/prd-front-6086855-1_600x600/prd-front-6086855-1-600x600.jpg"
+  "description": ""
 }

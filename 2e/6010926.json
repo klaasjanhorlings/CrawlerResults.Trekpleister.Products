@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028388",
+  "mmkId": "3028388",
+  "productGroupId": "461117",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bio-oil-huidverzorgingsolie/p/6010926",
@@ -33,6 +33,5 @@
       "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/h2d/h05/32437360361502/prd-front-6010926-1_600x600/prd-front-6010926-1-600x600.jpg"
+  "description": "2 stuks"
 }

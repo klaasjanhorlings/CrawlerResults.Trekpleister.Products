@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3028395",
+  "mmkId": "3028395",
+  "productGroupId": "472690",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-melted-sun-015-sunkissed-liquid-bronzer/p/6233589",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h81/hd0/33040237887518/prd-front-6233589-1_600x600/prd-front-6233589-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fietsponcho",
+  "code": "6181159",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 4294 > 6347 > 6348 > 6349",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/fietsponcho/p/6181159",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267419,
+      "name": "Regenkleding"
+    }
+  ],
+  "description": "grijs, 110cm x 130cm",
+  "image": "/medias/sys_master/prd-images/h4a/hc9/32084932395038/prd-front-6181159-1_600x600/prd-front-6181159-1-600x600.jpg"
+}
