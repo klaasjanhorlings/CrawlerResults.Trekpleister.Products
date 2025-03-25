@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Inventum CG616 Contactgrill",
+  "code": "4906098",
+  "price": "17.99",
+  "priceOriginal": "34.99",
+  "itemBgbcat": "5929 > 6019 > 2197 > 2454 > 2957 > 3751",
+  "supplier": "INVENTUM HUISHOUDELIJKE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 17,00",
+  "url": "/inventum-cg616-contactgrill/p/4906098",
+  "listName": "Lister",
+  "brand": "Inventum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267103,
+      "name": "Huishoudelijke apparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h91/h0e/30398800461854/prd-front-4906098-1_600x600/prd-front-4906098-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Platinum Long Maandverband",
+  "code": "4772594",
+  "price": "3.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3028227",
+  "mmkId": "3028227",
+  "productGroupId": "457131",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-platinum-long-maandverband/p/4772594",
+  "listName": "Lister",
+  "brand": "Always",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267219,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "mt 2, 20 stuks",
+  "image": "/medias/sys_master/prd-images/h9d/h0a/33455869788190/prd-front-4772594-1_600x600/prd-front-4772594-1-600x600.jpg"
+}

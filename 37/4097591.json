@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Droge en gevoelige huid"
+  "description": "50ml - Droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hc5/hec/30209659699230/prd-front-4097591-1_600x600/prd-front-4097591-1-600x600.jpg"
 }

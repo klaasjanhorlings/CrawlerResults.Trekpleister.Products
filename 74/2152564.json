@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "3028214",
-  "mmkId": "3028214",
-  "productGroupId": "454724",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-women-invisible-aqua-antitranspirant-spray/p/2152564",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hff/hcc/33732896129054/prd-front-2152564-1_600x600/prd-front-2152564-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he5/h1d/33740400066590/prd-front-2152564-1_600x600/prd-front-2152564-1-600x600.jpg"
 }

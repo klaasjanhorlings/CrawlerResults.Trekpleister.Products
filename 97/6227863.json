@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3785",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028214",
+  "mmkId": "3028214",
+  "productGroupId": "454724",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-whole-body-raspberry-rose-deodorant-spray/p/6227863",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h92/h08/33731932422174/prd-front-6227863-1_600x600/prd-front-6227863-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha4/hc0/33739937021982/prd-front-6227863-1_600x600/prd-front-6227863-1-600x600.jpg"
 }

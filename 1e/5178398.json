@@ -7,7 +7,7 @@
   "priceOriginal": "24.99",
   "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6715",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Tondeuses"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hab/h9a/31687208501278/prd-front-5178398-1_600x600/prd-front-5178398-1-600x600.jpg"
+  "description": ""
 }

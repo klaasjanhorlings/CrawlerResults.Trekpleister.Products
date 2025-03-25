@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tristar  5,5 Liter Digitale Airfryer",
+  "code": "6171702",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 2454 > 2957 > 3751",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tristar-5-5-liter-digitale-airfryer/p/6171702",
+  "listName": "Lister",
+  "brand": "Tristar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267103,
+      "name": "Huishoudelijke apparaten"
+    }
+  ],
+  "description": "5,5 liter",
+  "image": "/medias/sys_master/prd-images/h5c/had/31685696421918/prd-front-6171702-1_600x600/prd-front-6171702-1-600x600.jpg"
+}

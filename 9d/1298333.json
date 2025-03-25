@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028232",
+  "mmkId": "3028232",
+  "productGroupId": "458343",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-diamond-gloss-care-hold-4-styling-hairspray/p/1298333",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hcb/h57/32805872042014/prd-front-1298333-1_600x600/prd-front-1298333-1-600x600.jpg"
 }

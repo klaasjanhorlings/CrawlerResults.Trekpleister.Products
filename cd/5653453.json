@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 3270 > 4171",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Kleefpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 70g"
+  "description": "Medisch hulpmiddel - 70g",
+  "image": "/medias/sys_master/prd-images/h1f/ha7/28579600990238/prd-front-5653453-1_600x600/prd-front-5653453-1-600x600.jpg"
 }

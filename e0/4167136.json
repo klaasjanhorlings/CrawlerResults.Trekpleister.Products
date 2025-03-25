@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "inStock",
-  "onPromo": "3027998",
-  "mmkId": "3027998",
-  "productGroupId": "454411",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/l-oreal-paris-true-match-10d/10w-deep-golden-foundation/p/4167136",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h6e/hd3/33512422440990/prd-front-4167136-1_600x600/prd-front-4167136-1-600x600.jpg"
+  "description": "30ml"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6326",
   "supplier": "NEW FLAG BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Haarelastiekjes"
     }
   ],
-  "description": "3 stuks",
-  "image": "/medias/sys_master/prd-images/h19/h5f/28582702415902/prd-front-5882147-1_600x600/prd-front-5882147-1-600x600.jpg"
+  "description": "3 stuks"
 }

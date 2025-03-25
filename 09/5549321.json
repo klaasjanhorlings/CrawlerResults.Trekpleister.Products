@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028279",
+  "mmkId": "3028279",
+  "productGroupId": "466370",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-v12-power-styling-gel/p/5549321",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h2b/h9f/33729503166494/prd-front-5549321-1_600x600/prd-front-5549321-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha9/h8b/33736691875870/prd-front-5549321-1_600x600/prd-front-5549321-1-600x600.jpg"
 }

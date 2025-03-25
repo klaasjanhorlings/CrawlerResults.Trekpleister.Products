@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Harmonie Maat 1 Luiers",
+  "code": "6026116",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3028280",
+  "mmkId": "3028280",
+  "productGroupId": "466425",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-harmonie-maat-1-luiers/p/6026116",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267341,
+      "name": "Luiers maat 1"
+    }
+  ],
+  "description": "mt 1 (2-5kg), 22 stuks",
+  "image": "/medias/sys_master/prd-images/hed/h39/30480732323870/prd-front-6026116-1_600x600/prd-front-6026116-1-600x600.jpg"
+}

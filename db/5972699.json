@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Murray's Caffeine Edgewax",
+  "code": "5972699",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/murrays-caffeine-edgewax/p/5972699",
+  "listName": "Lister",
+  "brand": "Murrays",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267486,
+      "name": "Haarwax"
+    }
+  ],
+  "description": "114g",
+  "image": "/medias/sys_master/prd-images/h2b/he2/28822771793950/prd-front-5972699-1_600x600/prd-front-5972699-1-600x600.jpg"
+}

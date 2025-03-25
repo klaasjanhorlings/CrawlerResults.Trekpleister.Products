@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Van Gils Geschenkset",
+  "code": "5127515",
+  "price": "12.99",
+  "priceOriginal": "29.85",
+  "itemBgbcat": "2002 > 5861 > 5864 > 2440 > 2935 > 3730",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 16,86",
+  "url": "/van-gils-geschenkset/p/5127515",
+  "listName": "Lister",
+  "brand": "Van Gils",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666312,
+      "name": "Geschenkset voor hem"
+    }
+  ],
+  "description": "3 x 150ml",
+  "image": "/medias/sys_master/prd-images/h01/h1a/29057752891422/prd-front-5127515-1_600x600/prd-front-5127515-1-600x600.jpg"
+}

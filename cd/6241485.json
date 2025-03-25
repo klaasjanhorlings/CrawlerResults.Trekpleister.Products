@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2183 > 4933 > 4980 > 5026",
   "supplier": "MATTEL EUROPA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Speelfiguren en speelsets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha1/h51/32923292794910/prd-front-6241485-1_600x600/prd-front-6241485-1-600x600.jpg"
+  "description": ""
 }
