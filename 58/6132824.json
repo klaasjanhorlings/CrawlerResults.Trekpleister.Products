@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 4640 > 5190 > 5369 > 5558",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Speelfiguren en speelsets"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1a/h1f/31823098445854/prd-front-6132824-1_600x600/prd-front-6132824-1-600x600.jpg"
 }

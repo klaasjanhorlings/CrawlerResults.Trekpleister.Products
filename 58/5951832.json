@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "3028279",
-  "mmkId": "3028279",
-  "productGroupId": "466370",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-overnight-fresh-wonder-droogshampoo-mousse/p/5951832",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/he1/h8d/33736122564638/prd-front-5951832-1_600x600/prd-front-5951832-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h75/h46/33746923454494/prd-front-5951832-1_600x600/prd-front-5951832-1-600x600.jpg"
 }

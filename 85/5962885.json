@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
   "supplier": "HERO NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Opvolgmelk"
     }
   ],
-  "description": "750g",
-  "image": "/medias/sys_master/prd-images/hc9/h8a/32824648433694/prd-front-5962885-1_600x600/prd-front-5962885-1-600x600.jpg"
+  "description": "750g"
 }

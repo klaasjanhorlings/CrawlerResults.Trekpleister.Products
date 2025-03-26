@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": "Medisch hulpmiddel - 66 stuks",
-  "image": "/medias/prd-front-4814944-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzg5MDF8aW1hZ2UvanBlZ3xhREUxTDJoaE9DOHhOall4TnpreE5UQTFOakUxT0M5d2NtUXRabkp2Ym5RdE5EZ3hORGswTkMweFh6WXdNSGcyTURBfDU5NDRmYmEyYjczZDllYzljY2MzMjY0MDM0Mjg2MTJjZDVjZTQ5NjRlODBjMjJkYTkwZDYyYmI3NjViYmZjYjU"
+  "description": "Medisch hulpmiddel - 66 stuks"
 }

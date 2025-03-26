@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Identity Games Escape Room The Game: Puzzle Adventures - Secret of the Scientist",
+  "code": "5366432",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5164 > 5227 > 5416",
+  "supplier": "IDENTITY GAMES INT. BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/identity-games-escape-room-the-game-puzzle-adventures-secret-of-the-scientist/p/5366432",
+  "listName": "Lister",
+  "brand": "Identity Games",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30267394,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/prd-front-5366432-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODIzNTh8aW1hZ2UvanBlZ3xhRGMxTDJoaFl5OHhOekExT0RRNU16WXlPRFEwTmk5d2NtUXRabkp2Ym5RdE5UTTJOalF6TWkweFh6WXdNSGcyTURBfGNjOThjMTNlNmVlZDk0NDZkNjQ1ZmU5NzdlY2I4NDlhZDQ3MDBkZWExNmE1ZDNjZTQzNWY2YmE4MmRlOGI0OWE"
+}
