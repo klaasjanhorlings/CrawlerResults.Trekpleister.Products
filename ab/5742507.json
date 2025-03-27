@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "ORANGE-SHEEP BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028211",
+  "mmkId": "3028211",
+  "productGroupId": "453732",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-baby-kids-100-natural-cream-oil-wash/p/5742507",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/prd-front-5742507-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTU0Nzl8aW1hZ2UvanBlZ3xhRGMzTDJoak1DOHhOekEwT0RBME9USTROekU1T0M5d2NtUXRabkp2Ym5RdE5UYzBNalV3TnkweFh6WXdNSGcyTURBfDIwMDA0NGM4YWMyMmUwNTg0ZjNjMWFmMWE4NDhlODk1YjU1OTJiZDczMjQzMzQ4Mzg0NjdlMDVlOTkwNmJmMDc"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

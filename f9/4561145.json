@@ -7,10 +7,10 @@
   "priceOriginal": "2.29",
   "itemBgbcat": "2007 > 2077 > 2235 > 2658 > 3151 > 4020",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "3028150",
-  "mmkId": "3028150",
-  "productGroupId": "453845",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 0,80",
   "url": "/edet-comfort-almond-milk-vochtig-toiletpapier/p/4561145",
@@ -29,5 +29,6 @@
       "name": "Toiletpapier"
     }
   ],
-  "description": "42 stuks"
+  "description": "42 stuks",
+  "image": "/medias/sys_master/prd-images/h24/h90/31295062442014/prd-front-4561145-1_600x600/prd-front-4561145-1-600x600.jpg"
 }

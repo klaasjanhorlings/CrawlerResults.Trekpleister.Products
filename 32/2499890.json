@@ -21,13 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267041,
-      "name": "Haarverf"
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267492,
+      "name": "Haarlak"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/prd-front-2499890-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjM5MTF8aW1hZ2UvanBlZ3xhR1UxTDJoaU5TOHhOalUxTlRreU5qUTFORE13TWk5d2NtUXRabkp2Ym5RdE1qUTVPVGc1TUMweFh6WXdNSGcyTURBfDg3OGQ2YTM3YzkwMTNjNmVmOTQ3ZDAyMTZiYmY5NzU2ODlkYjY3ZTIwM2E2NDZkZDg2OWUzZjBhMjE5MWE5NTk"
 }

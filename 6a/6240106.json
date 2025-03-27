@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "ZURU NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028333",
+  "mmkId": "3028333",
+  "productGroupId": "477684",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/rascals-maat-5-cocomelon-luierbroekjes/p/6240106",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Maat 5 (13-18 kg), 26 stuks",
-  "image": "/medias/sys_master/prd-images/h10/h4c/33759226495006/prd-front-6240106-1_600x600/prd-front-6240106-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

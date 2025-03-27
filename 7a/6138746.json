@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3381",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028402",
+  "mmkId": "3028402",
+  "productGroupId": "467115",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-pinky-fopspeen/p/6138746",
@@ -33,5 +33,6 @@
       "name": "Fopspenen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h32/hbb/32281557893150/prd-front-6138746-1_600x600/prd-front-6138746-1-600x600.jpg"
 }

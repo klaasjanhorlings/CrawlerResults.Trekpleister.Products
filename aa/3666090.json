@@ -21,17 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536631,
+      "name": "Huishouden"
     },
     {
-      "id": 30267054,
-      "name": "Handverzorging"
-    },
-    {
-      "id": 68231144,
-      "name": "Handzeep navulling"
+      "id": 30267121,
+      "name": "Huishoudelijke accessoires"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hfc/h9b/33479612432414/prd-front-3666090-1_600x600/prd-front-3666090-1-600x600.jpg"
 }

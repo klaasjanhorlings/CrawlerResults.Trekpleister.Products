@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 6356",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028402",
+  "mmkId": "3028402",
+  "productGroupId": "467115",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-natural-18m-fopspeen/p/5439554",
@@ -33,6 +33,5 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "donkerblauw",
-  "image": "/medias/sys_master/prd-images/h75/ha7/29462242787358/prd-front-5439554-1_600x600/prd-front-5439554-1-600x600.jpg"
+  "description": "donkerblauw"
 }

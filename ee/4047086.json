@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "3028278",
-  "mmkId": "3028278",
-  "productGroupId": "466369",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-men-power-hold-extreme-styling-paste/p/4047086",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hd2/h98/33747924451358/prd-front-4047086-1_600x600/prd-front-4047086-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8f/h87/33761830404126/prd-front-4047086-1_600x600/prd-front-4047086-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028402",
+  "mmkId": "3028402",
+  "productGroupId": "467115",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-starterset-pasgeborenen/p/3622676",
@@ -29,8 +29,8 @@
       "name": "Babyvoedingsaccessoires"
     },
     {
-      "id": 30267358,
-      "name": "Flesvoedingsaccessoires"
+      "id": 30267355,
+      "name": "Flessenspenen"
     }
   ],
   "description": "",
