@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3028388",
-  "mmkId": "3028388",
-  "productGroupId": "461117",
+  "onPromo": "3028406",
+  "mmkId": "3028406",
+  "productGroupId": "469009",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bio-oil-huidverzorgingsolie/p/5421543",
@@ -21,17 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 30267046,
-      "name": "Huidverzorging"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30267196,
-      "name": "Bodyolie"
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267499,
+      "name": "Littekencremes"
     }
   ],
-  "description": "60ml - Alle huidtypen"
+  "description": "60ml - Alle huidtypen",
+  "image": "/medias/prd-front-5421543-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjU2Mzd8aW1hZ2UvanBlZ3xhRGhqTDJoa1ppOHhOekEyTlRVeE9EZzVNVEF6T0M5d2NtUXRabkp2Ym5RdE5UUXlNVFUwTXkweFh6WXdNSGcyTURBfDc2ODA3NjE1OTE2MjE0Mjc4OTc4YTI4OWI2NTdiN2NkYWU3ZDliNmI3Yzg0NjIzODY3NzkwYmM4ZjQwYzI4YTU"
 }

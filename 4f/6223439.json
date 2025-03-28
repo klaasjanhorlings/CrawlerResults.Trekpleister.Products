@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6320",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028411",
+  "mmkId": "3028411",
+  "productGroupId": "478860",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ultimate-chrome-mauve-copper-tangle-teezer/p/6223439",
@@ -21,15 +21,19 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267044,
-      "name": "Haaraccessoires"
+      "id": 30267249,
+      "name": "Haarstylingproducten"
     },
     {
-      "id": 30267181,
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267495,
       "name": "Haarborstels"
     }
   ],

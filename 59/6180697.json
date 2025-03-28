@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Chilly Calming Intieme Wasemulsie ",
+  "code": "6180697",
+  "price": "6.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "supplier": "BOLTON NEDERLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/chilly-calming-intieme-wasemulsie-/p/6180697",
+  "listName": "Lister",
+  "brand": "Chilly",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267222,
+      "name": "Intieme hygiëne"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hab/h3d/32021057273886/prd-front-6180697-1_600x600/prd-front-6180697-1-600x600.jpg"
+}

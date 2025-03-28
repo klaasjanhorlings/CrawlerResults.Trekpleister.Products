@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 4226",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3028250",
-  "mmkId": "3028250",
-  "productGroupId": "461883",
+  "onPromo": "3028406",
+  "mmkId": "3028406",
+  "productGroupId": "469009",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-verzachtende-tonic/p/1306334",
@@ -37,6 +37,5 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "200ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/he5/h0f/32902642106398/prd-front-1306334-1_600x600/prd-front-1306334-1-600x600.jpg"
+  "description": "200ml - Droge huid"
 }

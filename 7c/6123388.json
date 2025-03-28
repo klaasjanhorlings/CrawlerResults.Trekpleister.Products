@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "NORDIC BEAUTY COMPANY APS",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3028414",
+  "mmkId": "3028414",
+  "productGroupId": "481588",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/revolution-blushbomb-peachfilter-blusher-cream/p/6123388",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "4,6ml"
+  "description": "4,6ml",
+  "image": "/medias/sys_master/prd-images/hfe/he3/31785489760286/prd-front-6123388-1_600x600/prd-front-6123388-1-600x600.jpg"
 }

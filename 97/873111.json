@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Modifast Chocolade Maaltijddrink",
   "code": "873111",
-  "price": "2.79",
+  "price": "2.85",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3600",
   "supplier": "NUTRITION&SANTE BENELX",
@@ -29,8 +29,8 @@
       "name": "Gewichtsbeheersing"
     },
     {
-      "id": 30267299,
-      "name": "Maaltijdrepen, drinkmaaltijden"
+      "id": 30267300,
+      "name": "Maaltijdvervangers"
     }
   ],
   "description": "236ml",

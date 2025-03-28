@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3028409",
+  "mmkId": "3028409",
+  "productGroupId": "472676",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-supergel-075-amber-glow-nagellak/p/6026802",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hdb/hf4/30773929672734/prd-front-6026802-1_600x600/prd-front-6026802-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6327",
   "supplier": "ZENNER NIEUW VENNEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028414",
+  "mmkId": "3028414",
+  "productGroupId": "481588",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zenner-maskerkwast/p/6175069",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
+      "id": 30267043,
+      "name": "Make-up accessoires"
     },
     {
-      "id": 30267164,
-      "name": "Gezichtsmaskers"
+      "id": 30267174,
+      "name": "Make-up kwasten"
     }
   ],
   "description": "",

@@ -21,18 +21,17 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536631,
-      "name": "Huishouden"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 30267127,
-      "name": "Eten en drinken"
+      "id": 30267060,
+      "name": "Gewichtsbeheersing"
     },
     {
-      "id": 30267445,
+      "id": 30267301,
       "name": "Zoetstoffen"
     }
   ],
-  "description": "800 stuks",
-  "image": "/medias/prd-front-32558-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzg5NTR8aW1hZ2UvanBlZ3xhRGN5TDJoallTOHhOalUyTmpZM056VXpOamM1T0M5d2NtUXRabkp2Ym5RdE16STFOVGd0TVY4Mk1EQjROakF3fDk1MDBhN2UzYTA2MDM4YzFjYTFhYmRmMzQzZWE3ZWM5MzM5NjczNDEyZDEyNzM0NmQ2MjdjMDAxOGZmM2VkZjk"
+  "description": "800 stuks"
 }

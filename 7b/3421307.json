@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tena Lights Sensitive Normal Inlegkruisjes",
+  "code": "3421307",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-lights-sensitive-normal-inlegkruisjes/p/3421307",
+  "listName": "Lister",
+  "brand": "Lights by Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267481,
+      "name": "Incontinentie-inlegkruisjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 24 stuks",
+  "image": "/medias/sys_master/prd-images/ha5/hf4/33389788528670/prd-front-3421307-1_600x600/prd-front-3421307-1-600x600.jpg"
+}

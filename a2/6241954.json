@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3028409",
+  "mmkId": "3028409",
+  "productGroupId": "472676",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-instant-eraser-purple-color-correcting-concealer/p/6241954",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he8/he4/33479671742494/prd-front-6241954-1_600x600/prd-front-6241954-1-600x600.jpg"
 }

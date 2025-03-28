@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Sanex Zero% Sensitive 48H Deodorant Roller",
   "code": "2768151",
-  "price": "4.69",
+  "price": "4.29",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "COLGATE PALMOLIVE NLD",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml - Gevoelige huid"
+  "description": "50ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h0b/h3d/31832185405470/prd-front-2768151-1_600x600/prd-front-2768151-1-600x600.jpg"
 }

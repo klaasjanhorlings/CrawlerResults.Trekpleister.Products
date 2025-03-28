@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3027998",
-  "mmkId": "3027998",
-  "productGroupId": "454411",
+  "onPromo": "3028409",
+  "mmkId": "3028409",
+  "productGroupId": "472676",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-5r/c-poeder/p/5691225",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "9g"
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/h2c/h3e/28581967757342/prd-front-5691225-1_600x600/prd-front-5691225-1-600x600.jpg"
 }

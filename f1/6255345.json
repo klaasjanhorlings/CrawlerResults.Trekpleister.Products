@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B iO9 Magnetic Elektrische Tandenborstel",
+  "code": "6255345",
+  "price": "349.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3028307",
+  "mmkId": "3028307",
+  "productGroupId": "468770",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-io9-magnetic-elektrische-tandenborstel/p/6255345",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267234,
+      "name": "Elektrische tandenborstels"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h56/h9e/33777404051486/prd-front-6255345-1_600x600/prd-front-6255345-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "XXL Nutrition Whey Delicious Banaan Eiwitshake",
+  "code": "5969360",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
+  "supplier": "XXL INTERNATIONAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/xxl-nutrition-whey-delicious-banaan-eiwitshake/p/5969360",
+  "listName": "Lister",
+  "brand": "XXL Nutrition",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267307,
+      "name": "Proteïne (eiwit) poeders"
+    }
+  ],
+  "description": "1000g",
+  "image": "/medias/sys_master/prd-images/h6a/h05/29098213703710/prd-front-5969360-1_600x600/prd-front-5969360-1-600x600.jpg"
+}

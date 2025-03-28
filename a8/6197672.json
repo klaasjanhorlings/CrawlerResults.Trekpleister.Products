@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Hansaplast Expert+ Second Skin Protection Hydrocolloïde XL Pleisters",
+  "itemName": "Hansaplast Expert+ Second Skin Protection XL Pleisters",
   "code": "6197672",
   "price": "6.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "462126",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/hansaplast-expert-second-skin-protection-hydrocolloide-xl-pleisters/p/6197672",
+  "url": "/hansaplast-expert-second-skin-protection-xl-pleisters/p/6197672",
   "listName": "Lister",
   "brand": "Hansaplast",
   "mpOrigin": "Kruidvat",
@@ -33,8 +33,8 @@
       "name": "Pleisters"
     },
     {
-      "id": 73414222,
-      "name": "XL pleisters"
+      "id": 73414262,
+      "name": "Waterbestendige pleisters"
     }
   ],
   "description": "Medisch hulpmiddel - 3 stuks",

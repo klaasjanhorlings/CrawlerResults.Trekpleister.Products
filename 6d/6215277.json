@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swim Essentials Koala Zwemvest",
+  "code": "6215277",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6023 > 4830 > 4936 > 4982 > 5028",
+  "supplier": "THE ESSENTIALS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/swim-essentials-koala-zwemvest/p/6215277",
+  "listName": "Lister",
+  "brand": "Swim Essentials",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267084,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30267395,
+      "name": "Zwembaden en opblaasfiguren"
+    }
+  ],
+  "description": "18-30kg",
+  "image": "/medias/sys_master/prd-images/h05/ha7/33672856928286/prd-front-6215277-1_600x600/prd-front-6215277-1-600x600.jpg"
+}

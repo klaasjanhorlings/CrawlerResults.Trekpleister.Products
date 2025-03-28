@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
   "supplier": "GOLIATH B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Puzzels"
     }
   ],
-  "description": "1000 stukjes",
-  "image": "/medias/sys_master/prd-images/h25/hf2/30226674450462/prd-front-6022084-1_600x600/prd-front-6022084-1-600x600.jpg"
+  "description": "1000 stukjes"
 }

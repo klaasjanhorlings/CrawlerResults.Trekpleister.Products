@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3028414",
+  "mmkId": "3028414",
+  "productGroupId": "481588",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sally-hansen-insta-dri-shine-bright-holo-glow-nagellak/p/6098251",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "9,2ml"
+  "description": "9,2ml",
+  "image": "/medias/sys_master/prd-images/ha6/h0e/31782208765982/prd-front-6098251-1_600x600/prd-front-6098251-1-600x600.jpg"
 }

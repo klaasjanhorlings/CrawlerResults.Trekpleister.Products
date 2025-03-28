@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3028414",
+  "mmkId": "3028414",
+  "productGroupId": "481588",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-extreme-shine-01-crystal-clear-volume-lipgloss/p/5441451",
@@ -33,5 +33,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h20/h92/33043620593694/prd-front-5441451-1_600x600/prd-front-5441451-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028409",
+  "mmkId": "3028409",
+  "productGroupId": "472676",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-lash-sensational-sky-high-cosmic-black-mascara/p/5998340",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he3/h07/32438577987614/prd-front-5998340-1_600x600/prd-front-5998340-1-600x600.jpg"
+  "description": ""
 }

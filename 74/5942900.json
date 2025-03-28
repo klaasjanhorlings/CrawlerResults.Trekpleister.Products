@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3028414",
+  "mmkId": "3028414",
+  "productGroupId": "481588",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-bright-eyes-01-under-eye-stick/p/5942900",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "5,5ml"
+  "description": "5,5ml",
+  "image": "/medias/sys_master/prd-images/he0/h28/33042244501534/prd-front-5942900-1_600x600/prd-front-5942900-1-600x600.jpg"
 }

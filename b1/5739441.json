@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "3028233",
-  "mmkId": "3028233",
-  "productGroupId": "458397",
+  "onPromo": "3028406",
+  "mmkId": "3028406",
+  "productGroupId": "469009",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/bye-bye-blemish-microneedling-blemish-patches/p/5739441",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 81073392,
-      "name": "Pimple patches"
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267479,
+      "name": "Reinigingsstrips"
     }
   ],
   "description": "9 stuks",
