@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028325",
+  "mmkId": "3028325",
+  "productGroupId": "471004",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/african-pride-olive-miracle-leave-in-conditioner/p/3804767",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "425g"
+  "description": "425g",
+  "image": "/medias/sys_master/prd-images/hb5/hac/28546906488862/prd-front-3804767-1_600x600/prd-front-3804767-1-600x600.jpg"
 }
