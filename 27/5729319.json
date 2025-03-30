@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Lucovitaal Multi+ Compleet Man Tabletten",
-  "code": "4549714",
-  "price": "14.99",
+  "itemName": "Lucovitaal Super Collageen Vega Tabletten",
+  "code": "5729319",
+  "price": "12.99",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6233",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
   "onPromo": "3028269",
@@ -13,7 +13,7 @@
   "productGroupId": "465952",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/lucovitaal-multi-compleet-man-tabletten/p/4549714",
+  "url": "/lucovitaal-super-collageen-vega-tabletten/p/5729319",
   "listName": "Lister",
   "brand": "Lucovitaal",
   "mpOrigin": "Kruidvat",
@@ -29,13 +29,10 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267552,
-      "name": "Multivitamines"
+      "id": 49363859,
+      "name": "Collageensupplementen"
     }
   ],
-  "description": "40 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/ha3/h47/28576880820254/prd-front-5729319-1_600x600/prd-front-5729319-1-600x600.jpg"
 }

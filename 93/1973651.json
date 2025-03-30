@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3858",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "3028227",
-  "mmkId": "3028227",
-  "productGroupId": "457131",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-3d-white-fresh-tandenborstel/p/1973651",
@@ -33,5 +33,6 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h27/h5f/28879067807774/prd-front-1973651-1_600x600/prd-front-1973651-1-600x600.jpg"
 }
