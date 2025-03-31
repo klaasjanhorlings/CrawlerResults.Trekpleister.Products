@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "NIA CARE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028452",
+  "mmkId": "3028452",
+  "productGroupId": "459476",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/inoli-shampoo-douchegel/p/5187540",
@@ -37,6 +37,5 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/ha6/h68/28616504279070/prd-front-5187540-1_600x600/prd-front-5187540-1-600x600.jpg"
+  "description": "200ml"
 }

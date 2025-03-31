@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5731 > 3876",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028213",
-  "mmkId": "3028213",
-  "productGroupId": "454712",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-men-maximum-protection-intense-sport-antitranspirant-stick/p/5124729",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "45ml"
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/h06/h96/30122415423518/prd-front-5124729-1_600x600/prd-front-5124729-1-600x600.jpg"
 }

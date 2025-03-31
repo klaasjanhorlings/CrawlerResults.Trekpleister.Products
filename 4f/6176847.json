@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6502 > 6503",
   "supplier": "ANVIRI COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "3028414",
-  "mmkId": "3028414",
-  "productGroupId": "481588",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/color-fx-by-impress-the-no-glue-mani-rebel-kunstnagels/p/6176847",
@@ -37,5 +37,6 @@
       "name": "Kunstnagels"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h88/hc9/32211744391198/prd-front-6176847-1_600x600/prd-front-6176847-1-600x600.jpg"
 }

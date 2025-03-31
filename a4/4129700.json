@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3028218",
-  "mmkId": "3028218",
-  "productGroupId": "455808",
+  "onPromo": "3028538",
+  "mmkId": "3028538",
+  "productGroupId": "471450",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-extraordinary-oil-kokos-conditioner/p/4129700",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h39/h5e/33047521919006/prd-front-4129700-1_600x600/prd-front-4129700-1-600x600.jpg"
 }

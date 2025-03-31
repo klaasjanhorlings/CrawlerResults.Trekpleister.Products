@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3028209",
-  "mmkId": "3028209",
-  "productGroupId": "452803",
+  "onPromo": "3028437",
+  "mmkId": "3028437",
+  "productGroupId": "452505",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-white-lotus-extra-dry-antitranspirant-spray/p/2746353",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h73/hd0/29339209859102/prd-front-2746353-1_600x600/prd-front-2746353-1-600x600.jpg"
 }

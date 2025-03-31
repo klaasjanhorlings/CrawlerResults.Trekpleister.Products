@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "ZURU NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3028333",
-  "mmkId": "3028333",
-  "productGroupId": "477684",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/rascals-maat-4-cocomelon-luierbroekjes/p/6240127",
@@ -33,6 +33,5 @@
       "name": "Luierbroekjes maat 4"
     }
   ],
-  "description": "Maat 4 (10-15 kg), 30 stuks",
-  "image": "/medias/sys_master/prd-images/hd3/h65/33795536486430/prd-front-6240127-1_600x600/prd-front-6240127-1-600x600.jpg"
+  "description": "Maat 4 (10-15 kg), 30 stuks"
 }

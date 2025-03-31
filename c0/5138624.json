@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6605",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3028269",
-  "mmkId": "3028269",
-  "productGroupId": "465952",
+  "onPromo": "3028473",
+  "mmkId": "3028473",
+  "productGroupId": "465953",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-melatonine-l-tryptofaan-5mg-tabletten/p/5138624",
@@ -33,5 +33,6 @@
       "name": "Melatonine"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h25/h81/33185430929438/prd-front-5138624-1_600x600/prd-front-5138624-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "3028325",
-  "mmkId": "3028325",
-  "productGroupId": "471004",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/novex-my-curls-movie-star-deep-hair-mask/p/5431035",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "1kg"
+  "description": "1kg",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3028409",
-  "mmkId": "3028409",
-  "productGroupId": "472676",
+  "onPromo": "3028480",
+  "mmkId": "3028480",
+  "productGroupId": "466467",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-lasting-finish-084-amethyst-shimmer-lipstick/p/2019998",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/hb1/h49/31160678449182/prd-front-2019998-1_600x600/prd-front-2019998-1-600x600.jpg"
 }

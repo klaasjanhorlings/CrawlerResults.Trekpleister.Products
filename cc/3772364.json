@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3245 > 4136",
   "supplier": "HG INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028545",
+  "mmkId": "3028545",
+  "productGroupId": "474010",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hg-wasmiddeltoevoeging-tegen-nare-geurtjes-in-sportkleding/p/3772364",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "500g",
-  "image": "/medias/prd-front-3772364-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzM1Mjd8aW1hZ2UvanBlZ3xhR1k1TDJnNU1pOHhOak16TnpnME9EZzJNRGN3TWk5d2NtUXRabkp2Ym5RdE16YzNNak0yTkMweFh6WXdNSGcyTURBfDI1MzU0NDY5NzM1ZWIxYzA3OTQxOGI0ZThhNjQ0YTViMWZjM2VmMjY5ZmY0YWEwNDBmMmFjY2NiYjhmYzVjM2Q"
+  "description": "500g"
 }

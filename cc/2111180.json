@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028551",
+  "mmkId": "3028551",
+  "productGroupId": "476422",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-protect-dry-touch-spf50-transparante-zonnespray/p/2111180",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h9d/h49/33551521218590/prd-front-2111180-1_600x600/prd-front-2111180-1-600x600.jpg"
+  "description": "200ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028500",
+  "mmkId": "3028500",
+  "productGroupId": "468856",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/listerine-advanced-white-milde-smaak-mondspoeling/p/3486925",
@@ -33,6 +33,5 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/hff/hd5/29885466279966/prd-front-3486925-1_600x600/prd-front-3486925-1-600x600.jpg"
+  "description": "500ml"
 }

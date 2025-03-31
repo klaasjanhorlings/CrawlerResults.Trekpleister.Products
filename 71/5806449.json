@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3028264",
-  "mmkId": "3028264",
-  "productGroupId": "465774",
+  "onPromo": "3028470",
+  "mmkId": "3028470",
+  "productGroupId": "465779",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-ambre-solaire-natural-bronzer-zelfbruinende-gezichtsdruppels/p/5806449",
@@ -33,5 +33,6 @@
       "name": "Zelfbruiners"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h01/h81/33561754632222/prd-front-5806449-1_600x600/prd-front-5806449-1-600x600.jpg"
 }

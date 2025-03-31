@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3028209",
-  "mmkId": "3028209",
-  "productGroupId": "452803",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-mystic-rose-foaming-shower-gel/p/5218305",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hf3/h61/28867693871134/prd-front-5218305-1_600x600/prd-front-5218305-1-600x600.jpg"
 }

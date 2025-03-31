@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "DERMCOS GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028455",
+  "mmkId": "3028455",
+  "productGroupId": "460967",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-kids-spf50-sun-spray/p/4059714",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/he6/h87/29999166128158/prd-front-4059714-1_600x600/prd-front-4059714-1-600x600.jpg"
+  "description": "250ml"
 }

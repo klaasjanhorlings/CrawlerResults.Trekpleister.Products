@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028214",
-  "mmkId": "3028214",
-  "productGroupId": "454724",
+  "onPromo": "3028440",
+  "mmkId": "3028440",
+  "productGroupId": "454715",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-wild-green-mojito-cedarwood-3-in-1-douchegel/p/4976007",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/he6/hc8/33391754018846/prd-front-4976007-1_600x600/prd-front-4976007-1-600x600.jpg"
 }

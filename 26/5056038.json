@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3028405",
-  "mmkId": "3028405",
-  "productGroupId": "465967",
+  "onPromo": "3028458",
+  "mmkId": "3028458",
+  "productGroupId": "461220",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-retinol24-hydraterende-nachtcreme/p/5056038",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h13/hbd/31244186386462/prd-front-5056038-1_600x600/prd-front-5056038-1-600x600.jpg"
 }

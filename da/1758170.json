@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3796",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028214",
-  "mmkId": "3028214",
-  "productGroupId": "454724",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-women-maximum-protection-clean-scent-antitranspirant-stick/p/1758170",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "45ml"
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/h71/h34/30147388342302/prd-front-1758170-1_600x600/prd-front-1758170-1-600x600.jpg"
 }

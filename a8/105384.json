@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "3028217",
-  "mmkId": "3028217",
-  "productGroupId": "455587",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/melkmeisje-honing-bad-douchecreme/p/105384",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "1L - Normale huid"
+  "description": "1L - Normale huid",
+  "image": "/medias/sys_master/prd-images/h73/h68/28549302190110/prd-front-105384-1_600x600/prd-front-105384-1-600x600.jpg"
 }

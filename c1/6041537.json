@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
   "supplier": "NIP + FAB",
   "inStock": "inStock",
-  "onPromo": "3028406",
-  "mmkId": "3028406",
-  "productGroupId": "469009",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nip-fab-glycolic-fix-daily-cleansing-pads/p/6041537",
@@ -37,5 +37,6 @@
       "name": "Reinigingsdoekjes"
     }
   ],
-  "description": "60 stuks, doffe huid"
+  "description": "60 stuks, doffe huid",
+  "image": "/medias/sys_master/prd-images/h66/h28/30116829495326/prd-front-6041537-1_600x600/prd-front-6041537-1-600x600.jpg"
 }

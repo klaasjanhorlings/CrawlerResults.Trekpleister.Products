@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3028232",
-  "mmkId": "3028232",
-  "productGroupId": "458343",
+  "onPromo": "3028454",
+  "mmkId": "3028454",
+  "productGroupId": "459896",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-diamond-gloss-shampoo/p/3572507",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/ha2/hf5/32343505600542/prd-front-3572507-1_600x600/prd-front-3572507-1-600x600.jpg"
 }

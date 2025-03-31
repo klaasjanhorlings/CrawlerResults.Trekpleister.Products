@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028492",
+  "mmkId": "3028492",
+  "productGroupId": "468089",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-valeriaan-tabletten/p/1051604",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h2e/hda/28549594120222/prd-front-1051604-1_600x600/prd-front-1051604-1-600x600.jpg"
 }

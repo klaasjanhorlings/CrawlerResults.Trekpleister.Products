@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3028406",
-  "mmkId": "3028406",
-  "productGroupId": "469009",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biore-diepe-poriecleanser-met-houtskool/p/4077620",
@@ -37,6 +37,5 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "200ml - Onzuivere huid",
-  "image": "/medias/sys_master/prd-images/hee/hd8/32923796996126/prd-front-4077620-1_600x600/prd-front-4077620-1-600x600.jpg"
+  "description": "200ml - Onzuivere huid"
 }

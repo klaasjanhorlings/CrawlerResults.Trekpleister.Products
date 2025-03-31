@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "TEPE BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028510",
+  "mmkId": "3028510",
+  "productGroupId": "468867",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tepe-easypick-interdentale-borsteltjes/p/4204761",
@@ -33,6 +33,5 @@
       "name": "Tandenstokers"
     }
   ],
-  "description": "mt XS/S, 36 stuks",
-  "image": "/medias/sys_master/prd-images/h38/h14/31271613530142/prd-front-4204761-1_600x600/prd-front-4204761-1-600x600.jpg"
+  "description": "mt XS/S, 36 stuks"
 }

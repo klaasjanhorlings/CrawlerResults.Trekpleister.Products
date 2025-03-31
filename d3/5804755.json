@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3028414",
-  "mmkId": "3028414",
-  "productGroupId": "481588",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-juicy-bomb-102-shiny-lipgloss/p/5804755",
@@ -33,5 +33,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "10ml, 102"
+  "description": "10ml, 102",
+  "image": "/medias/sys_master/prd-images/h51/h2a/33038977040414/prd-front-5804755-1_600x600/prd-front-5804755-1-600x600.jpg"
 }

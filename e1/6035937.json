@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3028409",
-  "mmkId": "3028409",
-  "productGroupId": "472676",
+  "onPromo": "3028538",
+  "mmkId": "3028538",
+  "productGroupId": "471450",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-radiant-1r-serum-concealer/p/6035937",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "11ml"
+  "description": "11ml",
+  "image": "/medias/sys_master/prd-images/hc1/h83/30691914579998/prd-front-6035937-1_600x600/prd-front-6035937-1-600x600.jpg"
 }

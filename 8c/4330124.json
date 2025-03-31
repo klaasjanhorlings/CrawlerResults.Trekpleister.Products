@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "DERMCOS GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028455",
+  "mmkId": "3028455",
+  "productGroupId": "460967",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-spf30-sun-spray/p/4330124",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h97/h83/30238169399326/prd-front-4330124-1_600x600/prd-front-4330124-1-600x600.jpg"
 }

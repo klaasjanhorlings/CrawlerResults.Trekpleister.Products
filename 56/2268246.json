@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3326 > 3697",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3028279",
-  "mmkId": "3028279",
-  "productGroupId": "466370",
+  "onPromo": "3028478",
+  "mmkId": "3028478",
+  "productGroupId": "466380",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-styling-volume-poeder/p/2268246",
@@ -33,5 +33,6 @@
       "name": "Haarpoeder"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/h67/hce/33758902288414/prd-front-2268246-1_600x600/prd-front-2268246-1-600x600.jpg"
 }

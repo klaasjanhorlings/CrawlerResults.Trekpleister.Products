@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3028279",
-  "mmkId": "3028279",
-  "productGroupId": "466370",
+  "onPromo": "3028478",
+  "mmkId": "3028478",
+  "productGroupId": "466380",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-styling-matt-wax/p/4519075",
@@ -33,5 +33,6 @@
       "name": "Haarwax"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h42/hdf/33765067161630/prd-front-4519075-1_600x600/prd-front-4519075-1-600x600.jpg"
 }

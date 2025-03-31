@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2838 > 3578",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3028232",
-  "mmkId": "3028232",
-  "productGroupId": "458343",
+  "onPromo": "3028454",
+  "mmkId": "3028454",
+  "productGroupId": "459896",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-care-hold-creme-hold-3-haargel/p/515613",
@@ -33,6 +33,5 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hbd/hf7/32834599551006/prd-front-515613-1_600x600/prd-front-515613-1-600x600.jpg"
+  "description": "150ml"
 }

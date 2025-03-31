@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "NEW VALMAR BV",
   "inStock": "inStock",
-  "onPromo": "3028402",
-  "mmkId": "3028402",
-  "productGroupId": "467115",
+  "onPromo": "3028462",
+  "mmkId": "3028462",
+  "productGroupId": "462032",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nuby-0m-neusreiniger/p/4167920",
@@ -33,5 +33,6 @@
       "name": "Verschonen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-4167920-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzE1NzV8aW1hZ2UvanBlZ3xhRGM0TDJoaVpTOHhOalEzTWpJeU5UVTNPVEF6T0M5d2NtUXRabkp2Ym5RdE5ERTJOemt5TUMweFh6WXdNSGcyTURBfDAyNDI5MTJhNTQwMjU5ZmU0ZmYzYjU2OTg4ODMyMzBiZjU1NDE1OGQ1MDU1OTZjM2JiY2MyMWJkZjk0ZjVkZjU"
 }

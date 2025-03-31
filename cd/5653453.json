@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 3270 > 4171",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028502",
+  "mmkId": "3028502",
+  "productGroupId": "468857",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/corega-ultra-kleefcreme/p/5653453",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 70g",
-  "image": "/medias/sys_master/prd-images/hf7/h56/33794923921438/prd-front-5653453-1_600x600/prd-front-5653453-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h91/hcc/33803072602142/prd-front-5653453-1_600x600/prd-front-5653453-1-600x600.jpg"
 }

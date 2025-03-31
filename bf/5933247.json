@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3028406",
-  "mmkId": "3028406",
-  "productGroupId": "469009",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biore-aqua-rich-uv-spf-30-weightless-moisturiser/p/5933247",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h09/h19/32923804336158/prd-front-5933247-1_600x600/prd-front-5933247-1-600x600.jpg"
 }

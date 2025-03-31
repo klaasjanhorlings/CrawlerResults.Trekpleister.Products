@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 3272 > 4173",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028535",
+  "mmkId": "3028535",
+  "productGroupId": "471089",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/veet-expert-waxstrips-voor-je-gezicht/p/5844235",
@@ -33,5 +33,6 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/h7e/h59/28573876748318/prd-front-5844235-1_600x600/prd-front-5844235-1-600x600.jpg"
 }

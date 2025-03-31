@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3028409",
-  "mmkId": "3028409",
-  "productGroupId": "472676",
+  "onPromo": "3028538",
+  "mmkId": "3028538",
+  "productGroupId": "471450",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-superliner-perfect-slim-brown-eyeliner/p/5485537",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/heb/h5f/28553268625438/prd-front-5485537-1_600x600/prd-front-5485537-1-600x600.jpg"
 }
