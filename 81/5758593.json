@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kaarthouder",
+  "code": "5758593",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 4640 > 5192 > 5377 > 5566",
+  "supplier": "OTTO SIMON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/kaarthouder/p/5758593",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 49281487,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "50cm",
+  "image": "/medias/prd-front-5758593-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTcwMzl8aW1hZ2UvanBlZ3xhREUxTDJneU9DOHhOekExTnpneU5EZ3dNRGM1T0M5d2NtUXRabkp2Ym5RdE5UYzFPRFU1TXkweFh6WXdNSGcyTURBfDFiYWEyMmFmZjY4MTNhYmFmMjA2MTgwNjgzNjRjODlkMWU4ODUwOWVhMWZiNDc3MTM2ODQzMTYyNzQ1NzI4NGI"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "inStock",
-  "onPromo": "3028480",
-  "mmkId": "3028480",
-  "productGroupId": "466467",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-natural-bronzer-002-sunbronze-ultra-fine-bronzing-powder/p/5354553",
@@ -33,6 +33,5 @@
       "name": "Bronzer"
     }
   ],
-  "description": "14g",
-  "image": "/medias/sys_master/prd-images/he1/hcd/28554809835550/prd-front-5354553-1_600x600/prd-front-5354553-1-600x600.jpg"
+  "description": "14g"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Classics Puur & Zacht Wasverzachter",
+  "code": "5839027",
+  "price": "6.99",
+  "priceOriginal": "11.49",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 4,50",
+  "url": "/robijn-classics-puur-zacht-wasverzachter/p/5839027",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267115,
+      "name": "Wasverzachter"
+    }
+  ],
+  "description": "1800ml, 72 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h97/h74/33773376995358/prd-front-5839027-1_600x600/prd-front-5839027-1-600x600.jpg"
+}

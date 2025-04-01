@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6155 > 6170",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Geneesmiddel - 100ml",
-  "image": "/medias/sys_master/prd-images/h50/ha3/33802617061406/prd-front-4615983-1_600x600/prd-front-4615983-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf9/h66/33808865394718/prd-front-4615983-1_600x600/prd-front-4615983-1-600x600.jpg"
 }

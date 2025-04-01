@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "ONE-DC B.V.",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Glijmiddelen en massagegels"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hfa/hea/31583468781598/prd-front-6153824-1_600x600/prd-front-6153824-1-600x600.jpg"
+  "description": "150ml"
 }

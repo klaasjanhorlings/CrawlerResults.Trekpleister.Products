@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence 09 Cool Down Long-Lasting Eye Pencil Oogpotlood",
-  "code": "1886928",
-  "price": "1.79",
+  "itemName": "Essence Hydra Kiss 03 Lip Oil",
+  "code": "5943019",
+  "price": "2.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-09-cool-down-long-lasting-eye-pencil-oogpotlood/p/1886928",
+  "url": "/essence-hydra-kiss-03-lip-oil/p/5943019",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267142,
-      "name": "Oogpotlood"
+      "id": 30267140,
+      "name": "Lipgloss"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he5/hbc/30115363749918/prd-front-1886928-1_600x600/prd-front-1886928-1-600x600.jpg"
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/hd4/h4f/33045049901086/prd-front-5943019-1_600x600/prd-front-5943019-1-600x600.jpg"
 }

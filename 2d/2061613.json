@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6158 > 6181",
   "supplier": "BAYER BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Naproxen"
     }
   ],
-  "description": "Geneesmiddel - 12 stuks"
+  "description": "Geneesmiddel - 12 stuks",
+  "image": "/medias/sys_master/prd-images/h34/h02/28575487229982/prd-front-2061613-1_600x600/prd-front-2061613-1-600x600.jpg"
 }

@@ -3,14 +3,14 @@
   "currency": "EUR",
   "itemName": "Sensodyne Extra Fresh Gel Tandpasta voor Gevoelige Tanden",
   "code": "4808994",
-  "price": "5.29",
+  "price": "5.79",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028511",
+  "mmkId": "3028511",
+  "productGroupId": "468879",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sensodyne-extra-fresh-gel-tandpasta-voor-gevoelige-tanden/p/4808994",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h40/h4f/33715887996958/prd-front-4808994-1_600x600/prd-front-4808994-1-600x600.jpg"
 }

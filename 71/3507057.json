@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Camouflage + Matt 30 Light Honey Concealer",
-  "code": "4479133",
-  "price": "2.99",
+  "itemName": "Catrice Liquid Camouflage 010 Porcelain High Coverage Concealer",
+  "code": "3507057",
+  "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-camouflage-matt-30-light-honey-concealer/p/4479133",
+  "url": "/catrice-liquid-camouflage-010-porcelain-high-coverage-concealer/p/3507057",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h48/h9f/33038970814494/prd-front-4479133-1_600x600/prd-front-4479133-1-600x600.jpg"
+  "description": ""
 }
