@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Pincetten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha3/hd7/33044475674654/prd-front-6233554-1_600x600/prd-front-6233554-1-600x600.jpg"
+  "description": ""
 }

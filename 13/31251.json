@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Reinigingsmelk",
+  "code": "31251",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3889",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "3028450",
+  "mmkId": "3028450",
+  "productGroupId": "458456",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-reinigingsmelk/p/31251",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267473,
+      "name": "Reinigingsmelk"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h86/hbf/28573707960350/prd-front-31251-1_600x600/prd-front-31251-1-600x600.jpg"
+}

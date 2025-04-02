@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Umberto Giannini Banana Butter Shampoo",
-  "code": "5822990",
-  "price": "11.49",
+  "itemName": "Schwarzkopf Zijde-Doorkammer Shampoo",
+  "code": "2099560",
+  "price": "1.5",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
-  "supplier": "COSMOGROUP BRANDS BV",
+  "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "Exclusief merk",
+  "brandType": "A of B merk",
   "discount": "",
-  "url": "/umberto-giannini-banana-butter-shampoo/p/5822990",
+  "url": "/schwarzkopf-zijde-doorkammer-shampoo/p/2099560",
   "listName": "Lister",
-  "brand": "Umberto Giannini",
+  "brand": "Schwarzkopf",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hab/h6b/31028026376222/prd-front-5822990-1_600x600/prd-front-5822990-1-600x600.jpg"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h3e/h24/32038918127646/prd-front-2099560-1_600x600/prd-front-2099560-1-600x600.jpg"
 }

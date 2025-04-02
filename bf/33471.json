@@ -8,9 +8,9 @@
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3648",
   "supplier": "BARONIE - DE HEER BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029030",
+  "mmkId": "3029030",
+  "productGroupId": "445714",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-gevulde-paaseitjes/p/33471",
@@ -37,5 +37,6 @@
       "name": "Paaseitjes"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h61/h0a/29712594534430/prd-front-33471-1_600x600/prd-front-33471-1-600x600.jpg"
 }

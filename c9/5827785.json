@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Expert Hyaluron Actif Serum",
+  "code": "5827785",
+  "price": "16.35",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "3028450",
+  "mmkId": "3028450",
+  "productGroupId": "458456",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-expert-hyaluron-actif-serum/p/5827785",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-5827785-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjExOTB8aW1hZ2UvanBlZ3xhRFF6TDJoa1pTOHlOalU1T0RNNU1EWTJNVEUxTUM5d2NtUXRabkp2Ym5RdE5UZ3lOemM0TlMweFh6WXdNSGcyTURBfDZkMGMwYTQ1YTcwN2FkNzBjZWIyZDM0ZWQ4YmMzODA0ZDViZDUxNGViZjk1YmFjMDQzYzQ2MThkNjQwYWM4ZDc"
+}

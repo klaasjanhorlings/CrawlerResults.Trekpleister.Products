@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Syoss 3-in-1 Styling Care Strength Hold 4 Molding Paste",
+  "code": "6236284",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3028477",
+  "mmkId": "3028477",
+  "productGroupId": "466379",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-3-in-1-styling-care-strength-hold-4-molding-paste/p/6236284",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267488,
+      "name": "Haarpasta"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hf9/h9b/33775429910558/prd-front-6236284-1_600x600/prd-front-6236284-1-600x600.jpg"
+}

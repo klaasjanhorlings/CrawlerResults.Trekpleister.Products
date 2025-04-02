@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Aloe Boost Hold 3 Multi-Purpose Styling Paste",
+  "code": "6236529",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3028478",
+  "mmkId": "3028478",
+  "productGroupId": "466380",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-aloe-boost-hold-3-multi-purpose-styling-paste/p/6236529",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267488,
+      "name": "Haarpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h31/h52/33771552997406/prd-front-6236529-1_600x600/prd-front-6236529-1-600x600.jpg"
+}

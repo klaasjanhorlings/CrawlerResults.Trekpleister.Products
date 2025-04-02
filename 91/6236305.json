@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Got2b Glued Wax Stick",
+  "code": "6236305",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3028477",
+  "mmkId": "3028477",
+  "productGroupId": "466379",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/got2b-glued-wax-stick/p/6236305",
+  "listName": "Lister",
+  "brand": "Got2B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267486,
+      "name": "Haarwax"
+    }
+  ],
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/hed/h78/33763497869342/prd-front-6236305-1_600x600/prd-front-6236305-1-600x600.jpg"
+}

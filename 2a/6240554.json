@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gliss Full Hair Wonder Fullness Conditioner",
+  "code": "6240554",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3028476",
+  "mmkId": "3028476",
+  "productGroupId": "466378",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gliss-full-hair-wonder-fullness-conditioner/p/6240554",
+  "listName": "Lister",
+  "brand": "Gliss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h5a/h6c/33771968790558/prd-front-6240554-1_600x600/prd-front-6240554-1-600x600.jpg"
+}

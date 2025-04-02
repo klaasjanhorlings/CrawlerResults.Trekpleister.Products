@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
   "supplier": "JOHNSON & JOHNSON CONS",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h63/h12/32061722656798/prd-front-6060409-1_600x600/prd-front-6060409-1-600x600.jpg"
+  "description": "200ml"
 }

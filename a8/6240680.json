@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Syoss Antiroos Deep Caring Shampoo",
+  "code": "6240680",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3028476",
+  "mmkId": "3028476",
+  "productGroupId": "466378",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-antiroos-deep-caring-shampoo/p/6240680",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "440ml",
+  "image": "/medias/sys_master/prd-images/h2e/h7b/33578176643102/prd-front-6240680-1_600x600/prd-front-6240680-1-600x600.jpg"
+}

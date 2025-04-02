@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "3 x 75ml - Anti-cariës",
-  "image": "/medias/sys_master/prd-images/hf8/hbf/33808853270558/prd-front-3586038-1_600x600/prd-front-3586038-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0f/h6b/33821394206750/prd-front-3586038-1_600x600/prd-front-3586038-1-600x600.jpg"
 }

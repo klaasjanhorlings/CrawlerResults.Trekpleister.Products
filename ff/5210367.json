@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6605",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Melatonine"
     }
   ],
-  "description": "500 stuks",
-  "image": "/medias/sys_master/prd-images/hb7/h78/32639930335262/prd-front-5210367-1_600x600/prd-front-5210367-1-600x600.jpg"
+  "description": "500 stuks"
 }

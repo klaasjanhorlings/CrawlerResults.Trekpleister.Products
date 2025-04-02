@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
   "supplier": "ASPIRE BRANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Droogshampoo"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h1f/h28/32640276955166/prd-front-2420160-1_600x600/prd-front-2420160-1-600x600.jpg"
+  "description": "200ml"
 }
