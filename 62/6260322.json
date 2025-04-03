@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Edding Whiteboard Markers",
+  "code": "6260322",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 5697 > 2191 > 2512 > 3126 > 6454",
+  "supplier": "EDDING BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/edding-whiteboard-markers/p/6260322",
+  "listName": "Lister",
+  "brand": "Edding",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267081,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/sys_master/prd-images/hbe/h13/33488751951902/prd-front-6260322-1_600x600/prd-front-6260322-1-600x600.jpg"
+}

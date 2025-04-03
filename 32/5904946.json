@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 4335 > 4336",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "20g"
+  "description": "20g",
+  "image": "/medias/sys_master/prd-images/h8b/hf6/28567695392798/prd-front-5904946-1_600x600/prd-front-5904946-1-600x600.jpg"
 }

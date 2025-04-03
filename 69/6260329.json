@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pritt Lijmsticks",
+  "code": "6260329",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 5697 > 2191 > 2512 > 3126 > 6454",
+  "supplier": "HENKEL NEDERLAND BV U-A",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pritt-lijmsticks/p/6260329",
+  "listName": "Lister",
+  "brand": "Pritt",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267081,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "6 x 22g",
+  "image": "/medias/sys_master/prd-images/h74/h30/33747196248094/prd-front-6260329-1_600x600/prd-front-6260329-1-600x600.jpg"
+}

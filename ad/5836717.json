@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3028512",
-  "mmkId": "3028512",
-  "productGroupId": "469137",
+  "onPromo": "3028560",
+  "mmkId": "3028560",
+  "productGroupId": "471152",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-10-pure-vitamine-c-anti-pigmentvlekken-nachtserum-met-hyaluronzuur/p/5836717",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h2b/h2d/33674281484318/prd-front-5836717-1_600x600/prd-front-5836717-1-600x600.jpg"
 }

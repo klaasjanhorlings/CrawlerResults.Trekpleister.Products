@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028538",
+  "mmkId": "3028538",
+  "productGroupId": "471450",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-excellence-cool-creme-811-ultra-licht-asblond-permanente-haarkleuring/p/5356219",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6d/h3d/32304877338654/prd-front-5356219-1_600x600/prd-front-5356219-1-600x600.jpg"
 }

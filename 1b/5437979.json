@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6643 > 6644",
   "supplier": "UCC COFFEE BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "3028546",
-  "mmkId": "3028546",
-  "productGroupId": "474810",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-espressobonen/p/5437979",
@@ -33,5 +33,6 @@
       "name": "Koffie"
     }
   ],
-  "description": "1000g"
+  "description": "1000g",
+  "image": "/medias/prd-front-5437979-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzI1OTZ8aW1hZ2UvanBlZ3xhREl3TDJneVl5OHhOekEwT0RrM09UY3pORFUxT0M5d2NtUXRabkp2Ym5RdE5UUXpOemszT1MweFh6WXdNSGcyTURBfGVjZTE5MjdhZmYyOTJkZDc3ZWEwZTMxNzc5ODFlMjc5Yjc3YmM2YmEwNWZhNjkyMjNkODBlMTcwOGE5NzVmNDk"
 }

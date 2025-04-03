@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2833 > 3575",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-17476-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzAxOTB8aW1hZ2UvanBlZ3xhRGs0TDJnMk9TOHhOelEwT0RZNU1qRXlNVFl6TUM5d2NtUXRabkp2Ym5RdE1UYzBOell0TVY4Mk1EQjROakF3fDM0YmU5MjJiZDBkOTdkZTA5MDQ0Y2U5MTU3OGJhODMxZDA3ZDI2NmVjMzM2MjUxMTRiNjg4NjIzOWI1MzJlNWU"
+  "description": "100ml"
 }
