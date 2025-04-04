@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Noorse Formule Intense Repair CICA Voetcrème",
-  "code": "5919968",
-  "price": "10.49",
+  "itemName": "Scholl Expert Care Intens Voedende Voetencrème",
+  "code": "5096848",
+  "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6459 > 6460",
-  "supplier": "JOHNSON & JOHNSON CONS",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2834 > 3576",
+  "supplier": "PIETERCIL BARENDS BV",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/neutrogena-noorse-formule-intense-repair-cica-voetcreme/p/5919968",
+  "url": "/scholl-expert-care-intens-voedende-voetencreme/p/5096848",
   "listName": "Lister",
-  "brand": "Neutrogena",
+  "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Voetcrème"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h19/h64/30690471182366/prd-front-5919968-1_600x600/prd-front-5919968-1-600x600.jpg"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h78/h78/33333633384478/prd-front-5096848-1_600x600/prd-front-5096848-1-600x600.jpg"
 }

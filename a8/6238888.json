@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Wartner Hand + Voet Wrattenverwijderaar",
-  "code": "3811788",
-  "price": "25.95",
+  "itemName": "Mycosan Steelwrattenbevriezing",
+  "code": "6238888",
+  "price": "21.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6457 > 6458",
-  "supplier": "OMEGA PHARMA NEDERLAND",
+  "supplier": "OTC MEDICAL BV",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Ander merk",
   "discount": "",
-  "url": "/wartner-hand-voet-wrattenverwijderaar/p/3811788",
+  "url": "/mycosan-steelwrattenbevriezing/p/6238888",
   "listName": "Lister",
-  "brand": "Wartner",
+  "brand": "Mycosan",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,6 +37,6 @@
       "name": "Wrattenbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 50ml",
-  "image": "/medias/sys_master/prd-images/h8f/hc9/28576272875550/prd-front-3811788-1_600x600/prd-front-3811788-1-600x600.jpg"
+  "description": "50ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267499,
+      "name": "Littekencremes"
     }
   ],
   "description": "75ml - Droge huid",

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028477",
+  "mmkId": "3028477",
+  "productGroupId": "466379",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-hold-4-volume-haarspray/p/6236319",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h2d/ha3/33833493659678/prd-front-6236319-1_600x600/prd-front-6236319-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hde/hc1/33850021183518/prd-front-6236319-1_600x600/prd-front-6236319-1-600x600.jpg"
 }

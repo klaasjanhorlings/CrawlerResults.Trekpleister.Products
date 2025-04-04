@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Excilor Kalknagelbehandeling",
-  "code": "3348332",
-  "price": "23.39",
+  "itemName": "Mycosan Kalknagelpleister",
+  "code": "6238895",
+  "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6451 > 6452",
-  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "supplier": "OTC MEDICAL BV",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Ander merk",
   "discount": "",
-  "url": "/excilor-kalknagelbehandeling/p/3348332",
+  "url": "/mycosan-kalknagelpleister/p/6238895",
   "listName": "Lister",
-  "brand": "Excilor",
+  "brand": "Mycosan",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Kalknagelbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 3,3ml",
-  "image": "/medias/sys_master/prd-images/hbc/h64/32739788554270/prd-front-3348332-1_600x600/prd-front-3348332-1-600x600.jpg"
+  "description": "14 stuks",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

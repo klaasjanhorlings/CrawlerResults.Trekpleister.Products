@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Super Tampons",
   "code": "5820526",
-  "price": "1.29",
+  "price": "1.45",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3303 > 3660",
   "supplier": "ONTEX BVBA",
@@ -33,5 +33,6 @@
       "name": "Tampons"
     }
   ],
-  "description": "24 stuks"
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/hde/h18/28559324708894/prd-front-5820526-1_600x600/prd-front-5820526-1-600x600.jpg"
 }

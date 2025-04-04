@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
   "supplier": "ORANGE-SHEEP BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028452",
+  "mmkId": "3028452",
+  "productGroupId": "459476",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-baby-kids-100-natural-diaper-cream/p/5742500",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "75ml",
-  "image": "/medias/sys_master/prd-images/hd6/h2c/33832253161502/prd-front-5742500-1_600x600/prd-front-5742500-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd3/hfd/33848199020574/prd-front-5742500-1_600x600/prd-front-5742500-1-600x600.jpg"
 }

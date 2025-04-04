@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Noorse Formule Ultrarijke Voetcrème",
-  "code": "5919975",
-  "price": "15.49",
+  "itemName": "Weleda Voetbalsem",
+  "code": "6214507",
+  "price": "11.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2834 > 3576",
-  "supplier": "JOHNSON & JOHNSON CONS",
+  "supplier": "WELEDA BENELUX SE",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/neutrogena-noorse-formule-ultrarijke-voetcreme/p/5919975",
+  "url": "/weleda-voetbalsem/p/6214507",
   "listName": "Lister",
-  "brand": "Neutrogena",
+  "brand": "Weleda",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Voetcrème"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hde/h11/30690470854686/prd-front-5919975-1_600x600/prd-front-5919975-1-600x600.jpg"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h6d/hee/33338101137438/prd-front-6214507-1_600x600/prd-front-6214507-1-600x600.jpg"
 }

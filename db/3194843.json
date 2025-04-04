@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028565",
+  "mmkId": "3028565",
+  "productGroupId": "487474",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vaseline-aloe-soothe-bodylotion/p/3194843",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/prd-front-3194843-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTY4NzB8aW1hZ2UvanBlZ3xhR0ppTDJnMVpDOHhOakk1T1RreE1qVTJNRFkzTUM5d2NtUXRabkp2Ym5RdE16RTVORGcwTXkweFh6WXdNSGcyTURBfDEyMzE3ZjRhYTgzNjc2YmQ4NjM2OWY1OTZlN2Q2NDM0MTRhOGQ3MzVhYTZhMDNkZGNlZWJiMDQwNzc4NmFkNTI"
 }

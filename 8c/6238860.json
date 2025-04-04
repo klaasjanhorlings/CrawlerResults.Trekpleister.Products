@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Scholl LiquiFlex Inlegzolen",
-  "code": "5917700",
-  "price": "19.95",
+  "itemName": "Dr. Scholl's Verzachtend en Revitaliserend Voetmasker",
+  "code": "6238860",
+  "price": "4.99",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6449 > 3567",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6662 > 6663",
   "supplier": "PIETERCIL BARENDS BV",
   "inStock": "outOfStock",
   "onPromo": "",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/scholl-liquiflex-inlegzolen/p/5917700",
+  "url": "/dr-scholls-verzachtend-en-revitaliserend-voetmasker/p/6238860",
   "listName": "Lister",
-  "brand": "Scholl",
+  "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "Voetverzorging"
     },
     {
-      "id": 49316840,
-      "name": "Inlegzolen"
+      "id": 49314549,
+      "name": "Voetmasker"
     }
   ],
-  "description": "mt 41 - 46,5",
-  "image": "/medias/sys_master/prd-images/hef/hbb/28574069850142/prd-front-5917700-1_600x600/prd-front-5917700-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h82/hf9/33408969768990/prd-front-6238860-1_600x600/prd-front-6238860-1-600x600.jpg"
 }

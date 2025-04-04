@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Olay Hyaluronic24 + Vitamin B5 Serum",
-  "code": "5784623",
-  "price": "41.49",
+  "itemName": "Olay Super Serum",
+  "code": "6268953",
+  "price": "43.49",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "3028458",
-  "mmkId": "3028458",
-  "productGroupId": "461220",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/olay-hyaluronic24-vitamin-b5-serum/p/5784623",
+  "url": "/olay-super-serum/p/6268953",
   "listName": "Lister",
   "brand": "Olay",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "40ml - alle huidtypes",
-  "image": "/medias/sys_master/prd-images/hb6/h45/33834830135326/prd-front-5784623-1_600x600/prd-front-5784623-1-600x600.jpg"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h96/h4d/33420434047006/prd-front-6268953-1_600x600/prd-front-6268953-1-600x600.jpg"
 }

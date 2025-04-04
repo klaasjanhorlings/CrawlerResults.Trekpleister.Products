@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3067 > 3681",
   "supplier": "BENCKMAR BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028437",
+  "mmkId": "3028437",
+  "productGroupId": "452505",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/finspiran-anti-perspirant-spray/p/4416980",
@@ -29,8 +29,8 @@
       "name": "Deodorant"
     },
     {
-      "id": 30267201,
-      "name": "Deospray"
+      "id": 30267203,
+      "name": "Overmatig transpireren"
     }
   ],
   "description": "30ml",

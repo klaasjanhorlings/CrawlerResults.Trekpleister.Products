@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Scholl Verzorging van Hielkloven Herstellende Balsem Stick 70g",
-  "code": "6034866",
-  "price": "11.99",
+  "itemName": "Mycosan Hielklovenzalf",
+  "code": "6238874",
+  "price": "15.95",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6459 > 6460",
-  "supplier": "PIETERCIL BARENDS BV",
+  "supplier": "OTC MEDICAL BV",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Ander merk",
   "discount": "",
-  "url": "/scholl-verzorging-van-hielkloven-herstellende-balsem-stick-70g/p/6034866",
+  "url": "/mycosan-hielklovenzalf/p/6238874",
   "listName": "Lister",
-  "brand": "Scholl",
+  "brand": "Mycosan",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Voetkloven"
     }
   ],
-  "description": "70g",
-  "image": "/medias/sys_master/prd-images/h92/h7e/30693026299934/prd-front-6034866-1_600x600/prd-front-6034866-1-600x600.jpg"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h59/h77/33471578472478/prd-front-6238874-1_600x600/prd-front-6238874-1-600x600.jpg"
 }

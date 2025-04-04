@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3326 > 3697",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028477",
+  "mmkId": "3028477",
+  "productGroupId": "466379",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/got2b-volumizing-styling-powder/p/5378276",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "10g",
-  "image": "/medias/sys_master/prd-images/hfa/had/33758923915294/prd-front-5378276-1_600x600/prd-front-5378276-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd6/hd8/33852755705886/prd-front-5378276-1_600x600/prd-front-5378276-1-600x600.jpg"
 }

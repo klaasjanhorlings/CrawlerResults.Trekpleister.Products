@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Scholl Eelt Verwijderpleisters",
-  "code": "15664",
+  "itemName": "Trekpleister Eeltrasp en -Vijl",
+  "code": "6239518",
   "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
-  "supplier": "PIETERCIL BARENDS BV",
+  "supplier": "TITANIA FABRIK GMBH",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Eigen merk",
   "discount": "",
-  "url": "/scholl-eelt-verwijderpleisters/p/15664",
+  "url": "/trekpleister-eeltrasp-en-vijl/p/6239518",
   "listName": "Lister",
-  "brand": "Scholl",
+  "brand": "Trekpleister",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Eeltverwijderaars"
     }
   ],
-  "description": "Medisch hulpmiddel - 4 stuks",
-  "image": "/medias/prd-front-15664-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzExOTJ8aW1hZ2UvanBlZ3xhREEwTDJneE5DOHhOakl4TmpjNU16VXhOREF4TkM5d2NtUXRabkp2Ym5RdE1UVTJOalF0TVY4Mk1EQjROakF3fGNhNDhiY2ZhNmIwOTBkZTYxMDg2NTAwNGI5NzcyZTYwMzliMTQ2MzYzM2NjZTAyOGRhMmI1M2E1MTNhZGRlNzM"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfb/h1d/33337425985566/prd-front-6239518-1_600x600/prd-front-6239518-1-600x600.jpg"
 }

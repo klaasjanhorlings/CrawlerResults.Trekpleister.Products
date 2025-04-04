@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Scholl LiquiFlex Inlegzolen",
-  "code": "5914368",
-  "price": "19.95",
+  "itemName": "Scholl Voetvijl voor Harde Huid",
+  "code": "6107477",
+  "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6449 > 3567",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
   "supplier": "PIETERCIL BARENDS BV",
   "inStock": "outOfStock",
   "onPromo": "",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/scholl-liquiflex-inlegzolen/p/5914368",
+  "url": "/scholl-voetvijl-voor-harde-huid/p/6107477",
   "listName": "Lister",
-  "brand": "Scholl",
+  "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "Voetverzorging"
     },
     {
-      "id": 49316840,
-      "name": "Inlegzolen"
+      "id": 48237442,
+      "name": "Eeltverwijderaars"
     }
   ],
-  "description": "mt 35,5 - 40,5",
-  "image": "/medias/sys_master/prd-images/h4e/ha0/28574080794654/prd-front-5914368-1_600x600/prd-front-5914368-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7a/h21/33680500097054/prd-front-6107477-1_600x600/prd-front-6107477-1-600x600.jpg"
 }
