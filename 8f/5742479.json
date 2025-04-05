@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "ORANGE-SHEEP BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028452",
+  "mmkId": "3028452",
+  "productGroupId": "459476",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-baby-kids-100-natural-shampoo/p/5742479",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/haf/hf7/33848199348254/prd-front-5742479-1_600x600/prd-front-5742479-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h9b/hcc/33858260369438/prd-front-5742479-1_600x600/prd-front-5742479-1-600x600.jpg"
 }

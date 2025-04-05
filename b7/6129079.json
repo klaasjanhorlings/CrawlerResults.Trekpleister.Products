@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2721 > 3424",
   "supplier": "ORANGE-SHEEP BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028452",
+  "mmkId": "3028452",
+  "productGroupId": "459476",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-baby-kids-100-natural-hair-lotion/p/6129079",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h7e/h4a/33850870497310/prd-front-6129079-1_600x600/prd-front-6129079-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb6/hd3/33860264919070/prd-front-6129079-1_600x600/prd-front-6129079-1-600x600.jpg"
 }

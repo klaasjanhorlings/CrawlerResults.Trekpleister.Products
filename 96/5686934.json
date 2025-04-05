@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028467",
+  "mmkId": "3028467",
+  "productGroupId": "465022",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-dermo-extra-control-48-uur-antitranspirant-spray/p/5686934",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h28/hb5/33848673239070/prd-front-5686934-1_600x600/prd-front-5686934-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd0/hd9/33859191734302/prd-front-5686934-1_600x600/prd-front-5686934-1-600x600.jpg"
 }
