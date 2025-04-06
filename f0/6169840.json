@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5928 > 6038 > 2610 > 3250 > 4141 > 6042",
   "supplier": "KIDS CONNECT FASHION BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Dameskleding"
     }
   ],
-  "description": "zwart, mt XL"
+  "description": "zwart, mt XL",
+  "image": "/medias/sys_master/prd-images/h88/ha0/32930270445598/prd-front-6169840-1_600x600/prd-front-6169840-1-600x600.jpg"
 }
