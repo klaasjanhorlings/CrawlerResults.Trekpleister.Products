@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lenor Amber & Orchidee Wasverzachter",
+  "code": "6040655",
+  "price": "4.99",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/lenor-amber-orchidee-wasverzachter/p/6040655",
+  "listName": "Lister",
+  "brand": "Lenor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267115,
+      "name": "Wasverzachter"
+    }
+  ],
+  "description": "1176ml, 56 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hdb/h5b/33746189484062/prd-front-6040655-1_600x600/prd-front-6040655-1-600x600.jpg"
+}

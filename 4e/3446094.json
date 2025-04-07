@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Luxe 1-Persoons Luchtbed",
+  "code": "3446094",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6023 > 4830 > 4935 > 4981 > 5027",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/luxe-1-persoons-luchtbed/p/3446094",
+  "listName": "Lister",
+  "brand": "Bestway",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267457,
+      "name": "Woonaccessoires"
+    }
+  ],
+  "description": "203cm x 102cm x 38cm",
+  "image": "/medias/sys_master/prd-images/h13/he4/30167318659102/prd-front-3446094-1_600x600/prd-front-3446094-1-600x600.jpg"
+}

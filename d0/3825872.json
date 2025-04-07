@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
   "supplier": "CAMPS FOOD BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028578",
+  "mmkId": "3028578",
+  "productGroupId": "457041",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ellas-kitchen-6m-strawberry-banana-maize-puffs/p/3825872",
@@ -33,6 +33,5 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "20g",
-  "image": "/medias/prd-front-3825872-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDIwNDd8aW1hZ2UvanBlZ3xhR1kwTDJnNE55OHhOak15TkRJeU1qY3hNemc0Tmk5d2NtUXRabkp2Ym5RdE16Z3lOVGczTWkweFh6WXdNSGcyTURBfGRlN2JiMzgzOGRkYzJmMTdmMDA5YzI3OTZkZmFmMzJhNzk5YjA4YWJmMWNhODVkMzM3ZDc1YmE2MGIyYzI3YzQ"
+  "description": "20g"
 }

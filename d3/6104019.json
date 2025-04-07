@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028589",
+  "mmkId": "3028589",
+  "productGroupId": "469672",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-koelzalf/p/6104019",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "100g - Zeer droge en geprikkelde huid"
+  "description": "100g - Zeer droge en geprikkelde huid",
+  "image": "/medias/sys_master/prd-images/h47/h0a/32271155363870/prd-front-6104019-1_600x600/prd-front-6104019-1-600x600.jpg"
 }

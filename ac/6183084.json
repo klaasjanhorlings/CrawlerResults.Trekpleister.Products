@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naomi Campbell Signature Geschenkset",
+  "code": "6183084",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 6705 > 6706 > 4113",
+  "supplier": "E.A. COSM DISTRIBUTIONS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naomi-campbell-signature-geschenkset/p/6183084",
+  "listName": "Lister",
+  "brand": "Naomi Campbell",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666175,
+      "name": "Geschenkset voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

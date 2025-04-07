@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Strandtas",
+  "code": "6202747",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 2244 > 2578 > 3199 > 6416",
+  "supplier": "CREATIVE DUTCH MANUFACTURER",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-strandtas/p/6202747",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267420,
+      "name": "Tassen"
+    }
+  ],
+  "description": "beige, blauw",
+  "image": "/medias/sys_master/prd-images/h43/h75/32470714351646/prd-front-6202747-1_600x600/prd-front-6202747-1-600x600.jpg"
+}

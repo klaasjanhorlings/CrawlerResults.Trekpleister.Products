@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028582",
+  "mmkId": "3028582",
+  "productGroupId": "467125",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-botten-en-tanden-vitamine-d-met-magnesium-tabletten/p/3963135",
@@ -33,6 +33,5 @@
       "name": "Botten en gewrichten"
     }
   ],
-  "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/hff/h24/28576343326750/prd-front-3963135-1_600x600/prd-front-3963135-1-600x600.jpg"
+  "description": "90 stuks"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Noa Cacharel Geschenkset",
+  "code": "6279516",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 6705 > 6706 > 4113",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/noa-cacharel-geschenkset/p/6279516",
+  "listName": "Lister",
+  "brand": "Cacharel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654994,
+      "name": "Parfum geschenkset voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h50/h4b/33640930115614/prd-front-6279516-1_600x600/prd-front-6279516-1-600x600.jpg"
+}

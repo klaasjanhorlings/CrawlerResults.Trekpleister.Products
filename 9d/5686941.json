@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028467",
+  "mmkId": "3028467",
+  "productGroupId": "465022",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-dermo-sensitive-24-uur-antitranspirant-spray/p/5686941",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/hfe/hd1/33869067124766/prd-front-5686941-1_600x600/prd-front-5686941-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf4/h94/33877954461726/prd-front-5686941-1_600x600/prd-front-5686941-1-600x600.jpg"
 }

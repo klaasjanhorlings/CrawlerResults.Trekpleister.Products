@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "COSMOGROUP BRANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h3a/h3e/31029576826910/prd-front-5822969-1_600x600/prd-front-5822969-1-600x600.jpg"
+  "description": "250ml"
 }

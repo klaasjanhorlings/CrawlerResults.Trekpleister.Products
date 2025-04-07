@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028591",
+  "mmkId": "3028591",
+  "productGroupId": "472117",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-mach3-scheermesjes/p/1292173",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "5 stuks",
-  "image": "/medias/sys_master/prd-images/h6e/h8e/33868936642590/prd-front-1292173-1_600x600/prd-front-1292173-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he2/hbf/33877497282590/prd-front-1292173-1_600x600/prd-front-1292173-1-600x600.jpg"
 }

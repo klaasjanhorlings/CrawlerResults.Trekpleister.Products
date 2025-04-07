@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "VITALIZE PRODUCTS BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028582",
+  "mmkId": "3028582",
+  "productGroupId": "467125",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vitalize-spier-comfort-magnesium-complex/p/5945371",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h40/h4e/30098605998110/prd-front-5945371-1_600x600/prd-front-5945371-1-600x600.jpg"
 }

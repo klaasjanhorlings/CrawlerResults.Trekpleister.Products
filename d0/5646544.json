@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Familiezwembad XL",
+  "code": "5646544",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6023 > 4830 > 4845 > 4856 > 4867",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/familiezwembad-xl/p/5646544",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267084,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30267395,
+      "name": "Zwembaden en opblaasfiguren"
+    }
+  ],
+  "description": "262cm x 175cm x 51cm",
+  "image": "/medias/sys_master/prd-images/h66/hc0/33347946020894/prd-front-5646544-1_600x600/prd-front-5646544-1-600x600.jpg"
+}

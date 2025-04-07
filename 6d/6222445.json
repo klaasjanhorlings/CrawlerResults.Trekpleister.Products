@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath Nexcube Cobra 3D Puzzel",
+  "code": "6222445",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5164 > 5227 > 5416",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goliath-nexcube-cobra-3d-puzzel/p/6222445",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30267394,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9f/hc1/33389369884702/prd-front-6222445-1_600x600/prd-front-6222445-1-600x600.jpg"
+}

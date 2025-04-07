@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Venus Satin Care Scheergel voor de Gevoelige Huid",
+  "code": "4088673",
+  "price": "5.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 5717 > 5718 > 5719",
+  "supplier": "EUROPEAN TOILETRY BROKE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-venus-satin-care-scheergel-voor-de-gevoelige-huid/p/4088673",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267238,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "2 x 200ml",
+  "image": "/medias/sys_master/prd-images/h4c/ha0/28581848612894/prd-front-4088673-1_600x600/prd-front-4088673-1-600x600.jpg"
+}
