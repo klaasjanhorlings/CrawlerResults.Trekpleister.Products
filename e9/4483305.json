@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028480",
+  "mmkId": "3028480",
+  "productGroupId": "466467",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-scandaleyes-wow-wings-001-black-mascara/p/4483305",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h3a/h47/28576791363614/prd-front-4483305-1_600x600/prd-front-4483305-1-600x600.jpg"
+  "description": ""
 }

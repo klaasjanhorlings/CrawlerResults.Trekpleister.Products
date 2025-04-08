@@ -7,7 +7,7 @@
   "priceOriginal": "42.94",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "SAR TRADING BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/prd-front-907502-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjkzNjB8aW1hZ2UvanBlZ3xhRFZtTDJoallTOHhOalUzTXpBMU5USTNNRGswTWk5d2NtUXRabkp2Ym5RdE9UQTNOVEF5TFRGZk5qQXdlRFl3TUF8NjExMzEzN2U5NzhiNjAyMjlkNjMzYzk2N2M5Y2Y4ODRiNDZiNzNjZTIyMjg2NzZhMzZiZmNlOWFjYmFlNGY0Nw"
+  "description": "75ml"
 }
