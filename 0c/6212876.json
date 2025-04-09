@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Paradise Big Deal Black Mascara",
+  "code": "6212876",
+  "price": "20.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3028538",
+  "mmkId": "3028538",
+  "productGroupId": "471450",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-paradise-big-deal-black-mascara/p/6212876",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267133,
+      "name": "Mascara"
+    }
+  ],
+  "description": "9,9ml",
+  "image": "/medias/sys_master/prd-images/h0a/he9/33605484019742/prd-front-6212876-1_600x600/prd-front-6212876-1-600x600.jpg"
+}

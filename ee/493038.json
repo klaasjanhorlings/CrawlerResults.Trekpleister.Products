@@ -6,7 +6,7 @@
   "price": "3.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
-  "supplier": "MAE HOLDING BV",
+  "supplier": "MAE PHARMA BV",
   "inStock": "inStock",
   "onPromo": "3028588",
   "mmkId": "3028588",
@@ -33,8 +33,8 @@
       "name": "Luchtwegen"
     },
     {
-      "id": 30267518,
-      "name": "Neusspray"
+      "id": 30267519,
+      "name": "Neusdruppels"
     }
   ],
   "description": "15ml",

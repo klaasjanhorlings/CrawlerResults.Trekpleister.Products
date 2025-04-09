@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "2 x 75ml",
-  "image": "/medias/sys_master/prd-images/hf3/h6a/31856508469278/prd-front-2641423-1_600x600/prd-front-2641423-1-600x600.jpg"
+  "description": "2 x 75ml"
 }

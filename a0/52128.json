@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028450",
+  "mmkId": "3028450",
+  "productGroupId": "458456",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/diadermine-oogreinigingslotion/p/52128",
@@ -37,5 +37,6 @@
       "name": "Oogmake-up remover"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h1e/hdb/28551451443230/prd-front-52128-1_600x600/prd-front-52128-1-600x600.jpg"
 }

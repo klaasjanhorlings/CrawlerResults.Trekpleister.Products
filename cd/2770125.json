@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 4144",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028465",
+  "mmkId": "3028465",
+  "productGroupId": "464914",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/roxasect-mottencassette/p/2770125",
@@ -33,6 +33,5 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/he5/h2a/28575996117022/prd-front-2770125-1_600x600/prd-front-2770125-1-600x600.jpg"
+  "description": "2 stuks"
 }
