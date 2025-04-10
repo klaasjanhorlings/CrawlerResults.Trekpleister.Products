@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028608",
+  "mmkId": "3028608",
+  "productGroupId": "469534",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-friends-42652-boomhut-voor-de-vrienden/p/6232553",
@@ -33,6 +33,5 @@
       "name": "LEGO Friends"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h5d/he7/33146701086750/prd-front-6232553-1_600x600/prd-front-6232553-1-600x600.jpg"
+  "description": ""
 }

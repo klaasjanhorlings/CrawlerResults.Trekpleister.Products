@@ -1,8 +1,8 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rimmel London Kind & Free 05 Lippenbalsem",
-  "code": "6007202",
+  "itemName": "Rimmel London Kind & Free 01 Lippenbalsem",
+  "code": "6007265",
   "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
@@ -13,7 +13,7 @@
   "productGroupId": "466467",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rimmel-london-kind-free-05-lippenbalsem/p/6007202",
+  "url": "/rimmel-london-kind-free-01-lippenbalsem/p/6007265",
   "listName": "Lister",
   "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/hb8/h99/31784192573470/prd-front-6007265-1_600x600/prd-front-6007265-1-600x600.jpg"
 }

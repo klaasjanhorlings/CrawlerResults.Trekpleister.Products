@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Sheba Délices du Jour in Saus met Kip, Gevogelte en Kalkoen Maaltijdzakjes Kattenvoer",
+  "itemName": "Sheba Délices du Jour in Saus met Kip, Kalkoen en Eend Maaltijdzakjes Kattenvoer",
   "code": "4813950",
   "price": "15.49",
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2081 > 2239 > 2360 > 2911 > 4250",
   "supplier": "MARS PETFOODS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/sheba-delices-du-jour-in-saus-met-kip-gevogelte-en-kalkoen-maaltijdzakjes-kattenvoer/p/4813950",
+  "url": "/sheba-delices-du-jour-in-saus-met-kip-kalkoen-en-eend-maaltijdzakjes-kattenvoer/p/4813950",
   "listName": "Lister",
   "brand": "Sheba",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "36 x 50g",
-  "image": "/medias/sys_master/prd-images/h85/hce/33904988028958/prd-front-4813950-1_600x600/prd-front-4813950-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h86/h79/33916432547870/prd-front-4813950-1_600x600/prd-front-4813950-1-600x600.jpg"
 }

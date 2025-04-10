@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Crime Scene Game Brooklyn 2002",
+  "code": "6029777",
+  "price": "9.99",
+  "priceOriginal": "16.99",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5164 > 5227 > 5416",
+  "supplier": "SELECTA SPEL EN HOBBY",
+  "inStock": "inStock",
+  "onPromo": "3028608",
+  "mmkId": "3028608",
+  "productGroupId": "469534",
+  "brandType": "Ander merk",
+  "discount": "€ 7,00",
+  "url": "/crime-scene-game-brooklyn-2002/p/6029777",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h16/h78/31477335588894/prd-front-6029777-1_600x600/prd-front-6029777-1-600x600.jpg"
+}

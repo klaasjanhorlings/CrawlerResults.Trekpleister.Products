@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
   "supplier": "HAPPY HORSE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028608",
+  "mmkId": "3028608",
+  "productGroupId": "469534",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dikkie-dik-pluchen-knuffel/p/5879921",
@@ -29,6 +29,5 @@
       "name": "Poppen en knuffels"
     }
   ],
-  "description": "oranje",
-  "image": "/medias/sys_master/prd-images/hba/h66/28610225864734/prd-front-5879921-1_600x600/prd-front-5879921-1-600x600.jpg"
+  "description": "oranje"
 }

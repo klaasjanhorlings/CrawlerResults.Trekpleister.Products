@@ -4,7 +4,7 @@
   "itemName": "Sanature 100% Katoenen String Inlegkruisjes",
   "code": "6156155",
   "price": "3.59",
-  "priceOriginal": "",
+  "priceOriginal": "4.99",
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "SANATURE BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3028536",
   "productGroupId": "471380",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 1,40",
   "url": "/sanature-100-katoenen-string-inlegkruisjes/p/6156155",
   "listName": "Lister",
   "brand": "Sanature",
@@ -33,6 +33,5 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/h32/hf0/31564965806110/prd-front-6156155-1_600x600/prd-front-6156155-1-600x600.jpg"
+  "description": "24 stuks"
 }

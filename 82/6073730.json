@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nijntje Danst Kaartspel",
+  "code": "6073730",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
+  "supplier": "IDENTITY GAMES INT. BV",
+  "inStock": "inStock",
+  "onPromo": "3028608",
+  "mmkId": "3028608",
+  "productGroupId": "469534",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nijntje-danst-kaartspel/p/6073730",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 49281487,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1c/hc6/30479031042078/prd-front-6073730-1_600x600/prd-front-6073730-1-600x600.jpg"
+}

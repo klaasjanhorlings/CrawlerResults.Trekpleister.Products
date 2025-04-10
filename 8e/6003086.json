@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028608",
+  "mmkId": "3028608",
+  "productGroupId": "469534",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-technic-42167-mack-lr-elektrische-vuilniswagen/p/6003086",
@@ -33,5 +33,6 @@
       "name": "LEGO Technic"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/haa/hd4/29516323717150/prd-front-6003086-1_600x600/prd-front-6003086-1-600x600.jpg"
 }

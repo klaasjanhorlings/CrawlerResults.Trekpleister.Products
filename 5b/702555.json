@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3028437",
-  "mmkId": "3028437",
-  "productGroupId": "452505",
+  "onPromo": "3028606",
+  "mmkId": "3028606",
+  "productGroupId": "468138",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-antitranspirant-behandelspray/p/702555",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "25ml"
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/he0/h76/29339206582302/prd-front-702555-1_600x600/prd-front-702555-1-600x600.jpg"
 }
