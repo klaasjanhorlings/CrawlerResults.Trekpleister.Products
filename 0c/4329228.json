@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bestway Elektrische Pomp",
+  "code": "4329228",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6023 > 4830 > 5178 > 5286 > 5475",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "3028608",
+  "mmkId": "3028608",
+  "productGroupId": "469534",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bestway-elektrische-pomp/p/4329228",
+  "listName": "Lister",
+  "brand": "Bestway",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267101,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30267433,
+      "name": "Reisartikelen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h21/he1/30121212411934/prd-front-4329228-1_600x600/prd-front-4329228-1-600x600.jpg"
+}

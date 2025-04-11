@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 30267046,
-      "name": "Huidverzorging"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30267196,
-      "name": "Bodyolie"
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267499,
+      "name": "Littekencremes"
     }
   ],
   "description": "100ml",

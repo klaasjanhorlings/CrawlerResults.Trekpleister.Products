@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rexona Women Maximum Protection Active Shield Anti-Transpirant Cream Deodorant Stick",
+  "code": "3774058",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3796",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rexona-women-maximum-protection-active-shield-anti-transpirant-cream-deodorant-stick/p/3774058",
+  "listName": "Lister",
+  "brand": "Rexona",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267202,
+      "name": "Deostick"
+    }
+  ],
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/hb0/hd7/33926217760798/prd-front-3774058-1_600x600/prd-front-3774058-1-600x600.jpg"
+}

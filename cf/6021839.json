@@ -21,21 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
     },
     {
-      "id": 51216437,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 55926790,
-      "name": "Pigmentverzorging"
+      "id": 30267362,
+      "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/ha1/hed/30436028022814/prd-front-6021839-1_600x600/prd-front-6021839-1-600x600.jpg"
 }

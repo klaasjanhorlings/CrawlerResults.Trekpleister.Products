@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Bronzer"
     }
   ],
-  "description": "8g",
-  "image": "/medias/sys_master/prd-images/hcc/h44/33039955853342/prd-front-4163965-1_600x600/prd-front-4163965-1-600x600.jpg"
+  "description": "8g"
 }

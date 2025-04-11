@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Glijmiddel Op Siliconenbasis",
   "code": "6018059",
-  "price": "3.99",
+  "price": "4.25",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "COBECO PHARMA WHOLESALE",
@@ -33,5 +33,6 @@
       "name": "Glijmiddelen en massagegels"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hc1/h30/30189022019614/prd-front-6018059-1_600x600/prd-front-6018059-1-600x600.jpg"
 }

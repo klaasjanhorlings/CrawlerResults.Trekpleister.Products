@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tristar Aircooler",
+  "code": "6247855",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 6148 > 6149 > 6150",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tristar-aircooler/p/6247855",
+  "listName": "Lister",
+  "brand": "Tristar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267110,
+      "name": "Ventilatoren"
+    }
+  ],
+  "description": "wit, 4L",
+  "image": "/medias/sys_master/prd-images/h58/h09/33075607240734/prd-front-6247855-1_600x600/prd-front-6247855-1-600x600.jpg"
+}

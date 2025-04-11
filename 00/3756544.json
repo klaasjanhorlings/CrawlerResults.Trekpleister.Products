@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Tena Pants Plus Medium Broekjes",
   "code": "3756544",
-  "price": "10.99",
+  "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
@@ -37,5 +37,6 @@
       "name": "Incontinentiebroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - 9 stuks"
+  "description": "Medisch hulpmiddel - 9 stuks",
+  "image": "/medias/sys_master/prd-images/h30/h57/29088391594014/prd-front-3756544-1_600x600/prd-front-3756544-1-600x600.jpg"
 }

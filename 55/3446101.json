@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Luxe 2-Persoons Luchtbed",
+  "code": "3446101",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6023 > 4830 > 4935 > 4981 > 5027",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "3028608",
+  "mmkId": "3028608",
+  "productGroupId": "469534",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/luxe-2-persoons-luchtbed/p/3446101",
+  "listName": "Lister",
+  "brand": "Bestway",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267101,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30267433,
+      "name": "Reisartikelen"
+    }
+  ],
+  "description": "203cm x 152cm x 38cm",
+  "image": "/medias/sys_master/prd-images/h3c/hbf/30170229538846/prd-front-3446101-1_600x600/prd-front-3446101-1-600x600.jpg"
+}

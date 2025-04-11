@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Libresse Ultra Normal Maandverband",
   "code": "5837697",
-  "price": "4.79",
+  "price": "4.89",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
   "supplier": "ESSITY",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hcc/h7d/28736259719198/prd-front-5837697-1_600x600/prd-front-5837697-1-600x600.jpg"
 }

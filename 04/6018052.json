@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "NIVEA Luminous630 Anti-Striae Bodycrème",
   "code": "6018052",
-  "price": "22.99",
+  "price": "23.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267046,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30267256,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 30267499,
-      "name": "Littekencremes"
+      "id": 30267198,
+      "name": "Bodycremes"
     }
   ],
   "description": "200ml",
