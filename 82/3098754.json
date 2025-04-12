@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2076 > 2227 > 2509 > 3120 > 3985",
   "supplier": "UNILEVER NEDERLAND",
-  "inStock": "inStock",
-  "onPromo": "3028383",
-  "mmkId": "3028383",
-  "productGroupId": "456028",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/unox-cup-a-soup-champignon-creme/p/3098754",
@@ -33,5 +33,6 @@
       "name": "Soep"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/prd-front-3098754-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTgwMzl8aW1hZ2UvanBlZ3xhRFJrTDJnMk1TOHhOakk1T1RBNE1qVXhORFEyTWk5d2NtUXRabkp2Ym5RdE16QTVPRGMxTkMweFh6WXdNSGcyTURBfDczYjRkMzRlOTkyZjIyMzIyYTU0ZDA1YzhlYzQ2MzEyNjQ2NTcwZGExYjcyNWE3NDlkNThiZDljOGJjMWY5OWQ"
 }

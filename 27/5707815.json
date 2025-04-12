@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Matt Pro Ink 100 Courage Code Liquid Lipstick",
-  "code": "5094055",
-  "price": "4.99",
+  "itemName": "Catrice 070 Turquoise Sense Waterproof Kohl Kajal",
+  "code": "5707815",
+  "price": "1.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-matt-pro-ink-100-courage-code-liquid-lipstick/p/5094055",
+  "url": "/catrice-070-turquoise-sense-waterproof-kohl-kajal/p/5707815",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267142,
+      "name": "Oogpotlood"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h4b/hdf/29926812647454/prd-front-5094055-1_600x600/prd-front-5094055-1-600x600.jpg"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h40/h6f/29952459210782/prd-front-5707815-1_600x600/prd-front-5707815-1-600x600.jpg"
 }

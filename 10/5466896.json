@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "inStock",
-  "onPromo": "3028480",
-  "mmkId": "3028480",
-  "productGroupId": "466467",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-wonderserum-revitalising-serum-for-lashes-and-brows/p/5466896",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "29g"
+  "description": "29g",
+  "image": "/medias/sys_master/prd-images/h90/h6b/28621736050718/prd-front-5466896-1_600x600/prd-front-5466896-1-600x600.jpg"
 }

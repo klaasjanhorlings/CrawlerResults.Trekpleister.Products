@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rimmel London Lasting Finish 35hr 700 Ebony Foundation",
-  "code": "6006985",
-  "price": "18.99",
+  "itemName": "Rimmel London Kind & Free 01 Lippenbalsem",
+  "code": "6007265",
+  "price": "12.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
   "onPromo": "3028480",
@@ -13,7 +13,7 @@
   "productGroupId": "466467",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rimmel-london-lasting-finish-35hr-700-ebony-foundation/p/6006985",
+  "url": "/rimmel-london-kind-free-01-lippenbalsem/p/6007265",
   "listName": "Lister",
   "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hc8/hc9/29790496653342/prd-front-6006985-1_600x600/prd-front-6006985-1-600x600.jpg"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/hb8/h99/31784192573470/prd-front-6007265-1_600x600/prd-front-6007265-1-600x600.jpg"
 }

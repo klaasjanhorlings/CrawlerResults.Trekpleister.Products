@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Max Factor Miracle Pure 050 Skin-Improving Foundation",
-  "code": "5592217",
-  "price": "19.99",
+  "itemName": "Max Factor Miracle Pure Skin Reset 80-85 Medium 2-in-1 Serum Foundation",
+  "code": "6098993",
+  "price": "24.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028479",
+  "mmkId": "3028479",
+  "productGroupId": "466466",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/max-factor-miracle-pure-050-skin-improving-foundation/p/5592217",
+  "url": "/max-factor-miracle-pure-skin-reset-80-85-medium-2-in-1-serum-foundation/p/6098993",
   "listName": "Lister",
   "brand": "Max Factor",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/prd-front-5592217-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTYwMDJ8aW1hZ2UvanBlZ3xhRGxoTDJnM1ppOHhOekEzTURRMk1UZzBOVFV6TkM5d2NtUXRabkp2Ym5RdE5UVTVNakl4TnkweFh6WXdNSGcyTURBfGYxYzZhOGQxMDRlZTI3NDhkNjk4ZmFlZmE3ZDc4NmE1YzQ4ZWEyZGY0ZDZhYzQ3MDRlZjQxMzcyNGU5ZThlZTQ"
+  "image": "/medias/sys_master/prd-images/he9/hf6/33047077355550/prd-front-6098993-1_600x600/prd-front-6098993-1-600x600.jpg"
 }

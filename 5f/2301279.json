@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rimmel London Lasting Mega Matte 200 Lipgloss",
-  "code": "6007244",
-  "price": "14.99",
+  "itemName": "Rimmel London Lasting Finish 01 My Gorge Red Lippenstift",
+  "code": "2301279",
+  "price": "12.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
   "onPromo": "3028480",
@@ -13,7 +13,7 @@
   "productGroupId": "466467",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rimmel-london-lasting-mega-matte-200-lipgloss/p/6007244",
+  "url": "/rimmel-london-lasting-finish-01-my-gorge-red-lippenstift/p/2301279",
   "listName": "Lister",
   "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267140,
-      "name": "Lipgloss"
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
-  "description": "7,4ml",
-  "image": "/medias/sys_master/prd-images/hcc/hc0/29787506507806/prd-front-6007244-1_600x600/prd-front-6007244-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5b/h6a/31783087505438/prd-front-2301279-1_600x600/prd-front-2301279-1-600x600.jpg"
 }

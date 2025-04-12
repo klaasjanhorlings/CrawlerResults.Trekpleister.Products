@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 4640 > 5190 > 5369 > 5558",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028608",
+  "mmkId": "3028608",
+  "productGroupId": "469534",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/playing-kids-houten-toaster/p/6205456",
@@ -29,6 +29,5 @@
       "name": "Interactief speelgoed"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h25/h19/33389243269150/prd-front-6205456-1_600x600/prd-front-6205456-1-600x600.jpg"
+  "description": ""
 }
