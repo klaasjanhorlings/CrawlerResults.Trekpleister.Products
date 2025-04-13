@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Maybelline New York SuperStay Vinyl Ink 25 Red-Hot Lipstick",
-  "code": "5691267",
-  "price": "17.99",
+  "itemName": "Catrice Matt Pro Ink 100 Courage Code Liquid Lipstick",
+  "code": "5094055",
+  "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
-  "supplier": "MAYBELLINE MAKE-UP",
+  "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/maybelline-new-york-superstay-vinyl-ink-25-red-hot-lipstick/p/5691267",
+  "url": "/catrice-matt-pro-ink-100-courage-code-liquid-lipstick/p/5094055",
   "listName": "Lister",
-  "brand": "Maybelline",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,2ml",
-  "image": "/medias/sys_master/prd-images/h60/hba/33935126298654/prd-front-5691267-1_600x600/prd-front-5691267-1-600x600.jpg"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h4b/hdf/29926812647454/prd-front-5094055-1_600x600/prd-front-5094055-1-600x600.jpg"
 }
