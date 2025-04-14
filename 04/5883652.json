@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3028511",
-  "mmkId": "3028511",
-  "productGroupId": "468879",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sensodyne-proglasur-active-shield-whitening-tandpasta/p/5883652",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h5e/h73/33894847414302/prd-front-5883652-1_600x600/prd-front-5883652-1-600x600.jpg"
 }

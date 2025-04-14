@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
   "supplier": "SPEELGOEDLAND",
   "inStock": "inStock",
-  "onPromo": "3028608",
-  "mmkId": "3028608",
-  "productGroupId": "469534",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gabbys-dollhouse-4-in-1-puzzels/p/5931147",
@@ -33,5 +33,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha0/h85/33750550249502/prd-front-5931147-1_600x600/prd-front-5931147-1-600x600.jpg"
 }

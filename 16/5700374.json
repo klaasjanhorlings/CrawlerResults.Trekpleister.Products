@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3913",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028481",
-  "mmkId": "3028481",
-  "productGroupId": "466512",
+  "onPromo": "3028641",
+  "mmkId": "3028641",
+  "productGroupId": "462802",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-classic-2-in-1-shampoo-conditioner/p/5700374",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "450ml"
+  "description": "450ml",
+  "image": "/medias/sys_master/prd-images/h09/h8f/29959590805534/prd-front-5700374-1_600x600/prd-front-5700374-1-600x600.jpg"
 }

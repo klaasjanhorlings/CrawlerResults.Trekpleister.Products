@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "NEW VALMAR BV",
   "inStock": "inStock",
-  "onPromo": "3028462",
-  "mmkId": "3028462",
-  "productGroupId": "462032",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nuby-3m-koelbijtsleutels/p/4433780",
@@ -33,6 +33,5 @@
       "name": "Babyaccessoires"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h05/ha4/28576790708254/prd-front-4433780-1_600x600/prd-front-4433780-1-600x600.jpg"
+  "description": ""
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "3028608",
-  "mmkId": "3028608",
-  "productGroupId": "469534",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/999-games-inside-job/p/6260469",
@@ -29,6 +29,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1a/h52/33759607160862/prd-front-6260469-1_600x600/prd-front-6260469-1-600x600.jpg"
+  "description": ""
 }

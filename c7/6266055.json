@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
   "supplier": "GOLIATH B.V.",
   "inStock": "inStock",
-  "onPromo": "3028608",
-  "mmkId": "3028608",
-  "productGroupId": "469534",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 5,00",
   "url": "/goliath-chuck-pinson-seaside-puzzel/p/6266055",
@@ -33,5 +33,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": "1000 stukjes"
+  "description": "1000 stukjes",
+  "image": "/medias/sys_master/prd-images/h70/h6d/33389367918622/prd-front-6266055-1_600x600/prd-front-6266055-1-600x600.jpg"
 }

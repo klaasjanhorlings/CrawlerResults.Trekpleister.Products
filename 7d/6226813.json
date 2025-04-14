@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3028608",
-  "mmkId": "3028608",
-  "productGroupId": "469534",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-creator-3-in-1-31162-lief-konijn/p/6226813",
@@ -33,6 +33,5 @@
       "name": "LEGO Creator"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h75/h5d/33069057933342/prd-front-6226813-1_600x600/prd-front-6226813-1-600x600.jpg"
+  "description": ""
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3028470",
-  "mmkId": "3028470",
-  "productGroupId": "465779",
+  "onPromo": "3028681",
+  "mmkId": "3028681",
+  "productGroupId": "475723",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ garnier-ambre-solaire-ideal-bronze-spf30-zonnebrandspray/p/5603886",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h4d/hb6/33568624803870/prd-front-5603886-1_600x600/prd-front-5603886-1-600x600.jpg"
 }

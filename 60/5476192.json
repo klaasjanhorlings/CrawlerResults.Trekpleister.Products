@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "3028451",
-  "mmkId": "3028451",
-  "productGroupId": "458536",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/waterwipes-babydoekjes/p/5476192",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "12 x 60 stuks"
+  "description": "12 x 60 stuks",
+  "image": "/medias/sys_master/prd-images/h34/h49/33894515408926/prd-front-5476192-1_600x600/prd-front-5476192-1-600x600.jpg"
 }

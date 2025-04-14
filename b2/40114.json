@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028678",
+  "mmkId": "3028678",
+  "productGroupId": "475286",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-gezichtsreinigingsdoekjes/p/40114",
@@ -37,5 +37,6 @@
       "name": "Reinigingsdoekjes"
     }
   ],
-  "description": "25 stuks"
+  "description": "25 stuks",
+  "image": "/medias/sys_master/prd-images/hd9/h7c/28656686071838/prd-front-40114-1_600x600/prd-front-40114-1-600x600.jpg"
 }

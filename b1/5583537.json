@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3028234",
-  "mmkId": "3028234",
-  "productGroupId": "458400",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-vitamine-c-serummasker/p/5583537",
@@ -33,6 +33,5 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": "28g",
-  "image": "/medias/sys_master/prd-images/h0e/h4d/30210305490974/prd-front-5583537-1_600x600/prd-front-5583537-1-600x600.jpg"
+  "description": "28g"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3028438",
-  "mmkId": "3028438",
-  "productGroupId": "453250",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vogue-women-elegance-perfume-deodorant-spray/p/5235560",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/prd-front-5235560-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjQzOTh8aW1hZ2UvanBlZ3xhRE5tTDJobU9DOHhOamMxTnpNNU5Ua3hORGM0TWk5d2NtUXRabkp2Ym5RdE5USXpOVFUyTUMweFh6WXdNSGcyTURBfDJmMzhmMzdiN2E3YWM5Mzg0NzZiMDI5MTgyOWI1NDJkMDNlYjk2YjFlNzg0N2Y2MzM5NWQ0MmFmMTQ1N2NlMDA"
 }

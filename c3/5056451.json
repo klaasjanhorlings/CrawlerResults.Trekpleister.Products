@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3028606",
-  "mmkId": "3028606",
-  "productGroupId": "468138",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 2,50",
   "url": "/therme-hammam-relaxing-badschuim/p/5056451",
@@ -33,6 +33,5 @@
       "name": "Badschuim"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/h49/hdc/28866878144542/prd-front-5056451-1_600x600/prd-front-5056451-1-600x600.jpg"
+  "description": "500ml"
 }

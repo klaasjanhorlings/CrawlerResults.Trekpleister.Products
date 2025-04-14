@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Creator 31058 Machtige Dinosaurussen",
+  "code": "4228232",
+  "price": "12.99",
+  "priceOriginal": "17.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/lego-creator-31058-machtige-dinosaurussen/p/4228232",
+  "listName": "Lister",
+  "brand": "LEGO Creator",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267372,
+      "name": "LEGO Creator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4228232-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTY1MDJ8aW1hZ2UvanBlZ3xhRGs0TDJnek9DOHhOak0yTURFMk1EazROVEV4T0M5d2NtUXRabkp2Ym5RdE5ESXlPREl6TWkweFh6WXdNSGcyTURBfGNlZjQwMzUxYTYzMmRhN2UwNTQxZTk5M2Y5YzNkYmE0ZWRjYzYyY2M3YzE1NTg0ZjllN2E3ODNkOGFlMjdlMmM"
+}

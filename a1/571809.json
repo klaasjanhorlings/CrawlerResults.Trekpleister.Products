@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3028478",
-  "mmkId": "3028478",
-  "productGroupId": "466380",
+  "onPromo": "3028658",
+  "mmkId": "3028658",
+  "productGroupId": "469470",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-ultra-level-4-haarmousse/p/571809",
@@ -33,6 +33,5 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hab/h61/33759093194782/prd-front-571809-1_600x600/prd-front-571809-1-600x600.jpg"
+  "description": "200ml"
 }

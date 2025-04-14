@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Stralend Wit Vloeibaar Wasmiddel",
+  "code": "5603333",
+  "price": "7.99",
+  "priceOriginal": "15.59",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 4253",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3028625",
+  "mmkId": "3028625",
+  "productGroupId": "450334",
+  "brandType": "A of B merk",
+  "discount": "€ 7,60",
+  "url": "/robijn-stralend-wit-vloeibaar-wasmiddel/p/5603333",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "1800ml, 36 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hde/h91/33945608290334/prd-front-5603333-1_600x600/prd-front-5603333-1-600x600.jpg"
+}

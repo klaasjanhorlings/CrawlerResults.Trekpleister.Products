@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6023 > 4830 > 4935 > 4981 > 5027",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "3028608",
-  "mmkId": "3028608",
-  "productGroupId": "469534",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/2-persoons-luchtbed/p/4778390",
@@ -33,5 +33,6 @@
       "name": "Reisartikelen"
     }
   ],
-  "description": "191cm x 137cm x 22 cm"
+  "description": "191cm x 137cm x 22 cm",
+  "image": "/medias/sys_master/prd-images/h1f/h1e/30116722540574/prd-front-4778390-1_600x600/prd-front-4778390-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028441",
-  "mmkId": "3028441",
-  "productGroupId": "454718",
+  "onPromo": "3028641",
+  "mmkId": "3028641",
+  "productGroupId": "462802",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-original-compressed-deodorant-spray/p/5840945",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hd5/h3d/33196806832158/prd-front-5840945-1_600x600/prd-front-5840945-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6023 > 4830 > 4845 > 4856 > 4867",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "3028608",
-  "mmkId": "3028608",
-  "productGroupId": "469534",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bestway-crocodile-cove-playcenter/p/6184946",
@@ -33,5 +33,6 @@
       "name": "Zwembaden en opblaasfiguren"
     }
   ],
-  "description": "224 cm x 141cm x 72cm"
+  "description": "224 cm x 141cm x 72cm",
+  "image": "/medias/sys_master/prd-images/h03/hca/33884931883038/prd-front-6184946-1_600x600/prd-front-6184946-1-600x600.jpg"
 }

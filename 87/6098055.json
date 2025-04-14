@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "De Kleine Keuken Biologische Dadel & Appelreepjes",
+  "code": "6098055",
+  "price": "2.7",
+  "priceOriginal": "2.99",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 4335 > 4336",
+  "supplier": "TRULY FOODS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 0,29",
+  "url": "/de-kleine-keuken-biologische-dadel-appelreepjes/p/6098055",
+  "listName": "Lister",
+  "brand": "De kleine keuken",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267331,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "5 x 15g",
+  "image": "/medias/sys_master/prd-images/hbd/hab/31038150180894/prd-front-6098055-1_600x600/prd-front-6098055-1-600x600.jpg"
+}

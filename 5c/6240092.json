@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "ZURU NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028704",
+  "mmkId": "3028704",
+  "productGroupId": "477683",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/rascals-maat-7-cocomelon-luierbroekjes/p/6240092",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 7"
     }
   ],
-  "description": "Maat 7 (17+ kg), 18 stuks"
+  "description": "Maat 7 (17+ kg), 18 stuks",
+  "image": "/medias/sys_master/prd-images/h71/h20/33949524230174/prd-front-6240092-1_600x600/prd-front-6240092-1-600x600.jpg"
 }
