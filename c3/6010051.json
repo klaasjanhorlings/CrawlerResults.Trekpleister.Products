@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London Multi-Tasker Better Than Filters 001 Fair Primer",
+  "code": "6010051",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "3028675",
+  "mmkId": "3028675",
+  "productGroupId": "474749",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-multi-tasker-better-than-filters-001-fair-primer/p/6010051",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267135,
+      "name": "Concealer"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h4f/hfd/31159118037022/prd-front-6010051-1_600x600/prd-front-6010051-1-600x600.jpg"
+}

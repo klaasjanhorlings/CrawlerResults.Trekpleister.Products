@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Max Factor 2000 Calorie Lip Glaze 050 Guave Flair Lipgloss",
-  "code": "6006530",
-  "price": "12.99",
+  "itemName": "Catrice Glass Like 020 Look At Me! Dewy Lip Tint",
+  "code": "6233631",
+  "price": "4.69",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
-  "supplier": "COTY NETHERLANDS CB SUB",
+  "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/max-factor-2000-calorie-lip-glaze-050-guave-flair-lipgloss/p/6006530",
+  "url": "/catrice-glass-like-020-look-at-me-dewy-lip-tint/p/6233631",
   "listName": "Lister",
-  "brand": "Max Factor",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "4,4ml",
-  "image": "/medias/sys_master/prd-images/h19/ha3/30977610154014/prd-front-6006530-1_600x600/prd-front-6006530-1-600x600.jpg"
+  "description": "3ml",
+  "image": "/medias/sys_master/prd-images/h46/h6b/33048204935198/prd-front-6233631-1_600x600/prd-front-6233631-1-600x600.jpg"
 }

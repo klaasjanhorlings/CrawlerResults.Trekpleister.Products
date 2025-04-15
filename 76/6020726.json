@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Bright Reveal Peeling Exfoliant",
+  "code": "6020726",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3028693",
+  "mmkId": "3028693",
+  "productGroupId": "476815",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-bright-reveal-peeling-exfoliant/p/6020726",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
+    }
+  ],
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/h4a/h5e/29685805088798/prd-front-6020726-1_600x600/prd-front-6020726-1-600x600.jpg"
+}

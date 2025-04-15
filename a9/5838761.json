@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/hb7/ha1/33949880746014/prd-front-5838761-1_600x600/prd-front-5838761-1-600x600.jpg"
 }

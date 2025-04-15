@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3017 > 3842",
   "supplier": "ZURU NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "3028704",
-  "mmkId": "3028704",
-  "productGroupId": "477683",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/rascals-maat-7-premium-luiers/p/6240134",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 7, 20 stuks",
-  "image": "/medias/sys_master/prd-images/hc6/h1d/33944109088798/prd-front-6240134-1_600x600/prd-front-6240134-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h44/h20/33950422204446/prd-front-6240134-1_600x600/prd-front-6240134-1-600x600.jpg"
 }

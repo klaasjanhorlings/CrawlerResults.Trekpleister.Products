@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Ultra Day Long Plus Maandverband",
+  "code": "6267630",
+  "price": "2.85",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-ultra-day-long-plus-maandverband/p/6267630",
+  "listName": "Lister",
+  "brand": "Always",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267219,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "mt 3, 9 stuks",
+  "image": "/medias/sys_master/prd-images/hb1/hc7/33455455174686/prd-front-6267630-1_600x600/prd-front-6267630-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Ultimate Night Maandverband",
+  "code": "6271690",
+  "price": "2.85",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-ultimate-night-maandverband/p/6271690",
+  "listName": "Lister",
+  "brand": "Always",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267219,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "mt 6, 7 stuks",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}
