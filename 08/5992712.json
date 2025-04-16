@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6647",
   "supplier": "LEEV.NU BV",
-  "inStock": "inStock",
-  "onPromo": "3028708",
-  "mmkId": "3028708",
-  "productGroupId": "478268",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/leev-bio-organic-low-carb-multiseed-crackers/p/5992712",
@@ -33,5 +33,6 @@
       "name": "Gewichtsbeheersing snacks"
     }
   ],
-  "description": "3 x 2 stuks"
+  "description": "3 x 2 stuks",
+  "image": "/medias/sys_master/prd-images/ha7/h8a/29123622993950/prd-front-5992712-1_600x600/prd-front-5992712-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "In Bad Met Peppa! Badboekje",
+  "code": "6214087",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4868 > 2092 > 2245 > 2343 > 2743 > 6568",
+  "supplier": "BOOK & SERVICE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/in-bad-met-peppa-badboekje/p/6214087",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267085,
+      "name": "Educatief speelgoed"
+    }
+  ],
+  "description": "Nederlandstalig boek",
+  "image": "/medias/sys_master/prd-images/h0a/h07/32586470490142/prd-front-6214087-1_600x600/prd-front-6214087-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sportlegging",
+  "code": "6224706",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6038 > 2610 > 3250 > 4141 > 6042",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/sportlegging/p/6224706",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267090,
+      "name": "Dames"
+    },
+    {
+      "id": 30267398,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "paars, mt L",
+  "image": "/medias/sys_master/prd-images/hf7/h7e/33540781932574/prd-front-6224706-1_600x600/prd-front-6224706-1-600x600.jpg"
+}
