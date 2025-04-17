@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Maybelline Lash Sensational Sky High Primer",
+  "itemName": "Maybelline New York Lash Sensational Sky High Tinted Primer",
   "code": "6003954",
   "price": "20.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3028732",
+  "mmkId": "3028732",
+  "productGroupId": "468421",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/maybelline-lash-sensational-sky-high-primer/p/6003954",
+  "url": "/maybelline-new-york-lash-sensational-sky-high-tinted-primer/p/6003954",
   "listName": "Lister",
   "brand": "Maybelline",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "7.7ml",
+  "description": "7,7ml",
   "image": "/medias/sys_master/prd-images/h29/hc8/30332943073310/prd-front-6003954-1_600x600/prd-front-6003954-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028736",
+  "mmkId": "3028736",
+  "productGroupId": "477261",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/listerine-total-care-milde-smaak-mondwater/p/6064455",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h0d/h7b/30502984122398/prd-front-6064455-1_600x600/prd-front-6064455-1-600x600.jpg"
 }

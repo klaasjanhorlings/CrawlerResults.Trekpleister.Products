@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Panorama Volume Million Lashes All Night Black Mascara",
+  "itemName": "L'Oréal Paris Panorama All Night Black Mascara",
   "code": "6235556",
   "price": "21.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-panorama-volume-million-lashes-all-night-black-mascara/p/6235556",
+  "url": "/loreal-paris-panorama-all-night-black-mascara/p/6235556",
   "listName": "Lister",
   "brand": "L'Oreal",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "",
+  "description": "10ml",
   "image": "/medias/sys_master/prd-images/h64/h74/33607871496222/prd-front-6235556-1_600x600/prd-front-6235556-1-600x600.jpg"
 }

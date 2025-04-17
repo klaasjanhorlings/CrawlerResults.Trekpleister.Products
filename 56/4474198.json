@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3028732",
+  "mmkId": "3028732",
+  "productGroupId": "468421",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-instant-anti-age-eraser-08-buff-concealer/p/4474198",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "6,8ml"
+  "description": "6,8ml",
+  "image": "/medias/sys_master/prd-images/he7/h8e/29034546724894/prd-front-4474198-1_600x600/prd-front-4474198-1-600x600.jpg"
 }

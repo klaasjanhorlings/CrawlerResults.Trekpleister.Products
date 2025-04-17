@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rimmel London Kind & Free 003 Pink Heat Tinted Multi-Stick",
-  "code": "6007209",
-  "price": "15.99",
+  "itemName": "Rimmel London Lasting Finish 35H 010 Rose Ivory Foundation",
+  "code": "5975002",
+  "price": "18.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3028675",
-  "mmkId": "3028675",
-  "productGroupId": "474749",
+  "onPromo": "3028732",
+  "mmkId": "3028732",
+  "productGroupId": "468421",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rimmel-london-kind-free-003-pink-heat-tinted-multi-stick/p/6007209",
+  "url": "/rimmel-london-lasting-finish-35h-010-rose-ivory-foundation/p/5975002",
   "listName": "Lister",
   "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267134,
+      "name": "Foundation"
     }
   ],
-  "description": "5g",
-  "image": "/medias/sys_master/prd-images/h86/hfa/30916044816414/prd-front-6007209-1_600x600/prd-front-6007209-1-600x600.jpg"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hbb/h6a/29797899436062/prd-front-5975002-1_600x600/prd-front-5975002-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "RSDW BEHEER BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028738",
+  "mmkId": "3028738",
+  "productGroupId": "477320",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/2th-coniflex-3-7-mm-conische-interdentale-ragers/p/3339477",
@@ -33,6 +33,5 @@
       "name": "Beugelverzorging"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/h7d/h3c/31039191121950/prd-front-3339477-1_600x600/prd-front-3339477-1-600x600.jpg"
+  "description": "10 stuks"
 }

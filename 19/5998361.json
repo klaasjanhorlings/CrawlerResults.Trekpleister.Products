@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Maybelline New York Lash Sensational Sky High Volume Mascara",
+  "itemName": "Maybelline New York Lash Sensational Sky High Black Mascara",
   "code": "5998361",
   "price": "20.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3028732",
+  "mmkId": "3028732",
+  "productGroupId": "468421",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/maybelline-new-york-lash-sensational-sky-high-volume-mascara/p/5998361",
+  "url": "/maybelline-new-york-lash-sensational-sky-high-black-mascara/p/5998361",
   "listName": "Lister",
   "brand": "Maybelline",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "",
+  "description": "6ml",
   "image": "/medias/sys_master/prd-images/h4b/h92/32104684748830/prd-front-5998361-1_600x600/prd-front-5998361-1-600x600.jpg"
 }

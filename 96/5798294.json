@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Telescopic Carbon Black Mascara",
+  "itemName": "L'Oréal Paris False Lash Telescopic Carbon Black Mascara",
   "code": "5798294",
   "price": "20.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-telescopic-carbon-black-mascara/p/5798294",
+  "url": "/loreal-paris-false-lash-telescopic-carbon-black-mascara/p/5798294",
   "listName": "Lister",
   "brand": "L'Oreal",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "",
+  "description": "8ml",
   "image": "/medias/sys_master/prd-images/h76/h43/32107091460126/prd-front-5798294-1_600x600/prd-front-5798294-1-600x600.jpg"
 }

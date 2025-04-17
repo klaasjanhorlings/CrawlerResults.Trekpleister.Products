@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Head & Shoulders Apple Fresh 2-in-1 Antiroosshampoo + Conditioner",
+  "itemName": "Head & Shoulders Apple Fresh 2-in-1 Antiroosshampoo",
   "code": "4715467",
   "price": "6.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3028650",
-  "mmkId": "3028650",
-  "productGroupId": "466579",
+  "onPromo": "3028741",
+  "mmkId": "3028741",
+  "productGroupId": "477614",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/head-shoulders-apple-fresh-2-in-1-antiroosshampoo-conditioner/p/4715467",
+  "url": "/head-shoulders-apple-fresh-2-in-1-antiroosshampoo/p/4715467",
   "listName": "Lister",
   "brand": "Head & Shoulders",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h2a/h9f/33960826634270/prd-front-4715467-1_600x600/prd-front-4715467-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdc/h79/33972955512862/prd-front-4715467-1_600x600/prd-front-4715467-1-600x600.jpg"
 }

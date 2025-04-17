@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Lumi Glotion 901 Fair Glow Highlighter",
+  "itemName": "L'Oréal Paris Lumi Glotion 901 Fair Glow Natural Glow Enhancer",
   "code": "6235514",
   "price": "16.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-lumi-glotion-901-fair-glow-highlighter/p/6235514",
+  "url": "/loreal-paris-lumi-glotion-901-fair-glow-natural-glow-enhancer/p/6235514",
   "listName": "Lister",
   "brand": "L'Oreal",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": "",
+  "description": "40ml",
   "image": "/medias/sys_master/prd-images/h56/h4a/33349059772446/prd-front-6235514-1_600x600/prd-front-6235514-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "BOLTON NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028743",
+  "mmkId": "3028743",
+  "productGroupId": "478757",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/borotalco-intensive-deodorant-spray/p/4396008",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h71/hd6/32818931859486/prd-front-4396008-1_600x600/prd-front-4396008-1-600x600.jpg"
+  "description": "150ml"
 }

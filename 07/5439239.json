@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Head & Shoulders Classic Shampoo",
+  "itemName": "Head & Shoulders Classic Antiroosshampoo",
   "code": "5439239",
   "price": "9.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/head-shoulders-classic-shampoo/p/5439239",
+  "url": "/head-shoulders-classic-antiroosshampoo/p/5439239",
   "listName": "Lister",
   "brand": "Head & Shoulders",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hf9/h09/33960319221790/prd-front-5439239-1_600x600/prd-front-5439239-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5a/h66/33972633534494/prd-front-5439239-1_600x600/prd-front-5439239-1-600x600.jpg"
 }

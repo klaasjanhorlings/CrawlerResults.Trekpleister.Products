@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice The Matte Face Pro Set",
+  "code": "6234786",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-the-matte-face-pro-set/p/6234786",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666175,
+      "name": "Geschenkset voor haar"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h25/hac/33561993838622/prd-front-6234786-1_600x600/prd-front-6234786-1-600x600.jpg"
+}
