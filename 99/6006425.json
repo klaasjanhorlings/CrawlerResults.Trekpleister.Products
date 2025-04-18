@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rimmel London Lasting Finish 35hr 050 Fair Porcelain Foundation",
-  "code": "6006320",
-  "price": "18.99",
+  "itemName": "Rimmel London Kind & Free Transparant Clean Brow Wax",
+  "code": "6006425",
+  "price": "15.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
   "onPromo": "3028732",
@@ -13,7 +13,7 @@
   "productGroupId": "468421",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rimmel-london-lasting-finish-35hr-050-fair-porcelain-foundation/p/6006320",
+  "url": "/rimmel-london-kind-free-transparant-clean-brow-wax/p/6006425",
   "listName": "Lister",
   "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30267464,
+      "name": "Wenkbrauwgel"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hc5/h81/29791060066334/prd-front-6006320-1_600x600/prd-front-6006320-1-600x600.jpg"
+  "description": "8g",
+  "image": "/medias/sys_master/prd-images/hf5/hb3/29786865729566/prd-front-6006425-1_600x600/prd-front-6006425-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel Londen Wonder Ink 01 Black Eyeliner",
+  "code": "5060378",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-londen-wonder-ink-01-black-eyeliner/p/5060378",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267143,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "1,2ml",
+  "image": "/medias/prd-front-5060378-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAyNDR8aW1hZ2UvanBlZ3xhREU0TDJnM1lTOHhOalkwTWpZNE9URTNNVFE0Tmk5d2NtUXRabkp2Ym5RdE5UQTJNRE0zT0MweFh6WXdNSGcyTURBfDU3NjQ3YTdjMzVhYWE2M2EyY2Y4MzFlZDliYzVhMmRkYWRhMDFmMWVlZmRlMTZlNjdmOWE0ZTJkYTNiZTM5MmY"
+}

@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Matt Pro Ink 10 Trust In Me Liquid Lipstick",
-  "code": "5094076",
-  "price": "4.99",
+  "itemName": "Rimmel London Lasting Finish 330 Cappuccino Kissed Satin Lipstick",
+  "code": "6097810",
+  "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
-  "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
-  "brandType": "Exclusief merk",
+  "brandType": "A of B merk",
   "discount": "",
-  "url": "/catrice-matt-pro-ink-10-trust-in-me-liquid-lipstick/p/5094076",
+  "url": "/rimmel-london-lasting-finish-330-cappuccino-kissed-satin-lipstick/p/6097810",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,5 +33,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml"
+  "description": "4g"
 }

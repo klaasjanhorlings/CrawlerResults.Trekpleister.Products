@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "inStock",
-  "onPromo": "3028732",
-  "mmkId": "3028732",
-  "productGroupId": "468421",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-multi-tasker-better-than-filters-001-fair-primer/p/6010051",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30267135,
-      "name": "Concealer"
+      "id": 30267136,
+      "name": "Primer"
     }
   ],
   "description": "30ml",
