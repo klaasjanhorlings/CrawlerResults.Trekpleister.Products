@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "ECOstyle MierVrij Poeder",
+  "code": "6080205",
+  "price": "6.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 4058",
+  "supplier": "EUROSTYLE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ecostyle-miervrij-poeder/p/6080205",
+  "listName": "Lister",
+  "brand": "ECOstyle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267453,
+      "name": "Insectenbestrijding"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/hff/h36/30695812923422/prd-front-6080205-1_600x600/prd-front-6080205-1-600x600.jpg"
+}

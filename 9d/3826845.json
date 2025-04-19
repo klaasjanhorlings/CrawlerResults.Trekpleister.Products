@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Verzachtend Micellair Water voor Alle Huidtypes",
+  "code": "3826845",
+  "price": "6.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "3028631",
+  "mmkId": "3028631",
+  "productGroupId": "458457",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-verzachtend-micellair-water-voor-alle-huidtypes/p/3826845",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267472,
+      "name": "Micellair water"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hcb/h71/28573711728670/prd-front-3826845-1_600x600/prd-front-3826845-1-600x600.jpg"
+}

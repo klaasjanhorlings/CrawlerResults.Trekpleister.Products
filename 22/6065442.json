@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6428",
   "supplier": "ELMARC BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hf0/hd6/33984333971486/prd-front-6065442-1_600x600/prd-front-6065442-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc6/h6a/34005389672478/prd-front-6065442-1_600x600/prd-front-6065442-1-600x600.jpg"
 }

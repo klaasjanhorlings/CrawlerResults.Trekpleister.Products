@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028732",
+  "mmkId": "3028732",
+  "productGroupId": "468421",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-professional-002-hazel-eyebrow-pencil/p/41559",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1,4g"
+  "description": "1,4g",
+  "image": "/medias/sys_master/prd-images/hf3/hd1/28549997854750/prd-front-41559-1_600x600/prd-front-41559-1-600x600.jpg"
 }

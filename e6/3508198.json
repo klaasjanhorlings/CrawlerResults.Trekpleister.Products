@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London Match Perfection 400 Natural Beige Foundation",
+  "code": "3508198",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "3028732",
+  "mmkId": "3028732",
+  "productGroupId": "468421",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-match-perfection-400-natural-beige-foundation/p/3508198",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267134,
+      "name": "Foundation"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h07/hfb/28616322940958/prd-front-3508198-1_600x600/prd-front-3508198-1-600x600.jpg"
+}

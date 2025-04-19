@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV BL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028673",
+  "mmkId": "3028673",
+  "productGroupId": "474282",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-kids-protect-hydrate-spf50-zonnespray/p/4059427",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "270ml",
-  "image": "/medias/sys_master/prd-images/h44/hc2/29995455840286/prd-front-4059427-1_600x600/prd-front-4059427-1-600x600.jpg"
+  "description": "270ml"
 }

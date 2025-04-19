@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028732",
+  "mmkId": "3028732",
+  "productGroupId": "468421",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-lasting-finish-330-cappuccino-kissed-satin-lipstick/p/6097810",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h1d/h1d/31782746456094/prd-front-6097810-1_600x600/prd-front-6097810-1-600x600.jpg"
 }
