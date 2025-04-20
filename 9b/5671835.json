@@ -7,10 +7,10 @@
   "priceOriginal": "2.59",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6522",
   "supplier": "LEEV.NU BV",
-  "inStock": "inStock",
-  "onPromo": "3028708",
-  "mmkId": "3028708",
-  "productGroupId": "478268",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 0,40",
   "url": "/leev-bio-linzenwafels/p/5671835",
@@ -33,5 +33,6 @@
       "name": "Gewichtsbeheersing snacks"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h7c/hd9/31448624660510/prd-front-5671835-1_600x600/prd-front-5671835-1-600x600.jpg"
 }
