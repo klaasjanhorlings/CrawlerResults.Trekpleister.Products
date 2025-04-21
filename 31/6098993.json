@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3028732",
-  "mmkId": "3028732",
-  "productGroupId": "468421",
+  "onPromo": "3028900",
+  "mmkId": "3028900",
+  "productGroupId": "475081",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-miracle-pure-skin-reset-80-85-medium-2-in-1-serum-foundation/p/6098993",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/he9/hf6/33047077355550/prd-front-6098993-1_600x600/prd-front-6098993-1-600x600.jpg"
 }

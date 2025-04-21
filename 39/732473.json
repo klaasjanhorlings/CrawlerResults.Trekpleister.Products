@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 3137 > 4003",
   "supplier": "SUNSTAR BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3028700",
-  "mmkId": "3028700",
-  "productGroupId": "477323",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gum-dual-action-tongreiniger/p/732473",
@@ -33,6 +33,5 @@
       "name": "Tongreinigers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hcc/h83/34012910223390/prd-front-732473-1_600x600/prd-front-732473-1-600x600.jpg"
+  "description": ""
 }

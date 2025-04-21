@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6228 > 6597",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3028705",
-  "mmkId": "3028705",
-  "productGroupId": "477950",
+  "onPromo": "3028874",
+  "mmkId": "3028874",
+  "productGroupId": "472312",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-d-mannose-blaasontsteking-bruistabletten/p/4748374",
@@ -33,5 +33,6 @@
       "name": "Blaasontsteking"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/prd-front-4748374-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjM4MTh8aW1hZ2UvanBlZ3xhREZpTDJnd1lpOHhOalU1TlRJeU9ERTVOamc1TkM5d2NtUXRabkp2Ym5RdE5EYzBPRE0zTkMweFh6WXdNSGcyTURBfGM4ODE2ZWMyMjM2M2MwYTY4Njg3NWQwOGNlYzg4MWY0NTA1YjFjMDBhNGVhZjYzOGNhMGI5ZDU0YmRmOGEzMjY"
 }

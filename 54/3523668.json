@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3028663",
-  "mmkId": "3028663",
-  "productGroupId": "470947",
+  "onPromo": "3028915",
+  "mmkId": "3028915",
+  "productGroupId": "476281",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-discreet-ultimate-incontinentieverband/p/3523668",
@@ -37,5 +37,6 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "Medisch hulpmiddel - 12 stuks"
+  "description": "Medisch hulpmiddel - 12 stuks",
+  "image": "/medias/sys_master/prd-images/h57/hbc/31141343035422/prd-front-3523668-1_600x600/prd-front-3523668-1-600x600.jpg"
 }

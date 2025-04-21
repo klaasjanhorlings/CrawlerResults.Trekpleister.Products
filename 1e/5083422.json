@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3028673",
-  "mmkId": "3028673",
-  "productGroupId": "474282",
+  "onPromo": "3028891",
+  "mmkId": "3028891",
+  "productGroupId": "474293",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-protect-dry-touch-spf30-cremegel/p/5083422",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "175ml"
+  "description": "175ml",
+  "image": "/medias/sys_master/prd-images/h77/h64/33563047460894/prd-front-5083422-1_600x600/prd-front-5083422-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3028732",
-  "mmkId": "3028732",
-  "productGroupId": "468421",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-instant-anti-age-perfector-4-in-1-glow-medium-concealer/p/5908341",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h1a/h12/30001821351966/prd-front-5908341-1_600x600/prd-front-5908341-1-600x600.jpg"
 }

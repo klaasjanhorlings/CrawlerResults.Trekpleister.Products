@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3028741",
-  "mmkId": "3028741",
-  "productGroupId": "477614",
+  "onPromo": "3028844",
+  "mmkId": "3028844",
+  "productGroupId": "468982",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dermaxpro-by-head-shoulders-kalmeert-conditioner/p/5616542",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "220ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "220ml"
 }

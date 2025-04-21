@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028981",
+  "mmkId": "3028981",
+  "productGroupId": "474106",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-baby-dry-pants-maat-7-luierbroekjes/p/6241317",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 7"
     }
   ],
-  "description": "mt 7 (15+kg), 18 stuks"
+  "description": "mt 7 (15+kg), 18 stuks",
+  "image": "/medias/sys_master/prd-images/h8b/h78/33354242392094/prd-front-6241317-1_600x600/prd-front-6241317-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "WELLA COMPANY",
   "inStock": "inStock",
-  "onPromo": "3028665",
-  "mmkId": "3028665",
-  "productGroupId": "472389",
+  "onPromo": "3028837",
+  "mmkId": "3028837",
+  "productGroupId": "467339",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wella-new-wave-ultra-strong-power-hold-haargel/p/1435925",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/prd-front-1435925-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjA2MzV8aW1hZ2UvanBlZ3xhREF5TDJnMU55OHhOakkwT0Rjd05EVTJOVEkzT0M5d2NtUXRabkp2Ym5RdE1UUXpOVGt5TlMweFh6WXdNSGcyTURBfDNhZTZmYmZjM2M3NTE4Y2M3MGMyYzUwY2ViZGRhM2U2MzBhMmQzY2JjODY2NThhYWFhNjc5OGU1ZWYwNmRiY2E"
 }

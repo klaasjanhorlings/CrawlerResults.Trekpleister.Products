@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3028741",
-  "mmkId": "3028741",
-  "productGroupId": "477614",
+  "onPromo": "3028844",
+  "mmkId": "3028844",
+  "productGroupId": "468982",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/head-shoulders-apple-fresh-2-in-1-antiroosshampoo/p/4715467",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h8e/h60/34014260985886/prd-front-4715467-1_600x600/prd-front-4715467-1-600x600.jpg"
 }

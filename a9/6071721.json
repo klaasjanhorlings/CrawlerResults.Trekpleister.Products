@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028860",
+  "mmkId": "3028860",
+  "productGroupId": "470822",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/valdispert-stress-gummies/p/6071721",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/hb2/h0f/33703533346846/prd-front-6071721-1_600x600/prd-front-6071721-1-600x600.jpg"
+  "description": "30 stuks"
 }

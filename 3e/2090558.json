@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6451 > 6452",
   "supplier": "PIETERCIL BARENDS BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028796",
+  "mmkId": "3028796",
+  "productGroupId": "450533",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/scholl-2-in-1-oplossing-voor-schimmelnagels/p/2090558",
@@ -33,5 +33,6 @@
       "name": "Kalknagelbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 3,8ml"
+  "description": "Medisch hulpmiddel - 3,8ml",
+  "image": "/medias/sys_master/prd-images/haa/h87/28595608059934/prd-front-2090558-1_600x600/prd-front-2090558-1-600x600.jpg"
 }

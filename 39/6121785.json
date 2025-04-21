@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028915",
+  "mmkId": "3028915",
+  "productGroupId": "476281",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tena-silhouette-plus-low-waist-incontinentiebroekjes/p/6121785",
@@ -37,6 +37,5 @@
       "name": "Incontinentiebroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - zwart, mt L, 10 stuks",
-  "image": "/medias/sys_master/prd-images/h52/h98/33397175681054/prd-front-6121785-1_600x600/prd-front-6121785-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - zwart, mt L, 10 stuks"
 }

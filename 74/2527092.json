@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028641",
-  "mmkId": "3028641",
-  "productGroupId": "462802",
+  "onPromo": "3028816",
+  "mmkId": "3028816",
+  "productGroupId": "463007",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-special-langer-fris-droogshampoo/p/2527092",
@@ -33,5 +33,6 @@
       "name": "Droogshampoo"
     }
   ],
-  "description": "245ml"
+  "description": "245ml",
+  "image": "/medias/sys_master/prd-images/h1a/h27/28547088646174/prd-front-2527092-1_600x600/prd-front-2527092-1-600x600.jpg"
 }

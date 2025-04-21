@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 3270 > 4171",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3028698",
-  "mmkId": "3028698",
-  "productGroupId": "477316",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fixodent-ultimate-frisse-smaak-kleefpasta/p/6249227",
@@ -33,5 +33,6 @@
       "name": "Kleefpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 40g"
+  "description": "Medisch hulpmiddel - 40g",
+  "image": "/medias/sys_master/prd-images/h61/hf1/33681073307678/prd-front-6249227-1_600x600/prd-front-6249227-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028953",
+  "mmkId": "3028953",
+  "productGroupId": "478229",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-pro-comfortglide-scheermesjes/p/6261785",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/hf7/h70/33996371099678/prd-front-6261785-1_600x600/prd-front-6261785-1-600x600.jpg"
+  "description": "10 stuks"
 }

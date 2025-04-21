@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028947",
+  "mmkId": "3028947",
+  "productGroupId": "477625",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ohropax-mini-soft-oordopjes/p/3902816",
@@ -37,5 +37,6 @@
       "name": "Oordoppen"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/prd-front-3902816-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDAzNzJ8aW1hZ2UvanBlZ3xhRFV4TDJnek1TOHhOak15T1RJMk1UUTRNakF4TkM5d2NtUXRabkp2Ym5RdE16a3dNamd4TmkweFh6WXdNSGcyTURBfGVhNzdlNjY1MGNlMjViOGQwMTViODQ5YzcwYzI3Y2FhMTUzMWVhYTJjNzhmNmQwYWIwZDNhYWFiNmI4MzEzMjM"
 }

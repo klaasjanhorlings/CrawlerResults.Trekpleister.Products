@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028948",
+  "mmkId": "3028948",
+  "productGroupId": "477660",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-omega-3-visolie-1000-mg-capsules/p/1051457",
@@ -33,5 +33,6 @@
       "name": "Hart en of bloedvaten"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h56/h85/28549344493598/prd-front-1051457-1_600x600/prd-front-1051457-1-600x600.jpg"
 }

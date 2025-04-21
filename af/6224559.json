@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Paw Patrol Kinder-T-Shirts",
+  "code": "6224559",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6038 > 5808 > 5810 > 6043 > 6045",
+  "supplier": "SABORN TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/paw-patrol-kinder-t-shirts/p/6224559",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267093,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30267412,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "2 stuks, mt 128-134",
+  "image": "/medias/sys_master/prd-images/he4/h60/33651770785822/prd-front-6224559-1_600x600/prd-front-6224559-1-600x600.jpg"
+}

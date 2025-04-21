@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028641",
-  "mmkId": "3028641",
-  "productGroupId": "462802",
+  "onPromo": "3028816",
+  "mmkId": "3028816",
+  "productGroupId": "463007",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-special-oil-curl-shampoo/p/4607394",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h7c/hf8/28547617390622/prd-front-4607394-1_600x600/prd-front-4607394-1-600x600.jpg"
 }

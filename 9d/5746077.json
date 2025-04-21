@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ALL-IN-1 BVBA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028915",
+  "mmkId": "3028915",
+  "productGroupId": "476281",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/multi-gyn-verzorgende-en-beschermende-creme/p/5746077",
@@ -37,5 +37,6 @@
       "name": "Vaginale droogheid"
     }
   ],
-  "description": "50g"
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/h67/hb3/34014705483806/prd-front-5746077-1_600x600/prd-front-5746077-1-600x600.jpg"
 }

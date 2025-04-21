@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6457 > 6458",
   "supplier": "ALL-IN-1 BVBA",
   "inStock": "inStock",
-  "onPromo": "3028636",
-  "mmkId": "3028636",
-  "productGroupId": "461568",
+  "onPromo": "3028810",
+  "mmkId": "3028810",
+  "productGroupId": "461575",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wortie-freeze-wrattenverwijderaar/p/3531557",
@@ -37,5 +37,6 @@
       "name": "Wrattenbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 50ml"
+  "description": "Medisch hulpmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/hef/hdc/32428234604574/prd-front-3531557-1_600x600/prd-front-3531557-1-600x600.jpg"
 }

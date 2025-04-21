@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6607",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3028860",
+  "mmkId": "3028860",
+  "productGroupId": "470822",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/shiepz-tegen-snurken-keelspray/p/6071679",
@@ -37,5 +37,6 @@
       "name": "Snurken"
     }
   ],
-  "description": "Medisch hulpmiddel - 23,5ml"
+  "description": "Medisch hulpmiddel - 23,5ml",
+  "image": "/medias/sys_master/prd-images/h8e/hc2/32567693672478/prd-front-6071679-1_600x600/prd-front-6071679-1-600x600.jpg"
 }

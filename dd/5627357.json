@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028929",
+  "mmkId": "3028929",
+  "productGroupId": "476615",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-retinol-boost-serum/p/5627357",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h12/h79/29144294686750/prd-front-5627357-1_600x600/prd-front-5627357-1-600x600.jpg"
+  "description": "30ml"
 }

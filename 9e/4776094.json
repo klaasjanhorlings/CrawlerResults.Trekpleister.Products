@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028797",
+  "mmkId": "3028797",
+  "productGroupId": "451002",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-extra-fresh-thalasso-antitranspirant-roller/p/4776094",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h95/hdd/29339213791262/prd-front-4776094-1_600x600/prd-front-4776094-1-600x600.jpg"
 }

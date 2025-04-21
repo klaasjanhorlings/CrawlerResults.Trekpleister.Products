@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3028751",
-  "mmkId": "3028751",
-  "productGroupId": "479317",
+  "onPromo": "3028804",
+  "mmkId": "3028804",
+  "productGroupId": "459897",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-pure-natural-action-jasmine-deodorant-roller/p/2746864",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h19/h3a/33176054038558/prd-front-2746864-1_600x600/prd-front-2746864-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tomy Hide & Squeak Bright Chicks",
+  "code": "5508644",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "SPECTRON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/tomy-hide-squeak-bright-chicks/p/5508644",
+  "listName": "Lister",
+  "brand": "Tomy",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 49281783,
+      "name": "Interactief speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h05/h9d/28581869486110/prd-front-5508644-1_600x600/prd-front-5508644-1-600x600.jpg"
+}

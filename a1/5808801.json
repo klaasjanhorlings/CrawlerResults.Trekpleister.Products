@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6697 > 2835",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3028741",
-  "mmkId": "3028741",
-  "productGroupId": "477614",
+  "onPromo": "3028844",
+  "mmkId": "3028844",
+  "productGroupId": "468982",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dermaxpro-by-head-shoulders-revitaliserende-haarverzorging/p/5808801",
@@ -33,5 +33,6 @@
       "name": "Haarserum"
     }
   ],
-  "description": "145ml"
+  "description": "145ml",
+  "image": "/medias/sys_master/prd-images/h55/h56/34014257053726/prd-front-5808801-1_600x600/prd-front-5808801-1-600x600.jpg"
 }

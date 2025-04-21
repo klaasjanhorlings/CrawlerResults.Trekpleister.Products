@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Coca Cola Zero Mini",
+  "code": "5848288",
+  "price": "5.49",
+  "priceOriginal": "6.49",
+  "itemBgbcat": "2004 > 2047 > 2171 > 2599 > 2984 > 3812",
+  "supplier": "COCA-COLA EUROPEAN PART",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,00",
+  "url": "/coca-cola-zero-mini/p/5848288",
+  "listName": "Lister",
+  "brand": "Coca Cola",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267442,
+      "name": "Koude dranken"
+    }
+  ],
+  "description": "12 x 150ml",
+  "image": "/medias/sys_master/prd-images/hca/h27/28555823775774/prd-front-5848288-1_600x600/prd-front-5848288-1-600x600.jpg"
+}

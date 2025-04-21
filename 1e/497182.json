@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028816",
+  "mmkId": "3028816",
+  "productGroupId": "463007",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutral-parfumvrije-deodorant-roller/p/497182",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/prd-front-497182-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTY3MjV8aW1hZ2UvanBlZ3xhR1EzTDJneFl5OHhOakl6TnpFeE1UVXdPVEF5TWk5d2NtUXRabkp2Ym5RdE5EazNNVGd5TFRGZk5qQXdlRFl3TUF8OWZhNTBkNjgxOGY5OTY3NDQ5YjY2MDlkZWM4ZWIwZTc1Njg4MzJjNjM3MTNkNjdhYzYxMTIxOTg4OWNkMWMxOQ"
 }

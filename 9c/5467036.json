@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3028732",
-  "mmkId": "3028732",
-  "productGroupId": "468421",
+  "onPromo": "3028901",
+  "mmkId": "3028901",
+  "productGroupId": "475083",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-the-multi-tasker-110-coconut-concealer/p/5467036",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "31,3g"
+  "description": "31,3g",
+  "image": "/medias/sys_master/prd-images/h3c/h9f/30775156080670/prd-front-5467036-1_600x600/prd-front-5467036-1-600x600.jpg"
 }

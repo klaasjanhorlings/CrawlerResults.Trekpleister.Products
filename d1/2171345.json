@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028938",
+  "mmkId": "3028938",
+  "productGroupId": "476779",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aquafresh-tandsteencontrole-tandpasta/p/2171345",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h68/hfa/33995385241630/prd-front-2171345-1_600x600/prd-front-2171345-1-600x600.jpg"
 }

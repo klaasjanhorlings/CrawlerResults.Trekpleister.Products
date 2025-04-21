@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3028732",
-  "mmkId": "3028732",
-  "productGroupId": "468421",
+  "onPromo": "3028901",
+  "mmkId": "3028901",
+  "productGroupId": "475083",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-thrill-seeker-500-pine-to-the-apple-glassy-gloss-lipgloss/p/6097796",
@@ -33,5 +33,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/hbb/he5/31783841398814/prd-front-6097796-1_600x600/prd-front-6097796-1-600x600.jpg"
 }

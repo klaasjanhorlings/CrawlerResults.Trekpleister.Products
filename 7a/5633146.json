@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028820",
+  "mmkId": "3028820",
+  "productGroupId": "463771",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-100-natural-jasmine-ho-wood-deodorant-spray/p/5633146",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hcc/h87/33897230041118/prd-front-5633146-1_600x600/prd-front-5633146-1-600x600.jpg"
+  "description": "100ml"
 }

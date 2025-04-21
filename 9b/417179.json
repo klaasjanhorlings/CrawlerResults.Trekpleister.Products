@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Duo Wattenschijfjes",
+  "code": "417179",
+  "price": "2.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2038 > 2157 > 2385 > 2827 > 4088",
+  "supplier": "LEMOINE HOLLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3028961",
+  "mmkId": "3028961",
+  "productGroupId": "478595",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-duo-wattenschijfjes/p/417179",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267171,
+      "name": "Wattenschijfjes en staafjes"
+    }
+  ],
+  "description": "3 x 80 stuks",
+  "image": "/medias/sys_master/prd-images/h39/hec/28549332795422/prd-front-417179-1_600x600/prd-front-417179-1-600x600.jpg"
+}
