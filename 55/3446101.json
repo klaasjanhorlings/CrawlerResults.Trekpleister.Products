@@ -25,13 +25,14 @@
       "name": "Huishouden"
     },
     {
-      "id": 30267101,
-      "name": "Buiten en vrije tijd"
+      "id": 30267129,
+      "name": "Wonen"
     },
     {
-      "id": 30267433,
-      "name": "Reisartikelen"
+      "id": 30267457,
+      "name": "Woonaccessoires"
     }
   ],
-  "description": "203cm x 152cm x 38cm"
+  "description": "203cm x 152cm x 38cm",
+  "image": "/medias/sys_master/prd-images/h3c/hbf/30170229538846/prd-front-3446101-1_600x600/prd-front-3446101-1-600x600.jpg"
 }

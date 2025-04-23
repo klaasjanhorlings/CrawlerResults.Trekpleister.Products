@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rimmel London Lasting Finish 35H 010 Rose Ivory Foundation",
-  "code": "5975002",
-  "price": "18.99",
+  "itemName": "Rimmel London Lasting Finish 330 Cappuccino Kissed Satin Lipstick",
+  "code": "6097810",
+  "price": "12.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
   "onPromo": "3028901",
@@ -13,7 +13,7 @@
   "productGroupId": "475083",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rimmel-london-lasting-finish-35h-010-rose-ivory-foundation/p/5975002",
+  "url": "/rimmel-london-lasting-finish-330-cappuccino-kissed-satin-lipstick/p/6097810",
   "listName": "Lister",
   "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
@@ -29,9 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
-  "description": "30ml"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h1d/h1d/31782746456094/prd-front-6097810-1_600x600/prd-front-6097810-1-600x600.jpg"
 }

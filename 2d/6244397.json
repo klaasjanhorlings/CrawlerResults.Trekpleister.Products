@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536631,
+      "name": "Huishouden"
     },
     {
-      "id": 30267040,
-      "name": "Geschenksets"
+      "id": 30267129,
+      "name": "Wonen"
     },
     {
-      "id": 72666175,
-      "name": "Geschenkset voor haar"
+      "id": 30267451,
+      "name": "Geurstokjes"
     }
   ],
   "description": "",

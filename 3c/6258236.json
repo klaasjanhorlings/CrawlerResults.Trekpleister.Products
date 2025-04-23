@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
   "supplier": "NESTLE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028988",
+  "mmkId": "3028988",
+  "productGroupId": "484097",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nestle-little-steps-2-6-maanden-standaard-opvolgmelk/p/6258236",
@@ -37,6 +37,5 @@
       "name": "Opvolgmelk"
     }
   ],
-  "description": "800g",
-  "image": "/medias/sys_master/prd-images/ha9/h58/33409598914590/prd-front-6258236-1_600x600/prd-front-6258236-1-600x600.jpg"
+  "description": "800g"
 }

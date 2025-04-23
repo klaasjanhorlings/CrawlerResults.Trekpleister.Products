@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Elizabeth Arden Sunflowers Geschenkset",
+  "code": "6276541",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 6705 > 6706 > 4113",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elizabeth-arden-sunflowers-geschenkset/p/6276541",
+  "listName": "Lister",
+  "brand": "Elizabeth Arden",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666175,
+      "name": "Geschenkset voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hdf/h3e/33468960473118/prd-front-6276541-1_600x600/prd-front-6276541-1-600x600.jpg"
+}

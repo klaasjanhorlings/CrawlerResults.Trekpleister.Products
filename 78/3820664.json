@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029005",
+  "mmkId": "3029005",
+  "productGroupId": "479016",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-6m-wortel-kip-rijst/p/3820664",
@@ -37,5 +37,6 @@
       "name": "6+ maanden"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/hc2/hd0/30687126618142/prd-front-3820664-1_600x600/prd-front-3820664-1-600x600.jpg"
 }

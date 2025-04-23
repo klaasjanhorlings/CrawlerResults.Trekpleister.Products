@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "HERO NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3028995",
+  "mmkId": "3028995",
+  "productGroupId": "472501",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organix-12m-appel-aardbei-quinoa-knijpfruit/p/4630480",
@@ -29,12 +29,8 @@
       "name": "Babyvoeding"
     },
     {
-      "id": 30267327,
-      "name": "Fruithapjes"
-    },
-    {
-      "id": 30267565,
-      "name": "12 maanden +"
+      "id": 30267331,
+      "name": "Babytussendoortjes"
     }
   ],
   "description": "100g",

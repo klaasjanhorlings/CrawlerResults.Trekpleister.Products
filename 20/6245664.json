@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Isolerend Gordijn",
+  "code": "6245664",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 2060 > 2192 > 5964 > 5981 > 5998",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-isolerend-gordijn/p/6245664",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267450,
+      "name": "Decoratieve accessoires"
+    }
+  ],
+  "description": "140cm x 260cm",
+  "image": "/medias/sys_master/prd-images/h30/hf4/32968041431070/prd-front-6245664-1_600x600/prd-front-6245664-1-600x600.jpg"
+}

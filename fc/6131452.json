@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028925",
+  "mmkId": "3028925",
+  "productGroupId": "476542",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elmex-iso-2-interdentale-ragers/p/6131452",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30267226,
-      "name": "Tandenragers"
+      "id": 30267224,
+      "name": "Tandenstokers"
     }
   ],
   "description": "8 stuks",

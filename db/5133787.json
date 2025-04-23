@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "BAYER BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028868",
+  "mmkId": "3028868",
+  "productGroupId": "471842",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bepanthen-4-in-1-wondgel/p/5133787",
@@ -29,8 +29,8 @@
       "name": "Wondverzorging"
     },
     {
-      "id": 30267292,
-      "name": "EHBO-doos"
+      "id": 49950787,
+      "name": "Wondzalven"
     }
   ],
   "description": "Medisch hulpmiddel - 50g",
