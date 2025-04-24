@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "NESTLE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028988",
-  "mmkId": "3028988",
-  "productGroupId": "484097",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nestle-little-steps-3-12-maanden-standaard-dreumesmelk/p/6258229",
@@ -37,5 +37,6 @@
       "name": "Dreumesmelk"
     }
   ],
-  "description": "800g"
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/ha9/h1f/33408898695198/prd-front-6258229-1_600x600/prd-front-6258229-1-600x600.jpg"
 }

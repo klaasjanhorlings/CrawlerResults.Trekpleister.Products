@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029005",
-  "mmkId": "3029005",
-  "productGroupId": "479016",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-6m-bruine-bonen-appel-rijst-rundvlees/p/3820755",
@@ -37,5 +37,6 @@
       "name": "6+ maanden"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h34/h45/31564654149662/prd-front-3820755-1_600x600/prd-front-3820755-1-600x600.jpg"
 }

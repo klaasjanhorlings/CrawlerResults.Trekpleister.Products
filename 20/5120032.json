@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pantene Active Nutri-Plex Pro-V Repair & Protect Keratine Haarmasker",
+  "code": "5120032",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6695",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pantene-active-nutri-plex-pro-v-repair-protect-keratine-haarmasker/p/5120032",
+  "listName": "Lister",
+  "brand": "Pantene",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "300ml - Droog en beschadigd haar",
+  "image": "/medias/sys_master/prd-images/hdb/hd1/32282065797150/prd-front-5120032-1_600x600/prd-front-5120032-1-600x600.jpg"
+}

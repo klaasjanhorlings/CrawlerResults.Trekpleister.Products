@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath Animagic Let's Go Gecko",
+  "code": "6239917",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2232 > 2527 > 3150 > 4019",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goliath-animagic-lets-go-gecko/p/6239917",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267079,
+      "name": "Speelfiguren en speelsets"
+    }
+  ],
+  "description": "roze, paars",
+  "image": "/medias/sys_master/prd-images/hec/he2/33679642099742/prd-front-6239917-1_600x600/prd-front-6239917-1-600x600.jpg"
+}
