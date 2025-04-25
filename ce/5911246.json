@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Facefinity 4N Multi-Perfector Concealer",
+  "code": "5911246",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "3028900",
+  "mmkId": "3028900",
+  "productGroupId": "475081",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-facefinity-4n-multi-perfector-concealer/p/5911246",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267135,
+      "name": "Concealer"
+    }
+  ],
+  "description": "11ml",
+  "image": "/medias/sys_master/prd-images/h85/h7f/28617449472030/prd-front-5911246-1_600x600/prd-front-5911246-1-600x600.jpg"
+}

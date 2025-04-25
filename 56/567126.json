@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris True Match 8.W Golden Cappuccino Foundation",
   "code": "567126",
-  "price": "18.99",
+  "price": "19.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hfe/hef/33512317583390/prd-front-567126-1_600x600/prd-front-567126-1-600x600.jpg"
+  "description": "30ml"
 }

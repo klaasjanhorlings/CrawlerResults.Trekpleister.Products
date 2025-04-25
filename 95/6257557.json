@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Cool Silver 1 Puur Wit Revitaliserende Zilver Verzorging",
+  "code": "6257557",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3028942",
+  "mmkId": "3028942",
+  "productGroupId": "476829",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-cool-silver-1-puur-wit-revitaliserende-zilver-verzorging/p/6257557",
+  "listName": "Lister",
+  "brand": "Cool Silver",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h29/hf8/33515407278110/prd-front-6257557-1_600x600/prd-front-6257557-1-600x600.jpg"
+}

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Maybelline New York SuperStay 24H 640 Nude Pink Lipstick",
   "code": "2035531",
-  "price": "16.99",
+  "price": "17.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
@@ -33,6 +33,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h90/h8b/29038330445854/prd-front-2035531-1_600x600/prd-front-2035531-1-600x600.jpg"
+  "description": ""
 }

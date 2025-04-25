@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Olia 7.40 Intens Koper Permanente Haarkleuring",
+  "code": "6265670",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3028906",
+  "mmkId": "3028906",
+  "productGroupId": "475727",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-olia-740-intens-koper-permanente-haarkleuring/p/6265670",
+  "listName": "Lister",
+  "brand": "Olia",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0f/h4f/33361063804958/prd-front-6265670-1_600x600/prd-front-6265670-1-600x600.jpg"
+}

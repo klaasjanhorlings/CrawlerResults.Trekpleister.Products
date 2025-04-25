@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olay Hyaluronic24 + Vitamin B5 Oogcontourgel",
+  "code": "5784616",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3028937",
+  "mmkId": "3028937",
+  "productGroupId": "476776",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olay-hyaluronic24-vitamin-b5-oogcontourgel/p/5784616",
+  "listName": "Lister",
+  "brand": "Olay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267161,
+      "name": "Oogcreme"
+    }
+  ],
+  "description": "15ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h4f/h71/31594273931294/prd-front-5784616-1_600x600/prd-front-5784616-1-600x600.jpg"
+}
