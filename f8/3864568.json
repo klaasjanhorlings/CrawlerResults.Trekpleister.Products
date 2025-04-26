@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 6076 > 6077",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "3028872",
-  "mmkId": "3028872",
-  "productGroupId": "471911",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/swiffer-citrus-fresh-vochtige-vloerdoekjes/p/3864568",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "18 stuks",
-  "image": "/medias/sys_master/prd-images/hcd/h0c/34057861431326/prd-front-3864568-1_600x600/prd-front-3864568-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h3c/hc1/34067832832030/prd-front-3864568-1_600x600/prd-front-3864568-1-600x600.jpg"
 }

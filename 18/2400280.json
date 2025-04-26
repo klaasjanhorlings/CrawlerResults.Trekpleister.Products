@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3796",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "45ml"
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/h35/h07/30119361413150/prd-front-2400280-1_600x600/prd-front-2400280-1-600x600.jpg"
 }

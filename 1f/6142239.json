@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
   "supplier": "CAMPS FOOD BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "190g"
+  "description": "190g",
+  "image": "/medias/sys_master/prd-images/h5b/h54/31459629989918/prd-front-6142239-1_600x600/prd-front-6142239-1-600x600.jpg"
 }

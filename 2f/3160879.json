@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Max Factor Miracle Pure Skin Reset 10-30 Fair 2-in-1 Serum Foundation",
-  "code": "6098972",
-  "price": "24.99",
+  "itemName": "Max Factor Excess Intensity 06 Brown Longwear Eyeliner",
+  "code": "3160879",
+  "price": "12.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
   "onPromo": "3028900",
@@ -13,7 +13,7 @@
   "productGroupId": "475081",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/max-factor-miracle-pure-skin-reset-10-30-fair-2-in-1-serum-foundation/p/6098972",
+  "url": "/max-factor-excess-intensity-06-brown-longwear-eyeliner/p/3160879",
   "listName": "Lister",
   "brand": "Max Factor",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267142,
+      "name": "Oogpotlood"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hef/h00/33046520594462/prd-front-6098972-1_600x600/prd-front-6098972-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfa/h64/28616299905054/prd-front-3160879-1_600x600/prd-front-3160879-1-600x600.jpg"
 }

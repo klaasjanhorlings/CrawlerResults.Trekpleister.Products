@@ -5,7 +5,7 @@
   "code": "6241191",
   "price": "29.99",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
   "onPromo": "3028827",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 6"
     }
   ],
-  "description": "mt 6 (13-16kg), 40 stuks"
+  "description": "mt 6 (13-16kg), 40 stuks",
+  "image": "/medias/sys_master/prd-images/h37/hda/33576332886046/prd-front-6241191-1_600x600/prd-front-6241191-1-600x600.jpg"
 }

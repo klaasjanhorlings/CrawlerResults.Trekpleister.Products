@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Natriumchloride 8 mg/ml Neusspray",
+  "code": "493038",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
+  "supplier": "MAE PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-natriumchloride-8-mg/ml-neusspray/p/493038",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267518,
+      "name": "Neusspray"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h49/heb/28549337219102/prd-front-493038-1_600x600/prd-front-493038-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "750ml"
+  "description": "750ml",
+  "image": "/medias/sys_master/prd-images/hfb/h10/30273503789086/prd-front-3777229-1_600x600/prd-front-3777229-1-600x600.jpg"
 }

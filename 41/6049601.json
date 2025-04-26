@@ -7,7 +7,7 @@
   "priceOriginal": "99.99",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
   "supplier": "RB HYGIENE HOME NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Vaatwastabletten"
     }
   ],
-  "description": "210 stuks"
+  "description": "210 stuks",
+  "image": "/medias/sys_master/prd-images/h59/hbe/33848679792670/prd-front-6049601-1_600x600/prd-front-6049601-1-600x600.jpg"
 }
