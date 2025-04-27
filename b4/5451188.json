@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3303 > 3660",
   "supplier": "JOHNSON & JOHNSON CONS",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028915",
+  "mmkId": "3028915",
+  "productGroupId": "476281",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ob-extraprotect-super-tampons/p/5451188",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/h72/h1d/34058926063646/prd-front-5451188-1_600x600/prd-front-5451188-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h78/h30/34067786924062/prd-front-5451188-1_600x600/prd-front-5451188-1-600x600.jpg"
 }
