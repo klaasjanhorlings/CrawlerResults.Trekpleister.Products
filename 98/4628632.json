@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 2884 > 4077",
   "supplier": "S.C. JOHNSON",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029022",
+  "mmkId": "3029022",
+  "productGroupId": "471952",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/glade-automatic-spray-relaxing-zen-navulling/p/4628632",
@@ -29,6 +29,5 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "20ml",
-  "image": "/medias/sys_master/prd-images/hd9/hab/31178905255966/prd-front-4628632-1_600x600/prd-front-4628632-1-600x600.jpg"
+  "description": "20ml"
 }

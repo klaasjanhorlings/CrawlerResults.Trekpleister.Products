@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Finish Quantum All-In-One Vaatwastabletten",
+  "code": "6285781",
+  "price": "24.99",
+  "priceOriginal": "69.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
+  "supplier": "RB HYGIENE HOME NL BV",
+  "inStock": "inStock",
+  "onPromo": "3029021",
+  "mmkId": "3029021",
+  "productGroupId": "471918",
+  "brandType": "A of B merk",
+  "discount": "€ 45,00",
+  "url": "/finish-quantum-all-in-one-vaatwastabletten/p/6285781",
+  "listName": "Lister",
+  "brand": "Finish",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267114,
+      "name": "Vaatwas"
+    },
+    {
+      "id": 30267439,
+      "name": "Vaatwastabletten"
+    }
+  ],
+  "description": "140 stuks",
+  "image": "/medias/sys_master/prd-images/h0b/h0a/33680500752414/prd-front-6285781-1_600x600/prd-front-6285781-1-600x600.jpg"
+}

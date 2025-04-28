@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "The Original Spirograph Designset",
+  "code": "6061935",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
+  "supplier": "BOTI EUROPE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/the-original-spirograph-designset/p/6061935",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267081,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcf/hb5/30343176159262/prd-front-6061935-1_600x600/prd-front-6061935-1-600x600.jpg"
+}

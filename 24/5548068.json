@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3482",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "inStock",
-  "onPromo": "3028824",
-  "mmkId": "3028824",
-  "productGroupId": "465026",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/unicura-hydra-handzeep/p/5548068",
@@ -33,5 +33,6 @@
       "name": "Handzeep"
     }
   ],
-  "description": "250ml - Alle huidtypen"
+  "description": "250ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h29/h92/33907750797342/prd-front-5548068-1_600x600/prd-front-5548068-1-600x600.jpg"
 }
