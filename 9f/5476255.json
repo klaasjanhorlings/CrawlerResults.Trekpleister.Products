@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "3028816",
-  "mmkId": "3028816",
-  "productGroupId": "463007",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-pro-age-hand-body-creme/p/5476255",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/prd-front-5476255-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTk1NDh8aW1hZ2UvanBlZ3xhR1UwTDJoaFlpOHhOekEyTnpBMU5qa3lNalkxTkM5d2NtUXRabkp2Ym5RdE5UUTNOakkxTlMweFh6WXdNSGcyTURBfGM2MGNmMTUwMWM2ODJmNDZlNjIyNTU0ZGRiZDQzN2E1ZmIzOWQ4NzVlYjQxMTNiYmY0NzhlNThiNDA3ZGM1MTM"
 }

@@ -5,7 +5,7 @@
   "code": "6240246",
   "price": "14.49",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
+  "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4350 > 4351",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
   "onPromo": "3028981",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 3"
     }
   ],
-  "description": "mt 3 (6-10kg), 35 stuks"
+  "description": "mt 3 (6-10kg), 35 stuks",
+  "image": "/medias/sys_master/prd-images/h2a/h11/33431856676894/prd-front-6240246-1_600x600/prd-front-6240246-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028816",
+  "mmkId": "3028816",
+  "productGroupId": "463007",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-body-love-rich-nourishment-bodycreme/p/596414",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h5c/hb5/28817287381022/prd-front-596414-1_600x600/prd-front-596414-1-600x600.jpg"
+  "description": "150ml"
 }

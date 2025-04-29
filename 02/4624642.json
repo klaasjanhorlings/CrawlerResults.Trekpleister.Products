@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "2 x 150ml",
-  "image": "/medias/sys_master/prd-images/h8d/h4c/28547630399518/prd-front-4624642-1_600x600/prd-front-4624642-1-600x600.jpg"
+  "description": "2 x 150ml"
 }

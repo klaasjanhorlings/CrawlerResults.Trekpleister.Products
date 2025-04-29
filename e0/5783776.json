@@ -5,7 +5,7 @@
   "code": "5783776",
   "price": "16.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30267152,
-      "name": "Lipliner"
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
   "description": "1,8g",

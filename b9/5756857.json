@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 3063 > 3939",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028872",
+  "mmkId": "3028872",
+  "productGroupId": "471911",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ambi-pur-vleugje-bloesem-badkamer-toilet-luchtverfrisser/p/5756857",
@@ -29,6 +29,5 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc0/hc1/34080231161886/prd-front-5756857-1_600x600/prd-front-5756857-1-600x600.jpg"
+  "description": ""
 }

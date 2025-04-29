@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2903 > 3700",
   "supplier": "SUNSTAR BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Flosdraad"
     }
   ],
-  "description": "50 stuks"
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/h16/h65/34088583200798/prd-front-5746973-1_600x600/prd-front-5746973-1-600x600.jpg"
 }

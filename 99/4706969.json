@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 3577",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Leave-in conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hf5/h2f/32930457255966/prd-front-4706969-1_600x600/prd-front-4706969-1-600x600.jpg"
 }

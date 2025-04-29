@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "SUNSTAR BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Tandenstokers"
     }
   ],
-  "description": "mt L, 50 stuks",
-  "image": "/medias/sys_master/prd-images/hc2/hed/34031008776222/prd-front-4371347-1_600x600/prd-front-4371347-1-600x600.jpg"
+  "description": "mt L, 50 stuks"
 }

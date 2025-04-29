@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "ZURU GERMANY GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "354ml",
-  "image": "/medias/sys_master/prd-images/h54/h3a/28568279089182/prd-front-5917882-1_600x600/prd-front-5917882-1-600x600.jpg"
+  "description": "354ml"
 }
