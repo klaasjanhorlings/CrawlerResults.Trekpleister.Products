@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 4144",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/h8a/hd8/28576049201182/prd-front-3195375-1_600x600/prd-front-3195375-1-600x600.jpg"
+  "description": "20 stuks"
 }

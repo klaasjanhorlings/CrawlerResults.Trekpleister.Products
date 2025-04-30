@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "s.Oliver For Her Elegant Floral Bodymist",
+  "code": "6096865",
+  "price": "9.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "MAURER&WIRTZ GMBH&CO KG",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/soliver-for-her-elegant-floral-bodymist/p/6096865",
+  "listName": "Lister",
+  "brand": "S. Oliver",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "250ml"
+}

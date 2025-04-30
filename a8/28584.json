@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Joop! Wow Woman Eau de Toilette",
-  "code": "5953442",
-  "price": "22.99",
+  "itemName": "Issey Miyake l'Eau d'Issey Eau de Toilette",
+  "code": "28584",
+  "price": "44.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
-  "supplier": "SAR TRADING BV",
+  "supplier": "JTG BV",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/joop-wow-woman-eau-de-toilette/p/5953442",
+  "url": "/issey-miyake-leau-dissey-eau-de-toilette/p/28584",
   "listName": "Lister",
-  "brand": "Joop!",
+  "brand": "Issey Miyake",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "60ml",
-  "image": "/medias/sys_master/prd-images/hb1/h83/28727066591262/prd-front-5953442-1_600x600/prd-front-5953442-1-600x600.jpg"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h3a/hfa/30977173684254/prd-front-28584-1_600x600/prd-front-28584-1-600x600.jpg"
 }

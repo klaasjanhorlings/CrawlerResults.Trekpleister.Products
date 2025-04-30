@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028900",
+  "mmkId": "3028900",
+  "productGroupId": "475081",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-colour-elixir-510-english-rose-lipstick/p/2307383",
@@ -33,6 +33,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-2307383-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjM4NjR8aW1hZ2UvanBlZ3xhR015TDJneE9DOHhOakkxTlRVM01UVTVNVEU1T0M5d2NtUXRabkp2Ym5RdE1qTXdOek00TXkweFh6WXdNSGcyTURBfGQxNjdmMzRiNGJiODk2ZGM2OGNjMTJiY2FmOTA4ODkyNWE3NGZmYTllNzVjZmUxOWY3YmIxNzMwZGU4MDUxMTg"
+  "description": ""
 }
