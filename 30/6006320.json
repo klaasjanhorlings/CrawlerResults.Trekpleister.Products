@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rimmel London Lasting Mega Matte 500 Lipgloss",
-  "code": "6010072",
-  "price": "14.99",
+  "itemName": "Rimmel London Lasting Finish 35hr 050 Fair Porcelain Foundation",
+  "code": "6006320",
+  "price": "18.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
   "onPromo": "3028901",
@@ -13,7 +13,7 @@
   "productGroupId": "475083",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rimmel-london-lasting-mega-matte-500-lipgloss/p/6010072",
+  "url": "/rimmel-london-lasting-finish-35hr-050-fair-porcelain-foundation/p/6006320",
   "listName": "Lister",
   "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267140,
-      "name": "Lipgloss"
+      "id": 30267134,
+      "name": "Foundation"
     }
   ],
-  "description": "7,4ml",
-  "image": "/medias/sys_master/prd-images/hc4/ha5/29797902254110/prd-front-6010072-1_600x600/prd-front-6010072-1-600x600.jpg"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc5/h81/29791060066334/prd-front-6006320-1_600x600/prd-front-6006320-1-600x600.jpg"
 }

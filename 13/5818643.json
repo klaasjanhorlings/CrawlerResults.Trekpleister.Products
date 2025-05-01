@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2714 > 3417",
   "supplier": "BEIERSDORF NV BL",
   "inStock": "inStock",
-  "onPromo": "3029453",
-  "mmkId": "3029453",
-  "productGroupId": "495902",
+  "onPromo": "3029042",
+  "mmkId": "3029042",
+  "productGroupId": "477009",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-kids-protect-hydrate-spf50-zonnemelk/p/5818643",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h38/he8/33539790929950/prd-front-5818643-1_600x600/prd-front-5818643-1-600x600.jpg"
 }

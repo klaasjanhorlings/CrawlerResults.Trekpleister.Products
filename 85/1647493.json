@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028804",
+  "mmkId": "3028804",
+  "productGroupId": "459897",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-sport-24h-fresh-effect-douchegel/p/1647493",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "500ml - Normale huid"
+  "description": "500ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h05/h04/32901049483294/prd-front-1647493-1_600x600/prd-front-1647493-1-600x600.jpg"
 }
