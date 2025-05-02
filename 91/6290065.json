@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hismile Barbie Opzetborstel",
+  "code": "6290065",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
+  "supplier": "HISMILE PTY LTD.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hismile-barbie-opzetborstel/p/6290065",
+  "listName": "Lister",
+  "brand": "HISMILE",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267232,
+      "name": "Opzetborstels"
+    }
+  ],
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/h12/h0f/34123122540574/prd-front-6290065-1_600x600/prd-front-6290065-1-600x600.jpg"
+}

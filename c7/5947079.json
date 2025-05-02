@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bambix Rijst 1-3+ Groeidrink",
+  "code": "5947079",
+  "price": "3.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
+  "supplier": "INEX NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bambix-rijst-1-3-groeidrink/p/5947079",
+  "listName": "Lister",
+  "brand": "Bambix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267562,
+      "name": "Peutermelk"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf9/hcd/29480279867422/prd-front-5947079-1_600x600/prd-front-5947079-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bambix 12+M Biscuit Kant-en-klaar Drinkpapje",
+  "code": "6180690",
+  "price": "3.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5678 > 5679",
+  "supplier": "INEX NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bambix-12m-biscuit-kant-en-klaar-drinkpapje/p/6180690",
+  "listName": "Lister",
+  "brand": "Bambix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267331,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "3 x 250ml",
+  "image": "/medias/sys_master/prd-images/hb5/h4d/32022347055134/prd-front-6180690-1_600x600/prd-front-6180690-1-600x600.jpg"
+}

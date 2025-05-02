@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Sensodyne MultiCare Tandpasta",
-  "code": "2885779",
-  "price": "11.49",
+  "itemName": "Elmex Sensitivity + Gum Care Tandpasta",
+  "code": "6284878",
+  "price": "6.79",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
-  "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/sensodyne-multicare-tandpasta/p/2885779",
+  "url": "/elmex-sensitivity-gum-care-tandpasta/p/6284878",
   "listName": "Lister",
-  "brand": "Sensodyne",
+  "brand": "Elmex",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "2 x 75ml",
-  "image": "/medias/sys_master/prd-images/h25/hba/34099450904606/prd-front-2885779-1_600x600/prd-front-2885779-1-600x600.jpg"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h75/h24/34123119591454/prd-front-6284878-1_600x600/prd-front-6284878-1-600x600.jpg"
 }

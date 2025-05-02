@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Iwhite Instant Professionele Whitening Kit",
-  "code": "3177875",
-  "price": "34.99",
+  "itemName": "HismileTeeth Brightening V34 Colour Corrector Serum",
+  "code": "6289834",
+  "price": "28.99",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
-  "supplier": "ALL-IN-1 BVBA",
-  "inStock": "inStock",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
+  "supplier": "HISMILE PTY LTD.",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/iwhite-instant-professionele-whitening-kit/p/3177875",
+  "url": "/hismileteeth-brightening-v34-colour-corrector-serum/p/6289834",
   "listName": "Lister",
-  "brand": "iWhite",
+  "brand": "HISMILE",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Whitening producten"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/he0/h82/28793628491806/prd-front-3177875-1_600x600/prd-front-3177875-1-600x600.jpg"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h37/ha1/33967299067934/prd-front-6289834-1_600x600/prd-front-6289834-1-600x600.jpg"
 }

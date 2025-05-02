@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Parodontax Ultra Clean Tandpasta",
-  "code": "4999646",
+  "itemName": "Bioniq Repair & Gum Protection Tandpasta",
+  "code": "6287657",
   "price": "8.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
-  "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
+  "supplier": "BENCKMAR BV",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/parodontax-ultra-clean-tandpasta/p/4999646",
+  "url": "/bioniq-repair-gum-protection-tandpasta/p/6287657",
   "listName": "Lister",
-  "brand": "Parodontax",
+  "brand": "Bioniq",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 2 x 75ml",
-  "image": "/medias/sys_master/prd-images/hf1/h45/34025181577246/prd-front-4999646-1_600x600/prd-front-4999646-1-600x600.jpg"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h4a/h9f/34122280730654/prd-front-6287657-1_600x600/prd-front-6287657-1-600x600.jpg"
 }

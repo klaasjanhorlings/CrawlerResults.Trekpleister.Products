@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bambix 2+ Groeimelk",
+  "code": "573006",
+  "price": "2.14",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
+  "supplier": "INEX NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bambix-2-groeimelk/p/573006",
+  "listName": "Lister",
+  "brand": "Bambix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267561,
+      "name": "Dreumesmelk"
+    }
+  ],
+  "description": "1L",
+  "image": "/medias/sys_master/prd-images/h59/h69/30915616800798/prd-front-573006-1_600x600/prd-front-573006-1-600x600.jpg"
+}

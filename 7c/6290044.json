@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Oral-B iO Magnetic Elektrische Tandenborstel",
-  "code": "6255345",
-  "price": "209.99",
-  "priceOriginal": "349.99",
+  "itemName": "Hismile Elektrische Tandenborstel",
+  "code": "6290044",
+  "price": "58.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
-  "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "supplier": "HISMILE PTY LTD.",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 140,00",
-  "url": "/oral-b-io-magnetic-elektrische-tandenborstel/p/6255345",
+  "discount": "",
+  "url": "/hismile-elektrische-tandenborstel/p/6290044",
   "listName": "Lister",
-  "brand": "Oral B",
+  "brand": "HISMILE",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/hb6/h8b/33894190022686/prd-front-6255345-1_600x600/prd-front-6255345-1-600x600.jpg"
+  "description": "blauw",
+  "image": "/medias/sys_master/prd-images/h83/h04/34123122212894/prd-front-6290044-1_600x600/prd-front-6290044-1-600x600.jpg"
 }

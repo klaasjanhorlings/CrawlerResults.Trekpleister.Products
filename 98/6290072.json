@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Philips Sonicare C1 ProResults HX6014/0 Opzetborstel",
-  "code": "6036714",
-  "price": "27.99",
+  "itemName": "Hismile Opzetborstel",
+  "code": "6290072",
+  "price": "8.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
-  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "supplier": "HISMILE PTY LTD.",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/philips-sonicare-c1-proresults-hx6014/0-opzetborstel/p/6036714",
+  "url": "/hismile-opzetborstel/p/6290072",
   "listName": "Lister",
-  "brand": "Philips",
+  "brand": "HISMILE",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 4 stuks",
-  "image": "/medias/sys_master/prd-images/h7a/h47/32895507005470/prd-front-6036714-1_600x600/prd-front-6036714-1-600x600.jpg"
+  "description": "blauw",
+  "image": "/medias/sys_master/prd-images/hc9/hd1/34122829791262/prd-front-6290072-1_600x600/prd-front-6290072-1-600x600.jpg"
 }

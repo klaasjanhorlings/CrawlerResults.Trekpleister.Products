@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Aquafresh Freshmint Tandpasta",
-  "code": "2641423",
-  "price": "3.69",
+  "itemName": "Hismile Chupa Chups Cola Tandpasta",
+  "code": "6289932",
+  "price": "10.99",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
-  "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
+  "supplier": "HISMILE PTY LTD.",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/aquafresh-freshmint-tandpasta/p/2641423",
+  "url": "/hismile-chupa-chups-cola-tandpasta/p/6289932",
   "listName": "Lister",
-  "brand": "Aquafresh",
+  "brand": "HISMILE",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "2 x 75ml",
-  "image": "/medias/sys_master/prd-images/hf3/h6a/31856508469278/prd-front-2641423-1_600x600/prd-front-2641423-1-600x600.jpg"
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/h1c/h9a/33965416087582/prd-front-6289932-1_600x600/prd-front-6289932-1-600x600.jpg"
 }

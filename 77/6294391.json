@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Sensodyne Fresh Mint Tandpasta",
-  "code": "2882986",
-  "price": "7.78",
+  "itemName": "Elmex Sensitive Plus Gum + Gentle White Tandpasta",
+  "code": "6294391",
+  "price": "6.79",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
-  "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/sensodyne-fresh-mint-tandpasta/p/2882986",
+  "url": "/elmex-sensitive-plus-gum-gentle-white-tandpasta/p/6294391",
   "listName": "Lister",
-  "brand": "Sensodyne",
+  "brand": "Elmex",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "2 x 75ml",
-  "image": "/medias/sys_master/prd-images/h22/h65/34099182043166/prd-front-2882986-1_600x600/prd-front-2882986-1-600x600.jpg"
+  "description": "75ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }
