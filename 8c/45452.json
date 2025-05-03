@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028942",
+  "mmkId": "3028942",
+  "productGroupId": "476829",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-preference-415-intens-diepbruin-permanente-haarkleuring/p/45452",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4b/ha3/32292271030302/prd-front-45452-1_600x600/prd-front-45452-1-600x600.jpg"
 }

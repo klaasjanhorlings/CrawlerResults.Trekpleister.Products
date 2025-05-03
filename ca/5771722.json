@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tweezerman Combo Nagelknipperset",
+  "code": "5771722",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6329",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tweezerman-combo-nagelknipperset/p/5771722",
+  "listName": "Lister",
+  "brand": "Tweezerman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267192,
+      "name": "Nagelknippers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5771722-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTg4Mjl8aW1hZ2UvanBlZ3xhREExTDJnME5TOHhOekl3TVRneU1UVXhOVGd3Tmk5d2NtUXRabkp2Ym5RdE5UYzNNVGN5TWkweFh6WXdNSGcyTURBfGM0N2I0Y2EwNjQ4NDRmYjNjYzMxYmQwMWE3ZjY1OTNlZjk4Y2Y2YjVmZjAwZTNhODliYWY2OGM5YmVmOWZlOWM"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3028629",
+  "mmkId": "3028629",
+  "productGroupId": "458338",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/resdan-antiroosbehandelshampoo/p/589533",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/prd-front-589533-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTE3MzF8aW1hZ2UvanBlZ3xhRFU1TDJnMk1TOHhOak15TkRBek9ESTVOVFU0TWk5d2NtUXRabkp2Ym5RdE5UZzVOVE16TFRGZk5qQXdlRFl3TUF8NGVmODYxZTM2NDkxNmY1M2Y0MDlmZGJhOWVkY2IxNjBjMDdkMGUxMDUwOGUwZWQ3NjU5NWE1MTIwNzBiN2NmZQ"
 }

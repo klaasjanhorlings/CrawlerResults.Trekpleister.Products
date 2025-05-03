@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Swiffer Vloer Navuldoekjes",
+  "itemName": "Swiffer Dry Droge Vloerdoekjes",
   "code": "6151038",
   "price": "20.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "471911",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/swiffer-vloer-navuldoekjes/p/6151038",
+  "url": "/swiffer-dry-droge-vloerdoekjes/p/6151038",
   "listName": "Lister",
   "brand": "Swiffer",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "72 stuks",
-  "image": "/medias/sys_master/prd-images/h13/h39/34114969632798/prd-front-6151038-1_600x600/prd-front-6151038-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h47/h61/34125139836958/prd-front-6151038-1_600x600/prd-front-6151038-1-600x600.jpg"
 }

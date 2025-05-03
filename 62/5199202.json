@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Anta Flu Honey Lemon Menthol Keelpastilles",
+  "code": "5199202",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2634 > 3298 > 4197",
+  "supplier": "CONFISERIE NAPOLEON SALES BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/anta-flu-honey-lemon-menthol-keelpastilles/p/5199202",
+  "listName": "Lister",
+  "brand": "Anta Flu",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267588,
+      "name": "Mondverfrissers"
+    }
+  ],
+  "description": "275g",
+  "image": "/medias/sys_master/prd-images/h7f/h18/33894951190558/prd-front-5199202-1_600x600/prd-front-5199202-1-600x600.jpg"
+}

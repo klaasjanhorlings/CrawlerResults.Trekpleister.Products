@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "BENCKMAR BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h4a/h9f/34122280730654/prd-front-6287657-1_600x600/prd-front-6287657-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

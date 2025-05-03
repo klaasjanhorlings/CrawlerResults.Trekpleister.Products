@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Swiffer Duster Startersset",
+  "itemName": "Swiffer Duster StarterKit",
   "code": "5733085",
   "price": "4.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "471911",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/swiffer-duster-startersset/p/5733085",
+  "url": "/swiffer-duster-starterkit/p/5733085",
   "listName": "Lister",
   "brand": "Swiffer",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Schoonmaakartikelen"
     }
   ],
-  "description": "1 + 3 stuks",
-  "image": "/medias/sys_master/prd-images/hdb/h48/34114963406878/prd-front-5733085-1_600x600/prd-front-5733085-1-600x600.jpg"
+  "description": "1 handvat + 3 navullingen",
+  "image": "/medias/sys_master/prd-images/h89/h2a/34125130334238/prd-front-5733085-1_600x600/prd-front-5733085-1-600x600.jpg"
 }

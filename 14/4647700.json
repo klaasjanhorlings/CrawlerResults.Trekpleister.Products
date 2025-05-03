@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GUM Ortho Mondspoelmiddel",
+  "code": "4647700",
+  "price": "9.25",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
+  "supplier": "SUNSTAR BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gum-ortho-mondspoelmiddel/p/4647700",
+  "listName": "Lister",
+  "brand": "Gum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267233,
+      "name": "Mondwater en mondspray"
+    }
+  ],
+  "description": "300ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

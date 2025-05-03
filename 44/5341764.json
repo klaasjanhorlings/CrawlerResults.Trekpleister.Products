@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6233",
   "supplier": "2THINGS",
-  "inStock": "inStock",
-  "onPromo": "3028948",
-  "mmkId": "3028948",
-  "productGroupId": "477660",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-hair-gummies/p/5341764",
@@ -33,5 +33,6 @@
       "name": "Beautysupplementen"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h5c/hda/29570890170398/prd-front-5341764-1_600x600/prd-front-5341764-1-600x600.jpg"
 }

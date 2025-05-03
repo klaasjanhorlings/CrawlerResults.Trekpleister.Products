@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tweezerman Precision Folding Razor",
+  "code": "5782621",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6329",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tweezerman-precision-folding-razor/p/5782621",
+  "listName": "Lister",
+  "brand": "Tweezerman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5782621-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njg4NDl8aW1hZ2UvanBlZ3xhR1ZtTDJnMllTOHhOekl3TVRRM01qWXpORGt4TUM5d2NtUXRabkp2Ym5RdE5UYzRNall5TVMweFh6WXdNSGcyTURBfDU3MTc5NzNhN2Y1ODJiZGQ5ZTFhZjAzODIxN2Y1MWUxNTVkMWY1ZjUyNTE5MGJjZjcxYjNiMDQ2ZmE0ZDBhZGU"
+}

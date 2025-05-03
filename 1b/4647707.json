@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GUM Ortho Tandenborstel",
+  "code": "4647707",
+  "price": "4.77",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3737",
+  "supplier": "SUNSTAR BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gum-ortho-tandenborstel/p/4647707",
+  "listName": "Lister",
+  "brand": "Gum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267228,
+      "name": "Tandenborstels"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}
