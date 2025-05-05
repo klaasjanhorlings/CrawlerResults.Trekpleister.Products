@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "NIP + FAB",
   "inStock": "inStock",
-  "onPromo": "3028922",
-  "mmkId": "3028922",
-  "productGroupId": "476496",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nip-fab-hyaluronic-fix-extreme4-serum/p/6036826",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "50ml, droge huid",
-  "image": "/medias/sys_master/prd-images/haa/h08/30123825627166/prd-front-6036826-1_600x600/prd-front-6036826-1-600x600.jpg"
+  "description": "50ml, droge huid"
 }

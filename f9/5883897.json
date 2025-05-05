@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3028834",
-  "mmkId": "3028834",
-  "productGroupId": "467270",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/parodontax-active-repair-tandvlees-whitening-tandpasta/p/5883897",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 75 ml",
-  "image": "/medias/sys_master/prd-images/h79/h34/34025369042974/prd-front-5883897-1_600x600/prd-front-5883897-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 75 ml"
 }

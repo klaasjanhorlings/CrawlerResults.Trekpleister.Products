@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2732 > 3651",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3028806",
-  "mmkId": "3028806",
-  "productGroupId": "460936",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/leukoplast-elastomull-haft-zelfklevend-elastisch-windsel/p/4399536",
@@ -33,5 +33,6 @@
       "name": "Bandages en windsels"
     }
   ],
-  "description": "Medisch hulpmiddel - 4m x 8cm"
+  "description": "Medisch hulpmiddel - 4m x 8cm",
+  "image": "/medias/sys_master/prd-images/hc7/h9e/28819268829214/prd-front-4399536-1_600x600/prd-front-4399536-1-600x600.jpg"
 }

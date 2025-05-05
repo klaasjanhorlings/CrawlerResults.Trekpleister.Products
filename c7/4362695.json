@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 3163 > 4034",
   "supplier": "HENKEL NEDERLAND BV U-W",
   "inStock": "inStock",
-  "onPromo": "3028865",
-  "mmkId": "3028865",
-  "productGroupId": "471811",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dylon-sandy-beige-machinewas-textielverf/p/4362695",
@@ -33,6 +33,5 @@
       "name": "Textielverf"
     }
   ],
-  "description": "350g",
-  "image": "/medias/sys_master/prd-images/h0e/h27/29654174203934/prd-front-4362695-1_600x600/prd-front-4362695-1-600x600.jpg"
+  "description": "350g"
 }

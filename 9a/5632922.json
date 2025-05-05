@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3114 > 3611",
   "supplier": "EAST MIDLANDS PHARMA LTD",
   "inStock": "inStock",
-  "onPromo": "3028808",
-  "mmkId": "3028808",
-  "productGroupId": "461473",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-gevoelige-ogen-oogdruppels/p/5632922",
@@ -33,5 +33,6 @@
       "name": "Oogdruppels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf8/h62/28552022392862/prd-front-5632922-1_600x600/prd-front-5632922-1-600x600.jpg"
 }

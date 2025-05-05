@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "BOLTON NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3028915",
-  "mmkId": "3028915",
-  "productGroupId": "476281",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/chilly-protect-intiemtissues/p/2764203",
@@ -33,6 +33,5 @@
       "name": "Intieme hygiëne"
     }
   ],
-  "description": "12 stuks",
-  "image": "/medias/sys_master/prd-images/h6a/h60/28788037746718/prd-front-2764203-1_600x600/prd-front-2764203-1-600x600.jpg"
+  "description": "12 stuks"
 }

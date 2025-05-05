@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fruitfunk Mango Fruitsticks",
+  "code": "6276618",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2320 > 4339 > 4340",
+  "supplier": "FRUITFUNK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fruitfunk-mango-fruitsticks/p/6276618",
+  "listName": "Lister",
+  "brand": "Fruitfunk",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267331,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/sys_master/prd-images/h34/h9d/33772009816094/prd-front-6276618-1_600x600/prd-front-6276618-1-600x600.jpg"
+}

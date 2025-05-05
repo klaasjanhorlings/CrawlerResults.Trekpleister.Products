@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2721 > 3424",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028816",
-  "mmkId": "3028816",
-  "productGroupId": "463007",
+  "onPromo": "3029183",
+  "mmkId": "3029183",
+  "productGroupId": "478469",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-baby-goedemorgen-haarlotion/p/17409",
@@ -37,5 +37,6 @@
       "name": "Baby haarlotion"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h67/h66/29201961320478/prd-front-17409-1_600x600/prd-front-17409-1-600x600.jpg"
 }

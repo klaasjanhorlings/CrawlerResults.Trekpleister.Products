@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
-  "onPromo": "3028962",
-  "mmkId": "3028962",
-  "productGroupId": "478632",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/blistex-medplus-lippenbalsem-stick/p/1723786",
@@ -33,6 +33,5 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf0/h84/30494535221278/prd-front-1723786-1_600x600/prd-front-1723786-1-600x600.jpg"
+  "description": ""
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3028948",
-  "mmkId": "3028948",
-  "productGroupId": "477660",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-mineralen-calcium-magnesium-tabletten/p/1049140",
@@ -37,5 +37,6 @@
       "name": "Calcium"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h9e/hb7/28549587173406/prd-front-1049140-1_600x600/prd-front-1049140-1-600x600.jpg"
 }

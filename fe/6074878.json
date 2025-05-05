@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029128",
+  "mmkId": "3029128",
+  "productGroupId": "475453",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/smyle-toothpaste-tablets-navulling/p/6074878",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "65 stuks",
-  "image": "/medias/sys_master/prd-images/h4e/h3e/30585148604446/prd-front-6074878-1_600x600/prd-front-6074878-1-600x600.jpg"
+  "description": "65 stuks"
 }

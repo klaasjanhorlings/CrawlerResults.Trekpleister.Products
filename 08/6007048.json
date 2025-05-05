@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3028901",
-  "mmkId": "3028901",
-  "productGroupId": "475083",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-multi-tasker-better-than-filters-007-deep-primer/p/6007048",
@@ -29,10 +29,9 @@
       "name": "Make-up"
     },
     {
-      "id": 30267136,
-      "name": "Primer"
+      "id": 30267135,
+      "name": "Concealer"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hce/h1f/30916157374494/prd-front-6007048-1_600x600/prd-front-6007048-1-600x600.jpg"
+  "description": "30ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029105",
+  "mmkId": "3029105",
+  "productGroupId": "471991",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/freeman-charcoal-black-sugar-mud-mask/p/3726962",
@@ -33,6 +33,5 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": "175ml",
-  "image": "/medias/sys_master/prd-images/hc5/h7e/28557846511646/prd-front-3726962-1_600x600/prd-front-3726962-1-600x600.jpg"
+  "description": "175ml"
 }

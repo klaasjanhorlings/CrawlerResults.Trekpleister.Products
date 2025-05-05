@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 6078",
   "supplier": "UNILEVER NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3028774",
-  "mmkId": "3028774",
-  "productGroupId": "486753",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/robijn-classics-klein-krachtig-black-velvet-vloeibaar-wasmiddel/p/5556195",
@@ -29,5 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "2 x 1190ml, 68 wasbeurten"
+  "description": "2 x 1190ml, 68 wasbeurten",
+  "image": "/medias/sys_master/prd-images/ha2/h9e/34141046046750/prd-front-5556195-1_600x600/prd-front-5556195-1-600x600.jpg"
 }

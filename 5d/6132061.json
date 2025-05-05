@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3028940",
-  "mmkId": "3028940",
-  "productGroupId": "476783",
+  "onPromo": "3029159",
+  "mmkId": "3029159",
+  "productGroupId": "476889",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-pro-3d-white-clinical-intensieve-whitening-radiant-white-tandpasta/p/6132061",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hb0/h08/31944417902622/prd-front-6132061-1_600x600/prd-front-6132061-1-600x600.jpg"
 }

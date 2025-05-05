@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028816",
-  "mmkId": "3028816",
-  "productGroupId": "463007",
+  "onPromo": "3029205",
+  "mmkId": "3029205",
+  "productGroupId": "484095",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutral-0-body-cream/p/4027402",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hc4/h87/29096879915038/prd-front-4027402-1_600x600/prd-front-4027402-1-600x600.jpg"
 }

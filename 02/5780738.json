@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028816",
-  "mmkId": "3028816",
-  "productGroupId": "463007",
+  "onPromo": "3029069",
+  "mmkId": "3029069",
+  "productGroupId": "464070",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-copper-santal-douchegel/p/5780738",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "225ml"
+  "description": "225ml",
+  "image": "/medias/sys_master/prd-images/h5b/h5e/33993381838878/prd-front-5780738-1_600x600/prd-front-5780738-1-600x600.jpg"
 }

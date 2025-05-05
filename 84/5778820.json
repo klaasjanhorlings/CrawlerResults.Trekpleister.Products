@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029122",
+  "mmkId": "3029122",
+  "productGroupId": "474592",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/bye-bye-blemish-salicylzuur-drying-lotion/p/5778820",
@@ -37,5 +37,6 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-5778820-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA3MzV8aW1hZ2UvanBlZ3xhRFprTDJoa01pOHhOelEwTnprNE16WXhNVGt6TkM5d2NtUXRabkp2Ym5RdE5UYzNPRGd5TUMweFh6WXdNSGcyTURBfDFhNWFiNWQyMzA5YTc0ZWYyMTNhNTVmY2ZjMjJhMmM5ZDFhMDZkYWFhNjY4ZDEwOGM0NDhiMTQ3ODJiNjA1OTI"
 }

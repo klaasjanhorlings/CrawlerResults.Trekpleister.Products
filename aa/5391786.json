@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3028878",
-  "mmkId": "3028878",
-  "productGroupId": "472876",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-kids-abrikoos-2-in-1-shampoo-conditioner/p/5391786",
@@ -37,6 +37,5 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hcc/h14/33359580430366/prd-front-5391786-1_600x600/prd-front-5391786-1-600x600.jpg"
+  "description": "250ml"
 }

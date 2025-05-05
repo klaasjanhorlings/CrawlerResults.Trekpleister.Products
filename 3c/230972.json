@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
   "supplier": "HG INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029097",
+  "mmkId": "3029097",
+  "productGroupId": "471819",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hg-alle-nare-geurtjes-weg/p/230972",
@@ -29,5 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h5f/hf9/31906514796574/prd-front-230972-1_600x600/prd-front-230972-1-600x600.jpg"
 }

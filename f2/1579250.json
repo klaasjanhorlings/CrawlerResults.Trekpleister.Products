@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3028804",
-  "mmkId": "3028804",
-  "productGroupId": "459897",
+  "onPromo": "3029090",
+  "mmkId": "3029090",
+  "productGroupId": "471225",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-q10-verstevigende-bodylotion/p/1579250",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml - Normale huid"
+  "description": "400ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/ha9/h4e/32900939251742/prd-front-1579250-1_600x600/prd-front-1579250-1-600x600.jpg"
 }

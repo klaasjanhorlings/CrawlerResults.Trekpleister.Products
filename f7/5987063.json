@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3028881",
-  "mmkId": "3028881",
-  "productGroupId": "472934",
+  "onPromo": "3029111",
+  "mmkId": "3029111",
+  "productGroupId": "472933",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/john-frieda-blonde-repair-system-bond-building-conditioner/p/5987063",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hed/h1c/29124699586590/prd-front-5987063-1_600x600/prd-front-5987063-1-600x600.jpg"
 }

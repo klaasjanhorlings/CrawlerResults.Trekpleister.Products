@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fruitfunk Aardbei & Appel Uitdeelzakjes",
+  "code": "6282547",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2320 > 4339 > 4340",
+  "supplier": "FRUITFUNK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fruitfunk-aardbei-appel-uitdeelzakjes/p/6282547",
+  "listName": "Lister",
+  "brand": "Fruitfunk",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267331,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/ha3/h07/33771561189406/prd-front-6282547-1_600x600/prd-front-6282547-1-600x600.jpg"
+}

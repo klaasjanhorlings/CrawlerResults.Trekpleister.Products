@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3028948",
-  "mmkId": "3028948",
-  "productGroupId": "477660",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-magnesium-kauwtabletten/p/4269266",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hb2/h59/29570327707678/prd-front-4269266-1_600x600/prd-front-4269266-1-600x600.jpg"
 }

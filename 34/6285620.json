@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ariel +Touch Of Lenor Unstoppables Color 4-in-1 Pods",
+  "code": "6285620",
+  "price": "5.99",
+  "priceOriginal": "15.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/ariel-touch-of-lenor-unstoppables-color-4-in-1-pods/p/6285620",
+  "listName": "Lister",
+  "brand": "Ariel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "15wasbeurten",
+  "image": "/medias/sys_master/prd-images/h2c/h43/34123396775966/prd-front-6285620-1_600x600/prd-front-6285620-1-600x600.jpg"
+}

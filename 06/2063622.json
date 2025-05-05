@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3029146",
+  "mmkId": "3029146",
+  "productGroupId": "476264",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tiger-balm-rood-tijgerbalsem/p/2063622",
@@ -37,5 +37,6 @@
       "name": "Spierwrijfmiddelen"
     }
   ],
-  "description": "19g"
+  "description": "19g",
+  "image": "/medias/sys_master/prd-images/hb1/h46/31690881335326/prd-front-2063622-1_600x600/prd-front-2063622-1-600x600.jpg"
 }

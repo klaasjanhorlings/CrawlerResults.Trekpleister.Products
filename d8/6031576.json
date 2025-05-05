@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "3028922",
-  "mmkId": "3028922",
-  "productGroupId": "476496",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-retinol-0-2-renew-nachtserum/p/6031576",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hd0/h57/30147729063966/prd-front-6031576-1_600x600/prd-front-6031576-1-600x600.jpg"
+  "description": "30ml"
 }

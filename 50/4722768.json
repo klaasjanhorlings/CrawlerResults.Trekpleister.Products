@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3029082",
+  "mmkId": "3029082",
+  "productGroupId": "470234",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davitamon-400mg-magnesium-3-in-1-tabletten/p/4722768",
@@ -33,5 +33,6 @@
       "name": "Weerstand en of energie"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h20/hac/31462465339422/prd-front-4722768-1_600x600/prd-front-4722768-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3858",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3028940",
-  "mmkId": "3028940",
-  "productGroupId": "476783",
+  "onPromo": "3029159",
+  "mmkId": "3029159",
+  "productGroupId": "476889",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-pro-clean-medium-tandenborstel/p/6284969",
@@ -33,5 +33,6 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "1 stuk - medium borstelharen"
+  "description": "1 stuk - medium borstelharen",
+  "image": "/medias/sys_master/prd-images/h62/h74/33885198319646/prd-front-6284969-1_600x600/prd-front-6284969-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3028825",
-  "mmkId": "3028825",
-  "productGroupId": "465598",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-blonde-l1-intensive-blond-super-plus-haarverf/p/1852040",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h71/h4e/33162433953822/prd-front-1852040-1_600x600/prd-front-1852040-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "inStock",
-  "onPromo": "3028901",
-  "mmkId": "3028901",
-  "productGroupId": "475083",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-exaggerate-01-black-eyeliner/p/42810",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "2,5ml"
+  "description": "2,5ml",
+  "image": "/medias/sys_master/prd-images/hdb/h55/28788037419038/prd-front-42810-1_600x600/prd-front-42810-1-600x600.jpg"
 }

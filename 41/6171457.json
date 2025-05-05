@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 2884 > 4077",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3028872",
-  "mmkId": "3028872",
-  "productGroupId": "471911",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ambi-pur-fris-linnen-3volution-elektrische-luchtverfrisser-navulling/p/6171457",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h9c/h72/34100317356062/prd-front-6171457-1_600x600/prd-front-6171457-1-600x600.jpg"
 }

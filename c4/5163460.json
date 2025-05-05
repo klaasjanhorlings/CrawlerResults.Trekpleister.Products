@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3028758",
-  "mmkId": "3028758",
-  "productGroupId": "466519",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-baby-bodylotion/p/5163460",
@@ -37,5 +37,6 @@
       "name": "Babylotion"
     }
   ],
-  "description": "6 x 400ml"
+  "description": "6 x 400ml",
+  "image": "/medias/sys_master/prd-images/h17/h6e/32404524695582/prd-front-5163460-1_600x600/prd-front-5163460-1-600x600.jpg"
 }
