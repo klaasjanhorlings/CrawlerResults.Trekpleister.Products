@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "MAM BABY BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "320ml"
+  "description": "320ml",
+  "image": "/medias/prd-front-4818325-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzk0NDR8aW1hZ2UvanBlZ3xhR1ZtTDJnMk5DOHhOekV4TURNM01qVTBPRFl6T0M5d2NtUXRabkp2Ym5RdE5EZ3hPRE15TlMweFh6WXdNSGcyTURBfDczZGQxZjNjN2M2YmZlMWRiODAxMGZkMzY1OWFkYWQ0YTE5ZTEwZjYyY2IzYWNlYmI2YzcwNmQ0NzdlZGI4MTU"
 }
