@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4247",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "Waterbestendige pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 8cm x 10cm, 5 stuks"
+  "description": "Medisch hulpmiddel - 8cm x 10cm, 5 stuks",
+  "image": "/medias/sys_master/prd-images/hc6/h9d/31197319331870/prd-front-4399550-1_600x600/prd-front-4399550-1-600x600.jpg"
 }

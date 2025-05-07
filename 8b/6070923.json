@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Axe Dark Temptation 3-in-1 Douchegel",
+  "code": "6070923",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3029069",
+  "mmkId": "3029069",
+  "productGroupId": "464070",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/axe-dark-temptation-3-in-1-douchegel/p/6070923",
+  "listName": "Lister",
+  "brand": "Axe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "700ml",
+  "image": "/medias/sys_master/prd-images/h4c/he7/33479998734366/prd-front-6070923-1_600x600/prd-front-6070923-1-600x600.jpg"
+}

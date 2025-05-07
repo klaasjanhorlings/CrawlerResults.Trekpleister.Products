@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "JOHNSON & JOHNSON CONS",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Menstruatieondergoed"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hae/hab/33397807743006/prd-front-6046213-1_600x600/prd-front-6046213-1-600x600.jpg"
+  "description": ""
 }

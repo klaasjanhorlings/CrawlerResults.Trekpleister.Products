@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029124",
+  "mmkId": "3029124",
+  "productGroupId": "475148",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vaseline-dry-skin-healing-balm/p/5402321",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h6d/hb4/28578846343198/prd-front-5402321-1_600x600/prd-front-5402321-1-600x600.jpg"
 }

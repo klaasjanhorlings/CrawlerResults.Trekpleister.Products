@@ -5,7 +5,7 @@
   "code": "6243732",
   "price": "51.99",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4342 > 4343",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 5"
     }
   ],
-  "description": "mt 5 (11-16kg), 80 stuks",
-  "image": "/medias/sys_master/prd-images/h67/hbc/33355278123038/prd-front-6243732-1_600x600/prd-front-6243732-1-600x600.jpg"
+  "description": "mt 5 (11-16kg), 80 stuks"
 }

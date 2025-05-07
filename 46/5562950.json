@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029069",
+  "mmkId": "3029069",
+  "productGroupId": "464070",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-body-love-one-cream-nourishing-care/p/5562950",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hc2/h53/30365316349982/prd-front-5562950-1_600x600/prd-front-5562950-1-600x600.jpg"
 }
