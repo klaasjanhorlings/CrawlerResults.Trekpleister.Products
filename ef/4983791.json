@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "4870 > 6017 > 2173 > 2427 > 3260 > 4158",
   "supplier": "FUJIFILM IMAGING PRODUC",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Instax fotopapier"
     }
   ],
-  "description": "2 x 10 stuks"
+  "description": "2 x 10 stuks",
+  "image": "/medias/prd-front-4983791-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQyMTB8aW1hZ2UvanBlZ3xhRFprTDJneFpDOHhOall6TXpjd09URXdNVEE0Tmk5d2NtUXRabkp2Ym5RdE5EazRNemM1TVMweFh6WXdNSGcyTURBfDlhMDJhOGE4NGQxYjdlMjk1Y2RkOWYxNDJhNTUxNWE4OWI1MGM3OGNkNTdhMDE4MDFmOTUwMDRlNjZlYzcxOTc"
 }

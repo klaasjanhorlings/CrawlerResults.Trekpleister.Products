@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "3029090",
-  "mmkId": "3029090",
-  "productGroupId": "471225",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-kids-protect-hydrate-spf50-5-in-1-zonnebrand/p/4055570",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h1f/he4/33556626636830/prd-front-4055570-1_600x600/prd-front-4055570-1-600x600.jpg"
+  "description": "200ml"
 }
