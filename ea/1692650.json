@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6239",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
-  "onPromo": "3029084",
-  "mmkId": "3029084",
-  "productGroupId": "470570",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dagravit-kids-vitamine-d-aquosum-druppels/p/1692650",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267286,
-      "name": "Botten en gewrichten"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267553,
+      "name": "Kindervitamines"
     }
   ],
   "description": "25ml",

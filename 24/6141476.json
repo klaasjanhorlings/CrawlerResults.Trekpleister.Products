@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/joop-joop-le-bain-eau-de-parfum/p/6141476",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd8/hda/31708528443422/prd-front-6141476-1_600x600/prd-front-6141476-1-600x600.jpg"
 }

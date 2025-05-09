@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Philips Sonicare 4100 Elektrische Tandenborstel",
+  "itemName": "Philips Sonicare 4100 Series HX3681/33 Elektrische Tandenborstel",
   "code": "6166956",
   "price": "99.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/philips-sonicare-4100-elektrische-tandenborstel/p/6166956",
+  "url": "/philips-sonicare-4100-series-hx3681/33-elektrische-tandenborstel/p/6166956",
   "listName": "Lister",
   "brand": "Philips",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "wit",
-  "image": "/medias/sys_master/prd-images/hbc/haa/34163245056030/prd-front-6166956-1_600x600/prd-front-6166956-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h00/hfc/34181614469150/prd-front-6166956-1_600x600/prd-front-6166956-1-600x600.jpg"
 }

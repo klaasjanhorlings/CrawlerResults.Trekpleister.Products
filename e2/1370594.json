@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029220",
+  "mmkId": "3029220",
+  "productGroupId": "472677",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-riche-258-berry-blush-lippenstift/p/1370594",
@@ -29,10 +29,13 @@
       "name": "Make-up"
     },
     {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
       "id": 30267139,
       "name": "Lipstick"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h46/h96/28887619010590/prd-front-1370594-1_600x600/prd-front-1370594-1-600x600.jpg"
+  "description": ""
 }

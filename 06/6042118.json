@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029220",
+  "mmkId": "3029220",
+  "productGroupId": "472677",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-radiant-6n-serum-concealer/p/6042118",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "11ml"
+  "description": "11ml",
+  "image": "/medias/sys_master/prd-images/h14/h16/30692934877214/prd-front-6042118-1_600x600/prd-front-6042118-1-600x600.jpg"
 }

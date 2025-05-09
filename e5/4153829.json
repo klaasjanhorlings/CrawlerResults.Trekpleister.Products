@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3029153",
-  "mmkId": "3029153",
-  "productGroupId": "476441",
+  "onPromo": "3029219",
+  "mmkId": "3029219",
+  "productGroupId": "469008",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-p-cl-e-olie/p/4153829",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
     },
     {
-      "id": 30267170,
-      "name": "Baardverzorging"
+      "id": 30267362,
+      "name": "Mama verzorgingsproducten"
     }
   ],
   "description": "75ml - Droge huid",

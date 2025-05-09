@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3029154",
-  "mmkId": "3029154",
-  "productGroupId": "476498",
+  "onPromo": "3029219",
+  "mmkId": "3029219",
+  "productGroupId": "469008",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-optimal-hydration-revitaliserende-dagcreme/p/5888363",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267159,
-      "name": "Dagcreme"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "48g",

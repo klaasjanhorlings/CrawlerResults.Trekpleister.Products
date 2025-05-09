@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6202 > 6220 > 6278",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -29,10 +29,9 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49950754,
-      "name": "Natuurlijke supplementen"
+      "id": 30267277,
+      "name": "Prostaatsupplementen"
     }
   ],
-  "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/he4/h4d/32568354209822/prd-front-2868559-1_600x600/prd-front-2868559-1-600x600.jpg"
+  "description": "90 stuks"
 }

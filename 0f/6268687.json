@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mexx-inspired-nature-eau-de-parfum/p/6268687",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h90/h80/33466226016286/prd-front-6268687-1_600x600/prd-front-6268687-1-600x600.jpg"
 }

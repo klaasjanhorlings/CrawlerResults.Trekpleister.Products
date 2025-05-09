@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-miracle-pure-skin-reset-10-30-fair-2-in-1-serum-foundation/p/6098972",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hef/h00/33046520594462/prd-front-6098972-1_600x600/prd-front-6098972-1-600x600.jpg"
+  "description": "30ml"
 }

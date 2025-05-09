@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6598",
   "supplier": "THEOTCLAB HEALTHCARE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029080",
+  "mmkId": "3029080",
+  "productGroupId": "469832",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/breathe-right-neusstrips/p/1838600",
@@ -33,8 +33,8 @@
       "name": "Luchtwegen"
     },
     {
-      "id": 49950103,
-      "name": "Snurken"
+      "id": 49950088,
+      "name": "Neusstrip"
     }
   ],
   "description": "Medisch hulpmiddel - mt L, 30 stuks",

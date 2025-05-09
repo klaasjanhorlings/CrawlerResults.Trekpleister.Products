@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029219",
+  "mmkId": "3029219",
+  "productGroupId": "469008",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-collagen-peptide-spf30-hydraterende-dagcreme/p/5645851",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe en gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h34/h21/31242276962334/prd-front-5645851-1_600x600/prd-front-5645851-1-600x600.jpg"
+  "description": "50ml - Rijpe en gevoelige huid"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3029139",
-  "mmkId": "3029139",
-  "productGroupId": "475932",
+  "onPromo": "3029220",
+  "mmkId": "3029220",
+  "productGroupId": "472677",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-instant-anti-age-perfector-4-in-1-glow-fair-light-concealer/p/5908383",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/hcc/h43/32104351629342/prd-front-5908383-1_600x600/prd-front-5908383-1-600x600.jpg"
 }

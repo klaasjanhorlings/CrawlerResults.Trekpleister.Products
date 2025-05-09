@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029219",
+  "mmkId": "3029219",
+  "productGroupId": "469008",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-clear-defend-dagelijkse-wasgel/p/6191295",
@@ -37,5 +37,6 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h2e/h10/32596558184478/prd-front-6191295-1_600x600/prd-front-6191295-1-600x600.jpg"
 }

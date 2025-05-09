@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Philips Sonicare 6100 Elektrische tandenborstel",
+  "itemName": "Philips Sonicare 6100 Series HX7401/01 Elektrische Tandenborstel",
   "code": "6166480",
   "price": "159.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/philips-sonicare-6100-elektrische-tandenborstel/p/6166480",
+  "url": "/philips-sonicare-6100-series-hx7401/01-elektrische-tandenborstel/p/6166480",
   "listName": "Lister",
   "brand": "Philips",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart",
-  "image": "/medias/sys_master/prd-images/h81/h58/34163244728350/prd-front-6166480-1_600x600/prd-front-6166480-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h39/hfc/34180850417694/prd-front-6166480-1_600x600/prd-front-6166480-1-600x600.jpg"
 }

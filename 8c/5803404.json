@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029219",
+  "mmkId": "3029219",
+  "productGroupId": "469008",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-anti-age-retinol-boost-intensieve-gezichtsverzorging/p/5803404",
@@ -25,8 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
     }
   ],
   "description": "",

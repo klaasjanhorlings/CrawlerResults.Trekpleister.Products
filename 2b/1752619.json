@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "3029105",
-  "mmkId": "3029105",
-  "productGroupId": "471991",
+  "onPromo": "3029219",
+  "mmkId": "3029219",
+  "productGroupId": "469008",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/montagne-jeunesse-passion-peel-off-gezichtsmasker/p/1752619",
@@ -33,5 +33,6 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h07/hef/28798599036958/prd-front-1752619-1_600x600/prd-front-1752619-1-600x600.jpg"
 }

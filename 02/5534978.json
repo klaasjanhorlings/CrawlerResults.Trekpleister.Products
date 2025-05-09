@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6331",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-teennageltang/p/5534978",
@@ -37,6 +37,5 @@
       "name": "Nagelknippers"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-5534978-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTU4OTd8aW1hZ2UvanBlZ3xhR0ZrTDJnMlpTOHhOekEyT0RneE5EazFPRFl5TWk5d2NtUXRabkp2Ym5RdE5UVXpORGszT0MweFh6WXdNSGcyTURBfGMzYTg3NTMxZDVjMWNkNDJiODdlMDhlOTIyZGNmMGFhODFlNDY2YTMyM2ZiMDY3NjA5Y2U1OGMyZGY3YTg1N2E"
+  "description": ""
 }

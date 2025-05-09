@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3698",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029079",
+  "mmkId": "3029079",
+  "productGroupId": "469476",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/got2b-guardian-angel-heat-protection-spray/p/5831761",
@@ -29,8 +29,8 @@
       "name": "Haarstylingproducten"
     },
     {
-      "id": 30267492,
-      "name": "Haarlak"
+      "id": 30267490,
+      "name": "Heat protectors"
     }
   ],
   "description": "200ml",

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6320",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tangle-teezer-scalp-brush/p/5416342",
@@ -21,15 +21,19 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267044,
-      "name": "Haaraccessoires"
+      "id": 30267249,
+      "name": "Haarstylingproducten"
     },
     {
-      "id": 30267181,
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267495,
       "name": "Haarborstels"
     }
   ],

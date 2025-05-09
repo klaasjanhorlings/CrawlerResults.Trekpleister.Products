@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-soft-glam-filter-030-medium-stick/p/6233617",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267146,
+      "name": "Highlighter"
     }
   ],
   "description": "9g",

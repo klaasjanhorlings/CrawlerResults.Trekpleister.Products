@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Harmonie Pants Maat 6 Luierbroekjes",
+  "code": "6296904",
+  "price": "59.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-harmonie-pants-maat-6-luierbroekjes/p/6296904",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267070,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 30267352,
+      "name": "Luierbroekjes maat 6"
+    }
+  ],
+  "description": "mt 6 (15+kg), 60 stuks",
+  "image": "/medias/sys_master/prd-images/h6c/hb0/33949526196254/prd-front-6296904-1_600x600/prd-front-6296904-1-600x600.jpg"
+}

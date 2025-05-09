@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029220",
+  "mmkId": "3029220",
+  "productGroupId": "472677",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-24h-brow-70-blonde-filling-triangular-pencil/p/5783244",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1ml"
+  "description": "1ml",
+  "image": "/medias/sys_master/prd-images/h5d/h73/28552187117598/prd-front-5783244-1_600x600/prd-front-5783244-1-600x600.jpg"
 }

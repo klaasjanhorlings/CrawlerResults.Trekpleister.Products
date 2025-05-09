@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029219",
+  "mmkId": "3029219",
+  "productGroupId": "469008",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/st-ives-fresh-skin-apricot-scrub/p/5780556",
@@ -33,6 +33,5 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/prd-front-5780556-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQ2MTd8aW1hZ2UvanBlZ3xhREV5TDJneVlpOHhOelExTXpFd056QTROVE0wTWk5d2NtUXRabkp2Ym5RdE5UYzRNRFUxTmkweFh6WXdNSGcyTURBfDllOGY2NmUxYmE4MTVlYTMyNDU2ZGMzZWQ1YmZiZDljZjNmODI1MThlZGM3MTNhZDU5ODEzZWUyNjUwZGFiZDA"
+  "description": "150ml"
 }

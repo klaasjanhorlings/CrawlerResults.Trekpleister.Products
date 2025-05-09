@@ -29,9 +29,14 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30267269,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267518,
+      "name": "Neusspray"
     }
   ],
-  "description": "Homeopathisch geneesmiddel - 20ml"
+  "description": "Homeopathisch geneesmiddel - 20ml",
+  "image": "/medias/sys_master/prd-images/h6c/he2/33354227122206/prd-front-33872-1_600x600/prd-front-33872-1-600x600.jpg"
 }

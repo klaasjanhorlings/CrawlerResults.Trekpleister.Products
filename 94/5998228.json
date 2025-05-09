@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-shine-bomb-020-good-taste-lipstick/p/5998228",
@@ -29,9 +29,14 @@
       "name": "Make-up"
     },
     {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
       "id": 30267139,
       "name": "Lipstick"
     }
   ],
-  "description": "3ml"
+  "description": "3ml",
+  "image": "/medias/sys_master/prd-images/hd4/h84/29940921073694/prd-front-5998228-1_600x600/prd-front-5998228-1-600x600.jpg"
 }

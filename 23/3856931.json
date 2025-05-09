@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3029125",
-  "mmkId": "3029125",
-  "productGroupId": "475292",
+  "onPromo": "3029226",
+  "mmkId": "3029226",
+  "productGroupId": "479717",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-huidverzorgende-olie/p/3856931",
@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267046,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30267256,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 30267499,
-      "name": "Littekencremes"
+      "id": 30267196,
+      "name": "Bodyolie"
     }
   ],
   "description": "100ml",

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-the-slim-stick-103-brickroad-lipstick/p/5998844",
@@ -27,6 +27,10 @@
     {
       "id": 30267038,
       "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
     },
     {
       "id": 30267139,

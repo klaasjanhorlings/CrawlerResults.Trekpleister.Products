@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029219",
+  "mmkId": "3029219",
+  "productGroupId": "469008",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-aanstiplotion-bij-puistjes/p/5754687",
@@ -25,13 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267162,
-      "name": "Serum"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/hf7/h05/33483682250782/prd-front-5754687-1_600x600/prd-front-5754687-1-600x600.jpg"
 }

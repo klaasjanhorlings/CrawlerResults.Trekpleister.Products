@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029220",
+  "mmkId": "3029220",
+  "productGroupId": "472677",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-riche-300-le-rouge-paris-lippotlood/p/6235647",
@@ -29,10 +29,13 @@
       "name": "Make-up"
     },
     {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
       "id": 30267152,
       "name": "Lipliner"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h65/h51/33350362824734/prd-front-6235647-1_600x600/prd-front-6235647-1-600x600.jpg"
+  "description": ""
 }

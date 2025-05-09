@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3029139",
-  "mmkId": "3029139",
-  "productGroupId": "475932",
+  "onPromo": "3029220",
+  "mmkId": "3029220",
+  "productGroupId": "472677",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-lifter-liner-08-fine-line-lippotlood/p/6045443",
@@ -29,10 +29,13 @@
       "name": "Make-up"
     },
     {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
       "id": 30267152,
       "name": "Lipliner"
     }
   ],
-  "description": "1,2g",
-  "image": "/medias/sys_master/prd-images/h0d/hb6/30744545656862/prd-front-6045443-1_600x600/prd-front-6045443-1-600x600.jpg"
+  "description": "1,2g"
 }

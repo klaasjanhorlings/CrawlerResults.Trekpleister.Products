@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Philips Sonicare 3100 Elektrische Tandenborstel",
+  "itemName": "Philips Sonicare 3100 Series HX3673/11 Elektrische Tandenborstel",
   "code": "6166459",
   "price": "49.99",
   "priceOriginal": "99.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 50,00",
-  "url": "/philips-sonicare-3100-elektrische-tandenborstel/p/6166459",
+  "url": "/philips-sonicare-3100-series-hx3673/11-elektrische-tandenborstel/p/6166459",
   "listName": "Lister",
   "brand": "Philips",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "roze"
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/h2c/h20/34182496092190/prd-front-6166459-1_600x600/prd-front-6166459-1-600x600.jpg"
 }

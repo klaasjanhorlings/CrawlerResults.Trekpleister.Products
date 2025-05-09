@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "ALL-IN-1 BVBA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029219",
+  "mmkId": "3029219",
+  "productGroupId": "469008",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/remescar-hangende-oogleden-oogcreme/p/5588584",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/h0a/h8f/33351603486750/prd-front-5588584-1_600x600/prd-front-5588584-1-600x600.jpg"
 }

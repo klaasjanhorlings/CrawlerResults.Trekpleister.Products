@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3029156",
-  "mmkId": "3029156",
-  "productGroupId": "476788",
+  "onPromo": "3029219",
+  "mmkId": "3029219",
+  "productGroupId": "469008",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-vitamine-b3-24-vitamin-c-oogcreme/p/5781753",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml, alle huidtypes"
+  "description": "15ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/hbb/h26/31597299040286/prd-front-5781753-1_600x600/prd-front-5781753-1-600x600.jpg"
 }

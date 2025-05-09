@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029220",
+  "mmkId": "3029220",
+  "productGroupId": "472677",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-magic-bb-medium-5-in-1-transforming-skin-corrector/p/2400945",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30267138,
-      "name": "CC cream"
+      "id": 30267137,
+      "name": "BB cream"
     }
   ],
   "description": "30ml",

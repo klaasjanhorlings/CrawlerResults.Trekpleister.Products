@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029220",
+  "mmkId": "3029220",
+  "productGroupId": "472677",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-riche-volume-matte-241-coral-irreverent-intense-lippenstift/p/5580716",
@@ -29,9 +29,14 @@
       "name": "Make-up"
     },
     {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
       "id": 30267139,
       "name": "Lipstick"
     }
   ],
-  "description": "1,8g"
+  "description": "1,8g",
+  "image": "/medias/sys_master/prd-images/h11/hb2/28579148136478/prd-front-5580716-1_600x600/prd-front-5580716-1-600x600.jpg"
 }

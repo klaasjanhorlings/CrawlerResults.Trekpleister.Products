@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister O.R.S. Voedingssupplement",
+  "code": "6288245",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2765 > 3638",
+  "supplier": "HERKEL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-ors-voedingssupplement/p/6288245",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267290,
+      "name": "ORS"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h6b/h98/33834850549790/prd-front-6288245-1_600x600/prd-front-6288245-1-600x600.jpg"
+}

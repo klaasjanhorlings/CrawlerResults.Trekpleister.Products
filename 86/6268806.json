@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "TREFFINA BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/sense-of-spa-geschenkset/p/6268806",
@@ -33,6 +33,5 @@
       "name": "Geschenkset voor haar"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h84/h99/33680145448990/prd-front-6268806-1_600x600/prd-front-6268806-1-600x600.jpg"
+  "description": ""
 }

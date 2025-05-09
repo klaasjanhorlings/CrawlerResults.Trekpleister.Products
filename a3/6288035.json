@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal L-Dopa Mucuna Pruriens Capsules",
+  "code": "6288035",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6233",
+  "supplier": "PK BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-l-dopa-mucuna-pruriens-capsules/p/6288035",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267274,
+      "name": "Weerstand en of energie"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hf6/h6b/33820231368734/prd-front-6288035-1_600x600/prd-front-6288035-1-600x600.jpg"
+}

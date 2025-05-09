@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-160-foundation-stick/p/6245895",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/h2a/h17/33486276231198/prd-front-6245895-1_600x600/prd-front-6245895-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-08-lashes-to-impress-kunstwimpers/p/6017212",
@@ -33,5 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "8 stuks"
+  "description": "8 stuks",
+  "image": "/medias/sys_master/prd-images/hec/h76/31460313858078/prd-front-6017212-1_600x600/prd-front-6017212-1-600x600.jpg"
 }

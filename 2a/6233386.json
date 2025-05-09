@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-butter-drippin-020-maple-latte-glossy-lip-balm/p/6233386",
@@ -29,10 +29,13 @@
       "name": "Make-up"
     },
     {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
       "id": 30267140,
       "name": "Lipgloss"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/hf3/hda/33040238215198/prd-front-6233386-1_600x600/prd-front-6233386-1-600x600.jpg"
+  "description": "10ml"
 }

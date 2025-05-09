@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-hydra-kiss-07-classy-glassy-lip-oil/p/6245951",
@@ -29,9 +29,14 @@
       "name": "Make-up"
     },
     {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
       "id": 30267140,
       "name": "Lipgloss"
     }
   ],
-  "description": "4ml"
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h36/hf6/33067063803934/prd-front-6245951-1_600x600/prd-front-6245951-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-nail-art-duo-designer/p/5731384",
@@ -29,12 +29,8 @@
       "name": "Nagels"
     },
     {
-      "id": 30267045,
-      "name": "Nagelverzorging"
-    },
-    {
-      "id": 30267189,
-      "name": "Nagelaccessoires"
+      "id": 30267141,
+      "name": "Nagellak"
     }
   ],
   "description": "8ml",

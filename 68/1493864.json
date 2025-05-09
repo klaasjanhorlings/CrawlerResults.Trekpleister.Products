@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2635 > 3317 > 3663",
   "supplier": "ICT POLAND SP. Z.O.O.",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029131",
+  "mmkId": "3029131",
+  "productGroupId": "475518",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-tissuebox/p/1493864",
@@ -29,6 +29,5 @@
       "name": "Tissues en zakdoekjes"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hcd/hcb/28546331869214/prd-front-1493864-1_600x600/prd-front-1493864-1-600x600.jpg"
+  "description": ""
 }
