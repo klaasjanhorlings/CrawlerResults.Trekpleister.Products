@@ -5,12 +5,12 @@
   "code": "2307425",
   "price": "15.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029228",
+  "mmkId": "3029228",
+  "productGroupId": "491701",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-colour-elixir-020-burnt-caramel-lipstick/p/2307425",
@@ -33,8 +33,8 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30267152,
-      "name": "Lipliner"
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
   "description": "4g",

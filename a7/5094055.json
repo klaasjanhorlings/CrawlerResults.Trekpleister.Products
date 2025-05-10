@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice The Soft Peony Eyeshadow Palette",
-  "code": "6104789",
-  "price": "5.99",
+  "itemName": "Catrice Matt Pro Ink 100 Courage Code Liquid Lipstick",
+  "code": "5094055",
+  "price": "4.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "outOfStock",
   "onPromo": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-the-soft-peony-eyeshadow-palette/p/6104789",
+  "url": "/catrice-matt-pro-ink-100-courage-code-liquid-lipstick/p/5094055",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267153,
-      "name": "Oogschaduw"
+      "id": 88118383,
+      "name": "Lipmake-up"
     },
     {
-      "id": 30267470,
-      "name": "Palette oogschaduw"
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
-  "description": "9g",
-  "image": "/medias/sys_master/prd-images/h69/ha3/33038753529886/prd-front-6104789-1_600x600/prd-front-6104789-1-600x600.jpg"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h4b/hdf/29926812647454/prd-front-5094055-1_600x600/prd-front-5094055-1-600x600.jpg"
 }
