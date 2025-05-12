@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Men Shower Favourites Geschenkset",
+  "code": "4114384",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kneipp-men-shower-favourites-geschenkset/p/4114384",
+  "listName": "Lister",
+  "brand": "Kneipp Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666312,
+      "name": "Geschenkset voor hem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h91/h7f/32204881231902/prd-front-4114384-1_600x600/prd-front-4114384-1-600x600.jpg"
+}

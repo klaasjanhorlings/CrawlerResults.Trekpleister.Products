@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029715",
+  "mmkId": "3029715",
+  "productGroupId": "497144",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/hawaiian-tropic-enriching-aftersun-body-butter/p/5083730",
@@ -33,5 +33,6 @@
       "name": "Aftersun"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hd6/h14/33161510977566/prd-front-5083730-1_600x600/prd-front-5083730-1-600x600.jpg"
 }

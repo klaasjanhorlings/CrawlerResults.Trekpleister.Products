@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "MAURER&WIRTZ GMBH&CO KG",
-  "inStock": "inStock",
-  "onPromo": "3029223",
-  "mmkId": "3029223",
-  "productGroupId": "477477",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/soliver-selection-sensual-creamy-bodymist/p/6096879",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hc2/h16/30760607252510/prd-front-6096879-1_600x600/prd-front-6096879-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3029228",
-  "mmkId": "3029228",
-  "productGroupId": "491701",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-the-ultimate-topcoat/p/6246371",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/he9/h66/33334748282910/prd-front-6246371-1_600x600/prd-front-6246371-1-600x600.jpg"
 }

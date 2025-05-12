@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6323",
   "supplier": "ZENNER NIEUW VENNEP BV",
   "inStock": "inStock",
-  "onPromo": "3029228",
-  "mmkId": "3029228",
-  "productGroupId": "491701",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zenner-rond-midi-haarklem/p/5963606",
@@ -33,5 +33,6 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h81/h15/29309922279454/prd-front-5963606-1_600x600/prd-front-5963606-1-600x600.jpg"
 }

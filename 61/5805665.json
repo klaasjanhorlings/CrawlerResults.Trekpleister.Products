@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "3029219",
-  "mmkId": "3029219",
-  "productGroupId": "469008",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-anti-age-retinol-boost-nachtserum/p/5805665",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hc0/h93/30210307850270/prd-front-5805665-1_600x600/prd-front-5805665-1-600x600.jpg"
+  "description": "30ml"
 }

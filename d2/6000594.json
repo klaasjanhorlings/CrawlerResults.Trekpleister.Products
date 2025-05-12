@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3029228",
-  "mmkId": "3029228",
-  "productGroupId": "491701",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-magic-filter-20-medium-glow-booster/p/6000594",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "14ml"
+  "description": "14ml",
+  "image": "/medias/sys_master/prd-images/hb9/hb2/30115752968222/prd-front-6000594-1_600x600/prd-front-6000594-1-600x600.jpg"
 }

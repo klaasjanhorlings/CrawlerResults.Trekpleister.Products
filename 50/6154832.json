@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3029228",
-  "mmkId": "3029228",
-  "productGroupId": "491701",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-invisible-cover-100n-foundation/p/6154832",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc6/h98/32599904256030/prd-front-6154832-1_600x600/prd-front-6154832-1-600x600.jpg"
 }

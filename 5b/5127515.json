@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 5861 > 5864 > 2440 > 2935 > 3730",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "3029228",
-  "mmkId": "3029228",
-  "productGroupId": "491701",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 16,90",
   "url": "/van-gils-geschenkset/p/5127515",
@@ -33,5 +33,6 @@
       "name": "Geschenkset voor hem"
     }
   ],
-  "description": "3 x 150ml"
+  "description": "3 x 150ml",
+  "image": "/medias/sys_master/prd-images/h01/h1a/29057752891422/prd-front-5127515-1_600x600/prd-front-5127515-1-600x600.jpg"
 }

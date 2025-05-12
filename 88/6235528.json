@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3029220",
-  "mmkId": "3029220",
-  "productGroupId": "472677",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-115-twinkling-rose-le-shadow-stick/p/6235528",
@@ -37,5 +37,6 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h85/h7e/33608079573022/prd-front-6235528-1_600x600/prd-front-6235528-1-600x600.jpg"
 }

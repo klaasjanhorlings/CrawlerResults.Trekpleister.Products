@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029715",
+  "mmkId": "3029715",
+  "productGroupId": "497144",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vision-spf30-zonnebrandlotion/p/1585949",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "180ml"
+  "description": "180ml",
+  "image": "/medias/sys_master/prd-images/hbc/hef/33164372017182/prd-front-1585949-1_600x600/prd-front-1585949-1-600x600.jpg"
 }

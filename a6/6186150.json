@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Honeybalm Honey Lipbalm",
+  "code": "6186150",
+  "price": "4.99",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 2968 > 3770",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/honeybalm-honey-lipbalm/p/6186150",
+  "listName": "Lister",
+  "brand": "HONEYBALM",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267166,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4a/h10/31979192811550/prd-front-6186150-1_600x600/prd-front-6186150-1-600x600.jpg"
+}

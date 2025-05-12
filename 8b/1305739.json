@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3029219",
-  "mmkId": "3029219",
-  "productGroupId": "469008",
+  "onPromo": "3029090",
+  "mmkId": "3029090",
+  "productGroupId": "471225",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-oogmake-upremover/p/1305739",
@@ -37,5 +37,6 @@
       "name": "Oogmake-up remover"
     }
   ],
-  "description": "125ml - Alle huidtypen"
+  "description": "125ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h1c/h04/32902532268062/prd-front-1305739-1_600x600/prd-front-1305739-1-600x600.jpg"
 }

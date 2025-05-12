@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "MEDELA BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,12 +25,12 @@
       "name": "Baby"
     },
     {
-      "id": 30267074,
-      "name": "Zwangerschap en kraamtijd"
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
     },
     {
-      "id": 30267361,
-      "name": "Borstvoedingsaccessoires"
+      "id": 30267358,
+      "name": "Flesvoedingsaccessoires"
     }
   ],
   "description": "",

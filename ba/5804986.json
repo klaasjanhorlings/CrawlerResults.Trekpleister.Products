@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3029228",
-  "mmkId": "3029228",
-  "productGroupId": "491701",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-10-stay-all-day-14h-concealer/p/5804986",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "7ml, 10"
+  "description": "7ml, 10",
+  "image": "/medias/sys_master/prd-images/he1/ha5/30123381358622/prd-front-5804986-1_600x600/prd-front-5804986-1-600x600.jpg"
 }

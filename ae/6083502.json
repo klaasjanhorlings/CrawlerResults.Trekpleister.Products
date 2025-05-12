@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029255",
+  "mmkId": "3029255",
+  "productGroupId": "477777",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-duplo-10431-peppa-big-tuin-en-boomhut/p/6083502",
@@ -33,5 +33,6 @@
       "name": "Bouwen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h89/h04/30859392942110/prd-front-6083502-1_600x600/prd-front-6083502-1-600x600.jpg"
 }

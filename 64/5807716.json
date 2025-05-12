@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "BMEDCARE BV",
   "inStock": "inStock",
-  "onPromo": "3029219",
-  "mmkId": "3029219",
-  "productGroupId": "469008",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dermolin-facewash/p/5807716",
@@ -37,6 +37,5 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-5807716-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjEwMDd8aW1hZ2UvanBlZ3xhRGt6TDJnME5DOHlOalE1TWpneE56QTBOelU0TWk5d2NtUXRabkp2Ym5RdE5UZ3dOemN4TmkweFh6WXdNSGcyTURBfGU0NDAxYjEzNmM4MGY3M2QxNDQzNzcwMDY2ZDIzYjRiYmVjMThmYThhMGE2N2Y2NjZiMDRjMmMzNDZlMThhZmY"
+  "description": "100ml"
 }

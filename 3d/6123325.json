@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3029228",
-  "mmkId": "3029228",
-  "productGroupId": "491701",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-the-super-peptide-01-peptacular-glossy-liptreatment/p/6123325",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h93/haa/31460299702302/prd-front-6123325-1_600x600/prd-front-6123325-1-600x600.jpg"
 }

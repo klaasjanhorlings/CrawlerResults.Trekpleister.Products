@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 4226",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "inStock",
-  "onPromo": "3029219",
-  "mmkId": "3029219",
-  "productGroupId": "469008",
+  "onPromo": "3029127",
+  "mmkId": "3029127",
+  "productGroupId": "475299",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-gezichtslotion/p/1465136",
@@ -37,5 +37,6 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h8c/h15/28653996113950/prd-front-1465136-1_600x600/prd-front-1465136-1-600x600.jpg"
 }

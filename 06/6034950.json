@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "FEMIA COSMETIC",
   "inStock": "inStock",
-  "onPromo": "3029226",
-  "mmkId": "3029226",
-  "productGroupId": "479717",
+  "onPromo": "3029125",
+  "mmkId": "3029125",
+  "productGroupId": "475292",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-q10-oogcreme/p/6034950",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h63/h76/33857556578334/prd-front-6034950-1_600x600/prd-front-6034950-1-600x600.jpg"
 }

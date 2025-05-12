@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6332",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "3029228",
-  "mmkId": "3029228",
-  "productGroupId": "491701",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-voetvijl/p/5534964",
@@ -37,5 +37,6 @@
       "name": "Nagelvijlen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5534964-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTQ5OTJ8aW1hZ2UvanBlZ3xhR1kxTDJnd1ppOHhOekEyT0RneE16TXlNREl5TWk5d2NtUXRabkp2Ym5RdE5UVXpORGsyTkMweFh6WXdNSGcyTURBfDYwNGQ2ZGVlOWRjZDA2Y2RkZjM2YjA5ZGE4ZjYwNTYxNDFhZDNmMDQ4ODk0ZDI4ZGE3ZDA5ZWMyMzJjNjMyMTY"
 }

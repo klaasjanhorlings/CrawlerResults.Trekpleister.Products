@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gestreepte Koeltas",
+  "code": "6201872",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 2244 > 2578 > 3199 > 6414",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "3029714",
+  "mmkId": "3029714",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/gestreepte-koeltas/p/6201872",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267420,
+      "name": "Tassen"
+    }
+  ],
+  "description": "22cm x 24cm x 14cm",
+  "image": "/medias/sys_master/prd-images/h32/hb9/32662036840478/prd-front-6201872-1_600x600/prd-front-6201872-1-600x600.jpg"
+}

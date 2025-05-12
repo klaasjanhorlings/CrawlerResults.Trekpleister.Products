@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "3029219",
-  "mmkId": "3029219",
-  "productGroupId": "469008",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-3-in-1-micellair-water/p/4726625",
@@ -37,6 +37,5 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h6f/h68/32064281247774/prd-front-4726625-1_600x600/prd-front-4726625-1-600x600.jpg"
+  "description": "400ml"
 }
