@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "120ml",
-  "image": "/medias/sys_master/prd-images/hc1/hfa/28889335627806/prd-front-5838558-1_600x600/prd-front-5838558-1-600x600.jpg"
+  "description": "120ml"
 }

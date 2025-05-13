@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA Sun Kids Protect & Hydrate SPF50+ Roll-on",
+  "itemName": "NIVEA Sun Kids Protect & Hydrate SPF50+ Zonnebrand Roll-on",
   "code": "4055493",
   "price": "14.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "497144",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-sun-kids-protect-hydrate-spf50-roll-on/p/4055493",
+  "url": "/nivea-sun-kids-protect-hydrate-spf50-zonnebrand-roll-on/p/4055493",
   "listName": "Lister",
   "brand": "Nivea Sun",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h21/hc4/34208436224030/prd-front-4055493-1_600x600/prd-front-4055493-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hcc/hc9/34215034224670/prd-front-4055493-1_600x600/prd-front-4055493-1-600x600.jpg"
 }

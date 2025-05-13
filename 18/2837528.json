@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
   "supplier": "PAB",
-  "inStock": "inStock",
-  "onPromo": "3029259",
-  "mmkId": "3029259",
-  "productGroupId": "482137",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/badedas-feel-classic-badschuim/p/2837528",
@@ -33,6 +33,5 @@
       "name": "Badschuim"
     }
   ],
-  "description": "1000ml",
-  "image": "/medias/sys_master/prd-images/hbe/h73/33410339831838/prd-front-2837528-1_600x600/prd-front-2837528-1-600x600.jpg"
+  "description": "1000ml"
 }

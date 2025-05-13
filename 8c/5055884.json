@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bambix Complete Care Groeimelk met Koekjes",
+  "code": "5055884",
+  "price": "2.45",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
+  "supplier": "INEX NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bambix-complete-care-groeimelk-met-koekjes/p/5055884",
+  "listName": "Lister",
+  "brand": "Bambix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267326,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267561,
+      "name": "Dreumesmelk"
+    }
+  ],
+  "description": "1000ml",
+  "image": "/medias/sys_master/prd-images/h4d/hf6/29480347435038/prd-front-5055884-1_600x600/prd-front-5055884-1-600x600.jpg"
+}

@@ -6,7 +6,7 @@
   "price": "7.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
-  "supplier": "JOHNSON & JOHNSON CONS",
+  "supplier": "KENVUE",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/hce/h37/34214862520350/prd-front-980911-1_600x600/prd-front-980911-1-600x600.jpg"
 }

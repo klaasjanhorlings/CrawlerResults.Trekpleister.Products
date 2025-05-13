@@ -6,7 +6,7 @@
   "price": "6.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
-  "supplier": "JOHNSON & JOHNSON CONS",
+  "supplier": "KENVUE",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
@@ -29,10 +29,10 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30267233,
-      "name": "Mondwater en mondspray"
+      "id": 64454079,
+      "name": "Beugelverzorging"
     }
   ],
   "description": "500ml",
-  "image": "/medias/sys_master/prd-images/hdc/ha5/34213923618846/prd-front-5482324-1_600x600/prd-front-5482324-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he0/h02/34224216277022/prd-front-5482324-1_600x600/prd-front-5482324-1-600x600.jpg"
 }

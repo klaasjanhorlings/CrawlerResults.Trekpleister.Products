@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Inventum ST306RZA Stofzuiger",
+  "code": "4316026",
+  "price": "59.99",
+  "priceOriginal": "79.99",
+  "itemBgbcat": "5929 > 6019 > 2197 > 4901 > 4947 > 4993",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 20,00",
+  "url": "/inventum-st306rza-stofzuiger/p/4316026",
+  "listName": "Lister",
+  "brand": "Inventum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267103,
+      "name": "Huishoudelijke apparaten"
+    }
+  ],
+  "description": "3L"
+}

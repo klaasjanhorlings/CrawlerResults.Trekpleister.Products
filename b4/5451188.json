@@ -6,7 +6,7 @@
   "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3303 > 3660",
-  "supplier": "JOHNSON & JOHNSON CONS",
+  "supplier": "KENVUE",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
@@ -33,6 +33,5 @@
       "name": "Tampons"
     }
   ],
-  "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/h54/hf3/34080090587166/prd-front-5451188-1_600x600/prd-front-5451188-1-600x600.jpg"
+  "description": "16 stuks"
 }

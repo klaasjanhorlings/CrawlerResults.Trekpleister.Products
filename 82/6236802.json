@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lenor Gouden Orchidee Geurbooster",
+  "code": "6236802",
+  "price": "3.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3028848",
+  "mmkId": "3028848",
+  "productGroupId": "469430",
+  "brandType": "A of B merk",
+  "discount": "€ 4,00",
+  "url": "/lenor-gouden-orchidee-geurbooster/p/6236802",
+  "listName": "Lister",
+  "brand": "Lenor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 49313699,
+      "name": "Wasparfum"
+    }
+  ],
+  "description": "155g",
+  "image": "/medias/sys_master/prd-images/h32/hd2/32782998470686/prd-front-6236802-1_600x600/prd-front-6236802-1-600x600.jpg"
+}

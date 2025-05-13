@@ -6,7 +6,7 @@
   "price": "38.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
-  "supplier": "JOHNSON & JOHNSON CONS",
+  "supplier": "KENVUE",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267159,
-      "name": "Dagcreme"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "",

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029090",
+  "mmkId": "3029090",
+  "productGroupId": "471225",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-for-men-vitality-fresh-douche/p/2361598",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h0e/hda/32395920539678/prd-front-2361598-1_600x600/prd-front-2361598-1-600x600.jpg"
+  "description": "250ml"
 }

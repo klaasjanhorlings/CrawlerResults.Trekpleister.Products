@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "14g",
-  "image": "/medias/prd-front-5591853-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjAwNTd8aW1hZ2UvanBlZ3xhR1V3TDJobVlpOHhOekEzTURNNU9UTTRPVGN5Tmk5d2NtUXRabkp2Ym5RdE5UVTVNVGcxTXkweFh6WXdNSGcyTURBfDhhNDllMjRlYjJlYjExYzZhYWJhNDVkOWY4ZThlODZjMTE2NjQ4YjRjMWEyZGMzMDdiMTYxN2RjMTA1NzBkNmI"
+  "description": "14g"
 }

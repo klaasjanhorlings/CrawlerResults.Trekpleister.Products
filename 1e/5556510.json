@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Hot Wheels Mariokart Thwomp Ruins",
+  "itemName": "Hot Wheels Mariokart Piranha Plant Slide",
   "code": "5556510",
   "price": "9.99",
   "priceOriginal": "29.99",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 20,00",
-  "url": "/hot-wheels-mariokart-thwomp-ruins/p/5556510",
+  "url": "/hot-wheels-mariokart-piranha-plant-slide/p/5556510",
   "listName": "Lister",
   "brand": "Hot Wheels",
   "mpOrigin": "Kruidvat",
@@ -29,5 +29,6 @@
       "name": "Voertuigen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8d/h86/32895218090014/prd-front-5556510-1_600x600/prd-front-5556510-1-600x600.jpg"
 }

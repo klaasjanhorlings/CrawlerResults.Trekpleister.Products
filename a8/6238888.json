@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6457 > 6458",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/ha6/hab/34209067008030/prd-front-6238888-1_600x600/prd-front-6238888-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h87/hd2/34215339786270/prd-front-6238888-1_600x600/prd-front-6238888-1-600x600.jpg"
 }

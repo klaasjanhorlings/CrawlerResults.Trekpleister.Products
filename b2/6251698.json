@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Damespyjamabroek met Tijgerprint",
+  "code": "6251698",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6716 > 5795 > 2495 > 3061 > 3791",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/damespyjamabroek-met-tijgerprint/p/6251698",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267090,
+      "name": "Dames"
+    },
+    {
+      "id": 30267400,
+      "name": "Damespyjama's"
+    }
+  ],
+  "description": "mt L",
+  "image": "/medias/sys_master/prd-images/h45/h38/33920268107806/prd-front-6251698-1_600x600/prd-front-6251698-1-600x600.jpg"
+}

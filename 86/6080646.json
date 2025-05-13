@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Sport, -blessures en herstel"
     }
   ],
-  "description": "Medisch hulpmiddel - 118ml",
-  "image": "/medias/sys_master/prd-images/hfd/h05/30937835044894/prd-front-6080646-1_600x600/prd-front-6080646-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 118ml"
 }
