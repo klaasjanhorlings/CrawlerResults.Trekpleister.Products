@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "Deodorant"
     },
     {
-      "id": 30267199,
-      "name": "Deodorant creme"
+      "id": 30267203,
+      "name": "Overmatig transpireren"
     }
   ],
   "description": "50ml",

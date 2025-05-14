@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267273,
-      "name": "Zwangerschapssupplementen"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
   "description": "120 stuks",

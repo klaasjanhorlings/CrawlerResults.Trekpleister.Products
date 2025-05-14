@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. Scholl's Geurblokker Inlegzolen",
+  "code": "6255912",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6449 > 3567",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dr-scholls-geurblokker-inlegzolen/p/6255912",
+  "listName": "Lister",
+  "brand": "Dr. Scholl's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 49316840,
+      "name": "Inlegzolen"
+    }
+  ],
+  "description": "one size, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h63/h37/34236205563934/prd-front-6255912-1_600x600/prd-front-6255912-1-600x600.jpg"
+}

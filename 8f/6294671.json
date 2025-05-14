@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corega Power Max Max Hold + Block Kleefcrème",
+  "code": "6294671",
+  "price": "11.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 3270 > 4171",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corega-power-max-max-hold-block-kleefcreme/p/6294671",
+  "listName": "Lister",
+  "brand": "Corega",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267230,
+      "name": "Kleefpasta"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 70g",
+  "image": "/medias/sys_master/prd-images/hde/h9b/34236207530014/prd-front-6294671-1_600x600/prd-front-6294671-1-600x600.jpg"
+}

@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -29,12 +29,8 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30267257,
-      "name": "Oor, oog en mond"
-    },
-    {
-      "id": 30267505,
-      "name": "Oorspray"
+      "id": 30267269,
+      "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
   "description": "20ml",

@@ -29,10 +29,13 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267274,
-      "name": "Weerstand en of energie"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267549,
+      "name": "Vitamine C"
     }
   ],
-  "description": "40 stuks",
-  "image": "/medias/sys_master/prd-images/h75/h39/33155543924766/prd-front-3549498-1_600x600/prd-front-3549498-1-600x600.jpg"
+  "description": "40 stuks"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aquafresh Coolmint Tandpasta",
+  "code": "6287706",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aquafresh-coolmint-tandpasta/p/6287706",
+  "listName": "Lister",
+  "brand": "Aquafresh",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "5 x 75ml",
+  "image": "/medias/sys_master/prd-images/hda/hcc/33771718737950/prd-front-6287706-1_600x600/prd-front-6287706-1-600x600.jpg"
+}
