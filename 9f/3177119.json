@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029152",
+  "mmkId": "3029152",
+  "productGroupId": "476397",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/valdispert-stress-moments-sterk-tabletten/p/3177119",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/hc0/h8b/33705068003358/prd-front-3177119-1_600x600/prd-front-3177119-1-600x600.jpg"
+  "description": "20 stuks"
 }

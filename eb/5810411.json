@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 5149 > 5196 > 5385",
   "supplier": "MARBAMI NETTO",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Buggy's"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/h67/h5c/28573857153054/prd-front-5810411-1_600x600/prd-front-5810411-1-600x600.jpg"
+  "description": "zwart"
 }
