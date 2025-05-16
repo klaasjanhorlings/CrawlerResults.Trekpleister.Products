@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Zandvijlen",
+  "code": "5964362",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6328",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-zandvijlen/p/5964362",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267191,
+      "name": "Nagelvijlen"
+    }
+  ],
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/h12/hd3/32460821856286/prd-front-5964362-1_600x600/prd-front-5964362-1-600x600.jpg"
+}

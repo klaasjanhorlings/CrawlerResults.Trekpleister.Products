@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3029106",
-  "mmkId": "3029106",
-  "productGroupId": "472314",
+  "onPromo": "3029270",
+  "mmkId": "3029270",
+  "productGroupId": "480853",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-calcium-d3-800ie-kauwtabletten/p/5847007",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267286,
-      "name": "Botten en gewrichten"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
   "description": "90 stuks",

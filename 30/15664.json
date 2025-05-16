@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Scholl Eelt Verwijderpleisters",
+  "code": "15664",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/scholl-eelt-verwijderpleisters/p/15664",
+  "listName": "Lister",
+  "brand": "Dr. Scholl's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48237442,
+      "name": "Eeltverwijderaars"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 4 stuks",
+  "image": "/medias/sys_master/prd-images/hed/hcf/34246552191006/prd-front-15664-1_600x600/prd-front-15664-1-600x600.jpg"
+}

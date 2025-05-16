@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tommy Hilfiger Tommy Boy Geschenkset",
+  "code": "6297590",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 6705 > 6706 > 4114",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tommy-hilfiger-tommy-boy-geschenkset/p/6297590",
+  "listName": "Lister",
+  "brand": "Tommy Hilfiger",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666312,
+      "name": "Geschenkset voor hem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbb/h24/33809500012574/prd-front-6297590-1_600x600/prd-front-6297590-1-600x600.jpg"
+}

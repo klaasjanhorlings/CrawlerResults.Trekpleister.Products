@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Atelier Privee Mistical Dreamy Tonka Eau de Parfum",
+  "code": "6232980",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "MORE LABELS GROUP BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/atelier-privee-mistical-dreamy-tonka-eau-de-parfum/p/6232980",
+  "listName": "Lister",
+  "brand": "ATELIER Privee",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h28/had/33857142259742/prd-front-6232980-1_600x600/prd-front-6232980-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Atelier Privee Mistical Vanilla Chique Eau de Parfum",
+  "code": "6233981",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "MORE LABELS GROUP BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/atelier-privee-mistical-vanilla-chique-eau-de-parfum/p/6233981",
+  "listName": "Lister",
+  "brand": "ATELIER Privee",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h3e/hee/33858859401246/prd-front-6233981-1_600x600/prd-front-6233981-1-600x600.jpg"
+}

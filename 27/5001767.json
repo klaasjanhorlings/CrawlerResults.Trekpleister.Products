@@ -26,12 +26,13 @@
     },
     {
       "id": 30267060,
-      "name": "Gewichtsbeheersing"
+      "name": "Verantwoorde voeding"
     },
     {
       "id": 30267300,
       "name": "Maaltijdvervangers"
     }
   ],
-  "description": "434g"
+  "description": "434g",
+  "image": "/medias/sys_master/prd-images/hec/h49/31620081156126/prd-front-5001767-1_600x600/prd-front-5001767-1-600x600.jpg"
 }

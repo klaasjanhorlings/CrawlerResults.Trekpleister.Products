@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Scholl Hielkloven Balsem Stick",
+  "code": "6034866",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6459 > 6460",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/scholl-hielkloven-balsem-stick/p/6034866",
+  "listName": "Lister",
+  "brand": "Dr. Scholl's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 49316313,
+      "name": "Voetkloven"
+    }
+  ],
+  "description": "70g",
+  "image": "/medias/sys_master/prd-images/h84/h51/34251771019294/prd-front-6034866-1_600x600/prd-front-6034866-1-600x600.jpg"
+}

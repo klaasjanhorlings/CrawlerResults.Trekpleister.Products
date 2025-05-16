@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "So…? Mykonos Nights Bodymist",
+  "code": "5152778",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/so-mykonos-nights-bodymist/p/5152778",
+  "listName": "Lister",
+  "brand": "So",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-5152778-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDkzNzR8aW1hZ2UvanBlZ3xhRFEyTDJnNU1pOHhOelF6TVRnNU1ESTVOamcyTWk5d2NtUXRabkp2Ym5RdE5URTFNamMzT0MweFh6WXdNSGcyTURBfDI4YzVjNTNjODYzNjljNjg1M2YxYWViMDVhN2Q5ODUwNzUwNGIyNTRhYzcxNzMyNWEyNTViNDQ4M2Y3NDBhNGQ"
+}

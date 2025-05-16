@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tom Tailor For Her Eau de Toilette",
+  "code": "6302308",
+  "price": "16.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "MAURER&WIRTZ GMBH&CO KG",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tom-tailor-for-her-eau-de-toilette/p/6302308",
+  "listName": "Lister",
+  "brand": "Tom Tailor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h26/he4/33960325185566/prd-front-6302308-1_600x600/prd-front-6302308-1-600x600.jpg"
+}

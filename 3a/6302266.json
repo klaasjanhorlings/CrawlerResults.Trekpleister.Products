@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pepe Jeans London Cocktail Edition For Her Eau de Toilette",
+  "code": "6302266",
+  "price": "19.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pepe-jeans-london-cocktail-edition-for-her-eau-de-toilette/p/6302266",
+  "listName": "Lister",
+  "brand": "Pepe Jeans",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h91/h36/33963085037598/prd-front-6302266-1_600x600/prd-front-6302266-1-600x600.jpg"
+}

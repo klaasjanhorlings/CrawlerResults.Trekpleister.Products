@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Scholl Active Repair K+ Herstellende Hielkloven Crème",
+  "code": "1583429",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6459 > 6460",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/scholl-active-repair-k-herstellende-hielkloven-creme/p/1583429",
+  "listName": "Lister",
+  "brand": "Dr. Scholl's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48238489,
+      "name": "Voetcrème"
+    }
+  ],
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/ha1/h74/34246736216094/prd-front-1583429-1_600x600/prd-front-1583429-1-600x600.jpg"
+}

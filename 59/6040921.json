@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Glamour Effect Peel-Off Masker",
+  "code": "6040921",
+  "price": "1.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "MARION PRIVATE LABEL",
+  "inStock": "inStock",
+  "onPromo": "3029126",
+  "mmkId": "3029126",
+  "productGroupId": "475297",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-glamour-effect-peel-off-masker/p/6040921",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h10/hf6/30150894944286/prd-front-6040921-1_600x600/prd-front-6040921-1-600x600.jpg"
+}

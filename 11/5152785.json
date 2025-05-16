@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "So…? Bali Breeze Bodymist",
+  "code": "5152785",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/so-bali-breeze-bodymist/p/5152785",
+  "listName": "Lister",
+  "brand": "So",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-5152785-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDczNDh8aW1hZ2UvanBlZ3xhRFpoTDJnM1pTOHhOelF6TlRVMk16QXpNall3Tmk5d2NtUXRabkp2Ym5RdE5URTFNamM0TlMweFh6WXdNSGcyTURBfDA0YzU5ZWVlYWYzNDEyMGQ4ZGRlZTk4N2U0MTEzNTJmYzgwYmRhZmNlYTg5ZGIyNWQwNTVhZjhjMmJkNWVjZTE"
+}
