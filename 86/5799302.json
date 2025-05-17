@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Elvive Hyaluronic Hydratatie Masker",
-  "code": "5605230",
-  "price": "9.99",
+  "itemName": "Garnier Loving Blends Avocado-Olie & Sheaboter Haarmasker",
+  "code": "5799302",
+  "price": "8.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3029110",
-  "mmkId": "3029110",
-  "productGroupId": "472916",
+  "onPromo": "3029092",
+  "mmkId": "3029092",
+  "productGroupId": "471456",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-elvive-hyaluronic-hydratatie-masker/p/5605230",
+  "url": "/garnier-loving-blends-avocado-olie-sheaboter-haarmasker/p/5799302",
   "listName": "Lister",
-  "brand": "Elvive",
+  "brand": "Loving Blends",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "340ml",
+  "image": "/medias/sys_master/prd-images/h10/h96/32929461665822/prd-front-5799302-1_600x600/prd-front-5799302-1-600x600.jpg"
 }

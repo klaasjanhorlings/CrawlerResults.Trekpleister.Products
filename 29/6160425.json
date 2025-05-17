@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029270",
+  "mmkId": "3029270",
+  "productGroupId": "480853",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-vrouw-hormoonhuishouding-tabletten/p/6160425",
@@ -33,6 +33,5 @@
       "name": "Overgang"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/hc5/h67/31696853565470/prd-front-6160425-1_600x600/prd-front-6160425-1-600x600.jpg"
+  "description": "60 stuks"
 }
