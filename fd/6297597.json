@@ -11,11 +11,11 @@
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "Eigen merk",
+  "brandType": "A of B merk",
   "discount": "",
   "url": "/pepe-jeans-london-cocktail-for-him-geschenkset/p/6297597",
   "listName": "Lister",
-  "brand": "Geschenkset",
+  "brand": "Pepe Jeans",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -25,13 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30267040,
-      "name": "Geschenksets"
+      "id": 30267039,
+      "name": "Parfum"
     },
     {
-      "id": 72666312,
-      "name": "Geschenkset voor hem"
+      "id": 72655099,
+      "name": "Parfum geschenkset voor hem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h15/h30/33807848931358/prd-front-6297597-1_600x600/prd-front-6297597-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Reactine 10mg Filmomhulde Hooikoorts Tabletten",
+  "code": "877171",
+  "price": "14.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 3472",
+  "supplier": "KENVUE",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/reactine-10mg-filmomhulde-hooikoorts-tabletten/p/877171",
+  "listName": "Lister",
+  "brand": "Reactine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267258,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30267510,
+      "name": "Hooikoortstabletten"
+    }
+  ],
+  "description": "Geneesmiddel - 21 stuks",
+  "image": "/medias/sys_master/prd-images/h68/h74/28549978390558/prd-front-877171-1_600x600/prd-front-877171-1-600x600.jpg"
+}

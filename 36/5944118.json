@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "3029270",
-  "mmkId": "3029270",
-  "productGroupId": "480853",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-k2-75-mcg-d3-20-mcg-capsules/p/5944118",
@@ -33,8 +33,8 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267550,
-      "name": "Vitamine D"
+      "id": 30267551,
+      "name": "Vitamine K"
     }
   ],
   "description": "60 stuks",

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Ob Menstruatieondergoed Maat M/L",
+  "itemName": "o.b. Menstruatieondergoed",
   "code": "6046213",
   "price": "24.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/ob-menstruatieondergoed-maat-m/l/p/6046213",
+  "url": "/ob-menstruatieondergoed/p/6046213",
   "listName": "Lister",
   "brand": "Ob",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Menstruatieondergoed"
     }
   ],
-  "description": "",
+  "description": "mt M-L",
   "image": "/medias/sys_master/prd-images/hae/hab/33397807743006/prd-front-6046213-1_600x600/prd-front-6046213-1-600x600.jpg"
 }

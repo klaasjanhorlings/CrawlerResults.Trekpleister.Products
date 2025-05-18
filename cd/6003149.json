@@ -4,7 +4,7 @@
   "itemName": "LEGO Friends 42606 Bakkersfoodtruck",
   "code": "6003149",
   "price": "8.99",
-  "priceOriginal": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "outOfStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,00",
+  "discount": "",
   "url": "/lego-friends-42606-bakkersfoodtruck/p/6003149",
   "listName": "Lister",
   "brand": "LEGO Friends",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69045709,
-      "name": "LEGO Verjaardagscadeaus"
+      "id": 30267371,
+      "name": "LEGO Friends"
     }
   ],
   "description": "",

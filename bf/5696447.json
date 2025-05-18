@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bruno Banani Woman Eau De Toilette",
+  "code": "5696447",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bruno-banani-woman-eau-de-toilette/p/5696447",
+  "listName": "Lister",
+  "brand": "Bruno Banani",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-5696447-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzk1NTZ8aW1hZ2UvanBlZ3xhR05pTDJneU9TOHhOekE0TlRZeE1qVTFOak14T0M5d2NtUXRabkp2Ym5RdE5UWTVOalEwTnkweFh6WXdNSGcyTURBfDg4ODhjNmM0MDQ4YTZlMjI5YmE3NGMyNjEyNGQ0MTk0MzZjMDllOWIxNGZiNGIyYTBhNTQxMGNjNTE3NmYyYTI"
+}
