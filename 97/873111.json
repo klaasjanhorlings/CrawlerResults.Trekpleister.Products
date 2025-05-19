@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3600",
   "supplier": "NUTRITION&SANTE BENELX",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3029415",
+  "mmkId": "3029415",
+  "productGroupId": "478264",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/modifast-chocolade-maaltijddrink/p/873111",
@@ -33,5 +33,6 @@
       "name": "Maaltijdrepen, drinkmaaltijden"
     }
   ],
-  "description": "236ml"
+  "description": "236ml",
+  "image": "/medias/sys_master/prd-images/h50/he1/28547324772382/prd-front-873111-1_600x600/prd-front-873111-1-600x600.jpg"
 }

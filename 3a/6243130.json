@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3029715",
-  "mmkId": "3029715",
-  "productGroupId": "497144",
+  "onPromo": "3029371",
+  "mmkId": "3029371",
+  "productGroupId": "475729",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-ambre-solaire-over-make-up-super-uv-spf50-mist/p/6243130",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h3f/hed/33200103030814/prd-front-6243130-1_600x600/prd-front-6243130-1-600x600.jpg"
 }

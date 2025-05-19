@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029289",
+  "mmkId": "3029289",
+  "productGroupId": "455337",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-marine-fresh-deodorant-spray/p/3941295",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h08/hab/28576340705310/prd-front-3941295-1_600x600/prd-front-3941295-1-600x600.jpg"
+  "description": "150ml"
 }

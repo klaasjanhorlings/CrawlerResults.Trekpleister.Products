@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3029082",
-  "mmkId": "3029082",
-  "productGroupId": "470234",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davitamon-compleet-weerstand-bosvruchten-kauwtabletten/p/1402507",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h83/h28/31462454788126/prd-front-1402507-1_600x600/prd-front-1402507-1-600x600.jpg"
 }

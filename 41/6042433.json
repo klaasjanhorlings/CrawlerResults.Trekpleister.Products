@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029383",
+  "mmkId": "3029383",
+  "productGroupId": "476429",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sebamed-extreme-dry-skin-relief-face-cream/p/6042433",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h5f/hda/30567388971038/prd-front-6042433-1_600x600/prd-front-6042433-1-600x600.jpg"
 }

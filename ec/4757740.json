@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3029064",
-  "mmkId": "3029064",
-  "productGroupId": "452800",
+  "onPromo": "3029304",
+  "mmkId": "3029304",
+  "productGroupId": "463621",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-sensitive-24h-antitranspirant-roller/p/4757740",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/hbe/h07/29338333904926/prd-front-4757740-1_600x600/prd-front-4757740-1-600x600.jpg"
 }

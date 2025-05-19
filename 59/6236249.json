@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3029079",
-  "mmkId": "3029079",
-  "productGroupId": "469476",
+  "onPromo": "3029317",
+  "mmkId": "3029317",
+  "productGroupId": "469483",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-hold-3-flexible-haarspray/p/6236249",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h39/hb5/34276184096798/prd-front-6236249-1_600x600/prd-front-6236249-1-600x600.jpg"
 }

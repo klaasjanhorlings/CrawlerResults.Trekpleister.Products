@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medisana LC 860 Elektrische Luizenkam",
+  "code": "6215571",
+  "price": "23.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 6475 > 6476 > 6477 > 6479",
+  "supplier": "MEDISANA BENELUX NV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medisana-lc-860-elektrische-luizenkam/p/6215571",
+  "listName": "Lister",
+  "brand": "Medisana",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267260,
+      "name": "Hoofdluis"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hab/he4/34249497477150/prd-front-6215571-1_600x600/prd-front-6215571-1-600x600.jpg"
+}

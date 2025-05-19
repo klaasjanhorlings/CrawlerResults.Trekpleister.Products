@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3029255",
-  "mmkId": "3029255",
-  "productGroupId": "477777",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-minecraft-21267-de-illagers-in-de-woestijn/p/6226883",
@@ -33,6 +33,5 @@
       "name": "LEGO Minecraft"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7f/h68/33144350933022/prd-front-6226883-1_600x600/prd-front-6226883-1-600x600.jpg"
+  "description": ""
 }

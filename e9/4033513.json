@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029305",
+  "mmkId": "3029305",
+  "productGroupId": "463770",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-100-natural-geurloze-deodorant-spray/p/4033513",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h60/ha4/33894506758174/prd-front-4033513-1_600x600/prd-front-4033513-1-600x600.jpg"
+  "description": "100ml"
 }

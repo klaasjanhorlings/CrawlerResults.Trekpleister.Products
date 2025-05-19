@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029394",
+  "mmkId": "3029394",
+  "productGroupId": "476929",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ecosym-tandpasta-voor-gebitsprothesen/p/3530647",
@@ -33,6 +33,5 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": "75ml - Kunstgebit",
-  "image": "/medias/prd-front-3530647-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjAwNzN8aW1hZ2UvanBlZ3xhR1V3TDJoaFppOHhOak14TXpVek56STVPRFEyTWk5d2NtUXRabkp2Ym5RdE16VXpNRFkwTnkweFh6WXdNSGcyTURBfDEyYjdjZmFmZjlmMzc5ZThkYjY1NmU0NjIyZTI4NmY0Nzc5ODc2MzIyNWJmYzE5N2MzMGE3YTU1YWY1MzAyOTM"
+  "description": "75ml - Kunstgebit"
 }

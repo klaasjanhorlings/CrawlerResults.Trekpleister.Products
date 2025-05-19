@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3029090",
-  "mmkId": "3029090",
-  "productGroupId": "471225",
+  "onPromo": "3029294",
+  "mmkId": "3029294",
+  "productGroupId": "459899",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-creme-soft-cream-douchegel/p/4511655",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "500ml - Normale huid"
+  "description": "500ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hff/h36/32823867867166/prd-front-4511655-1_600x600/prd-front-4511655-1-600x600.jpg"
 }

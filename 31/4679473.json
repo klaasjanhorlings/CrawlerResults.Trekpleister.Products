@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029069",
-  "mmkId": "3029069",
-  "productGroupId": "464070",
+  "onPromo": "3029300",
+  "mmkId": "3029300",
+  "productGroupId": "462801",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-ice-chill-3-in-1-douchegel/p/4679473",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h17/h78/33389176619038/prd-front-4679473-1_600x600/prd-front-4679473-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "FEMIA COSMETIC",
   "inStock": "inStock",
-  "onPromo": "3029126",
-  "mmkId": "3029126",
-  "productGroupId": "475297",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamin-c-stralende-gloed-sheetmasker/p/6032906",
@@ -33,5 +33,6 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/haa/30149077434398/prd-front-6032906-1_600x600/prd-front-6032906-1-600x600.jpg"
 }

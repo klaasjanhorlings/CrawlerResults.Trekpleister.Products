@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3029255",
-  "mmkId": "3029255",
-  "productGroupId": "477777",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-speed-champions-76920-ford-mustang-dark-horse-sportwagen/p/6022770",
@@ -33,6 +33,5 @@
       "name": "LEGO Speed Champions"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7c/hba/30041628114974/prd-front-6022770-1_600x600/prd-front-6022770-1-600x600.jpg"
+  "description": ""
 }

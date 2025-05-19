@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3029079",
-  "mmkId": "3029079",
-  "productGroupId": "469476",
+  "onPromo": "3029319",
+  "mmkId": "3029319",
+  "productGroupId": "469486",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-junior-extra-strong-3-haarspray/p/6010919",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h95/hcd/29579359846430/prd-front-6010919-1_600x600/prd-front-6010919-1-600x600.jpg"
 }

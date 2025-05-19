@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "FEMIA COSMETIC",
   "inStock": "inStock",
-  "onPromo": "3029126",
-  "mmkId": "3029126",
-  "productGroupId": "475297",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-hyaluron-intense-hydratatie-sheetmasker/p/6034964",
@@ -33,6 +33,5 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc5/hbf/30149686919198/prd-front-6034964-1_600x600/prd-front-6034964-1-600x600.jpg"
+  "description": ""
 }

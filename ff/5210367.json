@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6605",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3029152",
-  "mmkId": "3029152",
-  "productGroupId": "476397",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/shiepz-melatonine-time-release-0-1mg-tabletten/p/5210367",
@@ -33,5 +33,6 @@
       "name": "Melatonine"
     }
   ],
-  "description": "500 stuks"
+  "description": "500 stuks",
+  "image": "/medias/sys_master/prd-images/hb7/h78/32639930335262/prd-front-5210367-1_600x600/prd-front-5210367-1-600x600.jpg"
 }

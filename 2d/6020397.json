@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3029163",
-  "mmkId": "3029163",
-  "productGroupId": "476900",
+  "onPromo": "3029399",
+  "mmkId": "3029399",
+  "productGroupId": "477124",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/colgate-max-white-purple-reveal-tandpasta/p/6020397",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Whitening",
-  "image": "/medias/sys_master/prd-images/h07/h0a/33860262625310/prd-front-6020397-1_600x600/prd-front-6020397-1-600x600.jpg"
+  "description": "75ml - Whitening"
 }

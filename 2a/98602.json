@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3029090",
-  "mmkId": "3029090",
-  "productGroupId": "471225",
+  "onPromo": "3029294",
+  "mmkId": "3029294",
+  "productGroupId": "459899",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-soft-hydraterende-creme/p/98602",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h5d/hd4/32903352025118/prd-front-98602-1_600x600/prd-front-98602-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Scholl Velvet Smooth Elektrische Voetvijl",
+  "code": "3024778",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/scholl-velvet-smooth-elektrische-voetvijl/p/3024778",
+  "listName": "Lister",
+  "brand": "Dr. Scholl's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48237442,
+      "name": "Eeltverwijderaars"
+    }
+  ],
+  "description": "blauw",
+  "image": "/medias/sys_master/prd-images/h1c/h40/34281858138142/prd-front-3024778-1_600x600/prd-front-3024778-1-600x600.jpg"
+}

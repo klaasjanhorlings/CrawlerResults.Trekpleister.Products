@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029376",
+  "mmkId": "3029376",
+  "productGroupId": "475950",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-55r/c-true-match-foundation/p/5752797",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h43/h32/33512319877150/prd-front-5752797-1_600x600/prd-front-5752797-1-600x600.jpg"
+  "description": "30ml"
 }

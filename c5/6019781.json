@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3029138",
-  "mmkId": "3029138",
-  "productGroupId": "475843",
+  "onPromo": "3029373",
+  "mmkId": "3029373",
+  "productGroupId": "475850",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-bright-reveal-gezichtsreiniger/p/6019781",
@@ -37,5 +37,6 @@
       "name": "Reinigingsmousse"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h72/h6d/31545464750110/prd-front-6019781-1_600x600/prd-front-6019781-1-600x600.jpg"
 }

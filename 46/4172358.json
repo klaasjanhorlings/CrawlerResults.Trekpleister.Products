@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3029139",
-  "mmkId": "3029139",
-  "productGroupId": "475932",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-instant-anti-age-eraser-02-nude-concealer/p/4172358",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "6,8ml"
+  "description": "6,8ml",
+  "image": "/medias/sys_master/prd-images/h5b/h2e/32437349810206/prd-front-4172358-1_600x600/prd-front-4172358-1-600x600.jpg"
 }

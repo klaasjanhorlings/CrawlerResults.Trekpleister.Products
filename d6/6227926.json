@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3785",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029305",
+  "mmkId": "3029305",
+  "productGroupId": "463770",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-bergamot-cedarwood-deodorant-roller/p/6227926",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hb7/he3/33895194755102/prd-front-6227926-1_600x600/prd-front-6227926-1-600x600.jpg"
 }

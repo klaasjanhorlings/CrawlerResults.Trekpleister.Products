@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029376",
+  "mmkId": "3029376",
+  "productGroupId": "475950",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-nude-3-4-light-medium-plumping-tinted-serum/p/5485509",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hd5/h4a/31688181252126/prd-front-5485509-1_600x600/prd-front-5485509-1-600x600.jpg"
+  "description": "30ml"
 }

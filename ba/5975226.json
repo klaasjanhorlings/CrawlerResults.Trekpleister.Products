@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029069",
-  "mmkId": "3029069",
-  "productGroupId": "464070",
+  "onPromo": "3029300",
+  "mmkId": "3029300",
+  "productGroupId": "462801",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-go-fresh-passionfruit-lemon-antitranspirant-deodorant-roller/p/5975226",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h05/hac/33197352189982/prd-front-5975226-1_600x600/prd-front-5975226-1-600x600.jpg"
 }

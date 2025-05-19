@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3029068",
-  "mmkId": "3029068",
-  "productGroupId": "463442",
+  "onPromo": "3029303",
+  "mmkId": "3029303",
+  "productGroupId": "463438",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-magic-oil-pink-jasmine-douchegel/p/3311554",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h68/ha1/28548260069406/prd-front-3311554-1_600x600/prd-front-3311554-1-600x600.jpg"
 }

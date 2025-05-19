@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Red Bull Light 4-Pak",
+  "code": "5860895",
+  "price": "4.99",
+  "priceOriginal": "5.96",
+  "itemBgbcat": "2004 > 2047 > 2171 > 2344 > 3286 > 4187",
+  "supplier": "RED BULL NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 0,97",
+  "url": "/red-bull-light-4-pak/p/5860895",
+  "listName": "Lister",
+  "brand": "Red Bull",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267442,
+      "name": "Koude dranken"
+    }
+  ],
+  "description": "4 x 250ml",
+  "image": "/medias/sys_master/prd-images/h43/hb4/28569747324958/prd-front-5860895-1_600x600/prd-front-5860895-1-600x600.jpg"
+}

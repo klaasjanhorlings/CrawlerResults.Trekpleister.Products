@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Edet Easypull Original Navulling",
+  "code": "6061347",
+  "price": "2.99",
+  "priceOriginal": "4.79",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 2973 > 3777",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3029321",
+  "mmkId": "3029321",
+  "productGroupId": "469657",
+  "brandType": "A of B merk",
+  "discount": "€ 1,80",
+  "url": "/edet-easypull-original-navulling/p/6061347",
+  "listName": "Lister",
+  "brand": "Edet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267120,
+      "name": "Keukenpapier"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h25/h03/30331685830686/prd-front-6061347-1_600x600/prd-front-6061347-1-600x600.jpg"
+}

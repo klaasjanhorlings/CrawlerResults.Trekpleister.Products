@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029342",
+  "mmkId": "3029342",
+  "productGroupId": "472925",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-bond-restore-conditioner/p/6022294",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h41/h59/29794923184158/prd-front-6022294-1_600x600/prd-front-6022294-1-600x600.jpg"
+  "description": "200ml"
 }

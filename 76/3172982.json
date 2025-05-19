@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3858",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3029161",
-  "mmkId": "3029161",
-  "productGroupId": "476896",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aquafresh-flex-interdental-medium-tandenborstels/p/3172982",
@@ -33,6 +33,5 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "3 stuks",
-  "image": "/medias/prd-front-3172982-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mjc2MTV8aW1hZ2UvanBlZ3xhR1kwTDJobE9DOHhOakk1T1RZME1UVXdNemMzTkM5d2NtUXRabkp2Ym5RdE16RTNNams0TWkweFh6WXdNSGcyTURBfGE4NDdkODRjZWJiZTMwOGIwMmZjYjU5NGI1ZmNiMThmY2IyMDg3OGMwM2Q5ZWRhZmMzMWI1ZDBjMjAzZjhjZDI"
+  "description": "3 stuks"
 }

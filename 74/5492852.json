@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029344",
+  "mmkId": "3029344",
+  "productGroupId": "473854",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/waterwipes-snoetendoekjes/p/5492852",
@@ -33,5 +33,6 @@
       "name": "Snoetenpoetsers"
     }
   ],
-  "description": "9 x 60 stuks"
+  "description": "9 x 60 stuks",
+  "image": "/medias/sys_master/prd-images/h09/heb/34101992980510/prd-front-5492852-1_600x600/prd-front-5492852-1-600x600.jpg"
 }

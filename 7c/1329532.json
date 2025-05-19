@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3395",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029300",
+  "mmkId": "3029300",
+  "productGroupId": "462801",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-dark-temptation-aftershave/p/1329532",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
+      "id": 30267039,
+      "name": "Parfum"
     },
     {
-      "id": 30267169,
-      "name": "Aftershave"
+      "id": 72654889,
+      "name": "Herenparfum"
     }
   ],
   "description": "100ml",

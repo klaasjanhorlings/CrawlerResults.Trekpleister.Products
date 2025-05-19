@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3029139",
-  "mmkId": "3029139",
-  "productGroupId": "475932",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-matte-ink-180-revolutionary-lipstick/p/5058936",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "26g"
+  "description": "26g",
+  "image": "/medias/sys_master/prd-images/h45/h8b/29038343061534/prd-front-5058936-1_600x600/prd-front-5058936-1-600x600.jpg"
 }

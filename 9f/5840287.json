@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3029068",
-  "mmkId": "3029068",
-  "productGroupId": "463442",
+  "onPromo": "3029303",
+  "mmkId": "3029303",
+  "productGroupId": "463438",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-empowering-moments-orange-peel-basil-deodorant/p/5840287",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hb9/h7f/28572362899486/prd-front-5840287-1_600x600/prd-front-5840287-1-600x600.jpg"
 }

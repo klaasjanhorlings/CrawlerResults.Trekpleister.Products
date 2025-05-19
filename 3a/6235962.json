@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029376",
+  "mmkId": "3029376",
+  "productGroupId": "475950",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-lumi-le-liquid-625-gold-pink-blush/p/6235962",
@@ -33,6 +33,5 @@
       "name": "Blush"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hff/ha4/33480008761374/prd-front-6235962-1_600x600/prd-front-6235962-1-600x600.jpg"
+  "description": ""
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3029092",
-  "mmkId": "3029092",
-  "productGroupId": "471456",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-olia-55-mahonie-lichtbruin-permanente-haarkleuring/p/6265677",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h22/h5e/33360450879518/prd-front-6265677-1_600x600/prd-front-6265677-1-600x600.jpg"
 }

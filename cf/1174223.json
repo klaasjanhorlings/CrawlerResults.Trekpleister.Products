@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
-  "onPromo": "3029127",
-  "mmkId": "3029127",
-  "productGroupId": "475299",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-olie-oogmake-up-remover-pads/p/1174223",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100 stuks",
-  "image": "/medias/sys_master/prd-images/h7d/had/34274401845278/prd-front-1174223-1_600x600/prd-front-1174223-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

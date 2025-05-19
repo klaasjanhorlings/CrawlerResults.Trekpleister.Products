@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029406",
+  "mmkId": "3029406",
+  "productGroupId": "477190",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/listerine-clean-fresh-mondwater/p/5482324",
@@ -33,5 +33,6 @@
       "name": "Beugelverzorging"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/he0/h02/34224216277022/prd-front-5482324-1_600x600/prd-front-5482324-1-600x600.jpg"
 }

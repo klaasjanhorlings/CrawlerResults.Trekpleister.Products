@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2891 > 3666",
   "supplier": "ZURU NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029412",
+  "mmkId": "3029412",
+  "productGroupId": "477681",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/rascal-friends-maat-2-premium-luiers/p/6138809",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 6"
     }
   ],
-  "description": "mt 2 (4-8kg), 40 stuks",
-  "image": "/medias/sys_master/prd-images/hb9/hf4/33989203492894/prd-front-6138809-1_600x600/prd-front-6138809-1-600x600.jpg"
+  "description": "mt 2 (4-8kg), 40 stuks"
 }

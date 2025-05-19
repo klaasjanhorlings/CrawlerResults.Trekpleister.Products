@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3029267",
-  "mmkId": "3029267",
-  "productGroupId": "467113",
+  "onPromo": "3029424",
+  "mmkId": "3029424",
+  "productGroupId": "478651",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-wasbare-zoogkompressen/p/3497698",
@@ -33,5 +33,6 @@
       "name": "Zoogkompressen"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/prd-front-3497698-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjgzNTl8aW1hZ2UvanBlZ3xhRFExTDJoaU15OHhOelF4TURBMU1qWXlNRE14T0M5d2NtUXRabkp2Ym5RdE16UTVOelk1T0MweFh6WXdNSGcyTURBfGIyM2IxMjAxNmZmYzlhYTA3N2M4N2ZjOTc4Y2EwZTRjMmM2MTMwYWY2YmZhZmMzNjdlMmRkNjYyZTE3NDU4YjA"
 }

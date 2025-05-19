@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6697 > 2835",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3029111",
-  "mmkId": "3029111",
-  "productGroupId": "472933",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/john-frieda-profiller-haarspray/p/5785372",
@@ -33,6 +33,5 @@
       "name": "Haarlak"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h60/h55/28998160547870/prd-front-5785372-1_600x600/prd-front-5785372-1-600x600.jpg"
+  "description": "150ml"
 }

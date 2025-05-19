@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3029153",
-  "mmkId": "3029153",
-  "productGroupId": "476441",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-littekencreme/p/130604",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "25ml - Probleemhuid",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h62/h79/34281788112926/prd-front-130604-1_600x600/prd-front-130604-1-600x600.jpg"
 }
