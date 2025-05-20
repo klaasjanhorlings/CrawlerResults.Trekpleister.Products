@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029395",
+  "mmkId": "3029395",
+  "productGroupId": "476970",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-professional-tandsteenpreventie-reinigingskristallen-tandpasta/p/6247337",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "75ml",
-  "image": "/medias/sys_master/prd-images/hb9/h79/34278004588574/prd-front-6247337-1_600x600/prd-front-6247337-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0f/h3f/34286048411678/prd-front-6247337-1_600x600/prd-front-6247337-1-600x600.jpg"
 }

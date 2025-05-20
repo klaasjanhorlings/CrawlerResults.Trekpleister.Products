@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 2690 > 3390",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029295",
+  "mmkId": "3029295",
+  "productGroupId": "460938",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/leukoplast-traditionele-hechtpleister/p/30704",
@@ -33,6 +33,5 @@
       "name": "Hechtpleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 500cm x 1,25cm",
-  "image": "/medias/sys_master/prd-images/hce/he3/28548395696158/prd-front-30704-1_600x600/prd-front-30704-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 500cm x 1,25cm"
 }

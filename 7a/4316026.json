@@ -7,7 +7,7 @@
   "priceOriginal": "79.99",
   "itemBgbcat": "5929 > 6019 > 2197 > 4901 > 4947 > 4993",
   "supplier": "DUMMY EXTERN",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Huishoudelijke apparaten"
     }
   ],
-  "description": "3L"
+  "description": "3L",
+  "image": "/medias/sys_master/prd-images/h32/h07/29398700982302/prd-front-4316026-1_600x600/prd-front-4316026-1-600x600.jpg"
 }

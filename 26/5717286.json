@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6232",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029334",
+  "mmkId": "3029334",
+  "productGroupId": "472320",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-collageen-super-5000mg-doseringen/p/5717286",
@@ -33,5 +33,6 @@
       "name": "Beautysupplementen"
     }
   ],
-  "description": "33 stuks"
+  "description": "33 stuks",
+  "image": "/medias/prd-front-5717286-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDc0MzV8aW1hZ2UvanBlZ3xhRFZqTDJoaU5TOHhOekExT0RNM05UVTVPREV4TUM5d2NtUXRabkp2Ym5RdE5UY3hOekk0TmkweFh6WXdNSGcyTURBfDE1ZmIzNzUzZmVlM2I0ZjRlMmVmNjQ1MjJlOTAyZGI1OTJlN2NhNjY5MDcyNTliM2E4NTJlYWUzN2IyZDA0NDA"
 }

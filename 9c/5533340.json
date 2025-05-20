@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Venus Smooth Scheermesjes",
+  "code": "5533340",
+  "price": "43.47",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3029422",
+  "mmkId": "3029422",
+  "productGroupId": "478586",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-venus-smooth-scheermesjes/p/5533340",
+  "listName": "Lister",
+  "brand": "Gillette Venus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "12 stuks",
+  "image": "/medias/sys_master/prd-images/h23/h8c/31094625271838/prd-front-5533340-1_600x600/prd-front-5533340-1-600x600.jpg"
+}

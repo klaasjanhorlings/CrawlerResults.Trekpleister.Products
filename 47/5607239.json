@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nailner Kalknagelpen",
+  "itemName": "Nailner Multi-Action Kalknagelpen",
   "code": "5607239",
   "price": "29.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nailner-kalknagelpen/p/5607239",
+  "url": "/nailner-multi-action-kalknagelpen/p/5607239",
   "listName": "Lister",
   "brand": "Nailner",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Kalknagelbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 2 x 4ml",
-  "image": "/medias/sys_master/prd-images/h0e/h39/34275486760990/prd-front-5607239-1_600x600/prd-front-5607239-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 2 x 4ml"
 }

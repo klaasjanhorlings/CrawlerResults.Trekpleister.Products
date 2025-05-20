@@ -4,7 +4,7 @@
   "itemName": "999 Games Clever Tot De 3e Macht",
   "code": "6260497",
   "price": "11.99",
-  "priceOriginal": "16.99",
+  "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5164 > 5227 > 5416",
   "supplier": "999 GAMES",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/999-games-clever-tot-de-3e-macht/p/6260497",
   "listName": "Lister",
   "brand": "999 Games",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h88/h97/33763511369758/prd-front-6260497-1_600x600/prd-front-6260497-1-600x600.jpg"
 }
