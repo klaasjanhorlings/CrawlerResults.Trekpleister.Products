@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029448",
+  "mmkId": "3029448",
+  "productGroupId": "480408",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-olia-53-licht-goudbruin-permanente-haarkleuring/p/2740354",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hfe/h24/33360145809438/prd-front-2740354-1_600x600/prd-front-2740354-1-600x600.jpg"
+  "description": ""
 }

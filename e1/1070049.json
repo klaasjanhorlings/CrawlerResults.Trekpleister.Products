@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029448",
+  "mmkId": "3029448",
+  "productGroupId": "480408",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-casting-creme-gloss-300-donkerbruin-semi-permanente-haarkleuring/p/1070049",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "180ml",
-  "image": "/medias/sys_master/prd-images/hf6/hda/34284685164574/prd-front-1070049-1_600x600/prd-front-1070049-1-600x600.jpg"
+  "description": "180ml"
 }

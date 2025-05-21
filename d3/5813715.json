@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ella's Kitchen 6+ Mango Griekse Yoghurt",
+  "code": "5813715",
+  "price": "1.55",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ellas-kitchen-6-mango-griekse-yoghurt/p/5813715",
+  "listName": "Lister",
+  "brand": "Ella's Kitchen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267564,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5813715-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjU0MjN8aW1hZ2UvanBlZ3xhREUyTDJnM1pTOHhOelV5TlRVeU5qYzVNREUzTkM5d2NtUXRabkp2Ym5RdE5UZ3hNemN4TlMweFh6WXdNSGcyTURBfDhkODBiYWQ1YjM1MWNlZDgxOTVhYTc0ODEyNDlkZjFiYzk4N2YxZmFhZWE1MTQ3MTlkMmM3Y2ExZGQzMzk2YTg"
+}

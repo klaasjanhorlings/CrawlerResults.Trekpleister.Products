@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Watshome TX-1608B Statiefventilator",
+  "code": "5601737",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 6148 > 6149 > 6150",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/watshome-tx-1608b-statiefventilator/p/5601737",
+  "listName": "Lister",
+  "brand": "Tristar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267110,
+      "name": "Ventilatoren"
+    }
+  ],
+  "description": "wit, Ø40cm",
+  "image": "/medias/sys_master/prd-images/h73/h68/33075606585374/prd-front-5601737-1_600x600/prd-front-5601737-1-600x600.jpg"
+}
