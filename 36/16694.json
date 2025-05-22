@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3029448",
-  "mmkId": "3029448",
-  "productGroupId": "480408",
+  "onPromo": "3029370",
+  "mmkId": "3029370",
+  "productGroupId": "475725",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-preference-81-licht-asblond-haarkleuring/p/16694",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h71/hc9/31776271826974/prd-front-16694-1_600x600/prd-front-16694-1-600x600.jpg"
 }
