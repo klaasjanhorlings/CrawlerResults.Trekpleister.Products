@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hismile Watermelon Tandpasta",
+  "code": "6290100",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
+  "supplier": "HISMILE PTY LTD.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hismile-watermelon-tandpasta/p/6290100",
+  "listName": "Lister",
+  "brand": "HISMILE",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/h58/h57/34146469052446/prd-front-6290100-1_600x600/prd-front-6290100-1-600x600.jpg"
+}

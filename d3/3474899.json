@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Scholl Velvet Smooth Extra Grof Verwisselbare Rollers Navulling",
+  "itemName": "Dr. Scholl's Velvet Smooth Extra Grof Verwisselbare Rollers Navulling",
   "code": "3474899",
   "price": "14.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
   "supplier": "PIETERCIL BARENDS BV",
-  "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/scholl-velvet-smooth-extra-grof-verwisselbare-rollers-navulling/p/3474899",
+  "url": "/dr-scholls-velvet-smooth-extra-grof-verwisselbare-rollers-navulling/p/3474899",
   "listName": "Lister",
   "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/h4b/h55/34302212898846/prd-front-3474899-1_600x600/prd-front-3474899-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb4/h80/34324204945438/prd-front-3474899-1_600x600/prd-front-3474899-1-600x600.jpg"
 }

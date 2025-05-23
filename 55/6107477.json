@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Scholl Voetvijl voor Harde Huid",
+  "itemName": "Dr. Scholl’s Voetvijl voor Harde Huid",
   "code": "6107477",
   "price": "9.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/scholl-voetvijl-voor-harde-huid/p/6107477",
+  "url": "/dr-scholls-voetvijl-voor-harde-huid/p/6107477",
   "listName": "Lister",
   "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h31/h8d/34303587745822/prd-front-6107477-1_600x600/prd-front-6107477-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h57/h98/34313171075102/prd-front-6107477-1_600x600/prd-front-6107477-1-600x600.jpg"
 }

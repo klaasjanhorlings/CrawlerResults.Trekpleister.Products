@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Scholl Hielkloven Balsem Stick",
+  "itemName": "Dr. Scholl's Hielkloven Balsem Stick",
   "code": "6034866",
   "price": "11.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/scholl-hielkloven-balsem-stick/p/6034866",
+  "url": "/dr-scholls-hielkloven-balsem-stick/p/6034866",
   "listName": "Lister",
   "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "70g",
-  "image": "/medias/sys_master/prd-images/h96/h1c/34305725792286/prd-front-6034866-1_600x600/prd-front-6034866-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h68/hf4/34316330598430/prd-front-6034866-1_600x600/prd-front-6034866-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Scholl Fresh Step Deodorant Schoenenspray",
+  "itemName": "Dr. Scholl's Fresh Step Deodorant Schoenenspray",
   "code": "593068",
   "price": "7.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/scholl-fresh-step-deodorant-schoenenspray/p/593068",
+  "url": "/dr-scholls-fresh-step-deodorant-schoenenspray/p/593068",
   "listName": "Lister",
   "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h7e/h3b/34306733670430/prd-front-593068-1_600x600/prd-front-593068-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h49/hc0/34318483030046/prd-front-593068-1_600x600/prd-front-593068-1-600x600.jpg"
 }

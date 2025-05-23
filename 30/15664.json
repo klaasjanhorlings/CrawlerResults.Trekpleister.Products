@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Scholl Eelt Verwijderpleisters",
+  "itemName": "Dr. Scholl's Eelt Verwijderpleisters",
   "code": "15664",
   "price": "3.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/scholl-eelt-verwijderpleisters/p/15664",
+  "url": "/dr-scholls-eelt-verwijderpleisters/p/15664",
   "listName": "Lister",
   "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 4 stuks",
-  "image": "/medias/sys_master/prd-images/hb6/hd5/34303523094558/prd-front-15664-1_600x600/prd-front-15664-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h13/h3e/34314927407134/prd-front-15664-1_600x600/prd-front-15664-1-600x600.jpg"
 }

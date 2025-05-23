@@ -21,18 +21,21 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267044,
-      "name": "Haaraccessoires"
+      "id": 30267249,
+      "name": "Haarstylingproducten"
     },
     {
-      "id": 30267181,
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267495,
       "name": "Haarborstels"
     }
   ],
-  "description": "koperkleur",
-  "image": "/medias/sys_master/prd-images/h00/hcc/32572424683550/prd-front-6223439-1_600x600/prd-front-6223439-1-600x600.jpg"
+  "description": "koperkleur"
 }

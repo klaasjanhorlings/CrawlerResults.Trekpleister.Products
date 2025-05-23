@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea Black & White Invisible Original Antitranspirant Roller",
+  "itemName": "NIVEA Black & White Invisible Original Antitranspirant Roller",
   "code": "2746262",
   "price": "6.29",
   "priceOriginal": "",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h96/h27/33180576907294/prd-front-2746262-1_600x600/prd-front-2746262-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Scholl Aloë Vera Voedend Voetmasker",
+  "itemName": "Dr. Scholl's Aloë Vera Voedend Voetmasker",
   "code": "5391863",
   "price": "4.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/scholl-aloe-vera-voedend-voetmasker/p/5391863",
+  "url": "/dr-scholls-aloe-vera-voedend-voetmasker/p/5391863",
   "listName": "Lister",
   "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/h2f/h92/34303577260062/prd-front-5391863-1_600x600/prd-front-5391863-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4b/h18/34311992180766/prd-front-5391863-1_600x600/prd-front-5391863-1-600x600.jpg"
 }
