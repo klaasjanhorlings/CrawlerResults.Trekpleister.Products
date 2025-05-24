@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. O Face Me, Myself and I Satin Lipstick",
+  "itemName": "e.l.f. O Face Me, Myself and I Satin Lipstick",
   "code": "6275351",
   "price": "10.0",
   "priceOriginal": "",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3,8g"
+  "description": "3,8g",
+  "image": "/medias/sys_master/prd-images/h30/h23/34038430335006/prd-front-6275351-1_600x600/prd-front-6275351-1-600x600.jpg"
 }

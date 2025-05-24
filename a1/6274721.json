@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. Soft Glam 23 Light Cool Satin Foundation",
+  "itemName": "e.l.f. Soft Glam 23 Light Cool Satin Foundation",
   "code": "6274721",
   "price": "9.0",
   "priceOriginal": "",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h70/h6a/34020906663966/prd-front-6274721-1_600x600/prd-front-6274721-1-600x600.jpg"
 }

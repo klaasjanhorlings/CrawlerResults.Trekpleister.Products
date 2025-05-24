@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. Camo Fair Liquid Bronzer & Contour",
+  "itemName": "e.l.f. Camo Fair Liquid Bronzer & Contour",
   "code": "6276149",
   "price": "8.0",
   "priceOriginal": "",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30267148,
-      "name": "Contour"
+      "id": 30267145,
+      "name": "Bronzer"
     }
   ],
   "description": "4ml",

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. O Face Spicy Satin Lipstick",
+  "itemName": "e.l.f. O Face Spicy Satin Lipstick",
   "code": "6275743",
   "price": "10.0",
   "priceOriginal": "",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3,8g"
+  "description": "3,8g",
+  "image": "/medias/sys_master/prd-images/h13/h1e/34039582588958/prd-front-6275743-1_600x600/prd-front-6275743-1-600x600.jpg"
 }

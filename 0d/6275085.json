@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. Cream Glide Fuchsia Forward Lipliner",
+  "itemName": "e.l.f. Cream Glide Fuchsia Forward Lipliner",
   "code": "6275085",
   "price": "3.0",
   "priceOriginal": "",
@@ -37,6 +37,5 @@
       "name": "Lipliner"
     }
   ],
-  "description": "1g",
-  "image": "/medias/sys_master/prd-images/h52/h7d/34313369813022/prd-front-6275085-1_600x600/prd-front-6275085-1-600x600.jpg"
+  "description": "1g"
 }

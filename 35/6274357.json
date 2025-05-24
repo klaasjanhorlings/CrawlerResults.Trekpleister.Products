@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. Ultra Precise Neutral Brown Brow Pencil",
+  "itemName": "e.l.f. Ultra Precise Neutral Brown Brow Pencil",
   "code": "6274357",
   "price": "7.0",
   "priceOriginal": "",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hb3/hf4/34022035324958/prd-front-6274357-1_600x600/prd-front-6274357-1-600x600.jpg"
+  "description": ""
 }

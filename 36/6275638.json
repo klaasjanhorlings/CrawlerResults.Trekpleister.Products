@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. Halo Glow SPF50 13 Deep Neutral Skin Tint",
+  "itemName": "e.l.f. Halo Glow SPF50 13 Deep Neutral Skin Tint",
   "code": "6275638",
   "price": "20.0",
   "priceOriginal": "",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h8e/h78/34318510391326/prd-front-6275638-1_600x600/prd-front-6275638-1-600x600.jpg"
+  "description": "30ml"
 }

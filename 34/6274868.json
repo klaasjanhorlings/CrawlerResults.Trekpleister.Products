@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. Halo Glow Contour Medium/Tan Beauty Wand",
+  "itemName": "e.l.f. Halo Glow Contour Medium/Tan Beauty Wand",
   "code": "6274868",
   "price": "10.0",
   "priceOriginal": "",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30267145,
-      "name": "Bronzer"
+      "id": 30267148,
+      "name": "Contour"
     }
   ],
   "description": "10ml",

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. O Face All Night Satin Lipstick",
+  "itemName": "e.l.f. O Face All Night Satin Lipstick",
   "code": "6275715",
   "price": "10.0",
   "priceOriginal": "",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3,8g"
+  "description": "3,8g",
+  "image": "/medias/sys_master/prd-images/hf3/h2a/34039582916638/prd-front-6275715-1_600x600/prd-front-6275715-1-600x600.jpg"
 }

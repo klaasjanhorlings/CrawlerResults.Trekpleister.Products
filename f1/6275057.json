@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. Halo Glow Highlight Liquid Gold Beauty Wand",
+  "itemName": "e.l.f. Halo Glow Highlight Liquid Gold Beauty Wand",
   "code": "6275057",
   "price": "10.0",
   "priceOriginal": "",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h3c/hcb/34039959519262/prd-front-6275057-1_600x600/prd-front-6275057-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. Halo Glow Contour Light/Medium Beauty Wand",
+  "itemName": "e.l.f. Halo Glow Contour Light/Medium Beauty Wand",
   "code": "6274882",
   "price": "10.0",
   "priceOriginal": "",
@@ -33,6 +33,5 @@
       "name": "Contour"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h3a/hc0/34024613183518/prd-front-6274882-1_600x600/prd-front-6274882-1-600x600.jpg"
+  "description": "10ml"
 }

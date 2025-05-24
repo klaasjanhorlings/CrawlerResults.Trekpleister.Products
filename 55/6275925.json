@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. Halo Glow SPF50 12 Tan Cool Skin Tint",
+  "itemName": "e.l.f. Halo Glow SPF50 12 Tan Cool Skin Tint",
   "code": "6275925",
   "price": "20.0",
   "priceOriginal": "",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h62/hf3/34282619437086/prd-front-6275925-1_600x600/prd-front-6275925-1-600x600.jpg"
 }

@@ -33,9 +33,10 @@
       "name": "Pijn"
     },
     {
-      "id": 30267525,
-      "name": "Paracetamol"
+      "id": 30267527,
+      "name": "Acetylsalicylzuur"
     }
   ],
-  "description": "Geneesmiddel - 20 stuks"
+  "description": "Geneesmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h98/hc6/28549413044254/prd-front-1003850-1_600x600/prd-front-1003850-1-600x600.jpg"
 }

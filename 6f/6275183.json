@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "E.l.f. Cream Glide Cinnamatic Lipliner",
+  "itemName": "e.l.f. Cream Glide Cinnamatic Lipliner",
   "code": "6275183",
   "price": "3.0",
   "priceOriginal": "",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h16/h95/34326427303966/prd-front-6275183-1_600x600/prd-front-6275183-1-600x600.jpg"
 }
