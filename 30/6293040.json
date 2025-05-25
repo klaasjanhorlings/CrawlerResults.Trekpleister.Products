@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Ecostyle Mouse & Rat Free",
-  "code": "5969451",
-  "price": "40.99",
+  "itemName": "ECOstyle Escar-Go Slakkenkorrels",
+  "code": "6293040",
+  "price": "6.49",
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 6065",
   "supplier": "EUROSTYLE BV",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/ecostyle-mouse-rat-free/p/5969451",
+  "url": "/ecostyle-escar-go-slakkenkorrels/p/6293040",
   "listName": "Lister",
   "brand": "ECOstyle",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "2x 30m2"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h6d/h73/34100338065438/prd-front-6293040-1_600x600/prd-front-6293040-1-600x600.jpg"
 }
