@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029300",
-  "mmkId": "3029300",
-  "productGroupId": "462801",
+  "onPromo": "3029480",
+  "mmkId": "3029480",
+  "productGroupId": "486992",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-special-hydratatie-volume-shampoo/p/5402454",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h14/ha1/29117026926622/prd-front-5402454-1_600x600/prd-front-5402454-1-600x600.jpg"
 }

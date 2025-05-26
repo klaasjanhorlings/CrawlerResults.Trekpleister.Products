@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nalys Xtra Multi-Gebruik Keukenpapier",
+  "code": "6033746",
+  "price": "9.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 2973 > 3777",
+  "supplier": "SOFIDEL BENELUX NV/SA",
+  "inStock": "inStock",
+  "onPromo": "3029458",
+  "mmkId": "3029458",
+  "productGroupId": "474559",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nalys-xtra-multi-gebruik-keukenpapier/p/6033746",
+  "listName": "Lister",
+  "brand": "Nalys",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267120,
+      "name": "Keukenpapier"
+    }
+  ],
+  "description": "6 rollen",
+  "image": "/medias/sys_master/prd-images/hda/h81/30119388184606/prd-front-6033746-1_600x600/prd-front-6033746-1-600x600.jpg"
+}

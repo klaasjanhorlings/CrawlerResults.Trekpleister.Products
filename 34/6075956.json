@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Silicium Haarvolume",
+  "code": "6075956",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6231",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3029334",
+  "mmkId": "3029334",
+  "productGroupId": "472320",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-silicium-haarvolume/p/6075956",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267276,
+      "name": "Beautysupplementen"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h5b/h17/30651100299294/prd-front-6075956-1_600x600/prd-front-6075956-1-600x600.jpg"
+}

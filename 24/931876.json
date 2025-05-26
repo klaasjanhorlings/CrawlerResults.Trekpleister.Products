@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 3577",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029300",
-  "mmkId": "3029300",
-  "productGroupId": "462801",
+  "onPromo": "3029480",
+  "mmkId": "3029480",
+  "productGroupId": "486992",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-care-repair-intense-haarcreme/p/931876",
@@ -33,6 +33,5 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hba/h94/31833086591006/prd-front-931876-1_600x600/prd-front-931876-1-600x600.jpg"
+  "description": "200ml"
 }
