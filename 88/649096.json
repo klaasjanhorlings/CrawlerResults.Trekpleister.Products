@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "3029369",
-  "mmkId": "3029369",
-  "productGroupId": "475715",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-poly-palette-750-chocoladebruin-haarkleuring/p/649096",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/had/hc2/31776356401182/prd-front-649096-1_600x600/prd-front-649096-1-600x600.jpg"
 }

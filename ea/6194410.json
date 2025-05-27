@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dierenslaapzak",
+  "code": "6194410",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 5860 > 2195 > 4910 > 4956 > 6726",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/dierenslaapzak/p/6194410",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267128,
+      "name": "Dier"
+    },
+    {
+      "id": 30267448,
+      "name": "Diergezondheid"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h05/hde/32550328533022/prd-front-6194410-1_600x600/prd-front-6194410-1-600x600.jpg"
+}

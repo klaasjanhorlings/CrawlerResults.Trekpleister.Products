@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "DryNites Girls 3-5 Jaar Pyjamabroekjes",
+  "itemName": "DryNites Girls 3-4 Jaar Pyjamabroekjes",
   "code": "6234380",
   "price": "11.85",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/drynites-girls-3-5-jaar-pyjamabroekjes/p/6234380",
+  "url": "/drynites-girls-3-4-jaar-pyjamabroekjes/p/6234380",
   "listName": "Lister",
   "brand": "Drynites",
   "mpOrigin": "Kruidvat",
@@ -29,6 +29,5 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "3-5 jaar (16-23 kg), 16 stuks",
-  "image": "/medias/sys_master/prd-images/h61/h05/33240010260510/prd-front-6234380-1_600x600/prd-front-6234380-1-600x600.jpg"
+  "description": "3-4 jaar (12-21 kg), 16 stuks"
 }

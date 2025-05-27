@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tristar Koffiecupmachine",
+  "code": "6199534",
+  "price": "49.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 2454 > 2957 > 3751",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tristar-koffiecupmachine/p/6199534",
+  "listName": "Lister",
+  "brand": "Tristar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267103,
+      "name": "Huishoudelijke apparaten"
+    }
+  ],
+  "description": ""
+}

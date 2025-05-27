@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rieten Tas",
+  "code": "6214934",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 2244 > 2578 > 3199 > 6416",
+  "supplier": "TREFFINA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/rieten-tas/p/6214934",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267420,
+      "name": "Tassen"
+    }
+  ],
+  "description": "50cm x 38cm x 20cm"
+}

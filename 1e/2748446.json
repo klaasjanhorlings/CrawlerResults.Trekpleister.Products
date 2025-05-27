@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "3029294",
-  "mmkId": "3029294",
-  "productGroupId": "459899",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-express-hydratation-bodylotion/p/2748446",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h83/hfe/34344713781278/prd-front-2748446-1_600x600/prd-front-2748446-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hba/h06/34353490395166/prd-front-2748446-1_600x600/prd-front-2748446-1-600x600.jpg"
 }

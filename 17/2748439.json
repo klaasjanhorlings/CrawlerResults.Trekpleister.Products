@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "3029294",
-  "mmkId": "3029294",
-  "productGroupId": "459899",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-verzorgende-bodymilk/p/2748439",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "400ml - Droge tot zeer droge huid",
-  "image": "/medias/sys_master/prd-images/h27/h9b/34347217944606/prd-front-2748439-1_600x600/prd-front-2748439-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf0/he6/34356210466846/prd-front-2748439-1_600x600/prd-front-2748439-1-600x600.jpg"
 }

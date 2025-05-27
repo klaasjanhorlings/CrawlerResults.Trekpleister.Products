@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3032 > 3649",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "3029298",
-  "mmkId": "3029298",
-  "productGroupId": "462378",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-elastic-pleisters/p/176838",
@@ -37,6 +37,5 @@
       "name": "Klassieke pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 5m x 6cm",
-  "image": "/medias/sys_master/prd-images/h38/hf7/32905580970014/prd-front-176838-1_600x600/prd-front-176838-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 5m x 6cm"
 }

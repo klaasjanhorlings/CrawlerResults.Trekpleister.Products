@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Luiertas met Zebraprint",
+  "code": "6174691",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 2244 > 2578 > 3199 > 6413",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-luiertas-met-zebraprint/p/6174691",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267420,
+      "name": "Tassen"
+    }
+  ],
+  "description": "45cm x 13cm x 30cm",
+  "image": "/medias/sys_master/prd-images/hc1/ha2/32467983695902/prd-front-6174691-1_600x600/prd-front-6174691-1-600x600.jpg"
+}

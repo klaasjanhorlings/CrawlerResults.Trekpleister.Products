@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029476",
+  "mmkId": "3029476",
+  "productGroupId": "481559",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-marine-fresh-deodorant-roller/p/3941302",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "55ml",
-  "image": "/medias/prd-front-3941302-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDUwMDN8aW1hZ2UvanBlZ3xhRGxtTDJnNU5TOHhOelEwTlRBMk1qa3pORFUxT0M5d2NtUXRabkp2Ym5RdE16azBNVE13TWkweFh6WXdNSGcyTURBfDJiZDAzNTFiNjY2YmI2ZjY1ZjMzZjJlZWI4OGYwNzU1ODVkYzJmZjRhYmQ0ZDU2ZTc5NzcyZjUxMjNhZDk0ZWY"
+  "description": "55ml"
 }

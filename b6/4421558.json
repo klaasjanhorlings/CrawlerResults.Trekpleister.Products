@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Driehoek Vloeibare Groene Zeep",
   "code": "4421558",
-  "price": "2.49",
+  "price": "2.59",
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "GREEN SOAP COMPANY BV",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "725ml"
+  "description": "725ml",
+  "image": "/medias/sys_master/prd-images/hc7/h98/29839140257822/prd-front-4421558-1_600x600/prd-front-4421558-1-600x600.jpg"
 }
