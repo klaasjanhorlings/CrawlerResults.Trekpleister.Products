@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2716 > 3419",
   "supplier": "DR LEENARTS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029388",
+  "mmkId": "3029388",
+  "productGroupId": "476650",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-extra-vettende-badolie/p/5894152",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536625,
-      "name": "Baby"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267067,
-      "name": "Babyverzorging"
-    },
-    {
-      "id": 30267334,
-      "name": "Baby bad- en doucheverzorging"
-    },
-    {
-      "id": 48682624,
-      "name": "Babybadolie"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "200ml",

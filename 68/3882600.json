@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Labello Blackberry Shine Lippenbalsem",
+  "code": "3882600",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3029363",
+  "mmkId": "3029363",
+  "productGroupId": "475500",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/labello-blackberry-shine-lippenbalsem/p/3882600",
+  "listName": "Lister",
+  "brand": "Labello",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267166,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb7/he2/33578935582750/prd-front-3882600-1_600x600/prd-front-3882600-1-600x600.jpg"
+}

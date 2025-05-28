@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5678 > 5679",
   "supplier": "NESTLE NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,12 +29,8 @@
       "name": "Babyvoeding"
     },
     {
-      "id": 30267327,
-      "name": "Fruithapjes"
-    },
-    {
-      "id": 30267564,
-      "name": "6 maanden +"
+      "id": 30267331,
+      "name": "Babytussendoortjes"
     }
   ],
   "description": "4 x 100g",

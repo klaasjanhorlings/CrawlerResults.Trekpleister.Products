@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Loving Blends Sun-Kissed Chamomile & Bloemenhoning Verhelderende & Glansgevende Shampoo",
+  "code": "6256892",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3029339",
+  "mmkId": "3029339",
+  "productGroupId": "472894",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-loving-blends-sun-kissed-chamomile-bloemenhoning-verhelderende-glansgevende-shampoo/p/6256892",
+  "listName": "Lister",
+  "brand": "Loving Blends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h18/hfe/33983715344414/prd-front-6256892-1_600x600/prd-front-6256892-1-600x600.jpg"
+}

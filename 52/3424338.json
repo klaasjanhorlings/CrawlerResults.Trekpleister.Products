@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Trekpleister Botten en Tanden Vitamine D 20 ug Kauwtabletten",
+  "itemName": "Trekpleister Vitamine D3 20 ug Kauwtabletten",
   "code": "3424338",
   "price": "4.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/trekpleister-botten-en-tanden-vitamine-d-20-ug-kauwtabletten/p/3424338",
+  "url": "/trekpleister-vitamine-d3-20-ug-kauwtabletten/p/3424338",
   "listName": "Lister",
   "brand": "Trekpleister",
   "mpOrigin": "Kruidvat",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267286,
-      "name": "Botten en gewrichten"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
   "description": "300 stuks",

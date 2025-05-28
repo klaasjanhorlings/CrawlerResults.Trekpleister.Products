@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Trekpleister Botten en Tanden Vitamine D Druppels op Waterbasis",
+  "itemName": "Trekpleister Vitamine D Druppels op Waterbasis",
   "code": "3805495",
   "price": "3.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "477622",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/trekpleister-botten-en-tanden-vitamine-d-druppels-op-waterbasis/p/3805495",
+  "url": "/trekpleister-vitamine-d-druppels-op-waterbasis/p/3805495",
   "listName": "Lister",
   "brand": "Trekpleister",
   "mpOrigin": "Kruidvat",
@@ -33,8 +33,8 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267553,
-      "name": "Kindervitamines"
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
   "description": "25ml",

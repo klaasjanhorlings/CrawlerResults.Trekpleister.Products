@@ -7,7 +7,7 @@
   "priceOriginal": "24.99",
   "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6715",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "Scheren en ontharen"
     },
     {
-      "id": 30267242,
-      "name": "Haartrimmers"
+      "id": 30267240,
+      "name": "Tondeuses"
     }
   ],
   "description": "",

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Trekpleister Botten en Tanden Vitamine D met Magnesium Tabletten",
+  "itemName": "Trekpleister Vitamine D3 met Magnesium Tabletten",
   "code": "3963135",
   "price": "5.39",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/trekpleister-botten-en-tanden-vitamine-d-met-magnesium-tabletten/p/3963135",
+  "url": "/trekpleister-vitamine-d3-met-magnesium-tabletten/p/3963135",
   "listName": "Lister",
   "brand": "Trekpleister",
   "mpOrigin": "Kruidvat",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267550,
-      "name": "Vitamine D"
+      "id": 30267286,
+      "name": "Botten en gewrichten"
     }
   ],
   "description": "90 stuks",

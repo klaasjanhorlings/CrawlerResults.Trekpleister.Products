@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Lucovitaal Super Visolie Omega 3 ",
+  "itemName": "Lucovitaal Super Omega 3 Visolie",
   "code": "1357917",
   "price": "15.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "472320",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/lucovitaal-super-visolie-omega-3-/p/1357917",
+  "url": "/lucovitaal-super-omega-3-visolie/p/1357917",
   "listName": "Lister",
   "brand": "Lucovitaal",
   "mpOrigin": "Kruidvat",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267284,
-      "name": "Hart en of bloedvaten"
+      "id": 49793306,
+      "name": "Visolie"
     }
   ],
   "description": "60 stuks",
