@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029486",
+  "mmkId": "3029486",
+  "productGroupId": "475955",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-express-brow-03-soft-brown-shaping-pencil/p/5691092",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5691092-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA5NDN8aW1hZ2UvanBlZ3xhR1V6TDJoak5DOHhOekEzTnpFNE9USXhOREl6T0M5d2NtUXRabkp2Ym5RdE5UWTVNVEE1TWkweFh6WXdNSGcyTURBfDA2OWM4Mjg0NmQ2YzA1MmE5YzAyY2JhZDNlM2RiNmE3ODM3MDUwYTJhMzZkZjllOTIyOGQ1MTNjNGNkMGM5OWE"
 }

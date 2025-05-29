@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029341",
+  "mmkId": "3029341",
+  "productGroupId": "472896",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-studio-line-matt-messy-shine-free-fibre-paste/p/2559481",
@@ -33,6 +33,5 @@
       "name": "Haarpasta"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hd2/hc2/28547049029662/prd-front-2559481-1_600x600/prd-front-2559481-1-600x600.jpg"
+  "description": "150ml"
 }

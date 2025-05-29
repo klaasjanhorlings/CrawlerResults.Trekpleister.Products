@@ -1,16 +1,16 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Trekpleister 2 Fasen Oogmake-Up Reiniging",
+  "itemName": "Trekpleister 2 Fasen Oogmake-up Reiniging",
   "code": "32627",
   "price": "1.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029485",
+  "mmkId": "3029485",
+  "productGroupId": "475302",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-2-fasen-oogmake-up-reiniging/p/32627",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/ha5/h7c/34365942366238/prd-front-32627-1_600x600/prd-front-32627-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7c/hea/34376497332254/prd-front-32627-1_600x600/prd-front-32627-1-600x600.jpg"
 }

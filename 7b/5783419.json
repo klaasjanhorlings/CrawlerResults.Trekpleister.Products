@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029486",
+  "mmkId": "3029486",
+  "productGroupId": "475955",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-tattoo-liner-970-polished-white-automatic-gel-pencil/p/5783419",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "1,3g"
+  "description": "1,3g",
+  "image": "/medias/sys_master/prd-images/h15/hbd/31653633425438/prd-front-5783419-1_600x600/prd-front-5783419-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029486",
+  "mmkId": "3029486",
+  "productGroupId": "475955",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-fit-me-matte-poreless-100-warm-ivory-foundation/p/4172330",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-4172330-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDMzODF8aW1hZ2UvanBlZ3xhREZtTDJoa1ppOHhOamd5TnpZME1ETXhOVGt6TkM5d2NtUXRabkp2Ym5RdE5ERTNNak16TUMweFh6WXdNSGcyTURBfDQwNDQyNmNjY2Y1MTkzNzQ3MmM4ZjdjZTY4MTgyN2QxMDgwYjQwMWU0MTQ0MjgxMDFjODU4Y2NkMDliMGVkODA"
 }

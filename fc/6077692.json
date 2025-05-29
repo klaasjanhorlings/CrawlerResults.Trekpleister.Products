@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Lucovitaal Visolie Omega-3 Capsules",
+  "itemName": "Lucovitaal Visolie Omega-3 Mini Capsules",
   "code": "6077692",
   "price": "9.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "472320",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/lucovitaal-visolie-omega-3-capsules/p/6077692",
+  "url": "/lucovitaal-visolie-omega-3-mini-capsules/p/6077692",
   "listName": "Lister",
   "brand": "Lucovitaal",
   "mpOrigin": "Kruidvat",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49793128,
-      "name": "Omega 3"
+      "id": 49793306,
+      "name": "Visolie"
     }
   ],
   "description": "60 stuks",

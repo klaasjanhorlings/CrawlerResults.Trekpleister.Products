@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "o.b. Menstruatieondergoed",
+  "itemName": "o.b. Herbruikbaar Menstruatieondergoed",
   "code": "6046206",
   "price": "24.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/ob-menstruatieondergoed/p/6046206",
+  "url": "/ob-herbruikbaar-menstruatieondergoed/p/6046206",
   "listName": "Lister",
   "brand": "Ob",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Menstruatieondergoed"
     }
   ],
-  "description": "mt XS-S",
-  "image": "/medias/sys_master/prd-images/h2d/h7e/34369138032670/prd-front-6046206-1_600x600/prd-front-6046206-1-600x600.jpg"
+  "description": "zwart, mt XS-S",
+  "image": "/medias/sys_master/prd-images/h95/hbd/34381562806302/prd-front-6046206-1_600x600/prd-front-6046206-1-600x600.jpg"
 }

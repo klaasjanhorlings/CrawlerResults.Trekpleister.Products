@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
   "supplier": "PAB",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Badschuim"
     }
   ],
-  "description": "1000ml"
+  "description": "1000ml",
+  "image": "/medias/sys_master/prd-images/hbe/h73/33410339831838/prd-front-2837528-1_600x600/prd-front-2837528-1-600x600.jpg"
 }

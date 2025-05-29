@@ -25,10 +25,18 @@
       "name": "Beauty"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267472,
+      "name": "Micellair water"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/ha1/h9f/34372154785822/prd-front-4726625-1_600x600/prd-front-4726625-1-600x600.jpg"
+  "description": "400ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h6c/h09/34382535786526/prd-front-4726625-1_600x600/prd-front-4726625-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3874",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029476",
+  "mmkId": "3029476",
+  "productGroupId": "481559",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-men-dry-protection-deodorant-roller/p/5131995",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/prd-front-5131995-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTc2MTV8aW1hZ2UvanBlZ3xhRGd5TDJobFppOHhOamN3TURNeE5EZ3hNalEwTmk5d2NtUXRabkp2Ym5RdE5URXpNVGs1TlMweFh6WXdNSGcyTURBfGE4MDQyZDk0ZTg0N2NlN2ZlNTRjMjA0NzE0YzAwYTg0ZjIwZDY2ZTMyN2NhZmIyOWRkNWQwNjEyMWMzZWUxNmU"
 }

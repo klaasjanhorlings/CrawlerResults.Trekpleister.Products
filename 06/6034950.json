@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Trekpleister Q10 Oogcrème",
+  "itemName": "Trekpleister Smooth Oogcrème",
   "code": "6034950",
   "price": "4.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/trekpleister-q10-oogcreme/p/6034950",
+  "url": "/trekpleister-smooth-oogcreme/p/6034950",
   "listName": "Lister",
   "brand": "Trekpleister",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "15ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h73/h1c/34385861312542/prd-front-6034950-1_600x600/prd-front-6034950-1-600x600.jpg"
 }

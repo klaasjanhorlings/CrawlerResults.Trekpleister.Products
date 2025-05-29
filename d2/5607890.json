@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Mycosan Behandel + Camoufleer Kalknagel",
+  "itemName": "Mycosan Kalknagel Behandel + Camoufleer",
   "code": "5607890",
   "price": "29.95",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
-  "url": "/mycosan-behandel-camoufleer-kalknagel/p/5607890",
+  "url": "/mycosan-kalknagel-behandel-camoufleer/p/5607890",
   "listName": "Lister",
   "brand": "Mycosan",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "5ml + 8ml",
-  "image": "/medias/sys_master/prd-images/hb8/hdb/34372641947678/prd-front-5607890-1_600x600/prd-front-5607890-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h3f/hbd/34381559201822/prd-front-5607890-1_600x600/prd-front-5607890-1-600x600.jpg"
 }

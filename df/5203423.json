@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029376",
+  "mmkId": "3029376",
+  "productGroupId": "475950",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-riche-362-cristal-cappuccino-richest-lipliner/p/5203423",
@@ -37,6 +37,5 @@
       "name": "Lipliner"
     }
   ],
-  "description": "4g",
-  "image": "/medias/prd-front-5203423-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ2N3xpbWFnZS9qcGVnfGFHVXpMMmhtWkM4eE5qY3hNelU0TWprd016TXlOaTl3Y21RdFpuSnZiblF0TlRJd016UXlNeTB4WHpZd01IZzJNREF8ZGUxYzJiZDJiZTQ0OGNlNGMyODUwZWI4MjhmNTdlYjYzZWQxOGEwODVmYzJiZjExMDkyMjNhYWFiMDg3YTk4OQ"
+  "description": "4g"
 }

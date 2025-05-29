@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029486",
+  "mmkId": "3029486",
+  "productGroupId": "475955",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-build-a-brow-262-black-brown-wenkbrauwpotlood-en-gel/p/5994490",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8e/h20/29993142681630/prd-front-5994490-1_600x600/prd-front-5994490-1-600x600.jpg"
 }
