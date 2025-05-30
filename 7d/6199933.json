@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Stay Well Nourishing Vegan Collagen Cleansing Foam",
+  "code": "6199933",
+  "price": "7.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/stay-well-nourishing-vegan-collagen-cleansing-foam/p/6199933",
+  "listName": "Lister",
+  "brand": "STAY WELL",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677084,
+      "name": "Reinigingsmousse"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h75/h77/32246230122526/prd-front-6199933-1_600x600/prd-front-6199933-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "3029349",
-  "mmkId": "3029349",
-  "productGroupId": "474294",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-kids-protect-hydrate-spf50-zonnebrand-roll-on/p/4055493",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h7c/h48/34375669350430/prd-front-4055493-1_600x600/prd-front-4055493-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h15/hd5/34386216189982/prd-front-4055493-1_600x600/prd-front-4055493-1-600x600.jpg"
 }

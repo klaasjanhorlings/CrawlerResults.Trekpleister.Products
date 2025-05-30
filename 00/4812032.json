@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Roos Rozenwater Reinigingslotion",
+  "code": "4812032",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 4226",
+  "supplier": "HERKEL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-roos-rozenwater-reinigingslotion/p/4812032",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677499,
+      "name": "Reinigingslotion"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/prd-front-4812032-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjMyNzl8aW1hZ2UvanBlZ3xhREU0TDJnMVlTOHhOall4TnpZNU1ETTJOVGs0TWk5d2NtUXRabkp2Ym5RdE5EZ3hNakF6TWkweFh6WXdNSGcyTURBfDJkZTM1MWNkOTBiNTg3MDMwMWFkOWE2ZjNiYTExY2U2ZGRkNzM3OWYyZGRiZGQxNzA5YTE5NzMxNWYyYWRlOWU"
+}

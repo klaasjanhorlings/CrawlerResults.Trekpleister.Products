@@ -25,14 +25,18 @@
       "name": "Gezondheid"
     },
     {
-      "id": 48237361,
-      "name": "Voetverzorging"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 48237626,
-      "name": "Voetschimmelbehandeling"
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 49946980,
+      "name": "Schimmelinfectie"
     }
   ],
   "description": "Geneesmiddel - 30g",
-  "image": "/medias/sys_master/prd-images/h78/hbb/34376502575134/prd-front-4658522-1_600x600/prd-front-4658522-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h91/hab/34386029903902/prd-front-4658522-1_600x600/prd-front-4658522-1-600x600.jpg"
 }

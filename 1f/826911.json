@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Hydraterende Reinigingsdoekjes",
+  "code": "826911",
+  "price": "5.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-hydraterende-reinigingsdoekjes/p/826911",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267471,
+      "name": "Reinigingsdoekjes"
+    }
+  ],
+  "description": "25 stuks - Droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hc7/heb/28549972492318/prd-front-826911-1_600x600/prd-front-826911-1-600x600.jpg"
+}

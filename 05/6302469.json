@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goodal Vita-C Dark Circle Oogcrème",
+  "code": "6302469",
+  "price": "21.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goodal-vita-c-dark-circle-oogcreme/p/6302469",
+  "listName": "Lister",
+  "brand": "GOODAL",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267161,
+      "name": "Oogcreme"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc7/h78/34114375942174/prd-front-6302469-1_600x600/prd-front-6302469-1-600x600.jpg"
+}

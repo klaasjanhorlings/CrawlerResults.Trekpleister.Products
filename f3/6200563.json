@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SKIN1004 Madagascar Centella Hyalu-Cica Sun Serum",
+  "code": "6200563",
+  "price": "24.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/skin1004-madagascar-centella-hyalu-cica-sun-serum/p/6200563",
+  "listName": "Lister",
+  "brand": "SKIN1004",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/ha4/h9b/32246824632350/prd-front-6200563-1_600x600/prd-front-6200563-1-600x600.jpg"
+}

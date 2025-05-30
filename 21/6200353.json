@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Beauty of Joseon SPF50+ Matte Sunstick",
+  "code": "6200353",
+  "price": "17.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/beauty-of-joseon-spf50-matte-sunstick/p/6200353",
+  "listName": "Lister",
+  "brand": "BEAUTY OF JOSEON",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "18g",
+  "image": "/medias/sys_master/prd-images/h28/ha0/32246513139742/prd-front-6200353-1_600x600/prd-front-6200353-1-600x600.jpg"
+}

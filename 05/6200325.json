@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cosrx Salicylic Acid Gentle Cleanser",
+  "code": "6200325",
+  "price": "12.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cosrx-salicylic-acid-gentle-cleanser/p/6200325",
+  "listName": "Lister",
+  "brand": "COSRX",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 84946008,
+      "name": "Exfoliant"
+    }
+  ],
+  "description": "150ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h86/h96/32249107382302/prd-front-6200325-1_600x600/prd-front-6200325-1-600x600.jpg"
+}

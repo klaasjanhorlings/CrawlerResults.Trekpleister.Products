@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Tea Tree Scrubcrème",
+  "code": "4812095",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
+  "supplier": "PHARCONA GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-tea-tree-scrubcreme/p/4812095",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267208,
+      "name": "Scrub"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-4812095-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzMxOTd8aW1hZ2UvanBlZ3xhRGs1TDJnMlpTOHhOall4TnpZNU1qQXdORE00TWk5d2NtUXRabkp2Ym5RdE5EZ3hNakE1TlMweFh6WXdNSGcyTURBfDcyNzIzNTEwNTFlOTRjYzAwY2RlOTI1MDhlM2U1NzY3MzgyZjg0MDU0MjA0NWRhYzZjNTJiNDI3OGRkNzE5OGU"
+}
