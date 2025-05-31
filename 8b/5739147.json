@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Mixsoon Glacier Water Ice Soothing Gel",
-  "code": "6200129",
-  "price": "14.9",
+  "itemName": "L'Oréal Paris Wrinkle Expert 45+ SPF20 Anti-rimpel Dagcrème",
+  "code": "5739147",
+  "price": "10.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
-  "supplier": "ORIEN TRADE OU",
+  "supplier": "LOREAL NED BV",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/mixsoon-glacier-water-ice-soothing-gel/p/6200129",
+  "url": "/loreal-paris-wrinkle-expert-45-spf20-anti-rimpel-dagcreme/p/5739147",
   "listName": "Lister",
-  "brand": "MIXSOON",
+  "brand": "L'Oreal Paris",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hda/h09/32598936322078/prd-front-6200129-1_600x600/prd-front-6200129-1-600x600.jpg"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/ha6/h52/28656217554974/prd-front-5739147-1_600x600/prd-front-5739147-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "St. Ives Blemish Control Apricot Scrub",
+  "code": "5780612",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/st-ives-blemish-control-apricot-scrub/p/5780612",
+  "listName": "Lister",
+  "brand": "St. Ives",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267480,
+      "name": "Reinigingsscrub"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-5780612-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTIxMzZ8aW1hZ2UvanBlZ3xhREUzTDJnMFppOHhOelEwTmpVNE16ZzJNVEkzT0M5d2NtUXRabkp2Ym5RdE5UYzRNRFl4TWkweFh6WXdNSGcyTURBfGMzZjY0NjNmODNlY2YyN2EwZmVjNmE0OTEyMWE0OWE3NDgxNDZiNjBjN2FlYzUzZjE5MDU0OTNhNDU3YzNkZjQ"
+}

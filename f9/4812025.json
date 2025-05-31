@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "HERKEL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "10ml",
-  "image": "/medias/prd-front-4812025-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzYzNjZ8aW1hZ2UvanBlZ3xhR0ZrTDJnNU1TOHhOall4TnpFNE1URTFNVEkyTWk5d2NtUXRabkp2Ym5RdE5EZ3hNakF5TlMweFh6WXdNSGcyTURBfGE5ZTVmNGNjNjQ0MzU5ZTZiYmFlMzJmZjBjZWFiODY2NmM3YmMwODE4NmFmMDk0MDVjNjU2ZDkzMGM0NmU1ZTY"
+  "image": "/medias/sys_master/prd-images/h83/hd7/34398874402846/prd-front-4812025-1_600x600/prd-front-4812025-1-600x600.jpg"
 }
