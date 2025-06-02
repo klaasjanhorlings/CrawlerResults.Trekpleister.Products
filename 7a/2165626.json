@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3029316",
-  "mmkId": "3029316",
-  "productGroupId": "469481",
+  "onPromo": "3029553",
+  "mmkId": "3029553",
+  "productGroupId": "469490",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-ultimate-repair-conditioner/p/2165626",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hf5/h60/34028394643486/prd-front-2165626-1_600x600/prd-front-2165626-1-600x600.jpg"
 }

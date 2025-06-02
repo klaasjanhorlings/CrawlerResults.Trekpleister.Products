@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3029339",
-  "mmkId": "3029339",
-  "productGroupId": "472894",
+  "onPromo": "3029643",
+  "mmkId": "3029643",
+  "productGroupId": "483562",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-argan-cameliaolie-shampoo/p/4822203",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h66/h8e/29796105453598/prd-front-4822203-1_600x600/prd-front-4822203-1-600x600.jpg"
 }

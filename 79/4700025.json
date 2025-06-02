@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3029341",
-  "mmkId": "3029341",
-  "productGroupId": "472896",
+  "onPromo": "3029567",
+  "mmkId": "3029567",
+  "productGroupId": "471001",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-dream-lengths-herstellend-masker/p/4700025",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hf3/he6/33045501739038/prd-front-4700025-1_600x600/prd-front-4700025-1-600x600.jpg"
 }

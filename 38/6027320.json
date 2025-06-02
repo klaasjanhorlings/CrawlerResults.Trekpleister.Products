@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029590",
+  "mmkId": "3029590",
+  "productGroupId": "474687",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-optimal-hydration-verfrissend-oogserum/p/6027320",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml, vochtarme en vermoeide huid"
+  "description": "15ml, vochtarme en vermoeide huid",
+  "image": "/medias/sys_master/prd-images/h71/hd5/32313231474718/prd-front-6027320-1_600x600/prd-front-6027320-1-600x600.jpg"
 }

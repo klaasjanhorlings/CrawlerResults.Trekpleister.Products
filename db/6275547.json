@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029686",
+  "mmkId": "3029686",
+  "productGroupId": "489505",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-cream-glide-red-receipt-lipliner/p/6275547",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h38/h81/34039567122462/prd-front-6275547-1_600x600/prd-front-6275547-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029478",
-  "mmkId": "3029478",
-  "productGroupId": "484085",
+  "onPromo": "3029520",
+  "mmkId": "3029520",
+  "productGroupId": "464074",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-black-deodorant-bodyspray/p/3287187",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h63/h97/33196846252062/prd-front-3287187-1_600x600/prd-front-3287187-1-600x600.jpg"
 }

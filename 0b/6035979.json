@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029587",
+  "mmkId": "3029587",
+  "productGroupId": "474304",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/cg-curl-shampoo-cream/p/6035979",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "355ml"
+  "description": "355ml",
+  "image": "/medias/sys_master/prd-images/h89/h33/34409348694046/prd-front-6035979-1_600x600/prd-front-6035979-1-600x600.jpg"
 }

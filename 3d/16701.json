@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3029370",
-  "mmkId": "3029370",
-  "productGroupId": "475725",
+  "onPromo": "3029652",
+  "mmkId": "3029652",
+  "productGroupId": "483940",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-preference-cool-blondes-101-extra-licht-asblond-permanente-haarkleuring/p/16701",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h17/h51/32246125527070/prd-front-16701-1_600x600/prd-front-16701-1-600x600.jpg"
 }

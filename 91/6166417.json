@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Philips Sonicare 6500 Series HX7411/01 Elektrische Tandenborstel",
   "code": "6166417",
-  "price": "199.99",
-  "priceOriginal": "",
+  "price": "99.99",
+  "priceOriginal": "199.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "3029426",
-  "mmkId": "3029426",
-  "productGroupId": "478734",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 100,00",
   "url": "/philips-sonicare-6500-series-hx7411/01-elektrische-tandenborstel/p/6166417",
   "listName": "Lister",
   "brand": "Philips",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart",
-  "image": "/medias/sys_master/prd-images/h9d/hd0/34403701489694/prd-front-6166417-1_600x600/prd-front-6166417-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h33/h20/34410548822046/prd-front-6166417-1_600x600/prd-front-6166417-1-600x600.jpg"
 }

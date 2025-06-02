@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6457 > 6458",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3029287",
-  "mmkId": "3029287",
-  "productGroupId": "451445",
+  "onPromo": "3029683",
+  "mmkId": "3029683",
+  "productGroupId": "488650",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/formule-w-wrattenpen/p/2151031",
@@ -37,6 +37,5 @@
       "name": "Wrattenbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 1,5ml",
-  "image": "/medias/sys_master/prd-images/h07/h1f/32782322860062/prd-front-2151031-1_600x600/prd-front-2151031-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 1,5ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2903 > 3700",
   "supplier": "SUNSTAR BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029542",
+  "mmkId": "3029542",
+  "productGroupId": "467287",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gum-expanding-floss/p/5745587",
@@ -33,5 +33,6 @@
       "name": "Flosdraad"
     }
   ],
-  "description": "30m"
+  "description": "30m",
+  "image": "/medias/sys_master/prd-images/h71/h1d/34225460969502/prd-front-5745587-1_600x600/prd-front-5745587-1-600x600.jpg"
 }

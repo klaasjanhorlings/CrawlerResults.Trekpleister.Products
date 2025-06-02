@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3029686",
+  "mmkId": "3029686",
+  "productGroupId": "489505",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-clear-brow-lash-mascara/p/6275722",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "2,5ml"
+  "description": "2,5ml",
+  "image": "/medias/sys_master/prd-images/h2f/hfd/34039576952862/prd-front-6275722-1_600x600/prd-front-6275722-1-600x600.jpg"
 }

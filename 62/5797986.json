@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier SkinActive Hydra Bomb Tissuemasker",
+  "code": "5797986",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "L'OREAL NED B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-skinactive-hydra-bomb-tissuemasker/p/5797986",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5797986-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTExMDd8aW1hZ2UvanBlZ3xhREJpTDJobE1DOHhOekkwTmpJd01EQTNNREUzTkM5d2NtUXRabkp2Ym5RdE5UYzVOems0TmkweFh6WXdNSGcyTURBfDdhZDU5NDk0NDJmYjUyM2M2NGMzMjQ0YTI1NGY2YjE3ZTQ3MDViZDBmNGM1YTMwMDA1NGFmMzJlMzUxNzdkM2Q"
+}

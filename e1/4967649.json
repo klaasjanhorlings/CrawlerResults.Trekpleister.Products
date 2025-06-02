@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3029665",
+  "mmkId": "3029665",
+  "productGroupId": "486060",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamine-c-complex-met-zink/p/4967649",
@@ -37,6 +37,5 @@
       "name": "Vitamine C"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/hd6/h1b/32492230574110/prd-front-4967649-1_600x600/prd-front-4967649-1-600x600.jpg"
+  "description": "60 stuks"
 }

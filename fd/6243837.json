@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6696",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029567",
+  "mmkId": "3029567",
+  "productGroupId": "471001",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-avocado-olie-sheaboter-curl-revival-elixir-intens-voedende-haarolie/p/6243837",
@@ -33,6 +33,5 @@
       "name": "Haarolie"
     }
   ],
-  "description": "120ml",
-  "image": "/medias/sys_master/prd-images/hfc/he4/33884532113438/prd-front-6243837-1_600x600/prd-front-6243837-1-600x600.jpg"
+  "description": "120ml"
 }

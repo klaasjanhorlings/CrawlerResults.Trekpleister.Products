@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "TEPE BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029630",
+  "mmkId": "3029630",
+  "productGroupId": "481700",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tepe-0-8mm-interdentale-ragers/p/5988673",
@@ -33,5 +33,6 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "groen, 6 stuks"
+  "description": "groen, 6 stuks",
+  "image": "/medias/sys_master/prd-images/ha5/h65/30434745024542/prd-front-5988673-1_600x600/prd-front-5988673-1-600x600.jpg"
 }

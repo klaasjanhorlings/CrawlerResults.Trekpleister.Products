@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2716 > 3419",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029638",
+  "mmkId": "3029638",
+  "productGroupId": "482139",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-baby-badolie/p/1248724",
@@ -37,5 +37,6 @@
       "name": "Babybadolie"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/had/hd6/29202630180894/prd-front-1248724-1_600x600/prd-front-1248724-1-600x600.jpg"
 }

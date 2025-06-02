@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029513",
+  "mmkId": "3029513",
+  "productGroupId": "461343",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/petal-fresh-pure-rosemary-mint-volumizing-shampoo/p/4036110",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "355ml",
-  "image": "/medias/prd-front-4036110-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDg2ODl8aW1hZ2UvanBlZ3xhREprTDJnMU5DOHhOelF3TkRFMk5USTFPVEk1TkM5d2NtUXRabkp2Ym5RdE5EQXpOakV4TUMweFh6WXdNSGcyTURBfDBjZTcwNWVmMGI4ZDg2ZDAzMDNlMmJiYTYyNmEwOTgwNTA2ZjBlOWVmNzhjMmM1NzRhOTZiYjQ4NzdiM2U5ZDQ"
+  "description": "355ml"
 }

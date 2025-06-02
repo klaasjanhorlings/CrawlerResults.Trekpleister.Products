@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6695",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029480",
-  "mmkId": "3029480",
-  "productGroupId": "486992",
+  "onPromo": "3029567",
+  "mmkId": "3029567",
+  "productGroupId": "471001",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-pro-nature-shea-strong-repair-haarmasker/p/6116339",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h05/hc7/31404719243294/prd-front-6116339-1_600x600/prd-front-6116339-1-600x600.jpg"
 }

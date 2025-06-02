@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "3029388",
-  "mmkId": "3029388",
-  "productGroupId": "476650",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-aanstiplotion-bij-puistjes/p/5754687",
@@ -37,6 +37,5 @@
       "name": "Verzorging probleemhuid"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/hf7/h05/33483682250782/prd-front-5754687-1_600x600/prd-front-5754687-1-600x600.jpg"
+  "description": "15ml"
 }

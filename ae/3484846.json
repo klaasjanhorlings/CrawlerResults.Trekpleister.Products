@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029567",
+  "mmkId": "3029567",
+  "productGroupId": "471001",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aunt-jackies-girls-curling-twisting-custard/p/3484846",
@@ -33,5 +33,6 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "425g"
+  "description": "425g",
+  "image": "/medias/prd-front-3484846-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzk5Njl8aW1hZ2UvanBlZ3xhREUyTDJnMll5OHhOak13TkRFek5qVXhPVGN4TUM5d2NtUXRabkp2Ym5RdE16UTRORGcwTmkweFh6WXdNSGcyTURBfGQ3YmU0NzdhMTJlZjJjNDZhODFmNjUzMTlhMGNmYzJjNDI0MDY1NGE4ZGRiYjI4OTBmMzM4OWY0NjlkYjBiZjE"
 }

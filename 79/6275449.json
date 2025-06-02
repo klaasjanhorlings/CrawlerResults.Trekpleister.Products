@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "e.l.f. Big Mood Black Mega Volume & Lifting Mascara",
+  "code": "6275449",
+  "price": "9.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "3029686",
+  "mmkId": "3029686",
+  "productGroupId": "489505",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-big-mood-black-mega-volume-lifting-mascara/p/6275449",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267133,
+      "name": "Mascara"
+    }
+  ],
+  "description": "9ml",
+  "image": "/medias/sys_master/prd-images/h00/h25/34039574659102/prd-front-6275449-1_600x600/prd-front-6275449-1-600x600.jpg"
+}

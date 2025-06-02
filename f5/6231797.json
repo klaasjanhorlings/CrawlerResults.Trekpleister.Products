@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Birthday Bomb 01 Cake My Day Shiny Lipgloss",
+  "code": "6231797",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 5690 > 5691 > 5692",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-birthday-bomb-01-cake-my-day-shiny-lipgloss/p/6231797",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267140,
+      "name": "Lipgloss"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h1e/h02/33486276886558/prd-front-6231797-1_600x600/prd-front-6231797-1-600x600.jpg"
+}

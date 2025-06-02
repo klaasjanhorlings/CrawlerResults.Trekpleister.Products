@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2834 > 3576",
   "supplier": "DELIA COSMETICS SP ZOO",
   "inStock": "inStock",
-  "onPromo": "3029403",
-  "mmkId": "3029403",
-  "productGroupId": "477139",
+  "onPromo": "3029514",
+  "mmkId": "3029514",
+  "productGroupId": "461479",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-voetbalsem/p/2927107",
@@ -33,5 +33,6 @@
       "name": "Voetcrème"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h5a/h32/28546818441246/prd-front-2927107-1_600x600/prd-front-2927107-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3032 > 3584",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3029673",
+  "mmkId": "3029673",
+  "productGroupId": "487469",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/betadine-desinfectiepleisters/p/1873019",
@@ -37,6 +37,5 @@
       "name": "Klassieke pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 1m x 6cm",
-  "image": "/medias/prd-front-1873019-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzczNjB8aW1hZ2UvanBlZ3xhRGsxTDJobFlpOHhOakkxTVRNek1qSTVOamN6TkM5d2NtUXRabkp2Ym5RdE1UZzNNekF4T1MweFh6WXdNSGcyTURBfDFmZWY3ZWRmNzViMzFhYTEzZTdhNThiZmIwMDhiNjJiNzJmNjM3Mzk2ZDcwMjQ3Y2I0Y2EwZWI5MmI4NzFlNjU"
+  "description": "Medisch hulpmiddel - 1m x 6cm"
 }

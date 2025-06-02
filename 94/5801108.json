@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Creator 31140 Magische Eenhoorn",
+  "code": "5801108",
+  "price": "8.99",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,00",
+  "url": "/lego-creator-31140-magische-eenhoorn/p/5801108",
+  "listName": "Lister",
+  "brand": "LEGO Creator",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267372,
+      "name": "LEGO Creator"
+    }
+  ],
+  "description": "13cm",
+  "image": "/medias/prd-front-5801108-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzYxNjB8aW1hZ2UvanBlZ3xhRFkwTDJoaFpTOHlOall5T0RJM01UWTJPVEkzT0M5d2NtUXRabkp2Ym5RdE5UZ3dNVEV3T0MweFh6WXdNSGcyTURBfDI0YjIzOWIyZmNiZGE0ODAxZDZhOTg2NDkwOTczODcwYTRhNWNmNjM1Y2NmN2JjOGVhYzg0NWRmZmFmZGIzZTU"
+}

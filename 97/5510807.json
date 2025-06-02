@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3029271",
-  "mmkId": "3029271",
-  "productGroupId": "463903",
+  "onPromo": "3029489",
+  "mmkId": "3029489",
+  "productGroupId": "463912",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-dry-comfort-antitranspirant-roller/p/5510807",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "6 x 50ml"
+  "description": "6 x 50ml",
+  "image": "/medias/sys_master/prd-images/hea/h74/34356990771230/prd-front-5510807-1_600x600/prd-front-5510807-1-600x600.jpg"
 }

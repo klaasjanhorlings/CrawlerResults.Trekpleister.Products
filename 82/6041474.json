@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3029376",
-  "mmkId": "3029376",
-  "productGroupId": "475950",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-70-dark-blonde-brow-color-wenkbrauwverf/p/6041474",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwverf"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h14/h89/30752363610142/prd-front-6041474-1_600x600/prd-front-6041474-1-600x600.jpg"
 }

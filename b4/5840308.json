@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029478",
-  "mmkId": "3029478",
-  "productGroupId": "484085",
+  "onPromo": "3029520",
+  "mmkId": "3029520",
+  "productGroupId": "464074",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-advanced-care-clean-touch-antitranspirant-deodorant-spray/p/5840308",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h48/h59/33391756312606/prd-front-5840308-1_600x600/prd-front-5840308-1-600x600.jpg"
 }

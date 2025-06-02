@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3675",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3029307",
-  "mmkId": "3029307",
-  "productGroupId": "465018",
+  "onPromo": "3029527",
+  "mmkId": "3029527",
+  "productGroupId": "465035",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-dermo-invisible-48-uur-antitranspirant-roller/p/3684934",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml - Normale huid"
+  "description": "50ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h01/h5c/29835919523870/prd-front-3684934-1_600x600/prd-front-3684934-1-600x600.jpg"
 }
