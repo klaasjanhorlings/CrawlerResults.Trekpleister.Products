@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA Serum-Infused Regenerating Micellair Water",
+  "itemName": "NIVEA Skin Recharge Micellair Water",
   "code": "6082284",
   "price": "9.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "471224",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-serum-infused-regenerating-micellair-water/p/6082284",
+  "url": "/nivea-skin-recharge-micellair-water/p/6082284",
   "listName": "Lister",
   "brand": "Nivea Skincare",
   "mpOrigin": "Kruidvat",
@@ -37,6 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml, gevoelige huid",
+  "description": "400ml - Gevoelige huid",
   "image": "/medias/sys_master/prd-images/hb1/ha3/32905633857566/prd-front-6082284-1_600x600/prd-front-6082284-1-600x600.jpg"
 }

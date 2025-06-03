@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029595",
+  "mmkId": "3029595",
+  "productGroupId": "475303",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-hydrate-hyaluron-dagcreme/p/3485672",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h31/hd5/34409202057246/prd-front-3485672-1_600x600/prd-front-3485672-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd0/hdc/34416461774878/prd-front-3485672-1_600x600/prd-front-3485672-1-600x600.jpg"
 }

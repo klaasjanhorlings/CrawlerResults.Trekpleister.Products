@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6493 > 6494",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3021681",
+  "mmkId": "3021681",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
@@ -37,6 +37,5 @@
       "name": "Gezondheidstesten"
     }
   ],
-  "description": "Medisch hulpmiddel",
-  "image": "/medias/prd-front-5455493-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjYwNjR8aW1hZ2UvanBlZ3xhREUzTDJneU5pOHhOelV6TmpJMk9EWTVOell6TUM5d2NtUXRabkp2Ym5RdE5UUTFOVFE1TXkweFh6WXdNSGcyTURBfGM4NjQzYjdhM2I1MTYwODRjZTMxNzkzMjhjZDM5YjYyOTc0MDM1Mzc2NWRjYjIwMTZjNzNiZTIyYWM0MmU5NjA"
+  "description": "Medisch hulpmiddel"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "FEMIA COSMETIC",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029595",
+  "mmkId": "3029595",
+  "productGroupId": "475303",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-smooth-q10-niacinamide-nachtcreme/p/1465486",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h5b/h58/33959224934430/prd-front-1465486-1_600x600/prd-front-1465486-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h21/hfb/34421506048030/prd-front-1465486-1_600x600/prd-front-1465486-1-600x600.jpg"
 }

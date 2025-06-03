@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029595",
+  "mmkId": "3029595",
+  "productGroupId": "475303",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-hydrate-hyaluron-nachtcreme/p/3485665",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hd8/hd2/34410537287710/prd-front-3485665-1_600x600/prd-front-3485665-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h62/h06/34417146495006/prd-front-3485665-1_600x600/prd-front-3485665-1-600x600.jpg"
 }

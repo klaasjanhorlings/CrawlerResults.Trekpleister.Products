@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Bedsprei",
+  "code": "6191428",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 2060 > 2192 > 5964 > 5981 > 5998",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-bedsprei/p/6191428",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267458,
+      "name": "Huishoudelijk textiel"
+    }
+  ],
+  "description": "beige, 220cm x 240cm",
+  "image": "/medias/sys_master/prd-images/h6c/h90/33848803917854/prd-front-6191428-1_600x600/prd-front-6191428-1-600x600.jpg"
+}
