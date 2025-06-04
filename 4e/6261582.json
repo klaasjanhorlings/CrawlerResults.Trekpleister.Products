@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tensoplast by Actimove Elastic Adhesive Bandage",
+  "code": "6261582",
+  "price": "7.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 3249 > 4140",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/tensoplast-by-actimove-elastic-adhesive-bandage/p/6261582",
+  "listName": "Lister",
+  "brand": "Actimove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267298,
+      "name": "Sport, -blessures en herstel"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 7,5cm x 4,5cm",
+  "image": "/medias/sys_master/prd-images/h1e/hbb/33334752215070/prd-front-6261582-1_600x600/prd-front-6261582-1-600x600.jpg"
+}

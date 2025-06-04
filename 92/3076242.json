@@ -5,7 +5,7 @@
   "code": "3076242",
   "price": "12.95",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "BMEDCARE BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -25,10 +25,13 @@
       "name": "Beauty"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/prd-front-3076242-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQzODV8aW1hZ2UvanBlZ3xhR1F6TDJoallTOHhOelV5TURBME5qZ3pNelk1TkM5d2NtUXRabkp2Ym5RdE16QTNOakkwTWkweFh6WXdNSGcyTURBfGZiZTFjMzY4YzI2ZDAzYTRhM2ZkMjM4NTJjZDhkMDY3YzljMDI4MWY2NGYyNzhhNWQ1M2NlOWJhZWM5ZTZiYjk"
+  "description": "50ml"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029750",
+  "mmkId": "3029750",
+  "productGroupId": "472316",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-psyllium-husk-vezels-capsules/p/6160509",
@@ -33,6 +33,5 @@
       "name": "Spijsvertering"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h80/hcf/31701070905374/prd-front-6160509-1_600x600/prd-front-6160509-1-600x600.jpg"
+  "description": "60 stuks"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Verzorging probleemhuid"
     }
   ],
-  "description": "24 stuks"
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/h0d/hc6/32246518775838/prd-front-6200276-1_600x600/prd-front-6200276-1-600x600.jpg"
 }

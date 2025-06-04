@@ -5,7 +5,7 @@
   "code": "6243613",
   "price": "4.49",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 6778",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
   "onPromo": "3029643",
@@ -29,8 +29,8 @@
       "name": "Haarverzorging"
     },
     {
-      "id": 82417428,
-      "name": "Shampoo navulling"
+      "id": 30267251,
+      "name": "Shampoo"
     }
   ],
   "description": "250ml",

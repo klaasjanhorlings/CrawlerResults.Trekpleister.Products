@@ -5,7 +5,7 @@
   "code": "5754687",
   "price": "12.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6776 > 6775 > 6777",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267165,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 50048157,
-      "name": "Verzorging probleemhuid"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "15ml",

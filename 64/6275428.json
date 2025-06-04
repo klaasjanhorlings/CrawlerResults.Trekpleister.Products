@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "e.l.f. Halo Glow Powder Filter Medium Neutral Pressed Powder",
-  "code": "6275008",
-  "price": "16.0",
+  "itemName": "e.l.f. Take Your Pink Bite-Size Oogschaduwpalet",
+  "code": "6275428",
+  "price": "4.0",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
   "onPromo": "3029686",
@@ -13,7 +13,7 @@
   "productGroupId": "489505",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/elf-halo-glow-powder-filter-medium-neutral-pressed-powder/p/6275008",
+  "url": "/elf-take-your-pink-bite-size-oogschaduwpalet/p/6275428",
   "listName": "Lister",
   "brand": "ELF",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267144,
-      "name": "Gezichtspoeder"
+      "id": 30267153,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30267470,
+      "name": "Palette oogschaduw"
     }
   ],
-  "description": "10g",
-  "image": "/medias/sys_master/prd-images/h67/hef/34039034314782/prd-front-6275008-1_600x600/prd-front-6275008-1-600x600.jpg"
+  "description": "3,5g",
+  "image": "/medias/sys_master/prd-images/h9f/h00/34282344874014/prd-front-6275428-1_600x600/prd-front-6275428-1-600x600.jpg"
 }

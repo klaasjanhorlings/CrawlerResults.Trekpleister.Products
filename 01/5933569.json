@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Garnier Pure Active Salicylic Liquid Care",
-  "code": "6236984",
-  "price": "14.99",
+  "itemName": "Skincyclopedia 3% Polyglumatic Acid Complex Gezichtsserum",
+  "code": "5933569",
+  "price": "9.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
-  "supplier": "LOREAL NED BV",
+  "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/garnier-pure-active-salicylic-liquid-care/p/6236984",
+  "url": "/skincyclopedia-3-polyglumatic-acid-complex-gezichtsserum/p/5933569",
   "listName": "Lister",
-  "brand": "Garnier Skin Naturals",
+  "brand": "SKINCYCLOPEDIA",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "Skincare"
     },
     {
-      "id": 84946008,
-      "name": "Exfoliant"
+      "id": 30267162,
+      "name": "Serum"
     }
   ],
-  "description": "120ml",
-  "image": "/medias/sys_master/prd-images/h03/h67/33154368274462/prd-front-6236984-1_600x600/prd-front-6236984-1-600x600.jpg"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h5d/he1/29835295784990/prd-front-5933569-1_600x600/prd-front-5933569-1-600x600.jpg"
 }

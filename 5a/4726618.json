@@ -5,7 +5,7 @@
   "code": "4726618",
   "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6765 > 6764",
   "supplier": "KENVUE",
   "inStock": "inStock",
   "onPromo": "",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267165,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30267474,
-      "name": "Reinigingsgel"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "200ml - Alle huidtypen + gevoelige huid",

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
   "supplier": "TRADE SENSE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029505",
+  "mmkId": "3029505",
+  "productGroupId": "452199",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organic-shop-coffee-limmonik-gentle-face-exfoliant/p/5992404",
@@ -33,6 +33,5 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/hc0/h1e/29461387542558/prd-front-5992404-1_600x600/prd-front-5992404-1-600x600.jpg"
+  "description": "75ml"
 }

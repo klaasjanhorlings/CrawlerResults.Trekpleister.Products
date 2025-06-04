@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Beauty of Joseon Glow Serum",
-  "code": "6199870",
-  "price": "20.9",
+  "itemName": "Nip + Fab Vitamin C Concentrate Extreme 15%",
+  "code": "6041579",
+  "price": "28.95",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
-  "supplier": "ORIEN TRADE OU",
+  "supplier": "NIP + FAB",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/beauty-of-joseon-glow-serum/p/6199870",
+  "url": "/nip-fab-vitamin-c-concentrate-extreme-15/p/6041579",
   "listName": "Lister",
-  "brand": "BEAUTY OF JOSEON",
+  "brand": "NIP+FAB",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hd1/h13/33065430614046/prd-front-6199870-1_600x600/prd-front-6199870-1-600x600.jpg"
+  "description": "30ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h4a/hec/30124487507998/prd-front-6041579-1_600x600/prd-front-6041579-1-600x600.jpg"
 }

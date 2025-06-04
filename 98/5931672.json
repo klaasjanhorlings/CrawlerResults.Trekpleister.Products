@@ -5,7 +5,7 @@
   "code": "5931672",
   "price": "11.95",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
+  "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6765 > 6764",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
   "onPromo": "3029590",
@@ -25,9 +25,18 @@
       "name": "Beauty"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267474,
+      "name": "Reinigingsgel"
     }
   ],
-  "description": "237ml"
+  "description": "237ml",
+  "image": "/medias/sys_master/prd-images/hc9/hc5/28568551063582/prd-front-5931672-1_600x600/prd-front-5931672-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "A.Vogel Jeuk Oorspray",
+  "itemName": "A.Vogel Droge Huid Oorspray",
   "code": "4278058",
   "price": "12.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/avogel-jeuk-oorspray/p/4278058",
+  "url": "/avogel-droge-huid-oorspray/p/4278058",
   "listName": "Lister",
   "brand": "A.Vogel",
   "mpOrigin": "Kruidvat",
@@ -29,12 +29,8 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30267257,
-      "name": "Oor, oog en mond"
-    },
-    {
-      "id": 30267505,
-      "name": "Oorspray"
+      "id": 30267269,
+      "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
   "description": "20ml",

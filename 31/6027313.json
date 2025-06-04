@@ -5,7 +5,7 @@
   "code": "6027313",
   "price": "25.95",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6776 > 6775 > 6777",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
   "onPromo": "3029590",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267162,
-      "name": "Serum"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "30ml, vochtarme en vermoeide huid",
