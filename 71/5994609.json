@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Lash Sensational Sky High Blue Mist Mascara",
+  "code": "5994609",
+  "price": "20.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3029575",
+  "mmkId": "3029575",
+  "productGroupId": "471895",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-lash-sensational-sky-high-blue-mist-mascara/p/5994609",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267133,
+      "name": "Mascara"
+    }
+  ],
+  "description": "7,2ml",
+  "image": "/medias/sys_master/prd-images/h95/h9d/30079142199326/prd-front-5994609-1_600x600/prd-front-5994609-1-600x600.jpg"
+}

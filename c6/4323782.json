@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Carmex Cherry Lippenbalsem",
+  "code": "4323782",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3328 > 4232",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/carmex-cherry-lippenbalsem/p/4323782",
+  "listName": "Lister",
+  "brand": "Carmex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267166,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2d/h51/29427796344862/prd-front-4323782-1_600x600/prd-front-4323782-1-600x600.jpg"
+}

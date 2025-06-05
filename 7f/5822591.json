@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vaseline Lip Care Crème Brûlée Lippenbalsem",
+  "code": "5822591",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 2968 > 3770",
+  "supplier": "UNILEVER ASIA PRIV. LTD",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vaseline-lip-care-creme-brulee-lippenbalsem/p/5822591",
+  "listName": "Lister",
+  "brand": "Vaseline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267166,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "7g",
+  "image": "/medias/sys_master/prd-images/h56/hfd/31944410497054/prd-front-5822591-1_600x600/prd-front-5822591-1-600x600.jpg"
+}
