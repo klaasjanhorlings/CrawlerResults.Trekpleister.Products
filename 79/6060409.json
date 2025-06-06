@@ -25,17 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267165,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30267474,
-      "name": "Reinigingsgel"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
-  "description": "200ml - Alle huidtypen en gevoelige huid"
+  "description": "200ml - Alle huidtypen en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hf4/hb1/34450760007710/prd-front-6060409-1_600x600/prd-front-6060409-1-600x600.jpg"
 }

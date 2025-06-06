@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Sonicare For Kids 3-7 jaar HX6034/90 Opzetborstels",
+  "code": "6298248",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-sonicare-for-kids-3-7-jaar-hx6034/90-opzetborstels/p/6298248",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267232,
+      "name": "Opzetborstels"
+    }
+  ],
+  "description": "wit, 4 stuks",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}
