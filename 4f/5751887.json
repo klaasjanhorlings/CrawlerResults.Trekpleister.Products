@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "LANSINOH LABORATORIES",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "123g"
+  "description": "123g",
+  "image": "/medias/prd-front-5751887-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTg1MDJ8aW1hZ2UvanBlZ3xhREF5TDJnMU1pOHhOalExTmpreE1UUXlNVFEzTUM5d2NtUXRabkp2Ym5RdE5UYzFNVGc0TnkweFh6WXdNSGcyTURBfDgwNTAxNjM5OGI0MWIzOWZjOTM4OWY2MmU0MzhmMjIzYTk3MTZkYjM2MWRkNmMxODNlZTE0YWZmMDU1Y2IwZDU"
 }
