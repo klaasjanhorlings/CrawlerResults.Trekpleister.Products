@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "KENVUE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart, mt XL-XXL",
-  "image": "/medias/sys_master/prd-images/h79/had/34460692807710/prd-front-6243627-1_600x600/prd-front-6243627-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0f/h39/34470305234974/prd-front-6243627-1_600x600/prd-front-6243627-1-600x600.jpg"
 }
