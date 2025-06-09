@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "3029711",
-  "mmkId": "3029711",
-  "productGroupId": "489027",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-natural-fresh-deodorant-roller/p/3941309",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "55ml",
-  "image": "/medias/sys_master/prd-images/h2c/hf8/28576341360670/prd-front-3941309-1_600x600/prd-front-3941309-1-600x600.jpg"
+  "description": "55ml"
 }

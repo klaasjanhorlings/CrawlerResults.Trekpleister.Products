@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3029709",
-  "mmkId": "3029709",
-  "productGroupId": "480105",
+  "onPromo": "3029548",
+  "mmkId": "3029548",
+  "productGroupId": "468384",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-intense-volume-deep-caring-shampoo/p/5244667",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "440ml"
+  "description": "440ml",
+  "image": "/medias/sys_master/prd-images/h6a/hc5/33758923259934/prd-front-5244667-1_600x600/prd-front-5244667-1-600x600.jpg"
 }

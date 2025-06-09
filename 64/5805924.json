@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
   "supplier": "WEPA FRANCE SAS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029730",
+  "mmkId": "3029730",
+  "productGroupId": "467949",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-extra-zacht-sterk-toiletpapier/p/5805924",
@@ -29,5 +29,6 @@
       "name": "Toiletpapier"
     }
   ],
-  "description": "9 rollen"
+  "description": "9 rollen",
+  "image": "/medias/sys_master/prd-images/hc4/h52/28613650808862/prd-front-5805924-1_600x600/prd-front-5805924-1-600x600.jpg"
 }

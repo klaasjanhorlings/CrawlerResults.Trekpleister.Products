@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3029568",
-  "mmkId": "3029568",
-  "productGroupId": "471224",
+  "onPromo": "3029738",
+  "mmkId": "3029738",
+  "productGroupId": "474665",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-soothing-micellair-water/p/2999382",
@@ -37,5 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "200ml - Gevoelige huid"
+  "description": "200ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hcd/h84/34481586274334/prd-front-2999382-1_600x600/prd-front-2999382-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3029568",
-  "mmkId": "3029568",
-  "productGroupId": "471224",
+  "onPromo": "3029738",
+  "mmkId": "3029738",
+  "productGroupId": "474665",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-zuiverende-clear-up-strips/p/1301427",
@@ -33,5 +33,6 @@
       "name": "Pimple patches"
     }
   ],
-  "description": "6 stuks"
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/h80/hcd/34479993094174/prd-front-1301427-1_600x600/prd-front-1301427-1-600x600.jpg"
 }

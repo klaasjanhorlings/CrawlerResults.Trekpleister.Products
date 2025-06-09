@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "3029711",
-  "mmkId": "3029711",
-  "productGroupId": "489027",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-invisible-care-deodorant-roller/p/3940966",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hfd/hd5/28576338739230/prd-front-3940966-1_600x600/prd-front-3940966-1-600x600.jpg"
+  "description": "50ml"
 }

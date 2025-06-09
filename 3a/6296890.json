@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Peppa Pig Peppa's 1-2-3 Bus",
+  "code": "6296890",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "OSTOY TRADING B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/peppa-pig-peppas-1-2-3-bus/p/6296890",
+  "listName": "Lister",
+  "brand": "Peppa Pig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 49281783,
+      "name": "Interactief speelgoed"
+    }
+  ],
+  "description": ""
+}
