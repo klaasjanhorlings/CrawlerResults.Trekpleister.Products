@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "inStock",
-  "onPromo": "3029742",
-  "mmkId": "3029742",
-  "productGroupId": "484020",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/diadermine-hydra-nutrition-dagcreme/p/571634",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Droge en gevoelige huid",
-  "image": "/medias/sys_master/prd-images/hec/h7a/34477108068382/prd-front-571634-1_600x600/prd-front-571634-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h00/hde/34484449673246/prd-front-571634-1_600x600/prd-front-571634-1-600x600.jpg"
 }

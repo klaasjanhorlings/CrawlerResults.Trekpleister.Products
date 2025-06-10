@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "inStock",
-  "onPromo": "3029446",
-  "mmkId": "3029446",
-  "productGroupId": "477488",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bruno-banani-magic-man-eau-de-toilette/p/5537092",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h72/h12/28578967584798/prd-front-5537092-1_600x600/prd-front-5537092-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 3144 > 6670",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "3029568",
-  "mmkId": "3029568",
-  "productGroupId": "471224",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-protect-care-aftershave-balsem/p/22449",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h2f/ha3/34476190597150/prd-front-22449-1_600x600/prd-front-22449-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h77/h87/34489685213214/prd-front-22449-1_600x600/prd-front-22449-1-600x600.jpg"
 }

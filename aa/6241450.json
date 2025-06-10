@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 6364 > 6365",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "inStock",
-  "onPromo": "3029491",
-  "mmkId": "3029491",
-  "productGroupId": "474517",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-baby-dry-maat-5-luiers/p/6241450",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 5"
     }
   ],
-  "description": "mt 5 (11-17kg), 128 stuks"
+  "description": "mt 5 (11-17kg), 128 stuks",
+  "image": "/medias/sys_master/prd-images/h10/h61/33348765548574/prd-front-6241450-1_600x600/prd-front-6241450-1-600x600.jpg"
 }

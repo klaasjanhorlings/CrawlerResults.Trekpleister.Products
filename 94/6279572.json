@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swiffer Duster Navullingen",
+  "code": "6279572",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3029552",
+  "mmkId": "3029552",
+  "productGroupId": "469438",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/swiffer-duster-navullingen/p/6279572",
+  "listName": "Lister",
+  "brand": "Swiffer",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430573,
+      "name": "Schoonmaakartikelen"
+    }
+  ],
+  "description": "9 stuks",
+  "image": "/medias/sys_master/prd-images/hff/h5a/34124204736542/prd-front-6279572-1_600x600/prd-front-6279572-1-600x600.jpg"
+}
