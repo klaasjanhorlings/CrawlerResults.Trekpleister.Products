@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "WELEDA BENELUX SE",
-  "inStock": "inStock",
-  "onPromo": "3029610",
-  "mmkId": "3029610",
-  "productGroupId": "476417",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/weleda-skin-food-voedende-alles-in-een-creme/p/6168755",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml - Droge en ruwe huid",
-  "image": "/medias/sys_master/prd-images/h7e/hf4/34485428977694/prd-front-6168755-1_600x600/prd-front-6168755-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he4/hbd/34509146882078/prd-front-6168755-1_600x600/prd-front-6168755-1-600x600.jpg"
 }

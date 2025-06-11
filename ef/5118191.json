@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 3115 > 3981",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-5118191-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTM5NDB8aW1hZ2UvanBlZ3xhRGt3TDJnMU55OHlOalU1TlRFNU16YzBPVFV6TkM5d2NtUXRabkp2Ym5RdE5URXhPREU1TVMweFh6WXdNSGcyTURBfDM1YTI3NTIwMmQyMzU3NWUyMDE5ZTM1MTRiM2E2M2VkMDk3MmY2YTI0N2JkODJhNzNmMDZhMjNiYWI1ZDY1MTI"
+  "description": "100ml"
 }

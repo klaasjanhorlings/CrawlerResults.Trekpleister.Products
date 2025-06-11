@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips MG3710 Multigroom",
+  "code": "5523106",
+  "price": "19.99",
+  "priceOriginal": "24.99",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 5887 > 6444",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/philips-mg3710-multigroom/p/5523106",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267241,
+      "name": "Multigroomers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfb/h66/29124237885470/prd-front-5523106-1_600x600/prd-front-5523106-1-600x600.jpg"
+}

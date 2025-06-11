@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
   "supplier": "KNEIPP NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "3029529",
-  "mmkId": "3029529",
-  "productGroupId": "465992",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kneipp-embrace-life-badschuim/p/6164926",
@@ -33,6 +33,5 @@
       "name": "Badschuim"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h6b/h5f/32364199837726/prd-front-6164926-1_600x600/prd-front-6164926-1-600x600.jpg"
+  "description": "400ml"
 }

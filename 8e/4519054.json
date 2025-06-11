@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029548",
+  "mmkId": "3029548",
+  "productGroupId": "468384",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-matt-fiber-paste/p/4519054",
@@ -29,8 +29,8 @@
       "name": "Haarstylingproducten"
     },
     {
-      "id": 30267486,
-      "name": "Haarwax"
+      "id": 30267488,
+      "name": "Haarpasta"
     }
   ],
   "description": "100ml",

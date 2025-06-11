@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sore Baby Maïsfingers met Aardbeismaak",
+  "code": "5668853",
+  "price": "0.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
+  "supplier": "SORE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sore-baby-maisfingers-met-aardbeismaak/p/5668853",
+  "listName": "Lister",
+  "brand": "Sore",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267331,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "35g",
+  "image": "/medias/sys_master/prd-images/h04/h3e/28720520921118/prd-front-5668853-1_600x600/prd-front-5668853-1-600x600.jpg"
+}

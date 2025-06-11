@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "3029548",
-  "mmkId": "3029548",
-  "productGroupId": "468384",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-intense-color-deep-conditioner/p/6240638",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/ha9/hc1/34486758178846/prd-front-6240638-1_600x600/prd-front-6240638-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4b/h5e/34498173337630/prd-front-6240638-1_600x600/prd-front-6240638-1-600x600.jpg"
 }

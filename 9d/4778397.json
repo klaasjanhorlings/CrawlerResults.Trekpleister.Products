@@ -11,11 +11,11 @@
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "Ander merk",
+  "brandType": "A of B merk",
   "discount": "",
   "url": "/1-persoons-luchtbed/p/4778397",
   "listName": "Lister",
-  "brand": "Jilong",
+  "brand": "Bestway",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,5 +33,6 @@
       "name": "Reisartikelen"
     }
   ],
-  "description": "191cm x 73cm x 22 cm"
+  "description": "191cm x 73cm x 22 cm",
+  "image": "/medias/sys_master/prd-images/h82/h47/30167014309918/prd-front-4778397-1_600x600/prd-front-4778397-1-600x600.jpg"
 }

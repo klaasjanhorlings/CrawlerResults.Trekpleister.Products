@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "3029738",
-  "mmkId": "3029738",
-  "productGroupId": "474665",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-3-in-1-micellair-skin-breathe-reinigingsdoekjes/p/3822855",
@@ -37,6 +37,5 @@
       "name": "Reinigingsdoekjes"
     }
   ],
-  "description": "25 stuks",
-  "image": "/medias/sys_master/prd-images/h1e/h56/34490683031582/prd-front-3822855-1_600x600/prd-front-3822855-1-600x600.jpg"
+  "description": "25 stuks"
 }

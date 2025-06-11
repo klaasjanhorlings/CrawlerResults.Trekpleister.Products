@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "O'Keeffe's Lip Repair Ongeparfumeerde Lippenbalsem",
-  "code": "4730391",
+  "itemName": "Honeybalm Watermelon Lipbalm",
+  "code": "6186157",
   "price": "4.99",
-  "priceOriginal": "",
-  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 2968 > 3770",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
-  "url": "/okeeffes-lip-repair-ongeparfumeerde-lippenbalsem/p/4730391",
+  "discount": "€ 5,00",
+  "url": "/honeybalm-watermelon-lipbalm/p/6186157",
   "listName": "Lister",
-  "brand": "O'Keeffe's",
+  "brand": "HONEYBALM",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "4,2g",
-  "image": "/medias/sys_master/prd-images/h70/h1f/32083849576478/prd-front-4730391-1_600x600/prd-front-4730391-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h00/hfc/31977894543390/prd-front-6186157-1_600x600/prd-front-6186157-1-600x600.jpg"
 }

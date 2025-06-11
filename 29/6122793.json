@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "NAIF CARE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,12 +29,12 @@
       "name": "Babyverzorging"
     },
     {
-      "id": 30267334,
-      "name": "Baby bad- en doucheverzorging"
+      "id": 30267332,
+      "name": "Baby haarverzorging"
     },
     {
-      "id": 30267582,
-      "name": "Babywasgel"
+      "id": 30267573,
+      "name": "Babyshampoo"
     }
   ],
   "description": "200ml",

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BRADFORD & HAMILTON BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030202",
+  "mmkId": "3030202",
+  "productGroupId": "500155",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/australian-gold-instant-bronzer-spf15-zonnebrand-spray-gel/p/3339736",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "237ml"
+  "description": "237ml",
+  "image": "/medias/sys_master/prd-images/h5b/h1c/29999717515294/prd-front-3339736-1_600x600/prd-front-3339736-1-600x600.jpg"
 }

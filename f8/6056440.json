@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Revitalift Laser Gelreiniger",
-  "code": "6112783",
-  "price": "12.99",
+  "itemName": "Celenes By Sweden Micellair Reinigingswater",
+  "code": "6056440",
+  "price": "12.95",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
-  "supplier": "LOREAL NED BV",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
+  "supplier": "CAREX BENELUX BV",
   "inStock": "inStock",
   "onPromo": "3029738",
   "mmkId": "3029738",
   "productGroupId": "474665",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-revitalift-laser-gelreiniger/p/6112783",
+  "url": "/celenes-by-sweden-micellair-reinigingswater/p/6056440",
   "listName": "Lister",
-  "brand": "L'Oreal Paris",
+  "brand": "CELENES BY SWEDEN",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,10 +33,10 @@
       "name": "Gezichtsreiniging"
     },
     {
-      "id": 30267475,
-      "name": "Cleanser"
+      "id": 30267472,
+      "name": "Micellair water"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h86/hcb/31511684481054/prd-front-6112783-1_600x600/prd-front-6112783-1-600x600.jpg"
+  "description": "250ml, droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h40/h8e/31005312843806/prd-front-6056440-1_600x600/prd-front-6056440-1-600x600.jpg"
 }

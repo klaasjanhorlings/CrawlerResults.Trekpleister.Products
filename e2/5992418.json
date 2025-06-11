@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "TRADE SENSE BV",
-  "inStock": "inStock",
-  "onPromo": "3029505",
-  "mmkId": "3029505",
-  "productGroupId": "452199",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organic-shop-pu-erh-tea-caffeine-tonic-eye-gel-patch/p/5992418",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h87/hb4/34489742917662/prd-front-5992418-1_600x600/prd-front-5992418-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h11/he1/34499785457694/prd-front-5992418-1_600x600/prd-front-5992418-1-600x600.jpg"
 }

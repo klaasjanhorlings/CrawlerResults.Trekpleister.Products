@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
   "supplier": "KENVUE",
-  "inStock": "inStock",
-  "onPromo": "3029738",
-  "mmkId": "3029738",
-  "productGroupId": "474665",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-aqua-gezichtsreiniger/p/6060409",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "200ml - Alle huidtypen en gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h56/ha9/34488779538462/prd-front-6060409-1_600x600/prd-front-6060409-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h92/h7a/34499053518878/prd-front-6060409-1_600x600/prd-front-6060409-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "X-Shot Waterpistool",
+  "code": "4015572",
+  "price": "5.99",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "5921 > 6023 > 2263 > 2622 > 3301 > 4200",
+  "supplier": "HERMANEX INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 4,00",
+  "url": "/x-shot-waterpistool/p/4015572",
+  "listName": "Lister",
+  "brand": "Zuru",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267084,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 61683060,
+      "name": "Waterspeelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4b/h8d/33642288742430/prd-front-4015572-1_600x600/prd-front-4015572-1-600x600.jpg"
+}
