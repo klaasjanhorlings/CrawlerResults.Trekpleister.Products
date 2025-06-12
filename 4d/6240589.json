@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6696",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029567",
+  "mmkId": "3029567",
+  "productGroupId": "471001",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-full-hair-wonder-lengths-filler-serum/p/6240589",
@@ -33,6 +33,5 @@
       "name": "Haarserum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h87/h7a/33772638371870/prd-front-6240589-1_600x600/prd-front-6240589-1-600x600.jpg"
+  "description": "100ml"
 }

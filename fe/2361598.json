@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea For Men Vitality Fresh Douche",
+  "itemName": "NIVEA MEN Vitality 3-in-1 Douchegel",
   "code": "2361598",
   "price": "5.29",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "471224",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-for-men-vitality-fresh-douche/p/2361598",
+  "url": "/nivea-men-vitality-3-in-1-douchegel/p/2361598",
   "listName": "Lister",
   "brand": "Nivea Men",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h0e/hda/32395920539678/prd-front-2361598-1_600x600/prd-front-2361598-1-600x600.jpg"
 }
