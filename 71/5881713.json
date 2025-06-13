@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Colgate Max White Led Whitening Kit",
+  "itemName": "Colgate Max White Led Whitening Kit + Pen",
   "code": "5881713",
   "price": "79.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/colgate-max-white-led-whitening-kit/p/5881713",
+  "url": "/colgate-max-white-led-whitening-kit-pen/p/5881713",
   "listName": "Lister",
   "brand": "Colgate",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Whitening producten"
     }
   ],
-  "description": "Whitening",
-  "image": "/medias/sys_master/prd-images/h9e/hb7/33905586241566/prd-front-5881713-1_600x600/prd-front-5881713-1-600x600.jpg"
+  "description": "Whitening"
 }

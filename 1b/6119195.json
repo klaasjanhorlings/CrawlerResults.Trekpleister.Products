@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "The Master Perfumer Nr.39 Absolute Iris Eau de Toilette",
+  "code": "6119195",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "MORE LABELS GROUP BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/the-master-perfumer-nr39-absolute-iris-eau-de-toilette/p/6119195",
+  "listName": "Lister",
+  "brand": "The Master Perfumer",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h3d/h60/32699893153822/prd-front-6119195-1_600x600/prd-front-6119195-1-600x600.jpg"
+}

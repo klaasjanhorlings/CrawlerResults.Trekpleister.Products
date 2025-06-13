@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "GUM Trav-Ler 1,3 mm Interdentale Ragers",
+  "itemName": "GUM Trav-Ler Ragers",
   "code": "3539271",
   "price": "6.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "467287",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/gum-trav-ler-1-3-mm-interdentale-ragers/p/3539271",
+  "url": "/gum-trav-ler-ragers/p/3539271",
   "listName": "Lister",
   "brand": "Gum",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "6 stuks",
-  "image": "/medias/sys_master/prd-images/hef/h78/34509581221918/prd-front-3539271-1_600x600/prd-front-3539271-1-600x600.jpg"
+  "description": "1,3mm, 6 stuks",
+  "image": "/medias/sys_master/prd-images/ha3/hf2/34520220893214/prd-front-3539271-1_600x600/prd-front-3539271-1-600x600.jpg"
 }
