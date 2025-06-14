@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mok met Oor",
+  "code": "6256906",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 5860 > 2195 > 4908 > 4954 > 5000",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/mok-met-oor/p/6256906",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267454,
+      "name": "Keuken"
+    }
+  ],
+  "description": "groen, 300ml",
+  "image": "/medias/sys_master/prd-images/h57/h73/34320326754334/prd-front-6256906-1_600x600/prd-front-6256906-1-600x600.jpg"
+}
