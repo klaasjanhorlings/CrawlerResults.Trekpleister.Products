@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3029555",
-  "mmkId": "3029555",
-  "productGroupId": "469501",
+  "onPromo": "3029802",
+  "mmkId": "3029802",
+  "productGroupId": "469511",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-got2b-beach-matt-surfer-look-styling-paste/p/4129560",
@@ -33,5 +33,6 @@
       "name": "Haarpasta"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hff/h71/33916439756830/prd-front-4129560-1_600x600/prd-front-4129560-1-600x600.jpg"
 }

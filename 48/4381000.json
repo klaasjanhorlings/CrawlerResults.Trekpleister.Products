@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3029516",
-  "mmkId": "3029516",
-  "productGroupId": "461734",
+  "onPromo": "3029784",
+  "mmkId": "3029784",
+  "productGroupId": "462379",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-wondspray/p/4381000",
@@ -33,5 +33,6 @@
       "name": "Wondontsmetting"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml"
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/hbc/hb4/31942444580894/prd-front-4381000-1_600x600/prd-front-4381000-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3029575",
-  "mmkId": "3029575",
-  "productGroupId": "471895",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-lash-sensational-sky-high-tinted-primer/p/6003954",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "7,7ml"
+  "description": "7,7ml",
+  "image": "/medias/sys_master/prd-images/h29/hc8/30332943073310/prd-front-6003954-1_600x600/prd-front-6003954-1-600x600.jpg"
 }

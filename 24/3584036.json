@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "CAMPS FOOD BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029781",
+  "mmkId": "3029781",
+  "productGroupId": "457040",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ellas-kitchen-the-red-one-fruitsmoothie/p/3584036",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "90g"
+  "description": "90g",
+  "image": "/medias/prd-front-3584036-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQ1MTV8aW1hZ2UvanBlZ3xhRGxsTDJnNVl5OHhOak14TkRRd09EQTNOVEk1TkM5d2NtUXRabkp2Ym5RdE16VTROREF6TmkweFh6WXdNSGcyTURBfGZhYjViNDA4MDFhMzMzZmI2MTM4NjM0NWU0MzY3NzA5MDI1NTk4ZWMxZGYwZmNmY2Y1ODRjYmNkNGZmOTQ1YmQ"
 }

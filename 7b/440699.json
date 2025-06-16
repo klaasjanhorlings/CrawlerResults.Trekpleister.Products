@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cacharel Amor Amor Eau de Toilette",
+  "code": "440699",
+  "price": "23.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cacharel-amor-amor-eau-de-toilette/p/440699",
+  "listName": "Lister",
+  "brand": "Cacharel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/prd-front-440699-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjIxODd8aW1hZ2UvanBlZ3xhREF4TDJnM09TOHhOakl6TnpBek5qa3lPVEExTkM5d2NtUXRabkp2Ym5RdE5EUXdOams1TFRGZk5qQXdlRFl3TUF8ZjUzZDBlM2M3ZTJhNDIwZTI3MDIzNDBmZTAxZjlmM2Q5Nzg1NWU4MWY3OGI1Y2QwM2QzM2YwNDE2ZmM4YWQxMQ"
+}

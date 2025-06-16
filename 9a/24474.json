@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "3029579",
-  "mmkId": "3029579",
-  "productGroupId": "472612",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-rustgevend-passiflora-complex-tabletten/p/24474",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "80 stuks",
-  "image": "/medias/sys_master/prd-images/had/h40/32569464782878/prd-front-24474-1_600x600/prd-front-24474-1-600x600.jpg"
+  "description": "80 stuks"
 }

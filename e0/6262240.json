@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3029697",
-  "mmkId": "3029697",
-  "productGroupId": "474104",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-harmonie-maat-1-luiers/p/6262240",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 1"
     }
   ],
-  "description": "Maat 1 (2-5kg), 22 stuks"
+  "description": "Maat 1 (2-5kg), 22 stuks",
+  "image": "/medias/sys_master/prd-images/h32/h4b/33348456218654/prd-front-6262240-1_600x600/prd-front-6262240-1-600x600.jpg"
 }

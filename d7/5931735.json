@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "TRADE SENSE BV",
   "inStock": "inStock",
-  "onPromo": "3029505",
-  "mmkId": "3029505",
-  "productGroupId": "452199",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/treaclemoon-creamy-shea-butterfly-bodyscrub/p/5931735",
@@ -33,6 +33,5 @@
       "name": "Scrub"
     }
   ],
-  "description": "225ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h93/h93/30695946682398/prd-front-5931735-1_600x600/prd-front-5931735-1-600x600.jpg"
+  "description": "225ml - Normale huid"
 }

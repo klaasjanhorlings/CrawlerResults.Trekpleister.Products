@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
   "supplier": "CAMPS FOOD BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029781",
+  "mmkId": "3029781",
+  "productGroupId": "457040",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ellas-kitchen-organic-8m-bio-pasta-met-groente/p/6142113",
@@ -37,6 +37,5 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "190g",
-  "image": "/medias/sys_master/prd-images/h5e/h84/31460305338398/prd-front-6142113-1_600x600/prd-front-6142113-1-600x600.jpg"
+  "description": "190g"
 }

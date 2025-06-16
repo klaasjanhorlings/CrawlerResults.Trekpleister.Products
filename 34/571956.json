@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3029555",
-  "mmkId": "3029555",
-  "productGroupId": "469501",
+  "onPromo": "3029802",
+  "mmkId": "3029802",
+  "productGroupId": "469511",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-ultra-level-2-gel-wax/p/571956",
@@ -33,5 +33,6 @@
       "name": "Haarwax"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h7a/h76/33760523026462/prd-front-571956-1_600x600/prd-front-571956-1-600x600.jpg"
 }

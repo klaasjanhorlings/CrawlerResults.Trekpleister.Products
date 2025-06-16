@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3029575",
-  "mmkId": "3029575",
-  "productGroupId": "471895",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-lifter-gloss-004-silk-lipgloss/p/6045303",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "5,4ml"
+  "description": "5,4ml",
+  "image": "/medias/sys_master/prd-images/h94/h32/30691612426270/prd-front-6045303-1_600x600/prd-front-6045303-1-600x600.jpg"
 }

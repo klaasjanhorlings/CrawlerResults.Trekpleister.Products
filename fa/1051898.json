@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3029865",
+  "mmkId": "3029865",
+  "productGroupId": "483064",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-multi-a-z-compleet-tabletten/p/1051898",
@@ -33,5 +33,6 @@
       "name": "Weerstand en of energie"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h7a/hfc/28549345869854/prd-front-1051898-1_600x600/prd-front-1051898-1-600x600.jpg"
 }

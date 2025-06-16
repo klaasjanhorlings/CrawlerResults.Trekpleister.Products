@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Stalen Horloge",
+  "code": "6192296",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 2270 > 5045 > 5046 > 5047",
+  "supplier": "GOLDEN GIFT",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-stalen-horloge/p/6192296",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267417,
+      "name": "Sieraden en bijoux"
+    }
+  ],
+  "description": "goudkleur"
+}

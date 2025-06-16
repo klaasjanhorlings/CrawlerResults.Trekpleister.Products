@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6233",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3029745",
-  "mmkId": "3029745",
-  "productGroupId": "486062",
+  "onPromo": "3029865",
+  "mmkId": "3029865",
+  "productGroupId": "483064",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-huid-haar-en-nagels-tabletten/p/1049189",
@@ -33,5 +33,6 @@
       "name": "Beautysupplementen"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h51/h3e/32491137859614/prd-front-1049189-1_600x600/prd-front-1049189-1-600x600.jpg"
 }

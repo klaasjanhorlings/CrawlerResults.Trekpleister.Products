@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3029601",
-  "mmkId": "3029601",
-  "productGroupId": "475965",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-ultra-long-plus-maandverband/p/6267574",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "mt 3, 26 stuks"
+  "description": "mt 3, 26 stuks",
+  "image": "/medias/sys_master/prd-images/h32/h77/34145518288926/prd-front-6267574-1_600x600/prd-front-6267574-1-600x600.jpg"
 }

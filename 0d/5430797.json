@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029567",
-  "mmkId": "3029567",
-  "productGroupId": "471001",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sheamoisture-raw-shea-butter-deep-treatment-masker/p/5430797",
@@ -33,6 +33,5 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "326ml",
-  "image": "/medias/sys_master/prd-images/hbb/hc1/31861895594014/prd-front-5430797-1_600x600/prd-front-5430797-1-600x600.jpg"
+  "description": "326ml"
 }

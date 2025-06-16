@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3029614",
-  "mmkId": "3029614",
-  "productGroupId": "476802",
+  "onPromo": "3029869",
+  "mmkId": "3029869",
+  "productGroupId": "483960",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-eyes-retinol24-oogcreme-voor-de-nacht/p/5056017",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Alle huidtypen"
+  "description": "15ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hcf/hc1/31598539702302/prd-front-5056017-1_600x600/prd-front-5056017-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "SUNSTAR BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3029542",
-  "mmkId": "3029542",
-  "productGroupId": "467287",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/o7-active-mondspoeling/p/4089170",
@@ -33,6 +33,5 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/he6/h77/34509025738782/prd-front-4089170-1_600x600/prd-front-4089170-1-600x600.jpg"
+  "description": "500ml"
 }

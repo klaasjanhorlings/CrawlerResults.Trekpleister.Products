@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029520",
-  "mmkId": "3029520",
-  "productGroupId": "464074",
+  "onPromo": "3029788",
+  "mmkId": "3029788",
+  "productGroupId": "464077",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-epic-fresh-deodorant-bodyspray/p/5601072",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf1/h4f/33759205851166/prd-front-5601072-1_600x600/prd-front-5601072-1-600x600.jpg"
 }

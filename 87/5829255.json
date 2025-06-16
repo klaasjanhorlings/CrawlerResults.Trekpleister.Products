@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029531",
-  "mmkId": "3029531",
-  "productGroupId": "466557",
+  "onPromo": "3029792",
+  "mmkId": "3029792",
+  "productGroupId": "466565",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-pro-nature-coco-curl-creation-shampoo/p/5829255",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h23/h10/28573717954590/prd-front-5829255-1_600x600/prd-front-5829255-1-600x600.jpg"
+  "description": "400ml"
 }

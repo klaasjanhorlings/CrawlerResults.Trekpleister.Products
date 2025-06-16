@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029861",
+  "mmkId": "3029861",
+  "productGroupId": "482690",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-pure-balance-skin-refining-nacht-balsem/p/4717560",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Gecombineerde huid"
+  "description": "50ml - Gecombineerde huid",
+  "image": "/medias/sys_master/prd-images/hf5/h10/28551534575646/prd-front-4717560-1_600x600/prd-front-4717560-1-600x600.jpg"
 }

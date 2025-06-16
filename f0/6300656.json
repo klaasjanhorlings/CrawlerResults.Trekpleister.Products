@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "ALL-IN-1 BVBA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029870",
+  "mmkId": "3029870",
+  "productGroupId": "484019",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/remescar-herstellende-oogcontour-nachtcreme/p/6300656",
@@ -33,6 +33,5 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "20ml",
-  "image": "/medias/sys_master/prd-images/heb/hea/34285009993758/prd-front-6300656-1_600x600/prd-front-6300656-1-600x600.jpg"
+  "description": "20ml"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Witte Reus Color Reus Vloeibaar Wasmiddel",
+  "code": "5829164",
+  "price": "10.99",
+  "priceOriginal": "35.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "HENKEL NEDERLAND BV U-W",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 25,00",
+  "url": "/witte-reus-color-reus-vloeibaar-wasmiddel/p/5829164",
+  "listName": "Lister",
+  "brand": "Witte Reus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "3465ml, 77 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hf4/h63/31262586273822/prd-front-5829164-1_600x600/prd-front-5829164-1-600x600.jpg"
+}

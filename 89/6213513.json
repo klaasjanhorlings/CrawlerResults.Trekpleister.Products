@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3785",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3029755",
-  "mmkId": "3029755",
-  "productGroupId": "489021",
+  "onPromo": "3029786",
+  "mmkId": "3029786",
+  "productGroupId": "463620",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-blooming-selfcare-antitranspirant-spray/p/6213513",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h20/hd0/33410078146590/prd-front-6213513-1_600x600/prd-front-6213513-1-600x600.jpg"
 }

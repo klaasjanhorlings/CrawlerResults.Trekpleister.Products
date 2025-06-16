@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3029614",
-  "mmkId": "3029614",
-  "productGroupId": "476802",
+  "onPromo": "3029869",
+  "mmkId": "3029869",
+  "productGroupId": "483960",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-regenerist-niacinamide-hydraterende-dagcreme/p/6039948",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml, alle huidtypes"
+  "description": "50ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h8b/hce/31242623877150/prd-front-6039948-1_600x600/prd-front-6039948-1-600x600.jpg"
 }

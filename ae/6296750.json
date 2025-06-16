@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Geschenkset voor hem"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hea/h41/33832319483934/prd-front-6296750-1_600x600/prd-front-6296750-1-600x600.jpg"
+  "description": ""
 }

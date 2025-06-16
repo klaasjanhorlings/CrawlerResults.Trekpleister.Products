@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "GOLIATH B.V.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029932",
+  "mmkId": "3029932",
+  "productGroupId": "487703",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/goliath-kenniskoord-het-touwtrek-trivia-spel/p/6263444",
@@ -29,6 +29,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h51/hcf/33752616828958/prd-front-6263444-1_600x600/prd-front-6263444-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

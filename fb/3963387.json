@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3029865",
+  "mmkId": "3029865",
+  "productGroupId": "483064",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-multi-a-z-dragees/p/3963387",
@@ -33,5 +33,6 @@
       "name": "Weerstand en of energie"
     }
   ],
-  "description": "500 stuks"
+  "description": "500 stuks",
+  "image": "/medias/sys_master/prd-images/h83/h57/28549909839902/prd-front-3963387-1_600x600/prd-front-3963387-1-600x600.jpg"
 }

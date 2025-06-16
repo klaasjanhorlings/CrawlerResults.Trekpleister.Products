@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
-  "onPromo": "3029565",
-  "mmkId": "3029565",
-  "productGroupId": "470697",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wilkinson-sword-2-in-1-sensitive-navulmesjes/p/4052161",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h8a/ha3/33917835968542/prd-front-4052161-1_600x600/prd-front-4052161-1-600x600.jpg"
 }

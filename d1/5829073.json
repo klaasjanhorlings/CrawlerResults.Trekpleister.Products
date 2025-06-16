@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3029654",
-  "mmkId": "3029654",
-  "productGroupId": "483945",
+  "onPromo": "3029831",
+  "mmkId": "3029831",
+  "productGroupId": "475858",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-magic-retouch-5-lichtbruin-permanente-haarkleuring/p/5829073",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": "5"
+  "description": "5",
+  "image": "/medias/sys_master/prd-images/hef/h36/31764238106654/prd-front-5829073-1_600x600/prd-front-5829073-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3029548",
-  "mmkId": "3029548",
-  "productGroupId": "468384",
+  "onPromo": "3029800",
+  "mmkId": "3029800",
+  "productGroupId": "469506",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-curl-control-haarmousse/p/4041164",
@@ -33,6 +33,5 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hd3/h6d/33848669634590/prd-front-4041164-1_600x600/prd-front-4041164-1-600x600.jpg"
+  "description": "250ml"
 }
