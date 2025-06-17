@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Barbie Pop met Zwembad",
+  "code": "6241492",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2183 > 4933 > 4980 > 5026",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "3029932",
+  "mmkId": "3029932",
+  "productGroupId": "487703",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/barbie-pop-met-zwembad/p/6241492",
+  "listName": "Lister",
+  "brand": "Barbie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267080,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8a/h63/32896727351326/prd-front-6241492-1_600x600/prd-front-6241492-1-600x600.jpg"
+}

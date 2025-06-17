@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clementoni Nickolodeon Paw Patrol Kinderpuzzels",
+  "code": "6081290",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/clementoni-nickolodeon-paw-patrol-kinderpuzzels/p/6081290",
+  "listName": "Lister",
+  "brand": "Paw Patrol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "3 x 48 stukjes",
+  "image": "/medias/sys_master/prd-images/h55/hd3/31047255326750/prd-front-6081290-1_600x600/prd-front-6081290-1-600x600.jpg"
+}

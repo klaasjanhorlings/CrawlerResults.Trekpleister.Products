@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Diadermine Rimpel Expert 3D Pro-Hyaluron Dagcrème",
-  "code": "571592",
-  "price": "7.5",
+  "itemName": "Olay Double Action Dagcrème & Primer",
+  "code": "21225",
+  "price": "10.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
-  "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "outOfStock",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "Exclusief merk",
+  "brandType": "A of B merk",
   "discount": "",
-  "url": "/diadermine-rimpel-expert-3d-pro-hyaluron-dagcreme/p/571592",
+  "url": "/olay-double-action-dagcreme-primer/p/21225",
   "listName": "Lister",
-  "brand": "Diadermine",
+  "brand": "Olay",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h5f/h00/28573709369374/prd-front-571592-1_600x600/prd-front-571592-1-600x600.jpg"
+  "description": "50ml - Normale en droge huid",
+  "image": "/medias/sys_master/prd-images/h16/h08/31594251780126/prd-front-21225-1_600x600/prd-front-21225-1-600x600.jpg"
 }

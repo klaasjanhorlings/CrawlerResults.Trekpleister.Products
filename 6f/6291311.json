@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dierenzwembad",
+  "code": "6291311",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6023 > 4830 > 4845 > 4856 > 4867",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "3029932",
+  "mmkId": "3029932",
+  "productGroupId": "487703",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/dierenzwembad/p/6291311",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267128,
+      "name": "Dier"
+    },
+    {
+      "id": 30267449,
+      "name": "Dierspeelgoed"
+    }
+  ],
+  "description": "turquoise, 80cm x 30cm",
+  "image": "/medias/sys_master/prd-images/h86/hd2/33920746553374/prd-front-6291311-1_600x600/prd-front-6291311-1-600x600.jpg"
+}

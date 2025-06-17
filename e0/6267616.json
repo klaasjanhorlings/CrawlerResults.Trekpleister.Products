@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "mt 5, 8 stuks"
+  "description": "mt 5, 8 stuks",
+  "image": "/medias/sys_master/prd-images/h50/h01/34039613489182/prd-front-6267616-1_600x600/prd-front-6267616-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029809",
+  "mmkId": "3029809",
+  "productGroupId": "471223",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-dry-comfort-antitranspirant-spray/p/2740893",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h1c/h01/34548949942302/prd-front-2740893-1_600x600/prd-front-2740893-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he9/h2e/34562394193950/prd-front-2740893-1_600x600/prd-front-2740893-1-600x600.jpg"
 }

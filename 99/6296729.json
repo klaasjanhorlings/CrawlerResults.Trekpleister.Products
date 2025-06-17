@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Barbie Beach Kledingset",
+  "code": "6296729",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2183 > 4933 > 4980 > 5026",
+  "supplier": "OSTOY TRADING B.V.",
+  "inStock": "inStock",
+  "onPromo": "3029932",
+  "mmkId": "3029932",
+  "productGroupId": "487703",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/barbie-beach-kledingset/p/6296729",
+  "listName": "Lister",
+  "brand": "Barbie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267079,
+      "name": "Speelfiguren en speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha1/h7d/33952709640222/prd-front-6296729-1_600x600/prd-front-6296729-1-600x600.jpg"
+}

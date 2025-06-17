@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "4870 > 6031 > 2243 > 2408 > 2849 > 3588",
   "supplier": "FUJIFILM IMAGING PRODUC",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Instax cameras"
     }
   ],
-  "description": "wit",
-  "image": "/medias/sys_master/prd-images/h8b/hda/29299215597598/prd-front-5841393-1_600x600/prd-front-5841393-1-600x600.jpg"
+  "description": "wit"
 }

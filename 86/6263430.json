@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5164 > 5227 > 5416",
   "supplier": "GOLIATH B.V.",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029932",
+  "mmkId": "3029932",
+  "productGroupId": "487703",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/goliath-nexcube-pyramid/p/6263430",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h37/hb4/33752616042526/prd-front-6263430-1_600x600/prd-front-6263430-1-600x600.jpg"
 }
