@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6451 > 6452",
   "supplier": "ALL-IN-1 BVBA",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 14ml",
-  "image": "/medias/sys_master/prd-images/hda/h88/34556546875422/prd-front-6123605-1_600x600/prd-front-6123605-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h78/h5c/34568758591518/prd-front-6123605-1_600x600/prd-front-6123605-1-600x600.jpg"
 }

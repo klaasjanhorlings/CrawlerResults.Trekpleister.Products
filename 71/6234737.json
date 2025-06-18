@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30267043,
-      "name": "Make-up accessoires"
+      "id": 30267040,
+      "name": "Geschenksets"
     },
     {
-      "id": 30267174,
-      "name": "Make-up kwasten"
+      "id": 72666175,
+      "name": "Geschenkset voor haar"
     }
   ],
   "description": "5 stuks",

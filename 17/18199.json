@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dove Original 48h Antitranspirant Deodorant Stick",
+  "itemName": "Dove Original 72h Antitranspirant Deodorant Stick",
   "code": "18199",
   "price": "5.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "464077",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dove-original-48h-antitranspirant-deodorant-stick/p/18199",
+  "url": "/dove-original-72h-antitranspirant-deodorant-stick/p/18199",
   "listName": "Lister",
   "brand": "Dove",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "40ml",
+  "description": "50ml",
   "image": "/medias/sys_master/prd-images/h42/hb2/33391216984094/prd-front-18199-1_600x600/prd-front-18199-1-600x600.jpg"
 }

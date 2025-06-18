@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips 2000 Series BRE238/00 Body Epilator",
+  "code": "6261827",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 5886 > 6439",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "3029922",
+  "mmkId": "3029922",
+  "productGroupId": "487761",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-2000-series-bre238/00-body-epilator/p/6261827",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267244,
+      "name": "Epilators"
+    }
+  ],
+  "description": "paars",
+  "image": "/medias/sys_master/prd-images/h93/h42/33672554283038/prd-front-6261827-1_600x600/prd-front-6261827-1-600x600.jpg"
+}

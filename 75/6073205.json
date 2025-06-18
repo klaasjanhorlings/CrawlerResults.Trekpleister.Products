@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5926 > 2060 > 2192 > 4911 > 4957 > 5003",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "150cm x 130cm",
-  "image": "/medias/sys_master/prd-images/h97/hf7/30492932079646/prd-front-6073205-1_600x600/prd-front-6073205-1-600x600.jpg"
+  "description": "150cm x 130cm"
 }
