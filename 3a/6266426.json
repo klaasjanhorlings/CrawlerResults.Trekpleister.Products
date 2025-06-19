@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Orchard Breeze Douchegel",
+  "code": "6266426",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3029809",
+  "mmkId": "3029809",
+  "productGroupId": "471223",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-orchard-breeze-douchegel/p/6266426",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h9a/h16/34426216153118/prd-front-6266426-1_600x600/prd-front-6266426-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Elvive Dream Lengths Rapid Reviver Conditioner",
+  "code": "4708180",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3029831",
+  "mmkId": "3029831",
+  "productGroupId": "475858",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-elvive-dream-lengths-rapid-reviver-conditioner/p/4708180",
+  "listName": "Lister",
+  "brand": "Elvive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "180ml",
+  "image": "/medias/sys_master/prd-images/h09/h3b/33042236964894/prd-front-4708180-1_600x600/prd-front-4708180-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutral 0% Body Cream",
+  "code": "4027402",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3029790",
+  "mmkId": "3029790",
+  "productGroupId": "464080",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutral-0-body-cream/p/4027402",
+  "listName": "Lister",
+  "brand": "Neutral",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267198,
+      "name": "Bodycremes"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hc4/h87/29096879915038/prd-front-4027402-1_600x600/prd-front-4027402-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutral Parfumvrij Antiroosshampoo",
+  "code": "2859417",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3029790",
+  "mmkId": "3029790",
+  "productGroupId": "464080",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutral-parfumvrij-antiroosshampoo/p/2859417",
+  "listName": "Lister",
+  "brand": "Neutral",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/prd-front-2859417-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzkzMTJ8aW1hZ2UvanBlZ3xhR1U0TDJnNE5DOHlOalF4TURJME9ERXhNREV4TUM5d2NtUXRabkp2Ym5RdE1qZzFPVFF4TnkweFh6WXdNSGcyTURBfDI4ZWU4M2QyZDFiZDU3ZGE4NWMxNjA3Y2Q5ZmIwM2I3YTZjMjRhYWUxOGI5MGIyMzc1NzRkMzZiMWFiNjkyNjA"
+}

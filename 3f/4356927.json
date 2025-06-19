@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Styling Sculpting Paste",
+  "code": "4356927",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3029802",
+  "mmkId": "3029802",
+  "productGroupId": "469511",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-styling-sculpting-paste/p/4356927",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267488,
+      "name": "Haarpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h2b/he4/33764266049566/prd-front-4356927-1_600x600/prd-front-4356927-1-600x600.jpg"
+}

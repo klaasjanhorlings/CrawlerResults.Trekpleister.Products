@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Intense Glans & Care Shampoo",
+  "code": "1404621",
+  "price": "6.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3029792",
+  "mmkId": "3029792",
+  "productGroupId": "466565",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-intense-glans-care-shampoo/p/1404621",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/prd-front-1404621-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTgzMTJ8aW1hZ2UvanBlZ3xhRGM0TDJnNFlpOHhOakkwT0RVMk9EVTBOVE14TUM5d2NtUXRabkp2Ym5RdE1UUXdORFl5TVMweFh6WXdNSGcyTURBfGIyMDA0MTgxOGI0YzUyYTUxMGUwOTM5ZjQ0ZDBkMTE0YThmMjEwOWVjOWZmOWIyZTUxMzY0M2JkMGE0YTI4M2E"
+}

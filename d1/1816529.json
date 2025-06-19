@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L Oréal Paris Elvive Total Repair 5 Haarmasker",
+  "code": "1816529",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3029831",
+  "mmkId": "3029831",
+  "productGroupId": "475858",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/l-oreal-paris-elvive-total-repair-5-haarmasker/p/1816529",
+  "listName": "Lister",
+  "brand": "Elvive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hd0/h62/33045038366750/prd-front-1816529-1_600x600/prd-front-1816529-1-600x600.jpg"
+}

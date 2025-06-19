@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft x Gliss Holding Me Strongly Hold 4 Caring Hairspray",
+  "code": "6236382",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3029802",
+  "mmkId": "3029802",
+  "productGroupId": "469511",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-x-gliss-holding-me-strongly-hold-4-caring-hairspray/p/6236382",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267492,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h53/h0d/33771969445918/prd-front-6236382-1_600x600/prd-front-6236382-1-600x600.jpg"
+}

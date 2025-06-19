@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Men+Care Sandalwood & Vanilla 3-in-1 Douchegel",
+  "code": "6267539",
+  "price": "5.35",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3868",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3029789",
+  "mmkId": "3029789",
+  "productGroupId": "464078",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-mencare-sandalwood-vanilla-3-in-1-douchegel/p/6267539",
+  "listName": "Lister",
+  "brand": "Dove Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h8a/h28/33611788746782/prd-front-6267539-1_600x600/prd-front-6267539-1-600x600.jpg"
+}

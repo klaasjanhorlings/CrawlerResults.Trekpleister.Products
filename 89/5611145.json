@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Syoss Repair Boost Intensive Hair Mask",
+  "code": "5611145",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3029800",
+  "mmkId": "3029800",
+  "productGroupId": "469506",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-repair-boost-intensive-hair-mask/p/5611145",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hb6/h73/33773374373918/prd-front-5611145-1_600x600/prd-front-5611145-1-600x600.jpg"
+}

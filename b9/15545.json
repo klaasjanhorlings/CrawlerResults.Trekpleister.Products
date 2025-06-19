@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Crème",
+  "code": "15545",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3029809",
+  "mmkId": "3029809",
+  "productGroupId": "471223",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-creme/p/15545",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267198,
+      "name": "Bodycremes"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/ha0/hf7/34396837052446/prd-front-15545-1_600x600/prd-front-15545-1-600x600.jpg"
+}

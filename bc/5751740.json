@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029913",
+  "mmkId": "3029913",
+  "productGroupId": "495483",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-gift-of-wellness-geschenkset/p/5751740",
@@ -33,6 +33,5 @@
       "name": "Geschenkset voor haar"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hb7/hd0/34427701788702/prd-front-5751740-1_600x600/prd-front-5751740-1-600x600.jpg"
+  "description": ""
 }

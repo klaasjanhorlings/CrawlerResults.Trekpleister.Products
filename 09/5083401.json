@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Aftersun Sensitive Crème Gel",
+  "code": "5083401",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3029809",
+  "mmkId": "3029809",
+  "productGroupId": "471223",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-sun-aftersun-sensitive-creme-gel/p/5083401",
+  "listName": "Lister",
+  "brand": "Nivea Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267215,
+      "name": "Aftersun"
+    }
+  ],
+  "description": "175ml",
+  "image": "/medias/sys_master/prd-images/h46/he6/34395556839454/prd-front-5083401-1_600x600/prd-front-5083401-1-600x600.jpg"
+}

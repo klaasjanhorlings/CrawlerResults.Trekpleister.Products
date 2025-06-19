@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3029832",
-  "mmkId": "3029832",
-  "productGroupId": "475862",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-classic-medium-bb-cream/p/2279313",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h5b/h56/34569216065566/prd-front-2279313-1_600x600/prd-front-2279313-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h16/h4f/34583552294942/prd-front-2279313-1_600x600/prd-front-2279313-1-600x600.jpg"
 }

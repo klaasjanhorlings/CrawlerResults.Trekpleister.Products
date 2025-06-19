@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Venus Satin Care Huid & Schaamhaar 2-In-1 Reiniger en Scheergel",
+  "code": "5634378",
+  "price": "15.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 5717 > 5718 > 5719",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3029857",
+  "mmkId": "3029857",
+  "productGroupId": "482318",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-venus-satin-care-huid-schaamhaar-2-in-1-reiniger-en-scheergel/p/5634378",
+  "listName": "Lister",
+  "brand": "Gillette Venus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267238,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "190ml",
+  "image": "/medias/sys_master/prd-images/h95/ha7/28581869158430/prd-front-5634378-1_600x600/prd-front-5634378-1-600x600.jpg"
+}
