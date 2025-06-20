@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Levendige Kleur Conditioner",
+  "code": "6292816",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-levendige-kleur-conditioner/p/6292816",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hcd/h84/34247838597150/prd-front-6292816-1_600x600/prd-front-6292816-1-600x600.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Intense Repair Beschermende Leave-In Crème",
+  "code": "6292760",
+  "price": "7.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 3577",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-intense-repair-beschermende-leave-in-creme/p/6292760",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267485,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "200ml"
+}

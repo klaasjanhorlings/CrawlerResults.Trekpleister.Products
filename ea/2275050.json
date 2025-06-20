@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3913",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029831",
+  "mmkId": "3029831",
+  "productGroupId": "475858",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-multivitamines-2-in-1-shampoo/p/2275050",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hb5/hd2/33047519625246/prd-front-2275050-1_600x600/prd-front-2275050-1-600x600.jpg"
+  "description": "250ml"
 }

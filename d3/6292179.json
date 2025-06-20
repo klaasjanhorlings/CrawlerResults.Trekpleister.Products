@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Oil & Care Voedend Crème Haarmasker",
+  "code": "6292179",
+  "price": "8.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6695",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-oil-care-voedend-creme-haarmasker/p/6292179",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/haf/h59/34524634611742/prd-front-6292179-1_600x600/prd-front-6292179-1-600x600.jpg"
+}

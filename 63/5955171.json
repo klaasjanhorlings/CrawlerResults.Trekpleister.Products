@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "RAVENSBURGER BV",
-  "inStock": "inStock",
-  "onPromo": "3029932",
-  "mmkId": "3029932",
-  "productGroupId": "487703",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ravensburger-super-mario-memory/p/5955171",
@@ -23,6 +23,10 @@
     {
       "id": 29536626,
       "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
     },
     {
       "id": 49281487,
