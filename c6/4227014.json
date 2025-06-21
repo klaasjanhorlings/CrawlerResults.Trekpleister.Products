@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
   "supplier": "HEEL BIOLOGISCHE GENEES",
-  "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "10g",
-  "image": "/medias/sys_master/prd-images/hc9/hd7/34595166519326/prd-front-4227014-1_600x600/prd-front-4227014-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h72/hc0/34607617802270/prd-front-4227014-1_600x600/prd-front-4227014-1-600x600.jpg"
 }
