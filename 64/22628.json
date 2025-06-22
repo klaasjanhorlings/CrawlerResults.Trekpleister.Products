@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
   "supplier": "HEEL BIOLOGISCHE GENEES",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Homeopathisch geneesmiddel - 150g",
-  "image": "/medias/sys_master/prd-images/h7b/h7b/34613073346590/prd-front-22628-1_600x600/prd-front-22628-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hbd/h90/34625358757918/prd-front-22628-1_600x600/prd-front-22628-1-600x600.jpg"
 }
