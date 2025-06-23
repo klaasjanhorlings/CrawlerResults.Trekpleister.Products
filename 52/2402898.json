@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h2e/he8/30917553979422/prd-front-2402898-1_600x600/prd-front-2402898-1-600x600.jpg"
+  "description": ""
 }

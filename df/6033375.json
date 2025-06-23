@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
   "supplier": "SOFIDEL BENELUX NV/SA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029934",
+  "mmkId": "3029934",
+  "productGroupId": "481201",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nalys-soft-toiletpapier/p/6033375",
@@ -29,5 +29,6 @@
       "name": "Toiletpapier"
     }
   ],
-  "description": "24 rollen"
+  "description": "24 rollen",
+  "image": "/medias/sys_master/prd-images/hee/h60/30007058628638/prd-front-6033375-1_600x600/prd-front-6033375-1-600x600.jpg"
 }

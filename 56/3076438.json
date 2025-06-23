@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
   "supplier": "RB HYGIENE HOME NL BV",
-  "inStock": "inStock",
-  "onPromo": "3029821",
-  "mmkId": "3029821",
-  "productGroupId": "472566",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vanish-oxi-action-gold-powergel-vlekverwijderaar-voorbehandeling/p/3076438",
@@ -29,5 +29,6 @@
       "name": "Vlekverwijderaars"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h8b/h11/34099686703134/prd-front-3076438-1_600x600/prd-front-3076438-1-600x600.jpg"
 }

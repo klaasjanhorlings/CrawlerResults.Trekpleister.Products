@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3029832",
-  "mmkId": "3029832",
-  "productGroupId": "475862",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-hyaluronzuur-aloe-vera-micellair-reinigingswater/p/5514188",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "400ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h36/hf1/34629804097566/prd-front-5514188-1_600x600/prd-front-5514188-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h21/h24/34638438760478/prd-front-5514188-1_600x600/prd-front-5514188-1-600x600.jpg"
 }

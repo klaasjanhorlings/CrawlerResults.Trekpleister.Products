@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
   "supplier": "ALPINE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3029952",
+  "mmkId": "3029952",
+  "productGroupId": "482448",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/alpine-pluggies-kids-oordoppen/p/5918463",
@@ -37,5 +37,6 @@
       "name": "Oordoppen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2c/h38/32542812012574/prd-front-5918463-1_600x600/prd-front-5918463-1-600x600.jpg"
 }

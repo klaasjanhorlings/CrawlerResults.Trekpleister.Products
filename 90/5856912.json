@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "YARI BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "355ml"
+  "description": "355ml",
+  "image": "/medias/sys_master/prd-images/h59/hea/28582546145310/prd-front-5856912-1_600x600/prd-front-5856912-1-600x600.jpg"
 }
