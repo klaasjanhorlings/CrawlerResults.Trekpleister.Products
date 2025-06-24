@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Freeman Neon Vibes No Stress Clay Masks",
+  "code": "5343353",
+  "price": "9.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/freeman-neon-vibes-no-stress-clay-masks/p/5343353",
+  "listName": "Lister",
+  "brand": "Freeman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "5 stuks",
+  "image": "/medias/sys_master/prd-images/h61/he5/34531969925150/prd-front-5343353-1_600x600/prd-front-5343353-1-600x600.jpg"
+}

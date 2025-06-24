@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Voltaren Emulgel Extra Sterk 2,32% Gel",
+  "code": "6290492",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/voltaren-emulgel-extra-sterk-2-32-gel/p/6290492",
+  "listName": "Lister",
+  "brand": "Voltaren",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267263,
+      "name": "Pijn"
+    },
+    {
+      "id": 30267530,
+      "name": "Diclofenac"
+    }
+  ],
+  "description": "Geneesmiddel - 30g",
+  "image": "/medias/sys_master/prd-images/h51/h21/34571477319710/prd-front-6290492-1_600x600/prd-front-6290492-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3100 > 3963",
   "supplier": "BAYER BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Vaginale schimmel"
     }
   ],
-  "description": "Geneesmiddel",
-  "image": "/medias/sys_master/prd-images/haf/h39/34634438770718/prd-front-2871093-1_600x600/prd-front-2871093-1-600x600.jpg"
+  "description": "Geneesmiddel"
 }

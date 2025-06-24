@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Koeltas met Bloemetjesprint",
+  "code": "6203531",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 2244 > 2578 > 3199 > 6414",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "3029909",
+  "mmkId": "3029909",
+  "productGroupId": "489628",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/koeltas-met-bloemetjesprint/p/6203531",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267420,
+      "name": "Tassen"
+    }
+  ],
+  "description": "24,5cm x 12cm x 24,5cm",
+  "image": "/medias/sys_master/prd-images/h77/hcc/32550942375966/prd-front-6203531-1_600x600/prd-front-6203531-1-600x600.jpg"
+}

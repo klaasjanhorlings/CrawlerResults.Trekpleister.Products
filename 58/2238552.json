@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/prd-front-2238552-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTEzODN8aW1hZ2UvanBlZ3xhR014TDJnNVl5OHhOak13T1RNME1qRTBNalE1TkM5d2NtUXRabkp2Ym5RdE1qSXpPRFUxTWkweFh6WXdNSGcyTURBfGIyOGViNzQyMGU1YThiMDI2OGVjMzI4NTViN2FhODM1NjQ2MjgwZWUxNzVmNGFiY2RiYmJiYWMyOTMzYzJmYjA"
 }

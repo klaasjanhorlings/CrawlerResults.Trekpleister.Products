@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6154 > 6161",
   "supplier": "BAYER BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Geneesmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/h48/h33/34631025623070/prd-front-21722-1_600x600/prd-front-21722-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he2/hf4/34649598722078/prd-front-21722-1_600x600/prd-front-21722-1-600x600.jpg"
 }

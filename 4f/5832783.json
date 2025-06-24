@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3874",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029809",
+  "mmkId": "3029809",
+  "productGroupId": "471223",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-sensation-fresh-deodorant-roller/p/5832783",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h4f/hd2/34393084297246/prd-front-5832783-1_600x600/prd-front-5832783-1-600x600.jpg"
+  "description": "50ml"
 }

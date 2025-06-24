@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence French Manicure 01 Sjablonen",
+  "code": "5943215",
+  "price": "1.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-french-manicure-01-sjablonen/p/5943215",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 72476798,
+      "name": "Nagelstickers"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h41/hb2/34639495069726/prd-front-5943215-1_600x600/prd-front-5943215-1-600x600.jpg"
+}

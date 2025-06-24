@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jumbo Francien Westering Cat Portaits Puzzel",
+  "code": "5699079",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
+  "supplier": "JUMBO NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jumbo-francien-westering-cat-portaits-puzzel/p/5699079",
+  "listName": "Lister",
+  "brand": "Franciens Katten",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "950 stukjes",
+  "image": "/medias/sys_master/prd-images/he2/h30/33459064242206/prd-front-5699079-1_600x600/prd-front-5699079-1-600x600.jpg"
+}
