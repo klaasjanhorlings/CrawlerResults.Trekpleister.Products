@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Parodontax Extra Fresh Tandpasta tegen Bloedend Tandvlees",
+  "code": "2868601",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/parodontax-extra-fresh-tandpasta-tegen-bloedend-tandvlees/p/2868601",
+  "listName": "Lister",
+  "brand": "Parodontax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 75ml",
+  "image": "/medias/sys_master/prd-images/h72/h37/34484629307422/prd-front-2868601-1_600x600/prd-front-2868601-1-600x600.jpg"
+}

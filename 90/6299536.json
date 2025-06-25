@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Oil & Care Leave-in Haarcrème",
+  "code": "6299536",
+  "price": "7.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 3577",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3029792",
+  "mmkId": "3029792",
+  "productGroupId": "466565",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-oil-care-leave-in-haarcreme/p/6299536",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267485,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h46/he8/34520199102494/prd-front-6299536-1_600x600/prd-front-6299536-1-600x600.jpg"
+}

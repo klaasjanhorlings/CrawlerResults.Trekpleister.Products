@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3245 > 4136",
   "supplier": "JBC SOLUTIONS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "120ml",
-  "image": "/medias/sys_master/prd-images/h8d/h9f/30867812646942/prd-front-2641059-1_600x600/prd-front-2641059-1-600x600.jpg"
+  "description": "120ml"
 }

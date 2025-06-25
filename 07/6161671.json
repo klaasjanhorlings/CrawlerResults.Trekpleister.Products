@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "KENVUE",
-  "inStock": "inStock",
-  "onPromo": "3029848",
-  "mmkId": "3029848",
-  "productGroupId": "481510",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-ultrahydraterend-serum/p/6161671",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267162,
-      "name": "Serum"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "30ml",
