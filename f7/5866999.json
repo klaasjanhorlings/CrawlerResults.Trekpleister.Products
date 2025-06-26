@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029946",
+  "mmkId": "3029946",
+  "productGroupId": "472519",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ajax-eucalyptus-allesreiniger/p/5866999",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "650ml",
-  "image": "/medias/sys_master/prd-images/he6/h52/34655940149278/prd-front-5866999-1_600x600/prd-front-5866999-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf9/hf8/34664122908702/prd-front-5866999-1_600x600/prd-front-5866999-1-600x600.jpg"
 }

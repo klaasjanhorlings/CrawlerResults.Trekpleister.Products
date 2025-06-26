@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3029987",
+  "mmkId": "3029987",
+  "productGroupId": "484181",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-6m-appel-sinaasappel-wortel-knijpfruit/p/6102997",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h45/h54/31142488244254/prd-front-6102997-1_600x600/prd-front-6102997-1-600x600.jpg"
 }
