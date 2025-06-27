@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Choco Maaltijdshake",
+  "code": "6260217",
+  "price": "11.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2707 > 3891",
+  "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-choco-maaltijdshake/p/6260217",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30267300,
+      "name": "Maaltijdvervangers"
+    }
+  ],
+  "description": "434g",
+  "image": "/medias/sys_master/prd-images/ha5/h8e/34224642555934/prd-front-6260217-1_600x600/prd-front-6260217-1-600x600.jpg"
+}

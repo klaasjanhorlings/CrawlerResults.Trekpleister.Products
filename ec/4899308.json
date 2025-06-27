@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Identity Games Nijntje Verstoppertje Spelen Spel",
+  "code": "4899308",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 6737 > 6736 > 6738",
+  "supplier": "IDENTITY GAMES INT. BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/identity-games-nijntje-verstoppertje-spelen-spel/p/4899308",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/prd-front-4899308-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDM4NjR8aW1hZ2UvanBlZ3xhR0kzTDJoaE5DOHhOall5TURVd05ETTRNelV4T0M5d2NtUXRabkp2Ym5RdE5EZzVPVE13T0MweFh6WXdNSGcyTURBfGQyZmMyYjRlN2VkYmI4ZTg2Y2Q4ODk2NGJlYTlkODA2MWY2MzA4YzI4YTM4Y2EwOGEyYWI5ZDM1MDRhMWU4MWU"
+}

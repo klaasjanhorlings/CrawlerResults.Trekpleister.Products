@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Huidolie",
+  "code": "6315783",
+  "price": "3.75",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2724 > 3427",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-huidolie/p/6315783",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267576,
+      "name": "Babyolie"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h24/hc7/34681264701470/prd-front-6315783-1_600x600/prd-front-6315783-1-600x600.jpg"
+}

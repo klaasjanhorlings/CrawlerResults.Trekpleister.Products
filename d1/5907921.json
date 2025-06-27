@@ -6,7 +6,7 @@
   "price": "14.99",
   "priceOriginal": "",
   "itemBgbcat": "5929 > 6019 > 2197 > 6148 > 6149 > 6150",
-  "supplier": "TRISTAR EUROPE B.V.",
+  "supplier": "DUMMY EXTERN",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
@@ -25,8 +25,8 @@
       "name": "Elektronica"
     },
     {
-      "id": 30267109,
-      "name": "Airco's"
+      "id": 30267110,
+      "name": "Ventilatoren"
     }
   ],
   "description": "zwart, 40cm",

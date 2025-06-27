@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty Lip Plump Lily - Dusty Pink 4-in-1 Hydrating Lacquer",
+  "code": "6318443",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-lip-plump-lily-dusty-pink-4-in-1-hydrating-lacquer/p/6318443",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 88118430,
+      "name": "Lip plumper"
+    }
+  ],
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/h2c/h9f/34679502405662/prd-front-6318443-1_600x600/prd-front-6318443-1-600x600.jpg"
+}
