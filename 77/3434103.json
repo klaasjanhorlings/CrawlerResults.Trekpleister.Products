@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "OMEGA PHARMA NEDERLAND",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029861",
+  "mmkId": "3029861",
+  "productGroupId": "482690",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-reinigingsmousse/p/3434103",
@@ -37,6 +37,5 @@
       "name": "Reinigingsmousse"
     }
   ],
-  "description": "150ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h9b/h7d/34534872317982/prd-front-3434103-1_600x600/prd-front-3434103-1-600x600.jpg"
+  "description": "150ml - Alle huidtypen"
 }
