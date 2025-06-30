@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3029792",
-  "mmkId": "3029792",
-  "productGroupId": "466565",
+  "onPromo": "3030028",
+  "mmkId": "3030028",
+  "productGroupId": "463006",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-stralend-blond-verhelderende-shampoo/p/6292431",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h1e/h25/34246290276382/prd-front-6292431-1_600x600/prd-front-6292431-1-600x600.jpg"
 }

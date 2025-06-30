@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "HISMILE PTY LTD.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030004",
+  "mmkId": "3030004",
+  "productGroupId": "489991",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hismile-elektrische-tandenborstel/p/6290009",
@@ -33,6 +33,5 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "roze",
-  "image": "/medias/sys_master/prd-images/h1b/h4f/34145516650526/prd-front-6290009-1_600x600/prd-front-6290009-1-600x600.jpg"
+  "description": "roze"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3029800",
-  "mmkId": "3029800",
-  "productGroupId": "469506",
+  "onPromo": "3030183",
+  "mmkId": "3030183",
+  "productGroupId": "459920",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-volume-hold-4-haarmousse/p/4043292",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/he6/h4d/34386516115486/prd-front-4043292-1_600x600/prd-front-4043292-1-600x600.jpg"
 }

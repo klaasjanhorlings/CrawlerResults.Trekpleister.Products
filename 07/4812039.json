@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030073",
+  "mmkId": "3030073",
+  "productGroupId": "477599",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-tea-tree-dag-en-nachtcreme/p/4812039",
@@ -33,6 +33,5 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h8c/hb4/34670461157406/prd-front-4812039-1_600x600/prd-front-4812039-1-600x600.jpg"
+  "description": "100ml"
 }

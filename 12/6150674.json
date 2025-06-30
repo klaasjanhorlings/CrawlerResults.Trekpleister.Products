@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030097",
+  "mmkId": "3030097",
+  "productGroupId": "481540",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nutricia-olvarit-6m-rode-bietenstamppot-met-kikkererwten/p/6150674",
@@ -37,5 +37,6 @@
       "name": "6+ maanden"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h9f/h1f/31565543768094/prd-front-6150674-1_600x600/prd-front-6150674-1-600x600.jpg"
 }

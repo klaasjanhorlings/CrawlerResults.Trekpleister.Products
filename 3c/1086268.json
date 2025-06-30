@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 2839 > 3579",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "3029892",
-  "mmkId": "3029892",
-  "productGroupId": "486735",
+  "onPromo": "3030144",
+  "mmkId": "3030144",
+  "productGroupId": "486744",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/veet-minima-ontharingscreme-voor-de-gevoelige-huid/p/1086268",
@@ -33,5 +33,6 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h4e/hc4/33471445958686/prd-front-1086268-1_600x600/prd-front-1086268-1-600x600.jpg"
 }

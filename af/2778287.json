@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3030202",
-  "mmkId": "3030202",
-  "productGroupId": "500155",
+  "onPromo": "3030178",
+  "mmkId": "3030178",
+  "productGroupId": "498575",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vision-spf50-zonnebrandlotion/p/2778287",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "90ml"
+  "description": "90ml",
+  "image": "/medias/sys_master/prd-images/h18/he6/33162130358302/prd-front-2778287-1_600x600/prd-front-2778287-1-600x600.jpg"
 }

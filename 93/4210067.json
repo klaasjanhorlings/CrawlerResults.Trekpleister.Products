@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 3163 > 4034",
   "supplier": "HENKEL NEDERLAND BV U-W",
   "inStock": "inStock",
-  "onPromo": "3029816",
-  "mmkId": "3029816",
-  "productGroupId": "472520",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dylon-intense-black-machinewas-textielverf/p/4210067",
@@ -33,5 +33,6 @@
       "name": "Textielverf"
     }
   ],
-  "description": "350g"
+  "description": "350g",
+  "image": "/medias/sys_master/prd-images/h1f/ha8/29653901705246/prd-front-4210067-1_600x600/prd-front-4210067-1-600x600.jpg"
 }

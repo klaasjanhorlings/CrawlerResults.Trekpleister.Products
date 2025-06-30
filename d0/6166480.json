@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030161",
+  "mmkId": "3030161",
+  "productGroupId": "487433",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-sonicare-6100-series-hx7401/01-elektrische-tandenborstel/p/6166480",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart",
-  "image": "/medias/sys_master/prd-images/h97/hda/34703556837406/prd-front-6166480-1_600x600/prd-front-6166480-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7c/h19/34712900075550/prd-front-6166480-1_600x600/prd-front-6166480-1-600x600.jpg"
 }

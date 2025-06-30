@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3786",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3029872",
-  "mmkId": "3029872",
-  "productGroupId": "484387",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-anti-friction-stick/p/6227947",
@@ -25,14 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 30267053,
-      "name": "Scheren en ontharen"
+      "id": 30267046,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30267238,
-      "name": "Scheerschuim en scheergel"
+      "id": 30267198,
+      "name": "Bodycremes"
     }
   ],
   "description": "40ml",
-  "image": "/medias/sys_master/prd-images/hc2/hc5/34700803276830/prd-front-6227947-1_600x600/prd-front-6227947-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he4/hf9/34719518687262/prd-front-6227947-1_600x600/prd-front-6227947-1-600x600.jpg"
 }

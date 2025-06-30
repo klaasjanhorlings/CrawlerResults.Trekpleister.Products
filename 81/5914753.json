@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6281",
   "supplier": "2THINGS",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3030091",
+  "mmkId": "3030091",
+  "productGroupId": "481065",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/blueiron-vloeibaar-ijzer/p/5914753",
@@ -37,6 +37,5 @@
       "name": "Ijzer"
     }
   ],
-  "description": "330ml",
-  "image": "/medias/sys_master/prd-images/h6c/h69/32640424935454/prd-front-5914753-1_600x600/prd-front-5914753-1-600x600.jpg"
+  "description": "330ml"
 }

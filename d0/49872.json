@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3029831",
-  "mmkId": "3029831",
-  "productGroupId": "475858",
+  "onPromo": "3030051",
+  "mmkId": "3030051",
+  "productGroupId": "472125",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-age-perfect-collageen-expert-verstevigende-nachtcreme/p/49872",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h72/h1e/34492359573534/prd-front-49872-1_600x600/prd-front-49872-1-600x600.jpg"
 }

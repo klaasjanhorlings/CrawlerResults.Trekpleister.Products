@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3029831",
-  "mmkId": "3029831",
-  "productGroupId": "475858",
+  "onPromo": "3030119",
+  "mmkId": "3030119",
+  "productGroupId": "483642",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-bond-repair-sulfaatvrije-shampoo/p/5786625",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h08/h98/28951307026462/prd-front-5786625-1_600x600/prd-front-5786625-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3029975",
-  "mmkId": "3029975",
-  "productGroupId": "464462",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamine-d-druppels-op-oliebasis/p/3963450",
@@ -37,5 +37,6 @@
       "name": "Vitamine D"
     }
   ],
-  "description": "25ml"
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/hd1/h3e/28549911150622/prd-front-3963450-1_600x600/prd-front-3963450-1-600x600.jpg"
 }

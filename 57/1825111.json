@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3029901",
-  "mmkId": "3029901",
-  "productGroupId": "487814",
+  "onPromo": "3030183",
+  "mmkId": "3030183",
+  "productGroupId": "459920",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-salonplex-4-2-mahonie-permanente-haarkleuring/p/1825111",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h10/h2d/33818913243166/prd-front-1825111-1_600x600/prd-front-1825111-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3029876",
-  "mmkId": "3029876",
-  "productGroupId": "484808",
+  "onPromo": "3030132",
+  "mmkId": "3030132",
+  "productGroupId": "484815",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-gevoelige-hoofdhuid-shampoo/p/3643270",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hbd/hce/28576236830750/prd-front-3643270-1_600x600/prd-front-3643270-1-600x600.jpg"
 }

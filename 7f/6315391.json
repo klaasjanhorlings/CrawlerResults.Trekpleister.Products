@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030028",
+  "mmkId": "3030028",
+  "productGroupId": "463006",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-zeepvrije-wascreme/p/6315391",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hf6/hcd/34708574896158/prd-front-6315391-1_600x600/prd-front-6315391-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h16/h3c/34717057581086/prd-front-6315391-1_600x600/prd-front-6315391-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3029809",
-  "mmkId": "3029809",
-  "productGroupId": "471223",
+  "onPromo": "3030124",
+  "mmkId": "3030124",
+  "productGroupId": "483894",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-protect-dry-touch-spf30-vernevelende-zonnespray/p/2776628",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h72/he1/34393577848862/prd-front-2776628-1_600x600/prd-front-2776628-1-600x600.jpg"
 }

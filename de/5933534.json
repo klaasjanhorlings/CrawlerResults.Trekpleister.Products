@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2732 > 3651",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3030020",
+  "mmkId": "3030020",
+  "productGroupId": "460937",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/leukoplast-elastomull-fixatiewinsel/p/5933534",
@@ -33,6 +33,5 @@
       "name": "Bandages en windsels"
     }
   ],
-  "description": "Medisch hulpmiddel - 8cm x 4m",
-  "image": "/medias/sys_master/prd-images/h26/he5/28572756279326/prd-front-5933534-1_600x600/prd-front-5933534-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 8cm x 4m"
 }

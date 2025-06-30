@@ -7,10 +7,10 @@
   "priceOriginal": "2.39",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6649",
   "supplier": "LEEV.NU BV",
-  "inStock": "inStock",
-  "onPromo": "3029880",
-  "mmkId": "3029880",
-  "productGroupId": "485692",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 0,20",
   "url": "/leev-bio-kikkererwtenwafels/p/5667922",
@@ -33,5 +33,6 @@
       "name": "Verantwoorde tussendoortjes"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/prd-front-5667922-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjM4MjF8aW1hZ2UvanBlZ3xhR0UwTDJneE1DOHhOelU0T1RZM05UazRNamczT0M5d2NtUXRabkp2Ym5RdE5UWTJOemt5TWkweFh6WXdNSGcyTURBfGZkYzc0NmE0ODQ2N2Y4NTA5M2M1MDMzYjNlZjAyN2M2NWVmOTkxYzUyODM4OTFiOGU5NjY2YjRlYmM1Mzg2ODk"
 }

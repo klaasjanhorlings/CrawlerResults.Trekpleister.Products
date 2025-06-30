@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030110",
+  "mmkId": "3030110",
+  "productGroupId": "482859",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/libresse-string-inlegkruisjes/p/28882",
@@ -33,6 +33,5 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h69/h3b/32018332483614/prd-front-28882-1_600x600/prd-front-28882-1-600x600.jpg"
+  "description": "30 stuks"
 }

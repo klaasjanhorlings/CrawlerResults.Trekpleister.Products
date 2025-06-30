@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2958 > 3753",
   "supplier": "ANVIRI COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030067",
+  "mmkId": "3030067",
+  "productGroupId": "475262",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kiss-jelly-fantasy-be-jelly-kunstnagels/p/5556398",
@@ -37,5 +37,6 @@
       "name": "Kunstnagels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd8/h5d/31934215716894/prd-front-5556398-1_600x600/prd-front-5556398-1-600x600.jpg"
 }

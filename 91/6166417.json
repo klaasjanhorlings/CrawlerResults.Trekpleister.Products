@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030161",
+  "mmkId": "3030161",
+  "productGroupId": "487433",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-sonicare-6500-series-hx7411/01-elektrische-tandenborstel/p/6166417",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/hc0/h8a/34711164125214/prd-front-6166417-1_600x600/prd-front-6166417-1-600x600.jpg"
 }

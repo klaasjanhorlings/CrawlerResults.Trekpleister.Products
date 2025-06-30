@@ -8,9 +8,9 @@
   "itemBgbcat": "4869 > 2048 > 2244 > 2578 > 3199 > 6413",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "3029909",
-  "mmkId": "3029909",
-  "productGroupId": "489628",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/true-spirit-luiertas-met-zebraprint/p/6174691",
@@ -33,6 +33,5 @@
       "name": "Tassen"
     }
   ],
-  "description": "45cm x 13cm x 30cm",
-  "image": "/medias/sys_master/prd-images/hc1/ha2/32467983695902/prd-front-6174691-1_600x600/prd-front-6174691-1-600x600.jpg"
+  "description": "45cm x 13cm x 30cm"
 }

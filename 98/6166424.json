@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030161",
+  "mmkId": "3030161",
+  "productGroupId": "487433",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-sonicare-4100-series-hx3681/54-elektrische-tandenborstel/p/6166424",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart",
-  "image": "/medias/sys_master/prd-images/he0/hf1/34701103497246/prd-front-6166424-1_600x600/prd-front-6166424-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb2/hab/34711240081438/prd-front-6166424-1_600x600/prd-front-6166424-1-600x600.jpg"
 }

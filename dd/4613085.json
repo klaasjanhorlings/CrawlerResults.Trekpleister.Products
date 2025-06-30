@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "SANATURE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030089",
+  "mmkId": "3030089",
+  "productGroupId": "480764",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/sanature-100-katoenen-super-extra-long-inlegkruisjes/p/4613085",
@@ -33,6 +33,5 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/h62/h8f/28785910743070/prd-front-4613085-1_600x600/prd-front-4613085-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 20 stuks"
 }

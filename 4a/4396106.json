@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030166",
+  "mmkId": "3030166",
+  "productGroupId": "488052",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-maxi-night-maandverband/p/4396106",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "16 stuks"
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/hbe/h94/28576774979614/prd-front-4396106-1_600x600/prd-front-4396106-1-600x600.jpg"
 }

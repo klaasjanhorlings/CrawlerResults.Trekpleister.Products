@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Amandel Massageolie",
+  "code": "682668",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4314",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3030189",
+  "mmkId": "3030189",
+  "productGroupId": "476683",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kneipp-amandel-massageolie/p/682668",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267197,
+      "name": "Massageolie en massagelotion"
+    }
+  ],
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/hcf/h05/34715727036446/prd-front-682668-1_600x600/prd-front-682668-1-600x600.jpg"
+}

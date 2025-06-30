@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kindercamera",
+  "code": "6285711",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4870 > 6031 > 2243 > 2408 > 2849 > 3588",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/kindercamera/p/6285711",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267086,
+      "name": "Elektronisch speelgoed"
+    }
+  ],
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/h8e/ha8/34485147041822/prd-front-6285711-1_600x600/prd-front-6285711-1-600x600.jpg"
+}

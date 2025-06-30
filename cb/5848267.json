@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030056",
+  "mmkId": "3030056",
+  "productGroupId": "473531",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-100-natural-air-jasmine-ho-wood-deospray/p/5848267",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h05/hb6/34700913934366/prd-front-5848267-1_600x600/prd-front-5848267-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

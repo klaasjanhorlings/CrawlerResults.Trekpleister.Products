@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ravensburger Pokémon 3-in-1 Puzzel",
+  "code": "6123983",
+  "price": "4.99",
+  "priceOriginal": "6.99",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 2,00",
+  "url": "/ravensburger-pokemon-3-in-1-puzzel/p/6123983",
+  "listName": "Lister",
+  "brand": "Pokemon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h93/h12/34676741603358/prd-front-6123983-1_600x600/prd-front-6123983-1-600x600.jpg"
+}

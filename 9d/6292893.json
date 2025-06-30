@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6694",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "3029792",
-  "mmkId": "3029792",
-  "productGroupId": "466565",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-perfecte-krul-5-in-1-bounce-back-spray/p/6292893",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h09/h50/34701846741022/prd-front-6292893-1_600x600/prd-front-6292893-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha2/he4/34711821320222/prd-front-6292893-1_600x600/prd-front-6292893-1-600x600.jpg"
 }

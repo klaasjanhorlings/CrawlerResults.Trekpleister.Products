@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030110",
+  "mmkId": "3030110",
+  "productGroupId": "482859",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tena-pants-plus-medium-broekjes/p/3756544",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 9 stuks",
-  "image": "/medias/sys_master/prd-images/h31/hce/34705289379870/prd-front-3756544-1_600x600/prd-front-3756544-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/haf/h2e/34714556006430/prd-front-3756544-1_600x600/prd-front-3756544-1-600x600.jpg"
 }
