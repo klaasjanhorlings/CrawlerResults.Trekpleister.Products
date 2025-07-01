@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Baby Zachte Crème",
+  "code": "23832",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3030028",
+  "mmkId": "3030028",
+  "productGroupId": "463006",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-baby-zachte-creme/p/23832",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267575,
+      "name": "Babycreme"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hcd/h13/28856556322846/prd-front-23832-1_600x600/prd-front-23832-1-600x600.jpg"
+}

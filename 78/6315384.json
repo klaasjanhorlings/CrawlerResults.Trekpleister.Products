@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030028",
+  "mmkId": "3030028",
+  "productGroupId": "463006",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-zeepvrij-schuimbad/p/6315384",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hac/h83/34711253843998/prd-front-6315384-1_600x600/prd-front-6315384-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7e/hc0/34730093215774/prd-front-6315384-1_600x600/prd-front-6315384-1-600x600.jpg"
 }

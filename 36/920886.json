@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3851",
   "supplier": "NUTRITION&SANTE BENELX",
-  "inStock": "inStock",
-  "onPromo": "3030140",
-  "mmkId": "3030140",
-  "productGroupId": "486314",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/modifast-melkchocolade-lunchreep/p/920886",
@@ -33,6 +33,5 @@
       "name": "Maaltijdvervangers"
     }
   ],
-  "description": "6 x 31g",
-  "image": "/medias/sys_master/prd-images/h4e/h7f/28549981667358/prd-front-920886-1_600x600/prd-front-920886-1-600x600.jpg"
+  "description": "6 x 31g"
 }

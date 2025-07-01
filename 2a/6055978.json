@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Idea! Clementoni Penlab Create Your Monster Pens",
+  "code": "6055978",
+  "price": "6.99",
+  "priceOriginal": "11.99",
+  "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 5,00",
+  "url": "/idea-clementoni-penlab-create-your-monster-pens/p/6055978",
+  "listName": "Lister",
+  "brand": "Clementoni",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267081,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2a/ha7/31782430441502/prd-front-6055978-1_600x600/prd-front-6055978-1-600x600.jpg"
+}

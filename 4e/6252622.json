@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Speed Champions 77251 McLaren F1 Team MCL38 Racewagen",
+  "code": "6252622",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-speed-champions-77251-mclaren-f1-team-mcl38-racewagen/p/6252622",
+  "listName": "Lister",
+  "brand": "LEGO Speed Champs.",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267375,
+      "name": "LEGO Speed Champions"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc7/h7f/33614717976606/prd-front-6252622-1_600x600/prd-front-6252622-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gestreept Babyzwembad",
+  "code": "6288364",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6023 > 4830 > 4845 > 4856 > 4867",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/gestreept-babyzwembad/p/6288364",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267084,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30267395,
+      "name": "Zwembaden en opblaasfiguren"
+    },
+    {
+      "id": 90162441,
+      "name": "Zwembaden en accessoires"
+    }
+  ],
+  "description": "ø60cm, groen",
+  "image": "/medias/sys_master/prd-images/had/h6d/34249501081630/prd-front-6288364-1_600x600/prd-front-6288364-1-600x600.jpg"
+}

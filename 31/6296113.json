@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029996",
+  "mmkId": "3029996",
+  "productGroupId": "474510",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-harmonie-pants-maat-4-luierbroekjes/p/6296113",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 4 (9-15kg), 74 stuks",
-  "image": "/medias/sys_master/prd-images/h04/h23/34712103518238/prd-front-6296113-1_600x600/prd-front-6296113-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h70/h03/34720841367582/prd-front-6296113-1_600x600/prd-front-6296113-1-600x600.jpg"
 }

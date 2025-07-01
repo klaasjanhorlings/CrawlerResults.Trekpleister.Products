@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zuru Rainbocorns Pocket Puppycorns",
+  "code": "6286481",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2183 > 5177 > 5271 > 5460",
+  "supplier": "SINGLETON TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/zuru-rainbocorns-pocket-puppycorns/p/6286481",
+  "listName": "Lister",
+  "brand": "Zuru",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267079,
+      "name": "Speelfiguren en speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h19/h00/33611807031326/prd-front-6286481-1_600x600/prd-front-6286481-1-600x600.jpg"
+}
