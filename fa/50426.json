@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030147",
+  "mmkId": "3030147",
+  "productGroupId": "486870",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-excellence-creme-43-midden-goudbruin-haarkleuring/p/50426",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hdd/h16/32304106700830/prd-front-50426-1_600x600/prd-front-50426-1-600x600.jpg"
+  "description": ""
 }

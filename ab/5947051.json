@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "INEX NV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,8 +33,8 @@
       "name": "Flesvoeding"
     },
     {
-      "id": 30267562,
-      "name": "Peutermelk"
+      "id": 30267561,
+      "name": "Dreumesmelk"
     }
   ],
   "description": "1000ml",

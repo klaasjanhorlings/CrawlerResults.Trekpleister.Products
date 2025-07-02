@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence 11 Pastel Beige Mattifying Compact Powder",
+  "code": "3030161",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-11-pastel-beige-mattifying-compact-powder/p/3030161",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267144,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "12g",
+  "image": "/medias/sys_master/prd-images/h9e/h6a/34681164496926/prd-front-3030161-1_600x600/prd-front-3030161-1-600x600.jpg"
+}

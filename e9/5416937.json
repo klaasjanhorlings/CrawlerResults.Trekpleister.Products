@@ -25,10 +25,17 @@
       "name": "Beauty"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677084,
+      "name": "Reinigingsmousse"
     }
   ],
-  "description": "150ml - Gevoelige en onzuivere huid",
-  "image": "/medias/prd-front-5416937-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA1MTh8aW1hZ2UvanBlZ3xhRE00TDJnM01DOHhOekEyTURVd09ESTNNRFl5TWk5d2NtUXRabkp2Ym5RdE5UUXhOamt6TnkweFh6WXdNSGcyTURBfGI0ZTJmYmIwZWFhYjJiNWY2ZDI1YjVjMDQ3NmI3NmIwY2RjMGY2NGFiNWU5ZjBkZjIzMjkyNDdhOGFlNzU2Y2M"
+  "description": "150ml - Gevoelige en onzuivere huid"
 }

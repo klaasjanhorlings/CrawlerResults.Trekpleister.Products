@@ -25,10 +25,13 @@
       "name": "Beauty"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/prd-front-3076256-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTIzNTN8aW1hZ2UvanBlZ3xhRGRrTDJobVlpOHhOelV5TmpFNU1EZzVPVEl6TUM5d2NtUXRabkp2Ym5RdE16QTNOakkxTmkweFh6WXdNSGcyTURBfGMwN2QzNjY1ODYwNDcxNDMyYTcwMmU0NmMwN2VmYTUyOWM4OTQ3ODUwOGZhY2EwZWFhMWNjZjkxYmQyYTM5ZGM"
+  "description": "50ml"
 }

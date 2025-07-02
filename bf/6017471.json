@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Blush Crush 30 Cool Berry Blush",
+  "code": "6017471",
+  "price": "2.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-blush-crush-30-cool-berry-blush/p/6017471",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267147,
+      "name": "Blush"
+    }
+  ],
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/h05/h68/34687621988382/prd-front-6017471-1_600x600/prd-front-6017471-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
   "supplier": "BRADFORD & HAMILTON BV",
   "inStock": "inStock",
-  "onPromo": "3030202",
-  "mmkId": "3030202",
-  "productGroupId": "500155",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/australian-gold-soothing-aloe-aftersun-gel/p/3339806",
@@ -33,5 +33,6 @@
       "name": "Aftersun"
     }
   ],
-  "description": "237ml"
+  "description": "237ml",
+  "image": "/medias/sys_master/prd-images/he4/h83/34121686220830/prd-front-3339806-1_600x600/prd-front-3339806-1-600x600.jpg"
 }

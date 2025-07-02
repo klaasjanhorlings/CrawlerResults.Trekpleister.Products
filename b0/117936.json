@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030047",
+  "mmkId": "3030047",
+  "productGroupId": "471606",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/perskindol-active-spray/p/117936",
@@ -33,8 +33,8 @@
       "name": "Spieren en gewrichten"
     },
     {
-      "id": 30267536,
-      "name": "Spier- en gewrichtsbalsems"
+      "id": 30267537,
+      "name": "Spierwrijfmiddelen"
     }
   ],
   "description": "150ml",

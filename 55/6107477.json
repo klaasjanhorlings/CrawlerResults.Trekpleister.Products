@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
   "supplier": "PIETERCIL BARENDS BV",
-  "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Eeltverwijderaars"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h57/h98/34313171075102/prd-front-6107477-1_600x600/prd-front-6107477-1-600x600.jpg"
 }

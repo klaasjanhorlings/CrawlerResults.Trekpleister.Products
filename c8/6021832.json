@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
     },
     {
-      "id": 51216437,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 55926790,
-      "name": "Pigmentverzorging"
+      "id": 30267362,
+      "name": "Mama verzorgingsproducten"
     }
   ],
   "description": "50ml",
