@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029997",
+  "mmkId": "3029997",
+  "productGroupId": "474534",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-sensitive-billendoekjes/p/4746281",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "12 x 52 stuks",
-  "image": "/medias/sys_master/prd-images/h2f/hdc/33654073032734/prd-front-4746281-1_600x600/prd-front-4746281-1-600x600.jpg"
+  "description": "12 x 52 stuks"
 }

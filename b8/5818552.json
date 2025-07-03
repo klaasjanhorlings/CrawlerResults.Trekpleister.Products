@@ -7,10 +7,10 @@
   "priceOriginal": "15.78",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
-  "onPromo": "3030176",
-  "mmkId": "3030176",
-  "productGroupId": "496042",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 2,79",
   "url": "/therme-mindful-blossom-geschenkset/p/5818552",
@@ -33,5 +33,6 @@
       "name": "Geschenkset voor haar"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb0/hc8/30399913787422/prd-front-5818552-1_600x600/prd-front-5818552-1-600x600.jpg"
 }

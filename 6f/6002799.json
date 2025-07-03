@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
   "supplier": "TEVA NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Zinkzalf"
     }
   ],
-  "description": "22g"
+  "description": "22g",
+  "image": "/medias/sys_master/prd-images/h8a/h81/30186395205662/prd-front-6002799-1_600x600/prd-front-6002799-1-600x600.jpg"
 }
