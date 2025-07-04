@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Hammam Moisturising Shower Oil",
+  "code": "6044589",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3679",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3030031",
+  "mmkId": "3030031",
+  "productGroupId": "463619",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-hammam-moisturising-shower-oil/p/6044589",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267206,
+      "name": "Doucheolie"
+    }
+  ],
+  "description": "250ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h86/hb9/30503585644574/prd-front-6044589-1_600x600/prd-front-6044589-1-600x600.jpg"
+}

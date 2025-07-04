@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lala's Baby Shea Butter Vaseline",
+  "code": "2594866",
+  "price": "3.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
+  "supplier": "YARI BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lalas-baby-shea-butter-vaseline/p/2594866",
+  "listName": "Lister",
+  "brand": "Lala's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267579,
+      "name": "Babylotion"
+    }
+  ],
+  "description": "368g",
+  "image": "/medias/prd-front-2594866-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzk4MDN8aW1hZ2UvanBlZ3xhR05rTDJnNVpDOHhOakkxTmpjMU16azFPRGswTWk5d2NtUXRabkp2Ym5RdE1qVTVORGcyTmkweFh6WXdNSGcyTURBfDEzYTVhZjVkODllMzc1MDZhODQ4OTU3ZTM5YjYxZWU0YmM0MTM1ZjIzNWM3YWEwMmIzNWQwZWYxN2IzOTBlZmY"
+}

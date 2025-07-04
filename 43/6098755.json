@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guhl Rijke Voeding 3-in-1 Haartreatment",
+  "code": "6098755",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6695",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "3030132",
+  "mmkId": "3030132",
+  "productGroupId": "484815",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/guhl-rijke-voeding-3-in-1-haartreatment/p/6098755",
+  "listName": "Lister",
+  "brand": "Guhl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213692,
+      "name": "Haartreatment"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h52/h71/31087621898270/prd-front-6098755-1_600x600/prd-front-6098755-1-600x600.jpg"
+}

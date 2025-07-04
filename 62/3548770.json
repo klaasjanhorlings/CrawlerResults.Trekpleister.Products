@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Europrofit Medium Tandenborstels",
+  "code": "3548770",
+  "price": "0.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3858",
+  "supplier": "RIDAM CARE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/europrofit-medium-tandenborstels/p/3548770",
+  "listName": "Lister",
+  "brand": "Europrofit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267228,
+      "name": "Tandenborstels"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/prd-front-3548770-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjY3OTV8aW1hZ2UvanBlZ3xhR013TDJnd01pOHhOak0yT0RjNU5ESXpPVEF3Tmk5d2NtUXRabkp2Ym5RdE16VTBPRGMzTUMweFh6WXdNSGcyTURBfDg5NDgwODM0MmQ0ZmMyZTMxMzVlODJkZTM1MWFlMDViZjI3M2RlZTFhYWQ4NmZiZWE0NjkyMzU0YWZjM2Q3ZTY"
+}

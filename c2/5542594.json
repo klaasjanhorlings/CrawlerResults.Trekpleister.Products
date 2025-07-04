@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Just For Men Snor & Baard M-55 Zwart Haarkleuring",
+  "code": "5542594",
+  "price": "15.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 5710 > 5711 > 5712",
+  "supplier": "THEOTCLAB HEALTHCARE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/just-for-men-snor-baard-m-55-zwart-haarkleuring/p/5542594",
+  "listName": "Lister",
+  "brand": "Just For Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030204",
+  "mmkId": "3030204",
+  "productGroupId": "484490",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/labello-cherry-shine-lippenbalsem/p/2716421",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "4,8g"
+  "description": "4,8g",
+  "image": "/medias/sys_master/prd-images/h47/h94/34520903188510/prd-front-2716421-1_600x600/prd-front-2716421-1-600x600.jpg"
 }

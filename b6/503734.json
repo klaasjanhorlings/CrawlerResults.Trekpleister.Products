@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Everfree Mini Plus Incontinentieverband",
+  "code": "503734",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "EUROFIL SRL",
+  "inStock": "inStock",
+  "onPromo": "3030117",
+  "mmkId": "3030117",
+  "productGroupId": "483545",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-everfree-mini-plus-incontinentieverband/p/503734",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267482,
+      "name": "Incontinentieverband"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/hef/h92/28549338923038/prd-front-503734-1_600x600/prd-front-503734-1-600x600.jpg"
+}

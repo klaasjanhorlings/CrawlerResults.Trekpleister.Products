@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "4ml",
-  "image": "/medias/sys_master/prd-images/he8/h1f/34742007595038/prd-front-6317967-1_600x600/prd-front-6317967-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h9e/he9/34765326942238/prd-front-6317967-1_600x600/prd-front-6317967-1-600x600.jpg"
 }

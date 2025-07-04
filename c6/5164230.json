@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Axe Africa Douchegel",
+  "code": "5164230",
+  "price": "35.94",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3029995",
+  "mmkId": "3029995",
+  "productGroupId": "471682",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/axe-africa-douchegel/p/5164230",
+  "listName": "Lister",
+  "brand": "Axe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "6 x 250ml",
+  "image": "/medias/sys_master/prd-images/h87/hc8/33989880217630/prd-front-5164230-1_600x600/prd-front-5164230-1-600x600.jpg"
+}

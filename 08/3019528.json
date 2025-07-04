@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Style Icon Aloe Vera Non-Flaking Styling Gel",
+  "code": "3019528",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "YARI BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/style-icon-aloe-vera-non-flaking-styling-gel/p/3019528",
+  "listName": "Lister",
+  "brand": "Style Icon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "525ml",
+  "image": "/medias/sys_master/prd-images/h8a/h0c/28547911254046/prd-front-3019528-1_600x600/prd-front-3019528-1-600x600.jpg"
+}

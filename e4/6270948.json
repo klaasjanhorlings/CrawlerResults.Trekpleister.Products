@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030176",
+  "mmkId": "3030176",
+  "productGroupId": "496042",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-pink-soft-skincare-moments-geschenkset/p/6270948",
@@ -33,6 +33,5 @@
       "name": "Geschenkset voor haar"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he4/h0c/33499091304478/prd-front-6270948-1_600x600/prd-front-6270948-1-600x600.jpg"
+  "description": ""
 }

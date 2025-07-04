@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Veet Expert Waxstrips voor Lichaam en Benen",
+  "code": "5844144",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 3272 > 4173",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3030144",
+  "mmkId": "3030144",
+  "productGroupId": "486744",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/veet-expert-waxstrips-voor-lichaam-en-benen/p/5844144",
+  "listName": "Lister",
+  "brand": "Veet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267239,
+      "name": "Ontharingscreme, wax en hars"
+    }
+  ],
+  "description": "20 stuks"
+}

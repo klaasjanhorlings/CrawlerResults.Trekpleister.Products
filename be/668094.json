@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Lavendel Massageolie",
+  "code": "668094",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3030189",
+  "mmkId": "3030189",
+  "productGroupId": "476683",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kneipp-lavendel-massageolie/p/668094",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267197,
+      "name": "Massageolie en massagelotion"
+    }
+  ],
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h99/h9a/34759170621470/prd-front-668094-1_600x600/prd-front-668094-1-600x600.jpg"
+}

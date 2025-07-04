@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -25,12 +25,16 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267059,
-      "name": "Wondverzorging"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30267292,
-      "name": "EHBO-doos"
+      "id": 51216437,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235379,
+      "name": "Eerste hulp zalf"
     }
   ],
   "description": "Medisch hulpmiddel - 75ml",

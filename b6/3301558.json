@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "OGX Renewing Argan Oil of Morocco Shampoo",
+  "code": "3301558",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ogx-renewing-argan-oil-of-morocco-shampoo/p/3301558",
+  "listName": "Lister",
+  "brand": "OGX",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "385ml",
+  "image": "/medias/sys_master/prd-images/h3a/hbc/34758753681438/prd-front-3301558-1_600x600/prd-front-3301558-1-600x600.jpg"
+}

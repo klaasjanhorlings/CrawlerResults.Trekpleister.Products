@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Baby Bodylotion",
+  "code": "1248717",
+  "price": "7.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-baby-bodylotion/p/1248717",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267579,
+      "name": "Babylotion"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/prd-front-1248717-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTk0NjF8aW1hZ2UvanBlZ3xhRGM0TDJneU1TOHhOakkwTnpBd016STFNRGN4T0M5d2NtUXRabkp2Ym5RdE1USTBPRGN4TnkweFh6WXdNSGcyTURBfGE3YTQ3NDZlZjczZjcyMDhiNGNiZjg0NTMwOWU3NzllZjYwM2I4NDBkMGQzYWJhYmJkZTFhYjIxZjAxMDdjYjk"
+}

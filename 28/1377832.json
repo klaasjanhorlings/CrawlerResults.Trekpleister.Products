@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Ultra Extra Long Plus Maandverband",
+  "code": "1377832",
+  "price": "1.35",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
+  "supplier": "DRYLOCK TECHNOLOGIES SR",
+  "inStock": "inStock",
+  "onPromo": "3030116",
+  "mmkId": "3030116",
+  "productGroupId": "483543",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-ultra-extra-long-plus-maandverband/p/1377832",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267219,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/hfa/h21/28551259422750/prd-front-1377832-1_600x600/prd-front-1377832-1-600x600.jpg"
+}

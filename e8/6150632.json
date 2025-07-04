@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutricia Olvarit Bio 12+M Groente Ringen",
+  "code": "6150632",
+  "price": "1.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3030097",
+  "mmkId": "3030097",
+  "productGroupId": "481540",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutricia-olvarit-bio-12m-groente-ringen/p/6150632",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267331,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/ha0/h3c/31564963840030/prd-front-6150632-1_600x600/prd-front-6150632-1-600x600.jpg"
+}

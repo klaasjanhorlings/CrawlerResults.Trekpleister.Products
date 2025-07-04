@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Original Antitranspirant Deodorant Spray",
+  "code": "3225846",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-original-antitranspirant-deodorant-spray/p/3225846",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "2 x 150ml",
+  "image": "/medias/prd-front-3225846-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjQxMDB8aW1hZ2UvanBlZ3xhREl6TDJnMU5pOHhOak13TVRBME1Ua3dPVGM1TUM5d2NtUXRabkp2Ym5RdE16SXlOVGcwTmkweFh6WXdNSGcyTURBfDJmZDBmNGFhYTE2ZDc2ZWYwODRiNTIxNmMyMjBhY2UyYjhhMmNhNmZkNDc1N2FlMjk2MmJkY2I5OWNkNTNmNWY"
+}

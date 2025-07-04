@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Classic Long Inlegkruisjes",
+  "code": "4392711",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
+  "supplier": "CURATEX GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3030116",
+  "mmkId": "3030116",
+  "productGroupId": "483543",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-classic-long-inlegkruisjes/p/4392711",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267220,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "45 stuks",
+  "image": "/medias/sys_master/prd-images/h79/h11/28585206218782/prd-front-4392711-1_600x600/prd-front-4392711-1-600x600.jpg"
+}

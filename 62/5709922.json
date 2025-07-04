@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bic Twin Lady Scheermesjes",
+  "code": "5709922",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3790",
+  "supplier": "BIC BENELUX",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bic-twin-lady-scheermesjes/p/5709922",
+  "listName": "Lister",
+  "brand": "Bic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "12 stuks",
+  "image": "/medias/prd-front-5709922-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjUyMDF8aW1hZ2UvanBlZ3xhRGhtTDJnNU5TOHhOakV3T0RjNE5Ua3lOakUzTkM5d2NtUXRabkp2Ym5RdE5UY3dPVGt5TWkweFh6WXdNSGcyTURBfDY4OGI5YjUxMDljNDA1NzkzZjEwNmNhMmE5OGQzYzM4YmU2YzJlZmUxZDA1MjhlMmQ1ZDVjOWI2ZGUwNWQ0YmU"
+}
