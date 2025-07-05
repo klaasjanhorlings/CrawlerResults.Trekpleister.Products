@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6023 > 4830 > 4936 > 4982 > 5028",
   "supplier": "THE ESSENTIALS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -30,7 +30,7 @@
     },
     {
       "id": 30267395,
-      "name": "Zwembaden en opblaasfiguren"
+      "name": "Zwembaden en accessoires"
     },
     {
       "id": 90160879,

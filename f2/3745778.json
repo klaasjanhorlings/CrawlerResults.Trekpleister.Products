@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
   "supplier": "SANATURE BV",
-  "inStock": "inStock",
-  "onPromo": "3030089",
-  "mmkId": "3030089",
-  "productGroupId": "480764",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/sanature-100-katoenen-normal-maandverband/p/3745778",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/prd-front-3745778-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk3NjR8aW1hZ2UvanBlZ3xhREZsTDJneU5pOHhOekEwTnpjeU9UUTNNVFV4T0M5d2NtUXRabkp2Ym5RdE16YzBOVGMzT0MweFh6WXdNSGcyTURBfDk1NTVkZjRhNzA4OTU0MjkyMDE0ZWM1ZmNmOGMzYTdjOTEzZDU1NzQ1YjUyNjBmNDZkYjExNjZlYjVmYWE2M2E"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 5697 > 2191 > 2512 > 3126 > 6454",
   "supplier": "EDDING BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Knutselen"
     }
   ],
-  "description": "multicolor, 6 stuks",
-  "image": "/medias/sys_master/prd-images/hb1/h8f/33484995461150/prd-front-4014235-1_600x600/prd-front-4014235-1-600x600.jpg"
+  "description": "multicolor, 6 stuks"
 }

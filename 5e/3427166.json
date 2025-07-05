@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea For Men Energy Douchegel",
+  "code": "3427166",
+  "price": "1.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-for-men-energy-douchegel/p/3427166",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-3427166-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjM3NTd8aW1hZ2UvanBlZ3xhRGs1TDJnMk9TOHhOak13TXpJeE1qWTVNVFE0Tmk5d2NtUXRabkp2Ym5RdE16UXlOekUyTmkweFh6WXdNSGcyTURBfDI1MWEwZjNkMGY1ZDE0NmM1MzBiZWZlMGI2YWI1ZGQyNDU3MTg4Y2IyYzU2NTlmZjE3NmFkMWMyNzNjOTc5NWU"
+}

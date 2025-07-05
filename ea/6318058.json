@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "VIDACORP NETHERLANDS B.V.",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "1,2g",
-  "image": "/medias/sys_master/prd-images/h51/h46/34759166689310/prd-front-6318058-1_600x600/prd-front-6318058-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h61/h19/34769817665566/prd-front-6318058-1_600x600/prd-front-6318058-1-600x600.jpg"
 }
