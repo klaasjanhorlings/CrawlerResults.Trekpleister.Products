@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6023 > 4830 > 5178 > 5286 > 5475",
   "supplier": "DUMMY EXTERN",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Zwembaden"
     }
   ],
-  "description": "lichtblauw, 50cm x 50cm, 8 stuks"
+  "description": "lichtblauw, 50cm x 50cm, 8 stuks",
+  "image": "/medias/sys_master/prd-images/h87/h3d/30088653930526/prd-front-4979395-1_600x600/prd-front-4979395-1-600x600.jpg"
 }

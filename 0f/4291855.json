@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Real Techniques Mini Multitask Brush",
+  "code": "4291855",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6327",
+  "supplier": "EMA COMPANY BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/real-techniques-mini-multitask-brush/p/4291855",
+  "listName": "Lister",
+  "brand": "Real Techniques",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267174,
+      "name": "Make-up kwasten"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

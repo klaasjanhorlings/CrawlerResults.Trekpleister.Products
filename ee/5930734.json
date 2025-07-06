@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Olay Vitamine B3 24 + Vitamin C Oogcrème",
-  "code": "5781753",
-  "price": "39.99",
+  "itemName": "Biovène Barcelona Retinol Glow Eyes",
+  "code": "5930734",
+  "price": "6.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
-  "supplier": "PROCTER & GAMBLE NL BV",
+  "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "3030072",
-  "mmkId": "3030072",
-  "productGroupId": "476812",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/olay-vitamine-b3-24-vitamin-c-oogcreme/p/5781753",
+  "url": "/biovene-barcelona-retinol-glow-eyes/p/5930734",
   "listName": "Lister",
-  "brand": "Olay",
+  "brand": "Biovène",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/hbb/h26/31597299040286/prd-front-5781753-1_600x600/prd-front-5781753-1-600x600.jpg"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h39/h27/29620698677278/prd-front-5930734-1_600x600/prd-front-5930734-1-600x600.jpg"
 }
