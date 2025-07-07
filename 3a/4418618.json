@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6508 > 6512 > 6516",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030213",
+  "mmkId": "3030213",
+  "productGroupId": "478524",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/ardell-natural-variety-pack/p/4418618",
@@ -33,6 +33,5 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h28/he9/28551060488222/prd-front-4418618-1_600x600/prd-front-4418618-1-600x600.jpg"
+  "description": "4 stuks"
 }

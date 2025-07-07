@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Creator 30688 3-in-1 Tropische Toekan",
+  "code": "6205435",
+  "price": "2.99",
+  "priceOriginal": "3.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,00",
+  "url": "/lego-creator-30688-3-in-1-tropische-toekan/p/6205435",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69052009,
+      "name": "LEGO Minisets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hca/hd4/34387122815006/prd-front-6205435-1_600x600/prd-front-6205435-1-600x600.jpg"
+}

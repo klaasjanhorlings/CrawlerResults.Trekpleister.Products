@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3030221",
+  "mmkId": "3030221",
+  "productGroupId": "483066",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-stress-moment-tabletten/p/4967656",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "40 stuks",
-  "image": "/medias/sys_master/prd-images/hc4/h78/28553861922846/prd-front-4967656-1_600x600/prd-front-4967656-1-600x600.jpg"
+  "description": "40 stuks"
 }

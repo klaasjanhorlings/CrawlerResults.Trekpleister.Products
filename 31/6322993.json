@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Reisflesjes in Toilettas",
+  "code": "6322993",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4310 > 4311 > 4917 > 4963 > 5009",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/reisflesjes-in-toilettas/p/6322993",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267101,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30267433,
+      "name": "Reisartikelen"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}
