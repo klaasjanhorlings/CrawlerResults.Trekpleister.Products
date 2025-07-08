@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Persil Expert Freshness 4-in-1 Discs",
+  "code": "6093127",
+  "price": "3.0",
+  "priceOriginal": "15.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "HENKEL NEDERLAND BV U-W",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 12,99",
+  "url": "/persil-expert-freshness-4-in-1-discs/p/6093127",
+  "listName": "Lister",
+  "brand": "Persil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "19 stuks",
+  "image": "/medias/sys_master/prd-images/he8/h03/30752545308702/prd-front-6093127-1_600x600/prd-front-6093127-1-600x600.jpg"
+}

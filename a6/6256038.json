@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hasbro Play-Doh 40-Pack Potjes",
+  "code": "6256038",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
+  "supplier": "OTTO SIMON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hasbro-play-doh-40-pack-potjes/p/6256038",
+  "listName": "Lister",
+  "brand": "Play-Doh",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267081,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h86/h1d/33822862934046/prd-front-6256038-1_600x600/prd-front-6256038-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vaseline Petrojelly",
+  "code": "3254658",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vaseline-petrojelly/p/3254658",
+  "listName": "Lister",
+  "brand": "Vaseline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267194,
+      "name": "Bodylotion"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4d/h19/34800011968542/prd-front-3254658-2_600x600/prd-front-3254658-2-600x600.jpg"
+}

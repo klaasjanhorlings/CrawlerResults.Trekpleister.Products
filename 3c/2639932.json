@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L Oréal Paris Elnett Satin Heat Protection Glad Haarlak",
+  "code": "2639932",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3698",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3030119",
+  "mmkId": "3030119",
+  "productGroupId": "483642",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/l-oreal-paris-elnett-satin-heat-protection-glad-haarlak/p/2639932",
+  "listName": "Lister",
+  "brand": "Elnett",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267490,
+      "name": "Heat protectors"
+    }
+  ],
+  "description": "170ml",
+  "image": "/medias/prd-front-2639932-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTc4OTB8aW1hZ2UvanBlZ3xhRGN4TDJnellTOHhOakkxT0RFeU5Ea3pPVEk1TkM5d2NtUXRabkp2Ym5RdE1qWXpPVGt6TWkweFh6WXdNSGcyTURBfDUyYmFlY2Q0Y2E2Y2Q0MTZjZGUwMTNkNzk5ZTA5YzAxOGU4ZTg3MjNjOGM2NGM1Y2Y3ZDEzNDNhNTA3MmIyOWU"
+}

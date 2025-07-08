@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hartvormige Zwemband",
+  "code": "6270283",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6023 > 4830 > 5178 > 5286 > 5475",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/hartvormige-zwemband/p/6270283",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267084,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 90163043,
+      "name": "Opblaasfiguren"
+    }
+  ],
+  "description": "paars, 65cm x 54,8cm",
+  "image": "/medias/sys_master/prd-images/h14/hbe/33886969692190/prd-front-6270283-1_600x600/prd-front-6270283-1-600x600.jpg"
+}

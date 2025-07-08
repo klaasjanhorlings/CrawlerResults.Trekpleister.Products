@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bruno Banani Magnetic Man Aftershave Spray",
+  "code": "6077300",
+  "price": "24.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3395",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "3030158",
+  "mmkId": "3030158",
+  "productGroupId": "487365",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bruno-banani-magnetic-man-aftershave-spray/p/6077300",
+  "listName": "Lister",
+  "brand": "Bruno Banani",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267169,
+      "name": "Aftershave"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hbb/hfc/30762159374366/prd-front-6077300-1_600x600/prd-front-6077300-1-600x600.jpg"
+}

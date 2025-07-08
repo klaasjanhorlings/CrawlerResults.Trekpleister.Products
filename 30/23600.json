@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Speciale huidbehandeling"
     }
   ],
-  "description": "Geneesmiddel - 28g",
-  "image": "/medias/prd-front-23600-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTg4ODZ8aW1hZ2UvanBlZ3xhR1V3TDJnME9TOHhOakl5T0RVd05EWTVPRGt4TUM5d2NtUXRabkp2Ym5RdE1qTTJNREF0TVY4Mk1EQjROakF3fDc2NTkzYWU5ZjkxM2YwZjE2NmY0NzNlZWNkYzY4NTViOTk5N2E1M2U2OGRlOGMzZjQ3MWQ3MWUzZTAzZmFlZTM"
+  "description": "Geneesmiddel - 28g"
 }

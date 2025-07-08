@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO 40709 Dierenspeeltuin in de Lente",
+  "code": "6252909",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-40709-dierenspeeltuin-in-de-lente/p/6252909",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69045709,
+      "name": "LEGO Verjaardagscadeaus"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h20/h17/33065044639774/prd-front-6252909-1_600x600/prd-front-6252909-1-600x600.jpg"
+}

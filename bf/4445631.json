@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030097",
+  "mmkId": "3030097",
+  "productGroupId": "481540",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-8m-pompoen-kip-rijst/p/4445631",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200g",
-  "image": "/medias/sys_master/prd-images/h40/h56/34789124440094/prd-front-4445631-1_600x600/prd-front-4445631-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h13/hfe/34797585956894/prd-front-4445631-1_600x600/prd-front-4445631-1-600x600.jpg"
 }

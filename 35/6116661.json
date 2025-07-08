@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bubble Tea Brown Snuggle Shape Knuffel",
+  "code": "6116661",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2232 > 5179 > 5303 > 5492",
+  "supplier": "THE MERCHANDISE CLUB BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/bubble-tea-brown-snuggle-shape-knuffel/p/6116661",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267080,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "bruin, 60cm"
+}
