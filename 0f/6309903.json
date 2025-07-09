@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cetaphil Gentle Exfoliating SA Lotion",
+  "code": "6309903",
+  "price": "16.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6765 > 6764",
+  "supplier": "GALDERMA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3030136",
+  "mmkId": "3030136",
+  "productGroupId": "485432",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cetaphil-gentle-exfoliating-sa-lotion/p/6309903",
+  "listName": "Lister",
+  "brand": "Cetaphil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 84946008,
+      "name": "Exfoliant"
+    }
+  ],
+  "description": "236ml",
+  "image": "/medias/sys_master/prd-images/he8/h9b/34049118142494/prd-front-6309903-1_600x600/prd-front-6309903-1-600x600.jpg"
+}

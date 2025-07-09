@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6159 > 6187",
   "supplier": "HALEON (NOVARTIS)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,8 +33,8 @@
       "name": "Pijn"
     },
     {
-      "id": 30267529,
-      "name": "Pijnstiller"
+      "id": 30267530,
+      "name": "Diclofenac"
     }
   ],
   "description": "Geneesmiddel - 20 stuks",

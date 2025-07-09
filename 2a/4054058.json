@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wilkinson Sword Quattro Titanium Sensitive Limited Edition Scheermes",
+  "code": "4054058",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3880",
+  "supplier": "WILKINSON SWORD GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wilkinson-sword-quattro-titanium-sensitive-limited-edition-scheermes/p/4054058",
+  "listName": "Lister",
+  "brand": "Wilkinson Sword",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267236,
+      "name": "Scheerapparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hae/hce/34810285195294/prd-front-4054058-1_600x600/prd-front-4054058-1-600x600.jpg"
+}

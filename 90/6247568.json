@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Flora & Curl Sweet Hibiscus Twist & Braid Cream",
+  "code": "6247568",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5918",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/flora-curl-sweet-hibiscus-twist-braid-cream/p/6247568",
+  "listName": "Lister",
+  "brand": "Flora & Curl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267485,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h62/h70/33111395434526/prd-front-6247568-1_600x600/prd-front-6247568-1-600x600.jpg"
+}

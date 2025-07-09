@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "DR LEENARTS BV",
-  "inStock": "inStock",
-  "onPromo": "3030111",
-  "mmkId": "3030111",
-  "productGroupId": "482887",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-babybillenzalf/p/5766692",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536625,
-      "name": "Baby"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267067,
-      "name": "Babyverzorging"
-    },
-    {
-      "id": 30267333,
-      "name": "Baby huidverzorging"
-    },
-    {
-      "id": 30267577,
-      "name": "Luierzalf"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "50ml",

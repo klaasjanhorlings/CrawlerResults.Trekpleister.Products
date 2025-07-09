@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3030178",
-  "mmkId": "3030178",
-  "productGroupId": "498575",
+  "onPromo": "3030643",
+  "mmkId": "3030643",
+  "productGroupId": "503757",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vision-aloe-vera-aftersun-gel/p/5083464",
@@ -33,5 +33,6 @@
       "name": "Aftersun"
     }
   ],
-  "description": "180ml"
+  "description": "180ml",
+  "image": "/medias/sys_master/prd-images/h03/h70/33160956248094/prd-front-5083464-1_600x600/prd-front-5083464-1-600x600.jpg"
 }

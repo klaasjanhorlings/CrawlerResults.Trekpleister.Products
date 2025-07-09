@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "As I Am Long Lux Leave-In Conditioner",
+  "code": "5673592",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/as-i-am-long-lux-leave-in-conditioner/p/5673592",
+  "listName": "Lister",
+  "brand": "As I Am",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49745451,
+      "name": "Leave-in conditioner"
+    }
+  ],
+  "description": "237ml",
+  "image": "/medias/sys_master/prd-images/h8c/hb3/34813143121950/prd-front-5673592-1_600x600/prd-front-5673592-1-600x600.jpg"
+}

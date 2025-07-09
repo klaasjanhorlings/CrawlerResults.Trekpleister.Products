@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Secret d'Afrique 100% Pure Castor Oil",
+  "code": "3019500",
+  "price": "4.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/secret-dafrique-100-pure-castor-oil/p/3019500",
+  "listName": "Lister",
+  "brand": "Secret d'Afrique",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213498,
+      "name": "Haarolie"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-3019500-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjMzODB8aW1hZ2UvanBlZ3xhREUyTDJobE5TOHhOakk1TkRnMk1EVXlNVFV3TWk5d2NtUXRabkp2Ym5RdE16QXhPVFV3TUMweFh6WXdNSGcyTURBfDhlYzBlMTIxOWYyODEyOTFlYWM2MTNmOGIzODQ5NDIxM2M5N2Q0ZGI2NGI3MjEwM2EwNTg3MjA2YjU0OTQ2OTE"
+}

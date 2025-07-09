@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Babypoeder",
+  "code": "6315776",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2729 > 3432",
+  "supplier": "GALVASTORE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-babypoeder/p/6315776",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267580,
+      "name": "Talkpoeder"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h0d/h39/34427445608478/prd-front-6315776-1_600x600/prd-front-6315776-1-600x600.jpg"
+}

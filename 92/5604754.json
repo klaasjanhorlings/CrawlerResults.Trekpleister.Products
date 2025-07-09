@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3030124",
-  "mmkId": "3030124",
-  "productGroupId": "483894",
+  "onPromo": "3030643",
+  "mmkId": "3030643",
+  "productGroupId": "503757",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-protect-hydrate-pocket-size-spf30-zonnemelk/p/5604754",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h0f/hb0/34395557822494/prd-front-5604754-1_600x600/prd-front-5604754-1-600x600.jpg"
 }

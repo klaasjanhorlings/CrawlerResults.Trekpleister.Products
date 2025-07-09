@@ -21,17 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267046,
-      "name": "Huidverzorging"
+      "id": 30267038,
+      "name": "Make-up"
     },
     {
-      "id": 30267196,
-      "name": "Bodyolie"
+      "id": 30267146,
+      "name": "Highlighter"
     }
   ],
-  "description": "30g"
+  "description": "30g",
+  "image": "/medias/sys_master/prd-images/hf5/h87/34797065109534/prd-front-6316945-1_600x600/prd-front-6316945-1-600x600.jpg"
 }

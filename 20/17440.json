@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fenjal Crème Badolie",
+  "code": "17440",
+  "price": "11.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fenjal-creme-badolie/p/17440",
+  "listName": "Lister",
+  "brand": "Fenjal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267210,
+      "name": "Badolie"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h30/h63/30686114447390/prd-front-17440-1_600x600/prd-front-17440-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "DR LEENARTS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030111",
+  "mmkId": "3030111",
+  "productGroupId": "482887",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-normale-gevoelige-huid-dag-nachtcreme/p/5754715",
@@ -25,8 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
     }
   ],
   "description": "50ml",

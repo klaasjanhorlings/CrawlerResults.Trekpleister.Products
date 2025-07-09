@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6647",
   "supplier": "NUTRITION&SANTE BENELX",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030140",
+  "mmkId": "3030140",
+  "productGroupId": "486314",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wecare-crunchy-dark-choco-bars/p/4335052",
@@ -33,5 +33,6 @@
       "name": "Verantwoorde tussendoortjes"
     }
   ],
-  "description": "6 stuks"
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/h0e/h78/31687185825822/prd-front-4335052-1_600x600/prd-front-4335052-1-600x600.jpg"
 }

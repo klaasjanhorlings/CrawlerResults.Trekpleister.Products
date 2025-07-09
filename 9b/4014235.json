@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 5697 > 2191 > 2512 > 3126 > 6454",
   "supplier": "EDDING BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536626,
-      "name": "Speelgoed"
+      "id": 29536631,
+      "name": "Huishouden"
     },
     {
-      "id": 30267081,
-      "name": "Knutselen"
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267458,
+      "name": "Huishoudelijk textiel"
     }
   ],
   "description": "multicolor, 6 stuks",

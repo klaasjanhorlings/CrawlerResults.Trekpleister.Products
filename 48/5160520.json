@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier SkinActive Micellair Reinigingwater",
+  "code": "5160520",
+  "price": "2.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-skinactive-micellair-reinigingwater/p/5160520",
+  "listName": "Lister",
+  "brand": "Garnier",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267472,
+      "name": "Micellair water"
+    }
+  ],
+  "description": "100ml - Gevoelige huid",
+  "image": "/medias/prd-front-5160520-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjU3NDV8aW1hZ2UvanBlZ3xhR1F4TDJnMVl5OHhOamN4TWpBeU1qTTVNamcyTWk5d2NtUXRabkp2Ym5RdE5URTJNRFV5TUMweFh6WXdNSGcyTURBfDQ2NWNlOGIyZDhjNDQ0ZTgyMmJlMDlkOTQ2YWMyMDczMTNjNzY5YWE2YmVmY2Y4OGQ4YzU0NGZiMDJhYTdhNWU"
+}

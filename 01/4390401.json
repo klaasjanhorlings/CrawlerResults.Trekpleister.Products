@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Men Dry Fresh Anti-Transpirant Roller",
+  "code": "4390401",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3874",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3030045",
+  "mmkId": "3030045",
+  "productGroupId": "471125",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-dry-fresh-anti-transpirant-roller/p/4390401",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h4a/hfc/34804701823006/prd-front-4390401-1_600x600/prd-front-4390401-1-600x600.jpg"
+}
