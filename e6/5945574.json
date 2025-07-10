@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "Oordoppen"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hfe/h76/34182906806302/prd-front-5945574-1_600x600/prd-front-5945574-1-600x600.jpg"
 }

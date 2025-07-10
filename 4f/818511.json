@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lactacyd Verzorgende Wasemulsie Mini",
+  "code": "818511",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lactacyd-verzorgende-wasemulsie-mini/p/818511",
+  "listName": "Lister",
+  "brand": "Lactacyd",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267222,
+      "name": "Intieme hygiëne"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-818511-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTIzOTJ8aW1hZ2UvanBlZ3xhRGs0TDJneE1DOHhOakl6TlRNeU9ETXdOekl6TUM5d2NtUXRabkp2Ym5RdE9ERTROVEV4TFRGZk5qQXdlRFl3TUF8OGEyZDE2NzVjZTY1Y2FlOWIwNDUwYWVjMGM3YTAwZWVlYzc1MTU2M2E1NzdhYTBmMGZiOTAzZTIzNGFkNGU1Yg"
+}

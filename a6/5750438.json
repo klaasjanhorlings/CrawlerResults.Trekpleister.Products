@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "3030097",
-  "mmkId": "3030097",
-  "productGroupId": "481540",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-6m-banaan-aardbei-knijpfruit/p/5750438",
@@ -37,6 +37,5 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "100g",
-  "image": "/medias/prd-front-5750438-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzg3Mjd8aW1hZ2UvanBlZ3xhREJtTDJnek9DOHhOekExTnpVd05qQTJOalEyTWk5d2NtUXRabkp2Ym5RdE5UYzFNRFF6T0MweFh6WXdNSGcyTURBfDNhMmI5MGFhNWVkYTMxN2JjOGExNWUwODMwMDg0NzJlNzRhMTljZTE3OGQzNzYxODBmNzU2YmU1ZWY0ODBkZWI"
+  "description": "100g"
 }

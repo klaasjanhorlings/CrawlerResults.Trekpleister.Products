@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
   "supplier": "WILKINSON SWORD GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030169",
+  "mmkId": "3030169",
+  "productGroupId": "488564",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wilkinson-sword-hydro-5-navulmesjes/p/2254932",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "4 stuks",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h97/h45/34825728589854/prd-front-2254932-1_600x600/prd-front-2254932-1-600x600.jpg"
 }
