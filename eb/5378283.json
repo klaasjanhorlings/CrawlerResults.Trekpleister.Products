@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schwarzkopf Got2b Gentleman Texture Clay",
+  "code": "5378283",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3246 > 4137",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3030183",
+  "mmkId": "3030183",
+  "productGroupId": "459920",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schwarzkopf-got2b-gentleman-texture-clay/p/5378283",
+  "listName": "Lister",
+  "brand": "Got2B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267484,
+      "name": "Haarklei"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hd1/h78/34830388101150/prd-front-5378283-1_600x600/prd-front-5378283-1-600x600.jpg"
+}

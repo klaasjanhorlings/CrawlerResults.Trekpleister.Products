@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gliss Total Repair Express Repair Conditioner Anti-Klitspray",
+  "code": "6020474",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4314",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gliss-total-repair-express-repair-conditioner-anti-klitspray/p/6020474",
+  "listName": "Lister",
+  "brand": "Gliss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213322,
+      "name": "Anti-klitspray"
+    }
+  ],
+  "description": "70ml",
+  "image": "/medias/sys_master/prd-images/h5f/h95/34028829868062/prd-front-6020474-1_600x600/prd-front-6020474-1-600x600.jpg"
+}

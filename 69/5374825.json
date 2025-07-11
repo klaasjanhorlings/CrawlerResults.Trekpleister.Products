@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Hold 5 Power Styling Gel",
+  "code": "5374825",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3030183",
+  "mmkId": "3030183",
+  "productGroupId": "459920",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-hold-5-power-styling-gel/p/5374825",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h9a/h79/34826049290270/prd-front-5374825-1_600x600/prd-front-5374825-1-600x600.jpg"
+}

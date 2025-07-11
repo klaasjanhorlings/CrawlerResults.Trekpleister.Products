@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6023 > 4830 > 4845 > 4856 > 4867",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Zwembaden"
     }
   ],
-  "description": "ø60cm, blauw",
-  "image": "/medias/sys_master/prd-images/h0f/ha5/34245667487774/prd-front-6288322-1_600x600/prd-front-6288322-1-600x600.jpg"
+  "description": "ø60cm, blauw"
 }
