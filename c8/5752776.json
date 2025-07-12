@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cucumber Deep Cleaning Peel Off Mask",
+  "code": "5752776",
+  "price": "1.75",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "3030050",
+  "mmkId": "3030050",
+  "productGroupId": "471993",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cucumber-deep-cleaning-peel-off-mask/p/5752776",
+  "listName": "Lister",
+  "brand": "7th Heaven",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5752776-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTgyMzZ8aW1hZ2UvanBlZ3xhRGxpTDJneE55OHhOalF6T1RreE16UTRNREl5TWk5d2NtUXRabkp2Ym5RdE5UYzFNamMzTmkweFh6WXdNSGcyTURBfGVjZDJhMTdiZDc4NjkzMmRkZDdlYzZjYWNjODYwODVmMzU0M2FmNjhhNTk0YTAzNjljYTA0YjBkMTZhNjgyN2M"
+}

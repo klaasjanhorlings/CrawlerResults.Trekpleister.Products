@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Parodontax Original Tandpasta",
+  "code": "5613238",
+  "price": "1.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4316",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/parodontax-original-tandpasta/p/5613238",
+  "listName": "Lister",
+  "brand": "Parodontax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 91613031,
+      "name": "Mini reisverpakkingen"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h40/h63/34844984082462/prd-front-5613238-1_600x600/prd-front-5613238-1-600x600.jpg"
+}

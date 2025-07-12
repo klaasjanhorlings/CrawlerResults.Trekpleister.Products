@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6457 > 6458",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030184",
+  "mmkId": "3030184",
+  "productGroupId": "462413",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/mycosan-steelwrattenbevriezing/p/6238888",
@@ -37,5 +37,6 @@
       "name": "Wrattenbehandeling"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hed/hf5/34327112220702/prd-front-6238888-1_600x600/prd-front-6238888-1-600x600.jpg"
 }

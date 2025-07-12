@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sensodyne Extra Fresh Gel Tandpasta Mint voor Gevoelige Tanden",
+  "code": "890268",
+  "price": "1.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sensodyne-extra-fresh-gel-tandpasta-mint-voor-gevoelige-tanden/p/890268",
+  "listName": "Lister",
+  "brand": "Sensodyne",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 91613031,
+      "name": "Mini reisverpakkingen"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h8b/hc0/34844933881886/prd-front-890268-1_600x600/prd-front-890268-1-600x600.jpg"
+}

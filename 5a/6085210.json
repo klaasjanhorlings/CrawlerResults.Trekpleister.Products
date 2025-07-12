@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Drs Leenarts Sun SPF25 Lipcare",
+  "code": "6085210",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
+  "supplier": "DR LEENARTS BV",
+  "inStock": "inStock",
+  "onPromo": "3030111",
+  "mmkId": "3030111",
+  "productGroupId": "482887",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/drs-leenarts-sun-spf25-lipcare/p/6085210",
+  "listName": "Lister",
+  "brand": "Drs Leenarts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267166,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "4,8g",
+  "image": "/medias/sys_master/prd-images/he8/hb0/34677190754334/prd-front-6085210-1_600x600/prd-front-6085210-1-600x600.jpg"
+}
