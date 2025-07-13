@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2140 > 4929 > 4975 > 5021",
   "supplier": "UP INTERNATIONAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Voertuigen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h6b/hd7/29309584343070/prd-front-5944867-1_600x600/prd-front-5944867-1-600x600.jpg"
+  "description": ""
 }

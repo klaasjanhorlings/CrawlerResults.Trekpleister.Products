@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "DR LEENARTS BV",
-  "inStock": "inStock",
-  "onPromo": "3030111",
-  "mmkId": "3030111",
-  "productGroupId": "482887",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-babybillenzalf/p/5766692",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/he8/h0e/33498554433566/prd-front-5766692-1_600x600/prd-front-5766692-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h96/h2f/34845448405022/prd-front-5766692-1_600x600/prd-front-5766692-1-600x600.jpg"
 }
