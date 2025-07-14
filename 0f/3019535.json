@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "3030129",
-  "mmkId": "3030129",
-  "productGroupId": "484227",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-100-pure-conoconut-oil/p/3019535",
@@ -33,6 +33,5 @@
       "name": "Haarolie"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/prd-front-3019535-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzIzNjZ8aW1hZ2UvanBlZ3xhRGxpTDJnMU5DOHhOakk1TkRnMk1qRTFPVGt3TWk5d2NtUXRabkp2Ym5RdE16QXhPVFV6TlMweFh6WXdNSGcyTURBfDJhYmI3MmQ0ODVjYTI1YzhmOTk2ZDhiZWY5NzU5NGZiN2Y0ODBmZjMzODVkZjdiYjJiYWY0NTlkMTVlNGU0Mzc"
+  "description": "500ml"
 }

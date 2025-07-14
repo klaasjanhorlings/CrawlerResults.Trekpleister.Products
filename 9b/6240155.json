@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2892 > 3667",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3030060",
-  "mmkId": "3030060",
-  "productGroupId": "474107",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-baby-dry-paw-patrol-pants-maat-5-luierbroekjes/p/6240155",
@@ -33,6 +33,5 @@
       "name": "Luierbroekjes maat 5"
     }
   ],
-  "description": "mt 5 (11-17kg), 22 stuks",
-  "image": "/medias/sys_master/prd-images/hc6/h7a/33550403665950/prd-front-6240155-1_600x600/prd-front-6240155-1-600x600.jpg"
+  "description": "mt 5 (11-17kg), 22 stuks"
 }

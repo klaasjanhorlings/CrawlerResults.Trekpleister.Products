@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Oral-B iO Ultimate Clean Opzetborstels",
   "code": "6024415",
-  "price": "38.99",
+  "price": "44.99",
   "priceOriginal": "93.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 55,00",
+  "discount": "€ 49,00",
   "url": "/oral-b-io-ultimate-clean-opzetborstels/p/6024415",
   "listName": "Lister",
   "brand": "Oral B",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 8 stuks"
+  "description": "wit, 8 stuks",
+  "image": "/medias/sys_master/prd-images/h0b/hd6/33762545827870/prd-front-6024415-1_600x600/prd-front-6024415-1-600x600.jpg"
 }

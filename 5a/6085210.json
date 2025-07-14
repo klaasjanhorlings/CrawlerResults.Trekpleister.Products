@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "3030111",
-  "mmkId": "3030111",
-  "productGroupId": "482887",
+  "onPromo": "3030322",
+  "mmkId": "3030322",
+  "productGroupId": "482894",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-sun-spf25-lipcare/p/6085210",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "4,8g"
+  "description": "4,8g",
+  "image": "/medias/sys_master/prd-images/he8/hb0/34677190754334/prd-front-6085210-1_600x600/prd-front-6085210-1-600x600.jpg"
 }

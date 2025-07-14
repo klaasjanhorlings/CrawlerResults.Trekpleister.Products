@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "2THINGS",
   "inStock": "inStock",
-  "onPromo": "3030138",
-  "mmkId": "3030138",
-  "productGroupId": "486066",
+  "onPromo": "3030331",
+  "mmkId": "3030331",
+  "productGroupId": "483060",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-multi-gummies/p/6256850",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h76/h1a/33465906266142/prd-front-6256850-1_600x600/prd-front-6256850-1-600x600.jpg"
 }

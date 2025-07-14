@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
   "supplier": "PRIMMED BV",
   "inStock": "inStock",
-  "onPromo": "3030135",
-  "mmkId": "3030135",
-  "productGroupId": "485071",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-50-deet-anti-insect-lotion/p/4391213",
@@ -37,6 +37,5 @@
       "name": "Voor de beet"
     }
   ],
-  "description": "60ml",
-  "image": "/medias/sys_master/prd-images/h25/hf3/28551052623902/prd-front-4391213-1_600x600/prd-front-4391213-1-600x600.jpg"
+  "description": "60ml"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fa Mystic Moments Douchecrème",
+  "code": "5600183",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3030275",
+  "mmkId": "3030275",
+  "productGroupId": "473476",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fa-mystic-moments-douchecreme/p/5600183",
+  "listName": "Lister",
+  "brand": "Fa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267204,
+      "name": "Douchecrème"
+    }
+  ],
+  "description": "750ml",
+  "image": "/medias/sys_master/prd-images/hdf/h4e/30159373369374/prd-front-5600183-1_600x600/prd-front-5600183-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3030122",
-  "mmkId": "3030122",
-  "productGroupId": "483799",
+  "onPromo": "3030272",
+  "mmkId": "3030272",
+  "productGroupId": "471222",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-spf30-sensitive-dagelijkse-beschermende-hydraterende-creme/p/6304289",
@@ -33,5 +33,6 @@
       "name": "Gezichtscreme mannen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6c/h3e/34802545688606/prd-front-6304289-1_600x600/prd-front-6304289-1-600x600.jpg"
 }

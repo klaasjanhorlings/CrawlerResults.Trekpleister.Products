@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3030318",
+  "mmkId": "3030318",
+  "productGroupId": "482728",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dagravit-vitaal-50-vit-d-omega-3-visolie-capsules/p/4502289",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h6a/h13/32824642535454/prd-front-4502289-1_600x600/prd-front-4502289-1-600x600.jpg"
 }

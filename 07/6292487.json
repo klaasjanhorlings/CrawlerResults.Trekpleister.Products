@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3030028",
-  "mmkId": "3030028",
-  "productGroupId": "463006",
+  "onPromo": "3030351",
+  "mmkId": "3030351",
+  "productGroupId": "484038",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-kokos-volume-boost-volumegevende-shampoo/p/6292487",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hf1/hc9/34733915045918/prd-front-6292487-1_600x600/prd-front-6292487-1-600x600.jpg"
 }

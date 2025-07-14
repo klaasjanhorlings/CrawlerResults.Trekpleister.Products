@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030183",
-  "mmkId": "3030183",
-  "productGroupId": "459920",
+  "onPromo": "3030275",
+  "mmkId": "3030275",
+  "productGroupId": "473476",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-luxurious-moments-deodorant-spray/p/2597526",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h74/h4f/28547123183646/prd-front-2597526-1_600x600/prd-front-2597526-1-600x600.jpg"
 }

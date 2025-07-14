@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3030122",
-  "mmkId": "3030122",
-  "productGroupId": "483799",
+  "onPromo": "3030272",
+  "mmkId": "3030272",
+  "productGroupId": "471222",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-cellular-expert-filler-anti-age-oog-en-lipcontourcreme/p/2785707",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Rijpe huid"
+  "description": "15ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/he4/h94/32905576054814/prd-front-2785707-1_600x600/prd-front-2785707-1-600x600.jpg"
 }

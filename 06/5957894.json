@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "TRADE SENSE BV",
   "inStock": "inStock",
-  "onPromo": "3030043",
-  "mmkId": "3030043",
-  "productGroupId": "470587",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/treaclemoon-brazilian-love-bodylotion/p/5957894",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h1d/hcb/29361403265054/prd-front-5957894-1_600x600/prd-front-5957894-1-600x600.jpg"
+  "description": "250ml"
 }

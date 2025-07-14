@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HALEON (NOVARTIS)",
   "inStock": "inStock",
-  "onPromo": "3030109",
-  "mmkId": "3030109",
-  "productGroupId": "482755",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/centrum-women-multivitaminen-tabletten/p/3278038",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/hab/h94/34686322802718/prd-front-3278038-1_600x600/prd-front-3278038-1-600x600.jpg"
 }

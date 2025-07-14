@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "3030034",
-  "mmkId": "3030034",
-  "productGroupId": "466727",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/durex-original-classic-natural-condooms/p/6086715",
@@ -33,5 +33,6 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel - 40 stuks"
+  "description": "Medisch hulpmiddel - 40 stuks",
+  "image": "/medias/sys_master/prd-images/h1e/h57/31057156833310/prd-front-6086715-1_600x600/prd-front-6086715-1-600x600.jpg"
 }

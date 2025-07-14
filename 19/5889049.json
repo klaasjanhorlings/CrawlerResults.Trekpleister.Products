@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 3577",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3030119",
-  "mmkId": "3030119",
-  "productGroupId": "483642",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-hydra-hyaluronic-overnight-creme/p/5889049",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h59/h40/30326980476958/prd-front-5889049-1_600x600/prd-front-5889049-1-600x600.jpg"
 }

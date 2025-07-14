@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "3030143",
-  "mmkId": "3030143",
-  "productGroupId": "486664",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/steradent-triple-action-plus-bruistabletten/p/17143",
@@ -33,6 +33,5 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": "Medisch hulpmiddel - 30 stuks",
-  "image": "/medias/sys_master/prd-images/h3e/h8b/30266568933406/prd-front-17143-1_600x600/prd-front-17143-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 30 stuks"
 }

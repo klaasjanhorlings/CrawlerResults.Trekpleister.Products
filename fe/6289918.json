@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
   "supplier": "HISMILE PTY LTD.",
   "inStock": "inStock",
-  "onPromo": "3030167",
-  "mmkId": "3030167",
-  "productGroupId": "488420",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hismile-peach-iced-tea-tandpasta/p/6289918",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "60g"
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/hec/ha0/34146750234654/prd-front-6289918-1_600x600/prd-front-6289918-1-600x600.jpg"
 }

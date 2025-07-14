@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "3030214",
-  "mmkId": "3030214",
-  "productGroupId": "478680",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-avent-scy962/02-0m-natuurlijke-zuigreflex-flesspenen/p/5838446",
@@ -33,5 +33,6 @@
       "name": "Flessenspenen"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h7f/h1e/28909598310430/prd-front-5838446-1_600x600/prd-front-5838446-1-600x600.jpg"
 }

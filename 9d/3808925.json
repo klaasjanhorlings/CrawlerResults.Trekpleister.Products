@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "3030129",
-  "mmkId": "3030129",
-  "productGroupId": "484227",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-oil-100-natural-36-in-1-oil/p/3808925",
@@ -33,6 +33,5 @@
       "name": "Haarolie"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/prd-front-3808925-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjAxNTN8aW1hZ2UvanBlZ3xhRFZpTDJnd1l5OHhOak15TXpJMk5UYzFOekl4TkM5d2NtUXRabkp2Ym5RdE16Z3dPRGt5TlMweFh6WXdNSGcyTURBfDZhN2MxNjYxZTg3NjRmMTg3ZjliMjI0ZDkxNTQ4YmUxNTg2Mzk1MDk1Mzk4MzQwMWExZjAwZGM4ZWE2MWZkZjY"
+  "description": "250ml"
 }

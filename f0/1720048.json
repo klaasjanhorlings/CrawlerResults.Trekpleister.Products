@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030273",
+  "mmkId": "3030273",
+  "productGroupId": "471222",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/labello-pearly-shine-lippenbalsem/p/1720048",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "4,8g"
+  "description": "4,8g",
+  "image": "/medias/sys_master/prd-images/h38/h5c/34522599882782/prd-front-1720048-1_600x600/prd-front-1720048-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030183",
-  "mmkId": "3030183",
-  "productGroupId": "459920",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-zijde-doorkammer-shampoo/p/2099560",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h3e/h24/32038918127646/prd-front-2099560-1_600x600/prd-front-2099560-1-600x600.jpg"
 }

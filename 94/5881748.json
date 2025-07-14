@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030366",
+  "mmkId": "3030366",
+  "productGroupId": "486738",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/colgate-max-white-overnight-whitening-serum/p/5881748",
@@ -33,5 +33,6 @@
       "name": "Whitening producten"
     }
   ],
-  "description": "2,5ml - Whitening"
+  "description": "2,5ml - Whitening",
+  "image": "/medias/sys_master/prd-images/hdc/h6b/33860258299934/prd-front-5881748-1_600x600/prd-front-5881748-1-600x600.jpg"
 }

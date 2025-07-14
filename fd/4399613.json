@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4247",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3030020",
-  "mmkId": "3030020",
-  "productGroupId": "460937",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/leukoplast-leukomed-t-plus-waterbestendig-wondverband/p/4399613",
@@ -37,5 +37,6 @@
       "name": "Waterbestendige pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 5cm x 7.2cm, 5 stuks"
+  "description": "Medisch hulpmiddel - 5cm x 7.2cm, 5 stuks",
+  "image": "/medias/sys_master/prd-images/h6c/h7f/31177076736030/prd-front-4399613-1_600x600/prd-front-4399613-1-600x600.jpg"
 }

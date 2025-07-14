@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "inStock",
-  "onPromo": "3030073",
-  "mmkId": "3030073",
-  "productGroupId": "477599",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-sensitive-spf30-dagcreme/p/4859443",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h15/h9a/34455313055774/prd-front-4859443-1_600x600/prd-front-4859443-1-600x600.jpg"
 }

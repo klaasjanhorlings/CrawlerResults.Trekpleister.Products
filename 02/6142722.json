@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6320",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3030212",
-  "mmkId": "3030212",
-  "productGroupId": "465472",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tangle-teezer-detangler-mini-hairbrush/p/6142722",
@@ -37,6 +37,5 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h21/h4f/31661221216286/prd-front-6142722-1_600x600/prd-front-6142722-1-600x600.jpg"
+  "description": ""
 }

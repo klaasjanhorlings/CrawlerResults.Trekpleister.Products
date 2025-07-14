@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mouwloos Bigshirt",
+  "code": "6179045",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6716 > 5795 > 2495 > 3061 > 3791",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/mouwloos-bigshirt/p/6179045",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267090,
+      "name": "Dames"
+    },
+    {
+      "id": 30267400,
+      "name": "Damespyjama's"
+    }
+  ],
+  "description": "grijs, mt M",
+  "image": "/medias/sys_master/prd-images/he1/h51/33929697656862/prd-front-6179045-1_600x600/prd-front-6179045-1-600x600.jpg"
+}

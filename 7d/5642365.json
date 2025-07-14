@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3030028",
-  "mmkId": "3030028",
-  "productGroupId": "463006",
+  "onPromo": "3030282",
+  "mmkId": "3030282",
+  "productGroupId": "476545",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-go-fresh-passion-fruit-lemongrass-antitranspirant-spray/p/5642365",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h54/ha1/33197760774174/prd-front-5642365-1_600x600/prd-front-5642365-1-600x600.jpg"
 }

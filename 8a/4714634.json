@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
   "supplier": "TROPENZORG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030300",
+  "mmkId": "3030300",
+  "productGroupId": "481115",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/care-plus-50-deet-anti-insect-lotion/p/4714634",
@@ -37,6 +37,5 @@
       "name": "Voor de beet"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h4a/hb7/33498489421854/prd-front-4714634-1_600x600/prd-front-4714634-1-600x600.jpg"
+  "description": "50ml"
 }

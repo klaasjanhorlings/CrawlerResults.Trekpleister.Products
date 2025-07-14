@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2701 > 3404",
   "supplier": "PIETERCIL BARENDS BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3030263",
+  "mmkId": "3030263",
+  "productGroupId": "450531",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-scholls-fresh-step-deodorant-schoenenspray/p/593068",
@@ -33,5 +33,6 @@
       "name": "Zweetvoeten"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h58/h20/34329644597278/prd-front-593068-1_600x600/prd-front-593068-1-600x600.jpg"
 }

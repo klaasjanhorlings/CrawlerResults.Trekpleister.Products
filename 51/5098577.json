@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "3030019",
-  "mmkId": "3030019",
-  "productGroupId": "460452",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bausch-lomb-renu-mps-sensitive-eyes-flightpack/p/5098577",
@@ -33,5 +33,6 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml"
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/hda/h85/33650759401502/prd-front-5098577-1_600x600/prd-front-5098577-1-600x600.jpg"
 }
