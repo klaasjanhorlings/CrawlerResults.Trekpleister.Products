@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3,5g"
+  "description": "3,5g",
+  "image": "/medias/sys_master/prd-images/hd3/hd2/29947442724894/prd-front-5788228-1_600x600/prd-front-5788228-1-600x600.jpg"
 }

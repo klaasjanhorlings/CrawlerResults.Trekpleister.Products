@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5928 > 6716 > 5795 > 2495 > 3061 > 3791",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Damespyjama's"
     }
   ],
-  "description": "grijs, mt L"
+  "description": "grijs, mt L",
+  "image": "/medias/sys_master/prd-images/ha4/hf6/34676581335070/prd-front-6179248-1_600x600/prd-front-6179248-1-600x600.jpg"
 }

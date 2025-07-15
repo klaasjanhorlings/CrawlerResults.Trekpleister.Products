@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2707 > 3891",
   "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Maaltijdvervangers"
     }
   ],
-  "description": "434g",
-  "image": "/medias/sys_master/prd-images/h59/h57/34860195643422/prd-front-6260077-1_600x600/prd-front-6260077-1-600x600.jpg"
+  "description": "434g"
 }

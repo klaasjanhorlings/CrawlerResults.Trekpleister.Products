@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "DR LEENARTS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030322",
+  "mmkId": "3030322",
+  "productGroupId": "482894",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-babybillenzalf/p/5766692",
@@ -37,6 +37,5 @@
       "name": "Luierzalf"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/ha6/hb1/34854642647070/prd-front-5766692-1_600x600/prd-front-5766692-1-600x600.jpg"
+  "description": "50ml"
 }

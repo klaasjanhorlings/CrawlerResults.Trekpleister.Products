@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dreft Regular 4-in-1 Wasmiddelcaps",
+  "code": "5717160",
+  "price": "9.99",
+  "priceOriginal": "22.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "BLUESUN CONSUMER BRANDS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 13,00",
+  "url": "/dreft-regular-4-in-1-wasmiddelcaps/p/5717160",
+  "listName": "Lister",
+  "brand": "Dreft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "42 stuks"
+}
