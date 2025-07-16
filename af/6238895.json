@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mycosan Kalknagelpleister",
+  "code": "6238895",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6451 > 6452",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3030184",
+  "mmkId": "3030184",
+  "productGroupId": "462413",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/mycosan-kalknagelpleister/p/6238895",
+  "listName": "Lister",
+  "brand": "Mycosan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48237510,
+      "name": "Kalknagelbehandeling"
+    }
+  ],
+  "description": "14 stuks",
+  "image": "/medias/sys_master/prd-images/h07/hba/34328354357278/prd-front-6238895-1_600x600/prd-front-6238895-1-600x600.jpg"
+}

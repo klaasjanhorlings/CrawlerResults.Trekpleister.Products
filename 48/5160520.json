@@ -21,22 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267165,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30267472,
-      "name": "Micellair water"
+      "id": 91613031,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "100ml - Gevoelige huid",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h94/h00/34869985804318/prd-front-5160520-1_600x600/prd-front-5160520-1-600x600.jpg"
 }

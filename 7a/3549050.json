@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3030332",
-  "mmkId": "3030332",
-  "productGroupId": "483071",
+  "onPromo": "3030409",
+  "mmkId": "3030409",
+  "productGroupId": "483114",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-vitamine-b12-1000mcg-kauwtabletjes/p/3549050",
@@ -29,13 +29,10 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267548,
-      "name": "Vitamine B"
+      "id": 30267274,
+      "name": "Weerstand en of energie"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/prd-front-3549050-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTExODF8aW1hZ2UvanBlZ3xhRGczTDJnNE5DOHhOalUzTnpnME9URXpNVEF6T0M5d2NtUXRabkp2Ym5RdE16VTBPVEExTUMweFh6WXdNSGcyTURBfDAwNDQ0YzVlNTNmZDNhYjM2OThmMGRkNjUzZjIyMzFkZmNlYmI1NmRkYmQ4MDk5YjZlNGM4OTEyM2U3MjU2MTY"
 }

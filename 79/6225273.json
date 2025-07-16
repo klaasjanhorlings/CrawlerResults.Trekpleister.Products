@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Diadermine Essentiel Bio Refreshing Micellar Water",
-  "code": "5219264",
-  "price": "8.39",
+  "itemName": "Diadermine Lift+ Boost Éclat Oogcrème",
+  "code": "6225273",
+  "price": "21.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
   "onPromo": "3030274",
@@ -13,7 +13,7 @@
   "productGroupId": "473151",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/diadermine-essentiel-bio-refreshing-micellar-water/p/5219264",
+  "url": "/diadermine-lift-boost-eclat-oogcreme/p/6225273",
   "listName": "Lister",
   "brand": "Diadermine",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Skincare"
     },
     {
-      "id": 30267165,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30267472,
-      "name": "Micellair water"
+      "id": 30267161,
+      "name": "Oogcreme"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h97/h13/28802864283678/prd-front-5219264-1_600x600/prd-front-5219264-1-600x600.jpg"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h3f/he6/32583456423966/prd-front-6225273-1_600x600/prd-front-6225273-1-600x600.jpg"
 }

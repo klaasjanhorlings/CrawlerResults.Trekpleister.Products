@@ -29,9 +29,14 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30267269,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30267258,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30267512,
+      "name": "Hooikoorts oogdruppels"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml"
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/hff/h96/33350173818910/prd-front-2768718-1_600x600/prd-front-2768718-1-600x600.jpg"
 }
