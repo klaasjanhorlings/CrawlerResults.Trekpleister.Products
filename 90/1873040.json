@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 3585",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3029673",
+  "mmkId": "3029673",
+  "productGroupId": "487469",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/betadine-desinfectiepleisters-strips/p/1873040",
@@ -37,6 +37,5 @@
       "name": "Klassieke pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks",
-  "image": "/medias/prd-front-1873040-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzcwNjV8aW1hZ2UvanBlZ3xhR0ZoTDJneE9DOHhOakkxTVRNek5ESXpNREEwTmk5d2NtUXRabkp2Ym5RdE1UZzNNekEwTUMweFh6WXdNSGcyTURBfGQwYTdjNDc1M2UyMjEwMjFhN2U0ZTYwOTA2MDA1M2NjYzRiNjMwMmQ0NWM2ZTk4YTg0ZWM3MDVkMGU1YTdmNzY"
+  "description": "Medisch hulpmiddel - 20 stuks"
 }

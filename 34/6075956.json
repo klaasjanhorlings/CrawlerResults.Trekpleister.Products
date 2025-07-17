@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6231",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3030409",
-  "mmkId": "3030409",
-  "productGroupId": "483114",
+  "onPromo": "3030324",
+  "mmkId": "3030324",
+  "productGroupId": "482964",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-silicium-haarvolume/p/6075956",
@@ -33,5 +33,6 @@
       "name": "Beautysupplementen"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h5b/h17/30651100299294/prd-front-6075956-1_600x600/prd-front-6075956-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030385",
+  "mmkId": "3030385",
+  "productGroupId": "487816",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-oleo-intense-1-10-intens-zwart-haarkleuring/p/2783145",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h84/ha8/32888208916510/prd-front-2783145-1_600x600/prd-front-2783145-1-600x600.jpg"
 }

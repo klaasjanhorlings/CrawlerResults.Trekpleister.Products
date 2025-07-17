@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nûby Neus- en Oorreiniger",
+  "code": "1356853",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "NEW VALMAR BV",
+  "inStock": "inStock",
+  "onPromo": "3030267",
+  "mmkId": "3030267",
+  "productGroupId": "462051",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nuby-neus-en-oorreiniger/p/1356853",
+  "listName": "Lister",
+  "brand": "Nuby",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 75860503,
+      "name": "Baby en Kind gezondheid"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h59/h71/34889472540702/prd-front-1356853-1_600x600/prd-front-1356853-1-600x600.jpg"
+}
