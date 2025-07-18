@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "VIDACORP NETHERLANDS B.V.",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030423",
+  "mmkId": "3030423",
+  "productGroupId": "488490",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-no1-black-plum-vanilla-fragrance-mist/p/6317190",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "90ml",
-  "image": "/medias/sys_master/prd-images/hcb/hef/34889717186590/prd-front-6317190-1_600x600/prd-front-6317190-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hec/h22/34898407948318/prd-front-6317190-1_600x600/prd-front-6317190-1-600x600.jpg"
 }

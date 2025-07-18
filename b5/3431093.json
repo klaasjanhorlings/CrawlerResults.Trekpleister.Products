@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-sensitive-scheergel/p/3431093",
@@ -29,6 +29,5 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/had/h80/34880394100766/prd-front-3431093-1_600x600/prd-front-3431093-1-600x600.jpg"
+  "description": "30ml"
 }

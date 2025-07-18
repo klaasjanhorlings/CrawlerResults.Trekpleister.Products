@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "CRX NORDIC AG",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/celenes-by-sweden-by-sweden-vitamine-c-12-5-actief-serum/p/6062159",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hf9/hf6/34531985653790/prd-front-6062159-1_600x600/prd-front-6062159-1-600x600.jpg"
+  "description": "30ml - Alle huidtypen"
 }

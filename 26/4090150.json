@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Calvin Klein Truth Femme Eau de Parfum",
+  "code": "4090150",
+  "price": "24.96",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "SAR TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "3030423",
+  "mmkId": "3030423",
+  "productGroupId": "488490",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/calvin-klein-truth-femme-eau-de-parfum/p/4090150",
+  "listName": "Lister",
+  "brand": "Calvin Klein",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h1d/h76/34352087564318/prd-front-4090150-1_600x600/prd-front-4090150-1-600x600.jpg"
+}

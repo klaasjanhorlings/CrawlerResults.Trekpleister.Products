@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030419",
+  "mmkId": "3030419",
+  "productGroupId": "472679",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-matte-resistance-100-fairytale-ending-lipstick/p/5900046",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/h8f/28566869114910/prd-front-5900046-1_600x600/prd-front-5900046-1-600x600.jpg"
 }

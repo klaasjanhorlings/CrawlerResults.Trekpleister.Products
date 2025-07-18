@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Versace The Dreamer for Him Eau de Toilette",
+  "code": "3218034",
+  "price": "33.45",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "3030423",
+  "mmkId": "3030423",
+  "productGroupId": "488490",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/versace-the-dreamer-for-him-eau-de-toilette/p/3218034",
+  "listName": "Lister",
+  "brand": "Versace",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "100ml"
+}

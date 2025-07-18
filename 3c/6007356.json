@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-miracle-pure-eye-enhancer-02-buff-cream-concealer/p/6007356",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h06/h71/31160720818206/prd-front-6007356-1_600x600/prd-front-6007356-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030418",
+  "mmkId": "3030418",
+  "productGroupId": "469266",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-glow-exfoliant-5-aha-5-pha-lotion/p/6244747",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 84946008,
-      "name": "Exfoliant"
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267475,
+      "name": "Cleanser"
     }
   ],
   "description": "150ml",

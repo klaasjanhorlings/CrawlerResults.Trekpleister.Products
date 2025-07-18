@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Slim'Matic Ultra Precise Waterproof 030 Dark Wenkbrauwpotlood",
+  "code": "3999836",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-slimmatic-ultra-precise-waterproof-030-dark-wenkbrauwpotlood/p/3999836",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30267467,
+      "name": "Wenkbrauwpotlood"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7e/h2e/33038613151774/prd-front-3999836-1_600x600/prd-front-3999836-1-600x600.jpg"
+}

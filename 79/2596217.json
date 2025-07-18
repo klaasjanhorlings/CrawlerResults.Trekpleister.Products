@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030418",
+  "mmkId": "3030418",
+  "productGroupId": "469266",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-vette-gemengde-huid-creme/p/2596217",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Vette huid"
+  "description": "50ml - Vette huid",
+  "image": "/medias/sys_master/prd-images/h37/h4d/34532307468318/prd-front-2596217-1_600x600/prd-front-2596217-1-600x600.jpg"
 }

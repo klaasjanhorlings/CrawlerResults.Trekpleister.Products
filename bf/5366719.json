@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2271 > 2637 > 3320 > 6343",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-toilettas/p/5366719",
@@ -33,5 +33,6 @@
       "name": "Toilettassen"
     }
   ],
-  "description": "roze, 17cm x 10cm x 6,5cm"
+  "description": "roze, 17cm x 10cm x 6,5cm",
+  "image": "/medias/sys_master/prd-images/hfa/h5f/28578767699998/prd-front-5366719-1_600x600/prd-front-5366719-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-waterproof-taupe-instant-lift-brow-pencil/p/6274238",
@@ -33,9 +33,10 @@
       "name": "Wenkbrauw make-up"
     },
     {
-      "id": 30267467,
-      "name": "Wenkbrauwpotlood"
+      "id": 30267465,
+      "name": "Wenkbrauwmascara"
     }
   ],
-  "description": "0,24g"
+  "description": "0,24g",
+  "image": "/medias/sys_master/prd-images/heb/hc7/34022666534942/prd-front-6274238-1_600x600/prd-front-6274238-1-600x600.jpg"
 }

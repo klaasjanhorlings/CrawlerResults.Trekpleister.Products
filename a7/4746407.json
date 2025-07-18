@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jil Sander Sun for Men Eau de Toilette",
+  "code": "4746407",
+  "price": "27.75",
+  "priceOriginal": "53.96",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "SAR TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "3030423",
+  "mmkId": "3030423",
+  "productGroupId": "488490",
+  "brandType": "A of B merk",
+  "discount": "€ 26,21",
+  "url": "/jil-sander-sun-for-men-eau-de-toilette/p/4746407",
+  "listName": "Lister",
+  "brand": "Jil Sander",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h9f/h67/34352089858078/prd-front-4746407-1_600x600/prd-front-4746407-1-600x600.jpg"
+}

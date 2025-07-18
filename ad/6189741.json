@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 5690 > 5691 > 5692",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-juicy-bomb-shiny-lipgloss-set/p/6189741",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30267038,
-      "name": "Make-up"
+      "id": 30267040,
+      "name": "Geschenksets"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 30267140,
-      "name": "Lipgloss"
+      "id": 72666175,
+      "name": "Geschenkset voor haar"
     }
   ],
   "description": "5 stuks",

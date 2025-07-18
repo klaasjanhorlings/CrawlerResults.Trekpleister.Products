@@ -21,14 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267575,
+      "name": "Babycreme"
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h2a/h8f/34882507014174/prd-front-5766706-1_600x600/prd-front-5766706-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h77/hab/34891407130654/prd-front-5766706-1_600x600/prd-front-5766706-1-600x600.jpg"
 }

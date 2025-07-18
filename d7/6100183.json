@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-littekencreme/p/6100183",
@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267046,
+      "name": "Huidverzorging"
     },
     {
-      "id": 51216437,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 30267499,
-      "name": "Littekencremes"
+      "id": 30267198,
+      "name": "Bodycremes"
     }
   ],
   "description": "25ml",

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hermès Terre d'Hermès Eau de Toilette",
+  "code": "4942015",
+  "price": "56.87",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "3030423",
+  "mmkId": "3030423",
+  "productGroupId": "488490",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hermes-terre-dhermes-eau-de-toilette/p/4942015",
+  "listName": "Lister",
+  "brand": "Hermes",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h82/h65/28572611051550/prd-front-4942015-1_600x600/prd-front-4942015-1-600x600.jpg"
+}

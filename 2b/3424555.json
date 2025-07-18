@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dagravit Vitamine D 10ug Parels",
+  "itemName": "Dagravit Vitamine D3 10ug Parels",
   "code": "3424555",
   "price": "12.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "482728",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dagravit-vitamine-d-10ug-parels/p/3424555",
+  "url": "/dagravit-vitamine-d3-10ug-parels/p/3424555",
   "listName": "Lister",
   "brand": "Dagravit",
   "mpOrigin": "Kruidvat",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267286,
-      "name": "Botten en gewrichten"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
   "description": "100 stuks",

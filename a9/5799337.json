@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3030339",
-  "mmkId": "3030339",
-  "productGroupId": "483676",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-hair-remedy-honing-goud-herstellend-haarmasker/p/5799337",
@@ -33,6 +33,5 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "340ml",
-  "image": "/medias/sys_master/prd-images/h9f/h6f/29791610404894/prd-front-5799337-1_600x600/prd-front-5799337-1-600x600.jpg"
+  "description": "340ml"
 }

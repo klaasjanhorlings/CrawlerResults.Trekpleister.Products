@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4314",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/head-shoulders-classic-antiroosshampoo/p/6020467",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "95ml",
-  "image": "/medias/sys_master/prd-images/h02/h1a/34881628405790/prd-front-6020467-1_600x600/prd-front-6020467-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h32/h87/34891564253214/prd-front-6020467-1_600x600/prd-front-6020467-1-600x600.jpg"
 }

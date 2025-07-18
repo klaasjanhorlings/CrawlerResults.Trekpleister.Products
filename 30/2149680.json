@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4314",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/proset-classic-mega-strong-hairspray-mini/p/2149680",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/he3/hc6/34889699164190/prd-front-2149680-1_600x600/prd-front-2149680-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc0/h29/34898384420894/prd-front-2149680-1_600x600/prd-front-2149680-1-600x600.jpg"
 }

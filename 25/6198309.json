@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030424",
+  "mmkId": "3030424",
+  "productGroupId": "496952",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-deeply-nourishing-geschenkset/p/6198309",
@@ -33,6 +33,5 @@
       "name": "Geschenkset voor haar"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h43/hff/32183053582366/prd-front-6198309-1_600x600/prd-front-6198309-1-600x600.jpg"
+  "description": ""
 }

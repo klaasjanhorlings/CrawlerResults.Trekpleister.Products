@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-rose-glow-cheek-lip-tint/p/6317750",
@@ -29,14 +29,9 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 88118407,
-      "name": "Lip tint"
+      "id": 30267147,
+      "name": "Blush"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h2a/h66/34869808922654/prd-front-6317750-1_600x600/prd-front-6317750-1-600x600.jpg"
+  "description": "10ml"
 }

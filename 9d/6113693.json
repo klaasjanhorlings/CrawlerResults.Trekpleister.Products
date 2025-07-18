@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/pretty-me-pimple-patches/p/6113693",
@@ -29,8 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30267164,
-      "name": "Gezichtsmaskers"
+      "id": 81073392,
+      "name": "Pimple patches"
     }
   ],
   "description": "24 stuks",

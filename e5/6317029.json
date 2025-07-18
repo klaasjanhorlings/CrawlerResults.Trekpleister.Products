@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-hydrate-glow-watermelon-ultra-fine-mist/p/6317029",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30267038,
-      "name": "Make-up"
+      "id": 30267039,
+      "name": "Parfum"
     },
     {
-      "id": 30267151,
-      "name": "Fixing sprays"
+      "id": 30267158,
+      "name": "Bodymist"
     }
   ],
   "description": "75mL",

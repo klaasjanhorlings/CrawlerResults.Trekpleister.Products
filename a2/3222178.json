@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Calvin Klein Eternity Femme Eau de Parfum",
+  "code": "3222178",
+  "price": "46.13",
+  "priceOriginal": "73.87",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "SAR TRADING BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 27,74",
+  "url": "/calvin-klein-eternity-femme-eau-de-parfum/p/3222178",
+  "listName": "Lister",
+  "brand": "Calvin Klein",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-3222178-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzUxODF8aW1hZ2UvanBlZ3xhR05pTDJnM09TOHhOekExTnpnek16SXlNakUzTkM5d2NtUXRabkp2Ym5RdE16SXlNakUzT0MweFh6WXdNSGcyTURBfGE0ZDllYTMyY2JlMjkwM2RkMmNlYzcxNzc4OTYyMDE5YjY3NDllMjkwNmNmOThiOGQ3MzYxYjNlMjAzYjAyNGE"
+}

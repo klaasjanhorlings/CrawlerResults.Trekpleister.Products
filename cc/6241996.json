@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030419",
+  "mmkId": "3030419",
+  "productGroupId": "472679",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-yorker-sunkisser-22-star-studded-liquid-glow-highlighter/p/6241996",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd6/h48/33673188966430/prd-front-6241996-1_600x600/prd-front-6241996-1-600x600.jpg"
 }

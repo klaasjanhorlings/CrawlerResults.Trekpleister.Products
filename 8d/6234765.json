@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-faked-false-lashes-set/p/6234765",
@@ -25,13 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30267040,
-      "name": "Geschenksets"
+      "id": 30267043,
+      "name": "Make-up accessoires"
     },
     {
-      "id": 72666175,
-      "name": "Geschenkset voor haar"
+      "id": 30267172,
+      "name": "Nepwimpers"
     }
   ],
-  "description": "3 stuks"
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/hff/h37/33561992527902/prd-front-6234765-1_600x600/prd-front-6234765-1-600x600.jpg"
 }

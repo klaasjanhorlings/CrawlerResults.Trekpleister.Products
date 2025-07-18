@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6406",
   "supplier": "EMA COMPANY BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/real-techniques-precision-powder-puff/p/5956144",
@@ -33,5 +33,6 @@
       "name": "Make-up sponsjes"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb0/h19/28950733029406/prd-front-5956144-1_600x600/prd-front-5956144-1-600x600.jpg"
 }

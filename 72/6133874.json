@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030423",
+  "mmkId": "3030423",
+  "productGroupId": "488490",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/adidas-vibes-chill-zone-eau-de-parfum/p/6133874",
@@ -29,8 +29,8 @@
       "name": "Parfum"
     },
     {
-      "id": 72654953,
-      "name": "Unisex parfum"
+      "id": 72654765,
+      "name": "Damesparfum"
     }
   ],
   "description": "30ml",
