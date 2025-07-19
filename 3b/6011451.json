@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Nude Drop 030C Tinted Serum Foundation",
-  "code": "5788417",
-  "price": "8.49",
+  "itemName": "Catrice 3-in-1 030 Dark Brown Brow Perfector",
+  "code": "6011451",
+  "price": "4.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3030425",
@@ -13,7 +13,7 @@
   "productGroupId": "499063",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-nude-drop-030c-tinted-serum-foundation/p/5788417",
+  "url": "/catrice-3-in-1-030-dark-brown-brow-perfector/p/6011451",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30267467,
+      "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "30ml, Gezien op TikTok",
-  "image": "/medias/sys_master/prd-images/he8/hb2/29938938118174/prd-front-5788417-1_600x600/prd-front-5788417-1-600x600.jpg"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h33/h00/29939387891742/prd-front-6011451-1_600x600/prd-front-6011451-1-600x600.jpg"
 }

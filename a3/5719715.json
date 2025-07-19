@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030425",
+  "mmkId": "3030425",
+  "productGroupId": "499063",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-lash-like-a-boss-instant-volume-length-ultra-black-mascara/p/5719715",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "9.5ml"
+  "description": "9.5ml",
+  "image": "/medias/sys_master/prd-images/h78/hba/34683196997662/prd-front-5719715-1_600x600/prd-front-5719715-1-600x600.jpg"
 }

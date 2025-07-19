@@ -4,7 +4,7 @@
   "itemName": "Jumbo Party & Co Sketch Spel",
   "code": "5970487",
   "price": "5.99",
-  "priceOriginal": "17.99",
+  "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "JUMBO NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 12,00",
+  "discount": "",
   "url": "/jumbo-party-co-sketch-spel/p/5970487",
   "listName": "Lister",
   "brand": "Jumbo",
@@ -29,8 +29,8 @@
       "name": "Spellen"
     },
     {
-      "id": 30267392,
-      "name": "Bordspellen"
+      "id": 49281487,
+      "name": "Kaartspellen"
     }
   ],
   "description": "Nederlandstalig spel",

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "3030282",
-  "mmkId": "3030282",
-  "productGroupId": "476545",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-advanced-care-derma-hypo-allergenic-douchegel/p/6058176",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h87/h55/30548179550238/prd-front-6058176-1_600x600/prd-front-6058176-1-600x600.jpg"
+  "description": "400ml - Gevoelige huid"
 }
