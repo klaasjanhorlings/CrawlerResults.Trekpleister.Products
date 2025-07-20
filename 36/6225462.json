@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "LEGO Classic 11025 Blauwe Bouwplaat",
-  "code": "4373146",
-  "price": "7.99",
+  "itemName": "LEGO Creator 31160 3-In-1 Luchtvaart: Racevliegtuig",
+  "code": "6225462",
+  "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/lego-classic-11025-blauwe-bouwplaat/p/4373146",
+  "url": "/lego-creator-31160-3-in-1-luchtvaart-racevliegtuig/p/6225462",
   "listName": "Lister",
-  "brand": "LEGO Classic",
+  "brand": "LEGO Creator",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "LEGO"
     },
     {
-      "id": 30267368,
-      "name": "LEGO Classic"
+      "id": 30267372,
+      "name": "LEGO Creator"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h77/h28/34912021119006/prd-front-4373146-1_600x600/prd-front-4373146-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfa/hff/33146695843870/prd-front-6225462-1_600x600/prd-front-6225462-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "BENCKMAR BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Intieme hygiëne"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h9d/hd4/32826445660190/prd-front-4772580-1_600x600/prd-front-4772580-1-600x600.jpg"
+  "description": "75ml"
 }

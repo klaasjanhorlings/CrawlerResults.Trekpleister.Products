@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence The Slim Stick 106 The Pinkdring Lipstick",
-  "code": "6017303",
-  "price": "2.99",
+  "itemName": "Catrice Nude Drop 030C Tinted Serum Foundation",
+  "code": "5788417",
+  "price": "8.49",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3030425",
@@ -13,9 +13,9 @@
   "productGroupId": "499063",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-the-slim-stick-106-the-pinkdring-lipstick/p/6017303",
+  "url": "/catrice-nude-drop-030c-tinted-serum-foundation/p/5788417",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,13 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267134,
+      "name": "Foundation"
     }
   ],
-  "description": "1,7g"
+  "description": "30ml, Gezien op TikTok",
+  "image": "/medias/sys_master/prd-images/he8/hb2/29938938118174/prd-front-5788417-1_600x600/prd-front-5788417-1-600x600.jpg"
 }
