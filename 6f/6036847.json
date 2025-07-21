@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "NIP + FAB",
   "inStock": "inStock",
-  "onPromo": "3030425",
-  "mmkId": "3030425",
-  "productGroupId": "499063",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nip-fab-hyaluronic-fix-extreme4-jelly-oogpads/p/6036847",
@@ -33,6 +33,5 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": "20 stuks, droge huid",
-  "image": "/medias/sys_master/prd-images/h33/h41/30121934913566/prd-front-6036847-1_600x600/prd-front-6036847-1-600x600.jpg"
+  "description": "20 stuks, droge huid"
 }

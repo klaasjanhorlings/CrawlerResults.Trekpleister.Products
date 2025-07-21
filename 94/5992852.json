@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lenor Fresh Air Stralende Zon Wasverzachter",
+  "code": "5992852",
+  "price": "3.59",
+  "priceOriginal": "8.19",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3030457",
+  "mmkId": "3030457",
+  "productGroupId": "483048",
+  "brandType": "A of B merk",
+  "discount": "€ 4,60",
+  "url": "/lenor-fresh-air-stralende-zon-wasverzachter/p/5992852",
+  "listName": "Lister",
+  "brand": "Lenor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267115,
+      "name": "Wasverzachter"
+    }
+  ],
+  "description": "504ml, 36 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h99/ha4/33980629778462/prd-front-5992852-1_600x600/prd-front-5992852-1-600x600.jpg"
+}

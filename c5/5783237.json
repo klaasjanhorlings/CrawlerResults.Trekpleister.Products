@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3030419",
-  "mmkId": "3030419",
-  "productGroupId": "472679",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-tattoo-liner-black-ink-pen/p/5783237",
@@ -33,6 +33,5 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "1ml",
-  "image": "/medias/prd-front-5783237-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQxNTd8aW1hZ2UvanBlZ3xhRFE1TDJobU5TOHlOalUzTkRrNU56ZzRNRGcyTWk5d2NtUXRabkp2Ym5RdE5UYzRNekl6TnkweFh6WXdNSGcyTURBfGRlOTYxM2U2MjJiYzE0MzQ2M2IyZWEyYjJlZGVkOTI2MWZjZmRhOGY3ZDEyMDk5YzgyMjYzMTA1YmM0MTdiZTA"
+  "description": "1ml"
 }

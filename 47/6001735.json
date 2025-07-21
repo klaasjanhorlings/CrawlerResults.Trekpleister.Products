@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3030425",
-  "mmkId": "3030425",
-  "productGroupId": "499063",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-ink-010-best-in-black-waterproof-eyeliner/p/6001735",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "1,7ml"
+  "description": "1,7ml",
+  "image": "/medias/sys_master/prd-images/h10/h33/29942044524574/prd-front-6001735-1_600x600/prd-front-6001735-1-600x600.jpg"
 }

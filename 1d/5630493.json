@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4314",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3030425",
-  "mmkId": "3030425",
-  "productGroupId": "499063",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-dream-lengths-conditioner/p/5630493",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "90ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "90ml"
 }

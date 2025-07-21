@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "AVENTUS BV",
   "inStock": "inStock",
-  "onPromo": "3030425",
-  "mmkId": "3030425",
-  "productGroupId": "499063",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/collistar-self-tanning-face-magic-drops/p/1924728",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hd0/h2e/34390370811934/prd-front-1924728-1_600x600/prd-front-1924728-1-600x600.jpg"
+  "description": "30ml"
 }

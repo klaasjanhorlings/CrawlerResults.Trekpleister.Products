@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3030425",
-  "mmkId": "3030425",
-  "productGroupId": "499063",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/colgate-max-white-charcoal-tandpasta/p/5814527",
@@ -29,5 +29,6 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h71/h32/34913319780382/prd-front-5814527-1_600x600/prd-front-5814527-1-600x600.jpg"
 }

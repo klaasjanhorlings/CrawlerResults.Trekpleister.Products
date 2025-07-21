@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3030425",
-  "mmkId": "3030425",
-  "productGroupId": "499063",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-bella-vita-sheer-tint-lipbalm/p/6317925",
@@ -37,5 +37,6 @@
       "name": "Lip balm"
     }
   ],
-  "description": "3g"
+  "description": "3g",
+  "image": "/medias/sys_master/prd-images/h6d/h04/34826095689758/prd-front-6317925-1_600x600/prd-front-6317925-1-600x600.jpg"
 }

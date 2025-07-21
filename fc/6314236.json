@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ravensburger Zingo!",
+  "code": "6314236",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5161 > 5212 > 5401",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ravensburger-zingo/p/6314236",
+  "listName": "Lister",
+  "brand": "Ravensburger",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267393,
+      "name": "Reisspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha9/hc5/34164521009182/prd-front-6314236-1_600x600/prd-front-6314236-1-600x600.jpg"
+}

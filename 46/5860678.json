@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6323",
   "supplier": "LITTLE CONCEPTS NETTO",
   "inStock": "inStock",
-  "onPromo": "3030425",
-  "mmkId": "3030425",
-  "productGroupId": "499063",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/my-haircandy-haarklemmen/p/5860678",
@@ -33,5 +33,6 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": "beige, 2 stuks"
+  "description": "beige, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h7f/h43/28950753116190/prd-front-5860678-1_600x600/prd-front-5860678-1-600x600.jpg"
 }

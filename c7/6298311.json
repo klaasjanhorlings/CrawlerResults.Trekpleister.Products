@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nijntje Speeltent",
+  "code": "6298311",
+  "price": "0.0",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "CCG Companies B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nijntje-speeltent/p/6298311",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267077,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30267388,
+      "name": "Speelkleden en Babygyms"
+    }
+  ],
+  "description": "95cm x 72cm x 102cm",
+  "image": "/medias/sys_master/prd-images/hfb/h6a/34029158957086/prd-front-6298311-1_600x600/prd-front-6298311-1-600x600.jpg"
+}

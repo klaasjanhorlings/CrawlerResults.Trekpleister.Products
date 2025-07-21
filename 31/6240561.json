@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030412",
-  "mmkId": "3030412",
-  "productGroupId": "480123",
+  "onPromo": "3030293",
+  "mmkId": "3030293",
+  "productGroupId": "480120",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-full-hair-wonder-fullness-shampoo/p/6240561",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h16/h85/33772638044190/prd-front-6240561-1_600x600/prd-front-6240561-1-600x600.jpg"
 }

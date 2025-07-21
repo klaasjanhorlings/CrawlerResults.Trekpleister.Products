@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "3030425",
-  "mmkId": "3030425",
-  "productGroupId": "499063",
+  "onPromo": "3030290",
+  "mmkId": "3030290",
+  "productGroupId": "477602",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamine-c-glow-10-serum/p/6031562",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h94/h05/30148370530334/prd-front-6031562-1_600x600/prd-front-6031562-1-600x600.jpg"
 }

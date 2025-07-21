@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath That's Life Tropical Island Puzzel",
+  "code": "5795802",
+  "price": "3.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 4,00",
+  "url": "/goliath-thats-life-tropical-island-puzzel/p/5795802",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "1000 stukjes",
+  "image": "/medias/sys_master/prd-images/hf8/hca/34761363390494/prd-front-5795802-1_600x600/prd-front-5795802-1-600x600.jpg"
+}

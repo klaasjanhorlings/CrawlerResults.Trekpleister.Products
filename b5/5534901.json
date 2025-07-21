@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6332",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "3030425",
-  "mmkId": "3030425",
-  "productGroupId": "499063",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-eeltrasp/p/5534901",
@@ -37,5 +37,6 @@
       "name": "Nagelknippers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5534901-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTQyMjB8aW1hZ2UvanBlZ3xhRE16TDJoaU15OHhOekEyT0RneE1ETTNNVEV3TWk5d2NtUXRabkp2Ym5RdE5UVXpORGt3TVMweFh6WXdNSGcyTURBfGVlNDQzMTE1MzlmNDdmYWIxMTA2MWU1ODZkYWE4NTFmNDVjZTRiY2Q1MGI4OTdmZWE2N2U5YTkxNzEwNmZhYTE"
 }
