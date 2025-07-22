@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Bioré Diepe Poriecleanser met Houtskool",
-  "code": "4077620",
-  "price": "10.49",
+  "itemName": "Bioré Anti-Puistjes Cleanser met Houtskool",
+  "code": "4362212",
+  "price": "10.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
   "onPromo": "3030350",
@@ -13,7 +13,7 @@
   "productGroupId": "484022",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/biore-diepe-poriecleanser-met-houtskool/p/4077620",
+  "url": "/biore-anti-puistjes-cleanser-met-houtskool/p/4362212",
   "listName": "Lister",
   "brand": "Bioré",
   "mpOrigin": "Kruidvat",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml - Onzuivere huid",
-  "image": "/medias/sys_master/prd-images/hd3/h3b/34535954219038/prd-front-4077620-1_600x600/prd-front-4077620-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h96/hed/34536546369566/prd-front-4362212-1_600x600/prd-front-4362212-1-600x600.jpg"
 }

@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Matt Pro Ink 30 This Is Attitude Liquid Lipstick",
-  "code": "5094083",
-  "price": "4.99",
+  "itemName": "Essence Hydra Kiss 104 Pink Squeeze, Please! Lip Oil",
+  "code": "6289904",
+  "price": "2.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-matt-pro-ink-30-this-is-attitude-liquid-lipstick/p/5094083",
+  "url": "/essence-hydra-kiss-104-pink-squeeze-please-lip-oil/p/6289904",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "Essence",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,10 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267140,
+      "name": "Lipgloss"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/ha2/hd3/29924565942302/prd-front-5094083-1_600x600/prd-front-5094083-1-600x600.jpg"
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h4c/hda/34247132282910/prd-front-6289904-1_600x600/prd-front-6289904-1-600x600.jpg"
 }

@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Sugar Scrub 02 Matcha Latte Lip Care",
-  "code": "6123332",
-  "price": "2.99",
+  "itemName": "Essence Make Me Brow 01 Blondy Brows Eyebrow Gel Mascara",
+  "code": "3316454",
+  "price": "2.79",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-sugar-scrub-02-matcha-latte-lip-care/p/6123332",
+  "url": "/essence-make-me-brow-01-blondy-brows-eyebrow-gel-mascara/p/3316454",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
     },
     {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267465,
+      "name": "Wenkbrauwmascara"
     }
   ],
-  "description": "9g",
-  "image": "/medias/sys_master/prd-images/h10/hf0/34677191409694/prd-front-6123332-1_600x600/prd-front-6123332-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hea/h5c/34679459053598/prd-front-3316454-1_600x600/prd-front-3316454-1-600x600.jpg"
 }

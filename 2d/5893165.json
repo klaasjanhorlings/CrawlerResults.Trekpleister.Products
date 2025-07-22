@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 3775",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030286",
+  "mmkId": "3030286",
+  "productGroupId": "476696",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-sensitive-kids-xl-pleisters/p/5893165",
@@ -37,6 +37,5 @@
       "name": "Sensitive pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks",
-  "image": "/medias/sys_master/prd-images/h0a/hfc/32904873869342/prd-front-5893165-1_600x600/prd-front-5893165-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 10 stuks"
 }

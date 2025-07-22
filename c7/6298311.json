@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Nijntje Speeltent",
   "code": "6298311",
-  "price": "0.0",
+  "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
   "supplier": "CCG Companies B.V.",
@@ -25,12 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30267077,
-      "name": "Baby- en peuterspeelgoed"
+      "id": 30267084,
+      "name": "Buitenspeelgoed"
     },
     {
-      "id": 30267388,
-      "name": "Speelkleden en Babygyms"
+      "id": 30267397,
+      "name": "Speelhuisjes"
     }
   ],
   "description": "95cm x 72cm x 102cm",
