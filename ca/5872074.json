@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 30267050,
-      "name": "Zonbescherming"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30267214,
-      "name": "Zonnebrand"
+      "id": 51216437,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 49431586,
+      "name": "Tattooverzorging"
     }
   ],
   "description": "50ml",

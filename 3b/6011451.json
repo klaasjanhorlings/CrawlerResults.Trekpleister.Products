@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Make Me Brow 01 Blondy Brows Eyebrow Gel Mascara",
-  "code": "3316454",
-  "price": "2.79",
+  "itemName": "Catrice 3-in-1 030 Dark Brown Brow Perfector",
+  "code": "6011451",
+  "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "COSNOVA GMBH (BNL)",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-make-me-brow-01-blondy-brows-eyebrow-gel-mascara/p/3316454",
+  "url": "/catrice-3-in-1-030-dark-brown-brow-perfector/p/6011451",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,10 +33,10 @@
       "name": "Wenkbrauw make-up"
     },
     {
-      "id": 30267465,
-      "name": "Wenkbrauwmascara"
+      "id": 30267467,
+      "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hea/h5c/34679459053598/prd-front-3316454-1_600x600/prd-front-3316454-1-600x600.jpg"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h33/h00/29939387891742/prd-front-6011451-1_600x600/prd-front-6011451-1-600x600.jpg"
 }

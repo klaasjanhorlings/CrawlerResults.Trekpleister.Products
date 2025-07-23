@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Matt Pro Ink 160 Non-Transfer Liquid Lipstick",
-  "code": "5911806",
+  "itemName": "Catrice 3-in-1 020 Medium Brown Brow Perfector",
+  "code": "6011444",
   "price": "4.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-matt-pro-ink-160-non-transfer-liquid-lipstick/p/5911806",
+  "url": "/catrice-3-in-1-020-medium-brown-brow-perfector/p/6011444",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
     },
     {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267467,
+      "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h7f/h42/29953221034014/prd-front-5911806-1_600x600/prd-front-5911806-1-600x600.jpg"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h81/h7e/29939386253342/prd-front-6011444-1_600x600/prd-front-6011444-1-600x600.jpg"
 }

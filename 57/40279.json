@@ -33,9 +33,10 @@
       "name": "Mineralen"
     },
     {
-      "id": 50002052,
-      "name": "Calcium"
+      "id": 50002051,
+      "name": "Magnesium"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hf5/h49/28549991497758/prd-front-40279-1_600x600/prd-front-40279-1-600x600.jpg"
 }
