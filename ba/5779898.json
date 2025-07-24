@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3030459",
-  "mmkId": "3030459",
-  "productGroupId": "490274",
+  "onPromo": "3030292",
+  "mmkId": "3030292",
+  "productGroupId": "479786",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmolive-naturals-gevoelige-huid-douchecreme/p/5779898",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml - Gevoelige huid"
+  "description": "250ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h8f/hc3/28552029011998/prd-front-5779898-1_600x600/prd-front-5779898-1-600x600.jpg"
 }
