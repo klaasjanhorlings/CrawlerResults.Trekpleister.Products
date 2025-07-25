@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gerlinéa Koffie Drinkmaaltijd",
+  "code": "892277",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3600",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gerlinea-koffie-drinkmaaltijd/p/892277",
+  "listName": "Lister",
+  "brand": "Gerlinea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30267299,
+      "name": "Maaltijdrepen, drinkmaaltijden"
+    }
+  ],
+  "description": "236ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

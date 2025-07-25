@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea Fresh Natural Deodorant Spray",
+  "itemName": "NIVEA Fresh Natural Deodorant Spray",
   "code": "5435018",
   "price": "8.49",
   "priceOriginal": "",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "2 x 150ml"
+  "description": "2 x 150ml",
+  "image": "/medias/sys_master/prd-images/h27/he0/34568739389470/prd-front-5435018-1_600x600/prd-front-5435018-1-600x600.jpg"
 }

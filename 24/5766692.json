@@ -21,14 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267577,
+      "name": "Luierzalf"
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h61/ha3/34936390811678/prd-front-5766692-1_600x600/prd-front-5766692-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h18/h07/34947346071582/prd-front-5766692-1_600x600/prd-front-5766692-1-600x600.jpg"
 }

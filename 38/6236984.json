@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Garnier Pure Active Salicylic Liquid Care",
+  "itemName": "Garnier PureActive Salicylic Exfoliërende Liquid Care",
   "code": "6236984",
   "price": "14.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "483930",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/garnier-pure-active-salicylic-liquid-care/p/6236984",
+  "url": "/garnier-pureactive-salicylic-exfolierende-liquid-care/p/6236984",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "120ml",
-  "image": "/medias/sys_master/prd-images/h97/h45/34935352557598/prd-front-6236984-1_600x600/prd-front-6236984-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h63/h22/34956343738398/prd-front-6236984-1_600x600/prd-front-6236984-1-600x600.jpg"
 }

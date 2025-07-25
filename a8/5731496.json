@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hb6/he0/34677303279646/prd-front-5731496-1_600x600/prd-front-5731496-1-600x600.jpg"
+  "description": "30ml"
 }

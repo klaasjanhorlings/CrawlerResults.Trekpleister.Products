@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Modifast Banaan Maaltijddrink",
+  "code": "3161866",
+  "price": "2.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3600",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/modifast-banaan-maaltijddrink/p/3161866",
+  "listName": "Lister",
+  "brand": "Modifast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30267299,
+      "name": "Maaltijdrepen, drinkmaaltijden"
+    }
+  ],
+  "description": "236ml",
+  "image": "/medias/prd-front-3161866-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjYyODh8aW1hZ2UvanBlZ3xhRGt3TDJnd09TOHhOakk1T1RRM09EZzBNelF5TWk5d2NtUXRabkp2Ym5RdE16RTJNVGcyTmkweFh6WXdNSGcyTURBfDcyN2U0ZDQ2YzgyODJhNmIzYjBhZGE2ODUzYzNlZjJmMDliOGM5YmUzMDllYTA0MmU2NmUxZDQyYWY4ZTkxODc"
+}

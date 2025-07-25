@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Céréal Suikervrije Koekjes met Kokos",
+  "code": "2792896",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6648",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cereal-suikervrije-koekjes-met-kokos/p/2792896",
+  "listName": "Lister",
+  "brand": "Cereal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30267303,
+      "name": "Verantwoorde tussendoortjes"
+    }
+  ],
+  "description": "132g",
+  "image": "/medias/prd-front-2792896-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTIwNTgzfGltYWdlL2pwZWd8YURreUwyZzJNQzh4TnpNM01EUTRPVGszT0RreE1DOXdjbVF0Wm5KdmJuUXRNamM1TWpnNU5pMHhYell3TUhnMk1EQXwyNjE4ZDYzNTJiMzg3NGFhODhhYWIxM2ZlYWJhNzdhMTcyYjVkY2I0NTNkNzlhNTFkMjUwYmZiNTg4ODkzZDFm"
+}

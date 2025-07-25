@@ -25,13 +25,18 @@
       "name": "Beauty"
     },
     {
-      "id": 30267043,
-      "name": "Make-up accessoires"
+      "id": 30267038,
+      "name": "Make-up"
     },
     {
-      "id": 30267174,
-      "name": "Make-up kwasten"
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30267467,
+      "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb3/hf4/34022035324958/prd-front-6274357-1_600x600/prd-front-6274357-1-600x600.jpg"
 }

@@ -21,21 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536625,
-      "name": "Baby"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267067,
-      "name": "Babyverzorging"
-    },
-    {
-      "id": 30267334,
-      "name": "Baby bad- en doucheverzorging"
-    },
-    {
-      "id": 30267582,
-      "name": "Babywasgel"
+      "id": 91613031,
+      "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hc1/hbd/34861318209566/prd-front-34962-1_600x600/prd-front-34962-1-600x600.jpg"
 }

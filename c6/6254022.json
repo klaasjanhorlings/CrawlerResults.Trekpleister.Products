@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 6463 > 6464 > 6401",
   "supplier": "TRIPLE A MARKETING GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h0e/h48/34898937315358/prd-front-6254022-1_600x600/prd-front-6254022-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h03/h6d/34957373374494/prd-front-6254022-1_600x600/prd-front-6254022-1-600x600.jpg"
 }

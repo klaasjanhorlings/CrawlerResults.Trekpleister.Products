@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WeCare Silky Mokka Meal Replacement Drink",
+  "code": "4129399",
+  "price": "2.75",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3600",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wecare-silky-mokka-meal-replacement-drink/p/4129399",
+  "listName": "Lister",
+  "brand": "WeCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30267299,
+      "name": "Maaltijdrepen, drinkmaaltijden"
+    }
+  ],
+  "description": "236ml",
+  "image": "/medias/prd-front-4129399-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjYyNzR8aW1hZ2UvanBlZ3xhRFV3TDJoa09TOHhOak0xTWpBd01qTTNOVGN4TUM5d2NtUXRabkp2Ym5RdE5ERXlPVE01T1MweFh6WXdNSGcyTURBfGVmNDhmZDM0NDk2YmNiNGFmNDM5NjJhZmJkN2I1OWYxYjUyY2JiZGY5NDUyY2QzOTAzNDRhMGE1NDU5ZThiYjA"
+}

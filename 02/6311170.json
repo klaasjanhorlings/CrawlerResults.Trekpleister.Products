@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Wasschuim",
+  "code": "6311170",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-wasschuim/p/6311170",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267334,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267581,
+      "name": "Babybadschuim"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/he4/h43/34737523589150/prd-front-6311170-1_600x600/prd-front-6311170-1-600x600.jpg"
+}

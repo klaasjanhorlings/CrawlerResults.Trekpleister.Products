@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267051,
+      "name": "Intieme verzorging"
     },
     {
-      "id": 30267259,
-      "name": "Intieme ongemakken"
-    },
-    {
-      "id": 30267515,
-      "name": "Vaginale droogheid"
+      "id": 30267222,
+      "name": "Intieme hygiëne"
     }
   ],
   "description": "50g",
