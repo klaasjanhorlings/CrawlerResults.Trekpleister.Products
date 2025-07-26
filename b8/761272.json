@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Allround Concealer",
+  "code": "761272",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-allround-concealer/p/761272",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267135,
+      "name": "Concealer"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2f/hfd/29850117242910/prd-front-761272-1_600x600/prd-front-761272-1-600x600.jpg"
+}

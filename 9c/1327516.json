@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "OMNIMEDICAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h5e/h23/30721433632798/prd-front-1327516-1_600x600/prd-front-1327516-1-600x600.jpg"
+  "description": "40ml"
 }

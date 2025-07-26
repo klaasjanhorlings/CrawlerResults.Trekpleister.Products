@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nip + Fab Renew Retinol Fix Nachtcrème",
+  "code": "6043581",
+  "price": "34.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "NIP + FAB",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nip-fab-renew-retinol-fix-nachtcreme/p/6043581",
+  "listName": "Lister",
+  "brand": "NIP+FAB",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml, rijpe huid"
+}
