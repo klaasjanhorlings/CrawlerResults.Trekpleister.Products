@@ -7,10 +7,10 @@
   "priceOriginal": "61.47",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "3030313",
-  "mmkId": "3030313",
-  "productGroupId": "482344",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 31,48",
   "url": "/gillette-venus-comfortglide-breeze-scheermesjes/p/5863240",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "3 x 4 stuks"
+  "description": "3 x 4 stuks",
+  "image": "/medias/sys_master/prd-images/ha1/h63/33068285624350/prd-front-5863240-1_600x600/prd-front-5863240-1-600x600.jpg"
 }
