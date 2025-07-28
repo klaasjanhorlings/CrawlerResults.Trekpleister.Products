@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3030377",
-  "mmkId": "3030377",
-  "productGroupId": "487109",
+  "onPromo": "3030604",
+  "mmkId": "3030604",
+  "productGroupId": "493811",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-io-ultimate-clean-opzetborstels/p/6279915",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "zwart, 4 stuks"
+  "description": "zwart, 4 stuks",
+  "image": "/medias/sys_master/prd-images/h32/h3b/33681801805854/prd-front-6279915-1_600x600/prd-front-6279915-1-600x600.jpg"
 }

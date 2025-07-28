@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
-  "onPromo": "3030348",
-  "mmkId": "3030348",
-  "productGroupId": "483950",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/hawaiian-tropic-glowing-protection-spf30-dry-oil-continuous-spray/p/5083681",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "180ml",
-  "image": "/medias/sys_master/prd-images/h64/h7a/33164388991006/prd-front-5083681-1_600x600/prd-front-5083681-1-600x600.jpg"
+  "description": "180ml"
 }

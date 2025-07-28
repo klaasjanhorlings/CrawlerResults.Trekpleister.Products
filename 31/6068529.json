@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3868",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3030291",
-  "mmkId": "3030291",
-  "productGroupId": "479778",
+  "onPromo": "3030509",
+  "mmkId": "3030509",
+  "productGroupId": "479777",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-men-skin-health-6-in-1-active-fresh-douchegel/p/6068529",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml - Alle huidtypen"
+  "description": "400ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h35/h0b/31651524968478/prd-front-6068529-1_600x600/prd-front-6068529-1-600x600.jpg"
 }

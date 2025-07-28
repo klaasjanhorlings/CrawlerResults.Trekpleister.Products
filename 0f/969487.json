@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 4129",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3030376",
-  "mmkId": "3030376",
-  "productGroupId": "487102",
+  "onPromo": "3030579",
+  "mmkId": "3030579",
+  "productGroupId": "490928",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/meridol-zacht-tandenborstel/p/969487",
@@ -33,5 +33,6 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "Tandvleesbescherming"
+  "description": "Tandvleesbescherming",
+  "image": "/medias/sys_master/prd-images/h2e/h17/33904541499422/prd-front-969487-1_600x600/prd-front-969487-1-600x600.jpg"
 }

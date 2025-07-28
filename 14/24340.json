@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 2690 > 3390",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3030454",
-  "mmkId": "3030454",
-  "productGroupId": "488542",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/leukopor-hechtpleister/p/24340",
@@ -33,5 +33,6 @@
       "name": "Hechtpleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 500cm x 2,5cm"
+  "description": "Medisch hulpmiddel - 500cm x 2,5cm",
+  "image": "/medias/sys_master/prd-images/hca/h8c/28549184487454/prd-front-24340-1_600x600/prd-front-24340-1-600x600.jpg"
 }

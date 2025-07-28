@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6295",
   "supplier": "NUTRILO GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3030613",
+  "mmkId": "3030613",
+  "productGroupId": "494662",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamine-c-1000-bruistabletten/p/40277",
@@ -37,5 +37,6 @@
       "name": "Vitamine C"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/h79/h3f/28549991170078/prd-front-40277-1_600x600/prd-front-40277-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030275",
-  "mmkId": "3030275",
-  "productGroupId": "473476",
+  "onPromo": "3030495",
+  "mmkId": "3030495",
+  "productGroupId": "473475",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-cocomilk-douchecreme/p/5908229",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h28/h84/31037188276254/prd-front-5908229-1_600x600/prd-front-5908229-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030554",
+  "mmkId": "3030554",
+  "productGroupId": "484233",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/cg-curl-curl-love-leave-in-conditioner/p/6035986",
@@ -33,6 +33,5 @@
       "name": "Leave-in conditioner"
     }
   ],
-  "description": "355ml",
-  "image": "/medias/sys_master/prd-images/ha6/ha9/30294967877662/prd-front-6035986-1_600x600/prd-front-6035986-1-600x600.jpg"
+  "description": "355ml"
 }

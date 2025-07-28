@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030293",
-  "mmkId": "3030293",
-  "productGroupId": "480120",
+  "onPromo": "3030511",
+  "mmkId": "3030511",
+  "productGroupId": "480135",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-blonde-silver-purple-shampoo/p/5244723",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "440ml"
+  "description": "440ml",
+  "image": "/medias/sys_master/prd-images/hc7/h8d/33962216718366/prd-front-5244723-1_600x600/prd-front-5244723-1-600x600.jpg"
 }

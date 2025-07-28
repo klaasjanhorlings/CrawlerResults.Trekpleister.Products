@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030529",
+  "mmkId": "3030529",
+  "productGroupId": "482876",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/libresse-ultra-normal-maandverband/p/5837697",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hcc/h7d/28736259719198/prd-front-5837697-1_600x600/prd-front-5837697-1-600x600.jpg"
 }

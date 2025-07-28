@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3030284",
-  "mmkId": "3030284",
-  "productGroupId": "476549",
+  "onPromo": "3030503",
+  "mmkId": "3030503",
+  "productGroupId": "476552",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-men-advanced-protection-cobalt-dry-antitranspirant-spray/p/1307391",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h86/h66/33764920885278/prd-front-1307391-1_600x600/prd-front-1307391-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dettol Power & Fresh Citrus Allesreiniger Spray",
+  "code": "3034417",
+  "price": "2.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3030533",
+  "mmkId": "3030533",
+  "productGroupId": "483347",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dettol-power-fresh-citrus-allesreiniger-spray/p/3034417",
+  "listName": "Lister",
+  "brand": "Dettol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430563,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h50/h8e/34863788621854/prd-front-3034417-1_600x600/prd-front-3034417-1-600x600.jpg"
+}

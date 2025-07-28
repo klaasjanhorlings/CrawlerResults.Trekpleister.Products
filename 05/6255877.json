@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6449 > 3567",
   "supplier": "PIETERCIL BARENDS BV",
   "inStock": "inStock",
-  "onPromo": "3030263",
-  "mmkId": "3030263",
-  "productGroupId": "450531",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-scholls-ademend-comfort-inlegzolen/p/6255877",
@@ -33,5 +33,6 @@
       "name": "Inlegzolen"
     }
   ],
-  "description": "one size, 2 stuks"
+  "description": "one size, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h74/h60/34312183447582/prd-front-6255877-1_600x600/prd-front-6255877-1-600x600.jpg"
 }

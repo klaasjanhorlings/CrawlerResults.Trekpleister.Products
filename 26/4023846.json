@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030500",
+  "mmkId": "3030500",
+  "productGroupId": "475472",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-saigon-pink-lotus-deodorant-spray/p/4023846",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h39/h47/34720223625246/prd-front-4023846-1_600x600/prd-front-4023846-1-600x600.jpg"
 }

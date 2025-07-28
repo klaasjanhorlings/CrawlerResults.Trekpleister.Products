@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030631",
+  "mmkId": "3030631",
+  "productGroupId": "483855",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-night-pants-maat-4-luierbroekjes/p/6291955",
@@ -29,5 +29,6 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "mt 4 (9-15kg), 24 stuks"
+  "description": "mt 4 (9-15kg), 24 stuks",
+  "image": "/medias/sys_master/prd-images/h86/hb3/33952026198046/prd-front-6291955-1_600x600/prd-front-6291955-1-600x600.jpg"
 }

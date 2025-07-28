@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030449",
-  "mmkId": "3030449",
-  "productGroupId": "485564",
+  "onPromo": "3030560",
+  "mmkId": "3030560",
+  "productGroupId": "485572",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-blonde-l101-platinablond-haarverf/p/2768095",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb6/h73/33075708330014/prd-front-2768095-1_600x600/prd-front-2768095-1-600x600.jpg"
 }

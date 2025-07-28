@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "3030341",
-  "mmkId": "3030341",
-  "productGroupId": "483885",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bondi-sands-self-tanning-light/medium-foam/p/6022539",
@@ -33,5 +33,6 @@
       "name": "Zelfbruiners"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h67/h00/30598655574046/prd-front-6022539-1_600x600/prd-front-6022539-1-600x600.jpg"
 }

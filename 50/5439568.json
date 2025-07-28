@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 6355",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "3030386",
-  "mmkId": "3030386",
-  "productGroupId": "487898",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-natural-12m-fopspeen/p/5439568",
@@ -33,5 +33,6 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "roze"
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/hf3/h92/31442291032094/prd-front-5439568-1_600x600/prd-front-5439568-1-600x600.jpg"
 }

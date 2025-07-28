@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6765 > 6764",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3030361",
-  "mmkId": "3030361",
-  "productGroupId": "485434",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-milde-huidreiniger/p/6045093",
@@ -37,5 +37,6 @@
       "name": "Reinigingslotion"
     }
   ],
-  "description": "237ml, droge en gevoelige huid"
+  "description": "237ml, droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h32/h12/30643797524510/prd-front-6045093-1_600x600/prd-front-6045093-1-600x600.jpg"
 }

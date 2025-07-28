@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6697",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3030358",
-  "mmkId": "3030358",
-  "productGroupId": "484840",
+  "onPromo": "3030534",
+  "mmkId": "3030534",
+  "productGroupId": "483520",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-kracht-volume-spray-treatment/p/6243599",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h5e/h53/33147485061150/prd-front-6243599-1_600x600/prd-front-6243599-1-600x600.jpg"
 }

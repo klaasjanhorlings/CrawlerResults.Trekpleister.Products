@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Libresse Dailies V-Protection & Freshness Extra Long Inlegkruisjes",
+  "code": "5864976",
+  "price": "7.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "3030531",
+  "mmkId": "3030531",
+  "productGroupId": "482879",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/libresse-dailies-v-protection-freshness-extra-long-inlegkruisjes/p/5864976",
+  "listName": "Lister",
+  "brand": "Libresse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267220,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "54 stuks"
+}

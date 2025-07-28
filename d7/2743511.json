@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3030323",
-  "mmkId": "3030323",
-  "productGroupId": "482951",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davitamon-calcium-met-vitamine-d3-pepermunt-kauwtabletten/p/2743511",
@@ -33,5 +33,6 @@
       "name": "Botten en gewrichten"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/haa/h30/29539805528094/prd-front-2743511-1_600x600/prd-front-2743511-1-600x600.jpg"
 }

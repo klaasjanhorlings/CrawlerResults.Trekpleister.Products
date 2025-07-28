@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030508",
+  "mmkId": "3030508",
+  "productGroupId": "479329",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/deoleen-0-sensitive-deodorant-spray/p/5232998",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml - Deodorant"
+  "description": "150ml - Deodorant",
+  "image": "/medias/sys_master/prd-images/hd8/h9b/33135692251166/prd-front-5232998-1_600x600/prd-front-5232998-1-600x600.jpg"
 }

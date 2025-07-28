@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3030613",
+  "mmkId": "3030613",
+  "productGroupId": "494662",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-lactolerantie-4500-fcc-capsules/p/3963198",
@@ -33,5 +33,6 @@
       "name": "Spijsvertering"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h91/hcc/28549867667486/prd-front-3963198-1_600x600/prd-front-3963198-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030582",
+  "mmkId": "3030582",
+  "productGroupId": "491060",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-volume-million-lashes-balm-noir-01-black-mascara/p/5798329",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "8,9ml",
-  "image": "/medias/sys_master/prd-images/h49/h6e/28562488623134/prd-front-5798329-1_600x600/prd-front-5798329-1-600x600.jpg"
+  "description": "8,9ml"
 }

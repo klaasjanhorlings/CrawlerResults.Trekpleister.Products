@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "ORIGINAL ADDITIONS (BP)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030554",
+  "mmkId": "3030554",
+  "productGroupId": "484233",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/cantu-weightless-smoothing-shampoo/p/6244215",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h7e/hc6/33331421904926/prd-front-6244215-1_600x600/prd-front-6244215-1-600x600.jpg"
 }

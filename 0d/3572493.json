@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3030272",
-  "mmkId": "3030272",
-  "productGroupId": "471222",
+  "onPromo": "3030491",
+  "mmkId": "3030491",
+  "productGroupId": "471221",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-classic-care-milde-shampoo/p/3572493",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hb0/h1f/34979193389086/prd-front-3572493-1_600x600/prd-front-3572493-1-600x600.jpg"
 }

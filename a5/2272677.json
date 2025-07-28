@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3030335",
-  "mmkId": "3030335",
-  "productGroupId": "483594",
+  "onPromo": "3030538",
+  "mmkId": "3030538",
+  "productGroupId": "483593",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-total-repair-5-herstellende-shampoo/p/2272677",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/heb/hc1/33045039022110/prd-front-2272677-1_600x600/prd-front-2272677-1-600x600.jpg"
 }

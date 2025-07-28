@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "CRX NORDIC AG",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030498",
+  "mmkId": "3030498",
+  "productGroupId": "474649",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/celenes-by-sweden-by-sweden-aha-8-bha-2-gezichtspeeling/p/6062012",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h77/hfe/34531985326110/prd-front-6062012-1_600x600/prd-front-6062012-1-600x600.jpg"
+  "description": "30ml - Alle huidtypen"
 }

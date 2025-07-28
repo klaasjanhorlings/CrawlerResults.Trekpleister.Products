@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "BABY CASE BV",
   "inStock": "inStock",
-  "onPromo": "3030375",
-  "mmkId": "3030375",
-  "productGroupId": "487027",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-browns-options-antikoliekfles-met-smalle-hals/p/3918195",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "120ml"
+  "description": "120ml",
+  "image": "/medias/sys_master/prd-images/hf9/h28/28796660318238/prd-front-3918195-1_600x600/prd-front-3918195-1-600x600.jpg"
 }

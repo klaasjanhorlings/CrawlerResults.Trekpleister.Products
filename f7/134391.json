@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3790",
   "supplier": "WILKINSON SWORD GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "6 stuks",
-  "image": "/medias/sys_master/prd-images/h17/hea/30283980242974/prd-front-134391-1_600x600/prd-front-134391-1-600x600.jpg"
+  "description": "6 stuks"
 }

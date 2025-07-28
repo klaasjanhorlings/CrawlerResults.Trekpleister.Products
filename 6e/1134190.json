@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030293",
-  "mmkId": "3030293",
-  "productGroupId": "480120",
+  "onPromo": "3030511",
+  "mmkId": "3030511",
+  "productGroupId": "480135",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-oil-nutritive-conditioner/p/1134190",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h29/h05/33766617514014/prd-front-1134190-1_600x600/prd-front-1134190-1-600x600.jpg"
 }
