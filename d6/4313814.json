@@ -1,10 +1,10 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "LEGO Friends 42641 Surf- en Scooterplezier met de Honden",
-  "code": "6225441",
-  "price": "12.99",
-  "priceOriginal": "",
+  "itemName": "LEGO Classic 10713 Creatieve Koffer",
+  "code": "4313814",
+  "price": "17.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
@@ -12,10 +12,10 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
-  "url": "/lego-friends-42641-surf-en-scooterplezier-met-de-honden/p/6225441",
+  "discount": "€ 2,00",
+  "url": "/lego-classic-10713-creatieve-koffer/p/4313814",
   "listName": "Lister",
-  "brand": "LEGO Friends",
+  "brand": "LEGO Classic",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "LEGO"
     },
     {
-      "id": 30267371,
-      "name": "LEGO Friends"
+      "id": 30267368,
+      "name": "LEGO Classic"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h14/h6c/33139294142494/prd-front-6225441-1_600x600/prd-front-6225441-1-600x600.jpg"
+  "description": "26cm x 28cm x 6cm",
+  "image": "/medias/sys_master/prd-images/h8e/h17/34962506252318/prd-front-4313814-1_600x600/prd-front-4313814-1-600x600.jpg"
 }

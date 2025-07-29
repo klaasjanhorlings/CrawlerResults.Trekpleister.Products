@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030581",
+  "mmkId": "3030581",
+  "productGroupId": "491046",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-lash-sensational-sky-high-very-black-mascara/p/5455472",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "7,2ml",
-  "image": "/medias/sys_master/prd-images/h08/h20/33674278207518/prd-front-5455472-1_600x600/prd-front-5455472-1-600x600.jpg"
+  "description": "7,2ml"
 }

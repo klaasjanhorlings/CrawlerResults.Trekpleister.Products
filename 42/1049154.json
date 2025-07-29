@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6638 > 6639",
   "supplier": "HERKEL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/prd-front-1049154-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mjk1OTl8aW1hZ2UvanBlZ3xhR1k0TDJnNVpDOHhOakl6TXpVM05UTXhOelV6TkM5d2NtUXRabkp2Ym5RdE1UQTBPVEUxTkMweFh6WXdNSGcyTURBfGIxNjI5MTEwZjhhNGNlNWExMGJiMGNiYWYxOWI3ODQ5ODU2N2RjNjE1ZDAyYWQ2NzIwYjkxMTk4ZDA3MDhlMTU"
+  "image": "/medias/sys_master/prd-images/h09/hd2/34990505328670/prd-front-1049154-1_600x600/prd-front-1049154-1-600x600.jpg"
 }

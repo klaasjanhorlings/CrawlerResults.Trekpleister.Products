@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Black Wasmiddeldoekjes",
+  "code": "5809011",
+  "price": "4.99",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 6078",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/robijn-black-wasmiddeldoekjes/p/5809011",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h55/hb0/34900644233246/prd-front-5809011-1_600x600/prd-front-5809011-1-600x600.jpg"
+}

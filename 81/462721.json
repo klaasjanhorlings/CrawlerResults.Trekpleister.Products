@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 3241 > 4132",
   "supplier": "NUTRITION&SANTE BENELX",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "120g",
-  "image": "/medias/prd-front-462721-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mjc5NzJ8aW1hZ2UvanBlZ3xhREkzTDJneU1pOHhOakl6TnpBM056azFORFU1TUM5d2NtUXRabkp2Ym5RdE5EWXlOekl4TFRGZk5qQXdlRFl3TUF8NWNlNTU5NzAwMWM4NmU0MjUwMzRiNDIyMzFkNDYwNzE1ZWQ5NGFhNDAyNjQwZWVmMGRhMTRhNDBjMzNjMjI0Ng"
+  "image": "/medias/sys_master/prd-images/hbe/hfd/34990151630878/prd-front-462721-1_600x600/prd-front-462721-1-600x600.jpg"
 }
