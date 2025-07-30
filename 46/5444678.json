@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Meta Glow 4 Duo-Chrome Eye Pencil",
-  "code": "6245692",
-  "price": "2.69",
+  "itemName": "Essence Extreme Shine 08 Gold Dust Volume Lipgloss",
+  "code": "5444678",
+  "price": "2.29",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-meta-glow-4-duo-chrome-eye-pencil/p/6245692",
+  "url": "/essence-extreme-shine-08-gold-dust-volume-lipgloss/p/5444678",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267142,
-      "name": "Oogpotlood"
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267140,
+      "name": "Lipgloss"
     }
   ],
-  "description": "2g",
-  "image": "/medias/sys_master/prd-images/h9a/h2a/33489935892510/prd-front-6245692-1_600x600/prd-front-6245692-1-600x600.jpg"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/hd2/hf5/34611427835934/prd-front-5444678-1_600x600/prd-front-5444678-1-600x600.jpg"
 }

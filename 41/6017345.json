@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Heart Core 02 Sweet Strawberry Fruity Lip Balm",
-  "code": "5608359",
-  "price": "1.79",
+  "itemName": "Essence 8H Matte Comfort 09 Fiery Red Lipliner",
+  "code": "6017345",
+  "price": "1.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-heart-core-02-sweet-strawberry-fruity-lip-balm/p/5608359",
+  "url": "/essence-8h-matte-comfort-09-fiery-red-lipliner/p/6017345",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -33,10 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267152,
+      "name": "Lipliner"
     }
   ],
   "description": "3g",
-  "image": "/medias/sys_master/prd-images/hd5/hd5/34613388345374/prd-front-5608359-1_600x600/prd-front-5608359-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hbb/hed/34684923576350/prd-front-6017345-1_600x600/prd-front-6017345-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Grenade Salted Peanut Proteïnereep",
+  "code": "5946806",
+  "price": "3.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/grenade-salted-peanut-proteinereep/p/5946806",
+  "listName": "Lister",
+  "brand": "Grenade",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267308,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/hfe/h95/35004224405534/prd-front-5946806-1_600x600/prd-front-5946806-1-600x600.jpg"
+}

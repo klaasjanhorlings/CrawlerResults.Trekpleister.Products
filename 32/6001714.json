@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Drunk'N Diamonds 40 Plumping Lip Balm",
-  "code": "5911778",
-  "price": "4.99",
+  "itemName": "Catrice Blooming Bliss Slim 020 Colors of Bloom Oogschaduwpalet",
+  "code": "6001714",
+  "price": "9.89",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-drunkn-diamonds-40-plumping-lip-balm/p/5911778",
+  "url": "/catrice-blooming-bliss-slim-020-colors-of-bloom-oogschaduwpalet/p/6001714",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
+      "id": 30267153,
+      "name": "Oogschaduw"
     },
     {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267470,
+      "name": "Palette oogschaduw"
     }
   ],
-  "description": "3,5g",
-  "image": "/medias/sys_master/prd-images/h91/h11/29948127871006/prd-front-5911778-1_600x600/prd-front-5911778-1-600x600.jpg"
+  "description": "10,6g",
+  "image": "/medias/sys_master/prd-images/h50/h34/29945677938718/prd-front-6001714-1_600x600/prd-front-6001714-1-600x600.jpg"
 }

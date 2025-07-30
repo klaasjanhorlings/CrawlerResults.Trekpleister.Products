@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 3259 > 4150",
   "supplier": "VIOKOX SA",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030608",
+  "mmkId": "3030608",
+  "productGroupId": "494188",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-ontharingsmousse/p/4100650",
@@ -33,5 +33,6 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h8e/hd1/31066152239134/prd-front-4100650-1_600x600/prd-front-4100650-1-600x600.jpg"
 }
