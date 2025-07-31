@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3030640",
+  "mmkId": "3030640",
+  "productGroupId": "473700",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/durex-intensity-condooms/p/6253182",
@@ -33,6 +33,5 @@
       "name": "Condooms"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/hed/he8/34681231605790/prd-front-6253182-1_600x600/prd-front-6253182-1-600x600.jpg"
+  "description": "20 stuks"
 }

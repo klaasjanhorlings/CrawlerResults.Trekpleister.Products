@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Ultimate Camouflage 010 N Ivory Cream",
-  "code": "5493664",
-  "price": "3.49",
+  "itemName": "Catrice Drunk'N Diamonds 40 Plumping Lip Balm",
+  "code": "5911778",
+  "price": "4.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-ultimate-camouflage-010-n-ivory-cream/p/5493664",
+  "url": "/catrice-drunkn-diamonds-40-plumping-lip-balm/p/5911778",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267135,
-      "name": "Concealer"
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
-  "description": "3g",
-  "image": "/medias/sys_master/prd-images/hd5/hc8/29942526476318/prd-front-5493664-1_600x600/prd-front-5493664-1-600x600.jpg"
+  "description": "3,5g",
+  "image": "/medias/sys_master/prd-images/h91/h11/29948127871006/prd-front-5911778-1_600x600/prd-front-5911778-1-600x600.jpg"
 }

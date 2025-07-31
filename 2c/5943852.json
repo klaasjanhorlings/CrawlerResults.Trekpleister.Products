@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Philips OneBlade Face 360 QP2734/20 Scheerapparaat",
+  "itemName": "Philips OneBlade Face 360 QP2734/23 Scheerapparaat",
   "code": "5943852",
   "price": "49.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "493436",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/philips-oneblade-face-360-qp2734/20-scheerapparaat/p/5943852",
+  "url": "/philips-oneblade-face-360-qp2734/23-scheerapparaat/p/5943852",
   "listName": "Lister",
   "brand": "Philips",
   "mpOrigin": "Kruidvat",
@@ -29,8 +29,8 @@
       "name": "Scheren en ontharen"
     },
     {
-      "id": 30267243,
-      "name": "Baardtrimmers"
+      "id": 30267236,
+      "name": "Scheerapparaten"
     }
   ],
   "description": "",

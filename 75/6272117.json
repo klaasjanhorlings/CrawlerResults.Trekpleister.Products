@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5928 > 6716 > 5795 > 2495 > 3061 > 3520",
   "supplier": "SABORN TRADING BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Kinderpyjama's"
     }
   ],
-  "description": "turquoise, paars, mt 104-110"
+  "description": "turquoise, paars, mt 104-110",
+  "image": "/medias/sys_master/prd-images/hb4/h70/34111920865310/prd-front-6272117-1_600x600/prd-front-6272117-1-600x600.jpg"
 }
