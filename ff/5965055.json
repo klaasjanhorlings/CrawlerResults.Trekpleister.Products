@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6323",
   "supplier": "ZENNER NIEUW VENNEP BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6a/h14/29310141759518/prd-front-5965055-1_600x600/prd-front-5965055-1-600x600.jpg"
 }

@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice All Matt & Shine Control Powder 002 Banana Bright",
-  "code": "5591755",
-  "price": "3.99",
+  "itemName": "Catrice Ultimate Camouflage 010 N Ivory Cream",
+  "code": "5493664",
+  "price": "3.49",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-all-matt-shine-control-powder-002-banana-bright/p/5591755",
+  "url": "/catrice-ultimate-camouflage-010-n-ivory-cream/p/5493664",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,9 @@
       "name": "Make-up"
     },
     {
-      "id": 30267144,
-      "name": "Gezichtspoeder"
+      "id": 30267135,
+      "name": "Concealer"
     }
   ],
-  "description": "10g",
-  "image": "/medias/sys_master/prd-images/hc4/hea/29949922148382/prd-front-5591755-1_600x600/prd-front-5591755-1-600x600.jpg"
+  "description": "3g"
 }

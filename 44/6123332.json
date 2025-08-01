@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Blend & Line 06 Highlight Your Life Eyeshadow Stick",
-  "code": "6245888",
+  "itemName": "Essence Sugar Scrub 02 Matcha Latte Lip Care",
+  "code": "6123332",
   "price": "2.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "outOfStock",
   "onPromo": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-blend-line-06-highlight-your-life-eyeshadow-stick/p/6245888",
+  "url": "/essence-sugar-scrub-02-matcha-latte-lip-care/p/6123332",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267153,
-      "name": "Oogschaduw"
+      "id": 88118383,
+      "name": "Lipmake-up"
     },
     {
-      "id": 30267469,
-      "name": "Mono oogschaduw"
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
-  "description": "1,8g",
-  "image": "/medias/sys_master/prd-images/h0d/h56/33480475050014/prd-front-6245888-1_600x600/prd-front-6245888-1-600x600.jpg"
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/h10/hf0/34677191409694/prd-front-6123332-1_600x600/prd-front-6123332-1-600x600.jpg"
 }
