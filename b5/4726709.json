@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "KENVUE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h17/h50/29144643633182/prd-front-4726709-1_600x600/prd-front-4726709-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6f/hd5/35043784523806/prd-front-4726709-1_600x600/prd-front-4726709-1-600x600.jpg"
 }

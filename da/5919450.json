@@ -8,8 +8,8 @@
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
   "supplier": "XXL INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Sportrepen"
     }
   ],
-  "description": "55g",
-  "image": "/medias/sys_master/prd-images/had/hda/35032376573982/prd-front-5919450-1_600x600/prd-front-5919450-1-600x600.jpg"
+  "description": "55g"
 }
