@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3030594",
-  "mmkId": "3030594",
-  "productGroupId": "493093",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-nutrisseultra-creme-1-zwart-permanente-haarkleuring/p/23718",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7d/h44/31776350306334/prd-front-23718-1_600x600/prd-front-23718-1-600x600.jpg"
+  "description": ""
 }

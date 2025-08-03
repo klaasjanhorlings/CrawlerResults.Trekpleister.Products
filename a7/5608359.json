@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Matte 05 Liquid Lipstick",
-  "code": "5804657",
-  "price": "2.99",
+  "itemName": "Essence Heart Core 02 Sweet Strawberry Fruity Lip Balm",
+  "code": "5608359",
+  "price": "1.79",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-matte-05-liquid-lipstick/p/5804657",
+  "url": "/essence-heart-core-02-sweet-strawberry-fruity-lip-balm/p/5608359",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -37,6 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "2,5ml, 05",
-  "image": "/medias/sys_master/prd-images/h7e/h3f/34686332993566/prd-front-5804657-1_600x600/prd-front-5804657-1-600x600.jpg"
+  "description": "3g",
+  "image": "/medias/sys_master/prd-images/hd5/hd5/34613388345374/prd-front-5608359-1_600x600/prd-front-5608359-1-600x600.jpg"
 }
