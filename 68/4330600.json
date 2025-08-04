@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Cleopatra's Secrets Shower Satin",
+  "code": "4330600",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3030499",
+  "mmkId": "3030499",
+  "productGroupId": "475445",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-cleopatras-secrets-shower-satin/p/4330600",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hbb/hea/30159100444702/prd-front-4330600-1_600x600/prd-front-4330600-1-600x600.jpg"
+}

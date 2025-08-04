@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Palmolive Sensorial Escape Lavendel & Bergamot Hand Wash Refill",
+  "code": "6324288",
+  "price": "2.49",
+  "priceOriginal": "3.99",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3482",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,50",
+  "url": "/palmolive-sensorial-escape-lavendel-bergamot-hand-wash-refill/p/6324288",
+  "listName": "Lister",
+  "brand": "Palmolive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 68231144,
+      "name": "Handzeep navulling"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0c/h2f/34305802797086/prd-front-6324288-1_600x600/prd-front-6324288-1-600x600.jpg"
+}

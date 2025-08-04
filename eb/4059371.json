@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3030550",
-  "mmkId": "3030550",
-  "productGroupId": "483890",
+  "onPromo": "3030653",
+  "mmkId": "3030653",
+  "productGroupId": "483981",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-gevoelige-huid-spf50-zonnemelk/p/4059371",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h90/h14/33165031669790/prd-front-4059371-1_600x600/prd-front-4059371-1-600x600.jpg"
 }
