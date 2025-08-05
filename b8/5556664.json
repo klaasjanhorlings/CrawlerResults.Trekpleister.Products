@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Sonicare 2100 HX3651/13 Elektrische Tandenborstel",
+  "code": "5556664",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-sonicare-2100-hx3651/13-elektrische-tandenborstel/p/5556664",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267234,
+      "name": "Elektrische tandenborstels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5556664-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjkxMzh8aW1hZ2UvanBlZ3xhR0ZtTDJneVlpOHhOekExTnprMU9Ua3dNekkyTWk5d2NtUXRabkp2Ym5RdE5UVTFOalkyTkMweFh6WXdNSGcyTURBfDA5MDJmMmIzNTZkZjc5NDU4OTljMTUwNjgwNmU3YjBhZWI0MjQxZjZlYjJmMTI4NzYyMzc0ZTM5MDVhY2I1ZjU"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lamaze Freddie de Vuurvlieg Knuffel",
+  "code": "4919153",
+  "price": "11.99",
+  "priceOriginal": "16.99",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "SPECTRON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/lamaze-freddie-de-vuurvlieg-knuffel/p/4919153",
+  "listName": "Lister",
+  "brand": "Lamaze",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267077,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30267391,
+      "name": "Grijp- en bijtspeelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4919153-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQwMjd8aW1hZ2UvanBlZ3xhRGhqTDJnMk1DOHhOall5TVRBME5UQXlNamMxTUM5d2NtUXRabkp2Ym5RdE5Ea3hPVEUxTXkweFh6WXdNSGcyTURBfDQxYzNiNjBlNDBmMDg3ZmI1YTBkMjgzN2RkYjJmM2RlMjQ0MzJkMjZiMzdhNWRmNzQ2MDU4OGRkOTBkNzBiMzQ"
+}

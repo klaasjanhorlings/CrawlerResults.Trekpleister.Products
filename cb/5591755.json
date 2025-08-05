@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Matt Pro Ink 60 I Choose Passion Liquid Lipstick",
-  "code": "5094097",
-  "price": "4.99",
+  "itemName": "Catrice All Matt & Shine Control Powder 002 Banana Bright",
+  "code": "5591755",
+  "price": "3.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-matt-pro-ink-60-i-choose-passion-liquid-lipstick/p/5094097",
+  "url": "/catrice-all-matt-shine-control-powder-002-banana-bright/p/5591755",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267144,
+      "name": "Gezichtspoeder"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h9a/h21/29935051046942/prd-front-5094097-1_600x600/prd-front-5094097-1-600x600.jpg"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/hc4/hea/29949922148382/prd-front-5591755-1_600x600/prd-front-5591755-1-600x600.jpg"
 }

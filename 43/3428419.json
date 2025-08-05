@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dove Deeply Nourishing Douchecrème",
+  "itemName": "Dove Deeply Nourishing Mini Douchecrème",
   "code": "3428419",
   "price": "1.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dove-deeply-nourishing-douchecreme/p/3428419",
+  "url": "/dove-deeply-nourishing-mini-douchecreme/p/3428419",
   "listName": "Lister",
   "brand": "Dove",
   "mpOrigin": "Kruidvat",
@@ -25,8 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 91613031,
-      "name": "Mini reisverpakkingen"
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
     }
   ],
   "description": "55ml",

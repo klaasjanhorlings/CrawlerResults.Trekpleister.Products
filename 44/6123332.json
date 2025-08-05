@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Drunk'n Diamonds 050 Bury Me In Rubies Plumping Lip Balm",
-  "code": "6011486",
-  "price": "4.99",
+  "itemName": "Essence Sugar Scrub 02 Matcha Latte Lip Care",
+  "code": "6123332",
+  "price": "2.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-drunkn-diamonds-050-bury-me-in-rubies-plumping-lip-balm/p/6011486",
+  "url": "/essence-sugar-scrub-02-matcha-latte-lip-care/p/6123332",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "Essence",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,6 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3,5g",
-  "image": "/medias/sys_master/prd-images/h19/h46/29944020008990/prd-front-6011486-1_600x600/prd-front-6011486-1-600x600.jpg"
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/h10/hf0/34677191409694/prd-front-6123332-1_600x600/prd-front-6123332-1-600x600.jpg"
 }

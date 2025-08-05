@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3027 > 3565",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
-  "onPromo": "3030484",
-  "mmkId": "3030484",
-  "productGroupId": "460456",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bausch-lomb-250-zachte-daglenzen/p/5252871",
@@ -37,5 +37,6 @@
       "name": "Daglenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 30 stuks"
+  "description": "Medisch hulpmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/h9f/h05/28553962455070/prd-front-5252871-1_600x600/prd-front-5252871-1-600x600.jpg"
 }

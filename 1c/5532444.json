@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Page Sensitive Vochtig Toiletpapier",
+  "itemName": "Page Fris en Zacht Vochtig Toiletpapier",
   "code": "5532444",
   "price": "2.09",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/page-sensitive-vochtig-toiletpapier/p/5532444",
+  "url": "/page-fris-en-zacht-vochtig-toiletpapier/p/5532444",
   "listName": "Lister",
   "brand": "Page",
   "mpOrigin": "Kruidvat",
@@ -25,10 +25,10 @@
       "name": "Huishouden"
     },
     {
-      "id": 30267123,
-      "name": "Toiletpapier"
+      "id": 30267124,
+      "name": "Vochtig toiletpapier"
     }
   ],
   "description": "38 stuks",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/hc7/h21/35070591664158/prd-front-5532444-1_600x600/prd-front-5532444-1-600x600.jpg"
 }

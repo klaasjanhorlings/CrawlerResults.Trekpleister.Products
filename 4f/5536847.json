@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Page Compleet Schoon Vochtig Toiletpapier",
+  "itemName": "Page Fris en Schoon Vochtig Toiletpapier",
   "code": "5536847",
   "price": "1.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/page-compleet-schoon-vochtig-toiletpapier/p/5536847",
+  "url": "/page-fris-en-schoon-vochtig-toiletpapier/p/5536847",
   "listName": "Lister",
   "brand": "Page",
   "mpOrigin": "Kruidvat",
@@ -25,10 +25,10 @@
       "name": "Huishouden"
     },
     {
-      "id": 30267123,
-      "name": "Toiletpapier"
+      "id": 30267124,
+      "name": "Vochtig toiletpapier"
     }
   ],
   "description": "38 stuks",
-  "image": "/medias/sys_master/prd-images/h14/hd2/35059457884190/prd-front-5536847-1_600x600/prd-front-5536847-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h52/h5d/35066618085406/prd-front-5536847-1_600x600/prd-front-5536847-1-600x600.jpg"
 }

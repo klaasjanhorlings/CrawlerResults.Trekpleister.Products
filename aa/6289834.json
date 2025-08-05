@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "HISMILE PTY LTD.",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030577",
+  "mmkId": "3030577",
+  "productGroupId": "490918",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hismileteeth-brightening-v34-colour-corrector-serum/p/6289834",
@@ -33,6 +33,5 @@
       "name": "Whitening producten"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h37/ha1/33967299067934/prd-front-6289834-1_600x600/prd-front-6289834-1-600x600.jpg"
+  "description": "30ml"
 }
