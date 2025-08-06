@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "ORANGE-SHEEP BV",
-  "inStock": "inStock",
-  "onPromo": "3030496",
-  "mmkId": "3030496",
-  "productGroupId": "473529",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-baby-kids-100-natural-nourishing-cream/p/5742486",
@@ -33,8 +33,8 @@
       "name": "Baby huidverzorging"
     },
     {
-      "id": 30267575,
-      "name": "Babycreme"
+      "id": 30267579,
+      "name": "Babylotion"
     }
   ],
   "description": "75ml",

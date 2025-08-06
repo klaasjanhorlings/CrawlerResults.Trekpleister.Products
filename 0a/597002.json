@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6695",
   "supplier": "GUHL IKEBANA COSMETICS",
-  "inStock": "inStock",
-  "onPromo": "3030558",
-  "mmkId": "3030558",
-  "productGroupId": "484803",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/john-frieda-frizz-ease-miraculous-recovery-deep-conditioner/p/597002",
@@ -29,8 +29,8 @@
       "name": "Haarverzorging"
     },
     {
-      "id": 30267254,
-      "name": "Haarmasker"
+      "id": 30267252,
+      "name": "Conditioner"
     }
   ],
   "description": "250ml",

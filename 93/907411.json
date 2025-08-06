@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Murray's Hair-Glo met Lanoline Gel",
+  "code": "907411",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3007 > 3832",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3030554",
+  "mmkId": "3030554",
+  "productGroupId": "484233",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/murrays-hair-glo-met-lanoline-gel/p/907411",
+  "listName": "Lister",
+  "brand": "Murrays",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "85g",
+  "image": "/medias/sys_master/prd-images/hf2/h89/34872594038814/prd-front-907411-1_600x600/prd-front-907411-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Retinol Boost Anti-Age Dagcrème",
+  "code": "5627350",
+  "price": "35.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-retinol-boost-anti-age-dagcreme/p/5627350",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267163,
+      "name": "Dermacare"
+    }
+  ],
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h61/h88/35071637585950/prd-front-5627350-1_600x600/prd-front-5627350-1-600x600.jpg"
+}

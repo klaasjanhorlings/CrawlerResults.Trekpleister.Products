@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4316",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,8 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 91613031,
-      "name": "Mini reisverpakkingen"
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
     }
   ],
   "description": "15ml",

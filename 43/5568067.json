@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Lolita Lempicka Eau de Parfum",
-  "code": "5985264",
-  "price": "42.99",
+  "itemName": "Hugo Boss Number One Eau de Toilette",
+  "code": "5568067",
+  "price": "29.49",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/lolita-lempicka-eau-de-parfum/p/5985264",
+  "url": "/hugo-boss-number-one-eau-de-toilette/p/5568067",
   "listName": "Lister",
-  "brand": "Lolita Lempicka",
+  "brand": "Hugo Boss",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "Parfum"
     },
     {
-      "id": 72654765,
-      "name": "Damesparfum"
+      "id": 72654889,
+      "name": "Herenparfum"
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hbf/h7c/29218422456350/prd-front-5985264-1_600x600/prd-front-5985264-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h20/h4d/34369998487582/prd-front-5568067-1_600x600/prd-front-5568067-1-600x600.jpg"
 }

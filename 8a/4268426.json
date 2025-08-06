@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Cateyes! 01 Catwalk False Lashes",
-  "code": "6123024",
-  "price": "2.99",
+  "itemName": "Ardell Glamour Demi Wispies Kunstwimpers",
+  "code": "4268426",
+  "price": "5.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6103 > 6104",
-  "supplier": "COSNOVA GMBH (BNL)",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6508 > 6512 > 6516",
+  "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-cateyes-01-catwalk-false-lashes/p/6123024",
+  "url": "/ardell-glamour-demi-wispies-kunstwimpers/p/4268426",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Ardell",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h80/he5/34677191737374/prd-front-6123024-1_600x600/prd-front-6123024-1-600x600.jpg"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h64/h9e/28919942381598/prd-front-4268426-1_600x600/prd-front-4268426-1-600x600.jpg"
 }
