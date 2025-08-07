@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/he1/h1c/34898384093214/prd-front-890268-1_600x600/prd-front-890268-1-600x600.jpg"
+  "description": "15ml"
 }
