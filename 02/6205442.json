@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "LEGO Technic 30710 Compactlader",
   "code": "6205442",
-  "price": "2.99",
+  "price": "3.49",
   "priceOriginal": "3.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,00",
+  "discount": "€ 0,50",
   "url": "/lego-technic-30710-compactlader/p/6205442",
   "listName": "Lister",
   "brand": "LEGO",
@@ -33,6 +33,5 @@
       "name": "LEGO Technic"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hea/hc7/34387122487326/prd-front-6205442-1_600x600/prd-front-6205442-1-600x600.jpg"
+  "description": ""
 }

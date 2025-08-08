@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nûby Triangle Bijtring",
+  "code": "3736776",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "NEW VALMAR BV",
+  "inStock": "inStock",
+  "onPromo": "3030486",
+  "mmkId": "3030486",
+  "productGroupId": "462052",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nuby-triangle-bijtring/p/3736776",
+  "listName": "Lister",
+  "brand": "Nuby",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267077,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30267391,
+      "name": "Grijp- en bijtspeelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb8/h9c/33703484456990/prd-front-3736776-1_600x600/prd-front-3736776-1-600x600.jpg"
+}

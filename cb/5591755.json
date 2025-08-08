@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Matte 05 Liquid Lipstick",
-  "code": "5804657",
-  "price": "2.99",
+  "itemName": "Catrice All Matt & Shine Control Powder 002 Banana Bright",
+  "code": "5591755",
+  "price": "3.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-matte-05-liquid-lipstick/p/5804657",
+  "url": "/catrice-all-matt-shine-control-powder-002-banana-bright/p/5591755",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,14 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267144,
+      "name": "Gezichtspoeder"
     }
   ],
-  "description": "2,5ml, 05",
-  "image": "/medias/sys_master/prd-images/h7e/h3f/34686332993566/prd-front-5804657-1_600x600/prd-front-5804657-1-600x600.jpg"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/hc4/hea/29949922148382/prd-front-5591755-1_600x600/prd-front-5591755-1-600x600.jpg"
 }

@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Zwitsal Wasschuim",
-  "code": "6311170",
-  "price": "4.99",
+  "itemName": "Zwitsal Baby Bodylotion",
+  "code": "6310708",
+  "price": "8.99",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/zwitsal-wasschuim/p/6311170",
+  "url": "/zwitsal-baby-bodylotion/p/6310708",
   "listName": "Lister",
   "brand": "Zwitsal",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,14 @@
       "name": "Babyverzorging"
     },
     {
-      "id": 30267334,
-      "name": "Baby bad- en doucheverzorging"
+      "id": 30267333,
+      "name": "Baby huidverzorging"
     },
     {
-      "id": 30267581,
-      "name": "Babybadschuim"
+      "id": 30267579,
+      "name": "Babylotion"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/he4/h43/34737523589150/prd-front-6311170-1_600x600/prd-front-6311170-1-600x600.jpg"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h7b/ha1/35071140331550/prd-front-6310708-1_600x600/prd-front-6310708-1-600x600.jpg"
 }

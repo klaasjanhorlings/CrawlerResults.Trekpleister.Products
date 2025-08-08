@@ -21,8 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30267155,
-      "name": "Eau de toilette"
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
     }
   ],
   "description": "30ml",
