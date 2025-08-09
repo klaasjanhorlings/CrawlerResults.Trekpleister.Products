@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 2942 > 3736",
   "supplier": "GREEN SOAP COMPANY BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3021955",
+  "mmkId": "3021955",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "6 x 500ml",
-  "image": "/medias/sys_master/prd-images/h1d/h41/35096363827230/prd-front-6225245-1_600x600/prd-front-6225245-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7c/h70/35104730546206/prd-front-6225245-1_600x600/prd-front-6225245-1-600x600.jpg"
 }

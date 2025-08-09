@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Liga 6 - 12 Maanden BabyBiscuits",
+  "itemName": "Liga 6-12 Maanden Babybiscuits",
   "code": "2895761",
   "price": "2.29",
   "priceOriginal": "",
@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536625,
-      "name": "Baby"
+      "id": 29536631,
+      "name": "Huishouden"
     },
     {
-      "id": 30267066,
-      "name": "Babyvoeding"
+      "id": 30267127,
+      "name": "Eten en drinken"
     },
     {
-      "id": 30267331,
-      "name": "Babytussendoortjes"
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267584,
+      "name": "Koek"
     }
   ],
   "description": "175g",

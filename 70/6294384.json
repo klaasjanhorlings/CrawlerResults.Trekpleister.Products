@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Oral-B Profesional Bescherming Tegen Gevoeligheid Tandpasta",
+  "itemName": "Oral-B Professional Bescherming Tegen Gevoeligheid Tandpasta",
   "code": "6294384",
   "price": "6.59",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "493805",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/oral-b-profesional-bescherming-tegen-gevoeligheid-tandpasta/p/6294384",
+  "url": "/oral-b-professional-bescherming-tegen-gevoeligheid-tandpasta/p/6294384",
   "listName": "Lister",
   "brand": "Oral B",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "medischhulpmiddel",
+  "description": "medisch hulpmiddel",
   "image": "/medias/sys_master/prd-images/he6/h9b/34283799445534/prd-front-6294384-1_600x600/prd-front-6294384-1-600x600.jpg"
 }
