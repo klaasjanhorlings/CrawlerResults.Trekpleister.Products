@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA Sun Babies & Kids Sensitive Protect SPF50+ Zonnebrand Roll-on",
-  "code": "4340358",
-  "price": "15.49",
+  "itemName": "NIVEA Sun Babies & Kids Sensitive Protect SPF50+ Zonnespray",
+  "code": "5604768",
+  "price": "32.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030491",
+  "mmkId": "3030491",
+  "productGroupId": "471221",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-sun-babies-kids-sensitive-protect-spf50-zonnebrand-roll-on/p/4340358",
+  "url": "/nivea-sun-babies-kids-sensitive-protect-spf50-zonnespray/p/5604768",
   "listName": "Lister",
   "brand": "Nivea Sun",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h06/h02/34395554218014/prd-front-4340358-1_600x600/prd-front-4340358-1-600x600.jpg"
+  "description": "270ml",
+  "image": "/medias/sys_master/prd-images/hbf/hf1/34392988745758/prd-front-5604768-1_600x600/prd-front-5604768-1-600x600.jpg"
 }
