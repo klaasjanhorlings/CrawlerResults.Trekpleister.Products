@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "3030525",
-  "mmkId": "3030525",
-  "productGroupId": "482782",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/a-vogel-oorpijn-oorspray/p/5930307",
@@ -37,5 +37,6 @@
       "name": "Oorspray"
     }
   ],
-  "description": "Medisch hulpmiddel - 7ml"
+  "description": "Medisch hulpmiddel - 7ml",
+  "image": "/medias/sys_master/prd-images/h29/h42/33280797900830/prd-front-5930307-1_600x600/prd-front-5930307-1-600x600.jpg"
 }

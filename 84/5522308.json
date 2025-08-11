@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3030755",
+  "mmkId": "3030755",
+  "productGroupId": "494717",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davitamon-magnesium-kauwtabletten/p/5522308",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h3d/hb8/31459053568030/prd-front-5522308-1_600x600/prd-front-5522308-1-600x600.jpg"
 }

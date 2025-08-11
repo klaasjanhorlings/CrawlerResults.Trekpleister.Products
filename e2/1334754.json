@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3030553",
-  "mmkId": "3030553",
-  "productGroupId": "484042",
+  "onPromo": "3030684",
+  "mmkId": "3030684",
+  "productGroupId": "462800",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-styling-fantastische-fixatie-mousse/p/1334754",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/prd-front-1334754-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTM4NzN8aW1hZ2UvanBlZ3xhREEwTDJnNU9TOHhOakkwT0RJd05qYzROalU1TUM5d2NtUXRabkp2Ym5RdE1UTXpORGMxTkMweFh6WXdNSGcyTURBfGQxYzJkNmZkYTk5NWE2OWQ1YzI3ODk5ZmQxZTJhYTcwNDYyZDkxZjYzZmM1N2YzNWJmYTI3ODU4YTY2ZGI0YTY"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6696",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030511",
-  "mmkId": "3030511",
-  "productGroupId": "480135",
+  "onPromo": "3030696",
+  "mmkId": "3030696",
+  "productGroupId": "480147",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-intense-plex-leave-in-serum/p/6022280",
@@ -33,5 +33,6 @@
       "name": "Haarserum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hf1/h24/33773647593502/prd-front-6022280-1_600x600/prd-front-6022280-1-600x600.jpg"
 }

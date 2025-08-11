@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3030541",
-  "mmkId": "3030541",
-  "productGroupId": "483681",
+  "onPromo": "3030703",
+  "mmkId": "3030703",
+  "productGroupId": "483581",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-fructis-nourishing-banana-hair-food-shampoo/p/5051138",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "350ml",
-  "image": "/medias/sys_master/prd-images/hfd/h09/30140598812702/prd-front-5051138-1_600x600/prd-front-5051138-1-600x600.jpg"
+  "description": "350ml"
 }

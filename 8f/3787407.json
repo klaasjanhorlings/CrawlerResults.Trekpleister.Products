@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030690",
+  "mmkId": "3030690",
+  "productGroupId": "474669",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-pureactive-3-in-1-anti-mee-eters-gezichtsreiniger-met-charcoal/p/3787407",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml - Vette en onzuivere huid",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/hb4/h77/35120812818462/prd-front-3787407-1_600x600/prd-front-3787407-1-600x600.jpg"
 }

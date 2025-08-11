@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3030522",
-  "mmkId": "3030522",
-  "productGroupId": "482550",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kneipp-balancing-patchouli-douchegel/p/2677249",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h68/h59/30080640286750/prd-front-2677249-1_600x600/prd-front-2677249-1-600x600.jpg"
 }

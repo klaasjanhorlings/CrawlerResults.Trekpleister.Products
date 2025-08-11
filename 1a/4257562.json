@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3030551",
-  "mmkId": "3030551",
-  "productGroupId": "483964",
+  "onPromo": "3030708",
+  "mmkId": "3030708",
+  "productGroupId": "483966",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-regenerist-spf30-dagcreme/p/4257562",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hb8/h4e/33408602013726/prd-front-4257562-1_600x600/prd-front-4257562-1-600x600.jpg"
 }

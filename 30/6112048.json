@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Latte Baileys Oploskoffie",
+  "code": "6112048",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2963 > 6640",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "3030763",
+  "mmkId": "3030763",
+  "productGroupId": "495688",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/douwe-egberts-latte-baileys-oploskoffie/p/6112048",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267443,
+      "name": "Koffie"
+    }
+  ],
+  "description": "8 stuks"
+}

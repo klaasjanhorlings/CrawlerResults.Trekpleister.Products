@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leev Biologische Low Carb Lijnzaad Crackers",
+  "code": "5515427",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 4006",
+  "supplier": "LEEV.NU BV",
+  "inStock": "inStock",
+  "onPromo": "3030711",
+  "mmkId": "3030711",
+  "productGroupId": "485694",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/leev-biologische-low-carb-lijnzaad-crackers/p/5515427",
+  "listName": "Lister",
+  "brand": "Leev",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 49431794,
+      "name": "Koolhydraatarm"
+    }
+  ],
+  "description": "80g",
+  "image": "/medias/sys_master/prd-images/ha6/h8a/31451557593118/prd-front-5515427-1_600x600/prd-front-5515427-1-600x600.jpg"
+}

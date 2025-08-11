@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6280",
   "supplier": "NUTRILO GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3030613",
-  "mmkId": "3030613",
-  "productGroupId": "494662",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-calcium-magnesium-bruistabletten/p/40279",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hf5/h49/28549991497758/prd-front-40279-1_600x600/prd-front-40279-1-600x600.jpg"
 }

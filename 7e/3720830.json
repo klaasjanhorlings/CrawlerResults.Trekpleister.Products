@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "SUNSTAR BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030721",
+  "mmkId": "3030721",
+  "productGroupId": "490965",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gum-trav-ler-ragers/p/3720830",
@@ -33,5 +33,6 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "0,9mm, 6 stuks"
+  "description": "0,9mm, 6 stuks",
+  "image": "/medias/sys_master/prd-images/hee/h56/34508137136158/prd-front-3720830-1_600x600/prd-front-3720830-1-600x600.jpg"
 }

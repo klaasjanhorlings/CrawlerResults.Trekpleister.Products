@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3679",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3030509",
-  "mmkId": "3030509",
-  "productGroupId": "479777",
+  "onPromo": "3030694",
+  "mmkId": "3030694",
+  "productGroupId": "479776",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-expert-skin-health-calming-douchegel/p/6134385",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml - Gevoelige huid"
+  "description": "400ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h01/he5/33905593548830/prd-front-6134385-1_600x600/prd-front-6134385-1-600x600.jpg"
 }

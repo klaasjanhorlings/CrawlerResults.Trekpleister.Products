@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Langwerpige Tas",
+  "code": "6276772",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 2244 > 2578 > 3199 > 6412",
+  "supplier": "DUGROS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-langwerpige-tas/p/6276772",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267420,
+      "name": "Tassen"
+    }
+  ],
+  "description": "beige",
+  "image": "/medias/sys_master/prd-images/he8/ha3/33736334245918/prd-front-6276772-1_600x600/prd-front-6276772-1-600x600.jpg"
+}

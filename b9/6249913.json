@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3030536",
-  "mmkId": "3030536",
-  "productGroupId": "483568",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-fiber-booster-anti-haaruitval-conditioner/p/6249913",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h52/h75/33115498348574/prd-front-6249913-1_600x600/prd-front-6249913-1-600x600.jpg"
 }

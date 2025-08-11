@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fisher Price On The Go Nesting Pets",
+  "code": "6343636",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fisher-price-on-the-go-nesting-pets/p/6343636",
+  "listName": "Lister",
+  "brand": "Fisher Price",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267079,
+      "name": "Speelfiguren en speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/haf/hf0/34686423466014/prd-front-6343636-1_600x600/prd-front-6343636-1-600x600.jpg"
+}

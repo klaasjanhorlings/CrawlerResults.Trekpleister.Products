@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3030613",
-  "mmkId": "3030613",
-  "productGroupId": "494662",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-multi-a-z-kind-1-kauwtabletten/p/1051912",
@@ -37,5 +37,6 @@
       "name": "Kindervitamines"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/he5/hf2/34594506080286/prd-front-1051912-1_600x600/prd-front-1051912-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3675",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3030508",
-  "mmkId": "3030508",
-  "productGroupId": "479329",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/deoleen-regular-antitranspirant-roller/p/3453808",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h67/hf2/33127489437726/prd-front-3453808-1_600x600/prd-front-3453808-1-600x600.jpg"
 }

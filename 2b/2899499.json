@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "3030505",
-  "mmkId": "3030505",
-  "productGroupId": "477604",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-scrubgel/p/2899499",
@@ -37,5 +37,6 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h17/ha8/34461252485150/prd-front-2899499-1_600x600/prd-front-2899499-1-600x600.jpg"
 }

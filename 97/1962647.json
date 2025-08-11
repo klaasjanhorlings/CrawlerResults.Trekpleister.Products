@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3435",
   "supplier": "NUTRITION&SANTE BENELX",
   "inStock": "inStock",
-  "onPromo": "3030614",
-  "mmkId": "3030614",
-  "productGroupId": "494850",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/modifast-protein-shape-granen-chocoladestukjes-koekjes/p/1962647",
@@ -33,5 +33,6 @@
       "name": "Verantwoorde tussendoortjes"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/haa/h80/28575766741022/prd-front-1962647-1_600x600/prd-front-1962647-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
   "supplier": "PRIMMED BV",
   "inStock": "inStock",
-  "onPromo": "3030615",
-  "mmkId": "3030615",
-  "productGroupId": "494927",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-30-deet-anti-insect-roll-on/p/3339932",
@@ -37,5 +37,6 @@
       "name": "Voor de beet"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h28/h93/28548412964894/prd-front-3339932-1_600x600/prd-front-3339932-1-600x600.jpg"
 }

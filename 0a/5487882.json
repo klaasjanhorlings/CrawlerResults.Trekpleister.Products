@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6647",
   "supplier": "NUTRITION&SANTE BENELX",
   "inStock": "inStock",
-  "onPromo": "3030614",
-  "mmkId": "3030614",
-  "productGroupId": "494850",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wecare-caramel-choco-peanut-lower-carb-bar/p/5487882",
@@ -33,6 +33,5 @@
       "name": "Koolhydraatarm"
     }
   ],
-  "description": "35g",
-  "image": "/medias/sys_master/prd-images/h4b/hd1/31310675771422/prd-front-5487882-1_600x600/prd-front-5487882-1-600x600.jpg"
+  "description": "35g"
 }

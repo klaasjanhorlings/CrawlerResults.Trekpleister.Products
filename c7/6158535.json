@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Vaatwastabletten"
     }
   ],
-  "description": "22 stuks"
+  "description": "22 stuks",
+  "image": "/medias/sys_master/prd-images/haa/h89/33975733944350/prd-front-6158535-1_600x600/prd-front-6158535-1-600x600.jpg"
 }

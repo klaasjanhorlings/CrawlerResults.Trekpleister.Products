@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3030653",
-  "mmkId": "3030653",
-  "productGroupId": "483981",
+  "onPromo": "3030742",
+  "mmkId": "3030742",
+  "productGroupId": "493645",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-pigment-serum/p/6021839",
@@ -37,5 +37,6 @@
       "name": "Pigmentverzorging"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h13/h79/34533764464670/prd-front-6021839-1_600x600/prd-front-6021839-1-600x600.jpg"
 }

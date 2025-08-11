@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leev Bio Paprika Lentil Protein Cakes Linzenwafels",
+  "code": "5771911",
+  "price": "2.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6522",
+  "supplier": "LEEV.NU BV",
+  "inStock": "inStock",
+  "onPromo": "3030711",
+  "mmkId": "3030711",
+  "productGroupId": "485694",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/leev-bio-paprika-lentil-protein-cakes-linzenwafels/p/5771911",
+  "listName": "Lister",
+  "brand": "Leev",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30267303,
+      "name": "Verantwoorde tussendoortjes"
+    }
+  ],
+  "description": "54g, 3 x 2 stuks",
+  "image": "/medias/sys_master/prd-images/h78/h55/31310682325022/prd-front-5771911-1_600x600/prd-front-5771911-1-600x600.jpg"
+}

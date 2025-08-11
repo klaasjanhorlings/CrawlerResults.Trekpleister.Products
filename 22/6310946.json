@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2724 > 3427",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3030569",
-  "mmkId": "3030569",
-  "productGroupId": "489289",
+  "onPromo": "3030700",
+  "mmkId": "3030700",
+  "productGroupId": "482131",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-rijke-olie/p/6310946",
@@ -37,6 +37,5 @@
       "name": "Babyolie"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h19/ha5/34735596470302/prd-front-6310946-1_600x600/prd-front-6310946-1-600x600.jpg"
+  "description": "200ml"
 }

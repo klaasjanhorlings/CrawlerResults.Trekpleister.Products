@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030511",
-  "mmkId": "3030511",
-  "productGroupId": "480135",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-full-hair-wonder-fullness-conditioner/p/6240554",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h5a/h6c/33771968790558/prd-front-6240554-1_600x600/prd-front-6240554-1-600x600.jpg"
+  "description": "200ml"
 }

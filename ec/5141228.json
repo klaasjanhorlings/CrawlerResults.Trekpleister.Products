@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "3030629",
-  "mmkId": "3030629",
-  "productGroupId": "497680",
+  "onPromo": "3030770",
+  "mmkId": "3030770",
+  "productGroupId": "497886",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/perskindol-heat-gel/p/5141228",
@@ -37,5 +37,6 @@
       "name": "Spierwrijfmiddelen"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hc4/h5e/34376211398686/prd-front-5141228-1_600x600/prd-front-5141228-1-600x600.jpg"
 }

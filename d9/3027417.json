@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030513",
-  "mmkId": "3030513",
-  "productGroupId": "480141",
+  "onPromo": "3030697",
+  "mmkId": "3030697",
+  "productGroupId": "480151",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-super-glue-level-14-haargel/p/3027417",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hf7/hb9/31095832412190/prd-front-3027417-1_600x600/prd-front-3027417-1-600x600.jpg"
 }
