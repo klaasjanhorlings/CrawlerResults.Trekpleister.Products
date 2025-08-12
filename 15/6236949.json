@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "22 stuks",
-  "image": "/medias/sys_master/prd-images/hce/h77/35120542679070/prd-front-6236949-1_600x600/prd-front-6236949-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h67/h5f/35128276811806/prd-front-6236949-1_600x600/prd-front-6236949-1-600x600.jpg"
 }

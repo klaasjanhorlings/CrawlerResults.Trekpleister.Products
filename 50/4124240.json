@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030689",
+  "mmkId": "3030689",
+  "productGroupId": "473474",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-divine-moments-douchecreme/p/4124240",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/prd-front-4124240-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjI2Njl8aW1hZ2UvanBlZ3xhREE0TDJnNE1TOHhOak0xTVRneU16QXpOalEwTmk5d2NtUXRabkp2Ym5RdE5ERXlOREkwTUMweFh6WXdNSGcyTURBfDkwMTU1YmRhYWE2OWQzNzI3MDJmOTk0OGJjNzIzNTBiOTNjOTEyMmM5NGIxNjkzOTlhMGQyMDAyYzE2OWIyNTk"
 }

@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Gel Affair 33 You're The Lime To My Tequila Nagellak",
-  "code": "6235255",
-  "price": "2.99",
+  "itemName": "Essence Extreme Gel 01 Gloss To Go Topcoat",
+  "code": "6123353",
+  "price": "2.69",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-gel-affair-33-youre-the-lime-to-my-tequila-nagellak/p/6235255",
+  "url": "/essence-extreme-gel-01-gloss-to-go-topcoat/p/6123353",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "Essence",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10,5ml",
-  "image": "/medias/sys_master/prd-images/h22/hec/33046564798494/prd-front-6235255-1_600x600/prd-front-6235255-1-600x600.jpg"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/he1/hc3/34678340059166/prd-front-6123353-1_600x600/prd-front-6123353-1-600x600.jpg"
 }

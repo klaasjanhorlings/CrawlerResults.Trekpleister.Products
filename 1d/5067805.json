@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Heart Core 02 Sweet Strawberry Fruity Lip Balm",
-  "code": "5608359",
-  "price": "1.79",
+  "itemName": "Essence Maximum Definition Waterproof Volume Mascara",
+  "code": "5067805",
+  "price": "2.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-heart-core-02-sweet-strawberry-fruity-lip-balm/p/5608359",
+  "url": "/essence-maximum-definition-waterproof-volume-mascara/p/5067805",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267133,
+      "name": "Mascara"
     }
   ],
-  "description": "3g",
-  "image": "/medias/sys_master/prd-images/hd5/hd5/34613388345374/prd-front-5608359-1_600x600/prd-front-5608359-1-600x600.jpg"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/h53/h04/35124720795678/prd-front-5067805-1_600x600/prd-front-5067805-1-600x600.jpg"
 }

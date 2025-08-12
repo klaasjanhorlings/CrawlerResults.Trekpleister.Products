@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Safari Fever Slim 010 Wild Life Oogschaduwpalet",
-  "code": "6001721",
-  "price": "9.89",
+  "itemName": "Essence Blend & Line 06 Highlight Your Life Eyeshadow Stick",
+  "code": "6245888",
+  "price": "2.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COSNOVA GMBH (BNL)",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-safari-fever-slim-010-wild-life-oogschaduwpalet/p/6001721",
+  "url": "/essence-blend-line-06-highlight-your-life-eyeshadow-stick/p/6245888",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "Essence",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,10 +33,10 @@
       "name": "Oogschaduw"
     },
     {
-      "id": 30267470,
-      "name": "Palette oogschaduw"
+      "id": 30267469,
+      "name": "Mono oogschaduw"
     }
   ],
-  "description": "10,6g",
-  "image": "/medias/sys_master/prd-images/hb4/h5c/29948134817822/prd-front-6001721-1_600x600/prd-front-6001721-1-600x600.jpg"
+  "description": "1,8g",
+  "image": "/medias/sys_master/prd-images/h0d/h56/33480475050014/prd-front-6245888-1_600x600/prd-front-6245888-1-600x600.jpg"
 }
