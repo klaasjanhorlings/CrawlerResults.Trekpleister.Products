@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030766",
+  "mmkId": "3030766",
+  "productGroupId": "496011",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/proglasur-fresh-clean-multi-action-tandpasta/p/2868671",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h1a/hd9/34225971560478/prd-front-2868671-1_600x600/prd-front-2868671-1-600x600.jpg"
+  "description": "75ml"
 }

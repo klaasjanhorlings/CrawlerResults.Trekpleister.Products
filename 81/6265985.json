@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5928 > 6038 > 4829 > 2640 > 3325 > 3802",
   "supplier": "TRENDSOURCE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Dameskleding"
     }
   ],
-  "description": "wit, mt M"
+  "description": "wit, mt M",
+  "image": "/medias/sys_master/prd-images/h66/h5f/33747201490974/prd-front-6265985-1_600x600/prd-front-6265985-1-600x600.jpg"
 }

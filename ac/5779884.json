@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030695",
+  "mmkId": "3030695",
+  "productGroupId": "479789",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmolive-naturals-melk-honing-douchecreme/p/5779884",
@@ -33,6 +33,5 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/hf0/h96/30852913070110/prd-front-5779884-1_600x600/prd-front-5779884-1-600x600.jpg"
+  "description": "250ml - Normale huid"
 }

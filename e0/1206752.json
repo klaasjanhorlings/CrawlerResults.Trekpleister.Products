@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030755",
+  "mmkId": "3030755",
+  "productGroupId": "494717",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-passiflora-sterk-rustgevende-tabletten/p/1206752",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49950754,
-      "name": "Natuurlijke supplementen"
+      "id": 30267281,
+      "name": "Rust en ontspanning"
     }
   ],
   "description": "30 stuks",

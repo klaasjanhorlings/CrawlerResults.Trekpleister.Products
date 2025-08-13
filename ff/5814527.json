@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Colgate Max White Charcoal Tandpasta",
+  "itemName": "Colgate Max White Charcoal Mini Tandpasta",
   "code": "5814527",
   "price": "1.39",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/colgate-max-white-charcoal-tandpasta/p/5814527",
+  "url": "/colgate-max-white-charcoal-mini-tandpasta/p/5814527",
   "listName": "Lister",
   "brand": "Colgate",
   "mpOrigin": "Kruidvat",
@@ -25,12 +25,8 @@
       "name": "Verzorging"
     },
     {
-      "id": 30267052,
-      "name": "Mondverzorging"
-    },
-    {
-      "id": 30267231,
-      "name": "Tandpasta"
+      "id": 91613031,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "20ml",

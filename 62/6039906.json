@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030736",
+  "mmkId": "3030736",
+  "productGroupId": "493113",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-excellence-creme-1013-signature-blond-permanente-haarkleuring/p/6039906",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h84/h6c/33885814849566/prd-front-6039906-1_600x600/prd-front-6039906-1-600x600.jpg"
+  "description": ""
 }

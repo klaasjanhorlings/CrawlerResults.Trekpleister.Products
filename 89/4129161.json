@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hef/haf/35120938024990/prd-front-4129161-1_600x600/prd-front-4129161-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hab/hef/35128799166494/prd-front-4129161-1_600x600/prd-front-4129161-1-600x600.jpg"
 }
