@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "MORE LABELS GROUP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030787",
+  "mmkId": "3030787",
+  "productGroupId": "493846",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/atelier-privee-mistical-dreamy-tonka-eau-de-parfum/p/6232980",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h28/had/33857142259742/prd-front-6232980-1_600x600/prd-front-6232980-1-600x600.jpg"
 }

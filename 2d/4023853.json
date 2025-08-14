@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030793",
+  "mmkId": "3030793",
+  "productGroupId": "496717",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-white-lotus-antitranspirant-spray/p/4023853",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf5/h3e/28804012343326/prd-front-4023853-1_600x600/prd-front-4023853-1-600x600.jpg"
 }

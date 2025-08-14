@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "1000ml"
+  "description": "1000ml",
+  "image": "/medias/sys_master/prd-images/h2c/ha4/34427344584734/prd-front-1665077-1_600x600/prd-front-1665077-1-600x600.jpg"
 }

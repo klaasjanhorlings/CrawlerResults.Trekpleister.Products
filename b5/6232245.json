@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030789",
+  "mmkId": "3030789",
+  "productGroupId": "494130",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-marvel-76313-marvel-logo-en-minifiguren/p/6232245",
@@ -33,5 +33,6 @@
       "name": "LEGO Marvel"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h75/h20/33144359911454/prd-front-6232245-1_600x600/prd-front-6232245-1-600x600.jpg"
 }

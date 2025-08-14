@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "MAINSTEIN GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030787",
+  "mmkId": "3030787",
+  "productGroupId": "493846",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lancome-la-vie-est-belle-leau-de-parfum/p/4966753",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/prd-front-4966753-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTY5MzB8aW1hZ2UvanBlZ3xhR0ZqTDJnd1pTOHhOelF3TXprM05EQXlOVEkwTmk5d2NtUXRabkp2Ym5RdE5EazJOamMxTXkweFh6WXdNSGcyTURBfDBkYzgxYzhiMDMzMTZjZmNlNDUzM2YwYmY4ZWUwNDgyOTI2NmRkMjYxYjA0NGFjOWFiNGI3NmYwYjllN2JkMjM"
 }

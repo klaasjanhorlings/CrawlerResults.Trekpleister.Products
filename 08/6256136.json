@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
   "supplier": "SPEELGOEDLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030789",
+  "mmkId": "3030789",
+  "productGroupId": "494130",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gabbys-dollhouse-tekenset/p/6256136",
@@ -29,6 +29,5 @@
       "name": "Knutselen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha3/h0f/35067101184030/prd-front-6256136-1_600x600/prd-front-6256136-1-600x600.jpg"
+  "description": ""
 }

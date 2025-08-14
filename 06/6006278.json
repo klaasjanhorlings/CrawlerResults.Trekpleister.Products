@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030789",
+  "mmkId": "3030789",
+  "productGroupId": "494130",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-super-mario-71431-bowsers-muscle-car/p/6006278",
@@ -33,5 +33,6 @@
       "name": "LEGO Super Mario"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he6/h69/31088200155166/prd-front-6006278-1_600x600/prd-front-6006278-1-600x600.jpg"
 }

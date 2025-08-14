@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030779",
+  "mmkId": "3030779",
+  "productGroupId": "467116",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-borstkolf/p/4564113",
@@ -33,6 +33,5 @@
       "name": "Borstvoedingsaccessoires"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc6/hc6/32460809207838/prd-front-4564113-1_600x600/prd-front-4564113-1-600x600.jpg"
+  "description": ""
 }

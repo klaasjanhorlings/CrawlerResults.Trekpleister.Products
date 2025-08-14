@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Ella's Kitchen Organic 10M+ Bio Kipkerrie",
-  "code": "6142246",
-  "price": "2.99",
+  "itemName": "Ella's Kitchen 4+M Strawberry + Apples",
+  "code": "4691408",
+  "price": "1.95",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 2920 > 3715",
   "supplier": "CAMPS FOOD BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/ellas-kitchen-organic-10m-bio-kipkerrie/p/6142246",
+  "url": "/ellas-kitchen-4m-strawberry-apples/p/4691408",
   "listName": "Lister",
   "brand": "Ella's Kitchen",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,14 @@
       "name": "Babyvoeding"
     },
     {
-      "id": 30267328,
-      "name": "Babymaaltijden"
+      "id": 30267327,
+      "name": "Fruithapjes"
     },
     {
-      "id": 30267569,
-      "name": "12+ maanden"
+      "id": 30267563,
+      "name": "4 maanden +"
     }
   ],
-  "description": "190g",
-  "image": "/medias/sys_master/prd-images/hdb/h8e/31460305010718/prd-front-6142246-1_600x600/prd-front-6142246-1-600x600.jpg"
+  "description": "120g",
+  "image": "/medias/sys_master/prd-images/hec/h29/32542811291678/prd-front-4691408-1_600x600/prd-front-4691408-1-600x600.jpg"
 }

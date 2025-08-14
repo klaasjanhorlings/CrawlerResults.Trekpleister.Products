@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030789",
+  "mmkId": "3030789",
+  "productGroupId": "494130",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-icons-10362-frans-cafe/p/6232455",
@@ -33,6 +33,5 @@
       "name": "LEGO Voertuigen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h00/h9e/33513057583134/prd-front-6232455-1_600x600/prd-front-6232455-1-600x600.jpg"
+  "description": ""
 }

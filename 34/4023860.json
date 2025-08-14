@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030793",
+  "mmkId": "3030793",
+  "productGroupId": "496717",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-bali-flower-antitranspirant-spray/p/4023860",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hc9/hdf/34721807302686/prd-front-4023860-1_600x600/prd-front-4023860-1-600x600.jpg"
 }

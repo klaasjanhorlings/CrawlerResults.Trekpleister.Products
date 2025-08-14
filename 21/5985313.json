@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030781",
+  "mmkId": "3030781",
+  "productGroupId": "491064",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-lifter-plump-002-mauve-bite-lipgloss/p/5985313",
@@ -37,6 +37,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "5,4ml",
-  "image": "/medias/sys_master/prd-images/h92/hb1/30084350181406/prd-front-5985313-1_600x600/prd-front-5985313-1-600x600.jpg"
+  "description": "5,4ml"
 }

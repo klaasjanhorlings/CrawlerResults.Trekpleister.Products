@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
   "supplier": "GOLIATH B.V.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030789",
+  "mmkId": "3030789",
+  "productGroupId": "494130",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/goliath-thats-life-keuken-puzzel/p/4098515",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": "1000 stukjes"
+  "description": "1000 stukjes",
+  "image": "/medias/sys_master/prd-images/h8b/he8/30014928977950/prd-front-4098515-1_600x600/prd-front-4098515-1-600x600.jpg"
 }

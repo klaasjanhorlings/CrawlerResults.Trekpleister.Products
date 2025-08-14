@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
   "supplier": "ELLEBURY LIMITED",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030789",
+  "mmkId": "3030789",
+  "productGroupId": "494130",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/max-boo-sensory-watermat/p/6074045",
@@ -29,6 +29,5 @@
       "name": "Educatief speelgoed"
     }
   ],
-  "description": "66cm x 50cm",
-  "image": "/medias/sys_master/prd-images/h92/ha9/31046942457886/prd-front-6074045-1_600x600/prd-front-6074045-1-600x600.jpg"
+  "description": "66cm x 50cm"
 }
