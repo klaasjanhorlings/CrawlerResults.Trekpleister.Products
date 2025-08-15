@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea For Men Energy Douchegel",
+  "itemName": "NIVEA Men Energy Douchegel",
   "code": "3427166",
   "price": "1.59",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-for-men-energy-douchegel/p/3427166",
+  "url": "/nivea-men-energy-douchegel/p/3427166",
   "listName": "Lister",
   "brand": "Nivea Men",
   "mpOrigin": "Kruidvat",
@@ -25,8 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 91613031,
-      "name": "Mini reisverpakkingen"
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
     }
   ],
   "description": "50ml",

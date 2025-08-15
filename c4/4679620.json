@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea Cellular Expert Lift Anti-Age SPF30 Dagcrème",
+  "itemName": "NIVEA Cellular Expert Lift Bakuchiol Anti-Age SPF30 Dagcrème",
   "code": "4679620",
   "price": "36.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "493486",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-cellular-expert-lift-anti-age-spf30-dagcreme/p/4679620",
+  "url": "/nivea-cellular-expert-lift-bakuchiol-anti-age-spf30-dagcreme/p/4679620",
   "listName": "Lister",
   "brand": "Nivea Skincare",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/hd6/h84/35127992680478/prd-front-4679620-1_600x600/prd-front-4679620-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA Verzachtend & Verzorgend Micellair Water",
+  "itemName": "NIVEA Caring Micellair Water",
   "code": "3901129",
   "price": "7.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "493479",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-verzachtend-verzorgend-micellair-water/p/3901129",
+  "url": "/nivea-caring-micellair-water/p/3901129",
   "listName": "Lister",
   "brand": "Nivea Skincare",
   "mpOrigin": "Kruidvat",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "400ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h68/hd1/35143068581918/prd-front-3901129-1_600x600/prd-front-3901129-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h10/h14/35155658440734/prd-front-3901129-1_600x600/prd-front-3901129-1-600x600.jpg"
 }

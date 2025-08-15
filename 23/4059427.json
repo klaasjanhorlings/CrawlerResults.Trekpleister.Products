@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea Sun Kids Protect & Hydrate SPF50+ Zonnespray",
+  "itemName": "NIVEA Sun Kids Protect & Hydrate SPF50+ Zonnespray",
   "code": "4059427",
   "price": "22.79",
   "priceOriginal": "",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "270ml"
+  "description": "270ml",
+  "image": "/medias/sys_master/prd-images/h44/hc2/29995455840286/prd-front-4059427-1_600x600/prd-front-4059427-1-600x600.jpg"
 }

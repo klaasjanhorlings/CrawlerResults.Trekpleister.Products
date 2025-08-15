@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Page Aloë Vera Vochtig Toiletpapier",
+  "itemName": "Page Fris en Verzorgend Vochtig Toiletpapier",
   "code": "5530589",
   "price": "3.99",
   "priceOriginal": "7.99",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 4,00",
-  "url": "/page-aloe-vera-vochtig-toiletpapier/p/5530589",
+  "url": "/page-fris-en-verzorgend-vochtig-toiletpapier/p/5530589",
   "listName": "Lister",
   "brand": "Page",
   "mpOrigin": "Kruidvat",
@@ -25,10 +25,10 @@
       "name": "Huishouden"
     },
     {
-      "id": 30267124,
-      "name": "Vochtig toiletpapier"
+      "id": 30267123,
+      "name": "Toiletpapier"
     }
   ],
   "description": "4 x 38 stuks",
-  "image": "/medias/sys_master/prd-images/hea/h27/35142087802910/prd-front-5530589-1_600x600/prd-front-5530589-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

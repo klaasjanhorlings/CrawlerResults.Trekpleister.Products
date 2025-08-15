@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea Men Dry Impact Antitranspirant Spray",
+  "itemName": "NIVEA Men Dry Impact Antitranspirant Spray",
   "code": "5641742",
   "price": "6.99",
   "priceOriginal": "",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h81/hcb/34395560640542/prd-front-5641742-1_600x600/prd-front-5641742-1-600x600.jpg"
 }
