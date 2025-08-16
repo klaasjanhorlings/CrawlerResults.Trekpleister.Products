@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Matt Pro Ink 60 I Choose Passion Liquid Lipstick",
-  "code": "5094097",
-  "price": "4.99",
+  "itemName": "Essence 8H Matte Comfort 09 Fiery Red Lipliner",
+  "code": "6017345",
+  "price": "1.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-matt-pro-ink-60-i-choose-passion-liquid-lipstick/p/5094097",
+  "url": "/essence-8h-matte-comfort-09-fiery-red-lipliner/p/6017345",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "Essence",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,10 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267152,
+      "name": "Lipliner"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h9a/h21/29935051046942/prd-front-5094097-1_600x600/prd-front-5094097-1-600x600.jpg"
+  "description": "3g",
+  "image": "/medias/sys_master/prd-images/hbb/hed/34684923576350/prd-front-6017345-1_600x600/prd-front-6017345-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Unox Cup-a-Soup Groente",
+  "code": "6141651",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2076 > 2227 > 2509 > 3120 > 3985",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3030333",
+  "mmkId": "3030333",
+  "productGroupId": "483180",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/unox-cup-a-soup-groente/p/6141651",
+  "listName": "Lister",
+  "brand": "Cup A Soup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 48685012,
+      "name": "Soep"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/hb2/h11/31530936926238/prd-front-6141651-1_600x600/prd-front-6141651-1-600x600.jpg"
+}

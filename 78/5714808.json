@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zonnatura 100% Rooibos Theezakjes",
+  "code": "5714808",
+  "price": "1.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2630 > 2947 > 3743",
+  "supplier": "WESSANEN BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zonnatura-100-rooibos-theezakjes/p/5714808",
+  "listName": "Lister",
+  "brand": "Zonnatura",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267444,
+      "name": "Thee"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hf8/heb/34837635203102/prd-front-5714808-1_600x600/prd-front-5714808-1-600x600.jpg"
+}

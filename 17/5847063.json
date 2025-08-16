@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6301",
   "supplier": "TS HEALTH PRODUCTS",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030755",
+  "mmkId": "3030755",
+  "productGroupId": "494717",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bach-rescue-nacht-spray/p/5847063",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "7ml",
-  "image": "/medias/sys_master/prd-images/hf6/hc5/34836614905886/prd-front-5847063-1_600x600/prd-front-5847063-1-600x600.jpg"
+  "description": "7ml"
 }

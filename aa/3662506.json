@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LU Volkoren Cracottes",
+  "code": "3662506",
+  "price": "2.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2340 > 2740 > 3442",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lu-volkoren-cracottes/p/3662506",
+  "listName": "Lister",
+  "brand": "Liga",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267584,
+      "name": "Koek"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9e/h21/33611739267102/prd-front-3662506-1_600x600/prd-front-3662506-1-600x600.jpg"
+}

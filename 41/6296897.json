@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
   "supplier": "OSTOY TRADING B.V.",
-  "inStock": "inStock",
-  "onPromo": "3030789",
-  "mmkId": "3030789",
-  "productGroupId": "494130",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/play-doh-kitchen-creations-grill-n-stamp-playset/p/6296897",
@@ -25,9 +25,10 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30267081,
-      "name": "Knutselen"
+      "id": 30267079,
+      "name": "Speelfiguren en speelsets"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h56/h64/34256694378526/prd-front-6296897-1_600x600/prd-front-6296897-1-600x600.jpg"
 }
