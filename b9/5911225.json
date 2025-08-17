@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Magic Filter 40 Tan Glow Booster",
-  "code": "6017317",
-  "price": "3.99",
+  "itemName": "Max Factor Facefinity D5 Free 1 Universal Primer",
+  "code": "5911225",
+  "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
-  "supplier": "COSNOVA GMBH (BNL)",
+  "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
-  "brandType": "Exclusief merk",
+  "brandType": "A of B merk",
   "discount": "",
-  "url": "/essence-magic-filter-40-tan-glow-booster/p/6017317",
+  "url": "/max-factor-facefinity-d5-free-1-universal-primer/p/5911225",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Max Factor",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267136,
+      "name": "Primer"
     }
   ],
-  "description": "14ml",
-  "image": "/medias/sys_master/prd-images/hff/hd4/34681183764510/prd-front-6017317-1_600x600/prd-front-6017317-1-600x600.jpg"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hf8/h47/30914436169758/prd-front-5911225-1_600x600/prd-front-5911225-1-600x600.jpg"
 }
