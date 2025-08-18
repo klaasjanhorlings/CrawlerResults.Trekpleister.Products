@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "3030787",
-  "mmkId": "3030787",
-  "productGroupId": "493846",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/calvin-klein-ck-in2u-him-eau-de-toilette/p/3549169",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-3549169-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTI1MTh8aW1hZ2UvanBlZ3xhR014TDJobU5DOHhOak14TXpjMk1USXpORGszTkM5d2NtUXRabkp2Ym5RdE16VTBPVEUyT1MweFh6WXdNSGcyTURBfDYxZTYwYjU3OTE4NDg4NDA5MGZlOTIxMTI5YTgzNjFhMTJlNTljZDhkOGUwNGY4NjMyNWQyYTUwYTVlYjIzMTU"
+  "description": "100ml"
 }

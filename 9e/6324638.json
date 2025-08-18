@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L.O.L. Surprise! Mini Sweets Haribo Vending Machine",
+  "code": "6324638",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2183 > 4933 > 4980 > 5026",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/lol-surprise-mini-sweets-haribo-vending-machine/p/6324638",
+  "listName": "Lister",
+  "brand": "L.O.L.",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h68/h81/34366114037790/prd-front-6324638-1_600x600/prd-front-6324638-1-600x600.jpg"
+}

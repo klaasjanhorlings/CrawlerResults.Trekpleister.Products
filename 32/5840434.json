@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030845",
+  "mmkId": "3030845",
+  "productGroupId": "473520",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/labello-hyaluron-lip-moisture-lippenbalsem/p/5840434",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "5,2g"
+  "description": "5,2g",
+  "image": "/medias/sys_master/prd-images/h64/h7c/34524576055326/prd-front-5840434-1_600x600/prd-front-5840434-1-600x600.jpg"
 }

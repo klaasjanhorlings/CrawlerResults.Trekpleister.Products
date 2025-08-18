@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3030789",
-  "mmkId": "3030789",
-  "productGroupId": "494130",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-super-mario-72032-standaardkart/p/6226085",
@@ -33,5 +33,6 @@
       "name": "LEGO Super Mario"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h34/h6b/32881144954910/prd-front-6226085-1_600x600/prd-front-6226085-1-600x600.jpg"
 }

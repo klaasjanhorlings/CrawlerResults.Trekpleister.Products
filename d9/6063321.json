@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "LANSINOH LABORATORIES",
-  "inStock": "inStock",
-  "onPromo": "3030779",
-  "mmkId": "3030779",
-  "productGroupId": "467116",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lansinoh-babyfles-met-naturalwave-speen/p/6063321",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "240ml"
+  "description": "240ml",
+  "image": "/medias/sys_master/prd-images/hbf/hec/30463524732958/prd-front-6063321-1_600x600/prd-front-6063321-1-600x600.jpg"
 }

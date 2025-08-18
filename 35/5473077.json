@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030848",
+  "mmkId": "3030848",
+  "productGroupId": "475444",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-by-night-relaxing-body-butter/p/5473077",
@@ -33,6 +33,5 @@
       "name": "Bodybutter"
     }
   ],
-  "description": "225g",
-  "image": "/medias/sys_master/prd-images/h3b/h3b/34757417205790/prd-front-5473077-1_600x600/prd-front-5473077-1-600x600.jpg"
+  "description": "225g"
 }

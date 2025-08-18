@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 6463 > 6464 > 6401",
   "supplier": "ONE-DC B.V.",
-  "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "Vibrator"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/haa/h36/31583810977822/prd-front-6153649-1_600x600/prd-front-6153649-1-600x600.jpg"
 }

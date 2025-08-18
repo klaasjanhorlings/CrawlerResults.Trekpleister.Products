@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030885",
+  "mmkId": "3030885",
+  "productGroupId": "482094",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-plump-ambition-601-worth-it-hyaluronic-lip-oil/p/6235766",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6d/h89/35070603591710/prd-front-6235766-1_600x600/prd-front-6235766-1-600x600.jpg"
 }

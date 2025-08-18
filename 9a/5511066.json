@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030908",
+  "mmkId": "3030908",
+  "productGroupId": "489200",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kneipp-goodbye-stress-watermunt-rozemarijn-douchegel/p/5511066",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h78/hb2/30098594005022/prd-front-5511066-1_600x600/prd-front-5511066-1-600x600.jpg"
 }

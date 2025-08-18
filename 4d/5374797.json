@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030697",
-  "mmkId": "3030697",
-  "productGroupId": "480151",
+  "onPromo": "3030873",
+  "mmkId": "3030873",
+  "productGroupId": "480178",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-hold-5-power-cashmere-mousse/p/5374797",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hbf/hc7/33766628655134/prd-front-5374797-1_600x600/prd-front-5374797-1-600x600.jpg"
 }

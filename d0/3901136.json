@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "BEIERSDORF NV BL",
   "inStock": "inStock",
-  "onPromo": "3030786",
-  "mmkId": "3030786",
-  "productGroupId": "493479",
+  "onPromo": "3030845",
+  "mmkId": "3030845",
+  "productGroupId": "473520",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-refreshing-micellair-water/p/3901136",
@@ -37,5 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h85/ha5/35128517558302/prd-front-3901136-1_600x600/prd-front-3901136-1-600x600.jpg"
 }

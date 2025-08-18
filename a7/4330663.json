@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3030695",
-  "mmkId": "3030695",
-  "productGroupId": "479789",
+  "onPromo": "3030870",
+  "mmkId": "3030870",
+  "productGroupId": "479790",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmolive-thermal-pampering-oil-douchegel/p/4330663",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h5e/h7c/33904987701278/prd-front-4330663-1_600x600/prd-front-4330663-1-600x600.jpg"
+  "description": "250ml - Normale huid"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3030723",
-  "mmkId": "3030723",
-  "productGroupId": "491103",
+  "onPromo": "3030845",
+  "mmkId": "3030845",
+  "productGroupId": "473520",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-uv-face-anti-age-q10-spf50-zonnecreme/p/4055451",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h0e/hed/35074707128350/prd-front-4055451-1_600x600/prd-front-4055451-1-600x600.jpg"
 }

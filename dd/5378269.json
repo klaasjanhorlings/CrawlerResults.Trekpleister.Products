@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3246 > 4137",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3030697",
-  "mmkId": "3030697",
-  "productGroupId": "480151",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-got2b-i-styler-texture-clay/p/5378269",
@@ -33,6 +33,5 @@
       "name": "Haarklei"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h08/haf/34869658746910/prd-front-5378269-1_600x600/prd-front-5378269-1-600x600.jpg"
+  "description": "75ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3030781",
-  "mmkId": "3030781",
-  "productGroupId": "491064",
+  "onPromo": "3030885",
+  "mmkId": "3030885",
+  "productGroupId": "482094",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-dream-radiant-40-fawn-liquid-foundation/p/1557956",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-1557956-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDEzOTh8aW1hZ2UvanBlZ3xhRE01TDJnM01pOHhOelUzT1RNek5ETXdNemMzTkM5d2NtUXRabkp2Ym5RdE1UVTFOemsxTmkweFh6WXdNSGcyTURBfDMzZjcwZjJiYTY2NzMzZTNjMTBjMzQwNTc4NzFhNTAwMmNkNjE2OTUzYWJmMjZjZTY5NmUzNGU0Mzg5MjFmNzQ"
 }

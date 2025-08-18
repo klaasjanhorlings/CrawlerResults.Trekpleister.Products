@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "3030787",
-  "mmkId": "3030787",
-  "productGroupId": "493846",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davidoff-essentials-blue-eau-de-toilette/p/6238545",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "110ml"
+  "description": "110ml",
+  "image": "/medias/sys_master/prd-images/h91/h41/33884644507678/prd-front-6238545-1_600x600/prd-front-6238545-1-600x600.jpg"
 }

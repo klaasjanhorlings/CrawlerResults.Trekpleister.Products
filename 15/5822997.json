@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "COSMOGROUP BRANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030998",
+  "mmkId": "3030998",
+  "productGroupId": "501845",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/umberto-giannini-grow-long-conditioner/p/5822997",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hcb/h2c/31027949535262/prd-front-5822997-1_600x600/prd-front-5822997-1-600x600.jpg"
+  "description": "250ml"
 }

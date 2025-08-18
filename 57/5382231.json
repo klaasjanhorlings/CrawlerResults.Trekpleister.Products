@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3030885",
+  "mmkId": "3030885",
+  "productGroupId": "482094",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-riche-173-nu-impertinent-intense-lippenstift/p/5382231",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,5g"
+  "description": "4,5g",
+  "image": "/medias/sys_master/prd-images/hcc/h9a/35064775049246/prd-front-5382231-1_600x600/prd-front-5382231-1-600x600.jpg"
 }

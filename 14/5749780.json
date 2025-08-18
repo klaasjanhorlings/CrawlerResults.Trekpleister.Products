@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030937",
+  "mmkId": "3030937",
+  "productGroupId": "492054",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-12m-smoothie-mango-spelt-knijpfruit/p/5749780",
@@ -37,5 +37,6 @@
       "name": "12 maanden +"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h87/he6/34918513115166/prd-front-5749780-1_600x600/prd-front-5749780-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3030706",
-  "mmkId": "3030706",
-  "productGroupId": "483649",
+  "onPromo": "3030896",
+  "mmkId": "3030896",
+  "productGroupId": "483648",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-magnetic-charcoal-conditioner/p/5789481",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h00/h0d/29797241061406/prd-front-5789481-1_600x600/prd-front-5789481-1-600x600.jpg"
 }

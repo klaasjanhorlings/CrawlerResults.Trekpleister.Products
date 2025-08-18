@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6668",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3030741",
-  "mmkId": "3030741",
-  "productGroupId": "493486",
+  "onPromo": "3030845",
+  "mmkId": "3030845",
+  "productGroupId": "473520",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-sensitive-face-wash/p/1467264",
@@ -33,5 +33,6 @@
       "name": "Gezichtsreiniging mannen"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h1f/hb1/34520899911710/prd-front-1467264-1_600x600/prd-front-1467264-1-600x600.jpg"
 }

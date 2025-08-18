@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030838",
+  "mmkId": "3030838",
+  "productGroupId": "471002",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/flora-curl-rose-water-detangling-lotion/p/6243529",
@@ -33,6 +33,5 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h50/hb5/33103503523870/prd-front-6243529-1_600x600/prd-front-6243529-1-600x600.jpg"
+  "description": "300ml"
 }

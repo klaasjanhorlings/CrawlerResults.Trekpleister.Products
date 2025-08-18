@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2903 > 3700",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3030748",
-  "mmkId": "3030748",
-  "productGroupId": "493847",
+  "onPromo": "3030930",
+  "mmkId": "3030930",
+  "productGroupId": "491062",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-pro-expert-advanced-deep-clean-flosdraad/p/6183658",
@@ -33,6 +33,5 @@
       "name": "Flosdraad"
     }
   ],
-  "description": "50m",
-  "image": "/medias/sys_master/prd-images/hfe/hf5/32100302454814/prd-front-6183658-1_600x600/prd-front-6183658-1-600x600.jpg"
+  "description": "50m"
 }

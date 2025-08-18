@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6697",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3030684",
-  "mmkId": "3030684",
-  "productGroupId": "462800",
+  "onPromo": "3030833",
+  "mmkId": "3030833",
+  "productGroupId": "463005",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-scalp-care-zuiverende-shampoo-scrub/p/6292172",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h8b/h56/34990213103646/prd-front-6292172-1_600x600/prd-front-6292172-1-600x600.jpg"
 }

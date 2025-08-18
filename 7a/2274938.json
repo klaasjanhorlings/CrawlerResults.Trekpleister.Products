@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3030707",
-  "mmkId": "3030707",
-  "productGroupId": "483691",
+  "onPromo": "3030898",
+  "mmkId": "3030898",
+  "productGroupId": "483695",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-nutri-gloss-shampoo/p/2274938",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hb2/hc0/33040713220126/prd-front-2274938-1_600x600/prd-front-2274938-1-600x600.jpg"
 }

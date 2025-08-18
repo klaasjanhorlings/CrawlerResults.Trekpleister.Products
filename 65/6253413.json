@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030846",
+  "mmkId": "3030846",
+  "productGroupId": "473520",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-creme-care-douchegel/p/6253413",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "750ml",
-  "image": "/medias/sys_master/prd-images/hd1/h07/35165579968542/prd-front-6253413-1_600x600/prd-front-6253413-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h06/hc5/35171028467742/prd-front-6253413-1_600x600/prd-front-6253413-1-600x600.jpg"
 }

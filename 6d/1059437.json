@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 5713 > 5733 > 5714",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3030760",
-  "mmkId": "3030760",
-  "productGroupId": "495331",
+  "onPromo": "3030845",
+  "mmkId": "3030845",
+  "productGroupId": "473520",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-bodylotion/p/1059437",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hd0/hfd/34396837380126/prd-front-1059437-1_600x600/prd-front-1059437-1-600x600.jpg"
 }

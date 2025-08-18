@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
   "supplier": "HENKEL NEDERLAND BV U-W",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030805",
+  "mmkId": "3030805",
+  "productGroupId": "451260",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fleuril-renew-color-vloeibaar-wasmiddel/p/6033319",
@@ -29,5 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "1350ml, 29 wasbeurten"
+  "description": "1350ml, 29 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h88/haa/34650763034654/prd-front-6033319-1_600x600/prd-front-6033319-1-600x600.jpg"
 }

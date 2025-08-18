@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6239",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3030755",
-  "mmkId": "3030755",
-  "productGroupId": "494717",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davitamon-vitamine-d-olie-voor-baby-en-kind/p/21531",
@@ -37,5 +37,6 @@
       "name": "Vitamine D"
     }
   ],
-  "description": "25ml"
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/h01/hda/33360236412958/prd-front-21531-1_600x600/prd-front-21531-1-600x600.jpg"
 }

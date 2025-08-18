@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6209 > 6227 > 6313",
   "supplier": "A.VOGEL",
-  "inStock": "inStock",
-  "onPromo": "3030755",
-  "mmkId": "3030755",
-  "productGroupId": "494717",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-solidago-tabletten/p/1206787",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke supplementen"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hcf/hea/32567164403742/prd-front-1206787-1_600x600/prd-front-1206787-1-600x600.jpg"
 }

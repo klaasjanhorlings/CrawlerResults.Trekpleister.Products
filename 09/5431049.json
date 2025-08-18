@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030838",
+  "mmkId": "3030838",
+  "productGroupId": "471002",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/novex-my-little-curls-leave-in-conditioner/p/5431049",
@@ -33,5 +33,6 @@
       "name": "Leave-in conditioner"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/prd-front-5431049-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjQ3NDN8aW1hZ2UvanBlZ3xhRGRpTDJnNE9DOHhOekExT0RZME56STBORGd6TUM5d2NtUXRabkp2Ym5RdE5UUXpNVEEwT1MweFh6WXdNSGcyTURBfDQ1ODVlMWI2OWMwNmEzYWY4YmY1NDFlZjEzYjAwZTBlMGIxMTA5MTkyYjQ4MjExZGI0NzhkYjZhNGE4NTY2NzY"
 }

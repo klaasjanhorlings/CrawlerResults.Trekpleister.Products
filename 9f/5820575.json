@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030961",
+  "mmkId": "3030961",
+  "productGroupId": "493801",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-dailies-extra-long-inlegkruisjes/p/5820575",
@@ -33,6 +33,5 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "22 stuks",
-  "image": "/medias/sys_master/prd-images/ha0/h80/29332369997854/prd-front-5820575-1_600x600/prd-front-5820575-1-600x600.jpg"
+  "description": "22 stuks"
 }
