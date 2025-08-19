@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Zwitsal Baby Op 'T Wangetje Gezichtscrème",
   "code": "407645",
-  "price": "5.39",
+  "price": "5.25",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "UNILEVER NEDERLAND BV",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h26/h2c/34868594606110/prd-front-407645-1_600x600/prd-front-407645-1-600x600.jpg"
 }

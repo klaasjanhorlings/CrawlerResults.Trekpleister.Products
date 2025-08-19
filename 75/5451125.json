@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3659",
   "supplier": "KENVUE",
-  "inStock": "inStock",
-  "onPromo": "3030821",
-  "mmkId": "3030821",
-  "productGroupId": "456185",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ob-organic-cotton-normal-tampons/p/5451125",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/hda/h96/35170401222686/prd-front-5451125-1_600x600/prd-front-5451125-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2d/h79/35174570688542/prd-front-5451125-1_600x600/prd-front-5451125-1-600x600.jpg"
 }

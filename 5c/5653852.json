@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6605",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030901",
+  "mmkId": "3030901",
+  "productGroupId": "484308",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-slapen-fit-wakker-299mcg-tabletten/p/5653852",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h96/h53/28554714382366/prd-front-5653852-1_600x600/prd-front-5653852-1-600x600.jpg"
+  "description": "30 stuks"
 }

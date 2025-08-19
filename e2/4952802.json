@@ -6,7 +6,7 @@
   "price": "1.49",
   "priceOriginal": "3.85",
   "itemBgbcat": "2007 > 2068 > 2194 > 6071 > 6072 > 6074",
-  "supplier": "UNILEVER BELGIUM",
+  "supplier": "UNILEVER NEDERLAND",
   "inStock": "inStock",
   "onPromo": "3030909",
   "mmkId": "3030909",
@@ -29,6 +29,5 @@
       "name": "Toiletblokken"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hfe/h1e/31941597823006/prd-front-4952802-1_600x600/prd-front-4952802-1-600x600.jpg"
+  "description": ""
 }

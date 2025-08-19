@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris True Match Nude 4-5 Medium Volumegevend Tinted Serum Foundation",
+  "code": "5485502",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3030885",
+  "mmkId": "3030885",
+  "productGroupId": "482094",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-true-match-nude-4-5-medium-volumegevend-tinted-serum-foundation/p/5485502",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267134,
+      "name": "Foundation"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h9f/h61/31689594863646/prd-front-5485502-1_600x600/prd-front-5485502-1-600x600.jpg"
+}
