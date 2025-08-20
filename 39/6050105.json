@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "B.Tan Glow Your Own Way Smooth Gel Zelfbruinerhandschoen",
+  "code": "6050105",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
+  "supplier": "MARQUE OF BRANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3030932",
+  "mmkId": "3030932",
+  "productGroupId": "491831",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/btan-glow-your-own-way-smooth-gel-zelfbruinerhandschoen/p/6050105",
+  "listName": "Lister",
+  "brand": "B.TAN",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267216,
+      "name": "Zelfbruiners"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h23/hd1/33104667082782/prd-front-6050105-1_600x600/prd-front-6050105-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 6705 > 6706 > 4114",
   "supplier": "K!CK TRADING BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30267039,
-      "name": "Parfum"
+      "id": 30267040,
+      "name": "Geschenksets"
     },
     {
-      "id": 72655099,
-      "name": "Parfum geschenkset voor hem"
+      "id": 72666312,
+      "name": "Geschenkset voor hem"
     }
   ],
   "description": "",

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6331",
   "supplier": "ZENNER NIEUW VENNEP BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,9 +29,10 @@
       "name": "Scheren en ontharen"
     },
     {
-      "id": 30267242,
-      "name": "Haartrimmers"
+      "id": 49747316,
+      "name": "Neustrimmers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h65/h10/29679349923870/prd-front-5964236-1_600x600/prd-front-5964236-1-600x600.jpg"
 }

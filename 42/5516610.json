@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Babydoekjes",
+  "code": "5516610",
+  "price": "63.84",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "3030847",
+  "mmkId": "3030847",
+  "productGroupId": "473858",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-babydoekjes/p/5516610",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "16 x 54 stuks",
+  "image": "/medias/sys_master/prd-images/hba/h7f/31990193848350/prd-front-5516610-1_600x600/prd-front-5516610-1-600x600.jpg"
+}

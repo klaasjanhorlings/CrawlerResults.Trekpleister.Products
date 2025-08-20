@@ -21,17 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267040,
-      "name": "Geschenksets"
+      "id": 30267067,
+      "name": "Babyverzorging"
     },
     {
-      "id": 72666589,
-      "name": "Geschenkset voor kinderen"
+      "id": 30267332,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267573,
+      "name": "Babyshampoo"
     }
   ],
-  "description": "2 x 100ml"
+  "description": "2 x 100ml",
+  "image": "/medias/sys_master/prd-images/h28/hba/29134881718302/prd-front-5743704-1_600x600/prd-front-5743704-1-600x600.jpg"
 }

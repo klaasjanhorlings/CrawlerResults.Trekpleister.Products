@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "BMEDCARE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "8 stuks"
+  "description": "8 stuks",
+  "image": "/medias/prd-front-5745412-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODM4MTJ8aW1hZ2UvanBlZ3xhR1ExTDJoak1pOHhOelV5TURZek1qVTJNVFk1TkM5d2NtUXRabkp2Ym5RdE5UYzBOVFF4TWkweFh6WXdNSGcyTURBfDg4YWM5NTQ0YTYyZGI2NGMzMWJlMDg5OWQ1NzYwMTljYTI1Y2UxMjMyMjVmZWFiYzBmYzAyM2YyMjBmYzA2M2U"
 }

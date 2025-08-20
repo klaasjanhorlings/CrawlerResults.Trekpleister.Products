@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3030871",
+  "mmkId": "3030871",
+  "productGroupId": "480174",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-matt-fiber-cream/p/4519054",
@@ -29,8 +29,8 @@
       "name": "Haarstylingproducten"
     },
     {
-      "id": 30267488,
-      "name": "Haarpasta"
+      "id": 30267486,
+      "name": "Haarwax"
     }
   ],
   "description": "100ml",
