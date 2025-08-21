@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Technic 42164 Offroad Racebuggy",
+  "code": "6003233",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-technic-42164-offroad-racebuggy/p/6003233",
+  "listName": "Lister",
+  "brand": "LEGO Technic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69045709,
+      "name": "LEGO Verjaardagscadeaus"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h78/h01/29494088269854/prd-front-6003233-1_600x600/prd-front-6003233-1-600x600.jpg"
+}
