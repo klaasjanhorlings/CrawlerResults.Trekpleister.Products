@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "3030937",
-  "mmkId": "3030937",
-  "productGroupId": "492054",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-12m-abrikoos-banaan-granen-knijpfruit/p/6102983",
@@ -37,5 +37,6 @@
       "name": "12 maanden +"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/hb6/h9d/31141597708318/prd-front-6102983-1_600x600/prd-front-6102983-1-600x600.jpg"
 }

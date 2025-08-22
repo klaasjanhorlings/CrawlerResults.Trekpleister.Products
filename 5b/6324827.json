@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Derma Control Sensitive Antitranspirant Spray",
+  "code": "6324827",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3865",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-derma-control-sensitive-antitranspirant-spray/p/6324827",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h5e/hfe/44009924624414/prd-front-6324827-1_600x600/prd-front-6324827-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Derma Control Defend Antitranspirant Stick",
+  "code": "6324876",
+  "price": "6.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3786",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-derma-control-defend-antitranspirant-stick/p/6324876",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267202,
+      "name": "Deostick"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h47/hf1/44010500522014/prd-front-6324876-1_600x600/prd-front-6324876-1-600x600.jpg"
+}
