@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Hydro Boost Aqua Gezichtsreiniger",
+  "itemName": "Neutrogena Hydro Boost Aqua Reinigingsgel",
   "code": "6060409",
   "price": "7.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "481512",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/neutrogena-hydro-boost-aqua-gezichtsreiniger/p/6060409",
+  "url": "/neutrogena-hydro-boost-aqua-reinigingsgel/p/6060409",
   "listName": "Lister",
   "brand": "Neutrogena",
   "mpOrigin": "Kruidvat",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267165,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30267474,
-      "name": "Reinigingsgel"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "200ml - Alle huidtypen en gevoelige huid",

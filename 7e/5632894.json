@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "TENA Discreet Extra Incontinentieverband Maanddoos",
+  "code": "5632894",
+  "price": "34.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-discreet-extra-incontinentieverband-maanddoos/p/5632894",
+  "listName": "Lister",
+  "brand": "Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267482,
+      "name": "Incontinentieverband"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 72 stuks",
+  "image": "/medias/sys_master/prd-images/h7d/h51/34032181313566/prd-front-5632894-1_600x600/prd-front-5632894-1-600x600.jpg"
+}

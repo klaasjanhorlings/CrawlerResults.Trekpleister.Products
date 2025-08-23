@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3864",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030845",
+  "mmkId": "3030845",
+  "productGroupId": "473520",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-derma-control-sensitive-antitranspirant-roller/p/6324820",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hda/h40/44009723592734/prd-front-6324820-1_600x600/prd-front-6324820-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h56/h59/44017626316830/prd-front-6324820-1_600x600/prd-front-6324820-1-600x600.jpg"
 }

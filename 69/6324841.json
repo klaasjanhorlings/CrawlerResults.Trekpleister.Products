@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3864",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030845",
+  "mmkId": "3030845",
+  "productGroupId": "473520",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-derma-control-defend-antitranspirant-spray/p/6324841",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hd7/h60/44009516695582/prd-front-6324841-1_600x600/prd-front-6324841-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1f/h98/44017324785694/prd-front-6324841-1_600x600/prd-front-6324841-1-600x600.jpg"
 }

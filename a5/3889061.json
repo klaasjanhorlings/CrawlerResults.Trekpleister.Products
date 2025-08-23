@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister 0% Sensitive Gezichtsreinigingsdoekjes",
+  "code": "3889061",
+  "price": "2.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3030858",
+  "mmkId": "3030858",
+  "productGroupId": "477812",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-0-sensitive-gezichtsreinigingsdoekjes/p/3889061",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267471,
+      "name": "Reinigingsdoekjes"
+    }
+  ],
+  "description": "25 stuks",
+  "image": "/medias/sys_master/prd-images/hf0/hef/34462596431902/prd-front-3889061-1_600x600/prd-front-3889061-1-600x600.jpg"
+}

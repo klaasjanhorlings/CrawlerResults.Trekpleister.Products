@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "DUMMY EXTERN",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-5556664-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjkxMzh8aW1hZ2UvanBlZ3xhR0ZtTDJneVlpOHhOekExTnprMU9Ua3dNekkyTWk5d2NtUXRabkp2Ym5RdE5UVTFOalkyTkMweFh6WXdNSGcyTURBfDA5MDJmMmIzNTZkZjc5NDU4OTljMTUwNjgwNmU3YjBhZWI0MjQxZjZlYjJmMTI4NzYyMzc0ZTM5MDVhY2I1ZjU"
+  "description": ""
 }

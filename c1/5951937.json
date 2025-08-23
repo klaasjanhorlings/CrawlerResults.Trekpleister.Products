@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "GUM Soft-Picks Pro Tandenstokers",
+  "itemName": "GUM Soft-Picks Pro Interdentale Tandenstokers",
   "code": "5951937",
   "price": "8.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "495980",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/gum-soft-picks-pro-tandenstokers/p/5951937",
+  "url": "/gum-soft-picks-pro-interdentale-tandenstokers/p/5951937",
   "listName": "Lister",
   "brand": "Gum",
   "mpOrigin": "Kruidvat",
@@ -29,9 +29,10 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30267224,
-      "name": "Tandenstokers"
+      "id": 30267226,
+      "name": "Tandenragers"
     }
   ],
-  "description": "mt L, 30 stuks"
+  "description": "mt L, 30 stuks",
+  "image": "/medias/sys_master/prd-images/hfe/hf4/34510011695134/prd-front-5951937-1_600x600/prd-front-5951937-1-600x600.jpg"
 }
