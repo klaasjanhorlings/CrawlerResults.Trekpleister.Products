@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "NEW VALMAR BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031041",
+  "mmkId": "3031041",
+  "productGroupId": "498333",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nuby-neus-en-oorreiniger/p/1356853",
@@ -37,6 +37,5 @@
       "name": "Neusreiniger"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h59/h71/34889472540702/prd-front-1356853-1_600x600/prd-front-1356853-1-600x600.jpg"
+  "description": ""
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6023 > 4830 > 4935 > 4981 > 5027",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Reisartikelen"
     }
   ],
-  "description": "191cm x 73cm x 22 cm"
+  "description": "191cm x 73cm x 22 cm",
+  "image": "/medias/sys_master/prd-images/h00/h57/34638870085662/prd-front-4778397-1_600x600/prd-front-4778397-1-600x600.jpg"
 }

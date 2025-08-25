@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3030994",
-  "mmkId": "3030994",
-  "productGroupId": "496756",
+  "onPromo": "3030946",
+  "mmkId": "3030946",
+  "productGroupId": "493122",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-preference-4-middenbruin-permanente-haarkleuring/p/16683",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hca/h9d/32154113900574/prd-front-16683-1_600x600/prd-front-16683-1-600x600.jpg"
 }

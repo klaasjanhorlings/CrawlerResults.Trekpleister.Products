@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031019",
-  "mmkId": "3031019",
-  "productGroupId": "492373",
+  "onPromo": "3030896",
+  "mmkId": "3030896",
+  "productGroupId": "483648",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-sun-kissed-chamomile-bloemenhoning-verhelderende-glansgevende-shampoo/p/6256892",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h18/hfe/33983715344414/prd-front-6256892-1_600x600/prd-front-6256892-1-600x600.jpg"
+  "description": "300ml"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dreft BlueSun Professional Waspoeder",
+  "code": "5777658",
+  "price": "9.99",
+  "priceOriginal": "29.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "BLUESUN CONSUMER BRANDS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 20,00",
+  "url": "/dreft-bluesun-professional-waspoeder/p/5777658",
+  "listName": "Lister",
+  "brand": "Dreft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "3900g, 60 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hce/h59/34049092911134/prd-front-5777658-1_600x600/prd-front-5777658-1-600x600.jpg"
+}
