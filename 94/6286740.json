@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "LEGO Marvel 76308 Spider-Man Mecha Vs. Anti-Venom",
-  "code": "6226946",
-  "price": "12.99",
+  "itemName": "LEGO 71049 F1 Raceauto's",
+  "code": "6286740",
+  "price": "3.49",
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/lego-marvel-76308-spider-man-mecha-vs-anti-venom/p/6226946",
+  "url": "/lego-71049-f1-raceautos/p/6286740",
   "listName": "Lister",
   "brand": "LEGO",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,9 @@
       "name": "LEGO"
     },
     {
-      "id": 30267376,
-      "name": "LEGO Marvel"
+      "id": 69052009,
+      "name": "LEGO Minisets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hec/he7/33142380036126/prd-front-6226946-1_600x600/prd-front-6226946-1-600x600.jpg"
+  "description": ""
 }

@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Adidas Vibes Energy Drive Eau de Parfum",
-  "code": "6133881",
-  "price": "19.99",
+  "itemName": "Paco Rabanne 1 Million Eau de Toilette",
+  "code": "5196927",
+  "price": "72.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
-  "supplier": "COTY NETHERLANDS BV CB",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "MAINSTEIN GMBH",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/adidas-vibes-energy-drive-eau-de-parfum/p/6133881",
+  "url": "/paco-rabanne-1-million-eau-de-toilette/p/5196927",
   "listName": "Lister",
-  "brand": "Adidas",
+  "brand": "Paco Rabanne",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h4a/ha3/32415770673182/prd-front-6133881-1_600x600/prd-front-6133881-1-600x600.jpg"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h47/h57/30977541275678/prd-front-5196927-1_600x600/prd-front-5196927-1-600x600.jpg"
 }

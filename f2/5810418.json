@@ -6,7 +6,7 @@
   "price": "109.95",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 5149 > 5196 > 5385",
-  "supplier": "MARBAMI NETTO",
+  "supplier": "DUMMY EXTERN",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
@@ -33,5 +33,6 @@
       "name": "Buggy's"
     }
   ],
-  "description": "grijs"
+  "description": "grijs",
+  "image": "/medias/sys_master/prd-images/ha2/h8f/28573331882014/prd-front-5810418-1_600x600/prd-front-5810418-1-600x600.jpg"
 }

@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Axe Aqua Bergamot Fine Fragrance Bodyspray & Bodywash Duo",
-  "code": "6156239",
-  "price": "12.99",
+  "itemName": "NIVEA Men Sensitive Care Geschenkset",
+  "code": "6164688",
+  "price": "19.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
-  "supplier": "UNILEVER NEDERLAND BV",
+  "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "3031455",
+  "mmkId": "3031455",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/axe-aqua-bergamot-fine-fragrance-bodyspray-bodywash-duo/p/6156239",
+  "url": "/nivea-men-sensitive-care-geschenkset/p/6164688",
   "listName": "Lister",
-  "brand": "Axe Fine Fragrance",
+  "brand": "Nivea Men",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Geschenkset voor hem"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/hff/h58/34416480780318/prd-front-6156239-1_600x600/prd-front-6156239-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha0/h69/32586468065310/prd-front-6164688-1_600x600/prd-front-6164688-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030833",
+  "mmkId": "3030833",
+  "productGroupId": "463005",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-extra-glans-glansversterkende-shampoo/p/6292466",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h60/ha0/34925638058014/prd-front-6292466-1_600x600/prd-front-6292466-1-600x600.jpg"
 }

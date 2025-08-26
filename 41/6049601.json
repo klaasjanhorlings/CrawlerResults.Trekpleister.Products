@@ -7,10 +7,10 @@
   "priceOriginal": "99.99",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030712",
+  "mmkId": "3030712",
+  "productGroupId": "489403",
   "brandType": "A of B merk",
   "discount": "€ 65,00",
   "url": "/finish-powerball-quantum-all-in-1-vaatwascapsules/p/6049601",
@@ -33,5 +33,6 @@
       "name": "Vaatwastabletten"
     }
   ],
-  "description": "224 stuks"
+  "description": "224 stuks",
+  "image": "/medias/sys_master/prd-images/h10/hc3/34352722903070/prd-front-6049601-1_600x600/prd-front-6049601-1-600x600.jpg"
 }
