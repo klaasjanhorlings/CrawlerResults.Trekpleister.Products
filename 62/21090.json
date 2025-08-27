@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
   "supplier": "TEVA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031058",
+  "mmkId": "3031058",
+  "productGroupId": "495307",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sudocrem-multi-expert-creme/p/21090",
@@ -37,5 +37,6 @@
       "name": "Zinkzalf"
     }
   ],
-  "description": "Medisch hulpmiddel - 250g"
+  "description": "Medisch hulpmiddel - 250g",
+  "image": "/medias/sys_master/prd-images/hd5/hce/28855298654238/prd-front-21090-1_600x600/prd-front-21090-1-600x600.jpg"
 }

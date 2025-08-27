@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "MAYBORN FRANCE EURL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031057",
+  "mmkId": "3031057",
+  "productGroupId": "495297",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tommee-tippee-simplee-sangenic-luieremmer/p/4487659",
@@ -33,6 +33,5 @@
       "name": "Verschonen"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-4487659-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzc5ODZ8aW1hZ2UvanBlZ3xhRGRpTDJnMk1DOHhOelF3TkRnM01UUTNOVEl6TUM5d2NtUXRabkp2Ym5RdE5EUTROelkxT1MweFh6WXdNSGcyTURBfGVlNjBmZTVlOWMxNmU0OWZjMTUzYTgwNDAyNGU1MDc5N2E4OGZiMzhjNzYwZmJmZmVjMzY2MDk0ZGFjYjNhNzg"
+  "description": ""
 }

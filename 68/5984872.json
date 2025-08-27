@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "LEGO Speed Champions 76920 Ford Mustang Dark Horse Sportwagen",
-  "code": "6022770",
-  "price": "24.99",
+  "itemName": "LEGO Technic 42163 Zware Bulldozer",
+  "code": "5984872",
+  "price": "8.99",
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/lego-speed-champions-76920-ford-mustang-dark-horse-sportwagen/p/6022770",
+  "url": "/lego-technic-42163-zware-bulldozer/p/5984872",
   "listName": "Lister",
-  "brand": "LEGO Speed Champs.",
+  "brand": "LEGO Technic",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "LEGO"
     },
     {
-      "id": 30267375,
-      "name": "LEGO Speed Champions"
+      "id": 30267381,
+      "name": "LEGO Technic"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h7c/hba/30041628114974/prd-front-6022770-1_600x600/prd-front-6022770-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6f/h0b/29490868584478/prd-front-5984872-1_600x600/prd-front-5984872-1-600x600.jpg"
 }

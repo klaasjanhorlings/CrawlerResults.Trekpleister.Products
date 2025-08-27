@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2724 > 3427",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031042",
+  "mmkId": "3031042",
+  "productGroupId": "473825",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-baby-kids-100-natural-face-body-oil/p/5742514",
@@ -37,6 +37,5 @@
       "name": "Babyolie"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/ha4/h6c/34100364771358/prd-front-5742514-1_600x600/prd-front-5742514-1-600x600.jpg"
+  "description": "150ml"
 }
