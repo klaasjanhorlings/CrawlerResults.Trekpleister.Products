@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Reinigingsdoekjes"
     }
   ],
-  "description": "7 stuks",
-  "image": "/medias/sys_master/prd-images/h86/hd1/34900310687774/prd-front-3427152-1_600x600/prd-front-3427152-1-600x600.jpg"
+  "description": "7 stuks"
 }

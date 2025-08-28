@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "NEW VALMAR BV",
   "inStock": "inStock",
-  "onPromo": "3031057",
-  "mmkId": "3031057",
-  "productGroupId": "495297",
+  "onPromo": "3031041",
+  "mmkId": "3031041",
+  "productGroupId": "498333",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nuby-neus-en-oorreiniger/p/1356853",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30267262,
-      "name": "Luchtwegen"
-    },
-    {
-      "id": 49313535,
-      "name": "Neusreiniger"
+      "id": 75860503,
+      "name": "Baby en Kind gezondheid"
     }
   ],
   "description": "",

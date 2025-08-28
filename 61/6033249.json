@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Technic 42165 Mercedes-AMG F1 W14 Performance Pull-Back",
+  "code": "6033249",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-technic-42165-mercedes-amg-f1-w14-performance-pull-back/p/6033249",
+  "listName": "Lister",
+  "brand": "LEGO Technic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267381,
+      "name": "LEGO Technic"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf8/h89/30037835218974/prd-front-6033249-1_600x600/prd-front-6033249-1-600x600.jpg"
+}

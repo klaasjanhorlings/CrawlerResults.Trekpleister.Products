@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 2760 > 3467",
   "supplier": "HALEON (NOVARTIS)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Pijnstiller"
     }
   ],
-  "description": "Geneesmiddel - 20 stuks"
+  "description": "Geneesmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h78/hf4/34566584172574/prd-front-2928157-1_600x600/prd-front-2928157-1-600x600.jpg"
 }

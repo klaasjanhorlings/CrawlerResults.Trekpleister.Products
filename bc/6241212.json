@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3059 > 3907",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3031049",
-  "mmkId": "3031049",
-  "productGroupId": "490452",
+  "onPromo": "3030852",
+  "mmkId": "3030852",
+  "productGroupId": "477422",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-premium-protection-maat-3-luiers/p/6241212",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 3"
     }
   ],
-  "description": "mt 3 (6-10kg), 64 stuks"
+  "description": "mt 3 (6-10kg), 64 stuks",
+  "image": "/medias/sys_master/prd-images/h84/h64/34796229951518/prd-front-6241212-1_600x600/prd-front-6241212-1-600x600.jpg"
 }

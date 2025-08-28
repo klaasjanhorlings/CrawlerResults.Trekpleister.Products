@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
   "supplier": "MAM BABY BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3031057",
-  "mmkId": "3031057",
-  "productGroupId": "495297",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mam-soft-3-flesspeen/p/2739227",
@@ -33,5 +33,6 @@
       "name": "Flessenspenen"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h88/h2c/28575987597342/prd-front-2739227-1_600x600/prd-front-2739227-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6232",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "3030901",
-  "mmkId": "3030901",
-  "productGroupId": "484308",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-collageen-vitaminen-mineralen-compleet-tabletten/p/4428992",
@@ -29,10 +29,9 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267276,
-      "name": "Beautysupplementen"
+      "id": 49363859,
+      "name": "Collageensupplementen"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/prd-front-4428992-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjkxMTl8aW1hZ2UvanBlZ3xhRGcxTDJnNE1pOHhOalU1TXpJeU5qZ3lOVGMxT0M5d2NtUXRabkp2Ym5RdE5EUXlPRGs1TWkweFh6WXdNSGcyTURBfDI5MTM3YTMyMjhjODY4M2UxODk1OWEwNWZiOGEzNWZiOGYyNjkxZDJiMGVmMGI2YTk5MjVhMGM0M2Q3M2FmM2I"
+  "description": "60 stuks"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L’Oréal Paris Color Riche 2010 S'il Vous Plait Richest Lipliner",
+  "code": "5203157",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3030885",
+  "mmkId": "3030885",
+  "productGroupId": "482094",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-color-riche-2010-sil-vous-plait-richest-lipliner/p/5203157",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267152,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h1c/h5b/44053275082782/prd-front-5203157-1_600x600/prd-front-5203157-1-600x600.jpg"
+}

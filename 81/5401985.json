@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3916",
   "supplier": "GREEN SOAP COMPANY BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3030980",
+  "mmkId": "3030980",
+  "productGroupId": "495198",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/marcels-green-soap-lavender-rosemary-handzeep/p/5401985",
@@ -33,6 +33,5 @@
       "name": "Handzeep"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/hac/hb5/28911274524702/prd-front-5401985-1_600x600/prd-front-5401985-1-600x600.jpg"
+  "description": "500ml"
 }
