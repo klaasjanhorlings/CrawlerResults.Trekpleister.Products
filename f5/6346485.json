@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Gabby's Dollhouse 11205 Snoepjesberg en Kittentuin",
+  "code": "6346485",
+  "price": "45.99",
+  "priceOriginal": "49.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 4,00",
+  "url": "/lego-gabbys-dollhouse-11205-snoepjesberg-en-kittentuin/p/6346485",
+  "listName": "Lister",
+  "brand": "LEGO Gabby's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69049055,
+      "name": "LEGO Gabby’s Dollhouse"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h71/h25/35039118589982/prd-front-6346485-1_600x600/prd-front-6346485-1-600x600.jpg"
+}

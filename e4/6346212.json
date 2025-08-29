@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Dreamzzz 71495 Mateo Vs. Cyberbreinmecha",
+  "code": "6346212",
+  "price": "27.99",
+  "priceOriginal": "29.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 2,00",
+  "url": "/lego-dreamzzz-71495-mateo-vs-cyberbreinmecha/p/6346212",
+  "listName": "Lister",
+  "brand": "LEGO DREAMZzz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69047768,
+      "name": "LEGO DreamZzz"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h43/h32/35038146232350/prd-front-6346212-1_600x600/prd-front-6346212-1-600x600.jpg"
+}

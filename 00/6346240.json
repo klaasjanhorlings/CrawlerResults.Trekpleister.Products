@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO DUPLO 10448 3-In-1 Dieren Op Wielen",
+  "code": "6346240",
+  "price": "31.99",
+  "priceOriginal": "34.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 3,00",
+  "url": "/lego-duplo-10448-3-in-1-dieren-op-wielen/p/6346240",
+  "listName": "Lister",
+  "brand": "LEGO Duplo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267380,
+      "name": "LEGO Duplo"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hed/h9b/35038145249310/prd-front-6346240-1_600x600/prd-front-6346240-1-600x600.jpg"
+}

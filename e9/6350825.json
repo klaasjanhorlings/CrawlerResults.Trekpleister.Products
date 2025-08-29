@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Bouncy Plump 10 Hydrating Dewy Spray",
+  "code": "6350825",
+  "price": "3.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 5690 > 5691 > 5692",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-bouncy-plump-10-hydrating-dewy-spray/p/6350825",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267151,
+      "name": "Fixing sprays"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h90/h78/44071205044254/prd-front-6350825-1_600x600/prd-front-6350825-1-600x600.jpg"
+}

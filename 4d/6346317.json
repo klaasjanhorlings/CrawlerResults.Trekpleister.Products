@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Friends 42654 Ponyboerderij en Stal",
+  "code": "6346317",
+  "price": "65.99",
+  "priceOriginal": "69.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 4,00",
+  "url": "/lego-friends-42654-ponyboerderij-en-stal/p/6346317",
+  "listName": "Lister",
+  "brand": "LEGO Friends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267371,
+      "name": "LEGO Friends"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb0/h00/35038765514782/prd-front-6346317-1_600x600/prd-front-6346317-1-600x600.jpg"
+}

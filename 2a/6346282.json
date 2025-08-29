@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Harry Potter 76449 Het Monsterlijke Monsterboek",
+  "code": "6346282",
+  "price": "54.99",
+  "priceOriginal": "59.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/lego-harry-potter-76449-het-monsterlijke-monsterboek/p/6346282",
+  "listName": "Lister",
+  "brand": "LEGO Harry Potter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267373,
+      "name": "LEGO Harry Potter"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he6/h48/35040672317470/prd-front-6346282-1_600x600/prd-front-6346282-1-600x600.jpg"
+}

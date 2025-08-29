@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutrilon 1 DuoBalans",
+  "code": "6362074",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutrilon-1-duobalans/p/6362074",
+  "listName": "Lister",
+  "brand": "Nutrilon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267559,
+      "name": "Zuigelingenvoeding"
+    }
+  ],
+  "description": "Ook om te combineren met borstvoeding*",
+  "image": "/medias/sys_master/prd-images/h70/hcc/34918737903646/prd-front-6362074-1_600x600/prd-front-6362074-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Minecraft 21276 De Creeper",
+  "code": "6346366",
+  "price": "36.99",
+  "priceOriginal": "39.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 3,00",
+  "url": "/lego-minecraft-21276-de-creeper/p/6346366",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69035760,
+      "name": "LEGO Games"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h51/h71/35038512939038/prd-front-6346366-1_600x600/prd-front-6346366-1-600x600.jpg"
+}

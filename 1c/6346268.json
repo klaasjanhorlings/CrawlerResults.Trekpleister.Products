@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Disney 43279 WALL-E en EVE",
+  "code": "6346268",
+  "price": "65.99",
+  "priceOriginal": "69.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 4,00",
+  "url": "/lego-disney-43279-wall-e-en-eve/p/6346268",
+  "listName": "Lister",
+  "brand": "LEGO Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267377,
+      "name": "LEGO Disney"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9f/hfa/44070450888734/prd-front-6346268-1_600x600/prd-front-6346268-1-600x600.jpg"
+}

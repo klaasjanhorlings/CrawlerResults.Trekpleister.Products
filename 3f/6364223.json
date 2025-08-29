@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nestlé Little Steps 0-6M Volledige Zuigelingenvoeding",
+  "code": "6364223",
+  "price": "0.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
+  "supplier": "NESTLE NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nestle-little-steps-0-6m-volledige-zuigelingenvoeding/p/6364223",
+  "listName": "Lister",
+  "brand": "Nestle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267559,
+      "name": "Zuigelingenvoeding"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h85/hdd/35064441733150/prd-front-6364223-1_600x600/prd-front-6364223-1-600x600.jpg"
+}

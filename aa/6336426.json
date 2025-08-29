@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ella's Kitchen Organic 10M+ Ovenschotel met Rundvlees en Kaneel",
+  "code": "6336426",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ellas-kitchen-organic-10m-ovenschotel-met-rundvlees-en-kaneel/p/6336426",
+  "listName": "Lister",
+  "brand": "Ella's Kitchen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267328,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267569,
+      "name": "12+ maanden"
+    }
+  ],
+  "description": "Ella's Kitchen Organic 10M+ Bio Ovenschotel met rundvlees + kaneel is 100% biologisch",
+  "image": "/medias/sys_master/prd-images/ha6/h4e/34926985904158/prd-front-6336426-1_600x600/prd-front-6336426-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Star Wars 75385 Ahsoka Tano's Duel op Peridea",
+  "code": "6346415",
+  "price": "49.99",
+  "priceOriginal": "54.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/lego-star-wars-75385-ahsoka-tanos-duel-op-peridea/p/6346415",
+  "listName": "Lister",
+  "brand": "LEGO Star Wars",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267378,
+      "name": "LEGO Star Wars"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd1/h65/35041366671390/prd-front-6346415-1_600x600/prd-front-6346415-1-600x600.jpg"
+}

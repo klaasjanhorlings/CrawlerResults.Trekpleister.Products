@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GUM Easy Flossers",
+  "code": "4093447",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2903 > 3700",
+  "supplier": "SUNSTAR BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3030991",
+  "mmkId": "3030991",
+  "productGroupId": "495980",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gum-easy-flossers/p/4093447",
+  "listName": "Lister",
+  "brand": "Gum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267225,
+      "name": "Flosdraad"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h95/hf8/34510016086046/prd-front-4093447-1_600x600/prd-front-4093447-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Fortnite 77077 Klombo",
+  "code": "6346247",
+  "price": "89.99",
+  "priceOriginal": "99.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/lego-fortnite-77077-klombo/p/6346247",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69035760,
+      "name": "LEGO Games"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h45/h37/35039117934622/prd-front-6346247-1_600x600/prd-front-6346247-1-600x600.jpg"
+}

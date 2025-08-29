@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Icons Boekensteun: The Lord of the Rings - Balrog",
+  "code": "6346296",
+  "price": "109.99",
+  "priceOriginal": "119.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/lego-icons-boekensteun-the-lord-of-the-rings-balrog/p/6346296",
+  "listName": "Lister",
+  "brand": "LEGO Icons",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69041468,
+      "name": "LEGO Films"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6f/ha0/35043230875678/prd-front-6346296-1_600x600/prd-front-6346296-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Speed Champions 77240 Bugatti Centodieci Hyper Sportauto",
+  "code": "6346835",
+  "price": "24.99",
+  "priceOriginal": "26.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 2,00",
+  "url": "/lego-speed-champions-77240-bugatti-centodieci-hyper-sportauto/p/6346835",
+  "listName": "Lister",
+  "brand": "LEGO Speed Champs.",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267375,
+      "name": "LEGO Speed Champions"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha1/h2e/34947024650270/prd-front-6346835-1_600x600/prd-front-6346835-1-600x600.jpg"
+}

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Bright Reveal Dark Spot SPF50+ UV Fluid",
+  "itemName": "L'Oréal Paris Bright Reveal Dark Spot SPF50+ UV Fluid Moisturizer",
   "code": "6020663",
   "price": "29.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "493276",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-bright-reveal-dark-spot-spf50-uv-fluid/p/6020663",
+  "url": "/loreal-paris-bright-reveal-dark-spot-spf50-uv-fluid-moisturizer/p/6020663",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h59/h6f/35136388202526/prd-front-6020663-1_600x600/prd-front-6020663-1-600x600.jpg"
+  "description": "50ml"
 }
