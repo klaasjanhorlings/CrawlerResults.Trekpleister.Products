@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Likdoornpleisters",
+  "code": "17650",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6448 > 3568",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3030829",
+  "mmkId": "3030829",
+  "productGroupId": "462381",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hansaplast-likdoornpleisters/p/17650",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267296,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414144,
+      "name": "Klassieke pleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 8 stuks"
+}

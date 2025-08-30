@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5929 > 6019 > 2197 > 2454 > 2957 > 3751",
   "supplier": "GROUPE SEB NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Huishoudelijke apparaten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hab/h85/32176771956766/prd-front-6054963-1_600x600/prd-front-6054963-1-600x600.jpg"
+  "description": ""
 }
