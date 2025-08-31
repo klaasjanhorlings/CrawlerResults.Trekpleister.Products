@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HALEON (NOVARTIS)",
-  "inStock": "inStock",
-  "onPromo": "3026657",
-  "mmkId": "3026657",
-  "productGroupId": "437814",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/centrum-select-50-multivitaminen-tabletten/p/1692272",
@@ -37,6 +37,5 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "180 stuks",
-  "image": "/medias/sys_master/prd-images/hfe/haa/33003166236702/prd-front-1692272-1_600x600/prd-front-1692272-1-600x600.jpg"
+  "description": "180 stuks"
 }
