@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3030895",
-  "mmkId": "3030895",
-  "productGroupId": "483580",
+  "onPromo": "3031125",
+  "mmkId": "3031125",
+  "productGroupId": "483675",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-fructis-pineapple-hair-food-shampoo/p/5802515",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "350ml",
-  "image": "/medias/sys_master/prd-images/h67/hfa/30141656760350/prd-front-5802515-1_600x600/prd-front-5802515-1-600x600.jpg"
+  "description": "350ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5720 > 3869",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3030940",
-  "mmkId": "3030940",
-  "productGroupId": "492209",
+  "onPromo": "3031090",
+  "mmkId": "3031090",
+  "productGroupId": "457134",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/king-c-gillette-double-edge-safety-razor-scheerapparaat/p/5397967",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": "Inclusief 5 scheermesjes"
+  "description": "Inclusief 5 scheermesjes",
+  "image": "/medias/sys_master/prd-images/hfb/h82/29287733919774/prd-front-5397967-1_600x600/prd-front-5397967-1-600x600.jpg"
 }

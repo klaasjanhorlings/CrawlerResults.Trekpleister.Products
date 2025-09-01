@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3030810",
-  "mmkId": "3030810",
-  "productGroupId": "490445",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-fresh-clean-billendoekjes/p/4746274",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "12 x 52 stuks",
-  "image": "/medias/sys_master/prd-images/h31/hba/31402597023774/prd-front-4746274-1_600x600/prd-front-4746274-1-600x600.jpg"
+  "description": "12 x 52 stuks"
 }

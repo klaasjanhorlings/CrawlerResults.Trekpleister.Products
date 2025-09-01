@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3030985",
-  "mmkId": "3030985",
-  "productGroupId": "495372",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-optimal-hydration-watergel/p/6027054",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "48g, vochtarme en vermoeide huid"
+  "description": "48g, vochtarme en vermoeide huid",
+  "image": "/medias/sys_master/prd-images/hb1/h91/34612293795870/prd-front-6027054-1_600x600/prd-front-6027054-1-600x600.jpg"
 }

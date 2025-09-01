@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "3030964",
-  "mmkId": "3030964",
-  "productGroupId": "493987",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tommy-vibrant-summer-eau-de-toillette/p/6035090",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hd7/ha1/34666559045662/prd-front-6035090-1_600x600/prd-front-6035090-1-600x600.jpg"
 }

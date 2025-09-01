@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2932 > 3727",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3030941",
-  "mmkId": "3030941",
-  "productGroupId": "492215",
+  "onPromo": "3031089",
+  "mmkId": "3031089",
+  "productGroupId": "457133",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-series-scheergel-voor-de-gevoelige-huid/p/20081",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hec/h04/28548741595166/prd-front-20081-1_600x600/prd-front-20081-1-600x600.jpg"
 }

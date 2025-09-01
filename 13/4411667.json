@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "NEW VALMAR BV",
   "inStock": "inStock",
-  "onPromo": "3031041",
-  "mmkId": "3031041",
-  "productGroupId": "498333",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nuby-6m-voedingslepeltjes-met-lange-handgreep/p/4411667",
@@ -33,6 +33,5 @@
       "name": "Kinderservies"
     }
   ],
-  "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/ha0/h3f/28576783499294/prd-front-4411667-1_600x600/prd-front-4411667-1-600x600.jpg"
+  "description": "4 stuks"
 }

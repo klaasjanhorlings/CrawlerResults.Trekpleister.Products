@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031026",
-  "mmkId": "3031026",
-  "productGroupId": "474673",
+  "onPromo": "3031177",
+  "mmkId": "3031177",
+  "productGroupId": "493281",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-revitalift-clinical-pure-vitamine-c-12-serum/p/5780654",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml - Alle huidtypen"
+  "description": "30ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/ha7/h3d/34615112826910/prd-front-5780654-1_600x600/prd-front-5780654-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5720 > 3869",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "3030953",
-  "mmkId": "3030953",
-  "productGroupId": "493454",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-oneblade-facebody-qp2834/23-trimmer-scheerapparaat-en-styler/p/6142036",
@@ -33,5 +33,6 @@
       "name": "Baardtrimmers"
     }
   ],
-  "description": "zilver"
+  "description": "zilver",
+  "image": "/medias/sys_master/prd-images/ha5/h19/34049102151710/prd-front-6142036-1_600x600/prd-front-6142036-1-600x600.jpg"
 }

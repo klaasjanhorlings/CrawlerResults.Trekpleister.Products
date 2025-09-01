@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3030931",
-  "mmkId": "3030931",
-  "productGroupId": "491829",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-ambre-solaire-invisible-protect-spf30-beschermende-mist/p/6243396",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h3e/hcf/34376626700318/prd-front-6243396-1_600x600/prd-front-6243396-1-600x600.jpg"
 }

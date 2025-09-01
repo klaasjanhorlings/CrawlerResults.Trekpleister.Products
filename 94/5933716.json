@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 6471 > 6474",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3030824",
-  "mmkId": "3030824",
-  "productGroupId": "460941",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/actimove-arm-sling/p/5933716",
@@ -33,5 +33,6 @@
       "name": "Sport, -blessures en herstel"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h16/hab/28570726432798/prd-front-5933716-1_600x600/prd-front-5933716-1-600x600.jpg"
 }

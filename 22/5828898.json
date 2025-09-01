@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031174",
+  "mmkId": "3031174",
+  "productGroupId": "493124",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-magic-retouch-4-middenbruin-permanente-haarkleuring/p/5828898",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "4",
-  "image": "/medias/sys_master/prd-images/h6f/h81/31766073409566/prd-front-5828898-1_600x600/prd-front-5828898-1-600x600.jpg"
+  "description": "4"
 }

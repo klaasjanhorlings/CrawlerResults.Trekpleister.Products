@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3030977",
-  "mmkId": "3030977",
-  "productGroupId": "494860",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tena-lady-discreet-mini-magic-inlegkruisjes/p/898360",
@@ -37,6 +37,5 @@
       "name": "Incontinentie-inlegkruisjes"
     }
   ],
-  "description": "34 stuks",
-  "image": "/medias/sys_master/prd-images/h7c/h28/29087850266654/prd-front-898360-1_600x600/prd-front-898360-1-600x600.jpg"
+  "description": "34 stuks"
 }

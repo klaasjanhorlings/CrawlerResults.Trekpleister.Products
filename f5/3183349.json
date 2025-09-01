@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3030845",
-  "mmkId": "3030845",
-  "productGroupId": "473520",
+  "onPromo": "3031136",
+  "mmkId": "3031136",
+  "productGroupId": "489242",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-fresh-natural-deodorant-spray/p/3183349",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h4d/ha4/34692263149598/prd-front-3183349-1_600x600/prd-front-3183349-1-600x600.jpg"
 }

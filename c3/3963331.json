@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3030973",
-  "mmkId": "3030973",
-  "productGroupId": "494687",
+  "onPromo": "3031200",
+  "mmkId": "3031200",
+  "productGroupId": "494661",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-echinacea-tabletten/p/3963331",
@@ -33,5 +33,6 @@
       "name": "Weerstand en of energie"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h64/hd7/28549870944286/prd-front-3963331-1_600x600/prd-front-3963331-1-600x600.jpg"
 }

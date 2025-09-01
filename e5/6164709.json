@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3030972",
-  "mmkId": "3030972",
-  "productGroupId": "494683",
+  "onPromo": "3031200",
+  "mmkId": "3031200",
+  "productGroupId": "494661",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-magnesium-multi-a-z-tabletten/p/6164709",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h40/h05/31700206977054/prd-front-6164709-1_600x600/prd-front-6164709-1-600x600.jpg"
 }

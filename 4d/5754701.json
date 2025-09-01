@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6776 > 6775 > 6777",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031118",
+  "mmkId": "3031118",
+  "productGroupId": "482886",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-salicylzuur-2-gel/p/5754701",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/ha8/hab/33479654375454/prd-front-5754701-1_600x600/prd-front-5754701-1-600x600.jpg"
+  "description": "50ml"
 }

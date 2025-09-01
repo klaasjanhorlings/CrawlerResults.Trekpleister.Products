@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4110",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "3030829",
-  "mmkId": "3030829",
-  "productGroupId": "462381",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-sensitive-xxl-pleisters/p/5137798",
@@ -37,6 +37,5 @@
       "name": "Sensitive pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 8cm x 10cm, 5 stuks",
-  "image": "/medias/sys_master/prd-images/hb4/h6e/32902651871262/prd-front-5137798-1_600x600/prd-front-5137798-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 8cm x 10cm, 5 stuks"
 }

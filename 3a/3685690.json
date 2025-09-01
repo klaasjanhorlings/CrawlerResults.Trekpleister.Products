@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3874",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "3030844",
-  "mmkId": "3030844",
-  "productGroupId": "473473",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-men-sport-deodorant-roller/p/3685690",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/prd-front-3685690-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjEzOTd8aW1hZ2UvanBlZ3xhREprTDJobFlpOHhOak14T0RVek9UUTJORGN6TkM5d2NtUXRabkp2Ym5RdE16WTROVFk1TUMweFh6WXdNSGcyTURBfGUwZTEyYzFmN2M2MzQwNDFkNmQwZDUxYWE5NzBiODc0NzNhMjRlZjMyZTU3MzBhM2NlY2UyMzVjNzI3MTVlNmY"
+  "description": "50ml"
 }

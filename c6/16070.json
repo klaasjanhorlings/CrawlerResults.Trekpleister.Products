@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2903 > 3700",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3030930",
-  "mmkId": "3030930",
-  "productGroupId": "491062",
+  "onPromo": "3031089",
+  "mmkId": "3031089",
+  "productGroupId": "457133",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-essential-waxed-dental-floss/p/16070",
@@ -33,5 +33,6 @@
       "name": "Flosdraad"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4d/he1/34497043431454/prd-front-16070-1_600x600/prd-front-16070-1-600x600.jpg"
 }

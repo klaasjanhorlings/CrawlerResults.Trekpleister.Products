@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "3030838",
-  "mmkId": "3030838",
-  "productGroupId": "471002",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-green-curls-rosemary-mint-hair-oil/p/5673690",
@@ -33,6 +33,5 @@
       "name": "Haarolie"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h7a/h31/28803538845726/prd-front-5673690-1_600x600/prd-front-5673690-1-600x600.jpg"
+  "description": "100ml"
 }

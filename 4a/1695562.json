@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
   "supplier": "BENCKMAR BV",
-  "inStock": "inStock",
-  "onPromo": "3030850",
-  "mmkId": "3030850",
-  "productGroupId": "475660",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-beckmann-pennen-inkt-vlekkenduivel-vlekkenverwijderaar/p/1695562",
@@ -29,6 +29,5 @@
       "name": "Vlekverwijderaars"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hfb/h51/34357000405022/prd-front-1695562-1_600x600/prd-front-1695562-1-600x600.jpg"
+  "description": "50ml"
 }
