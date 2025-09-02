@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fa Calming Glowing Gardenia Douchegel",
+  "code": "6323210",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3031134",
+  "mmkId": "3031134",
+  "productGroupId": "487890",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fa-calming-glowing-gardenia-douchegel/p/6323210",
+  "listName": "Lister",
+  "brand": "Fa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h67/hfe/34890096050206/prd-front-6323210-1_600x600/prd-front-6323210-1-600x600.jpg"
+}

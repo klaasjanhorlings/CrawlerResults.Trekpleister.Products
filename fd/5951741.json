@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanicur Dermo Oil Douchegel",
+  "code": "5951741",
+  "price": "1.0",
+  "priceOriginal": "2.5",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,50",
+  "url": "/sanicur-dermo-oil-douchegel/p/5951741",
+  "listName": "Lister",
+  "brand": "Sanicur",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h05/h41/28581332385822/prd-front-5951741-1_600x600/prd-front-5951741-1-600x600.jpg"
+}

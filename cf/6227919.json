@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 3066 > 3787",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031142",
+  "mmkId": "3031142",
+  "productGroupId": "489596",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-whole-body-lavender-camomile-deodorant-cream/p/6227919",
@@ -33,5 +33,6 @@
       "name": "Deodorant creme"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hf4/h55/33783475765278/prd-front-6227919-1_600x600/prd-front-6227919-1-600x600.jpg"
 }

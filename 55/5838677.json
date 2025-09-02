@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 5668",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031171",
+  "mmkId": "3031171",
+  "productGroupId": "492996",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dettol-no-touch-kids-citrus-antibacteriele-tonic-handzeep-navulling/p/5838677",
@@ -33,5 +33,6 @@
       "name": "Handzeep"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h7e/h7b/33893892063262/prd-front-5838677-1_600x600/prd-front-5838677-1-600x600.jpg"
 }

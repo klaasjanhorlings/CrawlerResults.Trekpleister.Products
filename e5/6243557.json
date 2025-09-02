@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6700",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h4e/h58/33111393796126/prd-front-6243557-1_600x600/prd-front-6243557-1-600x600.jpg"
+  "description": "300ml"
 }

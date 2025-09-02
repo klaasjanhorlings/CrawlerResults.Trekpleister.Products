@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aqua Laser Opvouwbare Mini-Wasmachine",
+  "code": "6043980",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 4901 > 4947 > 4993",
+  "supplier": "MESA PRODUCTS INTERN BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aqua-laser-opvouwbare-mini-wasmachine/p/6043980",
+  "listName": "Lister",
+  "brand": "Aqua Laser",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267101,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30267433,
+      "name": "Reisartikelen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2f/hdb/33736703213598/prd-front-6043980-1_600x600/prd-front-6043980-1-600x600.jpg"
+}
