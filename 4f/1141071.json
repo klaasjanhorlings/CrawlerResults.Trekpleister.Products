@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Extra Geconcentreerd Afwasmiddel",
+  "code": "1141071",
+  "price": "0.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 2942 > 3736",
+  "supplier": "MC BRIDE NV",
+  "inStock": "inStock",
+  "onPromo": "3031149",
+  "mmkId": "3031149",
+  "productGroupId": "490417",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-extra-geconcentreerd-afwasmiddel/p/1141071",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430563,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h73/h28/30867852427294/prd-front-1141071-1_600x600/prd-front-1141071-1-600x600.jpg"
+}

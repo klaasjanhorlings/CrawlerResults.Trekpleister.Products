@@ -21,8 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30267154,
-      "name": "Eau de parfum"
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654953,
+      "name": "Unisex parfum"
     }
   ],
   "description": "30ml",

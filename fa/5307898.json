@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Montagne Jeunesse Cucumber Peel Off Facemask Gezichtsmasker",
+  "code": "5307898",
+  "price": "9.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "3030840",
+  "mmkId": "3030840",
+  "productGroupId": "471996",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/montagne-jeunesse-cucumber-peel-off-facemask-gezichtsmasker/p/5307898",
+  "listName": "Lister",
+  "brand": "7th Heaven",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "5 stuks",
+  "image": "/medias/sys_master/prd-images/hc7/hb9/44000354402334/prd-front-5307898-1_600x600/prd-front-5307898-1-600x600.jpg"
+}

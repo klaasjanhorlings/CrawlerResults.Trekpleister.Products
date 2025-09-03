@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutral Parfumvrije Soapbar",
+  "code": "303369",
+  "price": "3.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2597 > 3262 > 3920",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3031141",
+  "mmkId": "3031141",
+  "productGroupId": "489594",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutral-parfumvrije-soapbar/p/303369",
+  "listName": "Lister",
+  "brand": "Neutral",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267209,
+      "name": "Zeepbar"
+    }
+  ],
+  "description": "2 x 100g",
+  "image": "/medias/sys_master/prd-images/hbc/hac/34868412448798/prd-front-303369-1_600x600/prd-front-303369-1-600x600.jpg"
+}

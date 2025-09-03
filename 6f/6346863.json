@@ -4,15 +4,15 @@
   "itemName": "LEGO Disney 43265 Frozen Kasteel Van Arendelle",
   "code": "6346863",
   "price": "27.99",
-  "priceOriginal": "29.99",
+  "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/lego-disney-43265-frozen-kasteel-van-arendelle/p/6346863",
   "listName": "Lister",
   "brand": "LEGO Disney",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 30267377,
-      "name": "LEGO Disney"
+      "id": 69041468,
+      "name": "LEGO Films"
     }
   ],
   "description": "",

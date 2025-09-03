@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Elnett Satin Sterke Fixatie Hairspray",
+  "itemName": "L'Oréal Paris Elnett Satin Sterke Fixatie Haarlak",
   "code": "4063872",
   "price": "6.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "483591",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-elnett-satin-sterke-fixatie-hairspray/p/4063872",
+  "url": "/loreal-paris-elnett-satin-sterke-fixatie-haarlak/p/4063872",
   "listName": "Lister",
   "brand": "Elnett",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Haarlak"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h42/h61/33991894597662/prd-front-4063872-1_600x600/prd-front-4063872-1-600x600.jpg"
+  "description": "200ml"
 }

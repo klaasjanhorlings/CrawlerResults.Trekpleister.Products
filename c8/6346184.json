@@ -4,7 +4,7 @@
   "itemName": "LEGO Art 31217 De Faunacollectie Tijger",
   "code": "6346184",
   "price": "54.99",
-  "priceOriginal": "59.99",
+  "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/lego-art-31217-de-faunacollectie-tijger/p/6346184",
   "listName": "Lister",
   "brand": "LEGO Art",
@@ -29,9 +29,10 @@
       "name": "LEGO"
     },
     {
-      "id": 94967647,
-      "name": "LEGO Art"
+      "id": 69045709,
+      "name": "LEGO Verjaardagscadeaus"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h33/h69/35038515232798/prd-front-6346184-1_600x600/prd-front-6346184-1-600x600.jpg"
 }

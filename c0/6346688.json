@@ -4,7 +4,7 @@
   "itemName": "LEGO City 60456 Achtervolging Met Politieboot",
   "code": "6346688",
   "price": "27.99",
-  "priceOriginal": "29.99",
+  "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/lego-city-60456-achtervolging-met-politieboot/p/6346688",
   "listName": "Lister",
   "brand": "LEGO City",
@@ -25,12 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30267076,
-      "name": "LEGO"
-    },
-    {
-      "id": 30267367,
-      "name": "LEGO City"
+      "id": 30267082,
+      "name": "Voertuigen"
     }
   ],
   "description": "",

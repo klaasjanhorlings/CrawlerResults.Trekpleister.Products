@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 2816 > 3789",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "inStock",
-  "onPromo": "3031181",
-  "mmkId": "3031181",
-  "productGroupId": "493466",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-oneblade-intimate-female-qp1924/22-scheerapparaat-en-trimmer/p/6142057",
@@ -29,8 +29,8 @@
       "name": "Scheren en ontharen"
     },
     {
-      "id": 30267236,
-      "name": "Scheerapparaten"
+      "id": 30267241,
+      "name": "Multigroomers"
     }
   ],
   "description": "1 stuk",

@@ -4,7 +4,7 @@
   "itemName": "LEGO Ninjago 71845 Lloyds Vliegtuigmecha",
   "code": "6346373",
   "price": "89.99",
-  "priceOriginal": "99.99",
+  "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "",
   "url": "/lego-ninjago-71845-lloyds-vliegtuigmecha/p/6346373",
   "listName": "Lister",
   "brand": "LEGO Ninjago",
@@ -33,6 +33,5 @@
       "name": "LEGO Ninjago"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hca/h06/35041367326750/prd-front-6346373-1_600x600/prd-front-6346373-1-600x600.jpg"
+  "description": ""
 }
