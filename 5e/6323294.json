@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Revitalift Laser Instant Eye Bag Corrector",
+  "itemName": "L'Oréal Paris Revitalift Laser Instant Eye Bag Eraser",
   "code": "6323294",
   "price": "35.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3031177",
-  "mmkId": "3031177",
-  "productGroupId": "493281",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-revitalift-laser-instant-eye-bag-corrector/p/6323294",
+  "url": "/loreal-paris-revitalift-laser-instant-eye-bag-eraser/p/6323294",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/hdc/ha2/34988411912222/prd-front-6323294-1_600x600/prd-front-6323294-1-600x600.jpg"
 }

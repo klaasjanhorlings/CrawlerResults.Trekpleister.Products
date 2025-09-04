@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "TRADE SENSE BV",
-  "inStock": "inStock",
-  "onPromo": "3031095",
-  "mmkId": "3031095",
-  "productGroupId": "470585",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organic-shop-hydrating-eye-gel-patch/p/5992390",
@@ -33,6 +33,5 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h74/hda/34534892437534/prd-front-5992390-1_600x600/prd-front-5992390-1-600x600.jpg"
+  "description": "60 stuks"
 }
