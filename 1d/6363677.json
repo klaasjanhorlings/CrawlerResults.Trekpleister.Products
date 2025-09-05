@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ralph Lauren Polo Blue Eau de Parfum",
+  "code": "6363677",
+  "price": "41.21",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
+  "supplier": "JTG BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ralph-lauren-polo-blue-eau-de-parfum/p/6363677",
+  "listName": "Lister",
+  "brand": "Ralph Lauren",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hb5/he9/35101188227102/prd-front-6363677-1_600x600/prd-front-6363677-1-600x600.jpg"
+}

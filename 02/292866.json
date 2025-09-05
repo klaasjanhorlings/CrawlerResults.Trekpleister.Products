@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Lipfinity Lip Colour 016 Glowing 2-Step Longlasting Lipstick",
+  "code": "292866",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-lipfinity-lip-colour-016-glowing-2-step-longlasting-lipstick/p/292866",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267139,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h88/hd5/35008944832542/prd-front-292866-1_600x600/prd-front-292866-1-600x600.jpg"
+}

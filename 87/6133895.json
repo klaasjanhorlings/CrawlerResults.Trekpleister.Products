@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Adidas Vibes Full Recharge Eau de Parfum",
+  "code": "6133895",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "3031186",
+  "mmkId": "3031186",
+  "productGroupId": "494063",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/adidas-vibes-full-recharge-eau-de-parfum/p/6133895",
+  "listName": "Lister",
+  "brand": "Adidas",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654953,
+      "name": "Unisex parfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h42/h54/32416603668510/prd-front-6133895-1_600x600/prd-front-6133895-1-600x600.jpg"
+}

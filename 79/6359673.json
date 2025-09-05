@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Facefinity Finity-Fix Setting Spray",
+  "code": "6359673",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-facefinity-finity-fix-setting-spray/p/6359673",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267151,
+      "name": "Fixing sprays"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h4d/h62/35007970181150/prd-front-6359673-1_600x600/prd-front-6359673-1-600x600.jpg"
+}

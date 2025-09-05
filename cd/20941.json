@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Sensor Scheermesjes",
+  "code": "20941",
+  "price": "19.94",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-sensor-scheermesjes/p/20941",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/hf6/h2a/29214891835422/prd-front-20941-1_600x600/prd-front-20941-1-600x600.jpg"
+}

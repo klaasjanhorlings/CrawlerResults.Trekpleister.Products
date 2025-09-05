@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3032 > 3774",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,8 +33,8 @@
       "name": "Pleisters"
     },
     {
-      "id": 73414173,
-      "name": "Kinderpleisters"
+      "id": 73414206,
+      "name": "Sensitive pleisters"
     }
   ],
   "description": "Medisch hulpmiddel - 1m x 6cm",

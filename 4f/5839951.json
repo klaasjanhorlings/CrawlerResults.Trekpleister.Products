@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "inStock",
-  "onPromo": "3031148",
-  "mmkId": "3031148",
-  "productGroupId": "490237",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmolive-aroma-essence-alluring-love-douchegel/p/5839951",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml - Normale huid"
+  "description": "250ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hc5/h77/33905869946910/prd-front-5839951-1_600x600/prd-front-5839951-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031134",
+  "mmkId": "3031134",
+  "productGroupId": "487890",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-men-perfect-wave-douchegel-shampoo/p/1089971",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hc3/hdc/29788089843742/prd-front-1089971-1_600x600/prd-front-1089971-1-600x600.jpg"
 }

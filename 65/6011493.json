@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Melt & Shine Juicy 010 Shell Yeah! Lip Balm",
+  "code": "6011493",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-melt-shine-juicy-010-shell-yeah-lip-balm/p/6011493",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267140,
+      "name": "Lipgloss"
+    }
+  ],
+  "description": "1,3g",
+  "image": "/medias/sys_master/prd-images/hf8/h21/29938980716574/prd-front-6011493-1_600x600/prd-front-6011493-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dolce & Gabbana Light Blue Eau de Toilette",
+  "code": "4839836",
+  "price": "59.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dolce-gabbana-light-blue-eau-de-toilette/p/4839836",
+  "listName": "Lister",
+  "brand": "Dolce & Gabbana",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h10/h70/35101784637470/prd-front-4839836-1_600x600/prd-front-4839836-1-600x600.jpg"
+}

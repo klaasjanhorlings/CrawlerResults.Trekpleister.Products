@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031142",
+  "mmkId": "3031142",
+  "productGroupId": "489596",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-dark-temptation-xl-deodorant-bodyspray/p/2947617",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h58/h12/33197339082782/prd-front-2947617-1_600x600/prd-front-2947617-1-600x600.jpg"
 }

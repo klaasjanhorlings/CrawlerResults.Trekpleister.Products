@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kenzo Flower by Kenzo Light Eau de Toilette",
+  "code": "6364041",
+  "price": "28.4",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kenzo-flower-by-kenzo-light-eau-de-toilette/p/6364041",
+  "listName": "Lister",
+  "brand": "Kenzo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h06/h5f/35175169064990/prd-front-6364041-1_600x600/prd-front-6364041-1-600x600.jpg"
+}

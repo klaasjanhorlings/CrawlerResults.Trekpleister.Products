@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Max It Up 10 Spicy Plumper Extreme Lip Booster",
+  "code": "5911932",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-max-it-up-10-spicy-plumper-extreme-lip-booster/p/5911932",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267139,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h33/h3e/29942037643294/prd-front-5911932-1_600x600/prd-front-5911932-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "wit",
-  "image": "/medias/sys_master/prd-images/hc1/h3b/44139601854494/prd-front-6166956-1_600x600/prd-front-6166956-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h37/h08/44144795811870/prd-front-6166956-1_600x600/prd-front-6166956-1-600x600.jpg"
 }

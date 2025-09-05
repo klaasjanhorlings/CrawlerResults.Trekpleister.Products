@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Colour Elixir Velvet Matte 20 Marilyn Rose Lipstick",
+  "code": "3995671",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-colour-elixir-velvet-matte-20-marilyn-rose-lipstick/p/3995671",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267139,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1b/h8a/28549928189982/prd-front-3995671-1_600x600/prd-front-3995671-1-600x600.jpg"
+}
