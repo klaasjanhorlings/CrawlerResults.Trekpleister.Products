@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
   "supplier": "UNILEVER NEDERLAND",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Vaatwaspoeder"
     }
   ],
-  "description": "1360g",
-  "image": "/medias/sys_master/prd-images/h76/hf3/44155708669982/prd-front-5782887-1_600x600/prd-front-5782887-1-600x600.jpg"
+  "description": "1360g"
 }
