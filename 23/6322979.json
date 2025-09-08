@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h75/h7b/44173677297694/prd-front-6322979-1_600x600/prd-front-6322979-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h70/h36/44179645890590/prd-front-6322979-1_600x600/prd-front-6322979-1-600x600.jpg"
 }

@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jumbo Wasgij? Original Ballroom Blushes Puzzel",
+  "code": "6340325",
+  "price": "6.99",
+  "priceOriginal": "13.99",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
+  "supplier": "JUMBO NL BV",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
+  "brandType": "A of B merk",
+  "discount": "€ 7,00",
+  "url": "/jumbo-wasgij-original-ballroom-blushes-puzzel/p/6340325",
+  "listName": "Lister",
+  "brand": "Jumbo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "500 stukjes"
+}

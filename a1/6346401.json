@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-star-wars-75408-jango-fett-helm/p/6346401",
@@ -33,6 +33,5 @@
       "name": "LEGO Star Wars"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha4/h0b/35040671989790/prd-front-6346401-1_600x600/prd-front-6346401-1-600x600.jpg"
+  "description": ""
 }

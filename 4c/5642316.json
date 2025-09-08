@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-icons-10311-botanical-collection-orchidee/p/5642316",
@@ -33,5 +33,6 @@
       "name": "LEGO Bloemen"
     }
   ],
-  "description": "39cm x 30cm x 24cm"
+  "description": "39cm x 30cm x 24cm",
+  "image": "/medias/sys_master/prd-images/h7b/h08/31095842045982/prd-front-5642316-1_600x600/prd-front-5642316-1-600x600.jpg"
 }

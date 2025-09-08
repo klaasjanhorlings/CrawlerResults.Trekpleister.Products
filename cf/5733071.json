@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 2884 > 4077",
   "supplier": "RB HYGIENE HOME NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031263",
+  "mmkId": "3031263",
+  "productGroupId": "490269",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/air-wick-essential-mist-innerlijke-rust-navulling/p/5733071",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/hcb/h41/31241002549278/prd-front-5733071-1_600x600/prd-front-5733071-1-600x600.jpg"
 }

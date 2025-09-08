@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "e.l.f. Lash XTNDR Deep Brown Mascara",
   "code": "6275610",
-  "price": "8.0",
+  "price": "9.0",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "ELF BEAUTY UK LIMITED",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "7g",
-  "image": "/medias/sys_master/prd-images/h91/h12/34039956242462/prd-front-6275610-1_600x600/prd-front-6275610-1-600x600.jpg"
+  "description": "7g"
 }

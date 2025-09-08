@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "e.l.f. Coconut Dewy Setting Mist",
   "code": "6275792",
-  "price": "12.0",
+  "price": "13.0",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ELF BEAUTY UK LIMITED",
@@ -33,6 +33,5 @@
       "name": "Fixing sprays"
     }
   ],
-  "description": "80ml",
-  "image": "/medias/sys_master/prd-images/h5d/h50/34282909237278/prd-front-6275792-1_600x600/prd-front-6275792-1-600x600.jpg"
+  "description": "80ml"
 }

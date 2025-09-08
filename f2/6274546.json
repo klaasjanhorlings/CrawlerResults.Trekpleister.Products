@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "e.l.f. Smoke Signal Smokey Kohl Eyeliner",
   "code": "6274546",
-  "price": "4.0",
+  "price": "5.0",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
   "supplier": "ELF BEAUTY UK LIMITED",
@@ -33,6 +33,5 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1g",
-  "image": "/medias/sys_master/prd-images/heb/h5d/34287257387038/prd-front-6274546-1_600x600/prd-front-6274546-1-600x600.jpg"
+  "description": "1g"
 }

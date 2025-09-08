@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-super-mario-72035-mario-kart-toads-garage/p/6232539",
@@ -33,6 +33,5 @@
       "name": "LEGO Super Mario"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h57/hfd/33065319432222/prd-front-6232539-1_600x600/prd-front-6232539-1-600x600.jpg"
+  "description": ""
 }

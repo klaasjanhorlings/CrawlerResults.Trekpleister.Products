@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "e.l.f. Soft Glam 63 Rich Warm Satin Foundation",
   "code": "6274777",
-  "price": "9.0",
+  "price": "10.0",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ELF BEAUTY UK LIMITED",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h32/he6/34020653432862/prd-front-6274777-1_600x600/prd-front-6274777-1-600x600.jpg"
+  "description": "30ml"
 }
