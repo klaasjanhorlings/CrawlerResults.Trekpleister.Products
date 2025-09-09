@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-city-60470-onderzoekstrein-op-de-noordpool/p/6349901",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hc4/h0b/44173518635038/prd-front-6349901-1_600x600/prd-front-6349901-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd1/h54/44187358560286/prd-front-6349901-1_600x600/prd-front-6349901-1-600x600.jpg"
 }

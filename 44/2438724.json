@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031134",
+  "mmkId": "3031134",
+  "productGroupId": "487890",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-men-sport-energy-boost-3-in-1-douchegel/p/2438724",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h67/h64/28547008266270/prd-front-2438724-1_600x600/prd-front-2438724-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5e/hc1/44187349385246/prd-front-2438724-1_600x600/prd-front-2438724-1-600x600.jpg"
 }

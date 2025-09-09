@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-city-60400-karts-en-racers/p/6003247",
@@ -33,6 +33,5 @@
       "name": "LEGO City"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/had/h53/34956318048286/prd-front-6003247-1_600x600/prd-front-6003247-1-600x600.jpg"
+  "description": ""
 }

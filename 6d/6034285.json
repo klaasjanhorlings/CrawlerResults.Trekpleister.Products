@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Botanical Collection 10329 Miniplantjes",
+  "code": "6034285",
+  "price": "44.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-botanical-collection-10329-miniplantjes/p/6034285",
+  "listName": "Lister",
+  "brand": "LEGO Botanicals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69027504,
+      "name": "LEGO Volwassenen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he5/ha4/31178582720542/prd-front-6034285-1_600x600/prd-front-6034285-1-600x600.jpg"
+}

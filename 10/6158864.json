@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guess Sexy Skin Metallique Mojito Bodymist",
+  "code": "6158864",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/guess-sexy-skin-metallique-mojito-bodymist/p/6158864",
+  "listName": "Lister",
+  "brand": "Guess",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h0c/h02/31843255222302/prd-front-6158864-1_600x600/prd-front-6158864-1-600x600.jpg"
+}

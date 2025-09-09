@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Hyaluron Intense Hydratatie Sheetmasker",
+  "code": "6034964",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "FEMIA COSMETIC",
+  "inStock": "inStock",
+  "onPromo": "3031104",
+  "mmkId": "3031104",
+  "productGroupId": "477813",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-hyaluron-intense-hydratatie-sheetmasker/p/6034964",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc5/hbf/30149686919198/prd-front-6034964-1_600x600/prd-front-6034964-1-600x600.jpg"
+}

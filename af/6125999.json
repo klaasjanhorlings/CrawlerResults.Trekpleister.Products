@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Babybadschuim"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/hf8/h56/31371523719198/prd-front-6125999-1_600x600/prd-front-6125999-1-600x600.jpg"
+  "description": "300ml"
 }

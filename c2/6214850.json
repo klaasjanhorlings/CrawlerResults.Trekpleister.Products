@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 2942 > 3736",
   "supplier": "GREEN SOAP COMPANY BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3021955",
+  "mmkId": "3021955",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
@@ -29,6 +29,5 @@
       "name": "Afwasmiddel"
     }
   ],
-  "description": "6 x 500ml",
-  "image": "/medias/sys_master/prd-images/h41/h0d/35138298576926/prd-front-6214850-1_600x600/prd-front-6214850-1-600x600.jpg"
+  "description": "6 x 500ml"
 }

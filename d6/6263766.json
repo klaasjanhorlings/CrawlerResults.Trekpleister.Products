@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schwarzkopf Creme Supreme 7-0 Natuurlijk Donkerblond Verzorgende Crèmekleuring",
+  "code": "6263766",
+  "price": "20.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3031153",
+  "mmkId": "3031153",
+  "productGroupId": "490884",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schwarzkopf-creme-supreme-7-0-natuurlijk-donkerblond-verzorgende-cremekleuring/p/6263766",
+  "listName": "Lister",
+  "brand": "Schwarzkopf creme supreme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "182g",
+  "image": "/medias/sys_master/prd-images/h59/hc0/34182500089886/prd-front-6263766-1_600x600/prd-front-6263766-1-600x600.jpg"
+}
