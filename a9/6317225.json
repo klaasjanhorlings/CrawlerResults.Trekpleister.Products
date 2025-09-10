@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "MCoBeauty XtendLash Black Mascara",
+  "itemName": "MCoBeauty XtendLash Black Tubing Mascara",
   "code": "6317225",
   "price": "9.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/mcobeauty-xtendlash-black-mascara/p/6317225",
+  "url": "/mcobeauty-xtendlash-black-tubing-mascara/p/6317225",
   "listName": "Lister",
   "brand": "MCoBeauty",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "8ml",
-  "image": "/medias/sys_master/prd-images/h94/hfc/34816583991326/prd-front-6317225-1_600x600/prd-front-6317225-1-600x600.jpg"
+  "description": "8ml"
 }

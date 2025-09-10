@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leefvitaal Vitamine D Kauwtabletten",
+  "code": "4951864",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3031116",
+  "mmkId": "3031116",
+  "productGroupId": "482670",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/leefvitaal-vitamine-d-kauwtabletten/p/4951864",
+  "listName": "Lister",
+  "brand": "Leefvitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
+    }
+  ],
+  "description": "80 stuks",
+  "image": "/medias/sys_master/prd-images/h25/hd7/29570366570526/prd-front-4951864-1_600x600/prd-front-4951864-1-600x600.jpg"
+}

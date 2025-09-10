@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
   "supplier": "DRYLOCK TECHNOLOGIES SR",
-  "inStock": "inStock",
-  "onPromo": "3031119",
-  "mmkId": "3031119",
-  "productGroupId": "483548",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-ultra-extra-long-plus-maandverband/p/1377832",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/hfa/h21/28551259422750/prd-front-1377832-1_600x600/prd-front-1377832-1-600x600.jpg"
+  "description": "10 stuks"
 }

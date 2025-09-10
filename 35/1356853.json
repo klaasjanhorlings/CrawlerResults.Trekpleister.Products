@@ -21,21 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30267262,
-      "name": "Luchtwegen"
-    },
-    {
-      "id": 49313535,
-      "name": "Neusreiniger"
+      "id": 75860503,
+      "name": "Baby en Kind gezondheid"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h59/h71/34889472540702/prd-front-1356853-1_600x600/prd-front-1356853-1-600x600.jpg"
 }

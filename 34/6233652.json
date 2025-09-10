@@ -29,9 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267147,
-      "name": "Blush"
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267140,
+      "name": "Lipgloss"
     }
   ],
-  "description": "5.5g"
+  "description": "5.5g",
+  "image": "/medias/sys_master/prd-images/hf1/h0e/33044477313054/prd-front-6233652-1_600x600/prd-front-6233652-1-600x600.jpg"
 }

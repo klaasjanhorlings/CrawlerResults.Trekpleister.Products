@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Bali Flower Shower Satin",
+  "code": "1984305",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "3031099",
+  "mmkId": "3031099",
+  "productGroupId": "475443",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-bali-flower-shower-satin/p/1984305",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h0b/h13/33075314360350/prd-front-1984305-1_600x600/prd-front-1984305-1-600x600.jpg"
+}

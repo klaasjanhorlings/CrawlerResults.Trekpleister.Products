@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
   "supplier": "GREEN SOAP COMPANY BV",
-  "inStock": "inStock",
-  "onPromo": "3021955",
-  "mmkId": "3021955",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
@@ -29,6 +29,5 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "3L, 69 wasbeurten",
-  "image": "/medias/sys_master/prd-images/ha4/hcf/35137912668190/prd-front-6199359-1_600x600/prd-front-6199359-1-600x600.jpg"
+  "description": "3L, 69 wasbeurten"
 }

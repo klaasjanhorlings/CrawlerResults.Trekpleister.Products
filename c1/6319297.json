@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jumbo Knibbel Knabbel Knuisje",
+  "code": "6319297",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 6740 > 6739 > 6741",
+  "supplier": "JUMBO NL BV",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jumbo-knibbel-knabbel-knuisje/p/6319297",
+  "listName": "Lister",
+  "brand": "Jumbo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9e/h0a/34646121250846/prd-front-6319297-1_600x600/prd-front-6319297-1-600x600.jpg"
+}

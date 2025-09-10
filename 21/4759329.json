@@ -7,7 +7,7 @@
   "priceOriginal": "22.99",
   "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6427",
   "supplier": "INVENTUM HUISHOUDELIJKE",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,8 +33,8 @@
       "name": "Haarstylers"
     },
     {
-      "id": 30267493,
-      "name": "Föhns"
+      "id": 30267496,
+      "name": "Krultangen"
     }
   ],
   "description": "",

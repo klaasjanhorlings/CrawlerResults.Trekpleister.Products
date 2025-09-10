@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "OMEGA PHARMA NEDERLAND",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267042,
+      "name": "Skincare"
     },
     {
-      "id": 30267256,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 30267499,
-      "name": "Littekencremes"
+      "id": 30267160,
+      "name": "Nachtcreme"
     }
   ],
   "description": "25ml - Probleemhuid",
