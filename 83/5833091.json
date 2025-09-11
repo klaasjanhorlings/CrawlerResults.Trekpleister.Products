@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 6463 > 6464 > 6401",
   "supplier": "TRIPLE A MARKETING GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031078",
+  "mmkId": "3031078",
+  "productGroupId": "495513",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/satisfyer-pro-2-generation-3-vibrator/p/5833091",
@@ -37,5 +37,6 @@
       "name": "Satisfier"
     }
   ],
-  "description": "6,5cm x 4,6cm x 16,4cm"
+  "description": "6,5cm x 4,6cm x 16,4cm",
+  "image": "/medias/sys_master/prd-images/h77/hf6/28579703881758/prd-front-5833091-1_600x600/prd-front-5833091-1-600x600.jpg"
 }

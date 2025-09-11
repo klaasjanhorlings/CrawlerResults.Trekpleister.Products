@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3031275",
-  "mmkId": "3031275",
-  "productGroupId": "494713",
+  "onPromo": "3031142",
+  "mmkId": "3031142",
+  "productGroupId": "489596",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-dermaspa-summer-revived-fair-bodylotion/p/3522254",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hcd/h9a/33975636819998/prd-front-3522254-1_600x600/prd-front-3522254-1-600x600.jpg"
 }
