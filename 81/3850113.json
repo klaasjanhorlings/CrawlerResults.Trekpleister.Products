@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Studio 100 Bumba Verstoppertje Spelen",
+  "code": "3850113",
+  "price": "9.99",
+  "priceOriginal": "17.99",
+  "itemBgbcat": "5921 > 6018 > 2181 > 6737 > 6736 > 6738",
+  "supplier": "IDENTITY GAMES INT. BV",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
+  "brandType": "A of B merk",
+  "discount": "€ 8,00",
+  "url": "/studio-100-bumba-verstoppertje-spelen/p/3850113",
+  "listName": "Lister",
+  "brand": "Bumba",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267086,
+      "name": "Elektronisch speelgoed"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h85/h9f/30266346438686/prd-front-3850113-1_600x600/prd-front-3850113-1-600x600.jpg"
+}

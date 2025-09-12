@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Identity Games Name That Tune Hits Spel",
+  "code": "6348466",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
+  "supplier": "IDENTITY GAMES INT. BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/identity-games-name-that-tune-hits-spel/p/6348466",
+  "listName": "Lister",
+  "brand": "Identity Games",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281487,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha3/h17/35102364696606/prd-front-6348466-1_600x600/prd-front-6348466-1-600x600.jpg"
+}

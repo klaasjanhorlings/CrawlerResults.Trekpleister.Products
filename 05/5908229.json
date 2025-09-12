@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Fa Cocomilk Douchecrème",
+  "itemName": "Fa Coconut Milk Douchecrème",
   "code": "5908229",
   "price": "4.29",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "487890",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/fa-cocomilk-douchecreme/p/5908229",
+  "url": "/fa-coconut-milk-douchecreme/p/5908229",
   "listName": "Lister",
   "brand": "Fa",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30267204,
-      "name": "Douchecrème"
+      "id": 30267205,
+      "name": "Douchegel"
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h28/h84/31037188276254/prd-front-5908229-1_600x600/prd-front-5908229-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h76/hc2/44219640545310/prd-front-5908229-1_600x600/prd-front-5908229-1-600x600.jpg"
 }

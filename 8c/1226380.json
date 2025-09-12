@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister 6-Uurs Theelichten",
+  "code": "1226380",
+  "price": "4.59",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 6679 > 2146 > 2631 > 2889 > 3664",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-6-uurs-theelichten/p/1226380",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267452,
+      "name": "Kaarsen"
+    }
+  ],
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/hda/hda/44218811514910/prd-front-1226380-1_600x600/prd-front-1226380-1-600x600.jpg"
+}

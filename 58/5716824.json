@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath Sequence Junior Spel",
+  "code": "5716824",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5161 > 5212 > 5401",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goliath-sequence-junior-spel/p/5716824",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8a/hdd/28561916035102/prd-front-5716824-1_600x600/prd-front-5716824-1-600x600.jpg"
+}

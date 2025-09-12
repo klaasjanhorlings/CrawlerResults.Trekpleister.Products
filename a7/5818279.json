@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mattel Minecraft Uno",
+  "code": "5818279",
+  "price": "5.99",
+  "priceOriginal": "11.99",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
+  "brandType": "A of B merk",
+  "discount": "€ 6,00",
+  "url": "/mattel-minecraft-uno/p/5818279",
+  "listName": "Lister",
+  "brand": "Mattel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281487,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5818279-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA4MTUwfGltYWdlL2pwZWd8YURNNEwyaGhNUzh5TmpVMU9UYzBORGMzTURBM09DOXdjbVF0Wm5KdmJuUXROVGd4T0RJM09TMHhYell3TUhnMk1EQXxjZmY1YTIxNzFjZjczZGE3OWM1NTMzOTc0OTdmNGMyNzBmMDcyNTViN2Q1MTI2MTVlZjI4Njk4YjRlNTg2YjE4"
+}

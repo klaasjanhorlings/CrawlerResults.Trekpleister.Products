@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nijntje Huisje, Boompje, Maan",
+  "code": "3860746",
+  "price": "4.99",
+  "priceOriginal": "8.99",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
+  "supplier": "IDENTITY GAMES INT. BV",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
+  "brandType": "A of B merk",
+  "discount": "€ 4,00",
+  "url": "/nijntje-huisje-boompje-maan/p/3860746",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281487,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h7a/h08/33808287858718/prd-front-3860746-1_600x600/prd-front-3860746-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nijntje Wat Mist Er?",
+  "code": "6358399",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
+  "supplier": "IDENTITY GAMES INT. BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nijntje-wat-mist-er/p/6358399",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281487,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/hc5/h65/34996337541150/prd-front-6358399-1_600x600/prd-front-6358399-1-600x600.jpg"
+}

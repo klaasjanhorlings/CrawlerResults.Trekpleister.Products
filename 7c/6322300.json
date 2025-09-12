@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Edet Vochtig Toiletpapier",
+  "code": "6322300",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4082",
+  "supplier": "ESSITY",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/edet-vochtig-toiletpapier/p/6322300",
+  "listName": "Lister",
+  "brand": "Edet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267124,
+      "name": "Vochtig toiletpapier"
+    }
+  ],
+  "description": "80 stuks",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

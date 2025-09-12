@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L’Oréal Paris Infaillible 32H Fresh Wear 330 Hazelnut Foundation in A Powder",
+  "itemName": "L’Oréal Paris Infaillible 24H Fresh Wear 330 Hazelnut Foundation in A Powder",
   "code": "5580688",
   "price": "19.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "482094",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-infaillible-32h-fresh-wear-330-hazelnut-foundation-in-a-powder/p/5580688",
+  "url": "/loreal-paris-infaillible-24h-fresh-wear-330-hazelnut-foundation-in-a-powder/p/5580688",
   "listName": "Lister",
   "brand": "L'Oreal",
   "mpOrigin": "Kruidvat",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30267144,
-      "name": "Gezichtspoeder"
+      "id": 30267134,
+      "name": "Foundation"
     }
   ],
   "description": "9g",

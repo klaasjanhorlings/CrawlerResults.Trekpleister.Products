@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bolsius Cleanlight Cypress & Amber Starterkit",
+  "code": "6131557",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 6679 > 2146 > 2351 > 2704 > 3407",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bolsius-cleanlight-cypress-amber-starterkit/p/6131557",
+  "listName": "Lister",
+  "brand": "Bolsius",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267452,
+      "name": "Kaarsen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1d/had/44219941781534/prd-front-6131557-1_600x600/prd-front-6131557-1-600x600.jpg"
+}

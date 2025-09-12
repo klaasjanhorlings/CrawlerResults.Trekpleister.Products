@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Play-Doh Blooming Flowers Kleiset",
+  "code": "6335530",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/play-doh-blooming-flowers-kleiset/p/6335530",
+  "listName": "Lister",
+  "brand": "Play-Doh",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267081,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5a/he1/34890318512158/prd-front-6335530-1_600x600/prd-front-6335530-1-600x600.jpg"
+}

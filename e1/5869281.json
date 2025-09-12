@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clementoni Disney Baby My Fun Book",
+  "code": "5869281",
+  "price": "3.99",
+  "priceOriginal": "14.99",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
+  "brandType": "Ander merk",
+  "discount": "€ 11,00",
+  "url": "/clementoni-disney-baby-my-fun-book/p/5869281",
+  "listName": "Lister",
+  "brand": "Clementoni",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 49281783,
+      "name": "Interactief speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h00/hf7/44131761618974/prd-front-5869281-1_600x600/prd-front-5869281-1-600x600.jpg"
+}

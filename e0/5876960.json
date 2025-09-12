@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Nicorette Invisi 10mg Nicotinepleisters",
   "code": "5876960",
-  "price": "30.0",
+  "price": "20.0",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 4054",
   "supplier": "KENVUE",
@@ -37,5 +37,6 @@
       "name": "Nicotinepleisters"
     }
   ],
-  "description": "Geneesmiddel - 14 stuks"
+  "description": "Geneesmiddel - 14 stuks",
+  "image": "/medias/sys_master/prd-images/h35/h96/34889941745694/prd-front-5876960-1_600x600/prd-front-5876960-1-600x600.jpg"
 }

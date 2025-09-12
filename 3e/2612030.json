@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister 8-Uurs Theelichten",
+  "code": "2612030",
+  "price": "4.59",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 6679 > 2146 > 2631 > 2889 > 3664",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-8-uurs-theelichten/p/2612030",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267452,
+      "name": "Kaarsen"
+    }
+  ],
+  "description": "35 stuks",
+  "image": "/medias/sys_master/prd-images/h22/h59/44187023245342/prd-front-2612030-1_600x600/prd-front-2612030-1-600x600.jpg"
+}

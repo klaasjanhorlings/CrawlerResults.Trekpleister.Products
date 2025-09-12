@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playing Kids Houten Snijset",
+  "code": "6323532",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 4640 > 5190 > 5369 > 5558",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/playing-kids-houten-snijset/p/6323532",
+  "listName": "Lister",
+  "brand": "Playing Kids",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267087,
+      "name": "Houten speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7c/h2d/35144053391390/prd-front-6323532-1_600x600/prd-front-6323532-1-600x600.jpg"
+}

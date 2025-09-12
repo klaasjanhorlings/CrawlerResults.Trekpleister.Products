@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playing Kids Unicorn Verjaardagstaart",
+  "code": "6323588",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 4640 > 5190 > 5369 > 5558",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/playing-kids-unicorn-verjaardagstaart/p/6323588",
+  "listName": "Lister",
+  "brand": "Playing Kids",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267087,
+      "name": "Houten speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0a/hf4/35101196058654/prd-front-6323588-1_600x600/prd-front-6323588-1-600x600.jpg"
+}

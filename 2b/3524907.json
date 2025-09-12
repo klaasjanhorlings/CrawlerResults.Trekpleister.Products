@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Fa Oriental Moments Deodorant Spray",
+  "itemName": "Fa Energising Oriental Neroli Deodorant Spray",
   "code": "3524907",
   "price": "4.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "487890",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/fa-oriental-moments-deodorant-spray/p/3524907",
+  "url": "/fa-energising-oriental-neroli-deodorant-spray/p/3524907",
   "listName": "Lister",
   "brand": "Fa",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hcc/hca/44214623207454/prd-front-3524907-1_600x600/prd-front-3524907-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tempo Plus Soft & Sensitive Zakdoekjes",
+  "code": "3623460",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2537 > 3165 > 3758",
+  "supplier": "ESSITY",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tempo-plus-soft-sensitive-zakdoekjes/p/3623460",
+  "listName": "Lister",
+  "brand": "Tempo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267125,
+      "name": "Tissues en zakdoekjes"
+    }
+  ],
+  "description": "8 x 9 stuks",
+  "image": "/medias/sys_master/prd-images/h22/hc8/30359413817374/prd-front-3623460-1_600x600/prd-front-3623460-1-600x600.jpg"
+}

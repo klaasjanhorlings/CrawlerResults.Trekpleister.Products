@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031268",
+  "mmkId": "3031268",
+  "productGroupId": "494134",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-city-60464-f1-williams-racing-en-haas-f1-racewagens/p/6225336",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69032145,
-      "name": "LEGO Voertuigen"
+      "id": 30267367,
+      "name": "LEGO City"
     }
   ],
   "description": "",

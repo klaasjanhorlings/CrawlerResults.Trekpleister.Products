@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Fa Luxurious Moments Douchegel",
+  "itemName": "Fa Luxurious Viola Douchegel",
   "code": "2595286",
   "price": "4.29",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "487890",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/fa-luxurious-moments-douchegel/p/2595286",
+  "url": "/fa-luxurious-viola-douchegel/p/2595286",
   "listName": "Lister",
   "brand": "Fa",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/prd-front-2595286-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE3OTR8aW1hZ2UvanBlZ3xhR1ZrTDJobU1DOHhOelEwTmpFNU9UWTRPVEkwTmk5d2NtUXRabkp2Ym5RdE1qVTVOVEk0TmkweFh6WXdNSGcyTURBfDM1YTcwODA1NWJhZTY3NzA3MTUzNDA2ZmU5YTUzYTZlMWFlZTAwZDY4YmI3ZjJiYjZkMDk1MjkzOWVkNmU2Nzk"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

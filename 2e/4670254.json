@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
   "supplier": "OMEGA PHARMA NEDERLAND",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267552,
-      "name": "Multivitamines"
+      "id": 30267274,
+      "name": "Weerstand en of energie"
     }
   ],
   "description": "60 stuks",

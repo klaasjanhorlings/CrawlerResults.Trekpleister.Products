@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Simply Venus3 Plus Wegwerpscheermesjes",
+  "code": "3268651",
+  "price": "7.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3790",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3031089",
+  "mmkId": "3031089",
+  "productGroupId": "457133",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-simply-venus3-plus-wegwerpscheermesjes/p/3268651",
+  "listName": "Lister",
+  "brand": "Gillette Venus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "6 stuks",
+  "image": "/medias/prd-front-3268651-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjgzOTh8aW1hZ2UvanBlZ3xhRFJtTDJoaU1TOHhOalUzTVRZM016QTFNVEUyTmk5d2NtUXRabkp2Ym5RdE16STJPRFkxTVMweFh6WXdNSGcyTURBfGU3OTNmNGQ2ODk2ZWI2MzY5ZmNjMTI3N2Y5MTJkZmNjYTJkNzhiODhhODBhM2Y1ZTVlMzVkM2I2ZmYxNzljMzk"
+}
