@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 3437",
   "supplier": "NEW FLAG BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,18 +21,21 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267040,
-      "name": "Geschenksets"
+      "id": 30267249,
+      "name": "Haarstylingproducten"
     },
     {
-      "id": 72666175,
-      "name": "Geschenkset voor haar"
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267496,
+      "name": "Krultangen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1e/h58/32568064344094/prd-front-6223432-1_600x600/prd-front-6223432-1-600x600.jpg"
+  "description": ""
 }

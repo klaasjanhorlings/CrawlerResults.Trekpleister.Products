@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "14 stuks"
+  "description": "14 stuks",
+  "image": "/medias/sys_master/prd-images/hc1/hcd/33640880177182/prd-front-5596606-1_600x600/prd-front-5596606-1-600x600.jpg"
 }

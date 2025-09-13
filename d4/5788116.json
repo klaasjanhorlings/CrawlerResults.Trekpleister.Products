@@ -8,8 +8,8 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Puntenslijpers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/heb/h28/35013676204062/prd-front-5788116-1_600x600/prd-front-5788116-1-600x600.jpg"
 }

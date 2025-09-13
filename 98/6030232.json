@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
   "supplier": "HENKEL NEDERLAND BV U-W",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3022615",
+  "mmkId": "3022615",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -29,5 +29,6 @@
       "name": "Wasverzachter"
     }
   ],
-  "description": "6 x 814ml, 222 wasbeurten"
+  "description": "6 x 814ml, 222 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hf0/h34/30334050238494/prd-front-6030232-1_600x600/prd-front-6030232-1-600x600.jpg"
 }

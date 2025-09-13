@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031126",
+  "mmkId": "3031126",
+  "productGroupId": "483726",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sheamoisture-coconut-hibiscus-curl-shine-shampoo/p/5435949",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "384ml"
+  "description": "384ml",
+  "image": "/medias/sys_master/prd-images/hfe/h9c/28552892776478/prd-front-5435949-1_600x600/prd-front-5435949-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Magic Retouch Zwart Camouflerende Uitgroeispray",
+  "code": "3697898",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3031174",
+  "mmkId": "3031174",
+  "productGroupId": "493124",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-magic-retouch-zwart-camouflerende-uitgroeispray/p/3697898",
+  "listName": "Lister",
+  "brand": "Magic Retouch",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h49/hb2/32293279924254/prd-front-3697898-1_600x600/prd-front-3697898-1-600x600.jpg"
+}
