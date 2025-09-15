@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3031099",
-  "mmkId": "3031099",
-  "productGroupId": "475443",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-white-lotus-eau-de-parfum/p/5542251",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h51/h75/28758752034846/prd-front-5542251-1_600x600/prd-front-5542251-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Giet Zelf Een Onderzetter",
+  "code": "6337000",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 5697 > 2191 > 2512 > 3126 > 3991",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/giet-zelf-een-onderzetter/p/6337000",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267081,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6b/h0c/44038359089182/prd-front-6337000-1_600x600/prd-front-6337000-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6695",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3031133",
-  "mmkId": "3031133",
-  "productGroupId": "484891",
+  "onPromo": "3031336",
+  "mmkId": "3031336",
+  "productGroupId": "484859",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-rijke-voeding-3-in-1-haartreatment/p/6098755",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h91/h3e/34826354327582/prd-front-6098755-1_600x600/prd-front-6098755-1-600x600.jpg"
 }

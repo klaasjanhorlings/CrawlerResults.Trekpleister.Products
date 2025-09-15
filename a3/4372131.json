@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "3030840",
-  "mmkId": "3030840",
-  "productGroupId": "471996",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/montagne-jeunesse-charcoal-black-clay-peel-off-gezichtsmasker/p/4372131",
@@ -33,6 +33,5 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h70/h85/28798598053918/prd-front-4372131-1_600x600/prd-front-4372131-1-600x600.jpg"
+  "description": "10ml"
 }

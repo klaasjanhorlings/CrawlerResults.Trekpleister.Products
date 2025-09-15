@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3031268",
-  "mmkId": "3031268",
-  "productGroupId": "494134",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-star-wars-75405-home-one-starcruiser/p/6232231",
@@ -33,6 +33,5 @@
       "name": "LEGO Star Wars"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h83/hb4/33142924509214/prd-front-6232231-1_600x600/prd-front-6232231-1-600x600.jpg"
+  "description": ""
 }

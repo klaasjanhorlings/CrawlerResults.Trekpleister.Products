@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3031186",
-  "mmkId": "3031186",
-  "productGroupId": "494063",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/adidas-vibes-get-comfy-eau-de-parfum/p/6133916",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h69/hb8/32415770017822/prd-front-6133916-1_600x600/prd-front-6133916-1-600x600.jpg"
+  "description": "30ml"
 }

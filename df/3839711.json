@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031398",
+  "mmkId": "3031398",
+  "productGroupId": "494157",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elmex-sensitive-professional-repair-prevent-tandpasta/p/3839711",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Gevoelige tanden",
-  "image": "/medias/sys_master/prd-images/h0b/h3f/33906147491870/prd-front-3839711-1_600x600/prd-front-3839711-1-600x600.jpg"
+  "description": "75ml - Gevoelige tanden"
 }

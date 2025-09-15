@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031396",
+  "mmkId": "3031396",
+  "productGroupId": "494152",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aquafresh-anti-caries-tandpasta/p/3173262",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/prd-front-3173262-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjQyNzh8aW1hZ2UvanBlZ3xhR1F6TDJnNU1DOHhOakk1T1RZME5UVTJOekF3Tmk5d2NtUXRabkp2Ym5RdE16RTNNekkyTWkweFh6WXdNSGcyTURBfDk3OGNiN2Y4YWU0ZmFhODAxNjFlMmYwOWUwMGZhMDMxYjFiZTk4NjFjZmM0ZWM4YzljY2ZiZTMzNzNmOTI5ZWQ"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "inStock",
-  "onPromo": "3031070",
-  "mmkId": "3031070",
-  "productGroupId": "490435",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-premium-protection-maat-6-luiers/p/6243739",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 6"
     }
   ],
-  "description": "mt 6 (13-18kg), 70 stuks"
+  "description": "mt 6 (13-18kg), 70 stuks",
+  "image": "/medias/sys_master/prd-images/hd9/h06/34794427678750/prd-front-6243739-1_600x600/prd-front-6243739-1-600x600.jpg"
 }

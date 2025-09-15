@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ravensburger Disney XXL Puzzel",
+  "code": "6319318",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ravensburger-disney-xxl-puzzel/p/6319318",
+  "listName": "Lister",
+  "brand": "Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "100 stukjes",
+  "image": "/medias/sys_master/prd-images/h57/he7/34898942885918/prd-front-6319318-1_600x600/prd-front-6319318-1-600x600.jpg"
+}

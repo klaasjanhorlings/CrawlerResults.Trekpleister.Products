@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3030885",
-  "mmkId": "3030885",
-  "productGroupId": "482094",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-lifter-gloss-5-petal-lipgloss/p/5371780",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "5,4ml"
+  "description": "5,4ml",
+  "image": "/medias/sys_master/prd-images/hd2/ha1/35081163178014/prd-front-5371780-1_600x600/prd-front-5371780-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031124",
-  "mmkId": "3031124",
-  "productGroupId": "483673",
+  "onPromo": "3031379",
+  "mmkId": "3031379",
+  "productGroupId": "493286",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-bond-repair-conditioner/p/5787003",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h50/hb8/28950695673886/prd-front-5787003-1_600x600/prd-front-5787003-1-600x600.jpg"
 }

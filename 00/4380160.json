@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031175",
-  "mmkId": "3031175",
-  "productGroupId": "493125",
+  "onPromo": "3031377",
+  "mmkId": "3031377",
+  "productGroupId": "493128",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-olia-3-donkerbruin-permanente-haarkleuring/p/4380160",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h64/hec/33361037918238/prd-front-4380160-1_600x600/prd-front-4380160-1-600x600.jpg"
 }

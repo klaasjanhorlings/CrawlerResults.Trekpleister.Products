@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ravensburger Harry Potter Sagaland",
+  "code": "6343314",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5161 > 5212 > 5401",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ravensburger-harry-potter-sagaland/p/6343314",
+  "listName": "Lister",
+  "brand": "Ravensburger",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h49/hd0/34898772656158/prd-front-6343314-1_600x600/prd-front-6343314-1-600x600.jpg"
+}

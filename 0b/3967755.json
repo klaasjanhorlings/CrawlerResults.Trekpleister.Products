@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031309",
+  "mmkId": "3031309",
+  "productGroupId": "467188",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-sos-handcreme/p/3967755",
@@ -33,6 +33,5 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-3967755-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjYxOTR8aW1hZ2UvanBlZ3xhR0U1TDJnellpOHhOekExTnpReE16TXpNekF5TWk5d2NtUXRabkp2Ym5RdE16azJOemMxTlMweFh6WXdNSGcyTURBfDI2YzM5MzkzZmZmMWUxOTNjMzAxZTEzMzhhMWU5MzY1ODg2MGE2YjUwZDg2ZjkyMTZhNTY3NDE5ODhmNzg0N2E"
+  "description": "100ml"
 }

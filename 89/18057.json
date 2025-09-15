@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031173",
-  "mmkId": "3031173",
-  "productGroupId": "493123",
+  "onPromo": "3031379",
+  "mmkId": "3031379",
+  "productGroupId": "493286",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-excellence-creme-10-extra-lichtblond-permanente-haarverf/p/18057",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd6/h1d/32292901748766/prd-front-18057-1_600x600/prd-front-18057-1-600x600.jpg"
 }

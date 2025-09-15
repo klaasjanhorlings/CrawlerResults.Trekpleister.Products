@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4342 > 4343",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3031150",
-  "mmkId": "3031150",
-  "productGroupId": "490453",
+  "onPromo": "3031440",
+  "mmkId": "3031440",
+  "productGroupId": "490427",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-baby-dry-maat-4-luiers/p/6240232",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4+ (10-15kg), 27 stuks"
+  "description": "mt 4+ (10-15kg), 27 stuks",
+  "image": "/medias/sys_master/prd-images/h84/h92/33348181000222/prd-front-6240232-1_600x600/prd-front-6240232-1-600x600.jpg"
 }

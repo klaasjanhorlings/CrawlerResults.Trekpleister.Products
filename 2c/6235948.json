@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3030885",
-  "mmkId": "3030885",
-  "productGroupId": "482094",
+  "onPromo": "3031379",
+  "mmkId": "3031379",
+  "productGroupId": "493286",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-lumi-le-liquid-640-rouge-paris-blush/p/6235948",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf2/hea/35064789139486/prd-front-6235948-1_600x600/prd-front-6235948-1-600x600.jpg"
 }

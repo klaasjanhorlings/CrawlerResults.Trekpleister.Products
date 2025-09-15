@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
   "supplier": "MONDELEZ NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3031199",
-  "mmkId": "3031199",
-  "productGroupId": "494510",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/grenade-salted-caramel-proteinereep/p/5914389",
@@ -33,5 +33,6 @@
       "name": "Sportrepen"
     }
   ],
-  "description": "60g"
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/h99/hd8/31934218502174/prd-front-5914389-1_600x600/prd-front-5914389-1-600x600.jpg"
 }

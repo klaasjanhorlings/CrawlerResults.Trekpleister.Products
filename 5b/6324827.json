@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3865",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031136",
-  "mmkId": "3031136",
-  "productGroupId": "489242",
+  "onPromo": "3031311",
+  "mmkId": "3031311",
+  "productGroupId": "473519",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-derma-control-sensitive-antitranspirant-spray/p/6324827",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hb8/hce/44050139250718/prd-front-6324827-1_600x600/prd-front-6324827-1-600x600.jpg"
 }

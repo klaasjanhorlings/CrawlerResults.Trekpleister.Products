@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "JACOB HOOY&CO BV",
   "inStock": "inStock",
-  "onPromo": "3031161",
-  "mmkId": "3031161",
-  "productGroupId": "491833",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jacob-hooy-spf20-haarlemmer-bruin/p/6234653",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h38/hac/33160636170270/prd-front-6234653-1_600x600/prd-front-6234653-1-600x600.jpg"
 }

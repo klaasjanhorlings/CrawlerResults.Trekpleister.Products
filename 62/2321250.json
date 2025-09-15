@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3031224",
-  "mmkId": "3031224",
-  "productGroupId": "502546",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bio-oil-huidverzorgingsolie/p/2321250",
@@ -33,5 +33,6 @@
       "name": "Bodyolie"
     }
   ],
-  "description": "125ml - Alle huidtypen"
+  "description": "125ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h9b/h29/34598974750750/prd-front-2321250-1_600x600/prd-front-2321250-1-600x600.jpg"
 }

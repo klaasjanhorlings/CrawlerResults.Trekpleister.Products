@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6197 > 6215 > 6253",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3031200",
-  "mmkId": "3031200",
-  "productGroupId": "494661",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-spirulina-tabletten/p/1051485",
@@ -33,6 +33,5 @@
       "name": "Weerstand en of energie"
     }
   ],
-  "description": "100 stuks",
-  "image": "/medias/sys_master/prd-images/h13/h7b/28549593464862/prd-front-1051485-1_600x600/prd-front-1051485-1-600x600.jpg"
+  "description": "100 stuks"
 }

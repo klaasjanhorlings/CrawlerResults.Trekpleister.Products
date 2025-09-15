@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ravensburger Creart Art The Starry Night",
+  "code": "6343097",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ravensburger-creart-art-the-starry-night/p/6343097",
+  "listName": "Lister",
+  "brand": "Ravensburger",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267081,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb2/h66/34898773639198/prd-front-6343097-1_600x600/prd-front-6343097-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3889",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031177",
-  "mmkId": "3031177",
-  "productGroupId": "493281",
+  "onPromo": "3031379",
+  "mmkId": "3031379",
+  "productGroupId": "493286",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-age-perfect-reinigingsmelk/p/6290548",
@@ -37,5 +37,6 @@
       "name": "Reinigingsmelk"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h20/h78/33931000971294/prd-front-6290548-1_600x600/prd-front-6290548-1-600x600.jpg"
 }

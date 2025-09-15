@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Or Lungo Profondo Koffiecapsules",
+  "code": "6053857",
+  "price": "8.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "3031427",
+  "mmkId": "3031427",
+  "productGroupId": "495714",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lor-lungo-profondo-koffiecapsules/p/6053857",
+  "listName": "Lister",
+  "brand": "L'OR",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267443,
+      "name": "Koffie"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/he8/heb/30494814273566/prd-front-6053857-1_600x600/prd-front-6053857-1-600x600.jpg"
+}

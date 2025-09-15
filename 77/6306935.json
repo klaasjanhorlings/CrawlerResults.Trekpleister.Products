@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3679",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3031142",
-  "mmkId": "3031142",
-  "productGroupId": "489596",
+  "onPromo": "3031345",
+  "mmkId": "3031345",
+  "productGroupId": "489598",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-bodymind-jojoba-oil-coconut-milk-douchegel/p/6306935",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "350ml"
+  "description": "350ml",
+  "image": "/medias/sys_master/prd-images/hc2/h41/34960352804894/prd-front-6306935-1_600x600/prd-front-6306935-1-600x600.jpg"
 }

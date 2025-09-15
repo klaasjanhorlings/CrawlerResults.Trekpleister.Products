@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3246 > 4137",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031379",
+  "mmkId": "3031379",
+  "productGroupId": "493286",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-dream-lengths-curls-leave-in-creme/p/5787031",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/ha6/h5d/28553500327966/prd-front-5787031-1_600x600/prd-front-5787031-1-600x600.jpg"
 }

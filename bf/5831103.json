@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Oral-B iO Series 3s Elektrische Tandenborstel",
   "code": "5831103",
-  "price": "65.99",
+  "price": "54.99",
   "priceOriginal": "109.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PROCTER & GAMBLE NL BV",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 44,00",
+  "discount": "€ 55,00",
   "url": "/oral-b-io-series-3s-elektrische-tandenborstel/p/5831103",
   "listName": "Lister",
   "brand": "Oral B",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/heb/h32/31823080751134/prd-front-5831103-1_600x600/prd-front-5831103-1-600x600.jpg"
 }

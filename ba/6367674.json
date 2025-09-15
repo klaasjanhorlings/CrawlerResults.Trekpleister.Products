@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ravensburger Dick Bruna Reuzenkwartet",
+  "code": "6367674",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 6737 > 6736 > 6738",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ravensburger-dick-bruna-reuzenkwartet/p/6367674",
+  "listName": "Lister",
+  "brand": "Ravensburger",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267085,
+      "name": "Educatief speelgoed"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h36/h0e/35099734605854/prd-front-6367674-1_600x600/prd-front-6367674-1-600x600.jpg"
+}

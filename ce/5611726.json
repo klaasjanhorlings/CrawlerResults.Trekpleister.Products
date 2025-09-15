@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
   "supplier": "COBECO PHARMA WHOLESALE",
   "inStock": "inStock",
-  "onPromo": "3031200",
-  "mmkId": "3031200",
-  "productGroupId": "494661",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-knoflook-visolie/p/5611726",
@@ -33,6 +33,5 @@
       "name": "Hart en of bloedvaten"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/hc9/h52/28579429941278/prd-front-5611726-1_600x600/prd-front-5611726-1-600x600.jpg"
+  "description": "60 stuks"
 }

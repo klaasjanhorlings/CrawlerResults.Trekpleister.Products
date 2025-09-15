@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031382",
+  "mmkId": "3031382",
+  "productGroupId": "493462",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tena-lights-sensitive-normal-verbanden/p/5721640",
@@ -37,6 +37,5 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/ha8/h53/28579617701918/prd-front-5721640-1_600x600/prd-front-5721640-1-600x600.jpg"
+  "description": "16 stuks"
 }

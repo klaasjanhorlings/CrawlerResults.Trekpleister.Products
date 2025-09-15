@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6695",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3031163",
-  "mmkId": "3031163",
-  "productGroupId": "491960",
+  "onPromo": "3031433",
+  "mmkId": "3031433",
+  "productGroupId": "498936",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-total-repair-4-in-1-regeneration-bond-building-haarmasker/p/6022658",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h82/hef/34030341324830/prd-front-6022658-1_600x600/prd-front-6022658-1-600x600.jpg"
 }

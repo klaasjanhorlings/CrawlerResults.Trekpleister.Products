@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3031141",
-  "mmkId": "3031141",
-  "productGroupId": "489594",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutral-0-parfumvrije-shampoo/p/2859998",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h11/h34/44050580537374/prd-front-2859998-1_600x600/prd-front-2859998-1-600x600.jpg"
+  "description": "250ml"
 }

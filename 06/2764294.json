@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3031089",
-  "mmkId": "3031089",
-  "productGroupId": "457133",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-dailies-soft-like-cotton-normal-fresh-inlegkruisjes/p/2764294",
@@ -33,6 +33,5 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "34 stuks",
-  "image": "/medias/sys_master/prd-images/h11/h19/31875375267870/prd-front-2764294-1_600x600/prd-front-2764294-1-600x600.jpg"
+  "description": "34 stuks"
 }
