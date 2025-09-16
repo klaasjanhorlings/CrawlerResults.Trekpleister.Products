@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031289",
+  "mmkId": "3031289",
+  "productGroupId": "490434",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-premium-protection-maat-4-luiers/p/6243795",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4 (9-15kg), 90 stuks",
-  "image": "/medias/sys_master/prd-images/h54/hf7/34795739021342/prd-front-6243795-1_600x600/prd-front-6243795-1-600x600.jpg"
+  "description": "mt 4 (9-15kg), 90 stuks"
 }

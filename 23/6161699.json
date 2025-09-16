@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "3031412",
-  "mmkId": "3031412",
-  "productGroupId": "494736",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-aanvulling-voor-vegetariers-capsules/p/6161699",
@@ -37,6 +37,5 @@
       "name": "Vitamine B"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/hc7/hfe/31696241524766/prd-front-6161699-1_600x600/prd-front-6161699-1-600x600.jpg"
+  "description": "60 stuks"
 }

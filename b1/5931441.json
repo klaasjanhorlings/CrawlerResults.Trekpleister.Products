@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rainbow High Locker Activity Set",
+  "code": "5931441",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
+  "supplier": "SPEELGOEDLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rainbow-high-locker-activity-set/p/5931441",
+  "listName": "Lister",
+  "brand": "Rainbow High",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267081,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h80/h52/28565007073310/prd-front-5931441-1_600x600/prd-front-5931441-1-600x600.jpg"
+}

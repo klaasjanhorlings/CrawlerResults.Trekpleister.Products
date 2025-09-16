@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031440",
+  "mmkId": "3031440",
+  "productGroupId": "490427",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-premium-protection-maat-5-luiers/p/6241240",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 5"
     }
   ],
-  "description": "mt 5 (11-16kg), 22 stuks"
+  "description": "mt 5 (11-16kg), 22 stuks",
+  "image": "/medias/sys_master/prd-images/h92/hd7/33354243047454/prd-front-6241240-1_600x600/prd-front-6241240-1-600x600.jpg"
 }

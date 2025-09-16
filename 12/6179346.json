@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Damesbigshirt",
+  "code": "6179346",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6716 > 5795 > 2495 > 3061 > 3791",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/damesbigshirt/p/6179346",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267090,
+      "name": "Dames"
+    },
+    {
+      "id": 30267400,
+      "name": "Damespyjama's"
+    }
+  ],
+  "description": "roze, mt M",
+  "image": "/medias/sys_master/prd-images/h10/hf3/34523263041566/prd-front-6179346-1_600x600/prd-front-6179346-1-600x600.jpg"
+}
