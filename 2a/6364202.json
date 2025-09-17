@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 4335 > 4336",
   "supplier": "NESTLE NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "25g",
-  "image": "/medias/sys_master/prd-images/h4a/hb8/34917547147294/prd-front-6364202-1_600x600/prd-front-6364202-1-600x600.jpg"
+  "description": "25g"
 }

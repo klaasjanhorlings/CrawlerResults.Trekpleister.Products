@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Glam In Gold 010 In A Gold Rush Lipbalm",
-  "code": "6233540",
-  "price": "4.99",
+  "itemName": "Catrice Matt AirBlush",
+  "code": "5706912",
+  "price": "4.49",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-glam-in-gold-010-in-a-gold-rush-lipbalm/p/6233540",
+  "url": "/catrice-matt-airblush/p/5706912",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,9 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 30267140,
-      "name": "Lipgloss"
+      "id": 30267147,
+      "name": "Blush"
     }
   ],
-  "description": "3,5g",
-  "image": "/medias/sys_master/prd-images/hb7/hba/33047120576542/prd-front-6233540-1_600x600/prd-front-6233540-1-600x600.jpg"
+  "description": "5,5g"
 }

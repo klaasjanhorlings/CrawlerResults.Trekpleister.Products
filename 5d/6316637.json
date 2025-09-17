@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bleach London Bruised Violet Semi-Permanente Vegan Haarverf",
+  "code": "6316637",
+  "price": "11.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
+  "supplier": "BLEACH PRODUCTS LIMITED",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bleach-london-bruised-violet-semi-permanente-vegan-haarverf/p/6316637",
+  "listName": "Lister",
+  "brand": "BLEACH LONDON",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "150ml"
+}

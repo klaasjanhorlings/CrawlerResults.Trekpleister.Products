@@ -4,7 +4,7 @@
   "itemName": "Mattel Scrabble Original Spel",
   "code": "6133314",
   "price": "22.99",
-  "priceOriginal": "32.99",
+  "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5161 > 5212 > 5401",
   "supplier": "MATTEL EUROPA BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "",
   "url": "/mattel-scrabble-original-spel/p/6133314",
   "listName": "Lister",
   "brand": "Mattel",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h90/h2e/31459076833310/prd-front-6133314-1_600x600/prd-front-6133314-1-600x600.jpg"
 }

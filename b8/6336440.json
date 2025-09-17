@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ella's Kitchen Organic 8M+ Kiplekkere Ovenschotel met Tijm",
+  "code": "6336440",
+  "price": "0.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "inStock",
+  "onPromo": "3031307",
+  "mmkId": "3031307",
+  "productGroupId": "457039",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ellas-kitchen-organic-8m-kiplekkere-ovenschotel-met-tijm/p/6336440",
+  "listName": "Lister",
+  "brand": "Ella's Kitchen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267328,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267568,
+      "name": "8+ maanden"
+    }
+  ],
+  "description": "Ella’s Kitchen Organic 8M+ Bio Kiplekkere ovenschotel met tijm",
+  "image": "/medias/sys_master/prd-images/hb2/h67/34926044807198/prd-front-6336440-1_600x600/prd-front-6336440-1-600x600.jpg"
+}

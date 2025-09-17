@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4082",
   "supplier": "KIMBERLY-CLARK BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3027062",
+  "mmkId": "3027062",
+  "productGroupId": "460325",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/page-kussenzacht-toiletpapier/p/5532430",
@@ -29,5 +29,6 @@
       "name": "Toiletpapier"
     }
   ],
-  "description": "6 rollen"
+  "description": "6 rollen",
+  "image": "/medias/sys_master/prd-images/h39/hc5/35091068682270/prd-front-5532430-1_600x600/prd-front-5532430-1-600x600.jpg"
 }

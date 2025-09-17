@@ -21,17 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267249,
-      "name": "Haarstylingproducten"
-    },
-    {
-      "id": 30267492,
-      "name": "Haarlak"
+      "id": 30267041,
+      "name": "Haarverf"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hba/hcc/28995404038174/prd-front-3785958-1_600x600/prd-front-3785958-1-600x600.jpg"
 }

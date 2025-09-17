@@ -21,17 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267050,
-      "name": "Zonbescherming"
+      "id": 30267042,
+      "name": "Skincare"
     },
     {
-      "id": 30267214,
-      "name": "Zonnebrand"
+      "id": 30267159,
+      "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h70/ha1/32247571546142/prd-front-6199891-1_600x600/prd-front-6199891-1-600x600.jpg"
 }

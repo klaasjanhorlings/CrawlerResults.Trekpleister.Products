@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Carmen AC5210 Pro AC Föhn",
+  "code": "5874041",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6430",
+  "supplier": "INVENTUM HUISHOUDELIJKE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/carmen-ac5210-pro-ac-fohn/p/5874041",
+  "listName": "Lister",
+  "brand": "Carmen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267493,
+      "name": "Föhns"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6f/h13/28582638059550/prd-front-5874041-1_600x600/prd-front-5874041-1-600x600.jpg"
+}

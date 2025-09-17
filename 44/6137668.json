@@ -4,7 +4,7 @@
   "itemName": "999 Games Zinga Spel",
   "code": "6137668",
   "price": "9.99",
-  "priceOriginal": "16.99",
+  "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 6733 > 6734 > 6735",
   "supplier": "999 GAMES",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 7,00",
+  "discount": "",
   "url": "/999-games-zinga-spel/p/6137668",
   "listName": "Lister",
   "brand": "999 Games",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/hc3/h6f/31991490215966/prd-front-6137668-1_600x600/prd-front-6137668-1-600x600.jpg"
 }

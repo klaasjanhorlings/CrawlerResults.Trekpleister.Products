@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
   "supplier": "A.VOGEL",
-  "inStock": "inStock",
-  "onPromo": "3031376",
-  "mmkId": "3031376",
-  "productGroupId": "492981",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-nachtrust-overgangstabletten/p/5678632",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267281,
-      "name": "Rust en ontspanning"
+      "id": 30267287,
+      "name": "Overgang"
     }
   ],
   "description": "30 stuks",

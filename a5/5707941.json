@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Lift Up Brow Styling Brush",
+  "code": "5707941",
+  "price": "2.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-lift-up-brow-styling-brush/p/5707941",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267174,
+      "name": "Make-up kwasten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha7/h45/35009585512478/prd-front-5707941-1_600x600/prd-front-5707941-1-600x600.jpg"
+}

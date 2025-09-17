@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 6071 > 6072 > 6074",
   "supplier": "HENKEL NEDERLAND BV U-W",
-  "inStock": "inStock",
-  "onPromo": "3031358",
-  "mmkId": "3031358",
-  "productGroupId": "490471",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/witte-reus-limited-edition-bloesem-toiletblok/p/5637304",
@@ -29,6 +29,5 @@
       "name": "Toiletblokken"
     }
   ],
-  "description": "50g",
-  "image": "/medias/sys_master/prd-images/hb9/h6a/31801488637982/prd-front-5637304-1_600x600/prd-front-5637304-1-600x600.jpg"
+  "description": "50g"
 }
