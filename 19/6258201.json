@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031383",
+  "mmkId": "3031383",
+  "productGroupId": "493600",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/swiffer-duster-navullingen/p/6258201",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakartikelen"
     }
   ],
-  "description": "7 stuks"
+  "description": "7 stuks",
+  "image": "/medias/sys_master/prd-images/ha7/h3b/34122273456158/prd-front-6258201-1_600x600/prd-front-6258201-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ella's Kitchen Baby 6M+ Bosbessen Peer Ontbijtje",
+  "code": "6336433",
+  "price": "0.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ellas-kitchen-baby-6m-bosbessen-peer-ontbijtje/p/6336433",
+  "listName": "Lister",
+  "brand": "Ella's Kitchen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267564,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "Het Ella's Kitchen Organic 6+ Bio Baby bosbessen ontbijtje een mix van bosbessen, yoghurt, haver en rijst.",
+  "image": "/medias/sys_master/prd-images/h25/hdc/34925323943966/prd-front-6336433-1_600x600/prd-front-6336433-1-600x600.jpg"
+}

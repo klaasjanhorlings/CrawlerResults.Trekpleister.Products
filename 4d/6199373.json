@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
   "supplier": "B&B ITALIAANS WASPARFUM B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h1a/he2/32437383364638/prd-front-6199373-1_600x600/prd-front-6199373-1-600x600.jpg"
+  "description": "250ml"
 }
