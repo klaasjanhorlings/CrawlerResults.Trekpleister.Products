@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "8 maanden +"
     }
   ],
-  "description": "12 x 200g"
+  "description": "12 x 200g",
+  "image": "/medias/sys_master/prd-images/ha3/h34/30689284685854/prd-front-5561186-1_600x600/prd-front-5561186-1-600x600.jpg"
 }

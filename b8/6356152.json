@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bausch + Lomb EasySept Peroxide Lenzenvloeistof",
+  "code": "6356152",
+  "price": "33.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bausch-lomb-easysept-peroxide-lenzenvloeistof/p/6356152",
+  "listName": "Lister",
+  "brand": "Bausch & Lomb",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267064,
+      "name": "Optiek"
+    },
+    {
+      "id": 30267314,
+      "name": "Lenzenvloeistof"
+    }
+  ],
+  "description": "3 x 360ml",
+  "image": "/medias/sys_master/prd-images/h56/h0a/44130687909918/prd-front-6356152-1_600x600/prd-front-6356152-1-600x600.jpg"
+}

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Max Factor Miracle Pure Skin Reset 40-60 Light 2-in-1 Serum Foundation",
   "code": "6098986",
-  "price": "24.99",
+  "price": "22.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS CB SUB",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/he3/hb8/32427484250142/prd-front-6098986-1_600x600/prd-front-6098986-1-600x600.jpg"
 }
