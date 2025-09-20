@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031437",
+  "mmkId": "3031437",
+  "productGroupId": "489597",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-click-deodorant-bodyspray/p/3100644",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h98/h16/33198801223710/prd-front-3100644-1_600x600/prd-front-3100644-1-600x600.jpg"
 }

@@ -8,8 +8,8 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hf9/he3/44265336373278/prd-front-6356355-1_600x600/prd-front-6356355-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc2/hba/44282759807006/prd-front-6356355-1_600x600/prd-front-6356355-1-600x600.jpg"
 }

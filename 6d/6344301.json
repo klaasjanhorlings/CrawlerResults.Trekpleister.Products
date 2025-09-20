@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "My Royal Baby Babydoekjes",
+  "code": "6344301",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
+  "supplier": "THE BRANDSTUDIO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/my-royal-baby-babydoekjes/p/6344301",
+  "listName": "Lister",
+  "brand": "My Royal Baby",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/hf7/h2d/44282137477150/prd-front-6344301-1_600x600/prd-front-6344301-1-600x600.jpg"
+}

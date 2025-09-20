@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031346",
+  "mmkId": "3031346",
+  "productGroupId": "489603",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-poederzacht-deodorant-spray/p/5165616",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-5165616-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTc3ODN8aW1hZ2UvanBlZ3xhRFExTDJneU15OHhOamN4TWpVNE5EUTJNak0yTmk5d2NtUXRabkp2Ym5RdE5URTJOVFl4TmkweFh6WXdNSGcyTURBfDE1ZTg2NGI0OTI4YmRmMTBjNmRmODVmYzdmZWY1ZTcyZGE4NmFmNzRmMTQ1ODBlOGE3YmViMzYxMmI0ZDMxZTc"
+  "description": "100ml"
 }

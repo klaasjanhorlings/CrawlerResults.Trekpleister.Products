@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Infaillible 24H 216 Relentless Rose Lipstick",
+  "code": "6235787",
+  "price": "21.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3031379",
+  "mmkId": "3031379",
+  "productGroupId": "493286",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-infaillible-24h-216-relentless-rose-lipstick/p/6235787",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267139,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h11/h23/35066635943966/prd-front-6235787-1_600x600/prd-front-6235787-1-600x600.jpg"
+}

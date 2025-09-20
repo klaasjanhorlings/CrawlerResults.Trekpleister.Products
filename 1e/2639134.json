@@ -29,9 +29,14 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30267269,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267518,
+      "name": "Neusspray"
     }
   ],
-  "description": "Medisch hulpmiddel - 15ml"
+  "description": "Medisch hulpmiddel - 15ml",
+  "image": "/medias/sys_master/prd-images/hfe/hdf/33355778687006/prd-front-2639134-1_600x600/prd-front-2639134-1-600x600.jpg"
 }
