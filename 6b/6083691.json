@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Baby Clementoni Touch & Play Smartphone",
+  "code": "6083691",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/baby-clementoni-touch-play-smartphone/p/6083691",
+  "listName": "Lister",
+  "brand": "Clementoni",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 49281783,
+      "name": "Interactief speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h44/hcf/31232743833630/prd-front-6083691-1_600x600/prd-front-6083691-1-600x600.jpg"
+}

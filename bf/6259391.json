@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lenor Light Katoen Fris Geurbooster",
+  "code": "6259391",
+  "price": "3.59",
+  "priceOriginal": "7.69",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 4,10",
+  "url": "/lenor-light-katoen-fris-geurbooster/p/6259391",
+  "listName": "Lister",
+  "brand": "Lenor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 49313699,
+      "name": "Wasparfum"
+    }
+  ],
+  "description": "155g",
+  "image": "/medias/sys_master/prd-images/hb1/hfc/33673580511262/prd-front-6259391-1_600x600/prd-front-6259391-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3031412",
-  "mmkId": "3031412",
-  "productGroupId": "494736",
+  "onPromo": "3031466",
+  "mmkId": "3031466",
+  "productGroupId": "484343",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-probiotica-mix-van-zes-bacteriele-stammen/p/1308777",
@@ -33,5 +33,6 @@
       "name": "Bacteriestammen"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/prd-front-1308777-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTI4MDl8aW1hZ2UvanBlZ3xhR00yTDJnMk1DOHhOalUzTVRVME1UZ3hOVE15Tmk5d2NtUXRabkp2Ym5RdE1UTXdPRGMzTnkweFh6WXdNSGcyTURBfGEwNzlkMTM1OTEwNDg4N2ExNTY5NmExZmJiZjRlNzY1ZmVkYzc1N2ViNjQ0YTk1NmIzNjM3MWY3NDc4NTdmZDU"
 }

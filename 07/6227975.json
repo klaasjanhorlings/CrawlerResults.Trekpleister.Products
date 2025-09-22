@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5731 > 3866",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3031345",
-  "mmkId": "3031345",
-  "productGroupId": "489598",
+  "onPromo": "3031469",
+  "mmkId": "3031469",
+  "productGroupId": "489599",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-mencare-advanced-invisible-dry-deoroller/p/6227975",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h9e/h00/34417162879006/prd-front-6227975-1_600x600/prd-front-6227975-1-600x600.jpg"
 }

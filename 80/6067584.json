@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Baby Clementoni Baby Microphone",
+  "code": "6067584",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/baby-clementoni-baby-microphone/p/6067584",
+  "listName": "Lister",
+  "brand": "Clementoni",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 49281783,
+      "name": "Interactief speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h59/h3a/32404119912478/prd-front-6067584-1_600x600/prd-front-6067584-1-600x600.jpg"
+}

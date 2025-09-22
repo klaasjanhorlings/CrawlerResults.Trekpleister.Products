@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Wondontsmetting"
     }
   ],
-  "description": "Geneesmiddel - 120ml",
-  "image": "/medias/prd-front-5146093-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjA1NTJ8aW1hZ2UvanBlZ3xhR05rTDJnMVpTOHhOamN3TURVNE1UTTRNREV5Tmk5d2NtUXRabkp2Ym5RdE5URTBOakE1TXkweFh6WXdNSGcyTURBfDcwMDU3ZTI0ZWM1MzM4NTE4MTIwOGU2ZjNkNWE1OWEyZDE5M2JhMTdjZTljOGY4ZTQ3ZDgzNjFlOTQxOGEwZWM"
+  "description": "Geneesmiddel - 120ml"
 }

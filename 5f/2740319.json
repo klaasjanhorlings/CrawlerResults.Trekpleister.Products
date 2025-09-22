@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "L'OREAL NED B.V.",
-  "inStock": "inStock",
-  "onPromo": "3031377",
-  "mmkId": "3031377",
-  "productGroupId": "493128",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-olia-70-middenblond-permanente-permanente-haarverf/p/2740319",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h96/hb8/33360148037662/prd-front-2740319-1_600x600/prd-front-2740319-1-600x600.jpg"
+  "description": ""
 }

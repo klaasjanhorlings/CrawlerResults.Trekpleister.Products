@@ -8,9 +8,9 @@
   "itemBgbcat": "5926 > 6679 > 2146 > 2631 > 2889 > 3664",
   "supplier": "BOLSIUS NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031483",
+  "mmkId": "3031483",
+  "productGroupId": "499644",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bolsius-classic-lights-6-uur-waxinelichtjes/p/6131676",
@@ -33,5 +33,6 @@
       "name": "Kaarsen"
     }
   ],
-  "description": "40 stuks"
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/h00/hd5/31621819727902/prd-front-6131676-1_600x600/prd-front-6131676-1-600x600.jpg"
 }
