@@ -5,7 +5,7 @@
   "code": "874308",
   "price": "10.49",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6450 > 3458",
+  "itemBgbcat": "2006 > 2052 > 2175 > 6450 > 3458 > 6788",
   "supplier": "KENVUE",
   "inStock": "inStock",
   "onPromo": "",
@@ -25,16 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 48237361,
+      "name": "Voetverzorging"
     },
     {
-      "id": 30267256,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 49946980,
-      "name": "Schimmelinfectie"
+      "id": 48237626,
+      "name": "Voetschimmelbehandeling"
     }
   ],
   "description": "Geneesmiddel - 15g",

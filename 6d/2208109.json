@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3519",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-2208109-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTkwODd8aW1hZ2UvanBlZ3xhRFZqTDJoak5DOHhOakkxTkRNd09UQXdOek01TUM5d2NtUXRabkp2Ym5RdE1qSXdPREV3T1MweFh6WXdNSGcyTURBfDViYjA3NGYzMDZiZmExMzVjMmJhZDYzZTQ3MWNmYzc2NWVmM2U0MzY1ZDAxNTQ2NGQ2ZDlkYzY1MTE3MmE2YTk"
 }

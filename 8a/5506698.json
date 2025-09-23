@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Soft & Precise 301 Romantic Lip Pencil",
+  "code": "5506698",
+  "price": "1.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-soft-precise-301-romantic-lip-pencil/p/5506698",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267152,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "1g",
+  "image": "/medias/prd-front-5506698-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQyN3xpbWFnZS9qcGVnfGFESTFMMmc0TWk4eE56QTJPREUwTVRjME1EQTJNaTl3Y21RdFpuSnZiblF0TlRVd05qWTVPQzB4WHpZd01IZzJNREF8ZDY0ZGViMzRjMzc3ZDgwNWVkMDc5YTRlM2E4ODZiM2IyNDYxMzU5ZWVlM2FkM2M2MWFjMzUyZTQ5OTM3NTMzYg"
+}
