@@ -5,7 +5,7 @@
   "code": "1108836",
   "price": "19.99",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 5048 > 2280 > 6209 > 6227 > 6313",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
   "onPromo": "3031466",
@@ -33,5 +33,6 @@
       "name": "Overige supplementen"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/prd-front-1108836-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODMzMzN8aW1hZ2UvanBlZ3xhR00xTDJnMVl5OHhOalV6TnprNU56azJOek01TUM5d2NtUXRabkp2Ym5RdE1URXdPRGd6TmkweFh6WXdNSGcyTURBfDIyMmY1MGM4NWNlNmEwZTUxY2MyZDRiMzIyNTk4M2I0ZDU2Y2Y5Y2FkZTgwOTljYWJkNWQ5MzkxZWUxZGY5ZjA"
 }

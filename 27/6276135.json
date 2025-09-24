@@ -5,7 +5,7 @@
   "code": "6276135",
   "price": "9.0",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -29,10 +29,9 @@
       "name": "Make-up"
     },
     {
-      "id": 30267148,
-      "name": "Contour"
+      "id": 30267145,
+      "name": "Bronzer"
     }
   ],
-  "description": "4ml",
-  "image": "/medias/sys_master/prd-images/h10/hed/34026214785054/prd-front-6276135-1_600x600/prd-front-6276135-1-600x600.jpg"
+  "description": "4ml"
 }

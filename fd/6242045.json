@@ -5,7 +5,7 @@
   "code": "6242045",
   "price": "14.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6780",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30267147,
-      "name": "Blush"
+      "id": 30267146,
+      "name": "Highlighter"
     }
   ],
   "description": "",

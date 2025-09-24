@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Scheerschuim voor de Gevoelige Huid",
+  "code": "1186634",
+  "price": "1.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2909 > 3706",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3031449",
+  "mmkId": "3031449",
+  "productGroupId": "495406",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-scheerschuim-voor-de-gevoelige-huid/p/1186634",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267238,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h54/h63/28575695962142/prd-front-1186634-1_600x600/prd-front-1186634-1-600x600.jpg"
+}

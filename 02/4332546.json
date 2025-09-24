@@ -5,7 +5,7 @@
   "code": "4332546",
   "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hb5/h06/44114896683038/prd-front-4332546-1_600x600/prd-front-4332546-1-600x600.jpg"
+  "description": ""
 }

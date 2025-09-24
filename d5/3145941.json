@@ -5,7 +5,7 @@
   "code": "3145941",
   "price": "13.49",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 3946",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
   "onPromo": "3007554",
@@ -25,16 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267064,
+      "name": "Optiek"
     },
     {
-      "id": 30267258,
-      "name": "Allergische reacties"
-    },
-    {
-      "id": 30267512,
-      "name": "Hooikoorts oogdruppels"
+      "id": 30267316,
+      "name": "Oogdruppels"
     }
   ],
   "description": "Medisch hulpmiddel - 10ml",

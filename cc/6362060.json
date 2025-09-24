@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "6 x 5 stuks",
-  "image": "/medias/sys_master/prd-images/h00/h37/44295306706974/prd-front-6362060-1_600x600/prd-front-6362060-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h62/h24/44302979006494/prd-front-6362060-1_600x600/prd-front-6362060-1-600x600.jpg"
 }

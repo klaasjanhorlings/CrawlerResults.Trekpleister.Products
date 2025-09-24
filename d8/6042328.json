@@ -5,7 +5,7 @@
   "code": "6042328",
   "price": "15.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
   "onPromo": "3031379",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "11ml",
-  "image": "/medias/sys_master/prd-images/h41/he4/35066116735006/prd-front-6042328-1_600x600/prd-front-6042328-1-600x600.jpg"
+  "description": "11ml"
 }

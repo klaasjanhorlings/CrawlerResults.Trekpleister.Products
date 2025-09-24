@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3868",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031311",
+  "mmkId": "3031311",
+  "productGroupId": "473519",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-total-relax-3-in-1-showergel/p/6192534",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hde/hd0/34049707671582/prd-front-6192534-1_600x600/prd-front-6192534-1-600x600.jpg"
+  "description": "250ml"
 }

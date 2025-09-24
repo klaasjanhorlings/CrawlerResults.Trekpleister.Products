@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Sensitive Face Wash",
+  "code": "1467264",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6668",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3031311",
+  "mmkId": "3031311",
+  "productGroupId": "473519",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-sensitive-face-wash/p/1467264",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267168,
+      "name": "Gezichtsreiniging mannen"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h1f/hb1/34520899911710/prd-front-1467264-1_600x600/prd-front-1467264-1-600x600.jpg"
+}
