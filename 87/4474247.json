@@ -8,8 +8,8 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-4474247-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzIwOTJ8aW1hZ2UvanBlZ3xhR1ZrTDJoak5pOHhOekl5TXprME5qazJNRGt5Tmk5d2NtUXRabkp2Ym5RdE5EUTNOREkwTnkweFh6WXdNSGcyTURBfGM0MmM5OThmZGRlMWUwMzgzNmIyNzNhMThlODE5NzQ5OTNkMWQ5NDE3NmNjZWExM2MxOGFlMzE4NjJmZWNlMDU"
 }

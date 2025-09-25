@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "inStock",
-  "onPromo": "3031379",
-  "mmkId": "3031379",
-  "productGroupId": "493286",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-c3-beige-rose-poeder/p/828521",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h29/h99/44106877141022/prd-front-828521-1_600x600/prd-front-828521-1-600x600.jpg"
+  "description": ""
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Soft Skin Sensitive Bodymilk",
+  "code": "1538818",
+  "price": "10.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3031340",
+  "mmkId": "3031340",
+  "productGroupId": "489207",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kneipp-soft-skin-sensitive-bodymilk/p/1538818",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267198,
+      "name": "Bodycremes"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-1538818-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzA5Mjh8aW1hZ2UvanBlZ3xhREZtTDJneVpTOHhOall3TVRnNE9ERTVORFU1TUM5d2NtUXRabkp2Ym5RdE1UVXpPRGd4T0MweFh6WXdNSGcyTURBfDhiNWVhNTZlZGI4ZGQ3Mjc5MzA1YWU0NmI1ZjRjMDhhNGUwMzE4MTgyNDRlYTRlNzZiOTQ4NDY3M2YyMWM4Zjk"
+}

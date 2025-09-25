@@ -8,8 +8,8 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6780",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Highlighter"
     }
   ],
-  "description": "6g",
-  "image": "/medias/sys_master/prd-images/h01/h55/33045888008222/prd-front-6235122-1_600x600/prd-front-6235122-1-600x600.jpg"
+  "description": "6g"
 }

@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 6463 > 6464 > 6401",
   "supplier": "SHOTS MEDIA BV",
-  "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,6 +37,5 @@
       "name": "Vibrator"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/h31/h4d/28553488531486/prd-front-5807758-1_600x600/prd-front-5807758-1-600x600.jpg"
+  "description": "zwart"
 }

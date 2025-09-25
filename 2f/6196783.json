@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "MAINSTEIN GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031499",
+  "mmkId": "3031499",
+  "productGroupId": "498124",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/paco-rabanne-1-million-eau-de-toilette/p/6196783",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "78.82",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031499",
+  "mmkId": "3031499",
+  "productGroupId": "498124",
   "brandType": "A of B merk",
   "discount": "€ 57,54",
   "url": "/karl-lagerfeld-pour-femme-eau-de-parfum/p/4162943",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "85ml"
+  "description": "85ml",
+  "image": "/medias/sys_master/prd-images/hbf/h20/34360769019934/prd-front-4162943-1_600x600/prd-front-4162943-1-600x600.jpg"
 }

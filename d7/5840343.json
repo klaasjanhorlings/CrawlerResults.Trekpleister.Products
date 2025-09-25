@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Invisible Care Floral Touch Deodorant Spray",
+  "code": "5840343",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3031469",
+  "mmkId": "3031469",
+  "productGroupId": "489599",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-invisible-care-floral-touch-deodorant-spray/p/5840343",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267201,
+      "name": "Deospray"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hc9/h63/44315751874590/prd-front-5840343-1_600x600/prd-front-5840343-1-600x600.jpg"
+}

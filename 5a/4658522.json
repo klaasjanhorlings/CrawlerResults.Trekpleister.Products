@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Daktarin Miconazolnitraat Crème",
+  "itemName": "Daktarin 20mg/g Miconazolnitraat Crème",
   "code": "4658522",
   "price": "16.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/daktarin-miconazolnitraat-creme/p/4658522",
+  "url": "/daktarin-20mg/g-miconazolnitraat-creme/p/4658522",
   "listName": "Lister",
   "brand": "Daktarin",
   "mpOrigin": "Kruidvat",
@@ -25,16 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 48237361,
+      "name": "Voetverzorging"
     },
     {
-      "id": 30267256,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 49946980,
-      "name": "Schimmelinfectie"
+      "id": 48237626,
+      "name": "Voetschimmelbehandeling"
     }
   ],
   "description": "Geneesmiddel - 30g",

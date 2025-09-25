@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
-  "onPromo": "3031314",
-  "mmkId": "3031314",
-  "productGroupId": "474653",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/pretty-me-heart-pimple-patches/p/6215487",
@@ -33,5 +33,6 @@
       "name": "Pimple patches"
     }
   ],
-  "description": "24stuks"
+  "description": "24stuks",
+  "image": "/medias/sys_master/prd-images/h4e/h58/34282920706078/prd-front-6215487-1_600x600/prd-front-6215487-1-600x600.jpg"
 }

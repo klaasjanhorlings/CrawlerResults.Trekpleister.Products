@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "John Frieda Sheer Blonde Go Blonder Lightening Shampoo",
+  "code": "3777929",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "3031337",
+  "mmkId": "3031337",
+  "productGroupId": "484902",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/john-frieda-sheer-blonde-go-blonder-lightening-shampoo/p/3777929",
+  "listName": "Lister",
+  "brand": "John Frieda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h64/h01/29123314909214/prd-front-3777929-1_600x600/prd-front-3777929-1-600x600.jpg"
+}

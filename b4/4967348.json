@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nicorette Mint Mondspray",
+  "itemName": "Nicorette Mint Suikervrije Mondspray",
   "code": "4967348",
   "price": "54.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nicorette-mint-mondspray/p/4967348",
+  "url": "/nicorette-mint-suikervrije-mondspray/p/4967348",
   "listName": "Lister",
   "brand": "Nicorette",
   "mpOrigin": "Kruidvat",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Geneesmiddel - 2 stuks",
-  "image": "/medias/sys_master/prd-images/hfa/h1e/44303330246686/prd-front-4967348-1_600x600/prd-front-4967348-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0b/h5b/44317779853342/prd-front-4967348-1_600x600/prd-front-4967348-1-600x600.jpg"
 }

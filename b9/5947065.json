@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6391 > 6392",
   "supplier": "BODY & FIT SPORTSNUTRIT",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Creatine"
     }
   ],
-  "description": "250g"
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/hfd/h9a/29124696244254/prd-front-5947065-1_600x600/prd-front-5947065-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Reactine 10mg Filmomhulde Hooikoorts Tabletten",
+  "itemName": "Reactine Cetirizine 10mg Filmomhulde Hooikoortstabletten",
   "code": "877171",
   "price": "14.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/reactine-10mg-filmomhulde-hooikoorts-tabletten/p/877171",
+  "url": "/reactine-cetirizine-10mg-filmomhulde-hooikoortstabletten/p/877171",
   "listName": "Lister",
   "brand": "Reactine",
   "mpOrigin": "Kruidvat",
@@ -33,9 +33,10 @@
       "name": "Allergische reacties"
     },
     {
-      "id": 49949673,
-      "name": "Cetirizine"
+      "id": 30267510,
+      "name": "Hooikoortstabletten"
     }
   ],
-  "description": "Geneesmiddel - 21 stuks"
+  "description": "Geneesmiddel - 21 stuks",
+  "image": "/medias/sys_master/prd-images/hd1/he7/34488563859486/prd-front-877171-1_600x600/prd-front-877171-1-600x600.jpg"
 }

@@ -8,8 +8,8 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "3g"
+  "description": "3g",
+  "image": "/medias/sys_master/prd-images/h02/ha3/29940543553566/prd-front-5493629-1_600x600/prd-front-5493629-1-600x600.jpg"
 }

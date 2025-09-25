@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6695",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3031433",
-  "mmkId": "3031433",
-  "productGroupId": "498936",
+  "onPromo": "3031493",
+  "mmkId": "3031493",
+  "productGroupId": "491968",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-4-in-1-shine-bond-building-haarmasker/p/6022175",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h84/h7e/34029442138142/prd-front-6022175-1_600x600/prd-front-6022175-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Revitalift Filler Anti-Rimpel Dagcrème",
+  "itemName": "L'Oréal Paris Revitalift Filler Dagcrème",
   "code": "3318365",
   "price": "35.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "493286",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-revitalift-filler-anti-rimpel-dagcreme/p/3318365",
+  "url": "/loreal-paris-revitalift-filler-dagcreme/p/3318365",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Normale en rijpe huid"
+  "description": "50ml - Normale en rijpe huid",
+  "image": "/medias/sys_master/prd-images/hef/hc8/44313101860894/prd-front-3318365-1_600x600/prd-front-3318365-1-600x600.jpg"
 }

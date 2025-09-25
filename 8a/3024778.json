@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
   "supplier": "PIETERCIL BARENDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -26,7 +26,7 @@
     },
     {
       "id": 48237361,
-      "name": "Voetverzorging"
+      "name": "Voetongemakken"
     },
     {
       "id": 48237442,

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Daktarin Schimmelinfectie Strooipoeder",
+  "itemName": "Daktarin Miconazolnitraat 20mg/g Strooipoeder bij Schimmelinfecties",
   "code": "1664678",
   "price": "10.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/daktarin-schimmelinfectie-strooipoeder/p/1664678",
+  "url": "/daktarin-miconazolnitraat-20mg/g-strooipoeder-bij-schimmelinfecties/p/1664678",
   "listName": "Lister",
   "brand": "Daktarin",
   "mpOrigin": "Kruidvat",
@@ -26,11 +26,11 @@
     },
     {
       "id": 48237361,
-      "name": "Voetverzorging"
+      "name": "Voetongemakken"
     },
     {
       "id": 48237626,
-      "name": "Voetschimmelbehandeling"
+      "name": "Voetschimmel"
     }
   ],
   "description": "Geneesmiddel - 20g",

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031327",
+  "mmkId": "3031327",
+  "productGroupId": "482731",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gluconcombi-glucosamine-chondroitine/msm-mangaan-tabletten/p/2042524",
@@ -33,5 +33,6 @@
       "name": "Glucosamine"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/prd-front-2042524-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU1ODh8aW1hZ2UvanBlZ3xhR0l4TDJnMVpTOHhOak00TURNeE9EWTNPVEEzTUM5d2NtUXRabkp2Ym5RdE1qQTBNalV5TkMweFh6WXdNSGcyTURBfDAyNjlhMDkxMzMxZjBlOWYxYTI2ODE4NWUxOTAyMTEyMTMwM2U0NjM1YTdlNjE3NTE1ZWY1OGViOGVmMGUzOWU"
 }

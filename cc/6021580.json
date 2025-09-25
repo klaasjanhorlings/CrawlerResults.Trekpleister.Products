@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Power Activity Styling Gel",
+  "code": "6021580",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3031371",
+  "mmkId": "3031371",
+  "productGroupId": "491969",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-power-activity-styling-gel/p/6021580",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h02/hfe/34872726585374/prd-front-6021580-1_600x600/prd-front-6021580-1-600x600.jpg"
+}
