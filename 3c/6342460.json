@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Fluffy Verwarmd Sierkussen",
+  "code": "6342460",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 6686 > 6687 > 6688",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-fluffy-verwarmd-sierkussen/p/6342460",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267458,
+      "name": "Huishoudelijk textiel"
+    }
+  ],
+  "description": "crème, 45cm x 45cm",
+  "image": "/medias/sys_master/prd-images/h53/h02/44133764530206/prd-front-6342460-1_600x600/prd-front-6342460-1-600x600.jpg"
+}

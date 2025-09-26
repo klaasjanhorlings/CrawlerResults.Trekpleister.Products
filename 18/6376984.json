@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Milka Oreo Original Reep",
+  "code": "6376984",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2734 > 3436",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/milka-oreo-original-reep/p/6376984",
+  "listName": "Lister",
+  "brand": "Milka",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267585,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "36 x 37g",
+  "image": "/medias/sys_master/prd-images/h96/hfd/44181258010654/prd-front-6376984-1_600x600/prd-front-6376984-1-600x600.jpg"
+}

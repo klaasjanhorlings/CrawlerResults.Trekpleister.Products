@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "3031371",
-  "mmkId": "3031371",
-  "productGroupId": "491969",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/got2b-glued-styling-haargel/p/668346",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h16/hf4/44315592884254/prd-front-668346-1_600x600/prd-front-668346-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h56/h61/44327022264350/prd-front-668346-1_600x600/prd-front-668346-1-600x600.jpg"
 }

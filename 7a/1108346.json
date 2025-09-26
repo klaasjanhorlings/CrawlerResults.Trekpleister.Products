@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Merci Finest Selection Geschenkdoos",
+  "code": "1108346",
+  "price": "17.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "STORCK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/merci-finest-selection-geschenkdoos/p/1108346",
+  "listName": "Lister",
+  "brand": "Merci",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267591,
+      "name": "Kerstsnoep"
+    }
+  ],
+  "description": "675g",
+  "image": "/medias/sys_master/prd-images/hbc/h81/44324739547166/prd-front-1108346-1_600x600/prd-front-1108346-1-600x600.jpg"
+}

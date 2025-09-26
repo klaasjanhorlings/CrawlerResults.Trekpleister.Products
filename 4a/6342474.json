@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Furry Verwarmd Sierkussen",
+  "code": "6342474",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 6686 > 6687 > 6688",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-furry-verwarmd-sierkussen/p/6342474",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267458,
+      "name": "Huishoudelijk textiel"
+    }
+  ],
+  "description": "taupe, 60cm x 30cm"
+}

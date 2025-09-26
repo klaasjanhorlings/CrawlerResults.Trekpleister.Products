@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Haribo Greatest Hits",
+  "code": "5358333",
+  "price": "5.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
+  "supplier": "HARIBO THE NET.& BEL.BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/haribo-greatest-hits/p/5358333",
+  "listName": "Lister",
+  "brand": "Haribo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267587,
+      "name": "Snoep"
+    }
+  ],
+  "description": "19 x 25g",
+  "image": "/medias/sys_master/prd-images/hf3/h9d/44182055321630/prd-front-5358333-1_600x600/prd-front-5358333-1-600x600.jpg"
+}

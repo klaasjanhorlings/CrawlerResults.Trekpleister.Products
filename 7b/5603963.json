@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031437",
+  "mmkId": "3031437",
+  "productGroupId": "489597",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-magnum-gold-caramel-billionaire-3-in-1-douchegel/p/5603963",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h27/h98/44317780508702/prd-front-5603963-1_600x600/prd-front-5603963-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h70/hf4/44328391376926/prd-front-5603963-1_600x600/prd-front-5603963-1-600x600.jpg"
 }

@@ -21,17 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267050,
-      "name": "Zonbescherming"
+      "id": 30267067,
+      "name": "Babyverzorging"
     },
     {
-      "id": 30267214,
-      "name": "Zonnebrand"
+      "id": 30267335,
+      "name": "Baby zonnebrand"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h2b/h3b/33563409088542/prd-front-5806155-1_600x600/prd-front-5806155-1-600x600.jpg"
 }

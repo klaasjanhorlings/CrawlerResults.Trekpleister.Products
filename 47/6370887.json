@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Ribfleece Verwarmd Sierkussen",
+  "code": "6370887",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 6686 > 6687 > 6688",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-ribfleece-verwarmd-sierkussen/p/6370887",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267458,
+      "name": "Huishoudelijk textiel"
+    }
+  ],
+  "description": "crème, 45cm x 45cm",
+  "image": "/medias/sys_master/prd-images/hfe/hbc/44131419619358/prd-front-6370887-1_600x600/prd-front-6370887-1-600x600.jpg"
+}

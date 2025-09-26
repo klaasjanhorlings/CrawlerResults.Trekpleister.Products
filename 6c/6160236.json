@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tristar Infraroodkachel",
+  "code": "6160236",
+  "price": "79.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 6686 > 6687 > 6688",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tristar-infraroodkachel/p/6160236",
+  "listName": "Lister",
+  "brand": "Tristar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 51235487,
+      "name": "Kachels"
+    }
+  ],
+  "description": "1,1cm x 80cm x 60cm",
+  "image": "/medias/sys_master/prd-images/hb9/h2b/31724809977886/prd-front-6160236-1_600x600/prd-front-6160236-1-600x600.jpg"
+}

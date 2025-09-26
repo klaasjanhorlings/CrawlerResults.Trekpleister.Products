@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Elektrisch Verwarmde Kruik",
+  "code": "6366484",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 6686 > 6687 > 6688",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-elektrisch-verwarmde-kruik/p/6366484",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 30267323,
+      "name": "Hulpmiddelen"
+    }
+  ],
+  "description": "crème",
+  "image": "/medias/sys_master/prd-images/hc9/h1e/44131093676062/prd-front-6366484-1_600x600/prd-front-6366484-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Chupa Chups Crazy Dips Cola",
+  "code": "6381366",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3147 > 4015",
+  "supplier": "PERFETTI VAN MELLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/chupa-chups-crazy-dips-cola/p/6381366",
+  "listName": "Lister",
+  "brand": "Chupa Chup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267587,
+      "name": "Snoep"
+    }
+  ],
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/h3f/h3c/44180324679710/prd-front-6381366-1_600x600/prd-front-6381366-1-600x600.jpg"
+}

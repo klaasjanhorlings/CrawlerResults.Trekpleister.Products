@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Chupa Chups Crazy Dips Strawberry",
+  "code": "6378853",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
+  "supplier": "PERFETTI VAN MELLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/chupa-chups-crazy-dips-strawberry/p/6378853",
+  "listName": "Lister",
+  "brand": "Chupa Chup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267587,
+      "name": "Snoep"
+    }
+  ],
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/hc1/hd9/44326235308062/prd-front-6378853-1_600x600/prd-front-6378853-1-600x600.jpg"
+}

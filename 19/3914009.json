@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Look-O-Look Mini Candy Pizza",
+  "code": "3914009",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3147 > 4015",
+  "supplier": "PERFETTI VAN MELLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/look-o-look-mini-candy-pizza/p/3914009",
+  "listName": "Lister",
+  "brand": "Look-O-Look",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 100652040,
+      "name": "Trakteren"
+    }
+  ],
+  "description": "85g",
+  "image": "/medias/sys_master/prd-images/h84/h9e/44179689373726/prd-front-3914009-1_600x600/prd-front-3914009-1-600x600.jpg"
+}

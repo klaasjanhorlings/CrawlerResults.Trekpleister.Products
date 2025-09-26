@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Chupa Chups The Best Of Lolly's Silo",
+  "code": "6372196",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3147 > 4015",
+  "supplier": "PERFETTI VAN MELLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/chupa-chups-the-best-of-lollys-silo/p/6372196",
+  "listName": "Lister",
+  "brand": "Chupa Chup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 100652040,
+      "name": "Trakteren"
+    }
+  ],
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h52/h90/44188222029854/prd-front-6372196-1_600x600/prd-front-6372196-1-600x600.jpg"
+}

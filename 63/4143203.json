@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kiss Brush On Gel Kit",
+  "code": "4143203",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2958 > 3753",
+  "supplier": "ANVIRI COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kiss-brush-on-gel-kit/p/4143203",
+  "listName": "Lister",
+  "brand": "Kiss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267187,
+      "name": "Kunstnagels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4143203-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTExNTJ8aW1hZ2UvanBlZ3xhR1V6TDJobU1DOHhOak0xTXpZNE9EQTFPVGt6TkM5d2NtUXRabkp2Ym5RdE5ERTBNekl3TXkweFh6WXdNSGcyTURBfGU2OGRkYTlkYWJmNWFjZjgwZTcyZWRlODM0ZDM1ZTQ4NWMyOGQ3MDY5MGFkOWEwMTM4MTlhMTc2ZjllNjBjOTk"
+}

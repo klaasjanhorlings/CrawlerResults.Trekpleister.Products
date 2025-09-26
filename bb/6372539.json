@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Haribo Kindermix",
+  "code": "6372539",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
+  "supplier": "HARIBO THE NET.& BEL.BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/haribo-kindermix/p/6372539",
+  "listName": "Lister",
+  "brand": "Haribo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267587,
+      "name": "Snoep"
+    }
+  ],
+  "description": "1000g",
+  "image": "/medias/sys_master/prd-images/hdb/h10/44188821717022/prd-front-6372539-1_600x600/prd-front-6372539-1-600x600.jpg"
+}

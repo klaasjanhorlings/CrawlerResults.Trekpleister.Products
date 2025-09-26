@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tristar PD-8973E Keramische Kachel",
+  "code": "5892696",
+  "price": "14.99",
+  "priceOriginal": "25.99",
+  "itemBgbcat": "5929 > 6019 > 2197 > 6686 > 6687 > 6688",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 11,00",
+  "url": "/tristar-pd-8973e-keramische-kachel/p/5892696",
+  "listName": "Lister",
+  "brand": "Tristar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 51235487,
+      "name": "Kachels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9b/hc0/28573642784798/prd-front-5892696-1_600x600/prd-front-5892696-1-600x600.jpg"
+}

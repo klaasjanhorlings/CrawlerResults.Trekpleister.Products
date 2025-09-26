@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Werther's Original",
+  "code": "962760",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3147 > 4015",
+  "supplier": "STORCK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/werthers-original/p/962760",
+  "listName": "Lister",
+  "brand": "Werther's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267587,
+      "name": "Snoep"
+    }
+  ],
+  "description": "1000g",
+  "image": "/medias/sys_master/prd-images/h06/h84/44182624305182/prd-front-962760-1_600x600/prd-front-962760-1-600x600.jpg"
+}

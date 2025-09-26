@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Milka Cookie Sensations",
+  "code": "6382024",
+  "price": "21.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2340 > 2740 > 3442",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/milka-cookie-sensations/p/6382024",
+  "listName": "Lister",
+  "brand": "Milka",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 100652040,
+      "name": "Trakteren"
+    }
+  ],
+  "description": "24 x 52g",
+  "image": "/medias/sys_master/prd-images/h35/h61/44181605416990/prd-front-6382024-1_600x600/prd-front-6382024-1-600x600.jpg"
+}

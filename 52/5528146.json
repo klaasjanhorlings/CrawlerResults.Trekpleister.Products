@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dampo Luchtwegen Pastilles",
+  "code": "5528146",
+  "price": "5.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2634 > 3298 > 4197",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dampo-luchtwegen-pastilles/p/5528146",
+  "listName": "Lister",
+  "brand": "Dampo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267520,
+      "name": "Keelpastilles"
+    }
+  ],
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/h04/hd1/28908805652510/prd-front-5528146-1_600x600/prd-front-5528146-1-600x600.jpg"
+}

@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2834 > 3576 > 6784",
   "supplier": "PIETERCIL BARENDS BV",
-  "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -21,12 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 48237361,
-      "name": "Voetongemakken"
+      "id": 101932115,
+      "name": "Voetverzorging"
     },
     {
       "id": 48238489,

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oreo Original",
+  "code": "6367639",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2734 > 3436",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oreo-original/p/6367639",
+  "listName": "Lister",
+  "brand": "Oreo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 100652040,
+      "name": "Trakteren"
+    }
+  ],
+  "description": "20 x 66g",
+  "image": "/medias/sys_master/prd-images/hb1/h8c/44187966144542/prd-front-6367639-1_600x600/prd-front-6367639-1-600x600.jpg"
+}

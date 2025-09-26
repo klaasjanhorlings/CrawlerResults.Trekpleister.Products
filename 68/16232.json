@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ricola Citroen Munt Kruidenpastilles",
+  "code": "16232",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2634 > 3280 > 4181",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ricola-citroen-munt-kruidenpastilles/p/16232",
+  "listName": "Lister",
+  "brand": "Ricola",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267588,
+      "name": "Keelsnoepjes"
+    }
+  ],
+  "description": "50g",
+  "image": "/medias/prd-front-16232-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQzMjV8aW1hZ2UvanBlZ3xhREkyTDJneU5pOHhOakl5TlRnME1qUXlPVGs0TWk5d2NtUXRabkp2Ym5RdE1UWXlNekl0TVY4Mk1EQjROakF3fGU4OTI0NzE1ODFkZmY5NjVhZWNjZWFhNDI0Y2U5OTdkYzU0NWQzODVmNWQyOGE4OWYxMmMxZjM0YzUzYmI3Nzg"
+}

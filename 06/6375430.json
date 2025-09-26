@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fruit-tella Aarbei",
+  "code": "6375430",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3147 > 4015",
+  "supplier": "PERFETTI VAN MELLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fruit-tella-aarbei/p/6375430",
+  "listName": "Lister",
+  "brand": "Fruit-tella",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267587,
+      "name": "Snoep"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/ha5/hf5/44190226481182/prd-front-6375430-1_600x600/prd-front-6375430-1-600x600.jpg"
+}

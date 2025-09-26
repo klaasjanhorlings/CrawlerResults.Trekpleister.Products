@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -25,12 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267064,
+      "name": "Optiek"
     },
     {
-      "id": 30267269,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30267316,
+      "name": "Oogdruppels"
     }
   ],
   "description": "Medisch hulpmiddel - 10ml",
