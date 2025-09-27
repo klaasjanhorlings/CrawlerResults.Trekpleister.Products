@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 6740 > 6739 > 6741",
   "supplier": "GOLIATH B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Elektronisch speelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-4942106-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTE2NTI4fGltYWdlL2pwZWd8YURjMUwyaGxOQzh4TnpRd05UVXlNems0TkRReE5DOXdjbVF0Wm5KdmJuUXRORGswTWpFd05pMHhYell3TUhnMk1EQXxjZjhlOWY1MmQwNjJkMmVhYmNlY2EwZGQyM2IyN2I0NDkyOGJiYTZlYmI4MzQ4NTkzMzFjZTdlZWJmYTA1M2Zi"
 }

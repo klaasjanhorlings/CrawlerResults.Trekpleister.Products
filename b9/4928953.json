@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 6740 > 6739 > 6741",
   "supplier": "GOLIATH B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hbd/h40/33390829633566/prd-front-4928953-1_600x600/prd-front-4928953-1-600x600.jpg"
+  "description": ""
 }

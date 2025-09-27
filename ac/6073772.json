@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lumineux Whitening Strips",
+  "code": "6073772",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 3137 > 4003",
+  "supplier": "ELMARC BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/lumineux-whitening-strips/p/6073772",
+  "listName": "Lister",
+  "brand": "Lumineux",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 49742490,
+      "name": "Whitening producten"
+    }
+  ],
+  "description": "42 stuks",
+  "image": "/medias/sys_master/prd-images/h19/h3b/44336722444318/prd-front-6073772-1_600x600/prd-front-6073772-1-600x600.jpg"
+}

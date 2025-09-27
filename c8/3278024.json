@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dagravit Totaal 30 Multivitaminen Dragees",
-  "code": "5930594",
-  "price": "32.99",
+  "itemName": "Centrum Women Multivitaminen Tabletten",
+  "code": "3278024",
+  "price": "13.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
-  "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dagravit-totaal-30-multivitaminen-dragees/p/5930594",
+  "url": "/centrum-women-multivitaminen-tabletten/p/3278024",
   "listName": "Lister",
-  "brand": "Dagravit",
+  "brand": "Centrum",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,6 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "350 stuks",
-  "image": "/medias/sys_master/prd-images/h64/had/35174641795102/prd-front-5930594-1_600x600/prd-front-5930594-1-600x600.jpg"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h2f/hf0/34676201816094/prd-front-3278024-1_600x600/prd-front-3278024-1-600x600.jpg"
 }
