@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "150ml - Gecombineerde en vette huid"
+  "description": "150ml - Gecombineerde en vette huid",
+  "image": "/medias/sys_master/prd-images/h20/h89/35156343357470/prd-front-34381-1_600x600/prd-front-34381-1-600x600.jpg"
 }

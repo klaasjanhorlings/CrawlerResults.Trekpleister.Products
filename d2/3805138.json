@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "ORIGINAL ADDITIONS (BP)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "355ml"
+  "description": "355ml",
+  "image": "/medias/prd-front-3805138-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQzNzh8aW1hZ2UvanBlZ3xhR1ZrTDJnd01TOHhOelUzT1RNek5UWXhORFE1TkM5d2NtUXRabkp2Ym5RdE16Z3dOVEV6T0MweFh6WXdNSGcyTURBfDc0ZWQ2N2I2NDI3YWZlYTk1ZGY4N2EzODc1ODQ3ZjU3MzkwYzFkYjFkODRjOTc2MzVkNmI3NGVjNjFhY2EyYzI"
 }
