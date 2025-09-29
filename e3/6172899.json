@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3031499",
-  "mmkId": "3031499",
-  "productGroupId": "498124",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bruno-banani-radiant-woman-eau-de-parfum/p/6172899",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h91/h37/31842946023454/prd-front-6172899-1_600x600/prd-front-6172899-1-600x600.jpg"
+  "description": "30ml"
 }

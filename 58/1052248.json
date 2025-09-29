@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3031550",
+  "mmkId": "3031550",
+  "productGroupId": "472694",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-extra-sterke-dennenknop-honingsiroop/p/1052248",
@@ -37,5 +37,6 @@
       "name": "Keelsiropen"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h84/h7c/30555642134558/prd-front-1052248-1_600x600/prd-front-1052248-1-600x600.jpg"
 }

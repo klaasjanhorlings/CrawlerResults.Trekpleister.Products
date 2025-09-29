@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "3031338",
-  "mmkId": "3031338",
-  "productGroupId": "487889",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-men-perfect-wave-deodorant-bodyspray/p/1080969",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h57/h5f/44343499948062/prd-front-1080969-1_600x600/prd-front-1080969-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1c/h2c/44356662394910/prd-front-1080969-1_600x600/prd-front-1080969-1-600x600.jpg"
 }

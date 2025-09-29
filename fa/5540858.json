@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3031466",
-  "mmkId": "3031466",
-  "productGroupId": "484343",
+  "onPromo": "3031652",
+  "mmkId": "3031652",
+  "productGroupId": "500019",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-multi-compleet-man-tabletten/p/5540858",
@@ -33,5 +33,6 @@
       "name": "Weerstand en of energie"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/prd-front-5540858-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQ5NDZ8aW1hZ2UvanBlZ3xhRE14TDJobVl5OHhOekExT0RNM01UQXhNRFU1TUM5d2NtUXRabkp2Ym5RdE5UVTBNRGcxT0MweFh6WXdNSGcyTURBfDVjY2VkOTgwZWM5ZDdlNzM3MmFiOWJlYzA3Y2UwOTVjMGQxMDI3YThkZjJkODVmNjhkMDI1MmFkMmFlMjllOWQ"
 }

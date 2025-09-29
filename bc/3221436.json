@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 6071 > 6072 > 6074",
   "supplier": "HENKEL NEDERLAND BV U-W",
-  "inStock": "inStock",
-  "onPromo": "3031358",
-  "mmkId": "3031358",
-  "productGroupId": "490471",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/witte-reus-kracht-actief-oceaan-toiletblok/p/3221436",
@@ -29,5 +29,6 @@
       "name": "Toiletblokken"
     }
   ],
-  "description": "50g"
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/h1b/h0a/44351131123742/prd-front-3221436-1_600x600/prd-front-3221436-1-600x600.jpg"
 }

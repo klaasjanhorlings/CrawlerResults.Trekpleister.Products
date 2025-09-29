@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "3031338",
-  "mmkId": "3031338",
-  "productGroupId": "487889",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-men-kick-off-douchegel-shampoo/p/1089971",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h8a/h55/44344692670494/prd-front-1089971-1_600x600/prd-front-1089971-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h10/hf8/44351655182366/prd-front-1089971-1_600x600/prd-front-1089971-1-600x600.jpg"
 }

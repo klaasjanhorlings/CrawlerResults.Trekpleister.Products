@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3679",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3031318",
-  "mmkId": "3031318",
-  "productGroupId": "478272",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sebamed-douchegel/p/16100",
@@ -33,6 +33,5 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "200ml - Zeepvrij",
-  "image": "/medias/sys_master/prd-images/ha0/h10/31967022448670/prd-front-16100-1_600x600/prd-front-16100-1-600x600.jpg"
+  "description": "200ml - Zeepvrij"
 }

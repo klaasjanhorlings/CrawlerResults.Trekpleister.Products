@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2838 > 3578",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031379",
-  "mmkId": "3031379",
-  "productGroupId": "493286",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-dream-lengths-super-blowdry-creme/p/5401607",
@@ -33,6 +33,5 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/prd-front-5401607-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTgwODJ8aW1hZ2UvanBlZ3xhRGxrTDJnM09TOHhOekEwT1RrMk1EVTNPVEV3TWk5d2NtUXRabkp2Ym5RdE5UUXdNVFl3TnkweFh6WXdNSGcyTURBfDIwNWU3MGIyMjEzZGRkMDVkMDU5ODgwOWJkNGVkYTk0YzlhN2MzMTRmYWQ4OTI5NzkwZWIwOWVlYTk0MTFiMTM"
+  "description": "150ml"
 }

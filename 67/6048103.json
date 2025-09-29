@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3031466",
-  "mmkId": "3031466",
-  "productGroupId": "484343",
+  "onPromo": "3031592",
+  "mmkId": "3031592",
+  "productGroupId": "484360",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-super-visolie-omega-3/p/6048103",
@@ -33,5 +33,6 @@
       "name": "Visolie"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/hc8/h62/30503575093278/prd-front-6048103-1_600x600/prd-front-6048103-1-600x600.jpg"
 }

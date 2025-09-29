@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "3031499",
-  "mmkId": "3031499",
-  "productGroupId": "498124",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cacharel-noa-eau-de-toilette/p/240412",
@@ -25,6 +25,5 @@
       "name": "Eau de toilette"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h30/ha1/31773232660510/prd-front-240412-1_600x600/prd-front-240412-1-600x600.jpg"
+  "description": "30ml"
 }

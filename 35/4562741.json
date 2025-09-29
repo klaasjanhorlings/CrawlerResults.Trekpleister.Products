@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6508 > 6512 > 6516",
   "supplier": "ANVIRI COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031555",
+  "mmkId": "3031555",
+  "productGroupId": "475272",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kiss-natural-lashes-04c-96690-gorgeous-kunstwimpers/p/4562741",
@@ -33,5 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha7/hbc/30072043012126/prd-front-4562741-1_600x600/prd-front-4562741-1-600x600.jpg"
 }

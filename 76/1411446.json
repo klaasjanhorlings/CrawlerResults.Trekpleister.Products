@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3031376",
-  "mmkId": "3031376",
-  "productGroupId": "492981",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-overgang-capsules/p/1411446",
@@ -33,6 +33,5 @@
       "name": "Overgang"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h16/h4a/31899795095582/prd-front-1411446-1_600x600/prd-front-1411446-1-600x600.jpg"
+  "description": "30 stuks"
 }

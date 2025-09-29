@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3784",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031496",
-  "mmkId": "3031496",
-  "productGroupId": "495964",
+  "onPromo": "3031677",
+  "mmkId": "3031677",
+  "productGroupId": "502276",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-derma-control-restore-antitranspirant-roller/p/6324855",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/he6/h7a/44039243169822/prd-front-6324855-1_600x600/prd-front-6324855-1-600x600.jpg"
 }

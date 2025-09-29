@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Sjaal met Lurex",
+  "code": "6259258",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 2225 > 5069 > 5071 > 5096",
+  "supplier": "HVEG ACCES. GROUP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-sjaal-met-lurex/p/6259258",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267423,
+      "name": "Winteraccessoires"
+    }
+  ],
+  "description": "legergroen, 50cm x 180cm",
+  "image": "/medias/sys_master/prd-images/h5f/hd5/34282363551774/prd-front-6259258-1_600x600/prd-front-6259258-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6329",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031544",
+  "mmkId": "3031544",
+  "productGroupId": "464137",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tweezerman-mini-slant-tweezer/p/5221994",
@@ -33,5 +33,6 @@
       "name": "Pincetten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h00/hc6/28578647113758/prd-front-5221994-1_600x600/prd-front-5221994-1-600x600.jpg"
 }

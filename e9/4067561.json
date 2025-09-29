@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2724 > 3427",
   "supplier": "LABORATOIRES SARBEC",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031536",
+  "mmkId": "3031536",
+  "productGroupId": "456394",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/corine-de-farme-calendula-hydraterende-bodymelk/p/4067561",
@@ -37,6 +37,5 @@
       "name": "Babylotion"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/prd-front-4067561-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjIyNDJ8aW1hZ2UvanBlZ3xhR1F5TDJnM1lTOHhOak0wTlRZMk1qSTVNVGs1T0M5d2NtUXRabkp2Ym5RdE5EQTJOelUyTVMweFh6WXdNSGcyTURBfDY2Mjg2YTExN2RiYmU3NWExOTYzMmU1YmE5MmE4NzkxN2VjMDc0NGU5NGI5NjI3OWU5NmY3NDBjN2U3OGZkMmY"
+  "description": "500ml"
 }

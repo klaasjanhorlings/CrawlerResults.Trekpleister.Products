@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Regenbroek",
+  "code": "6259601",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 4294 > 6347 > 6348 > 6349",
+  "supplier": "A.F. TEXTILES GROUP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/regenbroek/p/6259601",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267419,
+      "name": "Regenkleding"
+    }
+  ],
+  "description": "zwart, mt L-XL",
+  "image": "/medias/sys_master/prd-images/hf7/h4d/34946332393502/prd-front-6259601-1_600x600/prd-front-6259601-1-600x600.jpg"
+}

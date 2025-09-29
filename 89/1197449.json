@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3031336",
-  "mmkId": "3031336",
-  "productGroupId": "484859",
+  "onPromo": "3031572",
+  "mmkId": "3031572",
+  "productGroupId": "480829",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-structuurherstel-conditioner/p/1197449",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hfa/h81/34826870161438/prd-front-1197449-1_600x600/prd-front-1197449-1-600x600.jpg"
 }

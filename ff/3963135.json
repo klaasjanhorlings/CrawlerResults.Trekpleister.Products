@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3031409",
-  "mmkId": "3031409",
-  "productGroupId": "494678",
+  "onPromo": "3031641",
+  "mmkId": "3031641",
+  "productGroupId": "499024",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamine-d3-met-magnesium-tabletten/p/3963135",
@@ -37,5 +37,6 @@
       "name": "Vitamine D"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/hff/h24/28576343326750/prd-front-3963135-1_600x600/prd-front-3963135-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6697",
   "supplier": "COSMOGROUP BRANDS BV",
   "inStock": "inStock",
-  "onPromo": "3031320",
-  "mmkId": "3031320",
-  "productGroupId": "480214",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/umberto-giannini-scalp-scrub/p/5823095",
@@ -33,6 +33,5 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "200g",
-  "image": "/medias/sys_master/prd-images/h20/hb3/31031751344158/prd-front-5823095-1_600x600/prd-front-5823095-1-600x600.jpg"
+  "description": "200g"
 }

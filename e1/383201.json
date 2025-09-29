@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "3031499",
-  "mmkId": "3031499",
-  "productGroupId": "498124",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 4,38",
   "url": "/giorgio-armani-acqua-di-gio-men-eau-de-toilette/p/383201",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hd3/hf9/34489686851614/prd-front-383201-1_600x600/prd-front-383201-1-600x600.jpg"
 }

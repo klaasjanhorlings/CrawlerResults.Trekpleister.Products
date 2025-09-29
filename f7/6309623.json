@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031378",
-  "mmkId": "3031378",
-  "productGroupId": "493137",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-color-sensation-color-retouch-50-lichtbruin-haarkleuring/p/6309623",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha6/h3e/34487794073630/prd-front-6309623-1_600x600/prd-front-6309623-1-600x600.jpg"
+  "description": ""
 }

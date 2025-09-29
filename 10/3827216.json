@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3031616",
+  "mmkId": "3031616",
+  "productGroupId": "491112",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-fit-me-matte-poreless-130-buff-beige-foundation/p/3827216",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-3827216-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDM1MzB8aW1hZ2UvanBlZ3xhRFF4TDJnNFlTOHhOak0yTkRJNE1UUTJNamd4TkM5d2NtUXRabkp2Ym5RdE16Z3lOekl4TmkweFh6WXdNSGcyTURBfDQ4NGU5ZDVmY2FlZWZlNDBiY2M0NzM1ODc5NDQ5ZTczMWM2NzkyYWI0NzI5ZDkwMmE0OTA1M2IwYmRkODg3ZTA"
 }

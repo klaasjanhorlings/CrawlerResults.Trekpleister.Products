@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "COBECO PHARMA WHOLESALE",
   "inStock": "inStock",
-  "onPromo": "3031421",
-  "mmkId": "3031421",
-  "productGroupId": "495249",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-natural-glijmiddel-op-waterbasis/p/6018045",
@@ -33,5 +33,6 @@
       "name": "Glijmiddelen en massagegels"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hc9/hdf/30187300847646/prd-front-6018045-1_600x600/prd-front-6018045-1-600x600.jpg"
 }

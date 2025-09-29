@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031568",
+  "mmkId": "3031568",
+  "productGroupId": "480594",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-kids-shampoo-douchegel/p/2527085",
@@ -37,5 +37,6 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h28/h3f/44326178848798/prd-front-2527085-1_600x600/prd-front-2527085-1-600x600.jpg"
 }
