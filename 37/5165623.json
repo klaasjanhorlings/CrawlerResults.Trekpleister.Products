@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031543",
+  "mmkId": "3031543",
+  "productGroupId": "463004",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-original-deodorant-spray/p/5165623",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h82/h8c/44359530184734/prd-front-5165623-1_600x600/prd-front-5165623-1-600x600.jpg"
 }

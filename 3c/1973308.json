@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031596",
+  "mmkId": "3031596",
+  "productGroupId": "487888",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-sense-mystic-moments-passion-flower-douchecreme/p/1973308",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h0a/h77/44351656820766/prd-front-1973308-1_600x600/prd-front-1973308-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb8/h74/44357927993374/prd-front-1973308-1_600x600/prd-front-1973308-1-600x600.jpg"
 }

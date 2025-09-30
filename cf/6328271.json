@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Therme Zen White Lotus Eau de Parfum",
-  "code": "5542251",
-  "price": "17.99",
+  "itemName": "Sabrina Carpenter Me Espresso Eau de Parfum",
+  "code": "6328271",
+  "price": "21.95",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
-  "supplier": "REMARK GROEP",
+  "supplier": "CARE COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "3031600",
-  "mmkId": "3031600",
-  "productGroupId": "489435",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/therme-zen-white-lotus-eau-de-parfum/p/5542251",
+  "url": "/sabrina-carpenter-me-espresso-eau-de-parfum/p/6328271",
   "listName": "Lister",
-  "brand": "Therme",
+  "brand": "SABRINA CARPENTER",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h51/h75/28758752034846/prd-front-5542251-1_600x600/prd-front-5542251-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5a/hbd/34387122159646/prd-front-6328271-1_600x600/prd-front-6328271-1-600x600.jpg"
 }

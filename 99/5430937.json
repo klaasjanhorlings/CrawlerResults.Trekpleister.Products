@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "YARI BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031590",
+  "mmkId": "3031590",
+  "productGroupId": "484235",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-green-curls-light-weight-detangler/p/5430937",
@@ -33,5 +33,6 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "240ml"
+  "description": "240ml",
+  "image": "/medias/sys_master/prd-images/hdf/h0b/28802070151198/prd-front-5430937-1_600x600/prd-front-5430937-1-600x600.jpg"
 }
