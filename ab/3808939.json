@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "YARI BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031590",
+  "mmkId": "3031590",
+  "productGroupId": "484235",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-oil-100-pure-raw-shea-butter/p/3808939",
@@ -25,12 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 30267249,
-      "name": "Haarstylingproducten"
+      "id": 30267046,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30267485,
-      "name": "Haarcrème"
+      "id": 30267195,
+      "name": "Bodybutter"
     }
   ],
   "description": "250ml",

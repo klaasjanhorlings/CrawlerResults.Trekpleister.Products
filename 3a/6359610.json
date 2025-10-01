@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Masterpiece 050 Ash Brown Micro Marker",
+  "code": "6359610",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "3031683",
+  "mmkId": "3031683",
+  "productGroupId": "508992",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-masterpiece-050-ash-brown-micro-marker/p/6359610",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30267467,
+      "name": "Wenkbrauwpotlood"
+    }
+  ],
+  "description": "1,1ml",
+  "image": "/medias/sys_master/prd-images/h06/hbc/35008207978526/prd-front-6359610-1_600x600/prd-front-6359610-1-600x600.jpg"
+}

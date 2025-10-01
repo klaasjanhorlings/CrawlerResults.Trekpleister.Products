@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6776 > 6775 > 6777",
   "supplier": "GALDERMA BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031558",
+  "mmkId": "3031558",
+  "productGroupId": "477576",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-6-hours-fast-clear-pimple-patch/p/6310232",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 81073392,
-      "name": "Pimple patches"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "24 stuks",

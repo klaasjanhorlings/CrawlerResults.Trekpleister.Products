@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Durex Sensitive Glijmiddel",
+  "code": "5299239",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3031554",
+  "mmkId": "3031554",
+  "productGroupId": "473704",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/durex-sensitive-glijmiddel/p/5299239",
+  "listName": "Lister",
+  "brand": "Durex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267062,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30267305,
+      "name": "Glijmiddelen en massagegels"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 250ml",
+  "image": "/medias/sys_master/prd-images/hb8/h39/31060920500254/prd-front-5299239-1_600x600/prd-front-5299239-1-600x600.jpg"
+}

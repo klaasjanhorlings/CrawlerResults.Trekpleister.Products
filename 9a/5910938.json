@@ -7,7 +7,7 @@
   "priceOriginal": "2.75",
   "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4082",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,8 +25,8 @@
       "name": "Huishouden"
     },
     {
-      "id": 30267124,
-      "name": "Vochtig toiletpapier"
+      "id": 30267123,
+      "name": "Toiletpapier"
     }
   ],
   "description": "42 stuks",

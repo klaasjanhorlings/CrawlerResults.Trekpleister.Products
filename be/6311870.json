@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Drs Leenarts Schuimende Gezichtsreiniger",
+  "code": "6311870",
+  "price": "15.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6765 > 6764",
+  "supplier": "DR LEENARTS BV",
+  "inStock": "inStock",
+  "onPromo": "3031586",
+  "mmkId": "3031586",
+  "productGroupId": "482895",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/drs-leenarts-schuimende-gezichtsreiniger/p/6311870",
+  "listName": "Lister",
+  "brand": "Drs Leenarts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677084,
+      "name": "Reinigingsmousse"
+    }
+  ],
+  "description": "100ml"
+}

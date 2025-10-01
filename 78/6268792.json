@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
   "supplier": "TREFFINA BV",
-  "inStock": "inStock",
-  "onPromo": "3031455",
-  "mmkId": "3031455",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -29,8 +29,8 @@
       "name": "Geschenksets"
     },
     {
-      "id": 72666175,
-      "name": "Geschenkset voor haar"
+      "id": 72666312,
+      "name": "Geschenkset voor hem"
     }
   ],
   "description": "",

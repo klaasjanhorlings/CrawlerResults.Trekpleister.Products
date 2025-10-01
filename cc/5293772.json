@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2634 > 3298 > 4197",
   "supplier": "CAMPS FOOD BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Keelsnoepjes"
     }
   ],
-  "description": "75g"
+  "description": "75g",
+  "image": "/medias/sys_master/prd-images/h85/h6d/32950515040286/prd-front-5293772-1_600x600/prd-front-5293772-1-600x600.jpg"
 }

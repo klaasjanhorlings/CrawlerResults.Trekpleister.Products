@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sudocrem Mijn Kleine Sudocrem",
+  "code": "6002799",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
+  "supplier": "TEVA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3031536",
+  "mmkId": "3031536",
+  "productGroupId": "456394",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sudocrem-mijn-kleine-sudocrem/p/6002799",
+  "listName": "Lister",
+  "brand": "Sudocrem",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267578,
+      "name": "Zinkzalf"
+    }
+  ],
+  "description": "22g",
+  "image": "/medias/sys_master/prd-images/h8a/h81/30186395205662/prd-front-6002799-1_600x600/prd-front-6002799-1-600x600.jpg"
+}

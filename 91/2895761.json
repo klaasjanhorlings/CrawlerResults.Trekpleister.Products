@@ -21,18 +21,17 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536625,
-      "name": "Baby"
+      "id": 30267127,
+      "name": "Eten en drinken"
     },
     {
-      "id": 30267066,
-      "name": "Babyvoeding"
+      "id": 30267441,
+      "name": "Snacks en snoep"
     },
     {
-      "id": 30267331,
-      "name": "Babytussendoortjes"
+      "id": 30267584,
+      "name": "Koek"
     }
   ],
-  "description": "175g",
-  "image": "/medias/prd-front-2895761-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzg4MzN8aW1hZ2UvanBlZ3xhR1pqTDJnMVpTOHhOakk1TkRFME5qUXdPRFEzT0M5d2NtUXRabkp2Ym5RdE1qZzVOVGMyTVMweFh6WXdNSGcyTURBfDU0MDJhMGE1Zjk2MDk0NWJkMWU1MmMzYzNiMTY5NjYzNWE4MTI1YTFiYWE2YTI0N2IwMDUxNWM5N2NhNDhhYzU"
+  "description": "175g"
 }
