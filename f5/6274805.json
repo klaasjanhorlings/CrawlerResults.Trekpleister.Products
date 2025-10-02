@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-soft-glam-53-deep-neutral-satin-foundation/p/6274805",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc5/h00/34022664896542/prd-front-6274805-1_600x600/prd-front-6274805-1-600x600.jpg"
 }

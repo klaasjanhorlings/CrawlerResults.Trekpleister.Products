@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-instant-bright-002n-medium-coverage-serum-concealer/p/6235220",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/hc7/he5/33042988040222/prd-front-6235220-1_600x600/prd-front-6235220-1-600x600.jpg"
 }

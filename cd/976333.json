@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
-  "onPromo": "3031584",
-  "mmkId": "3031584",
-  "productGroupId": "482844",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/otalgan-comfort-oordopjes/p/976333",
@@ -37,6 +37,5 @@
       "name": "Oordoppen"
     }
   ],
-  "description": "2 paar",
-  "image": "/medias/sys_master/prd-images/h50/hd7/29569085079582/prd-front-976333-1_600x600/prd-front-976333-1-600x600.jpg"
+  "description": "2 paar"
 }

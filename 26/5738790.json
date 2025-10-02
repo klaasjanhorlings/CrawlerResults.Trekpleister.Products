@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2958 > 3753",
   "supplier": "ANVIRI COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kiss-bare-but-better-nude-kunstnagels/p/5738790",
@@ -37,5 +37,6 @@
       "name": "Kunstnagels"
     }
   ],
-  "description": "28 stuks"
+  "description": "28 stuks",
+  "image": "/medias/sys_master/prd-images/h51/h22/35143362969630/prd-front-5738790-1_600x600/prd-front-5738790-1-600x600.jpg"
 }

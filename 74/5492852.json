@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "ORANGE-SHEEP BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Snoetenpoetsers"
     }
   ],
-  "description": "9 x 60 stuks",
-  "image": "/medias/sys_master/prd-images/h09/heb/34101992980510/prd-front-5492852-1_600x600/prd-front-5492852-1-600x600.jpg"
+  "description": "9 x 60 stuks"
 }

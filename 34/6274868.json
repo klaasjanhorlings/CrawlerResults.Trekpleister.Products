@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-halo-glow-contour-medium/tan-beauty-wand/p/6274868",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/hc3/h7c/34026205478942/prd-front-6274868-1_600x600/prd-front-6274868-1-600x600.jpg"
 }

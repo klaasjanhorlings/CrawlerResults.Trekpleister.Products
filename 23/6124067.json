@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-paw-paw-your-gorgeous-skin-spf50-day-cream/p/6124067",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "45ml"
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/h52/h97/31438916124702/prd-front-6124067-1_600x600/prd-front-6124067-1-600x600.jpg"
 }

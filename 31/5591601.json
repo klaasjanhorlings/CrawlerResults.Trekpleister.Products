@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-pure-volume-010-black-mascara/p/5591601",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/he4/h08/29946407321630/prd-front-5591601-1_600x600/prd-front-5591601-1-600x600.jpg"
 }

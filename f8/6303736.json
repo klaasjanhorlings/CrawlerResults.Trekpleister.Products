@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-skin-holy-hydration-spf30-dagcreme/p/6303736",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50g",
-  "image": "/medias/sys_master/prd-images/hd1/h4e/34090300702750/prd-front-6303736-1_600x600/prd-front-6303736-1-600x600.jpg"
+  "description": "50g"
 }

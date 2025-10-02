@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 6778",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031670",
+  "mmkId": "3031670",
+  "productGroupId": "502048",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-hydra-hyaluronic-shampoo-refill/p/6249871",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h35/hcd/34389828567070/prd-front-6249871-1_600x600/prd-front-6249871-1-600x600.jpg"
 }

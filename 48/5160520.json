@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-micellair-reinigingwater/p/5160520",
@@ -29,5 +29,6 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "100ml - Gevoelige huid"
+  "description": "100ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/ha1/hcc/34899696582686/prd-front-5160520-1_600x600/prd-front-5160520-1-600x600.jpg"
 }
