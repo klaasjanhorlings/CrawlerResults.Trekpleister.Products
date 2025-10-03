@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Kids Detangling Spray",
+  "code": "6378118",
+  "price": "15.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 4324 > 4325 > 4326",
+  "supplier": "NAIF CARE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-kids-detangling-spray/p/6378118",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267332,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267572,
+      "name": "Baby haarlotion"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hed/h3f/44180616839198/prd-front-6378118-1_600x600/prd-front-6378118-1-600x600.jpg"
+}

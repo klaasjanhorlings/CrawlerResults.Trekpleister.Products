@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olay Collagen Peptide MAX* Serum",
+  "code": "6035293",
+  "price": "44.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olay-collagen-peptide-max-serum/p/6035293",
+  "listName": "Lister",
+  "brand": "Olay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
+    }
+  ],
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h32/ha5/34533489115166/prd-front-6035293-1_600x600/prd-front-6035293-1-600x600.jpg"
+}

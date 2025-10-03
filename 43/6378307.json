@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Kids Hair Styling",
+  "code": "6378307",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 4324 > 4325 > 4326",
+  "supplier": "NAIF CARE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-kids-hair-styling/p/6378307",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267332,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267574,
+      "name": "Baby haargel"
+    }
+  ],
+  "description": "75g",
+  "image": "/medias/sys_master/prd-images/h25/h4f/44131097018398/prd-front-6378307-1_600x600/prd-front-6378307-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Kids Shampoo & Conditioner",
+  "code": "6378174",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3429",
+  "supplier": "NAIF CARE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-kids-shampoo-conditioner/p/6378174",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267332,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267573,
+      "name": "Babyshampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hb4/ha7/44179652771870/prd-front-6378174-1_600x600/prd-front-6378174-1-600x600.jpg"
+}

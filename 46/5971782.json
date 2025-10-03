@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Estée Lauder Advanced Night Repair Serum",
+  "code": "5971782",
+  "price": "42.99",
+  "priceOriginal": "54.95",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "DUMMY LEV",
+  "inStock": "inStock",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
+  "brandType": "A of B merk",
+  "discount": "€ 11,96",
+  "url": "/estee-lauder-advanced-night-repair-serum/p/5971782",
+  "listName": "Lister",
+  "brand": "Estée Lauder",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "20ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h1c/hd0/30104755568670/prd-front-5971782-1_600x600/prd-front-5971782-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Lifter Plump 008 Hot honey Lipgloss",
+  "code": "5990241",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-lifter-plump-008-hot-honey-lipgloss/p/5990241",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267140,
+      "name": "Lipgloss"
+    }
+  ],
+  "description": "5,4ml",
+  "image": "/medias/sys_master/prd-images/h29/h35/30090006200350/prd-front-5990241-1_600x600/prd-front-5990241-1-600x600.jpg"
+}

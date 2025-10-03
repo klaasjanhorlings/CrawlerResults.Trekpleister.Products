@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031543",
+  "mmkId": "3031543",
+  "productGroupId": "463004",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-lotion-billendoekjes/p/4350144",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "12 x 65 stuks",
-  "image": "/medias/sys_master/prd-images/ha4/hc2/44376520163358/prd-front-4350144-1_600x600/prd-front-4350144-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/haf/hd7/44398379139102/prd-front-4350144-1_600x600/prd-front-4350144-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031697",
+  "mmkId": "3031697",
+  "productGroupId": "502796",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cosrx-master-patch-original-fit-blemish-cover-patches/p/6200276",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 81073392,
-      "name": "Pimple patches"
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50048157,
+      "name": "Verzorging probleemhuid"
     }
   ],
   "description": "24 stuks",
