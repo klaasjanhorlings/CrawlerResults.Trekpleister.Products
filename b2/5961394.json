@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "NAIF CARE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031536",
+  "mmkId": "3031536",
+  "productGroupId": "456394",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-baby-kids-nurturing-cream/p/5961394",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h11/h39/28826627702814/prd-front-5961394-1_600x600/prd-front-5961394-1-600x600.jpg"
 }

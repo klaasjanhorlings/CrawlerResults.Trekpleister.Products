@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5928 > 6351 > 6352 > 2487 > 3056 > 5804",
   "supplier": "SHOES4ALL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Pantoffels"
     }
   ],
-  "description": "cognackleur, mt 40-41",
-  "image": "/medias/sys_master/prd-images/h54/h19/34389841346590/prd-front-6254456-1_600x600/prd-front-6254456-1-600x600.jpg"
+  "description": "cognackleur, mt 40-41"
 }

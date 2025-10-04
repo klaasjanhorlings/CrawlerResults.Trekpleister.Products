@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WeCare Forest Fruits Meal Replacement Shake",
+  "code": "16498",
+  "price": "16.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2707 > 3891",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wecare-forest-fruits-meal-replacement-shake/p/16498",
+  "listName": "Lister",
+  "brand": "WeCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30267300,
+      "name": "Maaltijdvervangers"
+    }
+  ],
+  "description": "436g",
+  "image": "/medias/sys_master/prd-images/hf7/hf0/35064412307486/prd-front-16498-1_600x600/prd-front-16498-1-600x600.jpg"
+}

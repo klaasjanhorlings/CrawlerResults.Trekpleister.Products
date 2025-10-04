@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Avent Soother 0-6M SCF099/26 Soothie Fopspeen",
+  "code": "6386798",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3381",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-avent-soother-0-6m-scf099/26-soothie-fopspeen/p/6386798",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267354,
+      "name": "Fopspenen"
+    }
+  ],
+  "description": "blauw, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h74/hb2/44266254696478/prd-front-6386798-1_600x600/prd-front-6386798-1-600x600.jpg"
+}

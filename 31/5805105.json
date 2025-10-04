@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence The Nail Polish Corrector Pen",
+  "code": "5805105",
+  "price": "2.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-the-nail-polish-corrector-pen/p/5805105",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267190,
+      "name": "Nagellakremover"
+    }
+  ],
+  "description": "4,5ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Blue II Plus Slalom Wegwerpmesjes",
+  "code": "6373015",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3790",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-blue-ii-plus-slalom-wegwerpmesjes/p/6373015",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267235,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

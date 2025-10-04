@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Avent Ultra Soft SCF091/43 Fopspeen",
+  "code": "6386651",
+  "price": "10.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3382",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-avent-ultra-soft-scf091/43-fopspeen/p/6386651",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267354,
+      "name": "Fopspenen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h61/hae/44155260338206/prd-front-6386651-1_600x600/prd-front-6386651-1-600x600.jpg"
+}

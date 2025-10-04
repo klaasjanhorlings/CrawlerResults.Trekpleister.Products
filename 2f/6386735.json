@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Avent Soother Air 6-18M SCF087/17 fopspeen",
+  "code": "6386735",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3382",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-avent-soother-air-6-18m-scf087/17-fopspeen/p/6386735",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267354,
+      "name": "Fopspenen"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h47/h60/44302658273310/prd-front-6386735-1_600x600/prd-front-6386735-1-600x600.jpg"
+}
