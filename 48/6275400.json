@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Maybelline New York Lifter Plump 001 Blush Blaze Lipgloss",
-  "code": "5985187",
-  "price": "14.99",
+  "itemName": "e.l.f. Pout Clout Bust a Mauve Lip Plumping Pen",
+  "code": "6275400",
+  "price": "10.0",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
-  "supplier": "MAYBELLINE MAKE-UP",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
   "onPromo": "3031697",
   "mmkId": "3031697",
   "productGroupId": "502796",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/maybelline-new-york-lifter-plump-001-blush-blaze-lipgloss/p/5985187",
+  "url": "/elf-pout-clout-bust-a-mauve-lip-plumping-pen/p/6275400",
   "listName": "Lister",
-  "brand": "Maybelline",
+  "brand": "ELF",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,10 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30267140,
-      "name": "Lipgloss"
+      "id": 88118430,
+      "name": "Lip plumper"
     }
   ],
-  "description": "5,4ml",
-  "image": "/medias/sys_master/prd-images/hef/h96/30083756752926/prd-front-5985187-1_600x600/prd-front-5985187-1-600x600.jpg"
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/h2e/h79/34039350099998/prd-front-6275400-1_600x600/prd-front-6275400-1-600x600.jpg"
 }

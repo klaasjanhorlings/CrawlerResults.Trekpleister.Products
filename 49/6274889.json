@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "e.l.f. Soft Glam 43 Tan Cool Satin Foundation",
-  "code": "6274651",
-  "price": "10.0",
+  "itemName": "e.l.f. Halo Glow Contour Tan/Deep Beauty Wand",
+  "code": "6274889",
+  "price": "11.0",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
   "onPromo": "3031697",
@@ -13,7 +13,7 @@
   "productGroupId": "502796",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/elf-soft-glam-43-tan-cool-satin-foundation/p/6274651",
+  "url": "/elf-halo-glow-contour-tan/deep-beauty-wand/p/6274889",
   "listName": "Lister",
   "brand": "ELF",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267145,
+      "name": "Bronzer"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h36/hdc/34020661297182/prd-front-6274651-1_600x600/prd-front-6274651-1-600x600.jpg"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h9b/hb3/34021991415838/prd-front-6274889-1_600x600/prd-front-6274889-1-600x600.jpg"
 }

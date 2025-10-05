@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Perfect Duo 010 Zwart XXL Effect Mascara",
-  "code": "6104600",
-  "price": "5.99",
+  "itemName": "Catrice Plump It Up 010 Poppin' Champagne Lip Booster",
+  "code": "5788256",
+  "price": "3.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3031697",
@@ -13,7 +13,7 @@
   "productGroupId": "502796",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-perfect-duo-010-zwart-xxl-effect-mascara/p/6104600",
+  "url": "/catrice-plump-it-up-010-poppin-champagne-lip-booster/p/5788256",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267133,
-      "name": "Mascara"
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267140,
+      "name": "Lipgloss"
     }
   ],
-  "description": "8ml",
-  "image": "/medias/sys_master/prd-images/h11/ha8/31458735357982/prd-front-6104600-1_600x600/prd-front-6104600-1-600x600.jpg"
+  "description": "3,5ml",
+  "image": "/medias/sys_master/prd-images/hf8/hb3/33047068835870/prd-front-5788256-1_600x600/prd-front-5788256-1-600x600.jpg"
 }

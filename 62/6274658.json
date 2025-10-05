@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "MCoBeauty Flawless Glow 4 Medium Luminous Skin Filter",
-  "code": "6316931",
-  "price": "15.99",
+  "itemName": "e.l.f. Soft Glam 10 Fair Cool Satin Foundation",
+  "code": "6274658",
+  "price": "10.0",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
-  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
   "onPromo": "3031697",
   "mmkId": "3031697",
   "productGroupId": "502796",
-  "brandType": "Exclusief merk",
+  "brandType": "A of B merk",
   "discount": "",
-  "url": "/mcobeauty-flawless-glow-4-medium-luminous-skin-filter/p/6316931",
+  "url": "/elf-soft-glam-10-fair-cool-satin-foundation/p/6274658",
   "listName": "Lister",
-  "brand": "MCoBeauty",
+  "brand": "ELF",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h82/haf/34830401208350/prd-front-6316931-1_600x600/prd-front-6316931-1-600x600.jpg"
+  "description": "30ml"
 }

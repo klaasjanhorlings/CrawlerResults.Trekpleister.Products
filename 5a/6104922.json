@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Plump It Up 090 Potentially Scandalous Lip Booster",
-  "code": "5788249",
-  "price": "3.99",
+  "itemName": "Catrice Blush Affair 030 Absolute Apricot Cream & Powder Palette",
+  "code": "6104922",
+  "price": "5.69",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3031697",
@@ -13,7 +13,7 @@
   "productGroupId": "502796",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-plump-it-up-090-potentially-scandalous-lip-booster/p/5788249",
+  "url": "/catrice-blush-affair-030-absolute-apricot-cream-powder-palette/p/6104922",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 30267140,
-      "name": "Lipgloss"
+      "id": 30267147,
+      "name": "Blush"
     }
   ],
-  "description": "3,5ml",
-  "image": "/medias/sys_master/prd-images/h69/ha9/33047068508190/prd-front-5788249-1_600x600/prd-front-5788249-1-600x600.jpg"
+  "description": "6g",
+  "image": "/medias/sys_master/prd-images/h60/h77/33045191458846/prd-front-6104922-1_600x600/prd-front-6104922-1-600x600.jpg"
 }

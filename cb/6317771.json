@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "MCoBeauty XtendBrows Light/Medium Shape & Sculpt Pencil",
-  "code": "6317673",
+  "itemName": "MCoBeauty Ivory Instant Concealer Camouflage & Contour",
+  "code": "6317771",
   "price": "7.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
   "onPromo": "3031697",
@@ -13,7 +13,7 @@
   "productGroupId": "502796",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/mcobeauty-xtendbrows-light/medium-shape-sculpt-pencil/p/6317673",
+  "url": "/mcobeauty-ivory-instant-concealer-camouflage-contour/p/6317771",
   "listName": "Lister",
   "brand": "MCoBeauty",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267149,
-      "name": "Wenkbrauw make-up"
-    },
-    {
-      "id": 30267467,
-      "name": "Wenkbrauwpotlood"
+      "id": 30267135,
+      "name": "Concealer"
     }
   ],
-  "description": "0,1g",
-  "image": "/medias/sys_master/prd-images/h03/hfe/34827051696158/prd-front-6317673-1_600x600/prd-front-6317673-1-600x600.jpg"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h90/ha5/34827395596318/prd-front-6317771-1_600x600/prd-front-6317771-1-600x600.jpg"
 }

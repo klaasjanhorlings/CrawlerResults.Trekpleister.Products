@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Plump It Up 050 Good Vibrations Lip Booster",
-  "code": "5788389",
-  "price": "3.99",
+  "itemName": "Catrice Magic Shaper 20  Contour & Glow Stick",
+  "code": "5911946",
+  "price": "5.49",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3031697",
@@ -13,7 +13,7 @@
   "productGroupId": "502796",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-plump-it-up-050-good-vibrations-lip-booster/p/5788389",
+  "url": "/catrice-magic-shaper-20-contour-glow-stick/p/5911946",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,13 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 30267140,
-      "name": "Lipgloss"
+      "id": 30267148,
+      "name": "Contour"
     }
   ],
-  "description": "3,5ml"
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/h77/h46/29945668304926/prd-front-5911946-1_600x600/prd-front-5911946-1-600x600.jpg"
 }
