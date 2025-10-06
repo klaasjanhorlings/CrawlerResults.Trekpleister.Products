@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "3031697",
-  "mmkId": "3031697",
-  "productGroupId": "502796",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/versace-man-eau-fraiche-eau-de-toilette/p/6363173",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h26/hdf/35101188554782/prd-front-6363173-1_600x600/prd-front-6363173-1-600x600.jpg"
+  "description": "100ml"
 }

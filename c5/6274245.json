@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "3031697",
-  "mmkId": "3031697",
-  "productGroupId": "502796",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-rich-chocolate-hydrating-camo-concealer-satin-finish/p/6274245",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "6ml",
-  "image": "/medias/sys_master/prd-images/heb/h74/34022663585822/prd-front-6274245-1_600x600/prd-front-6274245-1-600x600.jpg"
+  "description": "6ml"
 }

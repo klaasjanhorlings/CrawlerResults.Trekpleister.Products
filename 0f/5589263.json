@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3031697",
-  "mmkId": "3031697",
-  "productGroupId": "502796",
+  "onPromo": "3031616",
+  "mmkId": "3031616",
+  "productGroupId": "491112",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-matte-ink-50-voyager-matte-lippenstift/p/5589263",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/hbd/h9e/29032186904606/prd-front-5589263-1_600x600/prd-front-5589263-1-600x600.jpg"
 }

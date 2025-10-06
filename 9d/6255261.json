@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Oral-B iO5 Artificial Intelligence Elektrische Tandenborstel",
   "code": "6255261",
-  "price": "113.99",
+  "price": "94.99",
   "priceOriginal": "189.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PROCTER & GAMBLE NL BV",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 76,00",
+  "discount": "€ 95,00",
   "url": "/oral-b-io5-artificial-intelligence-elektrische-tandenborstel/p/6255261",
   "listName": "Lister",
   "brand": "Oral B",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/hd5/hf4/44302650081310/prd-front-6255261-1_600x600/prd-front-6255261-1-600x600.jpg"
 }

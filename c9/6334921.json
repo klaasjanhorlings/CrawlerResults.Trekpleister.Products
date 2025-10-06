@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Halloween Spinnen Verkleedset",
+  "code": "6334921",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2183 > 2441 > 2936 > 3731",
+  "supplier": "LITTLE CONCEPTS NETTO",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/halloween-spinnen-verkleedset/p/6334921",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267088,
+      "name": "Verkleedkleding & accessoires"
+    }
+  ],
+  "description": "zwart, oranje, 4-8 jaar",
+  "image": "/medias/sys_master/prd-images/hc0/h83/44302981955614/prd-front-6334921-1_600x600/prd-front-6334921-1-600x600.jpg"
+}

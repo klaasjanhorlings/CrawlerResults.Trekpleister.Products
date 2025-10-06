@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031697",
-  "mmkId": "3031697",
-  "productGroupId": "502796",
+  "onPromo": "3031674",
+  "mmkId": "3031674",
+  "productGroupId": "502086",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-bright-reveal-niacinamide-serum/p/6020656",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/he6/h89/35136857866270/prd-front-6020656-1_600x600/prd-front-6020656-1-600x600.jpg"
+  "description": "30ml"
 }

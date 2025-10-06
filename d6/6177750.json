@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "De Kleine Keuken 6+M Biologische Knijpmix",
+  "code": "6177750",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "TRULY FOODS BV",
+  "inStock": "inStock",
+  "onPromo": "3031956",
+  "mmkId": "3031956",
+  "productGroupId": "463023",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/de-kleine-keuken-6m-biologische-knijpmix/p/6177750",
+  "listName": "Lister",
+  "brand": "De kleine keuken",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267327,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267564,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h8b/h3c/32019045318686/prd-front-6177750-1_600x600/prd-front-6177750-1-600x600.jpg"
+}

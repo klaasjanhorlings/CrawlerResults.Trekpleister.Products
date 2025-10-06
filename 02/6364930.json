@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "3031697",
-  "mmkId": "3031697",
-  "productGroupId": "502796",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/giorgio-armani-emporio-armani-stronger-with-you-intensely-eau-de-parfum/p/6364930",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h8e/hf9/44067816374302/prd-front-6364930-1_600x600/prd-front-6364930-1-600x600.jpg"
+  "description": "50ml"
 }

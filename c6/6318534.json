@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3031697",
-  "mmkId": "3031697",
-  "productGroupId": "502796",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-lip-shimmer-glow-hydrating-oil/p/6318534",
@@ -37,5 +37,6 @@
       "name": "Lip oil"
     }
   ],
-  "description": "3.8ml"
+  "description": "3.8ml",
+  "image": "/medias/sys_master/prd-images/heb/h83/44120021499934/prd-front-6318534-1_600x600/prd-front-6318534-1-600x600.jpg"
 }

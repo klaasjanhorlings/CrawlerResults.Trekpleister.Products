@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ariel Original Vloeibaar Wasmiddel",
+  "code": "6263829",
+  "price": "13.99",
+  "priceOriginal": "24.49",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3031717",
+  "mmkId": "3031717",
+  "productGroupId": "502433",
+  "brandType": "A of B merk",
+  "discount": "€ 10,50",
+  "url": "/ariel-original-vloeibaar-wasmiddel/p/6263829",
+  "listName": "Lister",
+  "brand": "Ariel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "1980ml, 44 wasbeurten"
+}

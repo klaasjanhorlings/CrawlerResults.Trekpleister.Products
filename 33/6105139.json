@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3031697",
-  "mmkId": "3031697",
-  "productGroupId": "502796",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-blush-affair-010-stunning-strawberry-cream-powder-palette/p/6105139",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "6g"
+  "description": "6g",
+  "image": "/medias/sys_master/prd-images/h28/h47/33043635339294/prd-front-6105139-1_600x600/prd-front-6105139-1-600x600.jpg"
 }

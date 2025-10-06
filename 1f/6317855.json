@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "6g"
+  "description": "6g",
+  "image": "/medias/sys_master/prd-images/h26/ha4/34828089688094/prd-front-6317855-1_600x600/prd-front-6317855-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3031697",
-  "mmkId": "3031697",
-  "productGroupId": "502796",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-prime-and-fine-multitalent-fixing-spray/p/3834356",
@@ -33,6 +33,5 @@
       "name": "Fixing sprays"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h08/he2/29951390154782/prd-front-3834356-1_600x600/prd-front-3834356-1-600x600.jpg"
+  "description": "50ml"
 }
