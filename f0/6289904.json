@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Line 'n Stain! 3 Make a Mauve Tattoo Lipliner",
-  "code": "6348718",
-  "price": "2.69",
+  "itemName": "Essence Hydra Kiss 104 Pink Squeeze, Please! Lip Oil",
+  "code": "6289904",
+  "price": "2.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-line-n-stain-3-make-a-mauve-tattoo-lipliner/p/6348718",
+  "url": "/essence-hydra-kiss-104-pink-squeeze-please-lip-oil/p/6289904",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -33,10 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 88118407,
-      "name": "Lip tint"
+      "id": 30267140,
+      "name": "Lipgloss"
     }
   ],
-  "description": "2,5ml",
-  "image": "/medias/sys_master/prd-images/hec/h9e/44123051065374/prd-front-6348718-1_600x600/prd-front-6348718-1-600x600.jpg"
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h4c/hda/34247132282910/prd-front-6289904-1_600x600/prd-front-6289904-1-600x600.jpg"
 }

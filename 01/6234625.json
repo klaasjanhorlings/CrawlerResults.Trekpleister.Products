@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ariel The Big One Alpine Freshness Wasmiddelcapsules",
+  "code": "6234625",
+  "price": "8.99",
+  "priceOriginal": "19.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 4253",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 11,00",
+  "url": "/ariel-the-big-one-alpine-freshness-wasmiddelcapsules/p/6234625",
+  "listName": "Lister",
+  "brand": "Ariel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "15 stuks",
+  "image": "/medias/sys_master/prd-images/h72/h7b/33116030042142/prd-front-6234625-1_600x600/prd-front-6234625-1-600x600.jpg"
+}

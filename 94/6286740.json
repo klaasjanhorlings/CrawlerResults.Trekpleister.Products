@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "LEGO Creator 31159 3-In-1 Wilde Dieren: Spannende Spin",
-  "code": "6226127",
-  "price": "10.99",
+  "itemName": "LEGO 71049 F1 Raceauto's",
+  "code": "6286740",
+  "price": "3.49",
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/lego-creator-31159-3-in-1-wilde-dieren-spannende-spin/p/6226127",
+  "url": "/lego-71049-f1-raceautos/p/6286740",
   "listName": "Lister",
-  "brand": "LEGO Creator",
+  "brand": "LEGO",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "LEGO"
     },
     {
-      "id": 30267372,
-      "name": "LEGO Creator"
+      "id": 69052009,
+      "name": "LEGO Minisets"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h09/hb1/33145064980510/prd-front-6226127-1_600x600/prd-front-6226127-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf0/h0e/33674923868190/prd-front-6286740-1_600x600/prd-front-6286740-1-600x600.jpg"
 }
