@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6239",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3031587",
-  "mmkId": "3031587",
-  "productGroupId": "482950",
+  "onPromo": "3031732",
+  "mmkId": "3031732",
+  "productGroupId": "501340",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davitamon-vitamine-d-aquosum-baby-en-kind/p/21533",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267286,
-      "name": "Botten en gewrichten"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
   "description": "25ml",

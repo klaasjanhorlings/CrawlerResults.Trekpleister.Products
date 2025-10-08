@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lindt Lindor Assorted Bonbons",
+  "code": "5819483",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "LINDT & SPRUNGLI BENELUX",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/lindt-lindor-assorted-bonbons/p/5819483",
+  "listName": "Lister",
+  "brand": "Lindt",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267585,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "137g",
+  "image": "/medias/prd-front-5819483-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzAwMjN8aW1hZ2UvanBlZ3xhREpqTDJoaE15OHlOalUzTXprek9EVTRPVGN5Tmk5d2NtUXRabkp2Ym5RdE5UZ3hPVFE0TXkweFh6WXdNSGcyTURBfGExYmE5MzEyZjllZDE5OGIyMzBmMjYyMWY2NGUyM2RkZTJlZTM4MjRkODk2MTc5OGQ3NDI4MTM5YmI2YWE2NDk"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Men Dermo Sensitive 24-Uur Antitranspirant Roller",
+  "code": "3707152",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3874",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3031606",
+  "mmkId": "3031606",
+  "productGroupId": "490232",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-men-dermo-sensitive-24-uur-antitranspirant-roller/p/3707152",
+  "listName": "Lister",
+  "brand": "Sanex Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267200,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "50ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/ha3/h5a/31996475998238/prd-front-3707152-1_600x600/prd-front-3707152-1-600x600.jpg"
+}

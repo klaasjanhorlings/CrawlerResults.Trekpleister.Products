@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3031652",
-  "mmkId": "3031652",
-  "productGroupId": "500019",
+  "onPromo": "3031726",
+  "mmkId": "3031726",
+  "productGroupId": "500088",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-multi-compleet-vrouw-tabletten/p/5540830",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267274,
-      "name": "Weerstand en of energie"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267552,
+      "name": "Multivitamines"
     }
   ],
   "description": "120 stuks",

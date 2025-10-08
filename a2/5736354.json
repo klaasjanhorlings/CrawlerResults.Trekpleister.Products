@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "White Musk & Warm Vanilla Geurglas",
+  "code": "5736354",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 6679 > 2146 > 2351 > 2704 > 3407",
+  "supplier": "DUMMY INTERN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/white-musk-warm-vanilla-geurglas/p/5736354",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267452,
+      "name": "Kaarsen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb4/h92/44255757008926/prd-front-5736354-1_600x600/prd-front-5736354-1-600x600.jpg"
+}

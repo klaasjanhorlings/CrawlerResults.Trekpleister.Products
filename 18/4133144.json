@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3527",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3031733",
+  "mmkId": "3031733",
+  "productGroupId": "503621",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/physiomer-baby-spray-neusspray/p/4133144",
@@ -37,5 +37,6 @@
       "name": "Neusspray"
     }
   ],
-  "description": "Medisch hulpmiddel - 135ml"
+  "description": "Medisch hulpmiddel - 135ml",
+  "image": "/medias/sys_master/prd-images/h33/h26/34377526083614/prd-front-4133144-1_600x600/prd-front-4133144-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Weleda Baby Calendula Crèmebad",
+  "itemName": "Weleda Baby Calendula Relax Crèmebad",
   "code": "2989659",
   "price": "13.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "456394",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/weleda-baby-calendula-cremebad/p/2989659",
+  "url": "/weleda-baby-calendula-relax-cremebad/p/2989659",
   "listName": "Lister",
   "brand": "Weleda",
   "mpOrigin": "Kruidvat",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200 ml",
-  "image": "/medias/sys_master/prd-images/h2f/h00/44422407454750/prd-front-2989659-1_600x600/prd-front-2989659-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h57/hf1/44439136370718/prd-front-2989659-1_600x600/prd-front-2989659-1-600x600.jpg"
 }

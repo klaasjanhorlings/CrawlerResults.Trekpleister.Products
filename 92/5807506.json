@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031590",
+  "mmkId": "3031590",
+  "productGroupId": "484235",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-fruity-curls-smoothie-mousse/p/5807506",
@@ -33,6 +33,5 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "384ml",
-  "image": "/medias/sys_master/prd-images/hfa/hde/28559754493982/prd-front-5807506-1_600x600/prd-front-5807506-1-600x600.jpg"
+  "description": "384ml"
 }

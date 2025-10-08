@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nutrilon 1 DuoBalans",
+  "itemName": "Nutrilon 1 Duobalans 0-6 Maanden Sachets",
   "code": "6362074",
   "price": "2.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nutrilon-1-duobalans/p/6362074",
+  "url": "/nutrilon-1-duobalans-0-6-maanden-sachets/p/6362074",
   "listName": "Lister",
   "brand": "Nutrilon",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Zuigelingenvoeding"
     }
   ],
-  "description": "Ook om te combineren met borstvoeding*",
+  "description": "23g",
   "image": "/medias/sys_master/prd-images/h0e/h51/44420613603358/prd-front-6362074-1_600x600/prd-front-6362074-1-600x600.jpg"
 }
