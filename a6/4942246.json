@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3031733",
-  "mmkId": "3031733",
-  "productGroupId": "503621",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/coldrex-4-in-1-neusspray/p/4942246",
@@ -37,6 +37,5 @@
       "name": "Neusspray"
     }
   ],
-  "description": "Medisch hulpmiddel - 20ml",
-  "image": "/medias/sys_master/prd-images/h94/h2a/34729457451038/prd-front-4942246-1_600x600/prd-front-4942246-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 20ml"
 }

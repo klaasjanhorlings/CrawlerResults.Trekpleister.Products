@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6696",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3031671",
-  "mmkId": "3031671",
-  "productGroupId": "502049",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-fiber-booster-anti-haaruitval-serum/p/6249906",
@@ -33,5 +33,6 @@
       "name": "Haarserum"
     }
   ],
-  "description": "102ml"
+  "description": "102ml",
+  "image": "/medias/sys_master/prd-images/h71/he5/33119568953374/prd-front-6249906-1_600x600/prd-front-6249906-1-600x600.jpg"
 }

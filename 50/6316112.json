@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "BLEACH PRODUCTS LIMITED",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031746",
+  "mmkId": "3031746",
+  "productGroupId": "499464",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/no-bleach-london-vivid-copper-permanent-vegan-dye-kit/p/6316112",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h76/hab/34837924249630/prd-front-6316112-1_600x600/prd-front-6316112-1-600x600.jpg"
+  "description": "150ml"
 }

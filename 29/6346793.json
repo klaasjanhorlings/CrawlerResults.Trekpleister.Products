@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031741",
+  "mmkId": "3031741",
+  "productGroupId": "494140",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-animal-crossing-77058-goldies-knusse-huisje/p/6346793",
@@ -33,5 +33,6 @@
       "name": "LEGO Games"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hea/ha4/34956370935838/prd-front-6346793-1_600x600/prd-front-6346793-1-600x600.jpg"
 }

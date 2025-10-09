@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "RAVENSBURGER BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031741",
+  "mmkId": "3031741",
+  "productGroupId": "494140",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ravensburger-super-mario-memory/p/5955171",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h95/h0c/31371511922718/prd-front-5955171-1_600x600/prd-front-5955171-1-600x600.jpg"
 }

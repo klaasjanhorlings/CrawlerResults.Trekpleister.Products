@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 6488 > 6489 > 6787",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Leesbrillen"
     }
   ],
-  "description": "52 stuks"
+  "description": "52 stuks",
+  "image": "/medias/sys_master/prd-images/h7f/h23/28666422231070/prd-front-3286067-1_600x600/prd-front-3286067-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3031740",
+  "mmkId": "3031740",
+  "productGroupId": "491130",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/l-oreal-paris-true-match-6n-honey-foundation/p/1709135",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hcb/he7/44429503758366/prd-front-1709135-1_600x600/prd-front-1709135-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }
