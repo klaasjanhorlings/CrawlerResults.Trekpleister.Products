@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Haarklem met Panterprint",
+  "code": "5963354",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6323",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-haarklem-met-panterprint/p/5963354",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267044,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30267183,
+      "name": "Haarklemmen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc9/hc6/29076278476830/prd-front-5963354-1_600x600/prd-front-5963354-1-600x600.jpg"
+}

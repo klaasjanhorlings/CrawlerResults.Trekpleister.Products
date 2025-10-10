@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playing Kids Arctic Puzzel",
+  "code": "6324652",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 4640 > 5192 > 5377 > 5566",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/playing-kids-arctic-puzzel/p/6324652",
+  "listName": "Lister",
+  "brand": "Playing Kids",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "5 stukjes"
+}

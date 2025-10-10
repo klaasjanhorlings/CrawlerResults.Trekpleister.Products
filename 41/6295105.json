@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Pampers Harmonie New Baby Billendoekjes",
-  "code": "5819868",
-  "price": "3.39",
+  "itemName": "Naïf Babydoekjes",
+  "code": "6295105",
+  "price": "95.76",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
-  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "supplier": "NAIF CARE BV",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/pampers-harmonie-new-baby-billendoekjes/p/5819868",
+  "url": "/naif-babydoekjes/p/6295105",
   "listName": "Lister",
-  "brand": "Pampers",
+  "brand": "Naïf",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,6 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "46 stuks",
-  "image": "/medias/sys_master/prd-images/h68/h48/30926939062302/prd-front-5819868-1_600x600/prd-front-5819868-1-600x600.jpg"
+  "description": "24 x 54 stuks",
+  "image": "/medias/sys_master/prd-images/hc8/h89/44240984670238/prd-front-6295105-1_600x600/prd-front-6295105-1-600x600.jpg"
 }

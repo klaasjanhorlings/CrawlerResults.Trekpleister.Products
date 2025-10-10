@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 6740 > 6739 > 6741",
   "supplier": "GOLIATH B.V.",
-  "inStock": "inStock",
-  "onPromo": "3031741",
-  "mmkId": "3031741",
-  "productGroupId": "494140",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/goliath-lets-go-fishin-spel/p/4942106",
@@ -25,8 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30267086,
-      "name": "Elektronisch speelgoed"
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
     }
   ],
   "description": "",

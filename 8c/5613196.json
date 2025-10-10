@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4316",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/h1d/h10/34899423395870/prd-front-5613196-1_600x600/prd-front-5613196-1-600x600.jpg"
+  "description": "15ml"
 }

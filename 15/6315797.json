@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3031750",
-  "mmkId": "3031750",
-  "productGroupId": "503281",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-2-in-1-wasgel/p/6315797",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h93/h56/34426212745246/prd-front-6315797-1_600x600/prd-front-6315797-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb8/h25/44458014244894/prd-front-6315797-1_600x600/prd-front-6315797-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031741",
+  "mmkId": "3031741",
+  "productGroupId": "494140",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-city-60465-ambulancevliegtuig/p/6346030",
@@ -29,5 +29,6 @@
       "name": "Voertuigen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h80/hed/35040128401438/prd-front-6346030-1_600x600/prd-front-6346030-1-600x600.jpg"
 }

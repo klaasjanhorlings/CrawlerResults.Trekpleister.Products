@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playing Kids Forest Puzzel",
+  "code": "6324659",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 4640 > 5192 > 5377 > 5566",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/playing-kids-forest-puzzel/p/6324659",
+  "listName": "Lister",
+  "brand": "Playing Kids",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "5 stukjes",
+  "image": "/medias/sys_master/prd-images/h99/ha1/44179665551390/prd-front-6324659-1_600x600/prd-front-6324659-1-600x600.jpg"
+}

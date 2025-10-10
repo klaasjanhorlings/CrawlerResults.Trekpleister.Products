@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Laura Biagiotti Roma Donna Eau de Toilette",
+  "code": "2665818",
+  "price": "25.0",
+  "priceOriginal": "70.78",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 45,78",
+  "url": "/laura-biagiotti-roma-donna-eau-de-toilette/p/2665818",
+  "listName": "Lister",
+  "brand": "Laura Biagiotti",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h20/hbb/44144390832158/prd-front-2665818-1_600x600/prd-front-2665818-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031616",
+  "mmkId": "3031616",
+  "productGroupId": "491112",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-24h-615-soft-taupe-lipstick/p/2035524",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "5,4g",
-  "image": "/medias/sys_master/prd-images/h0d/h87/29031090061342/prd-front-2035524-1_600x600/prd-front-2035524-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2e/hbb/44457800106014/prd-front-2035524-1_600x600/prd-front-2035524-1-600x600.jpg"
 }

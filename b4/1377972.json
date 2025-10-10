@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
   "supplier": "DRYLOCK TECHNOLOGIES SR",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031589",
+  "mmkId": "3031589",
+  "productGroupId": "483555",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-ultra-normal-plus-maandverband/p/1377972",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/ha9/hc6/28551260405790/prd-front-1377972-1_600x600/prd-front-1377972-1-600x600.jpg"
+  "description": "16 stuks"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
   "supplier": "HERKEL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031641",
+  "mmkId": "3031641",
+  "productGroupId": "499024",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-calcium-magnesium-zink-tabletten/p/1049140",
@@ -37,6 +37,5 @@
       "name": "Magnesium"
     }
   ],
-  "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/h9e/hb7/28549587173406/prd-front-1049140-1_600x600/prd-front-1049140-1-600x600.jpg"
+  "description": "90 stuks"
 }
