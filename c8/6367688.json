@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sensodyne Clinical White Enamel Strenghtening Tandpasta",
+  "code": "6367688",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3031563",
+  "mmkId": "3031563",
+  "productGroupId": "479225",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sensodyne-clinical-white-enamel-strenghtening-tandpasta/p/6367688",
+  "listName": "Lister",
+  "brand": "Sensodyne",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h1f/h06/44039244808222/prd-front-6367688-1_600x600/prd-front-6367688-1-600x600.jpg"
+}

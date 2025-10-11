@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Zwitsal Baby Zinkzalf",
-  "code": "408681",
-  "price": "6.49",
+  "itemName": "Zwitsal Kids Disney Frozen ll Snoetenpoetsers",
+  "code": "3835840",
+  "price": "2.85",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "outOfStock",
   "onPromo": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/zwitsal-baby-zinkzalf/p/408681",
+  "url": "/zwitsal-kids-disney-frozen-ll-snoetenpoetsers/p/3835840",
   "listName": "Lister",
   "brand": "Zwitsal",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Babyverzorging"
     },
     {
-      "id": 30267333,
-      "name": "Baby huidverzorging"
-    },
-    {
-      "id": 30267578,
-      "name": "Zinkzalf"
+      "id": 30267336,
+      "name": "Snoetenpoetsers"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hca/h3f/28616243118110/prd-front-408681-1_600x600/prd-front-408681-1-600x600.jpg"
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/h68/hd8/44303183118366/prd-front-3835840-1_600x600/prd-front-3835840-1-600x600.jpg"
 }

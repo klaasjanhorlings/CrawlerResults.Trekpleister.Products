@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031581",
+  "mmkId": "3031581",
+  "productGroupId": "482733",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/roter-vitamine-c-1000mg-zwarte-bes-appel-bruistabletten/p/6162868",
@@ -33,5 +33,6 @@
       "name": "Weerstand en of energie"
     }
   ],
-  "description": "15 stuks"
+  "description": "15 stuks",
+  "image": "/medias/sys_master/prd-images/h37/h1f/32498931695646/prd-front-6162868-1_600x600/prd-front-6162868-1-600x600.jpg"
 }
