@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6695",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3031543",
-  "mmkId": "3031543",
-  "productGroupId": "463004",
+  "onPromo": "3031865",
+  "mmkId": "3031865",
+  "productGroupId": "499756",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-levendig-lang-1-minuut-wow-haarmasker/p/6292774",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "180ml"
+  "description": "180ml",
+  "image": "/medias/sys_master/prd-images/h20/h8d/34731024678942/prd-front-6292774-1_600x600/prd-front-6292774-1-600x600.jpg"
 }

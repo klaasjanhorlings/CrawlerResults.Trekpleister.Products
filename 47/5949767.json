@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3031573",
-  "mmkId": "3031573",
-  "productGroupId": "481028",
+  "onPromo": "3031816",
+  "mmkId": "3031816",
+  "productGroupId": "490839",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/head-shoulders-pro-expert-7-anti-haaruitval-antiroosshampoo/p/5949767",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/he3/hb9/34024598700062/prd-front-5949767-1_600x600/prd-front-5949767-1-600x600.jpg"
 }

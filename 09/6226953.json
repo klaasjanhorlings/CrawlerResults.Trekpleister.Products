@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3031741",
-  "mmkId": "3031741",
-  "productGroupId": "494140",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-harry-potter-76442-kasteel-zweinstein-toverspreukenles/p/6226953",
@@ -33,5 +33,6 @@
       "name": "LEGO Harry Potter"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h63/h96/33146694860830/prd-front-6226953-1_600x600/prd-front-6226953-1-600x600.jpg"
 }

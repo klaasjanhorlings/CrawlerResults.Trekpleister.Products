@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "BOLTON NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3031537",
-  "mmkId": "3031537",
-  "productGroupId": "456757",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/borotalco-invisible-barrier-effect-deodorant-spray-/p/6055019",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h13/h40/32822051897374/prd-front-6055019-1_600x600/prd-front-6055019-1-600x600.jpg"
+  "description": "150ml"
 }

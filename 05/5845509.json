@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "3031743",
-  "mmkId": "3031743",
-  "productGroupId": "498893",
+  "onPromo": "3031843",
+  "mmkId": "3031843",
+  "productGroupId": "498906",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-avent-natural-airfree-scy673/01-1m-babyfles/p/5845509",
@@ -33,6 +33,5 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "260ml",
-  "image": "/medias/sys_master/prd-images/ha0/hb8/44388796301342/prd-front-5845509-1_600x600/prd-front-5845509-1-600x600.jpg"
+  "description": "260ml"
 }

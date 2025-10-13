@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "3031577",
-  "mmkId": "3031577",
-  "productGroupId": "482644",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-echinaforce-junior-vitamine-c-kauwtabletten/p/5168892",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke supplementen"
     }
   ],
-  "description": "80 stuks"
+  "description": "80 stuks",
+  "image": "/medias/sys_master/prd-images/hb5/he4/32639249317918/prd-front-5168892-1_600x600/prd-front-5168892-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Soothing Micellair Water",
+  "code": "2999382",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3031892",
+  "mmkId": "3031892",
+  "productGroupId": "502068",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-soothing-micellair-water/p/2999382",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267472,
+      "name": "Micellair water"
+    }
+  ],
+  "description": "200ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h30/h66/35131573731358/prd-front-2999382-1_600x600/prd-front-2999382-1-600x600.jpg"
+}

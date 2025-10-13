@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "3031647",
-  "mmkId": "3031647",
-  "productGroupId": "499249",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/listerine-advanced-white-milde-smaak-mondwater/p/3486925",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml - Zonder alcohol"
+  "description": "500ml - Zonder alcohol",
+  "image": "/medias/sys_master/prd-images/hf1/hd2/34436118773790/prd-front-3486925-1_600x600/prd-front-3486925-1-600x600.jpg"
 }

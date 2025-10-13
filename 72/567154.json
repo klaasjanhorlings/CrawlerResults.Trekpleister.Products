@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3031740",
-  "mmkId": "3031740",
-  "productGroupId": "491130",
+  "onPromo": "3031864",
+  "mmkId": "3031864",
+  "productGroupId": "499623",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-3r/3c-rose-beige-foundation/p/567154",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h0f/h29/35070872879134/prd-front-567154-1_600x600/prd-front-567154-1-600x600.jpg"
 }

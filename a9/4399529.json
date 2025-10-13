@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2930 > 3725",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3031540",
-  "mmkId": "3031540",
-  "productGroupId": "460940",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/leukoplast-cutisoft-kompressen/p/4399529",
@@ -33,5 +33,6 @@
       "name": "Kompressen"
     }
   ],
-  "description": "Medisch hulpmiddel - 7.5cm x 7.5cm, 12 stuks"
+  "description": "Medisch hulpmiddel - 7.5cm x 7.5cm, 12 stuks",
+  "image": "/medias/sys_master/prd-images/h15/h73/28817758126110/prd-front-4399529-1_600x600/prd-front-4399529-1-600x600.jpg"
 }

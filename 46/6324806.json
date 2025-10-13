@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3785",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031677",
-  "mmkId": "3031677",
-  "productGroupId": "502276",
+  "onPromo": "3031777",
+  "mmkId": "3031777",
+  "productGroupId": "456014",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-derma-control-defend-antitranspirant-spray/p/6324806",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h5b/hc3/44038687850526/prd-front-6324806-1_600x600/prd-front-6324806-1-600x600.jpg"
 }

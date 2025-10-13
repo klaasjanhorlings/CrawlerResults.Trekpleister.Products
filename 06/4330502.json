@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3031596",
-  "mmkId": "3031596",
-  "productGroupId": "487888",
+  "onPromo": "3031907",
+  "mmkId": "3031907",
+  "productGroupId": "459919",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-watermelon-waves-douchegel/p/4330502",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h12/h45/44273946755102/prd-front-4330502-1_600x600/prd-front-4330502-1-600x600.jpg"
 }

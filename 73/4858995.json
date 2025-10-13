@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031794",
+  "mmkId": "3031794",
+  "productGroupId": "477820",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-sensitive-nachtcreme/p/4858995",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h3e/hca/34461257990174/prd-front-4858995-1_600x600/prd-front-4858995-1-600x600.jpg"
 }

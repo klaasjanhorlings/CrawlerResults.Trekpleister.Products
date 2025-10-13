@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "3031590",
-  "mmkId": "3031590",
-  "productGroupId": "484235",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-naturals-curl-activator-cream/p/4279395",
@@ -33,5 +33,6 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "375ml"
+  "description": "375ml",
+  "image": "/medias/sys_master/prd-images/h2b/h03/28550521683998/prd-front-4279395-1_600x600/prd-front-4279395-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "3031654",
-  "mmkId": "3031654",
-  "productGroupId": "500366",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-sonicare-w2-optimal-white-hx6062/10-opzetborstels/p/4732701",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 2 stuks"
+  "description": "wit, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hb2/h91/35025064394782/prd-front-4732701-1_600x600/prd-front-4732701-1-600x600.jpg"
 }

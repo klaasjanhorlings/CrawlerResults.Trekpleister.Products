@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Air Wick Starter Kit",
+  "code": "6378937",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 2884 > 4161",
+  "supplier": "RB HYGIENE HOME NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/air-wick-starter-kit/p/6378937",
+  "listName": "Lister",
+  "brand": "Airwick",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267126,
+      "name": "Luchtverfrissers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h05/h09/44253682565150/prd-front-6378937-1_600x600/prd-front-6378937-1-600x600.jpg"
+}

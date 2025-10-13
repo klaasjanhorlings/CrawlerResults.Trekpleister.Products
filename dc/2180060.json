@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6294",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3031735",
-  "mmkId": "3031735",
-  "productGroupId": "466767",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davitamine-vitamine-k-olie/p/2180060",
@@ -37,6 +37,5 @@
       "name": "Kindervitamines"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h48/he6/31459809001502/prd-front-2180060-1_600x600/prd-front-2180060-1-600x600.jpg"
+  "description": "10ml"
 }

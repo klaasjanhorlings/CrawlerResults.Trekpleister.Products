@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3031741",
-  "mmkId": "3031741",
-  "productGroupId": "494140",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-marvel-76320-iron-man-en-war-machine-vs-hammer-drones/p/6346723",
@@ -33,5 +33,6 @@
       "name": "LEGO Marvel"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he7/h16/34956372246558/prd-front-6346723-1_600x600/prd-front-6346723-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3031745",
-  "mmkId": "3031745",
-  "productGroupId": "499372",
+  "onPromo": "3031853",
+  "mmkId": "3031853",
+  "productGroupId": "499501",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-io-gentle-care-opzetborstels/p/5263070",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 2 stuks"
+  "description": "wit, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h2e/hff/34352023470110/prd-front-5263070-1_600x600/prd-front-5263070-1-600x600.jpg"
 }

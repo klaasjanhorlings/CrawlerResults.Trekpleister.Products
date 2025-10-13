@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3031561",
-  "mmkId": "3031561",
-  "productGroupId": "477594",
+  "onPromo": "3031802",
+  "mmkId": "3031802",
+  "productGroupId": "483972",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-super-serum/p/6268953",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h51/h86/33987835723806/prd-front-6268953-1_600x600/prd-front-6268953-1-600x600.jpg"
+  "description": "30ml"
 }

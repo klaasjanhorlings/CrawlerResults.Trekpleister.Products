@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6765 > 6764",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031797",
+  "mmkId": "3031797",
+  "productGroupId": "481514",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-aqua-reinigingsgel/p/4726618",
@@ -37,6 +37,5 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "200ml - Alle huidtypen + gevoelige huid",
-  "image": "/medias/sys_master/prd-images/hd2/h49/35122432475166/prd-front-4726618-1_600x600/prd-front-4726618-1-600x600.jpg"
+  "description": "200ml - Alle huidtypen + gevoelige huid"
 }

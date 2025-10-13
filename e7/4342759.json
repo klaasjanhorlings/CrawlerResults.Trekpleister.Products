@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4152",
   "supplier": "BAYER SA NV",
   "inStock": "inStock",
-  "onPromo": "3031536",
-  "mmkId": "3031536",
-  "productGroupId": "456394",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bepanthen-hydraterende-creme/p/4342759",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "50g",
-  "image": "/medias/sys_master/prd-images/hfc/h04/30423251681310/prd-front-4342759-1_600x600/prd-front-4342759-1-600x600.jpg"
+  "description": "50g"
 }

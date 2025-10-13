@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Venus Satin Care Huid & Schaamhaar Zachte Huid Exfoliant",
+  "code": "5634371",
+  "price": "15.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 5717 > 5718 > 5719",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3031841",
+  "mmkId": "3031841",
+  "productGroupId": "498737",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-venus-satin-care-huid-schaamhaar-zachte-huid-exfoliant/p/5634371",
+  "listName": "Lister",
+  "brand": "Gillette Venus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 84946008,
+      "name": "Exfoliant"
+    }
+  ],
+  "description": "177ml",
+  "image": "/medias/sys_master/prd-images/h78/h94/28581883805726/prd-front-5634371-1_600x600/prd-front-5634371-1-600x600.jpg"
+}

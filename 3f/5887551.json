@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3031562",
-  "mmkId": "3031562",
-  "productGroupId": "479189",
+  "onPromo": "3031857",
+  "mmkId": "3031857",
+  "productGroupId": "499549",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/colgate-max-white-ultra-deep-clean-tandpasta/p/5887551",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Whitening"
+  "description": "75ml - Whitening",
+  "image": "/medias/sys_master/prd-images/h5d/h25/31564954992670/prd-front-5887551-1_600x600/prd-front-5887551-1-600x600.jpg"
 }

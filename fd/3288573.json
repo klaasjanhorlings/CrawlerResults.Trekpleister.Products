@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "3031645",
-  "mmkId": "3031645",
-  "productGroupId": "499243",
+  "onPromo": "3031847",
+  "mmkId": "3031847",
+  "productGroupId": "499259",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/burts-bees-beeswax-lippenbalsem/p/3288573",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2c/had/30492673867806/prd-front-3288573-1_600x600/prd-front-3288573-1-600x600.jpg"
 }

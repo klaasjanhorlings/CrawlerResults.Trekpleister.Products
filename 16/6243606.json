@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 6778",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031672",
-  "mmkId": "3031672",
-  "productGroupId": "502050",
+  "onPromo": "3031889",
+  "mmkId": "3031889",
+  "productGroupId": "502056",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-avocado-shampoo-refill/p/6243606",
@@ -33,5 +33,6 @@
       "name": "Shampoo navulling"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hcc/he7/34386232901662/prd-front-6243606-1_600x600/prd-front-6243606-1-600x600.jpg"
 }

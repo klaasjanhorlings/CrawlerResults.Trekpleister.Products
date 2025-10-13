@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3031572",
-  "mmkId": "3031572",
-  "productGroupId": "480829",
+  "onPromo": "3031804",
+  "mmkId": "3031804",
+  "productGroupId": "484900",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/john-frieda-frizz-ease-dream-curls-curl-reviver-mousse/p/1070476",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hd0/h45/29645979549726/prd-front-1070476-1_600x600/prd-front-1070476-1-600x600.jpg"
 }

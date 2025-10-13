@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3031741",
-  "mmkId": "3031741",
-  "productGroupId": "494140",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-duplo-10458-een-ijsje-halen-met-bluey/p/6349929",
@@ -33,6 +33,5 @@
       "name": "LEGO Duplo"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h50/h69/34961612996638/prd-front-6349929-1_600x600/prd-front-6349929-1-600x600.jpg"
+  "description": ""
 }

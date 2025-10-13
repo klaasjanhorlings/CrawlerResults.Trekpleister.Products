@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031878",
+  "mmkId": "3031878",
+  "productGroupId": "501611",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/adidas-vibes-dream-glaze-eau-de-parfum/p/6382157",
@@ -33,5 +33,6 @@
       "name": "Unisex parfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h4f/h71/44145362763806/prd-front-6382157-1_600x600/prd-front-6382157-1-600x600.jpg"
 }

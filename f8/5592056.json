@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3031683",
-  "mmkId": "3031683",
-  "productGroupId": "508992",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-colour-elixir-025-lip-liner/p/5592056",
@@ -37,6 +37,5 @@
       "name": "Lipliner"
     }
   ],
-  "description": "1g",
-  "image": "/medias/prd-front-5592056-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODQwNHxpbWFnZS9qcGVnfGFEWTFMMmhqWVM4eE56QTNNRFF6TkRFeU16Z3dOaTl3Y21RdFpuSnZiblF0TlRVNU1qQTFOaTB4WHpZd01IZzJNREF8YzI4NmY1MjA2MGE5NmFmNDVhZGE1NTgwYThkYjg2Yjg1ZDJlMmNhZmZiMWU0N2U3MGJmYWUwMDY5N2MzNTc3Mg"
+  "description": "1g"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5731 > 3876",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031677",
-  "mmkId": "3031677",
-  "productGroupId": "502276",
+  "onPromo": "3031777",
+  "mmkId": "3031777",
+  "productGroupId": "456014",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-dry-impact-antitranspirant-stick/p/5832853",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hbe/hf0/34393365086238/prd-front-5832853-1_600x600/prd-front-5832853-1-600x600.jpg"
 }

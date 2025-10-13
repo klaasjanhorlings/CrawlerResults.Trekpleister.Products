@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031670",
-  "mmkId": "3031670",
-  "productGroupId": "502048",
+  "onPromo": "3031886",
+  "mmkId": "3031886",
+  "productGroupId": "502053",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-extraordinary-oil-shampoo/p/3202956",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h30/hd7/33039135834142/prd-front-3202956-1_600x600/prd-front-3202956-1-600x600.jpg"
+  "description": "250ml"
 }

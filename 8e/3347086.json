@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031677",
-  "mmkId": "3031677",
-  "productGroupId": "502276",
+  "onPromo": "3031777",
+  "mmkId": "3031777",
+  "productGroupId": "456014",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-fresh-flower-deodorant-spray/p/3347086",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h9b/h20/34567159218206/prd-front-3347086-1_600x600/prd-front-3347086-1-600x600.jpg"
 }

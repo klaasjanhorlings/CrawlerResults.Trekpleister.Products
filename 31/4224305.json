@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 6071 > 6072 > 6074",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "3031359",
-  "mmkId": "3031359",
-  "productGroupId": "490473",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 2,00",
   "url": "/harpic-active-fresh-6-blue-power-toiletblok/p/4224305",
@@ -29,5 +29,6 @@
       "name": "Toiletblokken"
     }
   ],
-  "description": "39g"
+  "description": "39g",
+  "image": "/medias/sys_master/prd-images/h88/hcc/30390207971358/prd-front-4224305-1_600x600/prd-front-4224305-1-600x600.jpg"
 }

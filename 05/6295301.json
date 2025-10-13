@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
   "supplier": "SINGLETON TRADING BV",
   "inStock": "inStock",
-  "onPromo": "3031741",
-  "mmkId": "3031741",
-  "productGroupId": "494140",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/spinmaster-rainbow-cake-shop-kinetic-sand/p/6295301",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h31/h80/33985033240606/prd-front-6295301-1_600x600/prd-front-6295301-1-600x600.jpg"
 }

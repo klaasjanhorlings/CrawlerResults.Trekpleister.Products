@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031748",
-  "mmkId": "3031748",
-  "productGroupId": "501947",
+  "onPromo": "3031777",
+  "mmkId": "3031777",
+  "productGroupId": "456014",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-fresh-comfort-deodorant-roller/p/3347072",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h60/hc9/35131574550558/prd-front-3347072-1_600x600/prd-front-3347072-1-600x600.jpg"
 }

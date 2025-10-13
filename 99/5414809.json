@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 3032 > 3774 > 6789",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3031781",
+  "mmkId": "3031781",
+  "productGroupId": "462386",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-sensitive-kids-pleisters/p/5414809",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 1m x 6cm",
-  "image": "/medias/sys_master/prd-images/h14/h76/44467945865246/prd-front-5414809-1_600x600/prd-front-5414809-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h31/h28/44475828011038/prd-front-5414809-1_600x600/prd-front-5414809-1-600x600.jpg"
 }

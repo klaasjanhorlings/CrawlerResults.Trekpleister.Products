@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3675",
   "supplier": "ROYAL SANDERS JESSENITZ GMBH",
   "inStock": "inStock",
-  "onPromo": "3031535",
-  "mmkId": "3031535",
-  "productGroupId": "455309",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-extra-dry-regular-antitranspirant-spray/p/6045996",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h7e/hd8/44329045983262/prd-front-6045996-1_600x600/prd-front-6045996-1-600x600.jpg"
 }

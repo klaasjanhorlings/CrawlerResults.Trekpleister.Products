@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 3027 > 6779 > 6785",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "3031539",
-  "mmkId": "3031539",
-  "productGroupId": "460457",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bausch-lomb-450-maandlenzen/p/6131823",
@@ -37,5 +37,6 @@
       "name": "Maandlenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks"
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/h00/h69/31943440891934/prd-front-6131823-1_600x600/prd-front-6131823-1-600x600.jpg"
 }

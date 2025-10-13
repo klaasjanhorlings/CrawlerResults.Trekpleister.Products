@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "3031577",
-  "mmkId": "3031577",
-  "productGroupId": "482644",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-3-in-1-nachtrust-tabletten/p/5930440",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/he7/h06/32572370518046/prd-front-5930440-1_600x600/prd-front-5930440-1-600x600.jpg"
 }

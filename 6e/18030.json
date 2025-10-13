@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031746",
-  "mmkId": "3031746",
-  "productGroupId": "499464",
+  "onPromo": "3031868",
+  "mmkId": "3031868",
+  "productGroupId": "499918",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-excellence-creme-8-lichtblond-permanente-haarverf/p/18030",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h20/ha6/32291967959070/prd-front-18030-1_600x600/prd-front-18030-1-600x600.jpg"
 }

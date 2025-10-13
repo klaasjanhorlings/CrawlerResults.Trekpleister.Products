@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
   "supplier": "JUMBO NL BV",
   "inStock": "inStock",
-  "onPromo": "3031741",
-  "mmkId": "3031741",
-  "productGroupId": "494140",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jumbo-jan-van-haasteren-het-bejaardentehuis-puzzel/p/6343188",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": "1500 stukjes"
+  "description": "1500 stukjes",
+  "image": "/medias/sys_master/prd-images/h0e/he1/34899421429790/prd-front-6343188-1_600x600/prd-front-6343188-1-600x600.jpg"
 }

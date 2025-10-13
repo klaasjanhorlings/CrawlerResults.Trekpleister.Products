@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "3031577",
-  "mmkId": "3031577",
-  "productGroupId": "482644",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-oogdruppels/p/1728371",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml"
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h4c/hcb/32661813755934/prd-front-1728371-1_600x600/prd-front-1728371-1-600x600.jpg"
 }

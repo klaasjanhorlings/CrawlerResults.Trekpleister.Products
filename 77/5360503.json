@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 3144 > 6670",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031588",
-  "mmkId": "3031588",
-  "productGroupId": "483169",
+  "onPromo": "3031892",
+  "mmkId": "3031892",
+  "productGroupId": "502068",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-active-age-hyaluron-aftershave-balsem/p/5360503",
@@ -33,5 +33,6 @@
       "name": "Aftershave"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h1b/hbe/34526572740638/prd-front-5360503-1_600x600/prd-front-5360503-1-600x600.jpg"
 }

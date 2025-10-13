@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031677",
-  "mmkId": "3031677",
-  "productGroupId": "502276",
+  "onPromo": "3031873",
+  "mmkId": "3031873",
+  "productGroupId": "500904",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-express-hydratation-bodylotion-met-pomp/p/2748397",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml - Normale tot droge huid"
+  "description": "400ml - Normale tot droge huid",
+  "image": "/medias/sys_master/prd-images/h49/ha3/34393654460446/prd-front-2748397-1_600x600/prd-front-2748397-1-600x600.jpg"
 }

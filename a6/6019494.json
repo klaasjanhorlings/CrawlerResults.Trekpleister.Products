@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath Rummikub Xpress Dobbelspel",
+  "code": "6019494",
+  "price": "8.99",
+  "priceOriginal": "14.99",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5164 > 5227 > 5416",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 6,00",
+  "url": "/goliath-rummikub-xpress-dobbelspel/p/6019494",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2f/hc8/29580498862110/prd-front-6019494-1_600x600/prd-front-6019494-1-600x600.jpg"
+}

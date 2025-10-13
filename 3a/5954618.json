@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 2884 > 4077",
   "supplier": "RB HYGIENE HOME NL BV",
   "inStock": "inStock",
-  "onPromo": "3031707",
-  "mmkId": "3031707",
-  "productGroupId": "495772",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/air-wick-active-fresh-kersenbloesem-framboos-navulling/p/5954618",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "228ml"
+  "description": "228ml",
+  "image": "/medias/sys_master/prd-images/hf4/heb/44438835920926/prd-front-5954618-1_600x600/prd-front-5954618-1-600x600.jpg"
 }
