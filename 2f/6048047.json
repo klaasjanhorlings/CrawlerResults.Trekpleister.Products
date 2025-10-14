@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Glorix Power 5 Ocean Toiletblokken",
+  "code": "6048047",
+  "price": "4.99",
+  "priceOriginal": "18.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 6071 > 6072 > 6074",
+  "supplier": "UNILEVER BELGIUM",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 14,00",
+  "url": "/glorix-power-5-ocean-toiletblokken/p/6048047",
+  "listName": "Lister",
+  "brand": "Glorix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267122,
+      "name": "Toiletblokken"
+    }
+  ],
+  "description": "5 stuks"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Automatische Drinkbak met Verlichting",
+  "code": "5377303",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 4901 > 4947 > 4993",
+  "supplier": "BOLAN HOME & DESIGN GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/automatische-drinkbak-met-verlichting/p/5377303",
+  "listName": "Lister",
+  "brand": "Watshome",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267128,
+      "name": "Dier"
+    },
+    {
+      "id": 30267448,
+      "name": "Diergezondheid"
+    }
+  ],
+  "description": ""
+}

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Unicura Prebiotica Sensitive Handzeep ",
+  "itemName": "Unicura Prebiotica Sensitive Handzeep",
   "code": "5734625",
   "price": "3.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "500646",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/unicura-prebiotica-sensitive-handzeep-/p/5734625",
+  "url": "/unicura-prebiotica-sensitive-handzeep/p/5734625",
   "listName": "Lister",
   "brand": "Unicura",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Handzeep"
     }
   ],
-  "description": "250ml",
+  "description": "250ml - Gevoelige huid",
   "image": "/medias/sys_master/prd-images/h3d/he6/28866102394910/prd-front-5734625-1_600x600/prd-front-5734625-1-600x600.jpg"
 }

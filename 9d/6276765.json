@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "4869 > 2048 > 2244 > 2578 > 3199 > 6417",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Tassen"
     }
   ],
-  "description": "zwart, 36cm x 26cm x 13cm"
+  "description": "zwart, 36cm x 26cm x 13cm",
+  "image": "/medias/sys_master/prd-images/h0c/h97/34180935221278/prd-front-6276765-1_600x600/prd-front-6276765-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Twix",
+  "code": "1397817",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2751 > 3463",
+  "supplier": "MARS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/twix/p/1397817",
+  "listName": "Lister",
+  "brand": "Twix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267585,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/prd-front-1397817-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzU0MzZ8aW1hZ2UvanBlZ3xhRGhtTDJnNFppOHhOekV5TVRjNU5qTTFPREUzTkM5d2NtUXRabkp2Ym5RdE1UTTVOemd4TnkweFh6WXdNSGcyTURBfDIxMjVlNDEyZmNmZDI3YmU2NmQ5NzI0ZTkzYmEzYmY1YjBmMWQ4MGE2MGUzMDZkMDYxMWE1ZjVhOWY1ZWZkZWQ"
+}

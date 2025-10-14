@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Vaseline Original Pure Petroleum Jelly",
+  "itemName": "Vaseline Original Petroleum Jelly",
   "code": "1871101",
-  "price": "6.99",
+  "price": "7.39",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
   "supplier": "UNILEVER NEDERLAND BV",
@@ -13,7 +13,7 @@
   "productGroupId": "502367",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/vaseline-original-pure-petroleum-jelly/p/1871101",
+  "url": "/vaseline-original-petroleum-jelly/p/1871101",
   "listName": "Lister",
   "brand": "Vaseline",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h41/h1a/44478352490526/prd-front-1871101-1_600x600/prd-front-1871101-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h25/h26/44485764775966/prd-front-1871101-1_600x600/prd-front-1871101-1-600x600.jpg"
 }

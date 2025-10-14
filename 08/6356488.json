@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031851",
+  "mmkId": "3031851",
+  "productGroupId": "499376",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/colgate-max-white-purple-serum/p/6356488",
@@ -33,6 +33,5 @@
       "name": "Whitening producten"
     }
   ],
-  "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h59/h8e/44390411108382/prd-front-6356488-1_600x600/prd-front-6356488-1-600x600.jpg"
+  "description": "40ml - Whitening"
 }

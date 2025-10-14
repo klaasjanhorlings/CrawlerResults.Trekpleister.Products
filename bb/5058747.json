@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO DUPLO 10913 Classic Opbergdoos",
+  "code": "5058747",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-duplo-10913-classic-opbergdoos/p/5058747",
+  "listName": "Lister",
+  "brand": "LEGO Duplo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267077,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 69053992,
+      "name": "Bouwen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h15/h31/35007849660446/prd-front-5058747-1_600x600/prd-front-5058747-1-600x600.jpg"
+}
