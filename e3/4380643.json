@@ -25,18 +25,14 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267059,
+      "name": "Wondverzorging"
     },
     {
-      "id": 51216437,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 51235379,
-      "name": "Eerste hulp zalf"
+      "id": 30267292,
+      "name": "EHBO-doos"
     }
   ],
   "description": "Medisch hulpmiddel - 50g",
-  "image": "/medias/sys_master/prd-images/h5b/h51/44482514223134/prd-front-4380643-1_600x600/prd-front-4380643-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h33/hce/44492056756254/prd-front-4380643-1_600x600/prd-front-4380643-1-600x600.jpg"
 }

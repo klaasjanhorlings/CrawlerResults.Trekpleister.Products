@@ -8,8 +8,8 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
+  "onPromo": "3032384",
+  "mmkId": "3032384",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "Keelsiropen"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h60/hb7/34734708424734/prd-front-21524-1_600x600/prd-front-21524-1-600x600.jpg"
 }

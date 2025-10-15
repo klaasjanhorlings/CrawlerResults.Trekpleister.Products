@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031863",
+  "mmkId": "3031863",
+  "productGroupId": "499619",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-matte-ink-325-shot-caller-lipstick/p/5371717",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "26g",
-  "image": "/medias/sys_master/prd-images/he0/hfa/44488283947038/prd-front-5371717-1_600x600/prd-front-5371717-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h92/he6/44493491601438/prd-front-5371717-1_600x600/prd-front-5371717-1-600x600.jpg"
 }

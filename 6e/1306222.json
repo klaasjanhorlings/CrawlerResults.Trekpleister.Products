@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Verfrissende Reinigingsmelk",
+  "code": "1306222",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3889",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3031892",
+  "mmkId": "3031892",
+  "productGroupId": "502068",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-verfrissende-reinigingsmelk/p/1306222",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267473,
+      "name": "Reinigingsmelk"
+    }
+  ],
+  "description": "200ml - Droge tot normale huid",
+  "image": "/medias/sys_master/prd-images/h36/h09/35137264648222/prd-front-1306222-1_600x600/prd-front-1306222-1-600x600.jpg"
+}

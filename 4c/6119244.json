@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "MORE LABELS GROUP BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hd4/hc9/32699894136862/prd-front-6119244-1_600x600/prd-front-6119244-1-600x600.jpg"
 }

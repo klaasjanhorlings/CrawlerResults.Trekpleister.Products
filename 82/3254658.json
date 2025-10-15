@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,8 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 91613031,
-      "name": "Mini reisverpakkingen"
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267194,
+      "name": "Bodylotion"
     }
   ],
   "description": "",

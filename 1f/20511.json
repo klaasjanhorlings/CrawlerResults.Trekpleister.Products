@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 6475 > 6476 > 6477 > 6479",
   "supplier": "FASHY GMBH - PRODUKTION",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Hulpmiddelen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h2d/hd8/28548743561246/prd-front-20511-1_600x600/prd-front-20511-1-600x600.jpg"
+  "description": ""
 }
