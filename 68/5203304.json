@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwmascara"
     }
   ],
-  "description": "8,9g"
+  "description": "8,9g",
+  "image": "/medias/sys_master/prd-images/hab/h5f/44509387030558/prd-front-5203304-1_600x600/prd-front-5203304-1-600x600.jpg"
 }

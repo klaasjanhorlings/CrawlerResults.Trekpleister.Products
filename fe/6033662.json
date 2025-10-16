@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "mt 4, 14 stuks"
+  "description": "mt 4, 14 stuks",
+  "image": "/medias/sys_master/prd-images/hea/h73/33456415932446/prd-front-6033662-1_600x600/prd-front-6033662-1-600x600.jpg"
 }
