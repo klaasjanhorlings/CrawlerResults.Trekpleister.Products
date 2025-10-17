@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Myprotein Impact Orange Mango & Passionfruit Pre-Workout",
+  "code": "6298017",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6391 > 6392",
+  "supplier": "THG NUTRITION LIMITED",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/myprotein-impact-orange-mango-passionfruit-pre-workout/p/6298017",
+  "listName": "Lister",
+  "brand": "Myprotein",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267311,
+      "name": "Pre-workout"
+    }
+  ],
+  "description": "150g",
+  "image": "/medias/sys_master/prd-images/h11/hf1/33916693053470/prd-front-6298017-1_600x600/prd-front-6298017-1-600x600.jpg"
+}

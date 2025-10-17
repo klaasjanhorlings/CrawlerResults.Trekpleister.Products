@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Optimum Nutrition Chocolate High Protein Shake",
+  "code": "6391110",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
+  "supplier": "BRANDM BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/optimum-nutrition-chocolate-high-protein-shake/p/6391110",
+  "listName": "Lister",
+  "brand": "Optimum Nutrition",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267307,
+      "name": "Proteïne (eiwit) poeders"
+    }
+  ],
+  "description": "330ml",
+  "image": "/medias/sys_master/prd-images/hdd/h8f/44275554746398/prd-front-6391110-1_600x600/prd-front-6391110-1-600x600.jpg"
+}

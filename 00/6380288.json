@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Obesimed Max Forte Tabletten",
+  "code": "6380288",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6638 > 6639",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3031833",
+  "mmkId": "3031833",
+  "productGroupId": "497545",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-obesimed-max-forte-tabletten/p/6380288",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30267302,
+      "name": "Afslanksupplementen"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hdf/hc6/44240505896990/prd-front-6380288-1_600x600/prd-front-6380288-1-600x600.jpg"
+}

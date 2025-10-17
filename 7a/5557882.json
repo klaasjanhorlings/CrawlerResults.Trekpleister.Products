@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Body & Fit Whey Essential Vanilla Eiwitshake",
+  "code": "5557882",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
+  "supplier": "BODY & FIT SPORTSNUTRIT",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/body-fit-whey-essential-vanilla-eiwitshake/p/5557882",
+  "listName": "Lister",
+  "brand": "Body & Fit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267307,
+      "name": "Proteïne (eiwit) poeders"
+    }
+  ],
+  "description": "980g",
+  "image": "/medias/sys_master/prd-images/h0e/h4c/44275848380446/prd-front-5557882-1_600x600/prd-front-5557882-1-600x600.jpg"
+}

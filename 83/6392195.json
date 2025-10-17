@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Steriele Eilandpleisters",
+  "code": "6392195",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4110",
+  "supplier": "BEVAPLAST BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-steriele-eilandpleisters/p/6392195",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267296,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414206,
+      "name": "Sensitive pleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 8cm x 10cm, 5 stuks",
+  "image": "/medias/sys_master/prd-images/h21/hed/44329286500382/prd-front-6392195-1_600x600/prd-front-6392195-1-600x600.jpg"
+}

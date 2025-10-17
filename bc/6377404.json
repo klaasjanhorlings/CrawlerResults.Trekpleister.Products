@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Puur Creatine 100% Monohydraat Poeder",
+  "code": "6377404",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6391 > 6392",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-puur-creatine-100-monohydraat-poeder/p/6377404",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267310,
+      "name": "Creatine"
+    }
+  ],
+  "description": "210g",
+  "image": "/medias/sys_master/prd-images/h08/h92/44239947399198/prd-front-6377404-1_600x600/prd-front-6377404-1-600x600.jpg"
+}

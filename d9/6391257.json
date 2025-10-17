@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Extra Droge & Geïrriteerde Huid Crème",
+  "code": "6391257",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-extra-droge-geirriteerde-huid-creme/p/6391257",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 51216437,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235394,
+      "name": "Droge en gevoelige huid"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hc2/hbc/44274910724126/prd-front-6391257-1_600x600/prd-front-6391257-1-600x600.jpg"
+}

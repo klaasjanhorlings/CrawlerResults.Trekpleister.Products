@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Homed-IQ Diabetes Test",
+  "code": "6374051",
+  "price": "45.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6677",
+  "supplier": "HOMEDIQ EUROPE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/homed-iq-diabetes-test/p/6374051",
+  "listName": "Lister",
+  "brand": "Homed-IQ",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267267,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30267543,
+      "name": "Gezondheidstesten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0c/haf/44274915639326/prd-front-6374051-1_600x600/prd-front-6374051-1-600x600.jpg"
+}

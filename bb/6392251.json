@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Post-Overgangbalans Tabletten",
+  "code": "6392251",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3031833",
+  "mmkId": "3031833",
+  "productGroupId": "497545",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-post-overgangbalans-tabletten/p/6392251",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267287,
+      "name": "Overgang"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h6b/hf3/44377981026334/prd-front-6392251-1_600x600/prd-front-6392251-1-600x600.jpg"
+}

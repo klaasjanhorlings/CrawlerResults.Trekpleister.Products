@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Myprotein Layered Cookie Crumble Bar",
+  "code": "6320459",
+  "price": "2.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
+  "supplier": "THG NUTRITION LIMITED",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/myprotein-layered-cookie-crumble-bar/p/6320459",
+  "listName": "Lister",
+  "brand": "Myprotein",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267308,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/hf9/hb2/34746080100382/prd-front-6320459-1_600x600/prd-front-6320459-1-600x600.jpg"
+}

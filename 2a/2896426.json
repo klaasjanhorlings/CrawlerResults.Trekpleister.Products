@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2933 > 3728",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031891",
+  "mmkId": "3031891",
+  "productGroupId": "502058",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-studio-line-essentials-go-create-precise-super-strong-gelspray/p/2896426",
@@ -29,8 +29,8 @@
       "name": "Haarstylingproducten"
     },
     {
-      "id": 30267492,
-      "name": "Haarlak"
+      "id": 30267487,
+      "name": "Haargel"
     }
   ],
   "description": "150ml",

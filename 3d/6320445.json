@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Myprotein Layered Triple Chocolate Bar",
+  "code": "6320445",
+  "price": "2.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
+  "supplier": "THG NUTRITION LIMITED",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/myprotein-layered-triple-chocolate-bar/p/6320445",
+  "listName": "Lister",
+  "brand": "Myprotein",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267308,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/hf4/h6f/34742629859358/prd-front-6320445-1_600x600/prd-front-6320445-1-600x600.jpg"
+}

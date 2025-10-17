@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Homed-IQ  Soa Test voor Mannen",
+  "code": "6374037",
+  "price": "49.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6677",
+  "supplier": "HOMEDIQ EUROPE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/homed-iq-soa-test-voor-mannen/p/6374037",
+  "listName": "Lister",
+  "brand": "Homed-IQ",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267267,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30267543,
+      "name": "Gezondheidstesten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h62/hdf/44277537767454/prd-front-6374037-1_600x600/prd-front-6374037-1-600x600.jpg"
+}

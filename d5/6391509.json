@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Optimum Nutrition Clear Protein Juicy Peach 100% Plant Protein Isolate",
+  "code": "6391509",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
+  "supplier": "BRANDM BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/optimum-nutrition-clear-protein-juicy-peach-100-plant-protein-isolate/p/6391509",
+  "listName": "Lister",
+  "brand": "Optimum Nutrition",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267307,
+      "name": "Proteïne (eiwit) poeders"
+    }
+  ],
+  "description": "280g",
+  "image": "/medias/sys_master/prd-images/h0b/hc5/44274338660382/prd-front-6391509-1_600x600/prd-front-6391509-1-600x600.jpg"
+}

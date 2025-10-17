@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kinderregenlaarzen",
+  "code": "6274028",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6351 > 6352 > 2487 > 3056 > 3904",
+  "supplier": "FERRO FOOTWEAR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kinderregenlaarzen/p/6274028",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267093,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30267414,
+      "name": "Kinderschoenen"
+    }
+  ],
+  "description": "roze, mt 30-31",
+  "image": "/medias/sys_master/prd-images/h00/h13/33746210127902/prd-front-6274028-1_600x600/prd-front-6274028-1-600x600.jpg"
+}

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Vagisil Crème 30Gr",
+  "itemName": "Vagisil Dagelijkse Verzachtende en Beschermende Crème",
   "code": "5930041",
   "price": "9.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/vagisil-creme-30gr/p/5930041",
+  "url": "/vagisil-dagelijkse-verzachtende-en-beschermende-creme/p/5930041",
   "listName": "Lister",
   "brand": "Vagisil",
   "mpOrigin": "Kruidvat",
@@ -37,6 +37,5 @@
       "name": "Vrouw"
     }
   ],
-  "description": "30g",
-  "image": "/medias/sys_master/prd-images/h43/hec/34768636903454/prd-front-5930041-1_600x600/prd-front-5930041-1-600x600.jpg"
+  "description": "30g"
 }

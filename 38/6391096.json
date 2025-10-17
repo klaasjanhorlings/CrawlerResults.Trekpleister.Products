@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Optimum Nutrition Smartshake Reforce Steel Shaker",
+  "code": "6391096",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6393 > 6394",
+  "supplier": "BRANDM BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/optimum-nutrition-smartshake-reforce-steel-shaker/p/6391096",
+  "listName": "Lister",
+  "brand": "Optimum Nutrition",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267312,
+      "name": "Sportaccessoires"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h48/h89/44276237598750/prd-front-6391096-1_600x600/prd-front-6391096-1-600x600.jpg"
+}

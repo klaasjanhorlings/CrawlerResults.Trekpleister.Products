@@ -5,7 +5,7 @@
   "code": "5203423",
   "price": "10.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
   "onPromo": "3031864",
@@ -33,8 +33,8 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30267152,
-      "name": "Lipliner"
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
   "description": "4g",

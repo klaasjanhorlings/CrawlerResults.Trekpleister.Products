@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Anti-Jeuk Crème",
+  "code": "4356115",
+  "price": "10.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-anti-jeuk-creme/p/4356115",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30267502,
+      "name": "Huidirritatie"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 50ml",
+  "image": "/medias/prd-front-4356115-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzcyNDR8aW1hZ2UvanBlZ3xhRGhqTDJoaFlTOHhOalkzTVRjek16QTRPREk0Tmk5d2NtUXRabkp2Ym5RdE5ETTFOakV4TlMweFh6WXdNSGcyTURBfDgxMGJiMWMxOWU0NGQxNGUxM2NjMmY5ZWNiMzRhODNlZmE4OTdjMjIyYWRhOTU0ZDk1ZDBjZTM0MzMzZjkzZTA"
+}

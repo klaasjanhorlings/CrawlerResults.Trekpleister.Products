@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Valdispert Relax & Fit Advanced Tabletten",
+  "code": "6392216",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/valdispert-relax-fit-advanced-tabletten/p/6392216",
+  "listName": "Lister",
+  "brand": "Valdispert",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267281,
+      "name": "Rust en ontspanning"
+    }
+  ],
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/hce/h7e/44521615786014/prd-front-6392216-1_600x600/prd-front-6392216-1-600x600.jpg"
+}

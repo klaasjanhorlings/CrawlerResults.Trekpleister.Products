@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Optimum Nutrion Gold Standard Double Rich Chocolate 100% Whey Protein",
+  "code": "6391089",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
+  "supplier": "BRANDM BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/optimum-nutrion-gold-standard-double-rich-chocolate-100-whey-protein/p/6391089",
+  "listName": "Lister",
+  "brand": "Optimum Nutrition",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267307,
+      "name": "Proteïne (eiwit) poeders"
+    }
+  ],
+  "description": "310g",
+  "image": "/medias/sys_master/prd-images/hba/hc6/44274337349662/prd-front-6391089-1_600x600/prd-front-6391089-1-600x600.jpg"
+}

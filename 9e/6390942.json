@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Optimum Nutrition Gold Standard Fruit Punch Pre-Workout",
+  "code": "6390942",
+  "price": "26.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6387 > 6388",
+  "supplier": "BRANDM BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/optimum-nutrition-gold-standard-fruit-punch-pre-workout/p/6390942",
+  "listName": "Lister",
+  "brand": "Optimum Nutrition",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267311,
+      "name": "Pre-workout"
+    }
+  ],
+  "description": "330g",
+  "image": "/medias/sys_master/prd-images/h2e/h2a/44276238254110/prd-front-6390942-1_600x600/prd-front-6390942-1-600x600.jpg"
+}

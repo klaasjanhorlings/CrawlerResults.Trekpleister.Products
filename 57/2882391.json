@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "400ml - Gevoelige tanden"
+  "description": "400ml - Gevoelige tanden",
+  "image": "/medias/sys_master/prd-images/h93/hfa/33906145853470/prd-front-2882391-1_600x600/prd-front-2882391-1-600x600.jpg"
 }

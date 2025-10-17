@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Omega 3 Vetzuren Capsules",
+  "code": "6390585",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3031833",
+  "mmkId": "3031833",
+  "productGroupId": "497545",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-omega-3-vetzuren-capsules/p/6390585",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49793128,
+      "name": "Omega 3"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h98/h72/44314839121950/prd-front-6390585-1_600x600/prd-front-6390585-1-600x600.jpg"
+}

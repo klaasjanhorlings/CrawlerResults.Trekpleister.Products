@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Bloeddruk Capsules",
+  "code": "4549637",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3031833",
+  "mmkId": "3031833",
+  "productGroupId": "497545",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-bloeddruk-capsules/p/4549637",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267284,
+      "name": "Hart en of bloedvaten"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/ha8/h20/44364773130270/prd-front-4549637-1_600x600/prd-front-4549637-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Roter Vitamine C 1000mg Sinaasappel Ananas Bruistabletten",
+  "code": "6390767",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6295",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/roter-vitamine-c-1000mg-sinaasappel-ananas-bruistabletten/p/6390767",
+  "listName": "Lister",
+  "brand": "Roter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267549,
+      "name": "Vitamine C"
+    }
+  ],
+  "description": "15 stuks",
+  "image": "/medias/sys_master/prd-images/hb2/h48/44375899701278/prd-front-6390767-1_600x600/prd-front-6390767-1-600x600.jpg"
+}

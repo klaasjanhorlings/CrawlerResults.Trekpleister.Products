@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Tropisch Fruit Pre-Workout",
+  "code": "6377348",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6387 > 6388",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-tropisch-fruit-pre-workout/p/6377348",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267311,
+      "name": "Pre-workout"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/hd3/hb1/44240505241630/prd-front-6377348-1_600x600/prd-front-6377348-1-600x600.jpg"
+}

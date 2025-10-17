@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Get Your Ink On Nagelstickers",
+  "code": "6123255",
+  "price": "1.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-get-your-ink-on-nagelstickers/p/6123255",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 72476798,
+      "name": "Nagelstickers"
+    }
+  ],
+  "description": "80 stuks",
+  "image": "/medias/sys_master/prd-images/h8b/hb0/44517709086750/prd-front-6123255-1_600x600/prd-front-6123255-1-600x600.jpg"
+}

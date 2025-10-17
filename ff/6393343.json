@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Optimum Nutrition Nutty Chocolate Caramel Protein Bar",
+  "code": "6393343",
+  "price": "25.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
+  "supplier": "BRANDM BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/optimum-nutrition-nutty-chocolate-caramel-protein-bar/p/6393343",
+  "listName": "Lister",
+  "brand": "Optimum Nutrition",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30267308,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/ha9/had/44519330709534/prd-front-6393343-1_600x600/prd-front-6393343-1-600x600.jpg"
+}
