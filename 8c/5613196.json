@@ -25,10 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 91613031,
-      "name": "Mini reisverpakkingen"
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
     }
   ],
   "description": "15ml",
-  "image": "/medias/sys_master/prd-images/hf9/he6/44518637404190/prd-front-5613196-1_600x600/prd-front-5613196-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hba/h2f/44539362115614/prd-front-5613196-1_600x600/prd-front-5613196-1-600x600.jpg"
 }

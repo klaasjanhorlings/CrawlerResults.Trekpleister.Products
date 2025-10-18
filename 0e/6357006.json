@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Labello Glowy Lips Berry Lippenbalsem met SPF30",
+  "code": "6357006",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3328 > 4232",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3031845",
+  "mmkId": "3031845",
+  "productGroupId": "499256",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/labello-glowy-lips-berry-lippenbalsem-met-spf30/p/6357006",
+  "listName": "Lister",
+  "brand": "Labello",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267166,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/hd1/h7f/44533445099550/prd-front-6357006-1_600x600/prd-front-6357006-1-600x600.jpg"
+}
