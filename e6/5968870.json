@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
   "supplier": "JACOBS DOUWE EGBERTS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Koffie"
     }
   ],
-  "description": "40 stuks",
-  "image": "/medias/sys_master/prd-images/h0b/h2a/28807385055262/prd-front-5968870-1_600x600/prd-front-5968870-1-600x600.jpg"
+  "description": "40 stuks"
 }

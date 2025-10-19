@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
   "supplier": "HARIBO THE NET.& BEL.BV",
-  "inStock": "inStock",
-  "onPromo": "3031919",
-  "mmkId": "3031919",
-  "productGroupId": "516802",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/haribo-super-party/p/6376956",
@@ -33,6 +33,5 @@
       "name": "Snoep"
     }
   ],
-  "description": "30 x 16g",
-  "image": "/medias/sys_master/prd-images/h6b/hf2/44188548300830/prd-front-6376956-1_600x600/prd-front-6376956-1-600x600.jpg"
+  "description": "30 x 16g"
 }
