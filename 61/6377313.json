@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Minecraft 21280 2025 Adventskalender",
+  "code": "6377313",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-minecraft-21280-2025-adventskalender/p/6377313",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267382,
+      "name": "LEGO Minecraft"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0c/h80/35101189210142/prd-front-6377313-1_600x600/prd-front-6377313-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3031802",
-  "mmkId": "3031802",
-  "productGroupId": "483972",
+  "onPromo": "3031935",
+  "mmkId": "3031935",
+  "productGroupId": "474682",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-eyes-collageenpeptide-24-max-oogcreme/p/5701200",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml, rijpe huid"
+  "description": "15ml, rijpe huid",
+  "image": "/medias/sys_master/prd-images/hcc/hdb/31242872782878/prd-front-5701200-1_600x600/prd-front-5701200-1-600x600.jpg"
 }

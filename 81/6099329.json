@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lenor Zeebries Geurbooster",
+  "code": "6099329",
+  "price": "10.0",
+  "priceOriginal": "24.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 6792",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 14,99",
+  "url": "/lenor-zeebries-geurbooster/p/6099329",
+  "listName": "Lister",
+  "brand": "Lenor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 49313699,
+      "name": "Wasparfum"
+    }
+  ],
+  "description": "495g",
+  "image": "/medias/sys_master/prd-images/h98/h82/44547173679134/prd-front-6099329-1_600x600/prd-front-6099329-1-600x600.jpg"
+}
