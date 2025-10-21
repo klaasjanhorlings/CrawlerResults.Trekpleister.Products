@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pickwick Original English Thee",
+  "code": "2166907",
+  "price": "2.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2630 > 2947 > 3743",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "3031629",
+  "mmkId": "3031629",
+  "productGroupId": "495935",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pickwick-original-english-thee/p/2166907",
+  "listName": "Lister",
+  "brand": "Pickwick",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267444,
+      "name": "Thee"
+    }
+  ],
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/h0b/h84/33241189482526/prd-front-2166907-1_600x600/prd-front-2166907-1-600x600.jpg"
+}

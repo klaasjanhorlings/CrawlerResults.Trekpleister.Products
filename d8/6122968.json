@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Colour It! 01 Royal Blue Liquid Eyeliner",
+  "code": "6122968",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-colour-it-01-royal-blue-liquid-eyeliner/p/6122968",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267143,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "3ml",
+  "image": "/medias/sys_master/prd-images/hc8/h0e/34631571210270/prd-front-6122968-1_600x600/prd-front-6122968-1-600x600.jpg"
+}

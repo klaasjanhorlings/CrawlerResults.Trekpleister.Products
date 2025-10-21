@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gaviscon Duo Sachets",
+  "code": "5162389",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3635",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gaviscon-duo-sachets/p/5162389",
+  "listName": "Lister",
+  "brand": "Gaviscon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267264,
+      "name": "Maag- en of darm"
+    },
+    {
+      "id": 30267531,
+      "name": "Maagzuurremmers"
+    }
+  ],
+  "description": "Geneesmiddel - 12 stuks",
+  "image": "/medias/sys_master/prd-images/he5/h2d/28555174543390/prd-front-5162389-1_600x600/prd-front-5162389-1-600x600.jpg"
+}

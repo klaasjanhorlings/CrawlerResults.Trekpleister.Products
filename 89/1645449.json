@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Sun Club 01 Natural Blondes Matt Bronzing Powder",
+  "code": "1645449",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-sun-club-01-natural-blondes-matt-bronzing-powder/p/1645449",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267145,
+      "name": "Bronzer"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9e/hc5/35124064747550/prd-front-1645449-1_600x600/prd-front-1645449-1-600x600.jpg"
+}

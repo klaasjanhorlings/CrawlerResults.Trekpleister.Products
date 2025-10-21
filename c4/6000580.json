@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence The Slim Stick 105 Velvet Punch Lipstick",
+  "code": "6000580",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-the-slim-stick-105-velvet-punch-lipstick/p/6000580",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267153,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30267469,
+      "name": "Mono oogschaduw"
+    }
+  ],
+  "description": "1,7g",
+  "image": "/medias/sys_master/prd-images/h17/h6e/34646101983262/prd-front-6000580-1_600x600/prd-front-6000580-1-600x600.jpg"
+}

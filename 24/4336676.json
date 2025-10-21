@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Studio Nails Fix It! Nagellijm",
+  "code": "4336676",
+  "price": "2.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-studio-nails-fix-it-nagellijm/p/4336676",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267193,
+      "name": "Nagellijm"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h54/h2a/35122431164446/prd-front-4336676-1_600x600/prd-front-4336676-1-600x600.jpg"
+}

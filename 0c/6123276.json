@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Baby Got 50 Cherry Cherry Baby Blush",
+  "code": "6123276",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-baby-got-50-cherry-cherry-baby-blush/p/6123276",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267147,
+      "name": "Blush"
+    }
+  ],
+  "description": "5,5g",
+  "image": "/medias/sys_master/prd-images/h80/h86/34683206500382/prd-front-6123276-1_600x600/prd-front-6123276-1-600x600.jpg"
+}
