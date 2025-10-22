@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3147 > 4015",
   "supplier": "HARIBO THE NET.& BEL.BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031919",
+  "mmkId": "3031919",
+  "productGroupId": "516802",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/haribo-kikkers/p/5493069",
@@ -33,5 +33,6 @@
       "name": "Snoep"
     }
   ],
-  "description": "150 stuks"
+  "description": "150 stuks",
+  "image": "/medias/sys_master/prd-images/h9e/hc9/44180082524190/prd-front-5493069-1_600x600/prd-front-5493069-1-600x600.jpg"
 }

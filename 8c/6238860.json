@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dr. Scholl's Verzachtend en Revitaliserend Voetmasker",
+  "itemName": "Scholl Verzachtend en Revitaliserend Voetmasker",
   "code": "6238860",
   "price": "4.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "495519",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dr-scholls-verzachtend-en-revitaliserend-voetmasker/p/6238860",
+  "url": "/scholl-verzachtend-en-revitaliserend-voetmasker/p/6238860",
   "listName": "Lister",
   "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "2 stuks",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h21/h84/44565326626846/prd-front-6238860-1_600x600/prd-front-6238860-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031907",
+  "mmkId": "3031907",
+  "productGroupId": "459919",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-creme-supreme-5-60-chocolade-bruin-verzorgende-cremekleuring/p/6263213",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": "182g"
+  "description": "182g",
+  "image": "/medias/sys_master/prd-images/h31/h1e/34181616762910/prd-front-6263213-1_600x600/prd-front-6263213-1-600x600.jpg"
 }

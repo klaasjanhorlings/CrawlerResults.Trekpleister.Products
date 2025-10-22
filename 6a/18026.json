@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031868",
+  "mmkId": "3031868",
+  "productGroupId": "499918",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-excellence-creme-55-licht-mahonie-bruin-permanente-haarverf/p/18026",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/hba/32293271076894/prd-front-18026-1_600x600/prd-front-18026-1-600x600.jpg"
 }

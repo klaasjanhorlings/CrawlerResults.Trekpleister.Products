@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Pampers Night Pant Maat 6 Luierbroekjes",
+  "itemName": "Pampers Night Pants Maat 6 Luierbroekjes",
   "code": "6291962",
   "price": "52.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "501620",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/pampers-night-pant-maat-6-luierbroekjes/p/6291962",
+  "url": "/pampers-night-pants-maat-6-luierbroekjes/p/6291962",
   "listName": "Lister",
   "brand": "Pampers",
   "mpOrigin": "Kruidvat",
@@ -25,8 +25,12 @@
       "name": "Baby"
     },
     {
-      "id": 30267072,
-      "name": "Pyjamabroekjes"
+      "id": 30267070,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 30267352,
+      "name": "Luierbroekjes maat 6"
     }
   ],
   "description": "mt 6 (13+kg), 64 stuks",

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "HERKEL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031785",
+  "mmkId": "3031785",
+  "productGroupId": "469551",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-magnesium-multi-a-z-tabletten/p/6164709",
@@ -29,12 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
+      "id": 30267272,
+      "name": "Mineralen"
     },
     {
-      "id": 30267552,
-      "name": "Multivitamines"
+      "id": 50002051,
+      "name": "Magnesium"
     }
   ],
   "description": "60 stuks",

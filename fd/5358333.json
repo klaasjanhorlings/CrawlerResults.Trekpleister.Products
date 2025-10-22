@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Haribo Greatest Hits",
+  "itemName": "Haribo Greatest Hits Uitdeelzakjes",
   "code": "5358333",
   "price": "5.69",
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
   "supplier": "HARIBO THE NET.& BEL.BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031919",
+  "mmkId": "3031919",
+  "productGroupId": "516802",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/haribo-greatest-hits/p/5358333",
+  "url": "/haribo-greatest-hits-uitdeelzakjes/p/5358333",
   "listName": "Lister",
   "brand": "Haribo",
   "mpOrigin": "Kruidvat",
@@ -29,8 +29,8 @@
       "name": "Snacks en snoep"
     },
     {
-      "id": 30267587,
-      "name": "Snoep"
+      "id": 100652040,
+      "name": "Trakteren"
     }
   ],
   "description": "19 x 25g",

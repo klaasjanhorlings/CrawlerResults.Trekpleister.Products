@@ -25,9 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 91613031,
-      "name": "Mini reisverpakkingen"
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267492,
+      "name": "Haarlak"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hc0/h29/34898384420894/prd-front-2149680-1_600x600/prd-front-2149680-1-600x600.jpg"
 }
