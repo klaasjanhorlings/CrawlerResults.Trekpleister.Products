@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bioré Diep Reinigende Poriestrips met Houtskool",
+  "code": "4077655",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/biore-diep-reinigende-poriestrips-met-houtskool/p/4077655",
+  "listName": "Lister",
+  "brand": "Bioré",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267479,
+      "name": "Reinigingsstrips"
+    }
+  ],
+  "description": "6 stuks - Onzuivere huid",
+  "image": "/medias/sys_master/prd-images/hbd/h05/34532013703198/prd-front-4077655-1_600x600/prd-front-4077655-1-600x600.jpg"
+}

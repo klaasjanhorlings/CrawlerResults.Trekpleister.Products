@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031819",
-  "mmkId": "3031819",
-  "productGroupId": "492211",
+  "onPromo": "3031963",
+  "mmkId": "3031963",
+  "productGroupId": "500335",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-hold-4-extra-strong-styling-mousse/p/31302",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf6/hfc/33992945172510/prd-front-31302-1_600x600/prd-front-31302-1-600x600.jpg"
 }
