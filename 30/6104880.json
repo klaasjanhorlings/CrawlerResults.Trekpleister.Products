@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Invisible Cover 045N Foundation",
+  "code": "6104880",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-invisible-cover-045n-foundation/p/6104880",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267134,
+      "name": "Foundation"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h3e/h47/33046558441502/prd-front-6104880-1_600x600/prd-front-6104880-1-600x600.jpg"
+}

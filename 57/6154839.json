@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Invisible Cover 047W Foundation",
+  "code": "6154839",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-invisible-cover-047w-foundation/p/6154839",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267134,
+      "name": "Foundation"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/he9/h7a/34925631045662/prd-front-6154839-1_600x600/prd-front-6154839-1-600x600.jpg"
+}

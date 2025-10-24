@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bausch + Lomb Boston Oogdruppels",
+  "code": "6356124",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bausch-lomb-boston-oogdruppels/p/6356124",
+  "listName": "Lister",
+  "brand": "Bausch & Lomb",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267064,
+      "name": "Optiek"
+    },
+    {
+      "id": 30267316,
+      "name": "Oogdruppels"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/hbb/h4c/44598909665310/prd-front-6356124-1_600x600/prd-front-6356124-1-600x600.jpg"
+}

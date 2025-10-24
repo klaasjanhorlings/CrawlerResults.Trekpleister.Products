@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Philips 1000 Series S1142/00 Scheerapparaat",
-  "code": "5953113",
-  "price": "49.99",
+  "itemName": "Philips Series 5000 S5885/50 Scheerapparaat",
+  "code": "6311667",
+  "price": "97.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6441",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/philips-1000-series-s1142/00-scheerapparaat/p/5953113",
+  "url": "/philips-series-5000-s5885/50-scheerapparaat/p/6311667",
   "listName": "Lister",
   "brand": "Philips",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Scheren en ontharen"
     },
     {
-      "id": 30267237,
-      "name": "Elektrische scheerapparaten"
+      "id": 30267236,
+      "name": "Scheerapparaten"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hec/hc0/28572977233950/prd-front-5953113-1_600x600/prd-front-5953113-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5d/h87/34872067457054/prd-front-6311667-1_600x600/prd-front-6311667-1-600x600.jpg"
 }

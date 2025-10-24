@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Daktarin Schimmelinfectie Nagellak",
-  "code": "1662529",
-  "price": "17.49",
+  "itemName": "Nailner Multi-Action 2-in-1 Kalknagelkwastje",
+  "code": "2781864",
+  "price": "19.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 6451 > 6452 > 6788",
-  "supplier": "KENVUE",
+  "supplier": "ALL-IN-1 BVBA",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/daktarin-schimmelinfectie-nagellak/p/1662529",
+  "url": "/nailner-multi-action-2-in-1-kalknagelkwastje/p/2781864",
   "listName": "Lister",
-  "brand": "Daktarin",
+  "brand": "Nailner",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Kalknagels"
     }
   ],
-  "description": "Geneesmiddel - 30ml",
-  "image": "/medias/sys_master/prd-images/hfc/h78/28546356772894/prd-front-1662529-1_600x600/prd-front-1662529-1-600x600.jpg"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/heb/h7e/44239691153438/prd-front-2781864-1_600x600/prd-front-2781864-1-600x600.jpg"
 }
