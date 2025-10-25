@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lindt Lindor Melk Bonbons",
+  "code": "5819490",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "LINDT & SPRUNGLI BENELUX",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/lindt-lindor-melk-bonbons/p/5819490",
+  "listName": "Lister",
+  "brand": "Lindt",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267585,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107467253,
+      "name": "Bonbons en pralines"
+    }
+  ],
+  "description": "137g",
+  "image": "/medias/prd-front-5819490-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzE3MzB8aW1hZ2UvanBlZ3xhRFF4TDJneVppOHlOalUzTWpJeE5qWTVOamcyTWk5d2NtUXRabkp2Ym5RdE5UZ3hPVFE1TUMweFh6WXdNSGcyTURBfDlkZGVlNDU0NTM1ODFlNWNjODZkZGQzYWVjN2Y4ZTRlOTIzZDEzYjdiMTYyMjIyYzk5YzQzYzc3NTIxOGU5OGE"
+}

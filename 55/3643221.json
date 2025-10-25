@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "GUHL IKEBANA COSMETICS",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031964",
+  "mmkId": "3031964",
+  "productGroupId": "500980",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-intensieve-stevigheid-shampoo/p/3643221",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h3b/ha6/44588357156894/prd-front-3643221-1_600x600/prd-front-3643221-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6c/he9/44600137285662/prd-front-3643221-1_600x600/prd-front-3643221-1-600x600.jpg"
 }

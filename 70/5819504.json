@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lindt Lindor Dark 60% Chocolade Bonbons",
+  "code": "5819504",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "LINDT & SPRUNGLI BENELUX",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/lindt-lindor-dark-60-chocolade-bonbons/p/5819504",
+  "listName": "Lister",
+  "brand": "Lindt",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267585,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107467253,
+      "name": "Bonbons en pralines"
+    }
+  ],
+  "description": "137g",
+  "image": "/medias/prd-front-5819504-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzIyNzd8aW1hZ2UvanBlZ3xhR0l3TDJnd1pTOHlOall5T0RnNE1EZzVNVGt6TkM5d2NtUXRabkp2Ym5RdE5UZ3hPVFV3TkMweFh6WXdNSGcyTURBfGMzOWIzYmNjYjIyZmVlMjA3NzIzMDc2YzQxMWMzN2RiMTQ1YzE4MjEzZjdlMjZmNzgzZjEyN2JmMWExM2Y0MjU"
+}
