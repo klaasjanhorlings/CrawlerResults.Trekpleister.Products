@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Bausch + Lomb Boston Oogdruppels",
-  "code": "6356124",
-  "price": "12.99",
+  "itemName": "A.Vogel Ontstoken Ooglid Ooggel",
+  "code": "6292207",
+  "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
-  "supplier": "OTC MEDICAL BV",
+  "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/bausch-lomb-boston-oogdruppels/p/6356124",
+  "url": "/avogel-ontstoken-ooglid-ooggel/p/6292207",
   "listName": "Lister",
-  "brand": "Bausch & Lomb",
+  "brand": "A.Vogel",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,5 @@
       "name": "Oogdruppels"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml",
-  "image": "/medias/sys_master/prd-images/h9d/h0c/44616028880926/prd-front-6356124-1_600x600/prd-front-6356124-1-600x600.jpg"
+  "description": "10ml - medisch hulpmiddel"
 }
