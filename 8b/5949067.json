@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6321",
   "supplier": "DENMAN INTERNATIONAL LTD",
   "inStock": "inStock",
-  "onPromo": "3031789",
-  "mmkId": "3031789",
-  "productGroupId": "473029",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/denman-dpc6-precision-professional-kam/p/5949067",
@@ -33,5 +33,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/hf7/h38/28890134511646/prd-front-5949067-1_600x600/prd-front-5949067-1-600x600.jpg"
 }

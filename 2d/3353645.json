@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032070",
+  "mmkId": "3032070",
+  "productGroupId": "499934",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-olia-462-donker-granaatrood-permanente-haarkleuring/p/3353645",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h85/h8e/33361723883550/prd-front-3353645-1_600x600/prd-front-3353645-1-600x600.jpg"
 }

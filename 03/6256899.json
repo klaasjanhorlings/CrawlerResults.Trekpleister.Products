@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031889",
-  "mmkId": "3031889",
-  "productGroupId": "502056",
+  "onPromo": "3032106",
+  "mmkId": "3032106",
+  "productGroupId": "502062",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-sun-kissed-chamomile-bloemenhoning-verhelderende-glansgevende-conditioner/p/6256899",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h7f/ha2/33987838115870/prd-front-6256899-1_600x600/prd-front-6256899-1-600x600.jpg"
 }

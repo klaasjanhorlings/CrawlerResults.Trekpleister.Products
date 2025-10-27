@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032094",
+  "mmkId": "3032094",
+  "productGroupId": "500920",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/parodontax-strengthen-protect-fresh-mint-tandpasta/p/6233295",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h96/hac/34146178727966/prd-front-6233295-1_600x600/prd-front-6233295-1-600x600.jpg"
 }

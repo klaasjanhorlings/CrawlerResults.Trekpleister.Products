@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6695",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032112",
+  "mmkId": "3032112",
+  "productGroupId": "502132",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pantene-active-nutri-plex-pro-v-repair-protect-keratine-haarmasker/p/5120032",
@@ -33,6 +33,5 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml - Droog en beschadigd haar",
-  "image": "/medias/sys_master/prd-images/hdb/hd1/32282065797150/prd-front-5120032-1_600x600/prd-front-5120032-1-600x600.jpg"
+  "description": "300ml - Droog en beschadigd haar"
 }

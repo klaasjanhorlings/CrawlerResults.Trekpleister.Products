@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031892",
-  "mmkId": "3031892",
-  "productGroupId": "502068",
+  "onPromo": "3032107",
+  "mmkId": "3032107",
+  "productGroupId": "502070",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-q10-anti-rimpel-expert-spf50-anti-uv-fluide/p/6299417",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h64/h1e/34793480814622/prd-front-6299417-1_600x600/prd-front-6299417-1-600x600.jpg"
 }

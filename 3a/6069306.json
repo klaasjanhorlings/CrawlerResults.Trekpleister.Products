@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3031817",
-  "mmkId": "3031817",
-  "productGroupId": "491397",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sheamoisture-jamaican-black-castor-oil-shampoo/p/6069306",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "384ml",
-  "image": "/medias/sys_master/prd-images/h34/h8e/31036995239966/prd-front-6069306-1_600x600/prd-front-6069306-1-600x600.jpg"
+  "description": "384ml"
 }

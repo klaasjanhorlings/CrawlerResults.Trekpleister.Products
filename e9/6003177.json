@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032093",
+  "mmkId": "3032093",
+  "productGroupId": "500854",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-creator-31147-retro-fotocamera/p/6003177",
@@ -33,6 +33,5 @@
       "name": "LEGO Verjaardagscadeaus"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h12/hc4/29494085320734/prd-front-6003177-1_600x600/prd-front-6003177-1-600x600.jpg"
+  "description": ""
 }

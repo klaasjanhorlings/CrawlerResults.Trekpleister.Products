@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sinterklaas Vingerpoppetjes",
+  "code": "6364818",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2232 > 2527 > 3150 > 4019",
+  "supplier": "SPEELGOEDLAND",
+  "inStock": "inStock",
+  "onPromo": "3032093",
+  "mmkId": "3032093",
+  "productGroupId": "500854",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/sinterklaas-vingerpoppetjes/p/6364818",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267088,
+      "name": "Verkleedkleding & accessoires"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8f/hdf/44516962467870/prd-front-6364818-1_600x600/prd-front-6364818-1-600x600.jpg"
+}

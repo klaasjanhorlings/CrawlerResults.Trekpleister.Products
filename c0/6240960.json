@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
   "supplier": "ZURU NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3031859",
-  "mmkId": "3031859",
-  "productGroupId": "499561",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/rascal-friends-maat-1-premium-luiers/p/6240960",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 1"
     }
   ],
-  "description": "44 stuks"
+  "description": "44 stuks",
+  "image": "/medias/sys_master/prd-images/h5d/hda/33989994315806/prd-front-6240960-1_600x600/prd-front-6240960-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3031854",
-  "mmkId": "3031854",
-  "productGroupId": "499514",
+  "onPromo": "3032074",
+  "mmkId": "3032074",
+  "productGroupId": "500480",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/prodent-wit-fris-tandpasta/p/6061907",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h3c/h0f/31295236177950/prd-front-6061907-1_600x600/prd-front-6061907-1-600x600.jpg"
+  "description": "75ml"
 }

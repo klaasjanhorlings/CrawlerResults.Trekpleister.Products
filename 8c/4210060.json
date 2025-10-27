@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 3163 > 4034",
   "supplier": "HENKEL NEDERLAND BV U-W",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032048",
+  "mmkId": "3032048",
+  "productGroupId": "498961",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dylon-olive-green-machinewas-textielverf/p/4210060",
@@ -33,6 +33,5 @@
       "name": "Textielverf"
     }
   ],
-  "description": "350g",
-  "image": "/medias/sys_master/prd-images/h8a/h0d/29656242815006/prd-front-4210060-1_600x600/prd-front-4210060-1-600x600.jpg"
+  "description": "350g"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3328 > 4232",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031845",
-  "mmkId": "3031845",
-  "productGroupId": "499256",
+  "onPromo": "3032052",
+  "mmkId": "3032052",
+  "productGroupId": "499264",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/labello-glowy-lips-berry-lippenbalsem-met-spf30/p/6357006",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/hbd/h4c/44558901346334/prd-front-6357006-1_600x600/prd-front-6357006-1-600x600.jpg"
 }

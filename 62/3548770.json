@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3858",
   "supplier": "RIDAM CARE BV",
   "inStock": "inStock",
-  "onPromo": "3031875",
-  "mmkId": "3031875",
-  "productGroupId": "501250",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/europrofit-medium-tandenborstels/p/3548770",
@@ -33,6 +33,5 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "8 stuks",
-  "image": "/medias/prd-front-3548770-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjY3OTV8aW1hZ2UvanBlZ3xhR013TDJnd01pOHhOak0yT0RjNU5ESXpPVEF3Tmk5d2NtUXRabkp2Ym5RdE16VTBPRGMzTUMweFh6WXdNSGcyTURBfDg5NDgwODM0MmQ0ZmMyZTMxMzVlODJkZTM1MWFlMDViZjI3M2RlZTFhYWQ4NmZiZWE0NjkyMzU0YWZjM2Q3ZTY"
+  "description": "8 stuks"
 }

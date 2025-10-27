@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "3031797",
-  "mmkId": "3031797",
-  "productGroupId": "481514",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-anti-puistjes-wasgel/p/6019795",
@@ -37,6 +37,5 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "200ml - Acne en onzuivere huid",
-  "image": "/medias/sys_master/prd-images/h2b/h8d/35128237162526/prd-front-6019795-1_600x600/prd-front-6019795-1-600x600.jpg"
+  "description": "200ml - Acne en onzuivere huid"
 }

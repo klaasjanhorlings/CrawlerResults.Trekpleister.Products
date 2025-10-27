@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031935",
-  "mmkId": "3031935",
-  "productGroupId": "474682",
+  "onPromo": "3032108",
+  "mmkId": "3032108",
+  "productGroupId": "502095",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-age-perefect-midnight-oogcreme/p/6049881",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml, alle huidtypes"
+  "description": "15ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h38/h59/30502986186782/prd-front-6049881-1_600x600/prd-front-6049881-1-600x600.jpg"
 }

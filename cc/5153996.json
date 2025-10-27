@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3031850",
-  "mmkId": "3031850",
-  "productGroupId": "499375",
+  "onPromo": "3032081",
+  "mmkId": "3032081",
+  "productGroupId": "500505",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/colgate-triple-action-xtra-white-tandpasta/p/5153996",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Whitening"
+  "description": "75ml - Whitening",
+  "image": "/medias/sys_master/prd-images/h5c/h85/31792904110110/prd-front-5153996-1_600x600/prd-front-5153996-1-600x600.jpg"
 }

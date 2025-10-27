@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gillette Mach3 Scheermesjes",
   "code": "6247722",
-  "price": "83.95",
-  "priceOriginal": "",
+  "price": "40.3",
+  "priceOriginal": "83.95",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032040",
+  "mmkId": "3032040",
+  "productGroupId": "498738",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 43,65",
   "url": "/gillette-mach3-scheermesjes/p/6247722",
   "listName": "Lister",
   "brand": "Gillette",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/hcc/hbd/33468945858590/prd-front-6247722-1_600x600/prd-front-6247722-1-600x600.jpg"
+  "description": "20 stuks"
 }

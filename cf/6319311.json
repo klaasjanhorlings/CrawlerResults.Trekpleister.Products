@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
   "supplier": "RAVENSBURGER BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032093",
+  "mmkId": "3032093",
+  "productGroupId": "500854",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/super-mario-xxl-puzzel/p/6319311",
@@ -29,6 +29,5 @@
       "name": "Puzzels"
     }
   ],
-  "description": "100 stukjes",
-  "image": "/medias/sys_master/prd-images/h75/h30/34677363703838/prd-front-6319311-1_600x600/prd-front-6319311-1-600x600.jpg"
+  "description": "100 stukjes"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Senseo Milka Choco Pads",
+  "code": "5132492",
+  "price": "3.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 4354 > 4355",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "3032101",
+  "mmkId": "3032101",
+  "productGroupId": "501596",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/douwe-egberts-senseo-milka-choco-pads/p/5132492",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267443,
+      "name": "Koffie"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/sys_master/prd-images/h41/h0c/29360825860126/prd-front-5132492-1_600x600/prd-front-5132492-1-600x600.jpg"
+}

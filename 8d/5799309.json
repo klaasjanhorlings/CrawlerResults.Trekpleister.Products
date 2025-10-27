@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032112",
+  "mmkId": "3032112",
+  "productGroupId": "502132",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-kokosmelk-macadamia-haarmasker/p/5799309",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "340ml"
+  "description": "340ml",
+  "image": "/medias/sys_master/prd-images/h95/h8e/29798402064414/prd-front-5799309-1_600x600/prd-front-5799309-1-600x600.jpg"
 }

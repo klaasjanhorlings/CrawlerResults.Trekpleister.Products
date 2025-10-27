@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3031811",
-  "mmkId": "3031811",
-  "productGroupId": "489436",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-white-lotus-extra-dry-antitranspirant-spray/p/2746353",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h73/hd0/29339209859102/prd-front-2746353-1_600x600/prd-front-2746353-1-600x600.jpg"
 }

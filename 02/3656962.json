@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3031886",
-  "mmkId": "3031886",
-  "productGroupId": "502053",
+  "onPromo": "3032105",
+  "mmkId": "3032105",
+  "productGroupId": "502059",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-extraordinary-oil-krulverzorgende-conditioner/p/3656962",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h24/ha1/33047060643870/prd-front-3656962-1_600x600/prd-front-3656962-1-600x600.jpg"
+  "description": "200ml"
 }

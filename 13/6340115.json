@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jakks Super Mario Peach Figuur",
+  "code": "6340115",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2232 > 2527 > 3150 > 4019",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "3032093",
+  "mmkId": "3032093",
+  "productGroupId": "500854",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jakks-super-mario-peach-figuur/p/6340115",
+  "listName": "Lister",
+  "brand": "Super Mario",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267079,
+      "name": "Speelfiguren en speelsets"
+    }
+  ],
+  "description": "6cm",
+  "image": "/medias/sys_master/prd-images/hc2/h53/44264117338142/prd-front-6340115-1_600x600/prd-front-6340115-1-600x600.jpg"
+}

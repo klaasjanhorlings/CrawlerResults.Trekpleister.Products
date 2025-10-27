@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Glorix Rainbow Power Toiletblok",
+  "code": "4952802",
+  "price": "1.49",
+  "priceOriginal": "3.85",
+  "itemBgbcat": "2007 > 2068 > 2194 > 6071 > 6072 > 6074",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3032027",
+  "mmkId": "3032027",
+  "productGroupId": "497039",
+  "brandType": "A of B merk",
+  "discount": "€ 2,36",
+  "url": "/glorix-rainbow-power-toiletblok/p/4952802",
+  "listName": "Lister",
+  "brand": "Glorix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267122,
+      "name": "Toiletblokken"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h46/h8f/44622390951966/prd-front-4952802-1_600x600/prd-front-4952802-1-600x600.jpg"
+}

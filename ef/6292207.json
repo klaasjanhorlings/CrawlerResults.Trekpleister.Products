@@ -8,8 +8,8 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Oogdruppels"
     }
   ],
-  "description": "10ml - medisch hulpmiddel"
+  "description": "10ml - medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h7c/h77/44242162417694/prd-front-6292207-1_600x600/prd-front-6292207-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3679",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3031777",
-  "mmkId": "3031777",
-  "productGroupId": "456014",
+  "onPromo": "3032014",
+  "mmkId": "3032014",
+  "productGroupId": "489244",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-derma-control-restore-douchegel/p/6333885",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hf1/hf4/44212924907550/prd-front-6333885-1_600x600/prd-front-6333885-1-600x600.jpg"
 }

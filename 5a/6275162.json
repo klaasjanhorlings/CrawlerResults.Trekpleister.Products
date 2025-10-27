@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032020",
+  "mmkId": "3032020",
+  "productGroupId": "495102",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-pout-clout-red-my-mind-lip-plumping-pen/p/6275162",
@@ -37,5 +37,6 @@
       "name": "Lip plumper"
     }
   ],
-  "description": "2g"
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/hd3/h4e/34039024746526/prd-front-6275162-1_600x600/prd-front-6275162-1-600x600.jpg"
 }

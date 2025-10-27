@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3031878",
-  "mmkId": "3031878",
-  "productGroupId": "501611",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/adidas-vibes-energy-drive-eau-de-parfum/p/6133881",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h4a/ha3/32415770673182/prd-front-6133881-1_600x600/prd-front-6133881-1-600x600.jpg"
+  "description": "30ml"
 }

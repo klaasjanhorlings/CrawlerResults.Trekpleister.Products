@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "3031797",
-  "mmkId": "3031797",
-  "productGroupId": "481514",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-retinol-boost-anti-age-nachtcreme/p/5627364",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/ha9/ha1/44107754733598/prd-front-5627364-1_600x600/prd-front-5627364-1-600x600.jpg"
 }

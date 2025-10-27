@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032013",
+  "mmkId": "3032013",
+  "productGroupId": "489213",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kneipp-oil-milk-argan-oat-milk-2-fasen-badolie-en-melk/p/6164905",
@@ -33,6 +33,5 @@
       "name": "Badolie"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hc8/haf/32629468790814/prd-front-6164905-1_600x600/prd-front-6164905-1-600x600.jpg"
+  "description": "250ml"
 }

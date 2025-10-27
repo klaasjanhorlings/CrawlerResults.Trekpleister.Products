@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3031945",
-  "mmkId": "3031945",
-  "productGroupId": "500206",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/libresse-ultra-normal-multistyle-maandverband/p/6362039",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/hc6/hc9/44000515686430/prd-front-6362039-1_600x600/prd-front-6362039-1-600x600.jpg"
+  "description": "10 stuks"
 }

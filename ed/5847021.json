@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6209 > 6227 > 6313",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3031785",
-  "mmkId": "3031785",
-  "productGroupId": "469551",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-l-lysine-1000mg-tabletten/p/5847021",
@@ -33,5 +33,6 @@
       "name": "Overige supplementen"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h01/hb8/32534498574366/prd-front-5847021-1_600x600/prd-front-5847021-1-600x600.jpg"
 }

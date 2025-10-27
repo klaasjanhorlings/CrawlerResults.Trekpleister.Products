@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3031785",
-  "mmkId": "3031785",
-  "productGroupId": "469551",
+  "onPromo": "3032072",
+  "mmkId": "3032072",
+  "productGroupId": "500014",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-calcium-1000mg-tabletten/p/1583968",
@@ -37,5 +37,6 @@
       "name": "Calcium"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h91/he9/28546340061214/prd-front-1583968-1_600x600/prd-front-1583968-1-600x600.jpg"
 }
