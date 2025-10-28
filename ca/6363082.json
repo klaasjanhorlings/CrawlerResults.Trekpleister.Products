@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2183 > 2441 > 2936 > 3731",
   "supplier": "TROY COMPANIES BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3032093",
+  "mmkId": "3032093",
+  "productGroupId": "500854",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/luxe-pietenjurk-met-pietenmuts/p/6363082",
@@ -29,5 +29,6 @@
       "name": "Verkleedkleding & accessoires"
     }
   ],
-  "description": "turquoise, 6-8 jaar"
+  "description": "turquoise, 6-8 jaar",
+  "image": "/medias/sys_master/prd-images/ha4/hc1/44488315338782/prd-front-6363082-1_600x600/prd-front-6363082-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032020",
+  "mmkId": "3032020",
+  "productGroupId": "495102",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-medium-sand-hydrating-camo-concealer-satin-finish/p/6274210",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "6ml",
-  "image": "/medias/sys_master/prd-images/h74/h28/34025216737310/prd-front-6274210-1_600x600/prd-front-6274210-1-600x600.jpg"
+  "description": "6ml"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2340 > 2825 > 3566",
   "supplier": "CONTINENTAL BAKERIES BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Koek"
     }
   ],
-  "description": "252g, 8 stuks"
+  "description": "252g, 8 stuks",
+  "image": "/medias/sys_master/prd-images/h8f/h74/28547047391262/prd-front-2541309-1_600x600/prd-front-2541309-1-600x600.jpg"
 }

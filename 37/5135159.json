@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Panasonic AA-Batterijen",
+  "code": "5135159",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 6013 > 2134 > 6145 > 6146 > 6147",
+  "supplier": "ADVANCED POWER SOLUT",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/panasonic-aa-batterijen/p/5135159",
+  "listName": "Lister",
+  "brand": "Panasonic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267106,
+      "name": "Batterijen"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hd0/h25/29709659013150/prd-front-5135159-1_600x600/prd-front-5135159-1-600x600.jpg"
+}

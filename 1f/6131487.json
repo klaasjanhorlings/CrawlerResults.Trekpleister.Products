@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "NAIF CARE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031983",
+  "mmkId": "3031983",
+  "productGroupId": "500724",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-baby-kids-babydoekjes/p/6131487",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "10 x 40 stuks",
-  "image": "/medias/sys_master/prd-images/h8e/h7b/31989421867038/prd-front-6131487-1_600x600/prd-front-6131487-1-600x600.jpg"
+  "description": "10 x 40 stuks"
 }

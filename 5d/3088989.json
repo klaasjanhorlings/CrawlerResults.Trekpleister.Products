@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2963 > 6640",
   "supplier": "NESTLE NEDERLAND B.V",
-  "inStock": "inStock",
-  "onPromo": "3031949",
-  "mmkId": "3031949",
-  "productGroupId": "501478",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nescafe-latte-macchiato-oploskoffie/p/3088989",
@@ -29,6 +29,5 @@
       "name": "Koffie"
     }
   ],
-  "description": "144g",
-  "image": "/medias/sys_master/prd-images/h0a/h1e/31699485098014/prd-front-3088989-1_600x600/prd-front-3088989-1-600x600.jpg"
+  "description": "144g"
 }

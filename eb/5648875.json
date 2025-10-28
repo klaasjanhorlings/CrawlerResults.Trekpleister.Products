@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medela Hydrogel Pads",
+  "code": "5648875",
+  "price": "16.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "MEDELA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3032044",
+  "mmkId": "3032044",
+  "productGroupId": "498897",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medela-hydrogel-pads/p/5648875",
+  "listName": "Lister",
+  "brand": "Medela",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30267362,
+      "name": "Mama verzorgingsproducten"
+    }
+  ],
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h6a/h93/32146756599838/prd-front-5648875-1_600x600/prd-front-5648875-1-600x600.jpg"
+}
