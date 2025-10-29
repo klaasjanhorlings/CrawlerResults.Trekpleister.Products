@@ -29,10 +29,13 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49793306,
-      "name": "Visolie"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267552,
+      "name": "Multivitamines"
     }
   ],
-  "description": "70 stuks",
-  "image": "/medias/sys_master/prd-images/hab/h6d/31458462728222/prd-front-3939300-1_600x600/prd-front-3939300-1-600x600.jpg"
+  "description": "70 stuks"
 }

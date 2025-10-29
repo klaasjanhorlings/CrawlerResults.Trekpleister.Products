@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Centrum Select 50+ Multivitaminen Tabletten",
+  "code": "1692272",
+  "price": "52.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "3026657",
+  "mmkId": "3026657",
+  "productGroupId": "437814",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/centrum-select-50-multivitaminen-tabletten/p/1692272",
+  "listName": "Lister",
+  "brand": "Centrum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267552,
+      "name": "Multivitamines"
+    }
+  ],
+  "description": "180 stuks",
+  "image": "/medias/sys_master/prd-images/hfe/haa/33003166236702/prd-front-1692272-1_600x600/prd-front-1692272-1-600x600.jpg"
+}

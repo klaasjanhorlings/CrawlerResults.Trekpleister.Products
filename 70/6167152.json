@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2232 > 2527 > 3150 > 4019",
   "supplier": "LITTLE CONCEPTS NETTO",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3032093",
+  "mmkId": "3032093",
+  "productGroupId": "500854",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/pietenpak-kinderkostuum/p/6167152",
@@ -29,5 +29,6 @@
       "name": "Verkleedkleding & accessoires"
     }
   ],
-  "description": "rood, 4-6 jaar"
+  "description": "rood, 4-6 jaar",
+  "image": "/medias/sys_master/prd-images/hb2/h53/44488300068894/prd-front-6167152-1_600x600/prd-front-6167152-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3021 > 3846",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 8"
     }
   ],
-  "description": "mt 8 (17+ kg), 86 stuks",
-  "image": "/medias/sys_master/prd-images/h88/hbb/34797018742814/prd-front-6291899-1_600x600/prd-front-6291899-1-600x600.jpg"
+  "description": "mt 8 (17+ kg), 86 stuks"
 }

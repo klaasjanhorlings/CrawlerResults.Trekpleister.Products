@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "RAVENSBURGER BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3032093",
+  "mmkId": "3032093",
+  "productGroupId": "500854",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ravensburger-nijntje-mini-memory/p/6123990",
@@ -25,8 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 49281783,
-      "name": "Interactief speelgoed"
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281487,
+      "name": "Kaartspellen"
     }
   ],
   "description": "",

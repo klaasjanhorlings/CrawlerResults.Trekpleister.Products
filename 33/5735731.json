@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
-  "onPromo": "3032071",
-  "mmkId": "3032071",
-  "productGroupId": "500013",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-kids-3-multi-gummies/p/5735731",
@@ -33,8 +33,8 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267553,
-      "name": "Kindervitamines"
+      "id": 30267552,
+      "name": "Multivitamines"
     }
   ],
   "description": "60 stuks",
