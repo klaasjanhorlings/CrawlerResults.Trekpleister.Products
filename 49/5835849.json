@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Syoss 7.1 Natuurlijk Middenblond Permanente Haarkleuring",
+  "itemName": "Syoss 7_46 Cool Middenblond Permanente Haarkleuring",
   "code": "5835849",
   "price": "16.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "499427",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/syoss-71-natuurlijk-middenblond-permanente-haarkleuring/p/5835849",
+  "url": "/syoss-7-46-cool-middenblond-permanente-haarkleuring/p/5835849",
   "listName": "Lister",
   "brand": "Syoss",
   "mpOrigin": "Kruidvat",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h0a/had/33821415342110/prd-front-5835849-1_600x600/prd-front-5835849-1-600x600.jpg"
+  "description": ""
 }

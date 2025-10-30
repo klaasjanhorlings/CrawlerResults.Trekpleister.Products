@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032134",
+  "mmkId": "3032134",
+  "productGroupId": "513949",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-05-2-very-light-miracle-hyaluronic-tinted-serum/p/6316707",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h69/h4f/34829429604382/prd-front-6316707-1_600x600/prd-front-6316707-1-600x600.jpg"
 }

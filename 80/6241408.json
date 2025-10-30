@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032133",
+  "mmkId": "3032133",
+  "productGroupId": "502281",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-baby-dry-pants-maat-6-luierbroekjes/p/6241408",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 6"
     }
   ],
-  "description": "mt 6 (13-19kg), 96 stuks"
+  "description": "mt 6 (13-19kg), 96 stuks",
+  "image": "/medias/sys_master/prd-images/h9c/h6f/34794756997150/prd-front-6241408-1_600x600/prd-front-6241408-1-600x600.jpg"
 }
