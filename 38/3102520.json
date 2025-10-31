@@ -5,7 +5,7 @@
   "code": "3102520",
   "price": "11.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
   "onPromo": "3032064",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267142,
-      "name": "Oogpotlood"
+      "id": 30267143,
+      "name": "Eyeliner"
     }
   ],
   "description": "",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h78/hc1/44651778244638/prd-front-3102520-1_600x600/prd-front-3102520-1-600x600.jpg"
 }

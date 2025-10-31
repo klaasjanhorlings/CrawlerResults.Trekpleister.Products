@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Skala Brasil Babosa 2-in-1 Treatment Cream & Leave-In",
+  "code": "6394785",
+  "price": "9.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/skala-brasil-babosa-2-in-1-treatment-cream-leave-in/p/6394785",
+  "listName": "Lister",
+  "brand": "SKALA",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213692,
+      "name": "Haartreatment"
+    }
+  ],
+  "description": "1000ml",
+  "image": "/medias/sys_master/prd-images/h63/h53/44328488697886/prd-front-6394785-1_600x600/prd-front-6394785-1-600x600.jpg"
+}

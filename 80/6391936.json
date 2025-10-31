@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "As I Am Dry & Itchy Scalp Care Oil Treatment",
+  "code": "6391936",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/as-i-am-dry-itchy-scalp-care-oil-treatment/p/6391936",
+  "listName": "Lister",
+  "brand": "As I Am",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213498,
+      "name": "Haarolie"
+    }
+  ],
+  "description": "119ml",
+  "image": "/medias/sys_master/prd-images/h76/h6d/44326221643806/prd-front-6391936-1_600x600/prd-front-6391936-1-600x600.jpg"
+}

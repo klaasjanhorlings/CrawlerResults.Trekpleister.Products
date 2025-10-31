@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari 3-In-1 Dry Oil",
+  "code": "6391453",
+  "price": "9.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "YARI BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-3-in-1-dry-oil/p/6391453",
+  "listName": "Lister",
+  "brand": "Yari",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267196,
+      "name": "Bodyolie"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/he1/hf0/44642319564830/prd-front-6391453-1_600x600/prd-front-6391453-1-600x600.jpg"
+}

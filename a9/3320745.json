@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2963 > 6640",
   "supplier": "NESTLE NEDERLAND B.V",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3031949",
   "mmkId": "3031949",
   "productGroupId": "501478",
@@ -29,5 +29,6 @@
       "name": "Koffie"
     }
   ],
-  "description": "140g"
+  "description": "140g",
+  "image": "/medias/sys_master/prd-images/h60/h6e/31701053997086/prd-front-3320745-1_600x600/prd-front-3320745-1-600x600.jpg"
 }

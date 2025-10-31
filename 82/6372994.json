@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
   "supplier": "HARIBO THE NET.& BEL.BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3031919",
+  "mmkId": "3031919",
+  "productGroupId": "516802",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/haribo-zoute-rijen/p/6372994",
@@ -33,5 +33,6 @@
       "name": "Snoep"
     }
   ],
-  "description": "840g"
+  "description": "840g",
+  "image": "/medias/sys_master/prd-images/h97/h2d/44187965489182/prd-front-6372994-1_600x600/prd-front-6372994-1-600x600.jpg"
 }

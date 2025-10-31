@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032055",
+  "mmkId": "3032055",
+  "productGroupId": "499299",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-kokos-volume-boost-conditioner/p/6292830",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h55/h16/34730368630814/prd-front-6292830-1_600x600/prd-front-6292830-1-600x600.jpg"
 }

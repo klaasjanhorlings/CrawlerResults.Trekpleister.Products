@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032135",
+  "mmkId": "3032135",
+  "productGroupId": "469005",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-vitamine-c-glow-booster-liquid-care/p/6237152",
@@ -33,5 +33,6 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "120ml"
+  "description": "120ml",
+  "image": "/medias/sys_master/prd-images/he1/h74/44000889274398/prd-front-6237152-1_600x600/prd-front-6237152-1-600x600.jpg"
 }

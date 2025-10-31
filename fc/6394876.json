@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mielle Rosemary Mint Clarifying Sugar Scalp Scrub",
+  "code": "6394876",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6697",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/mielle-rosemary-mint-clarifying-sugar-scalp-scrub/p/6394876",
+  "listName": "Lister",
+  "brand": "Mielle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 82417106,
+      "name": "Krullenverzorging"
+    }
+  ],
+  "description": "180g",
+  "image": "/medias/sys_master/prd-images/h20/he3/44325707218974/prd-front-6394876-1_600x600/prd-front-6394876-1-600x600.jpg"
+}
