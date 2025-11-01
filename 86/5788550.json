@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Butter Drippin' 050 Cherry Delicious Glossy Lip Balm",
-  "code": "6233750",
-  "price": "3.59",
+  "itemName": "Catrice Scandalous 100 Muse of Inspiration Matte Lipstick",
+  "code": "5788550",
+  "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-butter-drippin-050-cherry-delicious-glossy-lip-balm/p/6233750",
+  "url": "/catrice-scandalous-100-muse-of-inspiration-matte-lipstick/p/5788550",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -33,10 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30267140,
-      "name": "Lipgloss"
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h23/h8a/33047540072478/prd-front-6233750-1_600x600/prd-front-6233750-1-600x600.jpg"
+  "description": "3,5g",
+  "image": "/medias/sys_master/prd-images/h87/hbb/29939640336414/prd-front-5788550-1_600x600/prd-front-5788550-1-600x600.jpg"
 }

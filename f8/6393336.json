@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Muziekoordopjes",
+  "code": "6393336",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-muziekoordopjes/p/6393336",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30267507,
+      "name": "Oordoppen"
+    }
+  ],
+  "description": "1 paar",
+  "image": "/medias/sys_master/prd-images/h7f/h54/44377518374942/prd-front-6393336-1_600x600/prd-front-6393336-1-600x600.jpg"
+}
