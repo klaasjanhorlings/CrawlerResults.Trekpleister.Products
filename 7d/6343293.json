@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ravensburger Koehandel",
+  "code": "6343293",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "inStock",
+  "onPromo": "3032093",
+  "mmkId": "3032093",
+  "productGroupId": "500854",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ravensburger-koehandel/p/6343293",
+  "listName": "Lister",
+  "brand": "Ravensburger",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281487,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcd/h8f/34899723583518/prd-front-6343293-1_600x600/prd-front-6343293-1-600x600.jpg"
+}

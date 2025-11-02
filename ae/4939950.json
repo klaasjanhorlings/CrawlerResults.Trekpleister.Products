@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO City 60238 Wissels",
+  "code": "4939950",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "3032093",
+  "mmkId": "3032093",
+  "productGroupId": "500854",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-city-60238-wissels/p/4939950",
+  "listName": "Lister",
+  "brand": "LEGO City",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267367,
+      "name": "LEGO City"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0f/h8e/35012716331038/prd-front-4939950-1_600x600/prd-front-4939950-1-600x600.jpg"
+}
