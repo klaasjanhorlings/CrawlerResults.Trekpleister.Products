@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bath and Beauty Fluffy Oorwarmers Geschenkset",
+  "code": "6341242",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 2440 > 2935 > 3730",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/bath-and-beauty-fluffy-oorwarmers-geschenkset/p/6341242",
+  "listName": "Lister",
+  "brand": "Geschenkset",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666589,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbf/h2a/44000725008414/prd-front-6341242-1_600x600/prd-front-6341242-1-600x600.jpg"
+}

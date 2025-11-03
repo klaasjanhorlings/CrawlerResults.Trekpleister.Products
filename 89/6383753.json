@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Classics Pink Sensation Wasverzachter ",
+  "code": "6383753",
+  "price": "3.49",
+  "priceOriginal": "6.79",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3032168",
+  "mmkId": "3032168",
+  "productGroupId": "502019",
+  "brandType": "A of B merk",
+  "discount": "€ 3,30",
+  "url": "/robijn-classics-pink-sensation-wasverzachter-/p/6383753",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267115,
+      "name": "Wasverzachter"
+    }
+  ],
+  "description": "780ml, 38 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h72/h4e/44254405034014/prd-front-6383753-1_600x600/prd-front-6383753-1-600x600.jpg"
+}

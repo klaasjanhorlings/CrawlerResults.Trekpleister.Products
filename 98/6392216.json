@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3032154",
+  "mmkId": "3032154",
+  "productGroupId": "500011",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/valdispert-relax-fit-advanced-tabletten/p/6392216",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "24 stuks"
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/he3/hc2/44589738721310/prd-front-6392216-1_600x600/prd-front-6392216-1-600x600.jpg"
 }

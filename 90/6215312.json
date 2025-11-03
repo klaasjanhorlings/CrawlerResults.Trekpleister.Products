@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 6737 > 6736 > 6738",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "inStock",
-  "onPromo": "3032093",
-  "mmkId": "3032093",
-  "productGroupId": "500854",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/studio100-bumba-kiekeboe/p/6215312",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/hc6/h95/32967678427166/prd-front-6215312-1_600x600/prd-front-6215312-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

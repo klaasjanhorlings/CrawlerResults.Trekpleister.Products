@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3032154",
+  "mmkId": "3032154",
+  "productGroupId": "500011",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davitamon-junior-gummies/p/3843855",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h4d/haa/32115299155998/prd-front-3843855-1_600x600/prd-front-3843855-1-600x600.jpg"
 }

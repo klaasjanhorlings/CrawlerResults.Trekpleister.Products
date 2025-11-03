@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
   "supplier": "JUMBO NL BV",
   "inStock": "inStock",
-  "onPromo": "3032093",
-  "mmkId": "3032093",
-  "productGroupId": "500854",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jumbo-jan-van-haasteren-motorbike-race-puzzel/p/6332422",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": "950 stukjes"
+  "description": "950 stukjes",
+  "image": "/medias/sys_master/prd-images/hb0/hbd/34603205034014/prd-front-6332422-1_600x600/prd-front-6332422-1-600x600.jpg"
 }

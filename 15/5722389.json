@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "inStock": "outOfStock",
+  "onPromo": "3032154",
+  "mmkId": "3032154",
+  "productGroupId": "500011",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/valdispert-natural-sleep-kids-gummies/p/5722389",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/he3/h38/33821414031390/prd-front-5722389-1_600x600/prd-front-5722389-1-600x600.jpg"
+  "description": "30 stuks"
 }

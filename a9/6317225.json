@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3032134",
-  "mmkId": "3032134",
-  "productGroupId": "513949",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-xtendlash-black-tubing-mascara/p/6317225",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/h94/hfc/34816583991326/prd-front-6317225-1_600x600/prd-front-6317225-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3032093",
-  "mmkId": "3032093",
-  "productGroupId": "500854",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-ninjago-71828-lloyds-pull-back-racewagen/p/6226099",
@@ -33,5 +33,6 @@
       "name": "LEGO Ninjago"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5a/hbb/34956341444638/prd-front-6226099-1_600x600/prd-front-6226099-1-600x600.jpg"
 }

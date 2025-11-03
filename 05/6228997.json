@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WC Eend Virtual Violet Fresh Discs",
+  "code": "6228997",
+  "price": "1.79",
+  "priceOriginal": "3.65",
+  "itemBgbcat": "2007 > 2068 > 2194 > 6071 > 6072 > 6074",
+  "supplier": "S.C. JOHNSON",
+  "inStock": "inStock",
+  "onPromo": "3032151",
+  "mmkId": "3032151",
+  "productGroupId": "495839",
+  "brandType": "A of B merk",
+  "discount": "€ 1,86",
+  "url": "/wc-eend-virtual-violet-fresh-discs/p/6228997",
+  "listName": "Lister",
+  "brand": "WC eend",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430563,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "36ml"
+}

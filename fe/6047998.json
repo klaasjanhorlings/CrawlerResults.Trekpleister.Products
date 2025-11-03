@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032035",
-  "mmkId": "3032035",
-  "productGroupId": "497548",
+  "onPromo": "3032154",
+  "mmkId": "3032154",
+  "productGroupId": "500011",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-glucosamine-chondroitine-visolie-1500/500/2000mg/p/6047998",
@@ -33,5 +33,6 @@
       "name": "Glucosamine"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h5e/h14/30503642431518/prd-front-6047998-1_600x600/prd-front-6047998-1-600x600.jpg"
 }

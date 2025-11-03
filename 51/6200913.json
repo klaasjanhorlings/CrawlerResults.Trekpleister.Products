@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 4640 > 5189 > 5365 > 5554",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "3032093",
-  "mmkId": "3032093",
-  "productGroupId": "500854",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/playing-kids-houten-regenboog/p/6200913",
@@ -33,5 +33,6 @@
       "name": "Vormenstoof"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2a/hde/34889478111262/prd-front-6200913-1_600x600/prd-front-6200913-1-600x600.jpg"
 }

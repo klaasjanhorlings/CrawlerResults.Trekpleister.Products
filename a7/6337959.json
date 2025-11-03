@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Magic Land Geschenkset",
+  "code": "6337959",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 2440 > 2935 > 3730",
+  "supplier": "JEAN LASSCHUIT PRODUCTS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/magic-land-geschenkset/p/6337959",
+  "listName": "Lister",
+  "brand": "Geschenkset",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666589,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h76/h92/44001606434846/prd-front-6337959-1_600x600/prd-front-6337959-1-600x600.jpg"
+}

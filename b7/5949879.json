@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "GOLIATH B.V.",
-  "inStock": "inStock",
-  "onPromo": "3032093",
-  "mmkId": "3032093",
-  "productGroupId": "500854",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/goliath-shit-happens-18-kaartspel/p/5949879",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/hef/hb4/28574077779998/prd-front-5949879-1_600x600/prd-front-5949879-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

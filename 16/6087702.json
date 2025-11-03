@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
-  "onPromo": "3032093",
-  "mmkId": "3032093",
-  "productGroupId": "500854",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/baby-clementoni-happy-friends-spinning-top/p/6087702",
@@ -29,5 +29,6 @@
       "name": "Interactief speelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfe/hcb/31051646959646/prd-front-6087702-1_600x600/prd-front-6087702-1-600x600.jpg"
 }

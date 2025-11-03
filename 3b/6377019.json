@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Disney Frozen Nail Polish Kit",
+  "code": "6377019",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 4637 > 4638 > 4639",
+  "supplier": "TOPBRANDS EUROPE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/disney-frozen-nail-polish-kit/p/6377019",
+  "listName": "Lister",
+  "brand": "Frozen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666589,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h93/haa/44587718803486/prd-front-6377019-1_600x600/prd-front-6377019-1-600x600.jpg"
+}

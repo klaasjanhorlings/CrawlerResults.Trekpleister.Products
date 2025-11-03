@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "JUMBO NL BV",
   "inStock": "outOfStock",
-  "onPromo": "3032093",
-  "mmkId": "3032093",
-  "productGroupId": "500854",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jumbo-pim-pam-pet-family/p/5512179",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/hde/h74/34644677132318/prd-front-5512179-1_600x600/prd-front-5512179-1-600x600.jpg"
 }

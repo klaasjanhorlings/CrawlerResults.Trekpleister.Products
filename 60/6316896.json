@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3032134",
-  "mmkId": "3032134",
-  "productGroupId": "513949",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-miracle-true-caramel-flawless-skin-foundation/p/6316896",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h51/h77/34829464993822/prd-front-6316896-1_600x600/prd-front-6316896-1-600x600.jpg"
 }

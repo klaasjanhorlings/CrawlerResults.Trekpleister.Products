@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Bausch & Lomb -1.75 Maandlenzen",
   "code": "6131970",
-  "price": "19.99",
+  "price": "22.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 3027 > 6779 > 6785",
   "supplier": "OTC MEDICAL BV",
@@ -37,6 +37,5 @@
       "name": "Maandlenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks",
-  "image": "/medias/sys_master/prd-images/hb4/h80/31942214287390/prd-front-6131970-1_600x600/prd-front-6131970-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 6 stuks"
 }
