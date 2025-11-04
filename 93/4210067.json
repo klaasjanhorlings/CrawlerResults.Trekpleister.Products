@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Dylon Intense Black Machinewas Textielverf",
   "code": "4210067",
-  "price": "11.99",
-  "priceOriginal": "",
+  "price": "8.99",
+  "priceOriginal": "11.99",
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 3163 > 4034",
   "supplier": "HENKEL NEDERLAND BV U-W",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032048",
   "productGroupId": "498961",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/dylon-intense-black-machinewas-textielverf/p/4210067",
   "listName": "Lister",
   "brand": "Dylon",
@@ -33,6 +33,5 @@
       "name": "Textielverf"
     }
   ],
-  "description": "350g",
-  "image": "/medias/sys_master/prd-images/h1f/ha8/29653901705246/prd-front-4210067-1_600x600/prd-front-4210067-1-600x600.jpg"
+  "description": "350g"
 }

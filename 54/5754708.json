@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Drs Leenarts Droge & Zeer Droge Huid Dag- & Nachtcrème",
   "code": "5754708",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "11.99",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032149",
   "productGroupId": "482884",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,00",
   "url": "/drs-leenarts-droge-zeer-droge-huid-dag-nachtcreme/p/5754708",
   "listName": "Lister",
   "brand": "Drs Leenarts",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h19/ha1/33479654047774/prd-front-5754708-1_600x600/prd-front-5754708-1-600x600.jpg"
 }

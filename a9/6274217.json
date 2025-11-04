@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "e.l.f. Deep Brown Holy Strokes Micro-Fine Brow Pen",
   "code": "6274217",
-  "price": "9.0",
-  "priceOriginal": "",
+  "price": "8.01",
+  "priceOriginal": "9.0",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032020",
   "productGroupId": "495102",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 0,99",
   "url": "/elf-deep-brown-holy-strokes-micro-fine-brow-pen/p/6274217",
   "listName": "Lister",
   "brand": "ELF",
@@ -33,5 +33,6 @@
       "name": "Make-up kwasten"
     }
   ],
-  "description": "0,7ml"
+  "description": "0,7ml",
+  "image": "/medias/sys_master/prd-images/h29/h31/34021215830046/prd-front-6274217-1_600x600/prd-front-6274217-1-600x600.jpg"
 }

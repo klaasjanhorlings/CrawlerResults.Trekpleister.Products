@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Labello Glowy Lips Lippenbalsem",
   "code": "6357013",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "2.99",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3328 > 4232",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032052",
   "productGroupId": "499264",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/labello-glowy-lips-lippenbalsem/p/6357013",
   "listName": "Lister",
   "brand": "Labello",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "10ml",
-  "image": "/medias/sys_master/prd-images/haf/h41/44553542041630/prd-front-6357013-1_600x600/prd-front-6357013-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h30/h9c/44686708375582/prd-front-6357013-1_600x600/prd-front-6357013-1-600x600.jpg"
 }

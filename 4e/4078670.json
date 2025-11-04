@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032059",
   "mmkId": "3032059",
   "productGroupId": "499431",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hd9/h38/44676852645918/prd-front-4078670-1_600x600/prd-front-4078670-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hca/h8d/44683233230878/prd-front-4078670-1_600x600/prd-front-4078670-1-600x600.jpg"
 }

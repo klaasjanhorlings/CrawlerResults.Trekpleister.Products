@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Super Omega 3 Visolie",
   "code": "1357917",
-  "price": "17.99",
-  "priceOriginal": "",
+  "price": "13.49",
+  "priceOriginal": "17.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032154",
   "productGroupId": "500011",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,50",
   "url": "/lucovitaal-super-omega-3-visolie/p/1357917",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -33,5 +33,6 @@
       "name": "Hart en of bloedvaten"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/prd-front-1357917-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzI4NzZ8aW1hZ2UvanBlZ3xhRFUzTDJoa1pDOHhOalUzTnpNd09EWTRPRFF4TkM5d2NtUXRabkp2Ym5RdE1UTTFOemt4TnkweFh6WXdNSGcyTURBfDM5M2RiYTVmYThlZjJlMDFhYTg0NWJjMjAyZmY2NTIxMTU3OGE1OGYzNzYzZGZlODA0YzUxNDVjNjY0ZTgzNjI"
 }

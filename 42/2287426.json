@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6696 > 2835",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032112",
   "mmkId": "3032112",
   "productGroupId": "502132",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h14/h1e/33759865733150/prd-front-2287426-1_600x600/prd-front-2287426-1-600x600.jpg"
 }

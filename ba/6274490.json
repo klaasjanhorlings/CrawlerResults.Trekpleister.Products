@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "e.l.f. Halo Glow 8.5 Rich Liquid Filter",
   "code": "6274490",
-  "price": "17.0",
-  "priceOriginal": "",
+  "price": "15.13",
+  "priceOriginal": "17.0",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032020",
   "productGroupId": "495102",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,87",
   "url": "/elf-halo-glow-85-rich-liquid-filter/p/6274490",
   "listName": "Lister",
   "brand": "ELF",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "31,5ml",
-  "image": "/medias/sys_master/prd-images/he6/h0e/34021512970270/prd-front-6274490-1_600x600/prd-front-6274490-1-600x600.jpg"
+  "description": "31,5ml"
 }

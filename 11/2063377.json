@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Tiger Balm Wit Tijgerbalsem",
   "code": "2063377",
-  "price": "9.49",
-  "priceOriginal": "",
+  "price": "8.07",
+  "priceOriginal": "9.49",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032024",
   "productGroupId": "495356",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,42",
   "url": "/tiger-balm-wit-tijgerbalsem/p/2063377",
   "listName": "Lister",
   "brand": "Tiger Balm",
@@ -37,5 +37,6 @@
       "name": "Spierwrijfmiddelen"
     }
   ],
-  "description": "19g"
+  "description": "19g",
+  "image": "/medias/sys_master/prd-images/h28/hee/34795726176286/prd-front-2063377-1_600x600/prd-front-2063377-1-600x600.jpg"
 }

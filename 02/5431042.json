@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Novex My Little Curls Hair Mask",
+  "code": "5431042",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "3032112",
+  "mmkId": "3032112",
+  "productGroupId": "502132",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/novex-my-little-curls-hair-mask/p/5431042",
+  "listName": "Lister",
+  "brand": "Novex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "1kg",
+  "image": "/medias/prd-front-5431042-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjkzMjV8aW1hZ2UvanBlZ3xhRFJsTDJnM1l5OHhOalUxTXpVNE56SXhNak14T0M5d2NtUXRabkp2Ym5RdE5UUXpNVEEwTWkweFh6WXdNSGcyTURBfDVhYjM4Y2Q2OTU5YjIzM2U3NjliN2E2YWQyMTBhNGMwYzQ1MjRhOWMyYTBmZjdmYzY0NGMxZjg5NDMwYzBkOTg"
+}
