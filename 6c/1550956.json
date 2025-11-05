@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
   "supplier": "A.VOGEL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032154",
   "mmkId": "3032154",
   "productGroupId": "500011",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267287,
-      "name": "Overgang"
+      "id": 49950754,
+      "name": "Natuurlijke supplementen"
     }
   ],
   "description": "60 stuks",

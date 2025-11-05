@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
   "supplier": "HARIBO THE NET.& BEL.BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3031919",
   "mmkId": "3031919",
   "productGroupId": "516802",
@@ -29,8 +29,12 @@
       "name": "Snacks en snoep"
     },
     {
-      "id": 30267587,
-      "name": "Snoep"
+      "id": 100652040,
+      "name": "Trakteren"
+    },
+    {
+      "id": 107468063,
+      "name": "Uitdeelsnoep"
     }
   ],
   "description": "30 x 16g",

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Elektrolyten Capsules",
+  "code": "6377432",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6391 > 6392",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3032035",
+  "mmkId": "3032035",
+  "productGroupId": "497548",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-elektrolyten-capsules/p/6377432",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 108898908,
+      "name": "Elektrolyten"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hd2/h9a/44242775998494/prd-front-6377432-1_600x600/prd-front-6377432-1-600x600.jpg"
+}

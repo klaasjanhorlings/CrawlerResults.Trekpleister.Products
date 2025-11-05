@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Elektrolyten Vochtbalans Bruistabletten",
+  "code": "6377411",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6391 > 6392",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3032035",
+  "mmkId": "3032035",
+  "productGroupId": "497548",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-elektrolyten-vochtbalans-bruistabletten/p/6377411",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267063,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 108898908,
+      "name": "Elektrolyten"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h75/he9/44240975822878/prd-front-6377411-1_600x600/prd-front-6377411-1-600x600.jpg"
+}

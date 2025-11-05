@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Lip tint"
     }
   ],
-  "description": "2,5ml",
-  "image": "/medias/sys_master/prd-images/hec/h9e/44123051065374/prd-front-6348718-1_600x600/prd-front-6348718-1-600x600.jpg"
+  "description": "2,5ml"
 }
