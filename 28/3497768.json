@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032044",
-  "mmkId": "3032044",
-  "productGroupId": "498897",
+  "onPromo": "3032178",
+  "mmkId": "3032178",
+  "productGroupId": "467114",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-moedermelkflesjes/p/3497768",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "3 stuks"
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h80/hab/28579953246238/prd-front-3497768-1_600x600/prd-front-3497768-1-600x600.jpg"
 }

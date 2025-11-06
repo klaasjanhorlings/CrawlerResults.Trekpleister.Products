@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "FEMIA COSMETIC",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032179",
+  "mmkId": "3032179",
+  "productGroupId": "477824",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-smooth-q10-niacinamide-spf30-dagcreme/p/1465479",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/ha3/h90/34460663152670/prd-front-1465479-1_600x600/prd-front-1465479-1-600x600.jpg"
 }

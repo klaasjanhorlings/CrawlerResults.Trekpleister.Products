@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3382",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032178",
+  "mmkId": "3032178",
+  "productGroupId": "467114",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-avent-ultra-soft-scf091/44-fopspeen/p/6386658",
@@ -33,5 +33,6 @@
       "name": "Fopspenen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6a/h6e/44265219391518/prd-front-6386658-1_600x600/prd-front-6386658-1-600x600.jpg"
 }

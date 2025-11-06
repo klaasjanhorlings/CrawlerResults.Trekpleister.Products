@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Scutellaria 2000Mg Tabletten",
+  "code": "6071910",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6197 > 6215 > 6253",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3032035",
+  "mmkId": "3032035",
+  "productGroupId": "497548",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-scutellaria-2000mg-tabletten/p/6071910",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267274,
+      "name": "Weerstand en of energie"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h2e/hd9/30938727841822/prd-front-6071910-1_600x600/prd-front-6071910-1-600x600.jpg"
+}

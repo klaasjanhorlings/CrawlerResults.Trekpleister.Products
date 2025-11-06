@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 5710 > 5711 > 5712",
   "supplier": "THEOTCLAB HEALTHCARE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032181",
+  "mmkId": "3032181",
+  "productGroupId": "499498",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/just-for-men-original-formula-h-45-donkerbruin-haarkleuring/p/26729",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "66ml",
-  "image": "/medias/prd-front-26729-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDAzMDR8aW1hZ2UvanBlZ3xhR1V3TDJnMllTOHhOakl5T0Rnd05UVXdPVEUxTUM5d2NtUXRabkp2Ym5RdE1qWTNNamt0TVY4Mk1EQjROakF3fDkzZGFkZDNjOWFiNzUzZTBmNDE0YTkzZjEwODQ0YzcyZjVmY2YyYTFmZTlmMTVlOTcyNjBkNDczNDM2ZWEwMTQ"
+  "description": "66ml"
 }

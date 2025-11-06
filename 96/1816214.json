@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 5717 > 5718 > 5719",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3031995",
-  "mmkId": "3031995",
-  "productGroupId": "457137",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-satin-care-scheergel-voor-de-gevoelige-huid/p/1816214",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h67/h4c/28575755927582/prd-front-1816214-1_600x600/prd-front-1816214-1-600x600.jpg"
 }

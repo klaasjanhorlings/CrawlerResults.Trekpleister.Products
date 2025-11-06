@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3032095",
-  "mmkId": "3032095",
-  "productGroupId": "500924",
+  "onPromo": "3032187",
+  "mmkId": "3032187",
+  "productGroupId": "515537",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elmex-sensitive-professional-mondwater/p/2882391",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "400ml - Gevoelige tanden"
+  "description": "400ml - Gevoelige tanden",
+  "image": "/medias/sys_master/prd-images/h93/hfa/33906145853470/prd-front-2882391-1_600x600/prd-front-2882391-1-600x600.jpg"
 }
