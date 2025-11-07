@@ -21,17 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267038,
-      "name": "Make-up"
+      "id": 30267050,
+      "name": "Zonbescherming"
     },
     {
-      "id": 30267136,
-      "name": "Primer"
+      "id": 30267214,
+      "name": "Zonnebrand"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h54/ha7/34089399746590/prd-front-6303799-1_600x600/prd-front-6303799-1-600x600.jpg"
 }

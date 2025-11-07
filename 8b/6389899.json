@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nip + Fab Peptide Fix 2% Finishing Oil",
-  "code": "6141063",
-  "price": "34.95",
+  "itemName": "Nivea Cellular Epigenetics Ultiem Huidverjongend Serum",
+  "code": "6389899",
+  "price": "24.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
-  "supplier": "NIP + FAB",
+  "supplier": "BEIERSDORF NV NL",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nip-fab-peptide-fix-2-finishing-oil/p/6141063",
+  "url": "/nivea-cellular-epigenetics-ultiem-huidverjongend-serum/p/6389899",
   "listName": "Lister",
-  "brand": "NIP+FAB",
+  "brand": "Nivea",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/hc2/h74/44376903581726/prd-front-6389899-1_600x600/prd-front-6389899-1-600x600.jpg"
 }

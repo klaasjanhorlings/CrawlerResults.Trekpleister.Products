@@ -29,9 +29,10 @@
       "name": "Haarverzorging"
     },
     {
-      "id": 30267251,
-      "name": "Shampoo"
+      "id": 30267250,
+      "name": "Droogshampoo"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h1d/hc8/31036554739742/prd-front-2843268-1_600x600/prd-front-2843268-1-600x600.jpg"
 }
