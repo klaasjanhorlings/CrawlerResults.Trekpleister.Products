@@ -25,14 +25,13 @@
       "name": "Verzorging"
     },
     {
-      "id": 30267054,
-      "name": "Handverzorging"
+      "id": 30267046,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30267245,
-      "name": "Handcrèmes"
+      "id": 30267198,
+      "name": "Bodycremes"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/prd-front-20025-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzk2Njh8aW1hZ2UvanBlZ3xhR1UxTDJnMllpOHlOalUyTVRrNU1URTBOelUxTUM5d2NtUXRabkp2Ym5RdE1qQXdNalV0TVY4Mk1EQjROakF3fDFiYjY1OTNhNjU5MWZmZGQ3NDI0MWFmNzNjZDRiYjFmMmFkYmNmMWQzNWEwYjk5MGY2ZjMwMmY5YjAzZDc3ZTI"
+  "description": "30ml"
 }

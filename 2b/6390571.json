@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032035",
-  "mmkId": "3032035",
-  "productGroupId": "497548",
+  "onPromo": "3032154",
+  "mmkId": "3032154",
+  "productGroupId": "500011",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-magnesium-vitaminen-mineralen-compleet-tabletten/p/6390571",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/hde/h66/44315790540830/prd-front-6390571-1_600x600/prd-front-6390571-1-600x600.jpg"
 }

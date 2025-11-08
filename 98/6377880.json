@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Treaclemoon Peace In A Flower Bodylotion",
+  "code": "6377880",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "TRADE SENSE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/treaclemoon-peace-in-a-flower-bodylotion/p/6377880",
+  "listName": "Lister",
+  "brand": "Treaclemoon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267194,
+      "name": "Bodylotion"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hcc/h01/44631186669598/prd-front-6377880-1_600x600/prd-front-6377880-1-600x600.jpg"
+}
