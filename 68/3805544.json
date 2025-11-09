@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6299",
   "supplier": "TS HEALTH PRODUCTS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032154",
   "mmkId": "3032154",
   "productGroupId": "500011",
@@ -33,5 +33,6 @@
       "name": "Overige supplementen"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h98/h23/34837047935006/prd-front-3805544-1_600x600/prd-front-3805544-1-600x600.jpg"
 }
