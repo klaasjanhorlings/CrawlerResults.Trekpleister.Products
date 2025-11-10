@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Marcel's Green Soap Sinaasappel & Jasmijn Handzeep Navulling",
   "code": "5911085",
-  "price": "14.99",
-  "priceOriginal": "28.74",
+  "price": "28.74",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3916",
   "supplier": "GREEN SOAP COMPANY BV",
   "inStock": "outOfStock",
-  "onPromo": "3031981",
-  "mmkId": "3031981",
-  "productGroupId": "500500",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
-  "discount": "€ 13,75",
+  "discount": "",
   "url": "/marcels-green-soap-sinaasappel-jasmijn-handzeep-navulling/p/5911085",
   "listName": "Lister",
   "brand": "Marcel's Green Soap",
@@ -33,5 +33,6 @@
       "name": "Handzeep navulling"
     }
   ],
-  "description": "6 x 500ml"
+  "description": "6 x 500ml",
+  "image": "/medias/sys_master/prd-images/h2b/h77/44492007604254/prd-front-5911085-1_600x600/prd-front-5911085-1-600x600.jpg"
 }

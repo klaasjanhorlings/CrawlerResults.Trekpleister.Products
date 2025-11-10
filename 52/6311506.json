@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032188",
-  "mmkId": "3032188",
-  "productGroupId": "517301",
+  "onPromo": "3032255",
+  "mmkId": "3032255",
+  "productGroupId": "489297",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-zeepvrije-wascreme/p/6311506",
@@ -37,6 +37,5 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h62/hbf/34733915373598/prd-front-6311506-1_600x600/prd-front-6311506-1-600x600.jpg"
+  "description": "200ml"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Mycosan Kalknagelpleister",
   "code": "6238895",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "12.79",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2006 > 2052 > 2175 > 6451 > 6452 > 6788",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3032229",
+  "mmkId": "3032229",
+  "productGroupId": "473557",
   "brandType": "Ander merk",
-  "discount": "",
+  "discount": "€ 3,20",
   "url": "/mycosan-kalknagelpleister/p/6238895",
   "listName": "Lister",
   "brand": "Mycosan",
@@ -33,5 +33,6 @@
       "name": "Kalknagels"
     }
   ],
-  "description": "14 stuks"
+  "description": "14 stuks",
+  "image": "/medias/sys_master/prd-images/h07/hba/34328354357278/prd-front-6238895-1_600x600/prd-front-6238895-1-600x600.jpg"
 }

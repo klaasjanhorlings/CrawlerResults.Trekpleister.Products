@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3032064",
-  "mmkId": "3032064",
-  "productGroupId": "499624",
+  "onPromo": "3032293",
+  "mmkId": "3032293",
+  "productGroupId": "495832",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-145-bois-de-rose-blush/p/3255652",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "32g"
+  "description": "32g",
+  "image": "/medias/sys_master/prd-images/h1e/he5/44722865700894/prd-front-3255652-1_600x600/prd-front-3255652-1-600x600.jpg"
 }

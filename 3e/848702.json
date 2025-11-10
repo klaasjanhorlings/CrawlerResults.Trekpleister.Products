@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "KIMBERLY-CLARK BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032279",
+  "mmkId": "3032279",
+  "productGroupId": "493217",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drynites-girls-4-7-jaar-nachtbroekjes/p/848702",
@@ -29,5 +29,6 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "4-7 jaar (17-30 kg) 10 stuks"
+  "description": "4-7 jaar (17-30 kg) 10 stuks",
+  "image": "/medias/sys_master/prd-images/h14/hb3/33502084268062/prd-front-848702-1_600x600/prd-front-848702-1-600x600.jpg"
 }

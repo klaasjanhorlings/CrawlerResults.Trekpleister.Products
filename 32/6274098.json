@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5928 > 6351 > 6352 > 2487 > 3056 > 3904",
   "supplier": "FERRO FOOTWEAR BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Damesschoenen"
     }
   ],
-  "description": "zwart, mt 38-39"
+  "description": "zwart, mt 38-39",
+  "image": "/medias/sys_master/prd-images/hc0/hd0/34100336754718/prd-front-6274098-1_600x600/prd-front-6274098-1-600x600.jpg"
 }

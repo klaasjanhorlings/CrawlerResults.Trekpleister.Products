@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Neutrogena Hydro Boost Aqua Reinigingsdoekjes",
   "code": "4726667",
-  "price": "5.49",
-  "priceOriginal": "",
+  "price": "4.12",
+  "priceOriginal": "5.49",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032236",
+  "mmkId": "3032236",
+  "productGroupId": "481515",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,37",
   "url": "/neutrogena-hydro-boost-aqua-reinigingsdoekjes/p/4726667",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "25 stuks - Alle huidtypen + gevoelige huid",
-  "image": "/medias/sys_master/prd-images/ha3/h66/35121212194846/prd-front-4726667-1_600x600/prd-front-4726667-1-600x600.jpg"
+  "description": "25 stuks - Alle huidtypen + gevoelige huid"
 }

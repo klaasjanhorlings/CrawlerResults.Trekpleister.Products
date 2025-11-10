@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 3025 > 3850",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032277",
+  "mmkId": "3032277",
+  "productGroupId": "492063",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-15m-pompoen-kip-aardappel/p/4630452",
@@ -37,5 +37,6 @@
       "name": "15+ maanden"
     }
   ],
-  "description": "250g"
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h4e/hf6/34837928673310/prd-front-4630452-1_600x600/prd-front-4630452-1-600x600.jpg"
 }

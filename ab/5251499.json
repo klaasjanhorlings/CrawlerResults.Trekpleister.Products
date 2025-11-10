@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3032107",
-  "mmkId": "3032107",
-  "productGroupId": "502070",
+  "onPromo": "3032227",
+  "mmkId": "3032227",
+  "productGroupId": "473518",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-cellular-luminous630-anti-spot-spf50-dagcreme/p/5251499",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "40ml - Alle huidtypen"
+  "description": "40ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h1e/hb6/35062843244574/prd-front-5251499-1_600x600/prd-front-5251499-1-600x600.jpg"
 }

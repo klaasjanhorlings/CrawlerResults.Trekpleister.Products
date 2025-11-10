@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "TRADE SENSE BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032220",
+  "mmkId": "3032220",
+  "productGroupId": "470584",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organic-shop-glow-skin-eye-gel-patch/p/5992383",
@@ -33,5 +33,6 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h19/h95/34533484199966/prd-front-5992383-1_600x600/prd-front-5992383-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Zwitsal Lotion Billendoekjes",
   "code": "4366881",
-  "price": "73.99",
-  "priceOriginal": "",
+  "price": "38.99",
+  "priceOriginal": "73.99",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3031978",
-  "mmkId": "3031978",
-  "productGroupId": "489304",
+  "onPromo": "3032195",
+  "mmkId": "3032195",
+  "productGroupId": "496865",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 35,00",
   "url": "/zwitsal-lotion-billendoekjes/p/4366881",
   "listName": "Lister",
   "brand": "Zwitsal",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "24 x 65 stuks",
-  "image": "/medias/sys_master/prd-images/h97/h1c/44737507950622/prd-front-4366881-1_600x600/prd-front-4366881-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdd/h0e/44746931863582/prd-front-4366881-1_600x600/prd-front-4366881-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Buurman & Buurman Pluchen Knuffel",
+  "code": "5944426",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2232 > 5179 > 5303 > 5492",
+  "supplier": "GLOBETRADE HOLLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/buurman-buurman-pluchen-knuffel/p/5944426",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267080,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "geel, 25cm",
+  "image": "/medias/sys_master/prd-images/h21/h6b/28960123617310/prd-front-5944426-1_600x600/prd-front-5944426-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fashy Kruik met Hoes",
+  "code": "6377341",
+  "price": "5.99",
+  "priceOriginal": "15.95",
+  "itemBgbcat": "2006 > 2070 > 6475 > 6476 > 6477 > 6479",
+  "supplier": "FASHY GMBH - PRODUKTION",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 9,96",
+  "url": "/fashy-kruik-met-hoes/p/6377341",
+  "listName": "Lister",
+  "brand": "Fashy",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 30267323,
+      "name": "Hulpmiddelen"
+    }
+  ],
+  "description": "blauw",
+  "image": "/medias/sys_master/prd-images/hc5/h9e/44398617100318/prd-front-6377341-1_600x600/prd-front-6377341-1-600x600.jpg"
+}

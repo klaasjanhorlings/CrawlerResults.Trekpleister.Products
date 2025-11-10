@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3304 > 3757",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3031995",
-  "mmkId": "3031995",
-  "productGroupId": "457137",
+  "onPromo": "3032296",
+  "mmkId": "3032296",
+  "productGroupId": "496330",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tampax-compak-pearl-super-plus-tampons/p/3421412",
@@ -33,5 +33,6 @@
       "name": "Tampons"
     }
   ],
-  "description": "18 stuks"
+  "description": "18 stuks",
+  "image": "/medias/sys_master/prd-images/hd2/h9b/33455874048030/prd-front-3421412-1_600x600/prd-front-3421412-1-600x600.jpg"
 }

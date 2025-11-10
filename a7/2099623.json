@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032337",
+  "mmkId": "3032337",
+  "productGroupId": "500955",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-antiroos-shampoo/p/2099623",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h1c/h12/32038874218526/prd-front-2099623-1_600x600/prd-front-2099623-1-600x600.jpg"
 }

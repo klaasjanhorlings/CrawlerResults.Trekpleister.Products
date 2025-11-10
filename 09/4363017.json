@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dylon Emerald Green Machinewas Textielverf",
   "code": "4363017",
-  "price": "8.99",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 3163 > 4034",
   "supplier": "HENKEL NEDERLAND BV U-W",
   "inStock": "inStock",
-  "onPromo": "3032048",
-  "mmkId": "3032048",
-  "productGroupId": "498961",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/dylon-emerald-green-machinewas-textielverf/p/4363017",
   "listName": "Lister",
   "brand": "Dylon",
@@ -33,6 +33,5 @@
       "name": "Textielverf"
     }
   ],
-  "description": "350g",
-  "image": "/medias/prd-front-4363017-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzYyNDd8aW1hZ2UvanBlZ3xhR1poTDJnd1lTOHhOalF4T1RFME5qZzVNVEk1TkM5d2NtUXRabkp2Ym5RdE5ETTJNekF4TnkweFh6WXdNSGcyTURBfDQ0N2ZjYzg0MGE1OTQ4NmZlMzZiNDZiMTM0MWI5Zjk0ZGJlYzUzMGVjN2ZiMGM2ZDhjMzE1NDFhODcyZjBkMGM"
+  "description": "350g"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032212",
+  "mmkId": "3032212",
+  "productGroupId": "455592",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanicur-sensitive-bad-en-douchegel/p/3203544",
@@ -33,5 +33,6 @@
       "name": "Badschuim"
     }
   ],
-  "description": "1L - Gevoelige huid"
+  "description": "1L - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hec/h19/44328385445918/prd-front-3203544-1_600x600/prd-front-3203544-1-600x600.jpg"
 }

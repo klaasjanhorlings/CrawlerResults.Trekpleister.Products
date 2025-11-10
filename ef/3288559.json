@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "1-2 Dry Okselpads",
   "code": "3288559",
-  "price": "5.49",
-  "priceOriginal": "",
+  "price": "4.12",
+  "priceOriginal": "5.49",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032367",
+  "mmkId": "3032367",
+  "productGroupId": "502129",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,37",
   "url": "/1-2-dry-okselpads/p/3288559",
   "listName": "Lister",
   "brand": "1-2 Dry",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "wit, mt L, 20 stuks"
+  "description": "wit, mt L, 20 stuks",
+  "image": "/medias/prd-front-3288559-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTMyNDF8aW1hZ2UvanBlZ3xhR0UwTDJoaE15OHhOak13TVRVNU5EUTBNemd3Tmk5d2NtUXRabkp2Ym5RdE16STRPRFUxT1MweFh6WXdNSGcyTURBfDU4MjRmMDE5YzkzNzI1Nzk4YWMxNWE4ZmM0MGU2YzgyNDMwNDk1NmU3MjBlYjc5YTdkNzBhYjdjYzRiMDAwZmU"
 }

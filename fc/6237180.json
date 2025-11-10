@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Vitamine C SPF50+ Invisible Anti-Pigmentvlekken Daily UV Fluid",
   "code": "6237180",
-  "price": "15.0",
-  "priceOriginal": "23.99",
+  "price": "23.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032110",
-  "mmkId": "3032110",
-  "productGroupId": "502098",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 8,99",
+  "discount": "",
   "url": "/garnier-vitamine-c-spf50-invisible-anti-pigmentvlekken-daily-uv-fluid/p/6237180",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "40ml",
-  "image": "/medias/sys_master/prd-images/hf6/hc5/35137026621470/prd-front-6237180-1_600x600/prd-front-6237180-1-600x600.jpg"
+  "description": "40ml"
 }

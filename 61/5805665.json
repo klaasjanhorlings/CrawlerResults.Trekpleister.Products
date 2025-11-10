@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Neutrogena Anti-Age Retinol Boost+ Nachtserum",
   "code": "5805665",
-  "price": "38.99",
-  "priceOriginal": "",
+  "price": "29.24",
+  "priceOriginal": "38.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032236",
+  "mmkId": "3032236",
+  "productGroupId": "481515",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,75",
   "url": "/neutrogena-anti-age-retinol-boost-nachtserum/p/5805665",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "30ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hea/hb0/44734684168222/prd-front-5805665-1_600x600/prd-front-5805665-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc5/hf0/44744983314462/prd-front-5805665-1_600x600/prd-front-5805665-1-600x600.jpg"
 }

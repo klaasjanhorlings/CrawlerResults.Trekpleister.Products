@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032154",
-  "mmkId": "3032154",
-  "productGroupId": "500011",
+  "onPromo": "3032306",
+  "mmkId": "3032306",
+  "productGroupId": "497549",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-slaaptabletten/p/6093652",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hf4/h82/31066871300126/prd-front-6093652-1_600x600/prd-front-6093652-1-600x600.jpg"
 }

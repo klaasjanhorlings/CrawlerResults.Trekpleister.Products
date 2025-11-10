@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3112 > 3978",
   "supplier": "SCHULPEN SCHUIM",
   "inStock": "inStock",
-  "onPromo": "3032113",
-  "mmkId": "3032113",
-  "productGroupId": "502319",
+  "onPromo": "3032388",
+  "mmkId": "3032388",
+  "productGroupId": "294599",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-schuursponzen/p/3694608",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakartikelen"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/ha4/h43/30868700659742/prd-front-3694608-1_600x600/prd-front-3694608-1-600x600.jpg"
 }

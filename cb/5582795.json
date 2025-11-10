@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Retinol24 Max Nachtoogcrème",
   "code": "5582795",
-  "price": "18.99",
-  "priceOriginal": "37.99",
+  "price": "37.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3032010",
-  "mmkId": "3032010",
-  "productGroupId": "483973",
+  "onPromo": "3032245",
+  "mmkId": "3032245",
+  "productGroupId": "483974",
   "brandType": "A of B merk",
-  "discount": "€ 19,00",
+  "discount": "",
   "url": "/olay-retinol24-max-nachtoogcreme/p/5582795",
   "listName": "Lister",
   "brand": "Olay",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/hed/hd7/31599157837854/prd-front-5582795-1_600x600/prd-front-5582795-1-600x600.jpg"
 }

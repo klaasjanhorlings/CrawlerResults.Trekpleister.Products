@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Andrélon Scalp Care Zuiverende Shampoo Scrub",
   "code": "6292172",
-  "price": "4.19",
-  "priceOriginal": "8.39",
+  "price": "8.39",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6697",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032112",
-  "mmkId": "3032112",
-  "productGroupId": "502132",
+  "onPromo": "3032288",
+  "mmkId": "3032288",
+  "productGroupId": "495620",
   "brandType": "A of B merk",
-  "discount": "€ 4,20",
+  "discount": "",
   "url": "/andrelon-scalp-care-zuiverende-shampoo-scrub/p/6292172",
   "listName": "Lister",
   "brand": "Andrelon",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h8e/h8c/44567848452126/prd-front-6292172-1_600x600/prd-front-6292172-1-600x600.jpg"
 }

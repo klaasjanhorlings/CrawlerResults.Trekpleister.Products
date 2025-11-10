@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3032064",
-  "mmkId": "3032064",
-  "productGroupId": "499624",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-vinyl-ink-110-awestruck-lipstick/p/5908334",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,2ml",
-  "image": "/medias/sys_master/prd-images/h94/h5a/44577373913118/prd-front-5908334-1_600x600/prd-front-5908334-1-600x600.jpg"
+  "description": "4,2ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "3032178",
-  "mmkId": "3032178",
-  "productGroupId": "467114",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-afwasmiddel-voor-spenen-en-flessen/p/6143478",
@@ -33,6 +33,5 @@
       "name": "Flesvoedingsaccessoires"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/h4a/h52/32281091670046/prd-front-6143478-1_600x600/prd-front-6143478-1-600x600.jpg"
+  "description": "500ml"
 }

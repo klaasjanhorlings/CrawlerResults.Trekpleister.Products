@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "inStock",
-  "onPromo": "3032122",
-  "mmkId": "3032122",
-  "productGroupId": "508999",
+  "inStock": "outOfStock",
+  "onPromo": "3032376",
+  "mmkId": "3032376",
+  "productGroupId": "509005",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-2000-calorie-dramatic-volume-002-black/brown-mascara/p/2402884",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-2402884-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzg3NzZ8aW1hZ2UvanBlZ3xhREkwTDJnMk1TOHhOak0yTkRjek5qYzBNVFF3Tmk5d2NtUXRabkp2Ym5RdE1qUXdNamc0TkMweFh6WXdNSGcyTURBfGJhMDZlN2RkMjcwYWY3MDM5ZTZiN2EzODE3MTEwODk1ZmQyMTQ5YjQxMDk3NzU3YmU4ZmJkNGZjNGRiMGI3NWI"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032112",
-  "mmkId": "3032112",
-  "productGroupId": "502132",
+  "onPromo": "3032293",
+  "mmkId": "3032293",
+  "productGroupId": "495832",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-hyaluronic-hydratatie-masker/p/5605230",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h5b/h64/33046511616030/prd-front-5605230-1_600x600/prd-front-5605230-1-600x600.jpg"
 }

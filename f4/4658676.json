@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032105",
-  "mmkId": "3032105",
-  "productGroupId": "502059",
+  "onPromo": "3032293",
+  "mmkId": "3032293",
+  "productGroupId": "495832",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-vive-purple-conditioner/p/4658676",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h16/hf6/28799621201950/prd-front-4658676-1_600x600/prd-front-4658676-1-600x600.jpg"
 }

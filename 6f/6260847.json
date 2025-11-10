@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Neutrogena Hydro Boost 10% Niacinamide Serum",
   "code": "6260847",
-  "price": "20.99",
-  "priceOriginal": "",
+  "price": "15.74",
+  "priceOriginal": "20.99",
   "itemBgbcat": "2002 > 6759 > 6758 > 6776 > 6775 > 6777",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032236",
+  "mmkId": "3032236",
+  "productGroupId": "481515",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,25",
   "url": "/neutrogena-hydro-boost-10-niacinamide-serum/p/6260847",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml - Alle huidtypen en gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h43/hbc/34038755098654/prd-front-6260847-1_600x600/prd-front-6260847-1-600x600.jpg"
+  "description": "30ml - Alle huidtypen en gevoelige huid"
 }

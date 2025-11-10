@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "KIMBERLY-CLARK BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032279",
+  "mmkId": "3032279",
+  "productGroupId": "493217",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drynites-bed-mats-matrasbeschermers/p/1827414",
@@ -29,5 +29,6 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "88cm x 78cm, 7 stuks"
+  "description": "88cm x 78cm, 7 stuks",
+  "image": "/medias/sys_master/prd-images/hed/h0c/44239689515038/prd-front-1827414-1_600x600/prd-front-1827414-1-600x600.jpg"
 }

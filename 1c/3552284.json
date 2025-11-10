@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Colgate Triple Action Medium Tandenborstels",
   "code": "3552284",
-  "price": "2.62",
+  "price": "2.27",
   "priceOriginal": "3.49",
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3858",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3032082",
-  "mmkId": "3032082",
-  "productGroupId": "500533",
+  "onPromo": "3032342",
+  "mmkId": "3032342",
+  "productGroupId": "501072",
   "brandType": "A of B merk",
-  "discount": "€ 0,87",
+  "discount": "€ 1,22",
   "url": "/colgate-triple-action-medium-tandenborstels/p/3552284",
   "listName": "Lister",
   "brand": "Colgate",
@@ -33,6 +33,5 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h0d/h5b/33897227747358/prd-front-3552284-1_600x600/prd-front-3552284-1-600x600.jpg"
+  "description": "4 stuks"
 }

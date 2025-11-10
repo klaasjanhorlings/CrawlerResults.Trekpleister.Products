@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "3032178",
-  "mmkId": "3032178",
-  "productGroupId": "467114",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-fopspeenkoordje/p/5341890",
@@ -33,6 +33,5 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf2/he1/34893275824158/prd-front-5341890-1_600x600/prd-front-5341890-1-600x600.jpg"
+  "description": ""
 }

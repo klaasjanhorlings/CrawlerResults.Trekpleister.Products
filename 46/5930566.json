@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032154",
-  "mmkId": "3032154",
-  "productGroupId": "500011",
+  "onPromo": "3032303",
+  "mmkId": "3032303",
+  "productGroupId": "497406",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/shiepz-nachtrust-3-in-1-hooggedoseerd-liquid-capsules/p/5930566",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h44/h98/35174641139742/prd-front-5930566-1_600x600/prd-front-5930566-1-600x600.jpg"
 }

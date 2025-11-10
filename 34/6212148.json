@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Palmolive Sensorial Escape Moroccan Rose & Peony Handzeep",
   "code": "6212148",
-  "price": "2.99",
-  "priceOriginal": "",
+  "price": "2.0",
+  "priceOriginal": "2.99",
   "itemBgbcat": "2003 > 2091 > 2258 > 2470 > 3004 > 3916",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3032017",
-  "mmkId": "3032017",
-  "productGroupId": "490235",
+  "onPromo": "3032330",
+  "mmkId": "3032330",
+  "productGroupId": "500649",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 0,99",
   "url": "/palmolive-sensorial-escape-moroccan-rose-peony-handzeep/p/6212148",
   "listName": "Lister",
   "brand": "Palmolive",
@@ -33,6 +33,5 @@
       "name": "Handzeep"
     }
   ],
-  "description": "300ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h09/hf3/33012282228766/prd-front-6212148-1_600x600/prd-front-6212148-1-600x600.jpg"
+  "description": "300ml - Alle huidtypen"
 }

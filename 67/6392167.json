@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6286",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032154",
-  "mmkId": "3032154",
-  "productGroupId": "500011",
+  "onPromo": "3032301",
+  "mmkId": "3032301",
+  "productGroupId": "497400",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dagravit-complete-start-drinkbare-multivitaminen-sachets/p/6392167",
@@ -33,5 +33,6 @@
       "name": "Weerstand en of energie"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h65/hbe/44365276348446/prd-front-6392167-1_600x600/prd-front-6392167-1-600x600.jpg"
 }

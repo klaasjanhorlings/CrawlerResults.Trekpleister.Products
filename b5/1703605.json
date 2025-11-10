@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "inStock",
-  "onPromo": "3032122",
-  "mmkId": "3032122",
-  "productGroupId": "508999",
+  "inStock": "outOfStock",
+  "onPromo": "3032376",
+  "mmkId": "3032376",
+  "productGroupId": "509005",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-masterpiece-max-002-black/brown-mascara/p/1703605",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "7,2ml",
-  "image": "/medias/sys_master/prd-images/h0d/h42/28787639844894/prd-front-1703605-1_600x600/prd-front-1703605-1-600x600.jpg"
+  "description": "7,2ml"
 }

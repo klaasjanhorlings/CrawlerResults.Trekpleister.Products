@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032112",
-  "mmkId": "3032112",
-  "productGroupId": "502132",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sheamoisture-jamaican-black-castor-oil-strenghten-restore-treatement-masker/p/5435956",
@@ -33,6 +33,5 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "355ml",
-  "image": "/medias/sys_master/prd-images/hb2/h2b/28552894414878/prd-front-5435956-1_600x600/prd-front-5435956-1-600x600.jpg"
+  "description": "355ml"
 }

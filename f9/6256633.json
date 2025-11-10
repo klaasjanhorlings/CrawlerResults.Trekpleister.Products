@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 2816 > 3789",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3031996",
-  "mmkId": "3031996",
-  "productGroupId": "457138",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillettelabs-scheersysteem/p/6256633",
@@ -33,6 +33,5 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hba/h11/33466854113310/prd-front-6256633-1_600x600/prd-front-6256633-1-600x600.jpg"
+  "description": ""
 }

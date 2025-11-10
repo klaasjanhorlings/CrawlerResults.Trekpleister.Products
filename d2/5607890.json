@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Mycosan Kalknagel Behandel + Camoufleer",
   "code": "5607890",
-  "price": "29.95",
-  "priceOriginal": "",
+  "price": "23.96",
+  "priceOriginal": "29.95",
   "itemBgbcat": "2006 > 2052 > 2175 > 6451 > 6452 > 6788",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3032229",
+  "mmkId": "3032229",
+  "productGroupId": "473557",
   "brandType": "Ander merk",
-  "discount": "",
+  "discount": "€ 5,99",
   "url": "/mycosan-kalknagel-behandel-camoufleer/p/5607890",
   "listName": "Lister",
   "brand": "Mycosan",
@@ -33,6 +33,5 @@
       "name": "Kalknagels"
     }
   ],
-  "description": "5ml + 8ml",
-  "image": "/medias/sys_master/prd-images/h89/h39/34427356151838/prd-front-5607890-1_600x600/prd-front-5607890-1-600x600.jpg"
+  "description": "5ml + 8ml"
 }

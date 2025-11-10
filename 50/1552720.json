@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6281",
   "supplier": "OCE BIO NEDERLAND",
-  "inStock": "inStock",
-  "onPromo": "3032154",
-  "mmkId": "3032154",
-  "productGroupId": "500011",
+  "inStock": "outOfStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/salus-floradix-vloeibaar-ijzer-elixer/p/1552720",
@@ -37,5 +37,6 @@
       "name": "Ijzer"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hc3/hbd/44588953862174/prd-front-1552720-1_600x600/prd-front-1552720-1-600x600.jpg"
 }

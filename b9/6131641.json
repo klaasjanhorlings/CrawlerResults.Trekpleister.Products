@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Bolsius Cleanlight Gardenia & Fig Starterkit",
   "code": "6131641",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "4.99",
+  "priceOriginal": "9.99",
   "itemBgbcat": "5926 > 6679 > 2146 > 2351 > 2704 > 3407",
   "supplier": "BOLSIUS NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032319",
+  "mmkId": "3032319",
+  "productGroupId": "499673",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/bolsius-cleanlight-gardenia-fig-starterkit/p/6131641",
   "listName": "Lister",
   "brand": "Bolsius",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h3c/hc2/44736871039006/prd-front-6131641-1_600x600/prd-front-6131641-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hca/hf5/44746446929950/prd-front-6131641-1_600x600/prd-front-6131641-1-600x600.jpg"
 }

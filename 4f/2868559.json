@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6202 > 6220 > 6278",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "3032154",
-  "mmkId": "3032154",
-  "productGroupId": "500011",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-prostaforce-capsules/p/2868559",
@@ -33,5 +33,6 @@
       "name": "Prostaatsupplementen"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/he4/h4d/32568354209822/prd-front-2868559-1_600x600/prd-front-2868559-1-600x600.jpg"
 }

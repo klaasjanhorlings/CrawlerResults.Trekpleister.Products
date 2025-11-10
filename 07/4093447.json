@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2903 > 3700",
   "supplier": "SUNSTAR BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032290",
+  "mmkId": "3032290",
+  "productGroupId": "495636",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gum-easy-flossers/p/4093447",
@@ -33,5 +33,6 @@
       "name": "Flosdraad"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h95/hf8/34510016086046/prd-front-4093447-1_600x600/prd-front-4093447-1-600x600.jpg"
 }

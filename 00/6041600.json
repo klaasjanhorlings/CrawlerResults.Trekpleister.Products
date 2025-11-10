@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032234",
+  "mmkId": "3032234",
+  "productGroupId": "477830",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-aqua-boost-gelcreme/p/6041600",
@@ -33,5 +33,6 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h74/h3a/30148066639902/prd-front-6041600-1_600x600/prd-front-6041600-1-600x600.jpg"
 }

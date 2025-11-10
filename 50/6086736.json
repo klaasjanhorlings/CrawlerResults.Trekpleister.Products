@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Durex Pleasure Me Condooms",
   "code": "6086736",
-  "price": "35.99",
-  "priceOriginal": "",
+  "price": "23.39",
+  "priceOriginal": "35.99",
   "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3032192",
+  "mmkId": "3032192",
+  "productGroupId": "473693",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 12,60",
   "url": "/durex-pleasure-me-condooms/p/6086736",
   "listName": "Lister",
   "brand": "Durex",
@@ -33,6 +33,5 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel - 40 stuks",
-  "image": "/medias/sys_master/prd-images/h6d/h54/31776478134302/prd-front-6086736-1_600x600/prd-front-6086736-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 40 stuks"
 }

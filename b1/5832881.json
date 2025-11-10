@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tena Washable Soft Cotton Ondergoed",
   "code": "5832881",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032326",
+  "mmkId": "3032326",
+  "productGroupId": "500216",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/tena-washable-soft-cotton-ondergoed/p/5832881",
   "listName": "Lister",
   "brand": "Tena",
@@ -37,6 +37,5 @@
       "name": "Incontinentiebroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - mt M",
-  "image": "/medias/sys_master/prd-images/hdb/h50/28559650455582/prd-front-5832881-1_600x600/prd-front-5832881-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - mt M"
 }

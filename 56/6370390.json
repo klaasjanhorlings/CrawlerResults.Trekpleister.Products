@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Teddy Kussenslopen",
+  "code": "6370390",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 2196 > 2453 > 2738 > 3440 > 6020",
+  "supplier": "LUMAS INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-teddy-kussenslopen/p/6370390",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267458,
+      "name": "Huishoudelijk textiel"
+    }
+  ],
+  "description": "crème, 60cm x 70cm, 2 stuks",
+  "image": "/medias/sys_master/prd-images/he4/hde/35176040759326/prd-front-6370390-1_600x600/prd-front-6370390-1-600x600.jpg"
+}

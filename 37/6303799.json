@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "e.l.f. Skin Suntouchable Whoa Glow SPF30 Zonnebrandcrème",
   "code": "6303799",
-  "price": "15.13",
-  "priceOriginal": "17.0",
+  "price": "17.0",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "3032020",
-  "mmkId": "3032020",
-  "productGroupId": "495102",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,87",
+  "discount": "",
   "url": "/elf-skin-suntouchable-whoa-glow-spf30-zonnebrandcreme/p/6303799",
   "listName": "Lister",
   "brand": "ELF",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h54/ha7/34089399746590/prd-front-6303799-1_600x600/prd-front-6303799-1-600x600.jpg"
 }

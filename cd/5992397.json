@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
   "supplier": "TRADE SENSE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032220",
+  "mmkId": "3032220",
+  "productGroupId": "470584",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organic-shop-cherry-ginger-cleansing-face-scrub/p/5992397",
@@ -37,5 +37,6 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hf3/h30/29462256746526/prd-front-5992397-1_600x600/prd-front-5992397-1-600x600.jpg"
 }
