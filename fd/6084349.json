@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "B.Fresh Fressssh Af Douchegel",
+  "code": "6084349",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "MARQUE OF BRANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3032272",
+  "mmkId": "3032272",
+  "productGroupId": "490837",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bfresh-fressssh-af-douchegel/p/6084349",
+  "listName": "Lister",
+  "brand": "b.fresh",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "473ml",
+  "image": "/medias/sys_master/prd-images/h7a/h4d/32886072115230/prd-front-6084349-1_600x600/prd-front-6084349-1-600x600.jpg"
+}

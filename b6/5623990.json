@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Gillette Venus Satin Care Huid & Schaamhaar Scheermesjes",
+  "itemName": "Gillette Venus Huid & Schaamhaar Scheermesjes",
   "code": "5623990",
   "price": "23.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "499320",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/gillette-venus-satin-care-huid-schaamhaar-scheermesjes/p/5623990",
+  "url": "/gillette-venus-huid-schaamhaar-scheermesjes/p/5623990",
   "listName": "Lister",
   "brand": "Gillette Venus",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h26/h3b/44755403636766/prd-front-5623990-1_600x600/prd-front-5623990-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2e/h60/44768277299230/prd-front-5623990-1_600x600/prd-front-5623990-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 6740 > 6739 > 6741",
   "supplier": "GOLIATH B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "Spellen"
     },
     {
-      "id": 30267392,
-      "name": "Bordspellen"
+      "id": 30267393,
+      "name": "Reisspellen"
     }
   ],
   "description": "",

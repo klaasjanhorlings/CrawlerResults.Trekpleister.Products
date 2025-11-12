@@ -8,8 +8,8 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267135,
-      "name": "Concealer"
+      "id": 30267137,
+      "name": "BB cream"
     }
   ],
   "description": "20ml",
-  "image": "/medias/sys_master/prd-images/hfb/hb4/44752582705182/prd-front-5902146-1_600x600/prd-front-5902146-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h73/h51/44762731872286/prd-front-5902146-1_600x600/prd-front-5902146-1-600x600.jpg"
 }

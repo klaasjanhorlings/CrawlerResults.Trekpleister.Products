@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Weleda Vijgencactus 24H Hydraterende Gezichtscrème",
+  "itemName": "Weleda Hydra+ 48H Hydraterende Gezichtscrème",
   "code": "5931721",
   "price": "11.24",
   "priceOriginal": "14.99",
@@ -13,7 +13,7 @@
   "productGroupId": "476415",
   "brandType": "A of B merk",
   "discount": "€ 3,75",
-  "url": "/weleda-vijgencactus-24h-hydraterende-gezichtscreme/p/5931721",
+  "url": "/weleda-hydra-48h-hydraterende-gezichtscreme/p/5931721",
   "listName": "Lister",
   "brand": "Weleda",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "30ml, droge en normale huid",
+  "description": "30ml - droge en normale huid",
   "image": "/medias/sys_master/prd-images/he3/hdc/33561758564382/prd-front-5931721-1_600x600/prd-front-5931721-1-600x600.jpg"
 }

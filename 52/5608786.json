@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267040,
-      "name": "Geschenksets"
+      "id": 30267067,
+      "name": "Babyverzorging"
     },
     {
-      "id": 72666589,
-      "name": "Geschenkset voor kinderen"
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267579,
+      "name": "Babylotion"
     }
   ],
   "description": "4 x 15ml",

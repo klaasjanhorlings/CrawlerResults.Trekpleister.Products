@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Princess Hair & Beauty Geschenkset",
+  "code": "6373673",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 4637 > 4638 > 4639",
+  "supplier": "TREFFINA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/princess-hair-beauty-geschenkset/p/6373673",
+  "listName": "Lister",
+  "brand": "Geschenkset",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666589,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7e/ha0/44588033376286/prd-front-6373673-1_600x600/prd-front-6373673-1-600x600.jpg"
+}

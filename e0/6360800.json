@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "4868 > 2092 > 2245 > 2343 > 2743 > 6569",
   "supplier": "BOOK & SERVICE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Educatief speelgoed"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h91/ha9/34925861830686/prd-front-6360800-1_600x600/prd-front-6360800-1-600x600.jpg"
+  "description": ""
 }

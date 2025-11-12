@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Palmolive Naturals Moisture Care Melk & Olijf Blokzeep",
+  "code": "2458744",
+  "price": "2.0",
+  "priceOriginal": "2.89",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2597 > 3262 > 3920",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "3032330",
+  "mmkId": "3032330",
+  "productGroupId": "500649",
+  "brandType": "A of B merk",
+  "discount": "€ 0,89",
+  "url": "/palmolive-naturals-moisture-care-melk-olijf-blokzeep/p/2458744",
+  "listName": "Lister",
+  "brand": "Palmolive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267054,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30267246,
+      "name": "Handzeep"
+    }
+  ],
+  "description": "3 x 90g - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hdd/h7b/33906144215070/prd-front-2458744-1_600x600/prd-front-2458744-1-600x600.jpg"
+}
