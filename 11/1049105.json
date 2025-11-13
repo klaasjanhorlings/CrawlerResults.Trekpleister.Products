@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Trekpleister Foliumzuur met Vitamine D Tabletten",
   "code": "1049105",
-  "price": "3.49",
-  "priceOriginal": "",
+  "price": "2.44",
+  "priceOriginal": "3.49",
   "itemBgbcat": "2006 > 5048 > 2280 > 6205 > 6223 > 6293",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3032388",
-  "mmkId": "3032388",
-  "productGroupId": "294599",
+  "onPromo": "3032402",
+  "mmkId": "3032402",
+  "productGroupId": "464459",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,05",
   "url": "/trekpleister-foliumzuur-met-vitamine-d-tabletten/p/1049105",
   "listName": "Lister",
   "brand": "Trekpleister",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267273,
-      "name": "Zwangerschapssupplementen"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
   "description": "120 stuks",

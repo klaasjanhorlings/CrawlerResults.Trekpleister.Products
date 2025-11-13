@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3032283",
-  "mmkId": "3032283",
-  "productGroupId": "494675",
+  "onPromo": "3032408",
+  "mmkId": "3032408",
+  "productGroupId": "500535",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elmex-junior-mondwater/p/5080692",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "6-12 jaar, 400ml"
+  "description": "6-12 jaar, 400ml",
+  "image": "/medias/sys_master/prd-images/h35/hbb/30301725229086/prd-front-5080692-1_600x600/prd-front-5080692-1-600x600.jpg"
 }

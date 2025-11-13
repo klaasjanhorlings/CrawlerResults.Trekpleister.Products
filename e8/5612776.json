@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Regenerist SPF30 Dagcrème",
   "code": "5612776",
-  "price": "19.99",
+  "price": "18.0",
   "priceOriginal": "39.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "3032193",
-  "mmkId": "3032193",
-  "productGroupId": "474688",
+  "inStock": "outOfStock",
+  "onPromo": "3032405",
+  "mmkId": "3032405",
+  "productGroupId": "483975",
   "brandType": "A of B merk",
-  "discount": "€ 20,00",
+  "discount": "€ 21,99",
   "url": "/olay-regenerist-spf30-dagcreme/p/5612776",
   "listName": "Lister",
   "brand": "Olay",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/h09/h48/44771309191198/prd-front-5612776-1_600x600/prd-front-5612776-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hac/h4c/44787341393950/prd-front-5612776-1_600x600/prd-front-5612776-1-600x600.jpg"
 }

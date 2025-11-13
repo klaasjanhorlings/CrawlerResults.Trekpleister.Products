@@ -7,7 +7,7 @@
   "priceOriginal": "10.89",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "BAYER BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032223",
   "mmkId": "3032223",
   "productGroupId": "472392",
@@ -29,8 +29,8 @@
       "name": "Wondverzorging"
     },
     {
-      "id": 30267292,
-      "name": "EHBO-doos"
+      "id": 49950787,
+      "name": "Wondzalven"
     }
   ],
   "description": "Medisch hulpmiddel - 50g",

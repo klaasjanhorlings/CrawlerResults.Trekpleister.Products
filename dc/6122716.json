@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Calendula Weer en Windbalsem",
   "code": "6122716",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "6.29",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032414",
+  "mmkId": "3032414",
+  "productGroupId": "503531",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,70",
   "url": "/weleda-calendula-weer-en-windbalsem/p/6122716",
   "listName": "Lister",
   "brand": "Weleda",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hac/hd1/31231841468446/prd-front-6122716-1_600x600/prd-front-6122716-1-600x600.jpg"
 }

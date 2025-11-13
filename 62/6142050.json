@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Philips OneBlade Intimate Male QP1924/20 Scheerapparaat en Trimmer",
   "code": "6142050",
-  "price": "19.99",
+  "price": "20.0",
   "priceOriginal": "39.99",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5720 > 3869",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
@@ -12,7 +12,7 @@
   "mmkId": "3032281",
   "productGroupId": "494264",
   "brandType": "A of B merk",
-  "discount": "€ 20,00",
+  "discount": "€ 19,99",
   "url": "/philips-oneblade-intimate-male-qp1924/20-scheerapparaat-en-trimmer/p/6142050",
   "listName": "Lister",
   "brand": "Philips",
@@ -29,8 +29,8 @@
       "name": "Scheren en ontharen"
     },
     {
-      "id": 30267241,
-      "name": "Multigroomers"
+      "id": 30267236,
+      "name": "Scheerapparaten"
     }
   ],
   "description": "",

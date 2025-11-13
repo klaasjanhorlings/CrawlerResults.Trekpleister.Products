@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Retinol24 MAX Hydraterende Nachtcrème",
   "code": "5583355",
-  "price": "45.99",
-  "priceOriginal": "",
+  "price": "20.7",
+  "priceOriginal": "45.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3032245",
-  "mmkId": "3032245",
-  "productGroupId": "483974",
+  "onPromo": "3032405",
+  "mmkId": "3032405",
+  "productGroupId": "483975",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 25,29",
   "url": "/olay-retinol24-max-hydraterende-nachtcreme/p/5583355",
   "listName": "Lister",
   "brand": "Olay",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hd2/ha7/44771308470302/prd-front-5583355-1_600x600/prd-front-5583355-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf4/hcf/44787912081438/prd-front-5583355-1_600x600/prd-front-5583355-1-600x600.jpg"
 }

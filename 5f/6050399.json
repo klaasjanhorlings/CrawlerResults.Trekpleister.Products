@@ -7,7 +7,7 @@
   "priceOriginal": "79.92",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
   "supplier": "UNILEVER NEDERLAND",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Vaatwastabletten"
     }
   ],
-  "description": "8 x 16 stuks"
+  "description": "8 x 16 stuks",
+  "image": "/medias/sys_master/prd-images/hef/h51/33820108029982/prd-front-6050399-1_600x600/prd-front-6050399-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Eyes Collagen Peptide24 Oogcrème",
   "code": "5372543",
-  "price": "39.99",
-  "priceOriginal": "",
+  "price": "18.0",
+  "priceOriginal": "39.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3032245",
-  "mmkId": "3032245",
-  "productGroupId": "483974",
+  "onPromo": "3032405",
+  "mmkId": "3032405",
+  "productGroupId": "483975",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 21,99",
   "url": "/olay-eyes-collagen-peptide24-oogcreme/p/5372543",
   "listName": "Lister",
   "brand": "Olay",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "15ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hb7/hcc/44765835427870/prd-front-5372543-1_600x600/prd-front-5372543-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h83/h4d/44785221304350/prd-front-5372543-1_600x600/prd-front-5372543-1-600x600.jpg"
 }

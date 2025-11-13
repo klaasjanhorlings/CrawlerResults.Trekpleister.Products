@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267038,
-      "name": "Make-up"
+      "id": 30267053,
+      "name": "Scheren en ontharen"
     },
     {
-      "id": 30267149,
-      "name": "Wenkbrauw make-up"
-    },
-    {
-      "id": 30267464,
-      "name": "Wenkbrauwgel"
+      "id": 30267235,
+      "name": "Scheermesjes"
     }
   ],
   "description": "3 stuks",

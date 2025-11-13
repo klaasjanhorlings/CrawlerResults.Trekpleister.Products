@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay POP Vitamine C SPF30 Navulling",
   "code": "6035314",
-  "price": "34.99",
-  "priceOriginal": "",
+  "price": "15.74",
+  "priceOriginal": "34.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3032245",
-  "mmkId": "3032245",
-  "productGroupId": "483974",
+  "onPromo": "3032405",
+  "mmkId": "3032405",
+  "productGroupId": "483975",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 19,25",
   "url": "/olay-pop-vitamine-c-spf30-navulling/p/6035314",
   "listName": "Lister",
   "brand": "Olay",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/h6f/h5d/44765858201630/prd-front-6035314-1_600x600/prd-front-6035314-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h16/h97/44785236443166/prd-front-6035314-1_600x600/prd-front-6035314-1-600x600.jpg"
 }
