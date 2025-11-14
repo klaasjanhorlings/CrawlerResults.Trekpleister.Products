@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Elmex 0-3 Jaar Kinder Tandenborstel",
+  "code": "4373391",
+  "price": "3.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3519",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "outOfStock",
+  "onPromo": "3032408",
+  "mmkId": "3032408",
+  "productGroupId": "500535",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elmex-0-3-jaar-kinder-tandenborstel/p/4373391",
+  "listName": "Lister",
+  "brand": "Elmex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267228,
+      "name": "Tandenborstels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4373391-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDgxNDB8aW1hZ2UvanBlZ3xhRE16TDJnd1pTOHhOek0xTURrek1qTXpNalUzTkM5d2NtUXRabkp2Ym5RdE5ETTNNek01TVMweFh6WXdNSGcyTURBfDY4N2UxZTEwZDcwNDIzZTVjZGI5MzlkYjg0YmM1NjMyYzg5MGFhN2I1NzYwNzMyZmMzOTMyOTNhM2JjMTc2ZGY"
+}

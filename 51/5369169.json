@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032293",
   "mmkId": "3032293",
   "productGroupId": "495832",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267144,
+      "name": "Gezichtspoeder"
     }
   ],
   "description": "9g",

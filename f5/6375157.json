@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Weleda Calendula Skin Food Bodylotion",
+  "itemName": "Weleda Skin Food Bodylotion",
   "code": "6375157",
   "price": "14.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/weleda-calendula-skin-food-bodylotion/p/6375157",
+  "url": "/weleda-skin-food-bodylotion/p/6375157",
   "listName": "Lister",
   "brand": "Weleda",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "200ml",
+  "description": "250ml",
   "image": "/medias/sys_master/prd-images/hf6/h67/44376903909406/prd-front-6375157-1_600x600/prd-front-6375157-1-600x600.jpg"
 }

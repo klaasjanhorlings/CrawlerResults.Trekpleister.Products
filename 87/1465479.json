@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Smooth Q10 & Niacinamide SPF30 Dagcrème",
+  "code": "1465479",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "FEMIA COSMETIC",
+  "inStock": "inStock",
+  "onPromo": "3032388",
+  "mmkId": "3032388",
+  "productGroupId": "294599",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-smooth-q10-niacinamide-spf30-dagcreme/p/1465479",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/ha3/h90/34460663152670/prd-front-1465479-1_600x600/prd-front-1465479-1-600x600.jpg"
+}

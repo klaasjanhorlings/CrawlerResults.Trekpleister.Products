@@ -29,10 +29,13 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267289,
-      "name": "Foliumzuur"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267548,
+      "name": "Vitamine B"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/hd9/h12/30650170703902/prd-front-6077545-1_600x600/prd-front-6077545-1-600x600.jpg"
+  "description": "60 stuks"
 }
