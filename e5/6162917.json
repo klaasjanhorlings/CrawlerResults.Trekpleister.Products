@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267046,
-      "name": "Huidverzorging"
+      "id": 30267067,
+      "name": "Babyverzorging"
     },
     {
-      "id": 30267194,
-      "name": "Bodylotion"
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267579,
+      "name": "Babylotion"
     }
   ],
   "description": "250ml",

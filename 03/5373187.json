@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Olay Collagen Peptide24 Serum",
   "code": "5373187",
-  "price": "18.67",
-  "priceOriginal": "41.49",
+  "price": "41.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032405",
   "productGroupId": "483975",
   "brandType": "A of B merk",
-  "discount": "€ 22,82",
+  "discount": "",
   "url": "/olay-collagen-peptide24-serum/p/5373187",
   "listName": "Lister",
   "brand": "Olay",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "40ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hb3/hdf/44798531338270/prd-front-5373187-1_600x600/prd-front-5373187-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h71/hdc/44808740012062/prd-front-5373187-1_600x600/prd-front-5373187-1-600x600.jpg"
 }

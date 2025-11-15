@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Andrélon Pro-Care Amino+ Glossy Shine Crème Serum",
   "code": "6247442",
-  "price": "7.0",
-  "priceOriginal": "12.99",
+  "price": "12.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6696",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032289",
   "productGroupId": "495621",
   "brandType": "A of B merk",
-  "discount": "€ 5,99",
+  "discount": "",
   "url": "/andrelon-pro-care-amino-glossy-shine-creme-serum/p/6247442",
   "listName": "Lister",
   "brand": "Andrelon Pro-Care",
@@ -33,6 +33,5 @@
       "name": "Haarserum"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h63/h59/33139297091614/prd-front-6247442-1_600x600/prd-front-6247442-1-600x600.jpg"
+  "description": "200ml"
 }

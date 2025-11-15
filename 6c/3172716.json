@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Glycerona Classic Handcrème",
   "code": "3172716",
-  "price": "1.74",
-  "priceOriginal": "3.49",
+  "price": "3.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032251",
   "productGroupId": "488984",
   "brandType": "A of B merk",
-  "discount": "€ 1,75",
+  "discount": "",
   "url": "/glycerona-classic-handcreme/p/3172716",
   "listName": "Lister",
   "brand": "Glycerona",
@@ -33,6 +33,5 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h1f/h06/28548067622942/prd-front-3172716-1_600x600/prd-front-3172716-1-600x600.jpg"
+  "description": "100ml"
 }

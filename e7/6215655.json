@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Olay Regenerist Active Firming Oogcrème",
   "code": "6215655",
-  "price": "17.99",
-  "priceOriginal": "39.99",
+  "price": "39.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032405",
   "productGroupId": "483975",
   "brandType": "A of B merk",
-  "discount": "€ 22,00",
+  "discount": "",
   "url": "/olay-regenerist-active-firming-oogcreme/p/6215655",
   "listName": "Lister",
   "brand": "Olay",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "15ml",
-  "image": "/medias/sys_master/prd-images/h4a/h10/44803848077342/prd-front-6215655-1_600x600/prd-front-6215655-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4b/h91/44815742271518/prd-front-6215655-1_600x600/prd-front-6215655-1-600x600.jpg"
 }

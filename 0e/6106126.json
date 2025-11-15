@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Mindful Blossom Badfoam",
+  "code": "6106126",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3673",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-mindful-blossom-badfoam/p/6106126",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267207,
+      "name": "Doucheschuim"
+    }
+  ],
+  "description": "500ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

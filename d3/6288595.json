@@ -8,8 +8,8 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "REMARK GROEP",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "Huidirritatie"
     }
   ],
-  "description": "30g"
+  "description": "30g",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

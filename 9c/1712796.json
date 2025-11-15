@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Maybelline New York Express Brow 03 Soft Brown Shaping Pencil",
-  "code": "5691092",
-  "price": "5.99",
+  "itemName": "Maybelline New York Color Sensational Plums 338 Midnight Plum Lipstick",
+  "code": "1712796",
+  "price": "13.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/maybelline-new-york-express-brow-03-soft-brown-shaping-pencil/p/5691092",
+  "url": "/maybelline-new-york-color-sensational-plums-338-midnight-plum-lipstick/p/1712796",
   "listName": "Lister",
   "brand": "Maybelline",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267149,
-      "name": "Wenkbrauw make-up"
+      "id": 88118383,
+      "name": "Lipmake-up"
     },
     {
-      "id": 30267467,
-      "name": "Wenkbrauwpotlood"
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h78/hbd/44791360651294/prd-front-5691092-1_600x600/prd-front-5691092-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2f/h39/44652004737054/prd-front-1712796-1_600x600/prd-front-1712796-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Olay POP Collagen Peptide SPF30 Dagcrème Navulling",
   "code": "6039969",
-  "price": "15.75",
-  "priceOriginal": "34.99",
+  "price": "34.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032405",
   "productGroupId": "483975",
   "brandType": "A of B merk",
-  "discount": "€ 19,24",
+  "discount": "",
   "url": "/olay-pop-collagen-peptide-spf30-dagcreme-navulling/p/6039969",
   "listName": "Lister",
   "brand": "Olay",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/ha4/h7d/44796634759198/prd-front-6039969-1_600x600/prd-front-6039969-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdc/h4a/44813302038558/prd-front-6039969-1_600x600/prd-front-6039969-1-600x600.jpg"
 }

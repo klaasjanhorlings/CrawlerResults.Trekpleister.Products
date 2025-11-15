@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Olay POP Regenerist Niacinamide SPF30 Dagcrème Navulling",
   "code": "6039962",
-  "price": "15.75",
-  "priceOriginal": "34.99",
+  "price": "34.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032405",
   "productGroupId": "483975",
   "brandType": "A of B merk",
-  "discount": "€ 19,24",
+  "discount": "",
   "url": "/olay-pop-regenerist-niacinamide-spf30-dagcreme-navulling/p/6039962",
   "listName": "Lister",
   "brand": "Olay",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/hcc/hc3/44803841523742/prd-front-6039962-1_600x600/prd-front-6039962-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd2/h7c/44815734734878/prd-front-6039962-1_600x600/prd-front-6039962-1-600x600.jpg"
 }

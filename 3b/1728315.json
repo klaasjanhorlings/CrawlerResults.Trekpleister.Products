@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Isla Mint Pastilles",
   "code": "1728315",
-  "price": "4.79",
-  "priceOriginal": "5.99",
+  "price": "5.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
   "supplier": "SALVEO PHARMA BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032278",
   "productGroupId": "492388",
   "brandType": "A of B merk",
-  "discount": "€ 1,20",
+  "discount": "",
   "url": "/isla-mint-pastilles/p/1728315",
   "listName": "Lister",
   "brand": "isla",
@@ -37,6 +37,5 @@
       "name": "Keelpastilles"
     }
   ],
-  "description": "Medisch hulpmiddel - 30 stuks",
-  "image": "/medias/sys_master/prd-images/h3f/hc4/34734708097054/prd-front-1728315-1_600x600/prd-front-1728315-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 30 stuks"
 }

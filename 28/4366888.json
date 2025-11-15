@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Zwitsal Sensitive Billendoekjes",
   "code": "4366888",
-  "price": "38.99",
-  "priceOriginal": "73.99",
+  "price": "73.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032195",
   "productGroupId": "496865",
   "brandType": "A of B merk",
-  "discount": "€ 35,00",
+  "discount": "",
   "url": "/zwitsal-sensitive-billendoekjes/p/4366888",
   "listName": "Lister",
   "brand": "Zwitsal",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "24 x 57 stuks"
+  "description": "24 x 57 stuks",
+  "image": "/medias/sys_master/prd-images/h36/hc3/44777910370334/prd-front-4366888-1_600x600/prd-front-4366888-1-600x600.jpg"
 }

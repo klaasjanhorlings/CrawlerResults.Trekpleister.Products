@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Olay Vitamine B3 24 + Vitamin C Oogcrème",
   "code": "5781753",
-  "price": "18.0",
-  "priceOriginal": "39.99",
+  "price": "39.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032405",
   "productGroupId": "483975",
   "brandType": "A of B merk",
-  "discount": "€ 21,99",
+  "discount": "",
   "url": "/olay-vitamine-b3-24-vitamin-c-oogcreme/p/5781753",
   "listName": "Lister",
   "brand": "Olay",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "15ml, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/h7e/h0e/44803384639518/prd-front-5781753-1_600x600/prd-front-5781753-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h19/hc0/44815410692126/prd-front-5781753-1_600x600/prd-front-5781753-1-600x600.jpg"
 }

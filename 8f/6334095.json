@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Forest Flower Meditation Bodybutter",
+  "code": "6334095",
+  "price": "13.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-forest-flower-meditation-bodybutter/p/6334095",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267195,
+      "name": "Bodybutter"
+    }
+  ],
+  "description": "225ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}
