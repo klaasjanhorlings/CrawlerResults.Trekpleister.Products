@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "CARESSE COSMETICS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/prd-front-5761302-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQzMDN8aW1hZ2UvanBlZ3xhRGxtTDJobU1TOHhOalEwTkRZeE5Ua3hOelU1T0M5d2NtUXRabkp2Ym5RdE5UYzJNVE13TWkweFh6WXdNSGcyTURBfGE0YTBmODEwN2NlMDc2MzlmMzlkMTVjNjExNTMzMGRmNTNhY2FiNWY5ZWZkOWQ2MjdmNzJjODA4MTZlMzZjN2M"
 }
