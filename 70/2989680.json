@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "3032414",
-  "mmkId": "3032414",
-  "productGroupId": "503531",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/weleda-baby-calendula-bodymilk/p/2989680",
@@ -37,5 +37,6 @@
       "name": "Babylotion"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hb8/h74/29058730721310/prd-front-2989680-1_600x600/prd-front-2989680-1-600x600.jpg"
 }

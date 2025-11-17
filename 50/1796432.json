@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "NEW VALMAR BV",
   "inStock": "inStock",
-  "onPromo": "3032401",
-  "mmkId": "3032401",
-  "productGroupId": "462182",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nuby-ijsbijtsleutel/p/1796432",
@@ -33,6 +33,5 @@
       "name": "Grijp- en bijtspeelgoed"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hfc/h62/44448157630494/prd-front-1796432-1_600x600/prd-front-1796432-1-600x600.jpg"
+  "description": ""
 }
