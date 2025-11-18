@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "David Beckham Instinct Eau de Parfum",
+  "code": "5962493",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/david-beckham-instinct-eau-de-parfum/p/5962493",
+  "listName": "Lister",
+  "brand": "David Beckham",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "50ml"
+}

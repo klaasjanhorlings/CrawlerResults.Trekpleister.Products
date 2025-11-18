@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bruno Banani Magnetic Woman Eau de Parfum",
+  "code": "5761610",
+  "price": "27.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "3032356",
+  "mmkId": "3032356",
+  "productGroupId": "501615",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bruno-banani-magnetic-woman-eau-de-parfum/p/5761610",
+  "listName": "Lister",
+  "brand": "Bruno Banani",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml"
+}

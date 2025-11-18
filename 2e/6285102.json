@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mattel Uno Express",
+  "code": "6285102",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
+  "supplier": "HERMANEX INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mattel-uno-express/p/6285102",
+  "listName": "Lister",
+  "brand": "Mattel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281487,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": ""
+}

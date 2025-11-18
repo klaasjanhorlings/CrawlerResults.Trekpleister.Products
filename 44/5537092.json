@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bruno Banani Magic Man Eau de Toilette",
+  "code": "5537092",
+  "price": "29.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "3032357",
+  "mmkId": "3032357",
+  "productGroupId": "501617",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bruno-banani-magic-man-eau-de-toilette/p/5537092",
+  "listName": "Lister",
+  "brand": "Bruno Banani",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h72/h12/28578967584798/prd-front-5537092-1_600x600/prd-front-5537092-1-600x600.jpg"
+}

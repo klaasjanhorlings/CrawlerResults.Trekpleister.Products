@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Rimpel Expert 3D Pro-Hyaluron Dagcrème",
+  "code": "571592",
+  "price": "7.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "3032225",
+  "mmkId": "3032225",
+  "productGroupId": "473164",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-rimpel-expert-3d-pro-hyaluron-dagcreme/p/571592",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h5f/h00/28573709369374/prd-front-571592-1_600x600/prd-front-571592-1-600x600.jpg"
+}

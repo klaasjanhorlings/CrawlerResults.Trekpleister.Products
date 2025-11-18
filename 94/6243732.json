@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032348",
   "mmkId": "3032348",
   "productGroupId": "501577",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 5"
     }
   ],
-  "description": "mt 5 (11-16kg), 80 stuks",
-  "image": "/medias/sys_master/prd-images/h72/h3b/34796232376350/prd-front-6243732-1_600x600/prd-front-6243732-1-600x600.jpg"
+  "description": "mt 5 (11-16kg), 80 stuks"
 }

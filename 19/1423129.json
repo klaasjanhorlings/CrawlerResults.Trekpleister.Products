@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L’Oréal Paris Revitalift Anti-Veroudering Nachtcrème",
+  "code": "1423129",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3032293",
+  "mmkId": "3032293",
+  "productGroupId": "495832",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-revitalift-anti-veroudering-nachtcreme/p/1423129",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h1e/h23/35155420413982/prd-front-1423129-1_600x600/prd-front-1423129-1-600x600.jpg"
+}
