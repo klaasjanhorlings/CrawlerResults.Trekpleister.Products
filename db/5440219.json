@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Freeman Day Purifying Mask + Cleanser & Night Calming Gel Mask",
+  "code": "5440219",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "3032362",
+  "mmkId": "3032362",
+  "productGroupId": "501764",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/freeman-day-purifying-mask-cleanser-night-calming-gel-mask/p/5440219",
+  "listName": "Lister",
+  "brand": "Freeman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "2 x 7ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hd4/h6a/28610042200094/prd-front-5440219-1_600x600/prd-front-5440219-1-600x600.jpg"
+}

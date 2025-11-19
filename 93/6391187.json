@@ -21,12 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 52211379,
-      "name": "Adventskalenders"
+      "id": 30267062,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30267304,
+      "name": "Seksspeeltjes"
+    },
+    {
+      "id": 30267555,
+      "name": "Kalender"
     }
   ],
   "description": "24 stuks",

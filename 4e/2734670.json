@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice 030 Medium Bronze Sun Glow Powder",
+  "code": "2734670",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-030-medium-bronze-sun-glow-powder/p/2734670",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267145,
+      "name": "Bronzer"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he3/h4f/32742206636062/prd-front-2734670-1_600x600/prd-front-2734670-1-600x600.jpg"
+}

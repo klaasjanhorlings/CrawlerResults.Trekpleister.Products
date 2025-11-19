@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sabrina Carpenter Sweeth Tooth Bodymist",
+  "code": "6194431",
+  "price": "14.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "CARE COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sabrina-carpenter-sweeth-tooth-bodymist/p/6194431",
+  "listName": "Lister",
+  "brand": "SABRINA CARPENTER",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "236ml"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cantu Rosemary & Mint Hair Oil",
+  "code": "6393903",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5920",
+  "supplier": "ORIGINAL ADDITIONS (BP)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/cantu-rosemary-mint-hair-oil/p/6393903",
+  "listName": "Lister",
+  "brand": "Cantu",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213498,
+      "name": "Haarolie"
+    }
+  ],
+  "description": "95ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

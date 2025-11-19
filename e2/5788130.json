@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Magic Perfectors Duo Eyeshadow Brush",
+  "code": "5788130",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-magic-perfectors-duo-eyeshadow-brush/p/5788130",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267174,
+      "name": "Make-up kwasten"
+    }
+  ],
+  "description": ""
+}

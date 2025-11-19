@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Vitamine E Hydraterende Oogcrème",
+  "code": "6390179",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "supplier": "PHARCONA GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "3032388",
+  "mmkId": "3032388",
+  "productGroupId": "294599",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-vitamine-e-hydraterende-oogcreme/p/6390179",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267161,
+      "name": "Oogcreme"
+    }
+  ],
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/had/hc8/44366190837790/prd-front-6390179-1_600x600/prd-front-6390179-1-600x600.jpg"
+}

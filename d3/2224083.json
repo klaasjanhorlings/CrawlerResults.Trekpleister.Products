@@ -21,14 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536630,
-      "name": "Elektronica"
+      "id": 29536631,
+      "name": "Huishouden"
     },
     {
-      "id": 30267112,
-      "name": "Verrassend elektronica"
+      "id": 30267101,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30267433,
+      "name": "Reisartikelen"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h0f/h21/44833462550558/prd-front-2224083-1_600x600/prd-front-2224083-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h93/h91/44846112145438/prd-front-2224083-1_600x600/prd-front-2224083-1-600x600.jpg"
 }

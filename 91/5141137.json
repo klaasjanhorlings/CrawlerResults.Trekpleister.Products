@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kidsner Alexia De Verkoelende Foam",
+  "itemName": "Kidsner Verkoelende Foam bij Waterpokken",
   "code": "5141137",
   "price": "15.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/kidsner-alexia-de-verkoelende-foam/p/5141137",
+  "url": "/kidsner-verkoelende-foam-bij-waterpokken/p/5141137",
   "listName": "Lister",
   "brand": "Kidsner",
   "mpOrigin": "Kruidvat",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 100ml",
-  "image": "/medias/sys_master/prd-images/h54/h16/44833042858014/prd-front-5141137-1_600x600/prd-front-5141137-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdf/h61/44845237207070/prd-front-5141137-1_600x600/prd-front-5141137-1-600x600.jpg"
 }

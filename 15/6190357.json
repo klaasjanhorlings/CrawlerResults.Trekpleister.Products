@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/hcd/h70/44834455388190/prd-front-6190357-1_600x600/prd-front-6190357-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h96/h98/44843041357854/prd-front-6190357-1_600x600/prd-front-6190357-1-600x600.jpg"
 }
