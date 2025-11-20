@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Deoleen Sensitive Antitranspirant Crème",
   "code": "3453717",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "5.99",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032367",
   "productGroupId": "502129",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/deoleen-sensitive-antitranspirant-creme/p/3453717",
   "listName": "Lister",
   "brand": "Deoleen",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/he0/h2f/33130704732190/prd-front-3453717-1_600x600/prd-front-3453717-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he4/h8f/44857162170398/prd-front-3453717-1_600x600/prd-front-3453717-1-600x600.jpg"
 }

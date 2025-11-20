@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Dampo Hoestpastilles",
   "code": "21648",
-  "price": "5.69",
-  "priceOriginal": "",
+  "price": "4.27",
+  "priceOriginal": "5.69",
   "itemBgbcat": "2004 > 2094 > 2281 > 2634 > 3280 > 4181",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032285",
   "productGroupId": "495359",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,42",
   "url": "/dampo-hoestpastilles/p/21648",
   "listName": "Lister",
   "brand": "Dampo",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/h35/h0a/28548513169438/prd-front-21648-1_600x600/prd-front-21648-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h09/hf5/44857155551262/prd-front-21648-1_600x600/prd-front-21648-1-600x600.jpg"
 }

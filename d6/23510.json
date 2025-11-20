@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Paco Rabanna Lady Million Eau de Parfum",
-  "code": "6411207",
-  "price": "44.99",
+  "itemName": "Calvin Klein CK One Eau de Toilette",
+  "code": "23510",
+  "price": "28.66",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
-  "supplier": "MAINSTEIN GMBH",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/paco-rabanna-lady-million-eau-de-parfum/p/6411207",
+  "url": "/calvin-klein-ck-one-eau-de-toilette/p/23510",
   "listName": "Lister",
-  "brand": "Paco Rabanne",
+  "brand": "Calvin Klein",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hb9/h44/44589235765278/prd-front-6411207-1_600x600/prd-front-6411207-1-600x600.jpg"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h7e/h2b/28548526735390/prd-front-23510-1_600x600/prd-front-23510-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Dampo Keelpastilles",
   "code": "21649",
-  "price": "5.69",
-  "priceOriginal": "",
+  "price": "4.27",
+  "priceOriginal": "5.69",
   "itemBgbcat": "2004 > 2094 > 2281 > 2634 > 3298 > 4197",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032285",
   "productGroupId": "495359",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,42",
   "url": "/dampo-keelpastilles/p/21649",
   "listName": "Lister",
   "brand": "Dampo",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/hbe/h10/29359430041630/prd-front-21649-1_600x600/prd-front-21649-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he0/h11/44857344098334/prd-front-21649-1_600x600/prd-front-21649-1-600x600.jpg"
 }

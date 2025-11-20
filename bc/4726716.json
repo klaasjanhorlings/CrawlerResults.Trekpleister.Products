@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Neutrogena Hydro Boost Nachtcrème",
   "code": "4726716",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "14.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "KENVUE",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032236",
   "productGroupId": "481515",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/neutrogena-hydro-boost-nachtcreme/p/4726716",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -33,6 +33,5 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen + (acne) gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h43/hf1/44109814431774/prd-front-4726716-1_600x600/prd-front-4726716-1-600x600.jpg"
+  "description": "50ml - Alle huidtypen + (acne) gevoelige huid"
 }

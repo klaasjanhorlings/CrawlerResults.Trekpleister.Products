@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Natterman Voor Alle Hoest Nacht Adult",
   "code": "4552164",
-  "price": "15.49",
-  "priceOriginal": "",
+  "price": "11.62",
+  "priceOriginal": "15.49",
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032285",
   "productGroupId": "495359",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,87",
   "url": "/natterman-voor-alle-hoest-nacht-adult/p/4552164",
   "listName": "Lister",
   "brand": "Natterman",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 150ml",
-  "image": "/medias/sys_master/prd-images/hf4/hb5/32922614530078/prd-front-4552164-1_600x600/prd-front-4552164-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2c/h3a/44857356550174/prd-front-4552164-1_600x600/prd-front-4552164-1-600x600.jpg"
 }

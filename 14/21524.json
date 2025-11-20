@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Daro Thijm Siroop",
   "code": "21524",
-  "price": "9.39",
-  "priceOriginal": "",
+  "price": "7.04",
+  "priceOriginal": "9.39",
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032243",
   "productGroupId": "483141",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,35",
   "url": "/daro-thijm-siroop/p/21524",
   "listName": "Lister",
   "brand": "Daro",
@@ -37,5 +37,6 @@
       "name": "Keelsiropen"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h60/hb7/34734708424734/prd-front-21524-1_600x600/prd-front-21524-1-600x600.jpg"
 }

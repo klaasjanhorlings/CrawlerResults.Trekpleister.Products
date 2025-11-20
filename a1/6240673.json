@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032235",
   "mmkId": "3032235",
   "productGroupId": "480596",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "440ml",
-  "image": "/medias/sys_master/prd-images/h66/hdf/33762554019870/prd-front-6240673-1_600x600/prd-front-6240673-1-600x600.jpg"
+  "description": "440ml"
 }

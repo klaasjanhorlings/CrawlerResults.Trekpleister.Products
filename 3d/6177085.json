@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Weleda Granaatappel & Maca Verstevigend Serum",
   "code": "6177085",
-  "price": "30.99",
-  "priceOriginal": "",
+  "price": "23.24",
+  "priceOriginal": "30.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3032233",
   "productGroupId": "476415",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,75",
   "url": "/weleda-granaatappel-maca-verstevigend-serum/p/6177085",
   "listName": "Lister",
   "brand": "Weleda",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml - Verouderde huid"
+  "description": "30ml - Verouderde huid",
+  "image": "/medias/sys_master/prd-images/h2e/h60/33632666058782/prd-front-6177085-1_600x600/prd-front-6177085-1-600x600.jpg"
 }
