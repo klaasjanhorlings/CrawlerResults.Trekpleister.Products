@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Endless Matte 080 Love Potion Liquid Lippenstift",
-  "code": "6104782",
-  "price": "4.99",
+  "itemName": "Essence The Slim Stick 107 Hot Chili Lipstick",
+  "code": "6000566",
+  "price": "2.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-endless-matte-080-love-potion-liquid-lippenstift/p/6104782",
+  "url": "/essence-the-slim-stick-107-hot-chili-lipstick/p/6000566",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "Essence",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,6 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,5ml",
-  "image": "/medias/sys_master/prd-images/hed/h94/35011815538718/prd-front-6104782-1_600x600/prd-front-6104782-1-600x600.jpg"
+  "description": "1,7g",
+  "image": "/medias/sys_master/prd-images/h57/h18/34685714366494/prd-front-6000566-1_600x600/prd-front-6000566-1-600x600.jpg"
 }

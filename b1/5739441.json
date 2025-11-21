@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 81073392,
-      "name": "Pimple patches"
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267479,
+      "name": "Reinigingsstrips"
     }
   ],
   "description": "9 stuks",

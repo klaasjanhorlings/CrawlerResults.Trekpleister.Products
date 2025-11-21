@@ -6,7 +6,7 @@
   "price": "6.79",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
-  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "supplier": "COOPER CONSUMER HEALTH NL B.V.",
   "inStock": "inStock",
   "onPromo": "3032302",
   "mmkId": "3032302",
@@ -29,14 +29,10 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267549,
-      "name": "Vitamine C"
+      "id": 30267274,
+      "name": "Weerstand en of energie"
     }
   ],
   "description": "200 stuks",
-  "image": "/medias/sys_master/prd-images/h1c/h88/44864805568542/prd-front-1998662-1_600x600/prd-front-1998662-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5c/h85/44878845149214/prd-front-1998662-1_600x600/prd-front-1998662-1-600x600.jpg"
 }
