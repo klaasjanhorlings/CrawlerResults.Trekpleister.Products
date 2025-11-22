@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty XtendLash Booster Serum Black Mascara",
+  "code": "6317211",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-xtendlash-booster-serum-black-mascara/p/6317211",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267133,
+      "name": "Mascara"
+    }
+  ],
+  "description": "7ml",
+  "image": "/medias/sys_master/prd-images/h01/h35/34872618123294/prd-front-6317211-1_600x600/prd-front-6317211-1-600x600.jpg"
+}

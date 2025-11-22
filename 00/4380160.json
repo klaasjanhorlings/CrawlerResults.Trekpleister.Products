@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Olia 3 Donkerbruin Permanente Haarkleuring",
+  "code": "4380160",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3032292",
+  "mmkId": "3032292",
+  "productGroupId": "495831",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-olia-3-donkerbruin-permanente-haarkleuring/p/4380160",
+  "listName": "Lister",
+  "brand": "Olia",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2d/h19/44887206920222/prd-front-4380160-1_600x600/prd-front-4380160-1-600x600.jpg"
+}
