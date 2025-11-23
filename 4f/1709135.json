@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris 7.0 Dark Blonde Brow Color Wenkbrauwverf",
-  "code": "6041474",
+  "itemName": "L Oréal Paris True Match 6.N Honey Foundation",
+  "code": "1709135",
   "price": "19.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
   "onPromo": "3032293",
@@ -13,7 +13,7 @@
   "productGroupId": "495832",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-70-dark-blonde-brow-color-wenkbrauwverf/p/6041474",
+  "url": "/l-oreal-paris-true-match-6n-honey-foundation/p/1709135",
   "listName": "Lister",
   "brand": "L'Oreal",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267149,
-      "name": "Wenkbrauw make-up"
-    },
-    {
-      "id": 30267468,
-      "name": "Wenkbrauwverf"
+      "id": 30267134,
+      "name": "Foundation"
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hd4/hba/44493514080286/prd-front-6041474-1_600x600/prd-front-6041474-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0d/h3f/44449128415262/prd-front-1709135-1_600x600/prd-front-1709135-1-600x600.jpg"
 }

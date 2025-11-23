@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Liquid Camouflage 200 Anti-Red High Coverage Concealer",
-  "code": "4842230",
+  "itemName": "Catrice Diamond Treasures 020 Fairy Dust Cream to Powder Eyeshadow",
+  "code": "6344833",
   "price": "3.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-liquid-camouflage-200-anti-red-high-coverage-concealer/p/4842230",
+  "url": "/catrice-diamond-treasures-020-fairy-dust-cream-to-powder-eyeshadow/p/6344833",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267135,
-      "name": "Concealer"
+      "id": 30267153,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30267470,
+      "name": "Palette oogschaduw"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h99/hc2/33044351909918/prd-front-4842230-1_600x600/prd-front-4842230-1-600x600.jpg"
+  "description": "2,8g",
+  "image": "/medias/sys_master/prd-images/h69/h9f/35011815211038/prd-front-6344833-1_600x600/prd-front-6344833-1-600x600.jpg"
 }

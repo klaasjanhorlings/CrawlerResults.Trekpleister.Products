@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris True Match Radiant 1N Serum Concealer",
-  "code": "6035363",
-  "price": "15.99",
+  "itemName": "Catrice 005 Light Natural Liquid Camouflage Concealer",
+  "code": "3651999",
+  "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
-  "supplier": "L'OREAL MAKE-UP",
+  "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/loreal-paris-true-match-radiant-1n-serum-concealer/p/6035363",
+  "url": "/catrice-005-light-natural-liquid-camouflage-concealer/p/3651999",
   "listName": "Lister",
-  "brand": "L'Oreal",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "11ml",
-  "image": "/medias/sys_master/prd-images/hd1/h49/35066626736158/prd-front-6035363-1_600x600/prd-front-6035363-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbc/h23/33038612824094/prd-front-3651999-1_600x600/prd-front-3651999-1-600x600.jpg"
 }
