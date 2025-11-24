@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Deoleen 0% Sensitive Deodorant Roller",
   "code": "5135446",
-  "price": "5.99",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032367",
-  "mmkId": "3032367",
-  "productGroupId": "502129",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/deoleen-0-sensitive-deodorant-roller/p/5135446",
   "listName": "Lister",
   "brand": "Deoleen",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h52/hf3/44907883167774/prd-front-5135446-1_600x600/prd-front-5135446-1-600x600.jpg"
 }

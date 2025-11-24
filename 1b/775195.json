@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ferrero Rocher Diamant",
+  "code": "775195",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3694",
+  "supplier": "FERRERO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ferrero-rocher-diamant/p/775195",
+  "listName": "Lister",
+  "brand": "Ferrero",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267591,
+      "name": "Kerstsnoep"
+    }
+  ],
+  "description": "300g, 24st",
+  "image": "/medias/prd-front-775195-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTMxNDQ3fGltYWdlL2pwZWd8YURObUwyZ3hOaTh4TmpVMU5qWTBOREl6TnpNME1pOXdjbVF0Wm5KdmJuUXROemMxTVRrMUxURmZOakF3ZURZd01BfDZiNWNjOThhYjViMDI2MzM5YjZjNzMyNWExNTQ2ZmM5YjZhZDBiZjljNjRjM2JmMDhiZDYwNTMwYzU0NTQ2NzU"
+}

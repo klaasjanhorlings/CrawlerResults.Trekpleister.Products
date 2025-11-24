@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Midalgan Extra Warm + Magnesium Spierwrijfmiddel",
   "code": "4967082",
-  "price": "10.49",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3032243",
-  "mmkId": "3032243",
-  "productGroupId": "483141",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,50",
+  "discount": "",
   "url": "/midalgan-extra-warm-magnesium-spierwrijfmiddel/p/4967082",
   "listName": "Lister",
   "brand": "Midalgan",
@@ -37,5 +37,6 @@
       "name": "Spierwrijfmiddelen"
     }
   ],
-  "description": "60g"
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/h94/he1/34734715600926/prd-front-4967082-1_600x600/prd-front-4967082-1-600x600.jpg"
 }

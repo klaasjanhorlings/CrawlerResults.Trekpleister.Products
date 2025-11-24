@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3032257",
-  "mmkId": "3032257",
-  "productGroupId": "489434",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-ibiza-flow-body-butter/p/4773637",
@@ -33,5 +33,6 @@
       "name": "Bodybutter"
     }
   ],
-  "description": "225g"
+  "description": "225g",
+  "image": "/medias/sys_master/prd-images/h27/h5f/28760094441502/prd-front-4773637-1_600x600/prd-front-4773637-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "VSM Arniflor Eerste Hulp Gel",
   "code": "2524831",
-  "price": "11.89",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "HEEL BIOLOGISCHE GENEES",
   "inStock": "inStock",
-  "onPromo": "3032241",
-  "mmkId": "3032241",
-  "productGroupId": "482873",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,10",
+  "discount": "",
   "url": "/vsm-arniflor-eerste-hulp-gel/p/2524831",
   "listName": "Lister",
   "brand": "VSM",
@@ -37,5 +37,6 @@
       "name": "Eerste hulp zalf"
     }
   ],
-  "description": "75g"
+  "description": "75g",
+  "image": "/medias/sys_master/prd-images/hcb/h1c/34768170876958/prd-front-2524831-1_600x600/prd-front-2524831-1-600x600.jpg"
 }

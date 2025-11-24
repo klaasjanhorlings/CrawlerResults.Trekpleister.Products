@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Deoleen Regular Antitranspirant Pompspray",
   "code": "30623",
-  "price": "6.82",
-  "priceOriginal": "9.09",
+  "price": "9.09",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3067 > 3681",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032367",
-  "mmkId": "3032367",
-  "productGroupId": "502129",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,27",
+  "discount": "",
   "url": "/deoleen-regular-antitranspirant-pompspray/p/30623",
   "listName": "Lister",
   "brand": "Deoleen",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h93/h95/44896044613662/prd-front-30623-1_600x600/prd-front-30623-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdb/h3c/44907279876126/prd-front-30623-1_600x600/prd-front-30623-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Deoleen Sensitive Antitranspirant Roller",
   "code": "3453822",
-  "price": "5.99",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3675",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032367",
-  "mmkId": "3032367",
-  "productGroupId": "502129",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/deoleen-sensitive-antitranspirant-roller/p/3453822",
   "listName": "Lister",
   "brand": "Deoleen",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h17/h2b/44899428827166/prd-front-3453822-1_600x600/prd-front-3453822-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h28/h30/44909467303966/prd-front-3453822-1_600x600/prd-front-3453822-1-600x600.jpg"
 }

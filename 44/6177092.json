@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Skin Food Voedende Dagcrème",
   "code": "6177092",
-  "price": "13.49",
-  "priceOriginal": "17.99",
+  "price": "17.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "3032233",
-  "mmkId": "3032233",
-  "productGroupId": "476415",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,50",
+  "discount": "",
   "url": "/weleda-skin-food-voedende-dagcreme/p/6177092",
   "listName": "Lister",
   "brand": "Weleda",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "40ml - Normale tot droge huid"
+  "description": "40ml - Normale tot droge huid",
+  "image": "/medias/sys_master/prd-images/h70/hc7/32173797048350/prd-front-6177092-1_600x600/prd-front-6177092-1-600x600.jpg"
 }

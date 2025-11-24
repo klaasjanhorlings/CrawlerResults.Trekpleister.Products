@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032262",
-  "mmkId": "3032262",
-  "productGroupId": "489632",
+  "onPromo": "3032505",
+  "mmkId": "3032505",
+  "productGroupId": "498029",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-mencare-cool-fresh-douchegel/p/3674672",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h4b/h3a/33614837547038/prd-front-3674672-1_600x600/prd-front-3674672-1-600x600.jpg"
 }

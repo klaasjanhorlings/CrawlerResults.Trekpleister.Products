@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dampo Kids Alle Hoest + Vrije Luchtwegen Nacht Kindersiroop",
   "code": "5143657",
-  "price": "8.39",
-  "priceOriginal": "11.19",
+  "price": "11.19",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3510",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032285",
-  "mmkId": "3032285",
-  "productGroupId": "495359",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,80",
+  "discount": "",
   "url": "/dampo-kids-alle-hoest-vrije-luchtwegen-nacht-kindersiroop/p/5143657",
   "listName": "Lister",
   "brand": "Dampo",
@@ -37,6 +37,5 @@
       "name": "Hoestsiropen"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml",
-  "image": "/medias/sys_master/prd-images/ha2/h07/44895614238750/prd-front-5143657-1_600x600/prd-front-5143657-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 100ml"
 }

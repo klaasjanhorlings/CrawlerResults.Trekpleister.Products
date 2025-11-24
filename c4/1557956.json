@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Dream Radiant 40 Fawn Liquid Foundation",
   "code": "1557956",
-  "price": "18.99",
-  "priceOriginal": "",
+  "price": "9.0",
+  "priceOriginal": "18.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "outOfStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032562",
+  "mmkId": "3032562",
+  "productGroupId": "506384",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,99",
   "url": "/maybelline-new-york-dream-radiant-40-fawn-liquid-foundation/p/1557956",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h9b/hc4/44653345374238/prd-front-1557956-1_600x600/prd-front-1557956-1-600x600.jpg"
+  "description": "30ml"
 }

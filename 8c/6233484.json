@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Palette oogschaduw"
     }
   ],
-  "description": "4,2g"
+  "description": "4,2g",
+  "image": "/medias/sys_master/prd-images/hc7/h5f/33045198077982/prd-front-6233484-1_600x600/prd-front-6233484-1-600x600.jpg"
 }

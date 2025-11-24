@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032610",
+  "mmkId": "3032610",
+  "productGroupId": "508433",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cb12-white-mondwater/p/4369240",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hfc/h2b/44895428640798/prd-front-4369240-1_600x600/prd-front-4369240-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf7/h72/44906307420190/prd-front-4369240-1_600x600/prd-front-4369240-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "PHARCONA GMBH",
   "inStock": "inStock",
-  "onPromo": "3032308",
-  "mmkId": "3032308",
-  "productGroupId": "498351",
+  "onPromo": "3032634",
+  "mmkId": "3032634",
+  "productGroupId": "511699",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-tea-tree-wasgel/p/4812725",
@@ -37,5 +37,6 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h22/h9f/34455708729374/prd-front-4812725-1_600x600/prd-front-4812725-1-600x600.jpg"
 }

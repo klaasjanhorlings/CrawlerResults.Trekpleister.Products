@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3032322",
-  "mmkId": "3032322",
-  "productGroupId": "500012",
+  "onPromo": "3032388",
+  "mmkId": "3032388",
+  "productGroupId": "294599",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamine-d3-75ug-kauwtabletten/p/6164772",
@@ -37,5 +37,6 @@
       "name": "Vitamine D"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/he9/h60/32494986723358/prd-front-6164772-1_600x600/prd-front-6164772-1-600x600.jpg"
 }

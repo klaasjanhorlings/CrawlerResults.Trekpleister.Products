@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ferrero Rocher Geschenkbox",
+  "code": "3209067",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 4009",
+  "supplier": "FERRERO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ferrero-rocher-geschenkbox/p/3209067",
+  "listName": "Lister",
+  "brand": "Ferrero",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267585,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107467260,
+      "name": "Chocoladegeschenken"
+    }
+  ],
+  "description": "225g",
+  "image": "/medias/prd-front-3209067-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTk1OTJ8aW1hZ2UvanBlZ3xhRE5rTDJnNU1pOHhOalUxTWpBNU9UQTROak0yTmk5d2NtUXRabkp2Ym5RdE16SXdPVEEyTnkweFh6WXdNSGcyTURBfGFlNzY4MjBjNTU5M2MyZGQ5YmNmODgwODQ2NjEyNTI0OWFkNjE5NjI2YzNhMzcwZmNlZDczYjE0YTg0ODkxYWM"
+}

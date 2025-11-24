@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 4226",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3032227",
-  "mmkId": "3032227",
-  "productGroupId": "473518",
+  "onPromo": "3032538",
+  "mmkId": "3032538",
+  "productGroupId": "503022",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-verfrissende-tonic/p/1306362",
@@ -37,5 +37,6 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h21/h7d/35136842137630/prd-front-1306362-1_600x600/prd-front-1306362-1-600x600.jpg"
 }

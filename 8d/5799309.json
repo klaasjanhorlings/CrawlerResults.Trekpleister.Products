@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Loving Blends Kokosmelk & Macadamia Haarmasker",
   "code": "5799309",
-  "price": "8.49",
-  "priceOriginal": "",
+  "price": "4.25",
+  "priceOriginal": "8.49",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3032365",
-  "mmkId": "3032365",
-  "productGroupId": "502064",
+  "inStock": "outOfStock",
+  "onPromo": "3032573",
+  "mmkId": "3032573",
+  "productGroupId": "506513",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,24",
   "url": "/garnier-loving-blends-kokosmelk-macadamia-haarmasker/p/5799309",
   "listName": "Lister",
   "brand": "Loving Blends",
@@ -33,6 +33,5 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "340ml",
-  "image": "/medias/sys_master/prd-images/h95/h8e/29798402064414/prd-front-5799309-1_600x600/prd-front-5799309-1-600x600.jpg"
+  "description": "340ml"
 }

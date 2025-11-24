@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3032224",
-  "mmkId": "3032224",
-  "productGroupId": "472693",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-kindersiroop/p/2927086",
@@ -37,5 +37,6 @@
       "name": "Keelsiropen"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hfa/h24/29033985966110/prd-front-2927086-1_600x600/prd-front-2927086-1-600x600.jpg"
 }

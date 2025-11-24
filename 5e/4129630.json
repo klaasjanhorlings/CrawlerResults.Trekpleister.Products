@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Elvive Extraordinary Oil Fijne Kokosolie 2-In-1 Haarmasker",
   "code": "4129630",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "4.99",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032293",
-  "mmkId": "3032293",
-  "productGroupId": "495832",
+  "onPromo": "3032573",
+  "mmkId": "3032573",
+  "productGroupId": "506513",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/loreal-paris-elvive-extraordinary-oil-fijne-kokosolie-2-in-1-haarmasker/p/4129630",
   "listName": "Lister",
   "brand": "Elvive",
@@ -33,6 +33,5 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h53/hf2/33043616202782/prd-front-4129630-1_600x600/prd-front-4129630-1-600x600.jpg"
+  "description": "300ml"
 }

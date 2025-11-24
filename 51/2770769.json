@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032293",
-  "mmkId": "3032293",
-  "productGroupId": "495832",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-men-expert-hydra-energetic-intens-hydraterende-gezichtsgel/p/2770769",
@@ -33,5 +33,6 @@
       "name": "Gezichtscreme mannen"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h71/h49/33745735614494/prd-front-2770769-1_600x600/prd-front-2770769-1-600x600.jpg"
 }

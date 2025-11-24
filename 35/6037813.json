@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tena Men Wasbare Boxershort",
   "code": "6037813",
-  "price": "13.97",
-  "priceOriginal": "27.95",
+  "price": "27.95",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3032326",
-  "mmkId": "3032326",
-  "productGroupId": "500216",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 13,98",
+  "discount": "",
   "url": "/tena-men-wasbare-boxershort/p/6037813",
   "listName": "Lister",
   "brand": "Tena",
@@ -37,5 +37,6 @@
       "name": "Incontinentiebroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - mt XL"
+  "description": "Medisch hulpmiddel - mt XL",
+  "image": "/medias/sys_master/prd-images/h5f/h3a/34415914942494/prd-front-6037813-1_600x600/prd-front-6037813-1-600x600.jpg"
 }

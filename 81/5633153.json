@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032550",
+  "mmkId": "3032550",
+  "productGroupId": "503810",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-100-natural-jasmine-ho-wood-deodorant-balm/p/5633153",
@@ -33,6 +33,5 @@
       "name": "Deodorant creme"
     }
   ],
-  "description": "45g",
-  "image": "/medias/sys_master/prd-images/hcf/h3c/34756881809438/prd-front-5633153-1_600x600/prd-front-5633153-1-600x600.jpg"
+  "description": "45g"
 }

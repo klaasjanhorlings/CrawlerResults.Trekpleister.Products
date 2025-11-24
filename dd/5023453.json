@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Zadig & Voltaire This Is Her! Eau de Parfum",
   "code": "5023453",
-  "price": "34.99",
-  "priceOriginal": "",
+  "price": "31.99",
+  "priceOriginal": "34.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "K!CK TRADING BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/zadig-voltaire-this-is-her-eau-de-parfum/p/5023453",
   "listName": "Lister",
   "brand": "Zadig & Voltaire",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hcd/hdf/28765742366750/prd-front-5023453-1_600x600/prd-front-5023453-1-600x600.jpg"
+  "description": "30ml"
 }

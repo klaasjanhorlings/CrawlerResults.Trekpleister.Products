@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 2884 > 4077",
   "supplier": "RB HYGIENE HOME NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "228ml"
+  "description": "228ml",
+  "image": "/medias/sys_master/prd-images/h3f/hbf/44565301035038/prd-front-5954618-1_600x600/prd-front-5954618-1-600x600.jpg"
 }

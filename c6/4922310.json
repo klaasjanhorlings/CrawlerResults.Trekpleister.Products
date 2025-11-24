@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Q10 Power +Extra Voedende Anti-Rimpel Dagcrème",
   "code": "4922310",
-  "price": "27.49",
-  "priceOriginal": "",
+  "price": "11.0",
+  "priceOriginal": "27.49",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3032227",
-  "mmkId": "3032227",
-  "productGroupId": "473518",
+  "onPromo": "3032539",
+  "mmkId": "3032539",
+  "productGroupId": "503042",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 16,49",
   "url": "/nivea-q10-power-extra-voedende-anti-rimpel-dagcreme/p/4922310",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Droge huid"
+  "description": "50ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h72/he3/35129716146206/prd-front-4922310-1_600x600/prd-front-4922310-1-600x600.jpg"
 }

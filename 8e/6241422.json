@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Pampers Baby-Dry Pants Maat 4 Luierbroekjes",
   "code": "6241422",
-  "price": "67.99",
-  "priceOriginal": "",
+  "price": "35.0",
+  "priceOriginal": "67.99",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3032348",
-  "mmkId": "3032348",
-  "productGroupId": "501577",
+  "onPromo": "3032660",
+  "mmkId": "3032660",
+  "productGroupId": "506496",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 32,99",
   "url": "/pampers-baby-dry-pants-maat-4-luierbroekjes/p/6241422",
   "listName": "Lister",
   "brand": "Pampers",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 4"
     }
   ],
-  "description": "mt 4 (9-15kg), 124 stuks"
+  "description": "mt 4 (9-15kg), 124 stuks",
+  "image": "/medias/sys_master/prd-images/h48/hf2/34797006422046/prd-front-6241422-1_600x600/prd-front-6241422-1-600x600.jpg"
 }

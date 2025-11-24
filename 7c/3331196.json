@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3032246",
-  "mmkId": "3032246",
-  "productGroupId": "484898",
+  "onPromo": "3032487",
+  "mmkId": "3032487",
+  "productGroupId": "484916",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/john-frieda-frizz-ease-air-dry-waves-styling-mousse/p/3331196",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/he3/h28/28817476681758/prd-front-3331196-1_600x600/prd-front-3331196-1-600x600.jpg"
 }

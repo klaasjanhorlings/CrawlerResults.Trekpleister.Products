@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Deoleen 0% Sensitive Deodorant Spray",
   "code": "5232998",
-  "price": "6.74",
-  "priceOriginal": "8.99",
+  "price": "8.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032367",
-  "mmkId": "3032367",
-  "productGroupId": "502129",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,25",
+  "discount": "",
   "url": "/deoleen-0-sensitive-deodorant-spray/p/5232998",
   "listName": "Lister",
   "brand": "Deoleen",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml - Deodorant",
-  "image": "/medias/sys_master/prd-images/hb9/hd0/44900988157982/prd-front-5232998-1_600x600/prd-front-5232998-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h50/h4c/44910824161310/prd-front-5232998-1_600x600/prd-front-5232998-1-600x600.jpg"
 }

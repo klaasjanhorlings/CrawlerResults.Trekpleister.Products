@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tommy Hilfiger Tommy Girl Now Eau de Toilette",
   "code": "5756843",
-  "price": "16.49",
-  "priceOriginal": "21.99",
+  "price": "21.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "3032346",
-  "mmkId": "3032346",
-  "productGroupId": "501371",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,50",
+  "discount": "",
   "url": "/tommy-hilfiger-tommy-girl-now-eau-de-toilette/p/5756843",
   "listName": "Lister",
   "brand": "Tommy Hilfiger",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hba/h37/29831364673566/prd-front-5756843-1_600x600/prd-front-5756843-1-600x600.jpg"
+  "description": "30ml"
 }

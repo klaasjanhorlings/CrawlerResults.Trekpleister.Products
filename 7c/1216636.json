@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032341",
-  "mmkId": "3032341",
-  "productGroupId": "501060",
+  "onPromo": "3032589",
+  "mmkId": "3032589",
+  "productGroupId": "508228",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/prodent-fresh-gel-tandpasta/p/1216636",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hbb/hb9/44447564988446/prd-front-1216636-1_600x600/prd-front-1216636-1-600x600.jpg"
 }

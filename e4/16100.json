@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3679",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032515",
+  "mmkId": "3032515",
+  "productGroupId": "499402",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sebamed-douchegel/p/16100",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml - Zeepvrij",
-  "image": "/medias/sys_master/prd-images/h6d/h21/44895428313118/prd-front-16100-1_600x600/prd-front-16100-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h18/h66/44906307092510/prd-front-16100-1_600x600/prd-front-16100-1-600x600.jpg"
 }

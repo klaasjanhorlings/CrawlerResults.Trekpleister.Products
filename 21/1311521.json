@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3032370",
-  "mmkId": "3032370",
-  "productGroupId": "502684",
+  "onPromo": "3032528",
+  "mmkId": "3032528",
+  "productGroupId": "500964",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-unlimited-hold-level-7-haargel/p/1311521",
@@ -33,6 +33,5 @@
       "name": "Haargel"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/ha1/hab/33760112508958/prd-front-1311521-1_600x600/prd-front-1311521-1-600x600.jpg"
+  "description": "300ml"
 }

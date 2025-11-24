@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister G-8808 Tondeuse",
+  "code": "5295690",
+  "price": "7.99",
+  "priceOriginal": "14.99",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6715",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "3032638",
+  "mmkId": "3032638",
+  "productGroupId": "512237",
+  "brandType": "Eigen merk",
+  "discount": "€ 7,00",
+  "url": "/trekpleister-g-8808-tondeuse/p/5295690",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267243,
+      "name": "Baardtrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcb/hf1/29275294367774/prd-front-5295690-1_600x600/prd-front-5295690-1-600x600.jpg"
+}

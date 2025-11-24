@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Trekpleister Everfree Mini Plus Incontinentieverband",
   "code": "503734",
-  "price": "2.49",
-  "priceOriginal": "",
+  "price": "2.0",
+  "priceOriginal": "2.49",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "EUROFIL SRL",
   "inStock": "inStock",
-  "onPromo": "3032388",
-  "mmkId": "3032388",
-  "productGroupId": "294599",
+  "onPromo": "3032483",
+  "mmkId": "3032483",
+  "productGroupId": "483558",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 0,49",
   "url": "/trekpleister-everfree-mini-plus-incontinentieverband/p/503734",
   "listName": "Lister",
   "brand": "Trekpleister",
@@ -37,5 +37,6 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "Medisch hulpmiddel - 16 stuks"
+  "description": "Medisch hulpmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/hef/h92/28549338923038/prd-front-503734-1_600x600/prd-front-503734-1-600x600.jpg"
 }

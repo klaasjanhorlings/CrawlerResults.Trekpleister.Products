@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032306",
-  "mmkId": "3032306",
-  "productGroupId": "497549",
+  "onPromo": "3032503",
+  "mmkId": "3032503",
+  "productGroupId": "497551",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-post-overgangbalans-tabletten/p/6392251",
@@ -33,5 +33,6 @@
       "name": "Overgang"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h6b/hf3/44377981026334/prd-front-6392251-1_600x600/prd-front-6392251-1-600x600.jpg"
 }

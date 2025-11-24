@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032565",
+  "mmkId": "3032565",
+  "productGroupId": "506391",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-colour-elixir-velvet-matte-35-marilyn-love-lipstick/p/3995692",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h16/hd3/31158919397406/prd-front-3995692-1_600x600/prd-front-3995692-1-600x600.jpg"
 }

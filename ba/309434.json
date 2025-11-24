@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 3324 > 4227",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032609",
+  "mmkId": "3032609",
+  "productGroupId": "508423",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jordan-double-ended-extra-thin-tandenstokers/p/309434",
@@ -33,6 +33,5 @@
       "name": "Tandenstokers"
     }
   ],
-  "description": "105 stuks",
-  "image": "/medias/sys_master/prd-images/hc5/h8f/28549328535582/prd-front-309434-1_600x600/prd-front-309434-1-600x600.jpg"
+  "description": "105 stuks"
 }

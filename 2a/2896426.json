@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2933 > 3728",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032293",
-  "mmkId": "3032293",
-  "productGroupId": "495832",
+  "onPromo": "3032571",
+  "mmkId": "3032571",
+  "productGroupId": "506498",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-studio-line-essentials-go-create-precise-super-strong-gelspray/p/2896426",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/ha8/hf3/28547552083998/prd-front-2896426-1_600x600/prd-front-2896426-1-600x600.jpg"
 }

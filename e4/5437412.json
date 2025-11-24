@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olvarit 18+M Maaltijd Variatiemenu",
   "code": "5437412",
-  "price": "20.88",
-  "priceOriginal": "",
+  "price": "15.0",
+  "priceOriginal": "20.88",
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 3025 > 3850",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032622",
+  "mmkId": "3032622",
+  "productGroupId": "510067",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,88",
   "url": "/olvarit-18m-maaltijd-variatiemenu/p/5437412",
   "listName": "Lister",
   "brand": "Olvarit",
@@ -37,6 +37,5 @@
       "name": "18+ maanden"
     }
   ],
-  "description": "12 x 250g",
-  "image": "/medias/sys_master/prd-images/hb1/hde/30690312880158/prd-front-5437412-1_600x600/prd-front-5437412-1-600x600.jpg"
+  "description": "12 x 250g"
 }

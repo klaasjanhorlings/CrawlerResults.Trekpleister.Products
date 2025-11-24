@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 4324 > 4325 > 4326",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "3032280",
-  "mmkId": "3032280",
-  "productGroupId": "494211",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-kids-detangling-spray/p/6378118",
@@ -37,5 +37,6 @@
       "name": "Baby haarlotion"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h71/h6e/44631918739486/prd-front-6378118-1_600x600/prd-front-6378118-1-600x600.jpg"
 }

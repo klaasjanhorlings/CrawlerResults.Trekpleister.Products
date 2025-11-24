@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Carmen CR3200 Satin Straight Stijltang",
+  "code": "4235407",
+  "price": "15.99",
+  "priceOriginal": "34.99",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6426",
+  "supplier": "INVENTUM HUISHOUDELIJKE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 19,00",
+  "url": "/carmen-cr3200-satin-straight-stijltang/p/4235407",
+  "listName": "Lister",
+  "brand": "Carmen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267494,
+      "name": "Stijltangen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4235407-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTU3Mzh8aW1hZ2UvanBlZ3xhR014TDJnMlppOHhOak0yTURjNE16YzBNRGsxT0M5d2NtUXRabkp2Ym5RdE5ESXpOVFF3TnkweFh6WXdNSGcyTURBfDI3YzFiMjVmYTIxMjY0NTAxNjI4Y2FjNmY3M2MxY2NhMjA5NTJhODdlZGMxYmExZDU1MzdmZWYyZTJiMmVlZWE"
+}

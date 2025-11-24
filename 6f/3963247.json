@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3032388",
-  "mmkId": "3032388",
-  "productGroupId": "294599",
+  "onPromo": "3032616",
+  "mmkId": "3032616",
+  "productGroupId": "509462",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-magnesium-nacht-tabletten/p/3963247",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h01/h93/29580466126878/prd-front-3963247-1_600x600/prd-front-3963247-1-600x600.jpg"
 }

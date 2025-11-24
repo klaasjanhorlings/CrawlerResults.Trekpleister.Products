@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dampo Adem Vrij Pastilles",
   "code": "2351217",
-  "price": "4.27",
-  "priceOriginal": "5.69",
+  "price": "5.69",
+  "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2634 > 3298 > 4197",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032285",
-  "mmkId": "3032285",
-  "productGroupId": "495359",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,42",
+  "discount": "",
   "url": "/dampo-adem-vrij-pastilles/p/2351217",
   "listName": "Lister",
   "brand": "Dampo",
@@ -37,5 +37,6 @@
       "name": "Keelpastilles"
     }
   ],
-  "description": "24 stuks"
+  "description": "24 stuks",
+  "image": "/medias/prd-front-2351217-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODg3NzB8aW1hZ2UvanBlZ3xhRFF6TDJoa09TOHhOalUxTWpNeU9ETTJOREEyTWk5d2NtUXRabkp2Ym5RdE1qTTFNVEl4TnkweFh6WXdNSGcyTURBfGIwZDExYTU1ODM2YzAwNGY5YTcwMDE4ODdkZjQzNGNiMzg5OTE5OGRhZGIwYzE5NDFmMWMwOTI4YzVjOWE3MDQ"
 }

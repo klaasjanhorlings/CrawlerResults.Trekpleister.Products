@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "DALLI - WERKE GMBH & CO",
   "inStock": "inStock",
-  "onPromo": "3032388",
-  "mmkId": "3032388",
-  "productGroupId": "294599",
+  "onPromo": "3032635",
+  "mmkId": "3032635",
+  "productGroupId": "511756",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-high-spf50-sunmilk/p/1863401",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/haf/h81/29999161475102/prd-front-1863401-1_600x600/prd-front-1863401-1-600x600.jpg"
 }

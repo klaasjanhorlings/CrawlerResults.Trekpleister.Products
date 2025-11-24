@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032605",
+  "mmkId": "3032605",
+  "productGroupId": "508404",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-sonicare-premium-all-in-one-hx9092/88-opzetborstels/p/6298262",
@@ -33,6 +33,5 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "zwart, 2 stuks",
-  "image": "/medias/sys_master/prd-images/hed/hd8/35029839740958/prd-front-6298262-1_600x600/prd-front-6298262-1-600x600.jpg"
+  "description": "zwart, 2 stuks"
 }

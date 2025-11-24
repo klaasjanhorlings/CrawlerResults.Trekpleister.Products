@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3032324",
-  "mmkId": "3032324",
-  "productGroupId": "500210",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/libresse-so-slim-inlegkruisjes/p/991733",
@@ -33,6 +33,5 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "32 stuks",
-  "image": "/medias/sys_master/prd-images/hff/h52/28575679250462/prd-front-991733-1_600x600/prd-front-991733-1-600x600.jpg"
+  "description": "32 stuks"
 }

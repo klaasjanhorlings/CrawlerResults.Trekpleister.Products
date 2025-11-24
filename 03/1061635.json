@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032293",
-  "mmkId": "3032293",
-  "productGroupId": "495832",
+  "onPromo": "3032571",
+  "mmkId": "3032571",
+  "productGroupId": "506498",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-studio-line-indestructible-extreme-fixatie-gel/p/1061635",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h2a/hcd/28549772771358/prd-front-1061635-1_600x600/prd-front-1061635-1-600x600.jpg"
 }

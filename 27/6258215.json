@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3112 > 3978",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3032316",
-  "mmkId": "3032316",
-  "productGroupId": "499348",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/swiffer-clean-fresh-droge-vloerdoekjes-navullingen/p/6258215",
@@ -33,5 +33,6 @@
       "name": "Dweilen en vloerwissers"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h57/hb0/34103448567838/prd-front-6258215-1_600x600/prd-front-6258215-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "BMEDCARE BV",
   "inStock": "inStock",
-  "onPromo": "3032335",
-  "mmkId": "3032335",
-  "productGroupId": "500933",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lactona-easydent-b-31/80-mm-ragers/p/5745419",
@@ -33,6 +33,5 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "8 stuks",
-  "image": "/medias/prd-front-5745419-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODY2NDN8aW1hZ2UvanBlZ3xhRE5oTDJnM1l5OHhOelV5TkRVME1qSTBNamcwTmk5d2NtUXRabkp2Ym5RdE5UYzBOVFF4T1MweFh6WXdNSGcyTURBfDA5ZGFmN2NlODU5YzkxODFjNWNlNWY0YjllZmVkMWIxMzg1M2JhMzMxNDUyMmYwY2I4MmY3ZmNlMDhkMGE5YmI"
+  "description": "8 stuks"
 }

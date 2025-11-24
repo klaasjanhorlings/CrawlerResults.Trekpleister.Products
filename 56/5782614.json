@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tweezerman Slant Tweezer",
   "code": "5782614",
-  "price": "27.99",
-  "priceOriginal": "",
+  "price": "14.0",
+  "priceOriginal": "27.99",
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6329",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032469",
+  "mmkId": "3032469",
+  "productGroupId": "464136",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 13,99",
   "url": "/tweezerman-slant-tweezer/p/5782614",
   "listName": "Lister",
   "brand": "Tweezerman",
@@ -33,6 +33,5 @@
       "name": "Pincetten"
     }
   ],
-  "description": "roségoud",
-  "image": "/medias/prd-front-5782614-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzEwNzB8aW1hZ2UvanBlZ3xhRGM1TDJobVlpOHhOekl3TkRBd01qVTROalkxTkM5d2NtUXRabkp2Ym5RdE5UYzRNall4TkMweFh6WXdNSGcyTURBfDM3YjYzMjBmOTJkMTcwMWZjNDlhMTJmOTM5NjNkMmM4Y2NhYTdiMjZkMjhmY2I2YjRiNTQwMjRhODhmZWFhNGE"
+  "description": "roségoud"
 }

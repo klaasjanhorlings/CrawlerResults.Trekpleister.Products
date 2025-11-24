@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Wilkinson Sword Xtreme 3 Sensitive Wegwerpscheermesjes",
   "code": "134384",
-  "price": "4.35",
-  "priceOriginal": "6.69",
+  "price": "6.69",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3870",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
-  "onPromo": "3032284",
-  "mmkId": "3032284",
-  "productGroupId": "494843",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,34",
+  "discount": "",
   "url": "/wilkinson-sword-xtreme-3-sensitive-wegwerpscheermesjes/p/134384",
   "listName": "Lister",
   "brand": "Wilkinson Sword",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "6 stuks",
-  "image": "/medias/sys_master/prd-images/hc8/h2d/28549319688222/prd-front-134384-1_600x600/prd-front-134384-1-600x600.jpg"
+  "description": "6 stuks"
 }

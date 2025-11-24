@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6228 > 6318",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032302",
-  "mmkId": "3032302",
-  "productGroupId": "497404",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/roter-cranberry-vitamine-c-en-echinacea-tabletten/p/300477",
@@ -37,5 +37,6 @@
       "name": "Vitamine C"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h1f/h04/33155721101342/prd-front-300477-1_600x600/prd-front-300477-1-600x600.jpg"
 }

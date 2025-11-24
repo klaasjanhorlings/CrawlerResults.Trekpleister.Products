@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Perspirex Original Deodorant Roller",
   "code": "4192217",
-  "price": "9.74",
-  "priceOriginal": "12.99",
+  "price": "12.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "REMARK GROEP",
   "inStock": "outOfStock",
-  "onPromo": "3032367",
-  "mmkId": "3032367",
-  "productGroupId": "502129",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,25",
+  "discount": "",
   "url": "/perspirex-original-deodorant-roller/p/4192217",
   "listName": "Lister",
   "brand": "Perspirex",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h02/h1d/28550021021726/prd-front-4192217-1_600x600/prd-front-4192217-1-600x600.jpg"
 }

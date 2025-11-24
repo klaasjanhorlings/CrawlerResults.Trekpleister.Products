@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 2920 > 3715",
   "supplier": "CAMPS FOOD BV",
   "inStock": "inStock",
-  "onPromo": "3032217",
-  "mmkId": "3032217",
-  "productGroupId": "457038",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ellas-kitchen-4m-pruimen-eerste-hapje/p/4168011",
@@ -37,6 +37,5 @@
       "name": "4 maanden +"
     }
   ],
-  "description": "70g",
-  "image": "/medias/sys_master/prd-images/h25/hfc/28590514274334/prd-front-4168011-1_600x600/prd-front-4168011-1-600x600.jpg"
+  "description": "70g"
 }

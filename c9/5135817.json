@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Deoleen Sensitive Antitranspirant met Pomp",
   "code": "5135817",
-  "price": "6.82",
-  "priceOriginal": "9.09",
+  "price": "9.09",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3067 > 3681",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032367",
-  "mmkId": "3032367",
-  "productGroupId": "502129",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,27",
+  "discount": "",
   "url": "/deoleen-sensitive-antitranspirant-met-pomp/p/5135817",
   "listName": "Lister",
   "brand": "Deoleen",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h8f/hac/44899435282462/prd-front-5135817-1_600x600/prd-front-5135817-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2c/h97/44909471891486/prd-front-5135817-1_600x600/prd-front-5135817-1-600x600.jpg"
 }

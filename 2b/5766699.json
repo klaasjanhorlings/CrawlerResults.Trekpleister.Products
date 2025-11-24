@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032481",
+  "mmkId": "3032481",
+  "productGroupId": "482899",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-verkoelende-lotion-bij-waterpokken/p/5766699",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb9/h85/31583153422366/prd-front-5766699-1_600x600/prd-front-5766699-1-600x600.jpg"
 }

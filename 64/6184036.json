@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3755",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3032296",
-  "mmkId": "3032296",
-  "productGroupId": "496330",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tampax-compak-super-plus-tampons-met-inbrenghuls/p/6184036",
@@ -33,6 +33,5 @@
       "name": "Tampons"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/h79/h21/33759603916830/prd-front-6184036-1_600x600/prd-front-6184036-1-600x600.jpg"
+  "description": "24 stuks"
 }

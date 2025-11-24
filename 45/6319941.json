@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hatchimals Alive! Pufficorn Mystery Hatch",
+  "code": "6319941",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2183 > 5177 > 5271 > 5460",
+  "supplier": "SPIN MASTER INT. SARL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hatchimals-alive-pufficorn-mystery-hatch/p/6319941",
+  "listName": "Lister",
+  "brand": "Hatchimals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267080,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7e/h9f/44198332432414/prd-front-6319941-1_600x600/prd-front-6319941-1-600x600.jpg"
+}

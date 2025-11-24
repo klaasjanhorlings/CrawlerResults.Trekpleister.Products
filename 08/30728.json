@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3032257",
-  "mmkId": "3032257",
-  "productGroupId": "489434",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-sensitive-antitranspirant-cream/p/30728",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h59/h23/29338320076830/prd-front-30728-1_600x600/prd-front-30728-1-600x600.jpg"
 }

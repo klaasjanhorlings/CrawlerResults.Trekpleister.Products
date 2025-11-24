@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032565",
+  "mmkId": "3032565",
+  "productGroupId": "506391",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-lipfinity-lip-colour-120-hot-2-step-longlasting-lipstick/p/96662",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "2,3ml"
+  "description": "2,3ml",
+  "image": "/medias/prd-front-96662-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDAzMTl8aW1hZ2UvanBlZ3xhRGczTDJobE1pOHhOekl3TWpNeU9USTFOVGsyTmk5d2NtUXRabkp2Ym5RdE9UWTJOakl0TVY4Mk1EQjROakF3fDk3NTM3YTM0Mjk0NWQ2MzRkZDcxNmNlMzZhZWNlNjg0ZDkxN2FhNTkwMjgxZGI5YzQ2ZWIwMjU3NmU1NDRhMjA"
 }

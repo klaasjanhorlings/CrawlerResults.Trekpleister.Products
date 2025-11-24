@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York SuperStay 24HRS 150 Delicious Pink Lippenstift",
   "code": "2035461",
-  "price": "17.99",
-  "priceOriginal": "",
+  "price": "8.0",
+  "priceOriginal": "17.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032625",
+  "mmkId": "3032625",
+  "productGroupId": "510116",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,99",
   "url": "/maybelline-new-york-superstay-24hrs-150-delicious-pink-lippenstift/p/2035461",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h98/h26/44652005457950/prd-front-2035461-1_600x600/prd-front-2035461-1-600x600.jpg"
+  "description": ""
 }
