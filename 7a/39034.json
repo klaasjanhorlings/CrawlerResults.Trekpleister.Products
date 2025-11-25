@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Total Effects 7 In One Hydraterende Parfumvrije Dagcrème",
   "code": "39034",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "8.0",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "outOfStock",
-  "onPromo": "3032538",
-  "mmkId": "3032538",
-  "productGroupId": "503022",
+  "onPromo": "3032539",
+  "mmkId": "3032539",
+  "productGroupId": "503042",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,99",
   "url": "/olay-total-effects-7-in-one-hydraterende-parfumvrije-dagcreme/p/39034",
   "listName": "Lister",
   "brand": "Olay",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h68/hc6/35156045037598/prd-front-39034-1_600x600/prd-front-39034-1-600x600.jpg"
 }

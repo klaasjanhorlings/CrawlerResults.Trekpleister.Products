@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Lipliner"
     }
   ],
-  "description": "2,5ml",
-  "image": "/medias/sys_master/prd-images/h23/h89/33334135717918/prd-front-6245804-1_600x600/prd-front-6245804-1-600x600.jpg"
+  "description": "2,5ml"
 }
