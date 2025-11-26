@@ -7,7 +7,7 @@
   "priceOriginal": "9.99",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032636",
   "mmkId": "3032636",
   "productGroupId": "512076",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h3a/hd8/28869661163550/prd-front-4672844-1_600x600/prd-front-4672844-1-600x600.jpg"
 }

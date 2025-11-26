@@ -7,7 +7,7 @@
   "priceOriginal": "11.29",
   "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 3125 > 3990",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032470",
   "mmkId": "3032470",
   "productGroupId": "465050",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/he2/33408841351198/prd-front-4744524-1_600x600/prd-front-4744524-1-600x600.jpg"
 }

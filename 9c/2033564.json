@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h30/h42/44756678639646/prd-front-2033564-1_600x600/prd-front-2033564-1-600x600.jpg"
+  "description": "50ml"
 }

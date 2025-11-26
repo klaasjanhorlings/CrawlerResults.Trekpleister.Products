@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032504",
   "mmkId": "3032504",
   "productGroupId": "498022",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h81/h96/33197757497374/prd-front-4317748-1_600x600/prd-front-4317748-1-600x600.jpg"
+  "description": "150ml"
 }

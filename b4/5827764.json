@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032476",
   "mmkId": "3032476",
   "productGroupId": "473165",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/prd-front-5827764-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTMxODMwfGltYWdlL2pwZWd8YURFeUwyZ3pZaTh5TmpVNU5qRXlNVGt6TlRrd01pOXdjbVF0Wm5KdmJuUXROVGd5TnpjMk5DMHhYell3TUhnMk1EQXxiNWRkMWFjZDk4Y2U5YTk4OWQyODBlNzc5NWIwMzJhZWE1ZWJlYTRkYTgzOWU2OTliOGZlMThmOWVkYTcwZmU2"
 }
