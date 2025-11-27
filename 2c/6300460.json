@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HOYU COSMETICS (NEDERLAND) B.V.",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3032665",
+  "mmkId": "3032665",
+  "productGroupId": "509167",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bigen-2bl-natural-black-gentle-cream-colour/p/6300460",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf7/h3e/34837064974366/prd-front-6300460-1_600x600/prd-front-6300460-1-600x600.jpg"
+  "description": ""
 }

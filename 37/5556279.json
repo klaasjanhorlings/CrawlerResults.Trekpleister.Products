@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Milka Moments",
+  "itemName": "Milka Favourites Chocolade Mixbox XL",
   "code": "5556279",
   "price": "21.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/milka-moments/p/5556279",
+  "url": "/milka-favourites-chocolade-mixbox-xl/p/5556279",
   "listName": "Lister",
   "brand": "Milka",
   "mpOrigin": "Kruidvat",
@@ -31,12 +31,8 @@
     {
       "id": 30267585,
       "name": "Chocolade"
-    },
-    {
-      "id": 107467253,
-      "name": "Bonbons en pralines"
     }
   ],
   "description": "108 stuks",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h89/hce/44952832573470/prd-front-5556279-1_600x600/prd-front-5556279-1-600x600.jpg"
 }

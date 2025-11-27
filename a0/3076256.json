@@ -7,7 +7,7 @@
   "priceOriginal": "12.95",
   "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "BMEDCARE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032478",
   "mmkId": "3032478",
   "productGroupId": "475719",
@@ -25,8 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
     }
   ],
   "description": "50ml",

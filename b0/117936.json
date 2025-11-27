@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Perskindol Active Spray",
+  "code": "117936",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/perskindol-active-spray/p/117936",
+  "listName": "Lister",
+  "brand": "Perskindol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 113408627,
+      "name": "Spierspray"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-117936-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTEyMzV8aW1hZ2UvanBlZ3xhRGczTDJneVlpOHhOelUwT1Rrek5qSTJNekU1T0M5d2NtUXRabkp2Ym5RdE1URTNPVE0yTFRGZk5qQXdlRFl3TUF8MDcyNWZiOTJjY2YyODZhMzU2YjhmY2ZjY2JlYzBjMjRiYTgwYTJlYmM3MWEyZmExODJhNGM1ZWVkMWY0ZTAxYw"
+}

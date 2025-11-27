@@ -25,14 +25,13 @@
       "name": "Verzorging"
     },
     {
-      "id": 30267249,
-      "name": "Haarstylingproducten"
+      "id": 30267046,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30267485,
-      "name": "Haarcrème"
+      "id": 30267195,
+      "name": "Bodybutter"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h52/h04/28820338016286/prd-front-3808939-1_600x600/prd-front-3808939-1-600x600.jpg"
+  "description": "250ml"
 }

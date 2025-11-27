@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -29,8 +29,12 @@
       "name": "Nagels"
     },
     {
-      "id": 30267141,
-      "name": "Nagellak"
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267188,
+      "name": "Nagelbehandeling"
     }
   ],
   "description": "8ml",

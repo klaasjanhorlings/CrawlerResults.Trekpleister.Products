@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "VIDACORP NETHERLANDS B.V.",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -29,12 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 88118383,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267147,
+      "name": "Blush"
     }
   ],
   "description": "6,5g",

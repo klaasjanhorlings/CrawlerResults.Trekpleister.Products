@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Reinigingsdoekjes"
     }
   ],
-  "description": "25 stuks - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h77/h6b/34532216733726/prd-front-4204222-1_600x600/prd-front-4204222-1-600x600.jpg"
+  "description": "25 stuks - Gevoelige huid"
 }

@@ -25,14 +25,17 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267064,
-      "name": "Optiek"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30267316,
-      "name": "Oogdruppels"
+      "id": 30267258,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30267512,
+      "name": "Hooikoorts oogdruppels"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml",
-  "image": "/medias/sys_master/prd-images/h3f/ha8/28821531230238/prd-front-3145941-1_600x600/prd-front-3145941-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 10ml"
 }

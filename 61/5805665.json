@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Retinol Boost+ Intensief Serum",
+  "itemName": "Neutrogena Anti-Age Retinol Boost+ Parfumvrij Intensief Serum",
   "code": "5805665",
   "price": "38.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/neutrogena-retinol-boost-intensief-serum/p/5805665",
+  "url": "/neutrogena-anti-age-retinol-boost-parfumvrij-intensief-serum/p/5805665",
   "listName": "Lister",
   "brand": "Neutrogena",
   "mpOrigin": "Kruidvat",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267162,
-      "name": "Serum"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "30ml - Alle huidtypen",

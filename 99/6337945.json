@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "DKNY Be Delicious Geschenkset",
+  "code": "6337945",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 6705 > 6706 > 4113",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dkny-be-delicious-geschenkset/p/6337945",
+  "listName": "Lister",
+  "brand": "DKNY",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654994,
+      "name": "Parfum geschenkset voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he4/h3f/44427836817438/prd-front-6337945-1_600x600/prd-front-6337945-1-600x600.jpg"
+}

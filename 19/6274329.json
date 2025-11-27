@@ -25,13 +25,18 @@
       "name": "Beauty"
     },
     {
-      "id": 30267043,
-      "name": "Make-up accessoires"
+      "id": 30267038,
+      "name": "Make-up"
     },
     {
-      "id": 30267174,
-      "name": "Make-up kwasten"
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30267465,
+      "name": "Wenkbrauwmascara"
     }
   ],
-  "description": "0,7ml"
+  "description": "0,7ml",
+  "image": "/medias/sys_master/prd-images/hdf/h7c/34021212225566/prd-front-6274329-1_600x600/prd-front-6274329-1-600x600.jpg"
 }

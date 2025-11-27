@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "David Beckham Instinct Eau de Parfum",
   "code": "5962493",
-  "price": "29.99",
-  "priceOriginal": "",
+  "price": "13.5",
+  "priceOriginal": "29.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032671",
+  "mmkId": "3032671",
+  "productGroupId": "501640",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 16,49",
   "url": "/david-beckham-instinct-eau-de-parfum/p/5962493",
   "listName": "Lister",
   "brand": "David Beckham",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/ha4/he4/29331630817310/prd-front-5962493-1_600x600/prd-front-5962493-1-600x600.jpg"
 }

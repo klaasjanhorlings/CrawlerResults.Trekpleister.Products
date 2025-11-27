@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Q10 Verstevigend + Anti-Rimpel Crème voor Hals en Decolleté",
   "code": "6285858",
-  "price": "21.69",
-  "priceOriginal": "",
+  "price": "8.67",
+  "priceOriginal": "21.69",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3032489",
-  "mmkId": "3032489",
-  "productGroupId": "489246",
+  "onPromo": "3032663",
+  "mmkId": "3032663",
+  "productGroupId": "508839",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 13,02",
   "url": "/nivea-q10-verstevigend-anti-rimpel-creme-voor-hals-en-decollete/p/6285858",
   "listName": "Lister",
   "brand": "Nivea",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267046,
-      "name": "Huidverzorging"
+      "id": 30267042,
+      "name": "Skincare"
     },
     {
-      "id": 30267198,
-      "name": "Bodycremes"
+      "id": 30267159,
+      "name": "Dagcreme"
     }
   ],
   "description": "200ml"

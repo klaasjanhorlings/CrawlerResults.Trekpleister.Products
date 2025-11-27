@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Retinol Boost Serum",
+  "itemName": "Neutrogena Anti-Age Retinol Boost Serum",
   "code": "5627357",
   "price": "35.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/neutrogena-retinol-boost-serum/p/5627357",
+  "url": "/neutrogena-anti-age-retinol-boost-serum/p/5627357",
   "listName": "Lister",
   "brand": "Neutrogena",
   "mpOrigin": "Kruidvat",
@@ -25,8 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
     }
   ],
   "description": "30ml - Normale en rijpe huid",

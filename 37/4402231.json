@@ -7,7 +7,7 @@
   "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032561",
   "mmkId": "3032561",
   "productGroupId": "506383",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h47/h9b/44842140074014/prd-front-4402231-1_600x600/prd-front-4402231-1-600x600.jpg"
 }

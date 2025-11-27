@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
   "supplier": "TROPENZORG BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h7f/h23/44939056644126/prd-front-6019788-1_600x600/prd-front-6019788-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h87/h28/44954169540638/prd-front-6019788-1_600x600/prd-front-6019788-1-600x600.jpg"
 }

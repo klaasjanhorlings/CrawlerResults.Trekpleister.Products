@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5928 > 6351 > 6352 > 2487 > 3056 > 5804",
   "supplier": "DUMMY EXTERN",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Pantoffels"
     }
   ],
-  "description": "cognackleur, mt 40-41",
-  "image": "/medias/sys_master/prd-images/hda/h5c/28574449041438/prd-front-5883260-1_600x600/prd-front-5883260-1-600x600.jpg"
+  "description": "cognackleur, mt 40-41"
 }
