@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2707 > 4072",
   "supplier": "NUTRITION&SANTE BENELX",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Maaltijdvervangers"
     }
   ],
-  "description": "8 x 55g"
+  "description": "8 x 55g",
+  "image": "/medias/sys_master/prd-images/h0f/hbe/29175208509470/prd-front-4964940-1_600x600/prd-front-4964940-1-600x600.jpg"
 }

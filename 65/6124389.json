@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Luierzalf"
     }
   ],
-  "description": "70ml"
+  "description": "70ml",
+  "image": "/medias/sys_master/prd-images/h12/h4b/31369560260638/prd-front-6124389-1_600x600/prd-front-6124389-1-600x600.jpg"
 }

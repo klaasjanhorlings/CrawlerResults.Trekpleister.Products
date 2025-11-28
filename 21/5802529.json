@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Fructis Pineapple Hair Food 3-In-1 Haarmasker",
+  "code": "5802529",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "3032574",
+  "mmkId": "3032574",
+  "productGroupId": "506515",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-fructis-pineapple-hair-food-3-in-1-haarmasker/p/5802529",
+  "listName": "Lister",
+  "brand": "Fructis",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/ha1/hf0/35028024459294/prd-front-5802529-1_600x600/prd-front-5802529-1-600x600.jpg"
+}

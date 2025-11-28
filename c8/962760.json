@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3147 > 4015",
   "supplier": "STORCK BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Snoep"
     }
   ],
-  "description": "1000g",
-  "image": "/medias/sys_master/prd-images/h4b/h5a/44558901739550/prd-front-962760-1_600x600/prd-front-962760-1-600x600.jpg"
+  "description": "1000g"
 }

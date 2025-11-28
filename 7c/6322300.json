@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4082",
   "supplier": "ESSITY",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Vochtig toiletpapier"
     }
   ],
-  "description": "80 stuks",
-  "image": "/medias/sys_master/prd-images/h57/hcb/44326202572830/prd-front-6322300-1_600x600/prd-front-6322300-1-600x600.jpg"
+  "description": "80 stuks"
 }

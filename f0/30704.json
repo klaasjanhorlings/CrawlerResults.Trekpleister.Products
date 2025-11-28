@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2690 > 3390 > 2332",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 500cm x 1,25cm",
-  "image": "/medias/sys_master/prd-images/h23/h86/44955745910814/prd-front-30704-1_600x600/prd-front-30704-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6a/h07/44972897271838/prd-front-30704-1_600x600/prd-front-30704-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
   "supplier": "MAM BABY BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/prd-front-2739234-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzU2MTd8aW1hZ2UvanBlZ3xhR0kwTDJobE5TOHhOalE0Tnpnek1ESXlORGt5Tmk5d2NtUXRabkp2Ym5RdE1qY3pPVEl6TkMweFh6WXdNSGcyTURBfDdkMTIzNTFkYWU4NjZhYmZkNjkxMGU2YjdiODQ4NDUwMTAxOGU1NzMzOTZlOGYwOGNkZWEzNmY3YWU2MTFlMTA"
+  "description": "2 stuks"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4082",
   "supplier": "KIMBERLY-CLARK BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Vochtig toiletpapier"
     }
   ],
-  "description": "74 stuks",
-  "image": "/medias/sys_master/prd-images/h97/h7a/35155951288350/prd-front-5532458-1_600x600/prd-front-5532458-1-600x600.jpg"
+  "description": "74 stuks"
 }

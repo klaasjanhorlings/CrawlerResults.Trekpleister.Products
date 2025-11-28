@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2958 > 3753",
   "supplier": "ANVIRI COSMETICS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032477",
   "mmkId": "3032477",
   "productGroupId": "475291",
@@ -37,5 +37,6 @@
       "name": "Kunstnagels"
     }
   ],
-  "description": "28 stuks"
+  "description": "28 stuks",
+  "image": "/medias/sys_master/prd-images/h01/h78/32212374159390/prd-front-6177134-1_600x600/prd-front-6177134-1-600x600.jpg"
 }

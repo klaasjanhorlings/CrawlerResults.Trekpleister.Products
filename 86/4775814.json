@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2907 > 3704",
   "supplier": "SUPER NINJA (FRUIT FLY NINJA BV)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "12ml"
+  "description": "12ml",
+  "image": "/medias/sys_master/prd-images/hb5/h66/34416485695518/prd-front-4775814-1_600x600/prd-front-4775814-1-600x600.jpg"
 }

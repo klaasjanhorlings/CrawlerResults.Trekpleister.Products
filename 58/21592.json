@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Wondontsmetting"
     }
   ],
-  "description": "Geneesmiddel - 500ml"
+  "description": "Geneesmiddel - 500ml",
+  "image": "/medias/sys_master/prd-images/h82/h52/28548512514078/prd-front-21592-1_600x600/prd-front-21592-1-600x600.jpg"
 }

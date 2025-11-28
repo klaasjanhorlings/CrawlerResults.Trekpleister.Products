@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "IDENTITY GAMES INT. BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h10/h84/34995172212766/prd-front-6348396-1_600x600/prd-front-6348396-1-600x600.jpg"
 }

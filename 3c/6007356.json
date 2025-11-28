@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032565",
   "mmkId": "3032565",
   "productGroupId": "506391",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h06/h71/31160720818206/prd-front-6007356-1_600x600/prd-front-6007356-1-600x600.jpg"
 }

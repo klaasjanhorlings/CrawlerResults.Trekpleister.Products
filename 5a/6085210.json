@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Drs Leenarts Sun SPF25 Lipcare",
   "code": "6085210",
-  "price": "4.99",
-  "priceOriginal": "",
+  "price": "2.0",
+  "priceOriginal": "4.99",
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "3032481",
-  "mmkId": "3032481",
-  "productGroupId": "482899",
+  "onPromo": "3032668",
+  "mmkId": "3032668",
+  "productGroupId": "500792",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,99",
   "url": "/drs-leenarts-sun-spf25-lipcare/p/6085210",
   "listName": "Lister",
   "brand": "Drs Leenarts",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "4,8g"
+  "description": "4,8g",
+  "image": "/medias/sys_master/prd-images/h58/hbc/34986401923102/prd-front-6085210-1_600x600/prd-front-6085210-1-600x600.jpg"
 }

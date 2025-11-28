@@ -7,7 +7,7 @@
   "priceOriginal": "69.95",
   "itemBgbcat": "2006 > 2070 > 2156 > 6463 > 6464 > 6401",
   "supplier": "TRIPLE A MARKETING GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032548",
   "mmkId": "3032548",
   "productGroupId": "503613",
@@ -37,5 +37,6 @@
       "name": "Satisfier"
     }
   ],
-  "description": "8,5cm x 3,9cm x 2,9cm"
+  "description": "8,5cm x 3,9cm x 2,9cm",
+  "image": "/medias/prd-front-5833105-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDE4NzV8aW1hZ2UvanBlZ3xhRE5tTDJnM09TOHlOamN3TkRneE1EZ3pOVGs1T0M5d2NtUXRabkp2Ym5RdE5UZ3pNekV3TlMweFh6WXdNSGcyTURBfGVmNWM5YThiNjllZTM0NmZjNDJmYjViZjVhMDEwN2U2MGYwMzcwNDk3MjJkNDFhZGQwMzdjN2EzOWM1OWE2NTc"
 }

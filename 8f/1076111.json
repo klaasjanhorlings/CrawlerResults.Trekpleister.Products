@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
   "supplier": "HEEL BIOLOGISCHE GENEES",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,8 +33,8 @@
       "name": "Spieren en gewrichten"
     },
     {
-      "id": 30267536,
-      "name": "Spier- en gewrichtsbalsems"
+      "id": 30267537,
+      "name": "Spierwrijfmiddelen"
     }
   ],
   "description": "Homeopathisch geneesmiddel - 75g",

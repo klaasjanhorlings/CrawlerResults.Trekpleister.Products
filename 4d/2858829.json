@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032536",
   "mmkId": "3032536",
   "productGroupId": "501954",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hde/hcb/44846705049630/prd-front-2858829-1_600x600/prd-front-2858829-1-600x600.jpg"
+  "description": "250ml"
 }

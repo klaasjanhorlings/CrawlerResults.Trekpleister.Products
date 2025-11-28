@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "WELEDA BENELUX SE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,8 +33,8 @@
       "name": "Gezichtsreiniging"
     },
     {
-      "id": 30267475,
-      "name": "Cleanser"
+      "id": 50677084,
+      "name": "Reinigingsmousse"
     }
   ],
   "description": "150ml, normale en gecombineerde huid",

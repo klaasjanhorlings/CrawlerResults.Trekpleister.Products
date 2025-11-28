@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Colgate Max White Ultimate Radiance Tandpasta",
+  "code": "5141333",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "outOfStock",
+  "onPromo": "3032592",
+  "mmkId": "3032592",
+  "productGroupId": "508243",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/colgate-max-white-ultimate-radiance-tandpasta/p/5141333",
+  "listName": "Lister",
+  "brand": "Colgate",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml - Whitening",
+  "image": "/medias/sys_master/prd-images/hb0/he0/33858277146654/prd-front-5141333-1_600x600/prd-front-5141333-1-600x600.jpg"
+}

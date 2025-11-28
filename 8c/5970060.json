@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Haarwax"
     }
   ],
-  "description": "114g"
+  "description": "114g",
+  "image": "/medias/sys_master/prd-images/h98/h9a/28816849862686/prd-front-5970060-1_600x600/prd-front-5970060-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf3/h97/44791916396574/prd-front-6241947-1_600x600/prd-front-6241947-1-600x600.jpg"
 }

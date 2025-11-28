@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2892 > 3667",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032569",
   "mmkId": "3032569",
   "productGroupId": "506490",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 5"
     }
   ],
-  "description": "mt 5 (11-17kg), 22 stuks"
+  "description": "mt 5 (11-17kg), 22 stuks",
+  "image": "/medias/sys_master/prd-images/hc6/h7a/33550403665950/prd-front-6240155-1_600x600/prd-front-6240155-1-600x600.jpg"
 }

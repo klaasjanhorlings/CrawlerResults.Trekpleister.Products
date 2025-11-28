@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6228 > 6318",
   "supplier": "A.VOGEL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Blaas supplementen"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h47/h3c/32574449156126/prd-front-1206773-1_600x600/prd-front-1206773-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2553 > 3187 > 3620",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Zwangerschapstesten"
     }
   ],
-  "description": "Medisch hulpmiddel - 2 stuks"
+  "description": "Medisch hulpmiddel - 2 stuks",
+  "image": "/medias/sys_master/prd-images/h2a/hd3/34696750825502/prd-front-5531044-1_600x600/prd-front-5531044-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hc1/h71/31058067259422/prd-front-4300122-1_600x600/prd-front-4300122-1-600x600.jpg"
+  "description": "200ml"
 }
