@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6780",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032565",
   "mmkId": "3032565",
   "productGroupId": "506391",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/hcf/h6c/45001069264926/prd-front-6235514-1_600x600/prd-front-6235514-1-600x600.jpg"
 }

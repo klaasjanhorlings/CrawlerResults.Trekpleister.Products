@@ -7,7 +7,7 @@
   "priceOriginal": "13.99",
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "HEALTHYPHARM BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032221",
   "mmkId": "3032221",
   "productGroupId": "471507",
@@ -37,5 +37,6 @@
       "name": "Hoestsiropen"
     }
   ],
-  "description": "Medisch hulpmiddel - 120ml"
+  "description": "Medisch hulpmiddel - 120ml",
+  "image": "/medias/sys_master/prd-images/he1/he8/34730997809182/prd-front-4552101-1_600x600/prd-front-4552101-1-600x600.jpg"
 }

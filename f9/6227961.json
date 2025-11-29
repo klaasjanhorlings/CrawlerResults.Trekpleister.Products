@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Men+Care Clean Comfort Antitranspirant Deostick",
+  "code": "6227961",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5731 > 3866",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3032505",
+  "mmkId": "3032505",
+  "productGroupId": "498029",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-mencare-clean-comfort-antitranspirant-deostick/p/6227961",
+  "listName": "Lister",
+  "brand": "Dove Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267202,
+      "name": "Deostick"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h33/hc0/34535392313374/prd-front-6227961-1_600x600/prd-front-6227961-1-600x600.jpg"
+}

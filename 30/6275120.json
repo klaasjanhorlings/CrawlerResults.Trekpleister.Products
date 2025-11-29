@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "ELF BEAUTY UK LIMITED",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Lip oil"
     }
   ],
-  "description": "7,6ml"
+  "description": "7,6ml",
+  "image": "/medias/sys_master/prd-images/hd9/ha0/34317103005726/prd-front-6275120-1_600x600/prd-front-6275120-1-600x600.jpg"
 }

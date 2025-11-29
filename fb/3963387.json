@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032617",
   "mmkId": "3032617",
   "productGroupId": "509464",
@@ -37,6 +37,5 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "500 stuks",
-  "image": "/medias/sys_master/prd-images/h83/h57/28549909839902/prd-front-3963387-1_600x600/prd-front-3963387-1-600x600.jpg"
+  "description": "500 stuks"
 }

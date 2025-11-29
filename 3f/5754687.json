@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6776 > 6775 > 6777",
   "supplier": "DR LEENARTS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032481",
   "mmkId": "3032481",
   "productGroupId": "482899",
@@ -29,12 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30267165,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 50048157,
-      "name": "Verzorging probleemhuid"
+      "id": 30267162,
+      "name": "Serum"
     }
   ],
   "description": "15ml",

@@ -7,7 +7,7 @@
   "priceOriginal": "12.99",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032368",
   "mmkId": "3032368",
   "productGroupId": "502133",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h52/h75/33115498348574/prd-front-6249913-1_600x600/prd-front-6249913-1-600x600.jpg"
 }

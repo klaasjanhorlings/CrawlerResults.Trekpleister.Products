@@ -7,7 +7,7 @@
   "priceOriginal": "32.49",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032531",
   "mmkId": "3032531",
   "productGroupId": "501317",
@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267046,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30267256,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 30267499,
-      "name": "Littekencremes"
+      "id": 30267196,
+      "name": "Bodyolie"
     }
   ],
   "description": "200ml - Alle huidtypen",

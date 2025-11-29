@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032503",
   "mmkId": "3032503",
   "productGroupId": "497551",
@@ -37,5 +37,6 @@
       "name": "Droge en gevoelige huid"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hc2/hbc/44274910724126/prd-front-6391257-1_600x600/prd-front-6391257-1-600x600.jpg"
 }

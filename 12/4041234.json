@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Syoss Max Hold Wax",
+  "code": "4041234",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3032528",
+  "mmkId": "3032528",
+  "productGroupId": "500964",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-max-hold-wax/p/4041234",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267486,
+      "name": "Haarwax"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h6c/h13/33772040355870/prd-front-4041234-1_600x600/prd-front-4041234-1-600x600.jpg"
+}

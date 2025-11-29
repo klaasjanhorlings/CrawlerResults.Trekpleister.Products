@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 6451 > 6452 > 6788",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Kalknagels"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml",
-  "image": "/medias/sys_master/prd-images/h30/ha9/34597497864222/prd-front-4682364-1_600x600/prd-front-4682364-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 10ml"
 }
