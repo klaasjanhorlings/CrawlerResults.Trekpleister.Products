@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2909 > 3706",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032489",
   "mmkId": "3032489",
   "productGroupId": "489246",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "250ml - Gevoelige huid"
+  "description": "250ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/ha8/hfa/32868177182750/prd-front-2196790-1_600x600/prd-front-2196790-1-600x600.jpg"
 }

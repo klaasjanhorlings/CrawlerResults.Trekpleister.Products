@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Xylometazoline HCl 1 mg/ml Neusdruppels",
+  "code": "49806",
+  "price": "3.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3934",
+  "supplier": "MAE PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-xylometazoline-hcl-1-mg/ml-neusdruppels/p/49806",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267519,
+      "name": "Neusdruppels"
+    }
+  ],
+  "description": "Geneesmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/hed/h16/28575681871902/prd-front-49806-1_600x600/prd-front-49806-1-600x600.jpg"
+}

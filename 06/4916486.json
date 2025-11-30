@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032489",
   "mmkId": "3032489",
   "productGroupId": "489246",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h57/h88/33987819470878/prd-front-4916486-1_600x600/prd-front-4916486-1-600x600.jpg"
 }

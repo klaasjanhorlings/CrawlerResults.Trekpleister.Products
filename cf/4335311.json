@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032505",
   "mmkId": "3032505",
   "productGroupId": "498029",
@@ -33,6 +33,5 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/hed/h39/29076201603102/prd-front-4335311-1_600x600/prd-front-4335311-1-600x600.jpg"
+  "description": "200ml - Normale huid"
 }

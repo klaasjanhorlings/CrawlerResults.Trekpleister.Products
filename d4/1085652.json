@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2933 > 3728",
   "supplier": "WELLA COMPANY",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032626",
   "mmkId": "3032626",
   "productGroupId": "510915",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hdd/h02/28549775392798/prd-front-1085652-1_600x600/prd-front-1085652-1-600x600.jpg"
 }

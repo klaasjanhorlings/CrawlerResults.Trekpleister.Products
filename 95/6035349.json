@@ -7,7 +7,7 @@
   "priceOriginal": "11.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032561",
   "mmkId": "3032561",
   "productGroupId": "506383",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h67/h47/44917493071902/prd-front-6035349-1_600x600/prd-front-6035349-1-600x600.jpg"
 }
