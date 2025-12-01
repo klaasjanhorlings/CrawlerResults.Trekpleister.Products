@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3675",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032509",
   "mmkId": "3032509",
   "productGroupId": "498821",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "53ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h3d/hc1/34524640215070/prd-front-6321257-1_600x600/prd-front-6321257-1-600x600.jpg"
+  "description": "53ml - Gevoelige huid"
 }

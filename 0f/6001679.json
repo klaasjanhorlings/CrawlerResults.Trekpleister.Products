@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/h4b/hc6/29948133834782/prd-front-6001679-1_600x600/prd-front-6001679-1-600x600.jpg"
+  "description": "15ml"
 }

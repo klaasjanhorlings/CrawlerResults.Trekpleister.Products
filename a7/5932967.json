@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "WELEDA BENELUX SE",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "30ml, droge tot zeer droge huid",
-  "image": "/medias/sys_master/prd-images/h22/h85/33631391940638/prd-front-5932967-1_600x600/prd-front-5932967-1-600x600.jpg"
+  "description": "30ml, droge tot zeer droge huid"
 }

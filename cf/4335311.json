@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "3032505",
-  "mmkId": "3032505",
-  "productGroupId": "498029",
+  "inStock": "inStock",
+  "onPromo": "3032686",
+  "mmkId": "3032686",
+  "productGroupId": "498293",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-coconut-oil-shower-mousse/p/4335311",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hed/h39/29076201603102/prd-front-4335311-1_600x600/prd-front-4335311-1-600x600.jpg"
 }

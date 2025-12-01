@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "3032506",
-  "mmkId": "3032506",
-  "productGroupId": "498305",
+  "inStock": "outOfStock",
+  "onPromo": "3032711",
+  "mmkId": "3032711",
+  "productGroupId": "512077",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-women-advanced-protection-cotton-dry-antitranspirant-spray/p/2152620",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h8a/h32/44752318922782/prd-front-2152620-1_600x600/prd-front-2152620-1-600x600.jpg"
+  "description": "150ml"
 }

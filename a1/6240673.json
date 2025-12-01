@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3032613",
-  "mmkId": "3032613",
-  "productGroupId": "509042",
+  "onPromo": "3032704",
+  "mmkId": "3032704",
+  "productGroupId": "509043",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-intense-fullness-deep-caring-shampoo/p/6240673",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "440ml"
+  "description": "440ml",
+  "image": "/medias/sys_master/prd-images/h66/hdf/33762554019870/prd-front-6240673-1_600x600/prd-front-6240673-1-600x600.jpg"
 }

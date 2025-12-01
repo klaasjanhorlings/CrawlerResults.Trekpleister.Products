@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032695",
+  "mmkId": "3032695",
+  "productGroupId": "500860",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-marvel-76321-spider-man-vs-doc-ock-metroscene/p/6346513",
@@ -33,6 +33,5 @@
       "name": "LEGO Marvel"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h80/hb3/35037849681950/prd-front-6346513-1_600x600/prd-front-6346513-1-600x600.jpg"
+  "description": ""
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3032566",
-  "mmkId": "3032566",
-  "productGroupId": "506409",
+  "onPromo": "3032489",
+  "mmkId": "3032489",
+  "productGroupId": "489246",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-sensation-fresh-deodorant-spray/p/5832776",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h6a/hba/34396138045470/prd-front-5832776-1_600x600/prd-front-5832776-1-600x600.jpg"
 }

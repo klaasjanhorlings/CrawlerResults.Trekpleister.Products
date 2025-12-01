@@ -7,7 +7,7 @@
   "priceOriginal": "139.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h53/h44/34726127992862/prd-front-6166942-1_600x600/prd-front-6166942-1-600x600.jpg"
 }

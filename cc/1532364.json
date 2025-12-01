@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2537 > 3165 > 3758",
   "supplier": "ESSITY",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Tissues en zakdoekjes"
     }
   ],
-  "description": "10 x 9 stuks"
+  "description": "10 x 9 stuks",
+  "image": "/medias/sys_master/prd-images/hbd/h8e/34917904285726/prd-front-1532364-1_600x600/prd-front-1532364-1-600x600.jpg"
 }

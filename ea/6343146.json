@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
   "supplier": "RAVENSBURGER BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032695",
+  "mmkId": "3032695",
+  "productGroupId": "500860",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ravensburger-pokemon-pikachu-challenge-puzzel/p/6343146",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": "1000 stukjes"
+  "description": "1000 stukjes",
+  "image": "/medias/sys_master/prd-images/hb7/h47/34898940919838/prd-front-6343146-1_600x600/prd-front-6343146-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Overgang"
     }
   ],
-  "description": "25 stuks"
+  "description": "25 stuks",
+  "image": "/medias/sys_master/prd-images/heb/hb7/32569033392158/prd-front-2206352-1_600x600/prd-front-2206352-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
   "supplier": "PERFETTI VAN MELLE NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Snoep"
     }
   ],
-  "description": "25 stuks"
+  "description": "25 stuks",
+  "image": "/medias/sys_master/prd-images/ha8/h1e/44630755049502/prd-front-6378846-1_600x600/prd-front-6378846-1-600x600.jpg"
 }

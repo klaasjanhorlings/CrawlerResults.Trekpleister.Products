@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2232 > 5179 > 5303 > 5492",
   "supplier": "GLOBETRADE HOLLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032695",
+  "mmkId": "3032695",
+  "productGroupId": "500860",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/buurman-buurman-pluchen-knuffel/p/5944475",
@@ -29,6 +29,5 @@
       "name": "Poppen en knuffels"
     }
   ],
-  "description": "rood, 25cm",
-  "image": "/medias/sys_master/prd-images/h3f/h5b/28960125255710/prd-front-5944475-1_600x600/prd-front-5944475-1-600x600.jpg"
+  "description": "rood, 25cm"
 }

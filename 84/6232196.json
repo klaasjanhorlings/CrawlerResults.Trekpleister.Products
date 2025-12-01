@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032695",
+  "mmkId": "3032695",
+  "productGroupId": "500860",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-star-wars-75402-arc-170-starfighter/p/6232196",
@@ -33,5 +33,6 @@
       "name": "LEGO Star Wars"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5c/h9c/33139873546270/prd-front-6232196-1_600x600/prd-front-6232196-1-600x600.jpg"
 }

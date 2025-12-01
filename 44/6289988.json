@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "HISMILE PTY LTD.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "roze"
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/h3b/h81/34147107897374/prd-front-6289988-1_600x600/prd-front-6289988-1-600x600.jpg"
 }

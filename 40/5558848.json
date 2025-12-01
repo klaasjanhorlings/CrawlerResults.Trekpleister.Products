@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml"
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h6e/h91/32662353739806/prd-front-5558848-1_600x600/prd-front-5558848-1-600x600.jpg"
 }

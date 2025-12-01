@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "ORIGINAL ADDITIONS (BP)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "340g",
-  "image": "/medias/prd-front-3259915-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzQ2NzV8aW1hZ2UvanBlZ3xhREZqTDJoaVlpOHhOelUzTnpVek1qWTFNelU1T0M5d2NtUXRabkp2Ym5RdE16STFPVGt4TlMweFh6WXdNSGcyTURBfGZhNTkyYmU0NDAyOTBjNjE5OWUyOGFjOGZjZmFmNGYzYjFhNDZlNmYxMGI4MDQzNGM3NjgxOGZiNzgwNDc3OGQ"
+  "description": "340g"
 }

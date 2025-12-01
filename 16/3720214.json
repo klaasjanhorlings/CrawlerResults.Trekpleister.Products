@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fa Energising Paradise Hibiscus Deodorant Spray",
   "code": "3720214",
-  "price": "1.39",
+  "price": "1.5",
   "priceOriginal": "4.49",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3785",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "3032557",
-  "mmkId": "3032557",
-  "productGroupId": "505708",
+  "inStock": "inStock",
+  "onPromo": "3032698",
+  "mmkId": "3032698",
+  "productGroupId": "505713",
   "brandType": "A of B merk",
-  "discount": "€ 3,10",
+  "discount": "€ 2,99",
   "url": "/fa-energising-paradise-hibiscus-deodorant-spray/p/3720214",
   "listName": "Lister",
   "brand": "Fa",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h7a/h29/44427660492830/prd-front-3720214-1_600x600/prd-front-3720214-1-600x600.jpg"
+  "description": "150ml"
 }

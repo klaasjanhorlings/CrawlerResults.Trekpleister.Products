@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032591",
   "mmkId": "3032591",
   "productGroupId": "508239",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Whitening"
+  "description": "75ml - Whitening",
+  "image": "/medias/sys_master/prd-images/h09/h7a/33858591359006/prd-front-4822364-1_600x600/prd-front-4822364-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4082",
   "supplier": "ESSITY",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032707",
+  "mmkId": "3032707",
+  "productGroupId": "509453",
   "brandType": "A of B merk",
   "discount": "€ 1,26",
   "url": "/edet-tropical-morning-vochtig-toiletpapier/p/5910938",
@@ -29,5 +29,6 @@
       "name": "Toiletpapier"
     }
   ],
-  "description": "42 stuks"
+  "description": "42 stuks",
+  "image": "/medias/sys_master/prd-images/h3a/h95/44324234067998/prd-front-5910938-1_600x600/prd-front-5910938-1-600x600.jpg"
 }

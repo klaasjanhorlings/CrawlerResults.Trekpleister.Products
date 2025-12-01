@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "WELEDA BENELUX SE",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "40ml - Normale tot droge huid"
+  "description": "40ml - Normale tot droge huid",
+  "image": "/medias/sys_master/prd-images/h56/hb9/32173528678430/prd-front-6178135-1_600x600/prd-front-6178135-1-600x600.jpg"
 }

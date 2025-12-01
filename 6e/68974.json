@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Merci Finest Selection Geschenkdoos",
   "code": "68974",
-  "price": "4.59",
-  "priceOriginal": "4.99",
+  "price": "4.99",
+  "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
   "supplier": "STORCK BV",
   "inStock": "inStock",
-  "onPromo": "3032150",
-  "mmkId": "3032150",
-  "productGroupId": "489547",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 0,40",
+  "discount": "",
   "url": "/merci-finest-selection-geschenkdoos/p/68974",
   "listName": "Lister",
   "brand": "Merci",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "250g",
-  "image": "/medias/sys_master/prd-images/h00/hc2/45005009649694/prd-front-68974-1_600x600/prd-front-68974-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5e/h5a/45016819367966/prd-front-68974-1_600x600/prd-front-68974-1-600x600.jpg"
 }

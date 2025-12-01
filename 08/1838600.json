@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6598",
   "supplier": "THEOTCLAB HEALTHCARE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Neusstrip"
     }
   ],
-  "description": "Medisch hulpmiddel - mt L, 30 stuks"
+  "description": "Medisch hulpmiddel - mt L, 30 stuks",
+  "image": "/medias/sys_master/prd-images/h8a/hec/44862211588126/prd-front-1838600-1_600x600/prd-front-1838600-1-600x600.jpg"
 }

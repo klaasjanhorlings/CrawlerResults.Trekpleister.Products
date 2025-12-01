@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 6065",
   "supplier": "EUROSTYLE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/he2/h46/30236770467870/prd-front-6030141-1_600x600/prd-front-6030141-1-600x600.jpg"
 }

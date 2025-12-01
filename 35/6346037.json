@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032695",
+  "mmkId": "3032695",
+  "productGroupId": "500860",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-city-60414-brandweerkazerne-en-brandweerauto/p/6346037",
@@ -29,5 +29,6 @@
       "name": "Voertuigen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4f/h8a/35037460430878/prd-front-6346037-1_600x600/prd-front-6346037-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "3032568",
-  "mmkId": "3032568",
-  "productGroupId": "506412",
+  "inStock": "inStock",
+  "onPromo": "3032489",
+  "mmkId": "3032489",
+  "productGroupId": "489246",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-waterlily-oil-douchegel/p/3059659",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h92/h3c/45013999026206/prd-front-3059659-1_600x600/prd-front-3059659-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h92/h4a/45025746812958/prd-front-3059659-1_600x600/prd-front-3059659-1-600x600.jpg"
 }

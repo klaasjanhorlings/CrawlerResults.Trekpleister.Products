@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 3498",
   "supplier": "DR REDDY'S NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Nicotinekauwgom"
     }
   ],
-  "description": "Geneesmiddel - 24 stuks",
-  "image": "/medias/sys_master/prd-images/h15/h80/28629552037918/prd-front-4748591-1_600x600/prd-front-4748591-1-600x600.jpg"
+  "description": "Geneesmiddel - 24 stuks"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "KENVUE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Normale en rijpe huid"
+  "description": "50ml - Normale en rijpe huid",
+  "image": "/medias/sys_master/prd-images/hdf/h2b/44800155287582/prd-front-5627364-1_600x600/prd-front-5627364-1-600x600.jpg"
 }

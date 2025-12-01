@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "11,5ml"
+  "description": "11,5ml",
+  "image": "/medias/sys_master/prd-images/h45/hda/45017234210846/prd-front-6017142-1_600x600/prd-front-6017142-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "72 stuks"
+  "description": "72 stuks",
+  "image": "/medias/sys_master/prd-images/h7d/h51/34032181313566/prd-front-5632894-1_600x600/prd-front-5632894-1-600x600.jpg"
 }

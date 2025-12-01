@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6228 > 6318",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Cranberrysupplementen"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h1f/h04/33155721101342/prd-front-300477-1_600x600/prd-front-300477-1-600x600.jpg"
+  "description": "30 stuks"
 }

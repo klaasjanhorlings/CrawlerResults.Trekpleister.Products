@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kneipp 5-In-1 Voetcrème",
   "code": "4110058",
-  "price": "4.74",
-  "priceOriginal": "9.49",
+  "price": "9.49",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2834 > 3576 > 6784",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032465",
-  "mmkId": "3032465",
-  "productGroupId": "460520",
+  "onPromo": "3032682",
+  "mmkId": "3032682",
+  "productGroupId": "489215",
   "brandType": "A of B merk",
-  "discount": "€ 4,75",
+  "discount": "",
   "url": "/kneipp-5-in-1-voetcreme/p/4110058",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,6 +33,5 @@
       "name": "Voetcrème"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/he7/hbd/33108079968286/prd-front-4110058-1_600x600/prd-front-4110058-1-600x600.jpg"
+  "description": "75ml"
 }

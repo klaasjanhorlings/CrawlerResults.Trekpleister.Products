@@ -7,7 +7,7 @@
   "priceOriginal": "16.99",
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6329",
   "supplier": "LEIJTENS IMPORT BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032469",
   "mmkId": "3032469",
   "productGroupId": "464136",
@@ -33,6 +33,5 @@
       "name": "Pincetten"
     }
   ],
-  "description": "roze",
-  "image": "/medias/sys_master/prd-images/haa/hc5/28578650718238/prd-front-5228959-1_600x600/prd-front-5228959-1-600x600.jpg"
+  "description": "roze"
 }
