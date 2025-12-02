@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032489",
   "mmkId": "3032489",
   "productGroupId": "489246",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/ha8/h25/34869202780190/prd-front-6285851-1_600x600/prd-front-6285851-1-600x600.jpg"
 }

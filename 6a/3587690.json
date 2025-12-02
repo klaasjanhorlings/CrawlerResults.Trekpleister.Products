@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": "200ml - Kunstgebit"
+  "description": "200ml - Kunstgebit",
+  "image": "/medias/sys_master/prd-images/hd3/hf1/30995101089822/prd-front-3587690-1_600x600/prd-front-3587690-1-600x600.jpg"
 }

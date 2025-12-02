@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6697",
   "supplier": "KENVUE",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml - Droog en beschadigd haar"
+  "description": "300ml - Droog en beschadigd haar",
+  "image": "/medias/sys_master/prd-images/hc4/h45/34761173565470/prd-front-5832685-1_600x600/prd-front-5832685-1-600x600.jpg"
 }

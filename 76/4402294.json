@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Maybelline New York Fit Me Matte 120 Classic Poreless Powder",
-  "code": "4119438",
-  "price": "10.99",
+  "itemName": "Maybelline New York Fit Me Matte & Poreless 238 Rich Tan Foundation",
+  "code": "4402294",
+  "price": "12.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/maybelline-new-york-fit-me-matte-120-classic-poreless-powder/p/4119438",
+  "url": "/maybelline-new-york-fit-me-matte-poreless-238-rich-tan-foundation/p/4402294",
   "listName": "Lister",
   "brand": "Maybelline",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267144,
-      "name": "Gezichtspoeder"
+      "id": 30267134,
+      "name": "Foundation"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h15/hc2/44723988201502/prd-front-4119438-1_600x600/prd-front-4119438-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h42/h5e/44790074867742/prd-front-4402294-1_600x600/prd-front-4402294-1-600x600.jpg"
 }

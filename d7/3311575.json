@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "1,5g"
+  "description": "1,5g",
+  "image": "/medias/sys_master/prd-images/h84/h48/28616308031518/prd-front-3311575-1_600x600/prd-front-3311575-1-600x600.jpg"
 }

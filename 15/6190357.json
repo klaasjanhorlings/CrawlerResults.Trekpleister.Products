@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Oral-B iO Series 3 Holiday Elektrische Tandenborstel Geschenkset",
-  "code": "6397634",
-  "price": "54.99",
-  "priceOriginal": "134.99",
+  "itemName": "Oral-B iO series 2 Clean & Care Elektrische Tandenborstels",
+  "code": "6190357",
+  "price": "149.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 80,00",
-  "url": "/oral-b-io-series-3-holiday-elektrische-tandenborstel-geschenkset/p/6397634",
+  "discount": "",
+  "url": "/oral-b-io-series-2-clean-care-elektrische-tandenborstels/p/6190357",
   "listName": "Lister",
   "brand": "Oral B",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h82/h39/44954194673694/prd-front-6397634-1_600x600/prd-front-6397634-1-600x600.jpg"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h80/h0a/44856881086494/prd-front-6190357-1_600x600/prd-front-6190357-1-600x600.jpg"
 }

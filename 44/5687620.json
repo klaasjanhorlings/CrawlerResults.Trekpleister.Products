@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "TRADE SENSE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032488",
   "mmkId": "3032488",
   "productGroupId": "485155",
@@ -33,5 +33,6 @@
       "name": "Badschuim"
     }
   ],
-  "description": "500ml - Normale huid"
+  "description": "500ml - Normale huid",
+  "image": "/medias/prd-front-5687620-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTUwNDN8aW1hZ2UvanBlZ3xhRFUyTDJoak55OHlOall5TlRVMU1qWTNPRGswTWk5d2NtUXRabkp2Ym5RdE5UWTROell5TUMweFh6WXdNSGcyTURBfDI1YzNhYmQ3ZjAxNjE4YzExNjYyNWUwMmQ3NTNmY2VjM2JkY2I2YWJmZTU0ZTJhMmY5MWFiZWFmMTRmZjE2M2I"
 }

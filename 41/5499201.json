@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032495",
   "mmkId": "3032495",
   "productGroupId": "496341",
@@ -37,6 +37,5 @@
       "name": "Incontinentie-inlegkruisjes"
     }
   ],
-  "description": "Medisch hulpmiddel - 24 stuks",
-  "image": "/medias/sys_master/prd-images/he7/h4f/31096503468062/prd-front-5499201-1_600x600/prd-front-5499201-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 24 stuks"
 }

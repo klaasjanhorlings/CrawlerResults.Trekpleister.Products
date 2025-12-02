@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 6355",
   "supplier": "DIFRAX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032510",
   "mmkId": "3032510",
   "productGroupId": "498886",
@@ -33,6 +33,5 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "roze",
-  "image": "/medias/sys_master/prd-images/hf3/h92/31442291032094/prd-front-5439568-1_600x600/prd-front-5439568-1-600x600.jpg"
+  "description": "roze"
 }

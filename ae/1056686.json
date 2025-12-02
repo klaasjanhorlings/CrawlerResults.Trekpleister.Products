@@ -7,7 +7,7 @@
   "priceOriginal": "19.49",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3880",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032525",
   "mmkId": "3032525",
   "productGroupId": "500812",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7f/h65/33339718991902/prd-front-1056686-1_600x600/prd-front-1056686-1-600x600.jpg"
 }
