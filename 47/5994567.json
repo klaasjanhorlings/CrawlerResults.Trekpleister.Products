@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,54g"
+  "description": "4,54g",
+  "image": "/medias/sys_master/prd-images/h27/hf7/45041890099230/prd-front-5994567-1_600x600/prd-front-5994567-1-600x600.jpg"
 }

@@ -21,21 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267249,
-      "name": "Haarstylingproducten"
+      "id": 30267044,
+      "name": "Haaraccessoires"
     },
     {
-      "id": 30267255,
-      "name": "Haarstylers"
-    },
-    {
-      "id": 30267495,
+      "id": 30267181,
       "name": "Haarborstels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h58/hb6/30949225725982/prd-front-5205838-1_600x600/prd-front-5205838-1-600x600.jpg"
 }

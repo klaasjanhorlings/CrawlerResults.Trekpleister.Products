@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3532",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032609",
   "mmkId": "3032609",
   "productGroupId": "508423",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/had/hc4/45026758688798/prd-front-5370506-1_600x600/prd-front-5370506-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb2/h27/45039494004766/prd-front-5370506-1_600x600/prd-front-5370506-1-600x600.jpg"
 }

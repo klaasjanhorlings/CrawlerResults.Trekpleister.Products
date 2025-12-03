@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3755",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Tampons"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/h9a/h14/33759603589150/prd-front-6183987-1_600x600/prd-front-6183987-1-600x600.jpg"
+  "description": "24 stuks"
 }

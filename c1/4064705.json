@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032476",
   "mmkId": "3032476",
   "productGroupId": "473165",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid",
-  "image": "/medias/sys_master/prd-images/ha9/h76/34594067218462/prd-front-4064705-1_600x600/prd-front-4064705-1-600x600.jpg"
+  "description": "50ml - Rijpe huid"
 }

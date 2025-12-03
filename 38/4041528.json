@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corega Triple Action Dagelijkse Reiniger Tabletten",
+  "code": "4041528",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3032598",
+  "mmkId": "3032598",
+  "productGroupId": "508254",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corega-triple-action-dagelijkse-reiniger-tabletten/p/4041528",
+  "listName": "Lister",
+  "brand": "Corega",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267229,
+      "name": "Kunstgebitreiniger"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 66 stuks",
+  "image": "/medias/sys_master/prd-images/hda/h43/33887507218462/prd-front-4041528-1_600x600/prd-front-4041528-1-600x600.jpg"
+}

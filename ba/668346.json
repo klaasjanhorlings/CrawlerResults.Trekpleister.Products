@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032528",
   "mmkId": "3032528",
   "productGroupId": "500964",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h7f/h83/45029422268446/prd-front-668346-1_600x600/prd-front-668346-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h96/hdf/45039811592222/prd-front-668346-1_600x600/prd-front-668346-1-600x600.jpg"
 }

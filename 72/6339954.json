@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Disney Minnie Mouse Geschenkset",
+  "code": "6339954",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 2440 > 2935 > 3730",
+  "supplier": "AIR-VAL INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/disney-minnie-mouse-geschenkset/p/6339954",
+  "listName": "Lister",
+  "brand": "Minnie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666589,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h77/he2/44001298120734/prd-front-6339954-1_600x600/prd-front-6339954-1-600x600.jpg"
+}

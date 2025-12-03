@@ -7,7 +7,7 @@
   "priceOriginal": "18.49",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032491",
   "mmkId": "3032491",
   "productGroupId": "491399",
@@ -33,5 +33,6 @@
       "name": "Leave-in conditioner"
     }
   ],
-  "description": "326ml"
+  "description": "326ml",
+  "image": "/medias/sys_master/prd-images/h25/hba/30586112475166/prd-front-6069320-1_600x600/prd-front-6069320-1-600x600.jpg"
 }

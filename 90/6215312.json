@@ -25,13 +25,10 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30267078,
-      "name": "Spellen"
-    },
-    {
-      "id": 30267392,
-      "name": "Bordspellen"
+      "id": 30267085,
+      "name": "Educatief speelgoed"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/hc6/h95/32967678427166/prd-front-6215312-1_600x600/prd-front-6215312-1-600x600.jpg"
 }

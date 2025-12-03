@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA Cellular Expert Filler Vitamine C Radiance Renewing Serum",
-  "code": "6213114",
-  "price": "39.99",
+  "itemName": "NIVEA Men Protect & Care Hydraterende Gezichtscrème",
+  "code": "1451563",
+  "price": "17.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
   "onPromo": "3032556",
@@ -13,9 +13,9 @@
   "productGroupId": "505642",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-cellular-expert-filler-vitamine-c-radiance-renewing-serum/p/6213114",
+  "url": "/nivea-men-protect-care-hydraterende-gezichtscreme/p/1451563",
   "listName": "Lister",
-  "brand": "Nivea Skincare",
+  "brand": "Nivea Men",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "Skincare"
     },
     {
-      "id": 30267162,
-      "name": "Serum"
+      "id": 30267167,
+      "name": "Gezichtscreme mannen"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hef/h04/44919642357790/prd-front-6213114-1_600x600/prd-front-6213114-1-600x600.jpg"
+  "description": "75ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hfe/hbd/34520899584030/prd-front-1451563-1_600x600/prd-front-1451563-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Satin Care Huid & Schaamhaar Shave Serum",
+  "code": "5634385",
+  "price": "15.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 5717 > 5718 > 5719",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3032523",
+  "mmkId": "3032523",
+  "productGroupId": "500807",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/satin-care-huid-schaamhaar-shave-serum/p/5634385",
+  "listName": "Lister",
+  "brand": "Satin Care",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267053,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30267238,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hfe/h6f/28581920309278/prd-front-5634385-1_600x600/prd-front-5634385-1-600x600.jpg"
+}
