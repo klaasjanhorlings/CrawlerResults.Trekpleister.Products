@@ -7,7 +7,7 @@
   "priceOriginal": "9.99",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032573",
   "mmkId": "3032573",
   "productGroupId": "506513",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hf3/he6/33045501739038/prd-front-4700025-1_600x600/prd-front-4700025-1-600x600.jpg"
 }

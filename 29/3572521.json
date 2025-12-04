@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032489",
   "mmkId": "3032489",
   "productGroupId": "489246",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h04/h49/34998231040030/prd-front-3572521-1_600x600/prd-front-3572521-1-600x600.jpg"
 }

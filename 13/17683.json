@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/prd-front-17683-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA0NDF8aW1hZ2UvanBlZ3xhRGc1TDJobE9TOHhOalUzTnprM05qUTJOelE0Tmk5d2NtUXRabkp2Ym5RdE1UYzJPRE10TVY4Mk1EQjROakF3fGJiZGI0ZjJjMzZmNzRkODZhYWI5NzA5ZGQ1OGEyZGMxODUyOGRlYTFiZDdhMDZhMDNlMDY3ZmU5MWQ3YzI4N2M"
 }
