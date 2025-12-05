@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "HERKEL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032388",
   "mmkId": "3032388",
   "productGroupId": "294599",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267550,
-      "name": "Vitamine D"
+      "id": 30267286,
+      "name": "Botten en gewrichten"
     }
   ],
   "description": "25ml",

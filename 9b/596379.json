@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Paracetamol 120 Mg Zetpillen",
   "code": "596379",
-  "price": "2.39",
+  "price": "2.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6155 > 6170",
   "supplier": "AUROBINDO PHARMA BV",
@@ -37,5 +37,6 @@
       "name": "Paracetamol"
     }
   ],
-  "description": "Geneesmiddel - 10 stuks"
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/hae/h80/29499769782302/prd-front-596379-1_600x600/prd-front-596379-1-600x600.jpg"
 }

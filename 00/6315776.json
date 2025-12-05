@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2729 > 3432",
   "supplier": "GALVASTORE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032618",
   "mmkId": "3032618",
   "productGroupId": "509469",
@@ -37,6 +37,5 @@
       "name": "Talkpoeder"
     }
   ],
-  "description": "100g",
-  "image": "/medias/sys_master/prd-images/h0d/h39/34427445608478/prd-front-6315776-1_600x600/prd-front-6315776-1-600x600.jpg"
+  "description": "100g"
 }

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Menthol Zoutoplossing Neusspray",
   "code": "5142369",
-  "price": "3.89",
+  "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
   "supplier": "MAE PHARMA BV",
@@ -33,8 +33,8 @@
       "name": "Luchtwegen"
     },
     {
-      "id": 30267518,
-      "name": "Neusspray"
+      "id": 30267519,
+      "name": "Neusdruppels"
     }
   ],
   "description": "Medisch hulpmiddel - 15ml",

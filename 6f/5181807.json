@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Amylmetacresol Honing & Citroen Zuigtabletten",
   "code": "5181807",
-  "price": "2.99",
+  "price": "3.09",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
   "supplier": "MAE PHARMA BV",
@@ -37,6 +37,5 @@
       "name": "Keelpastilles"
     }
   ],
-  "description": "Geneesmiddel - 24 stuks",
-  "image": "/medias/sys_master/prd-images/h94/h37/44198877888542/prd-front-5181807-1_600x600/prd-front-5181807-1-600x600.jpg"
+  "description": "Geneesmiddel - 24 stuks"
 }

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Vitamine D3 50 ug Kauwtabletten",
   "code": "3963156",
-  "price": "6.89",
+  "price": "6.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "HERKEL BV",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267550,
-      "name": "Vitamine D"
+      "id": 30267286,
+      "name": "Botten en gewrichten"
     }
   ],
   "description": "300 stuks",

@@ -29,9 +29,14 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267286,
-      "name": "Botten en gewrichten"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/prd-front-4132675-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODgyOTJ8aW1hZ2UvanBlZ3xhR1E1TDJnek1TOHhOalU1TnpNd05EWXdOamMxTUM5d2NtUXRabkp2Ym5RdE5ERXpNalkzTlMweFh6WXdNSGcyTURBfDAwNjViODA1Yzg3YmNjYTk5ODIzMDA0ZTBiNTJiOTRlMDQ0ZDNmNjAxYjgyYjg2YjA3YjViMjkzZmIxMzk2NDE"
 }

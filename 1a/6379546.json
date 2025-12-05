@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Baby & Kids Baby Powder",
+  "code": "6379546",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2729 > 3432",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-baby-kids-baby-powder/p/6379546",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267580,
+      "name": "Talkpoeder"
+    }
+  ],
+  "description": "80g",
+  "image": "/medias/sys_master/prd-images/h08/h3e/44228306403358/prd-front-6379546-1_600x600/prd-front-6379546-1-600x600.jpg"
+}

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Magnesium B6 + CBD Tabletten",
   "code": "5846951",
-  "price": "7.99",
+  "price": "8.39",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6523 > 6524 > 6525",
   "supplier": "HERKEL BV",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267280,
-      "name": "CBD"
+      "id": 30267272,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50002051,
+      "name": "Magnesium"
     }
   ],
   "description": "60 stuks",

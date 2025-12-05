@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Vitamine D3 met Magnesium Tabletten",
   "code": "3963135",
-  "price": "5.39",
+  "price": "5.69",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "HERKEL BV",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267286,
-      "name": "Botten en gewrichten"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
   "description": "90 stuks",

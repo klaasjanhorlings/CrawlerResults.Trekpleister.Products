@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Glucosamine Chondroïtine MSM Tabletten",
   "code": "1255514",
-  "price": "14.29",
+  "price": "13.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "HERKEL BV",
@@ -33,6 +33,5 @@
       "name": "Glucosamine"
     }
   ],
-  "description": "120 stuks",
-  "image": "/medias/sys_master/prd-images/h1a/h19/33575020658718/prd-front-1255514-1_600x600/prd-front-1255514-1-600x600.jpg"
+  "description": "120 stuks"
 }

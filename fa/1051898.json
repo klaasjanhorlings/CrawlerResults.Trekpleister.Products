@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Multi A-Z Compleet  Tabletten",
   "code": "1051898",
-  "price": "3.39",
+  "price": "2.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HERKEL BV",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267552,
-      "name": "Multivitamines"
+      "id": 30267274,
+      "name": "Weerstand en of energie"
     }
   ],
   "description": "60 stuks",
