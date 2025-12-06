@@ -7,7 +7,7 @@
   "priceOriginal": "15.59",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
   "supplier": "UNILEVER NEDERLAND",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032649",
   "mmkId": "3032649",
   "productGroupId": "503149",
@@ -29,6 +29,5 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "1800ml, 36 wasbeurten",
-  "image": "/medias/sys_master/prd-images/hd3/h2a/34901422276638/prd-front-5491221-1_600x600/prd-front-5491221-1-600x600.jpg"
+  "description": "1800ml, 36 wasbeurten"
 }

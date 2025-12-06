@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4110",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Bandages en windsels"
     }
   ],
-  "description": "Medisch hulpmiddel - 5cm x 7.2cm, 5 stuks",
-  "image": "/medias/sys_master/prd-images/h9d/h45/30968157110302/prd-front-4399627-1_600x600/prd-front-4399627-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 5cm x 7.2cm, 5 stuks"
 }

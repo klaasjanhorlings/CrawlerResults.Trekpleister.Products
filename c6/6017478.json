@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "5g",
-  "image": "/medias/sys_master/prd-images/h68/h87/45065904291870/prd-front-6017478-1_600x600/prd-front-6017478-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6d/hdc/45077054226462/prd-front-6017478-1_600x600/prd-front-6017478-1-600x600.jpg"
 }

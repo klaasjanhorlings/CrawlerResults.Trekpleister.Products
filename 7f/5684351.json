@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Pantoprazol Tabletten",
   "code": "5684351",
-  "price": "6.89",
+  "price": "6.69",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3465",
   "supplier": "HEALTHYPHARM BV",
@@ -37,5 +37,6 @@
       "name": "Maagzuurremmers"
     }
   ],
-  "description": "Geneesmiddel - 14 stuks"
+  "description": "Geneesmiddel - 14 stuks",
+  "image": "/medias/sys_master/prd-images/h03/h20/28623937011742/prd-front-5684351-1_600x600/prd-front-5684351-1-600x600.jpg"
 }
