@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fa Paradise Moments Douchecrème",
   "code": "3720221",
-  "price": "1.5",
-  "priceOriginal": "4.29",
+  "price": "4.29",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3032698",
-  "mmkId": "3032698",
-  "productGroupId": "505713",
+  "onPromo": "3032872",
+  "mmkId": "3032872",
+  "productGroupId": "505714",
   "brandType": "A of B merk",
-  "discount": "€ 2,79",
+  "discount": "",
   "url": "/fa-paradise-moments-douchecreme/p/3720221",
   "listName": "Lister",
   "brand": "Fa",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h9a/h1c/44427660820510/prd-front-3720221-1_600x600/prd-front-3720221-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3032772",
+  "mmkId": "3032772",
+  "productGroupId": "473703",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/durex-thin-feel-extra-lube-condooms/p/6093134",
@@ -33,5 +33,6 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel - 40 stuks"
+  "description": "Medisch hulpmiddel - 40 stuks",
+  "image": "/medias/sys_master/prd-images/h5d/hfc/31057451417630/prd-front-6093134-1_600x600/prd-front-6093134-1-600x600.jpg"
 }

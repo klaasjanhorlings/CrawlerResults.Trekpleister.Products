@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032799",
+  "mmkId": "3032799",
+  "productGroupId": "489433",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-mystic-rose-body-butter/p/5292190",
@@ -33,5 +33,6 @@
       "name": "Bodybutter"
     }
   ],
-  "description": "225g"
+  "description": "225g",
+  "image": "/medias/sys_master/prd-images/hd6/h69/34758730743838/prd-front-5292190-1_600x600/prd-front-5292190-1-600x600.jpg"
 }

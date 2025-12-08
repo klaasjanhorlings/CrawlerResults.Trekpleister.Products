@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3246 > 4137",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3032528",
-  "mmkId": "3032528",
-  "productGroupId": "500964",
+  "onPromo": "3032854",
+  "mmkId": "3032854",
+  "productGroupId": "500969",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-texture-clay/p/4702874",
@@ -33,5 +33,6 @@
       "name": "Haarklei"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/ha6/hd5/33807816261662/prd-front-4702874-1_600x600/prd-front-4702874-1-600x600.jpg"
 }

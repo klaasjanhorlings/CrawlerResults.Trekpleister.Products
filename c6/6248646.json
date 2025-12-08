@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3032703",
-  "mmkId": "3032703",
-  "productGroupId": "509039",
+  "onPromo": "3032854",
+  "mmkId": "3032854",
+  "productGroupId": "500969",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/john-frieda-shimmering-silver-shampoo/p/6248646",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hb7/h0e/33258483613726/prd-front-6248646-1_600x600/prd-front-6248646-1-600x600.jpg"
 }

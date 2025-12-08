@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5161 > 5212 > 5401",
   "supplier": "ASMODEE THE NETHERLANDS",
   "inStock": "inStock",
-  "onPromo": "3032695",
-  "mmkId": "3032695",
-  "productGroupId": "500860",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/geef-een-hint-spel/p/6305556",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h25/h23/34103458693150/prd-front-6305556-1_600x600/prd-front-6305556-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6700",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032790",
+  "mmkId": "3032790",
+  "productGroupId": "484239",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/as-i-am-dry-itchy-scalp-care-conditioner/p/6394869",
@@ -33,6 +33,5 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "355ml",
-  "image": "/medias/sys_master/prd-images/h14/h83/44324425105438/prd-front-6394869-1_600x600/prd-front-6394869-1-600x600.jpg"
+  "description": "355ml"
 }

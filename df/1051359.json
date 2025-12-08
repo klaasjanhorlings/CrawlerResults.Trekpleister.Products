@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3032388",
-  "mmkId": "3032388",
-  "productGroupId": "294599",
+  "onPromo": "3032905",
+  "mmkId": "3032905",
+  "productGroupId": "509467",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamine-b12-tabletten/p/1051359",
@@ -37,5 +37,6 @@
       "name": "Vitamine B"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h4d/h4b/28549591826462/prd-front-1051359-1_600x600/prd-front-1051359-1-600x600.jpg"
 }

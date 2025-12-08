@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "3032534",
-  "mmkId": "3032534",
-  "productGroupId": "501648",
+  "onPromo": "3032862",
+  "mmkId": "3032862",
+  "productGroupId": "501669",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dkny-ice-pop-very-cherry-bodymist/p/6308237",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h86/h86/34991171698718/prd-front-6308237-1_600x600/prd-front-6308237-1-600x600.jpg"
 }

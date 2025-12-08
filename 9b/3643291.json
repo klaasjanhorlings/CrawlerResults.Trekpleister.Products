@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3032703",
-  "mmkId": "3032703",
-  "productGroupId": "509039",
+  "onPromo": "3032791",
+  "mmkId": "3032791",
+  "productGroupId": "484849",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-langdurig-volume-shampoo/p/3643291",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h8b/h35/44652012994590/prd-front-3643291-1_600x600/prd-front-3643291-1-600x600.jpg"
 }

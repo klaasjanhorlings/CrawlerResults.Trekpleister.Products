@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 3270 > 4171",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032895",
+  "mmkId": "3032895",
+  "productGroupId": "508484",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fixodent-original-kleefpasta/p/5160716",
@@ -33,5 +33,6 @@
       "name": "Kleefpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 70g"
+  "description": "Medisch hulpmiddel - 70g",
+  "image": "/medias/sys_master/prd-images/h8b/h68/33680784621598/prd-front-5160716-1_600x600/prd-front-5160716-1-600x600.jpg"
 }

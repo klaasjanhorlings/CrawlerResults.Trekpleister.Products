@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "3032704",
-  "mmkId": "3032704",
-  "productGroupId": "509043",
+  "inStock": "outOfStock",
+  "onPromo": "3032854",
+  "mmkId": "3032854",
+  "productGroupId": "500969",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-aqua-revive-conditioner/p/5808829",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h43/hfe/34030333689886/prd-front-5808829-1_600x600/prd-front-5808829-1-600x600.jpg"
+  "description": "200ml"
 }

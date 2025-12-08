@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Superstay 24h 444 Cosmic Coral Lipstick",
   "code": "2035503",
-  "price": "8.0",
-  "priceOriginal": "17.99",
+  "price": "17.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3032625",
-  "mmkId": "3032625",
-  "productGroupId": "510116",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 9,99",
+  "discount": "",
   "url": "/maybelline-new-york-superstay-24h-444-cosmic-coral-lipstick/p/2035503",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h0a/h53/45087320113182/prd-front-2035503-1_600x600/prd-front-2035503-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h68/h27/45095860830238/prd-front-2035503-1_600x600/prd-front-2035503-1-600x600.jpg"
 }

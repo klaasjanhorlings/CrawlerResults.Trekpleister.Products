@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2716 > 3419",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "3032716",
-  "mmkId": "3032716",
-  "productGroupId": "521408",
+  "onPromo": "3032918",
+  "mmkId": "3032918",
+  "productGroupId": "519211",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-baby-kids-milky-badolie/p/5742458",
@@ -37,6 +37,5 @@
       "name": "Babybadolie"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hfe/h3d/44641536737310/prd-front-5742458-1_600x600/prd-front-5742458-1-600x600.jpg"
+  "description": "100ml"
 }

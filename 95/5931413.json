@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
   "supplier": "SPEELGOEDLAND",
   "inStock": "inStock",
-  "onPromo": "3032695",
-  "mmkId": "3032695",
-  "productGroupId": "500860",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gabbys-dollhouse-super-style-album/p/5931413",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h49/hf8/30365079896094/prd-front-5931413-1_600x600/prd-front-5931413-1-600x600.jpg"
 }

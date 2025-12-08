@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Cantu Smooth Paddle Brush",
   "code": "5932848",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "6.75",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6320",
   "supplier": "ORIGINAL ADDITIONS (BP)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032764",
+  "mmkId": "3032764",
+  "productGroupId": "465849",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,24",
   "url": "/cantu-smooth-paddle-brush/p/5932848",
   "listName": "Lister",
   "brand": "Cantu",
@@ -33,5 +33,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "grijs"
+  "description": "grijs",
+  "image": "/medias/sys_master/prd-images/h22/h3c/28889340936222/prd-front-5932848-1_600x600/prd-front-5932848-1-600x600.jpg"
 }

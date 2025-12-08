@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3032695",
-  "mmkId": "3032695",
-  "productGroupId": "500860",
+  "onPromo": "3032919",
+  "mmkId": "3032919",
+  "productGroupId": "523239",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-technic-42208-aston-martin-valkyrie/p/6346464",
@@ -33,5 +33,6 @@
       "name": "LEGO Technic"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hca/h7f/35040670679070/prd-front-6346464-1_600x600/prd-front-6346464-1-600x600.jpg"
 }

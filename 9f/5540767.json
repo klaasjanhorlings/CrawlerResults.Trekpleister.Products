@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3032556",
-  "mmkId": "3032556",
-  "productGroupId": "505642",
+  "onPromo": "3032770",
+  "mmkId": "3032770",
+  "productGroupId": "473517",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-cellular-luminous630-oogcontourcreme/p/5540767",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Alle huidtypen"
+  "description": "15ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h2c/h05/44916691959838/prd-front-5540767-1_600x600/prd-front-5540767-1-600x600.jpg"
 }

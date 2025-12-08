@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "SUNSTAR BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032813",
+  "mmkId": "3032813",
+  "productGroupId": "495877",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gum-soft-picks-original-interdentale-tandenstokers/p/4371347",
@@ -33,5 +33,6 @@
       "name": "Tandenstokers"
     }
   ],
-  "description": "mt L, 50 stuks"
+  "description": "mt L, 50 stuks",
+  "image": "/medias/sys_master/prd-images/h8e/h3f/34514264326174/prd-front-4371347-1_600x600/prd-front-4371347-1-600x600.jpg"
 }

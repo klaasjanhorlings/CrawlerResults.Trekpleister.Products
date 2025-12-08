@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Cantu Avocado Hydrating Styling Mousse",
   "code": "6397536",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "6.74",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5918",
   "supplier": "ORIGINAL ADDITIONS (BP)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032764",
+  "mmkId": "3032764",
+  "productGroupId": "465849",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,25",
   "url": "/cantu-avocado-hydrating-styling-mousse/p/6397536",
   "listName": "Lister",
   "brand": "Cantu",
@@ -33,5 +33,6 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "248ml"
+  "description": "248ml",
+  "image": "/medias/sys_master/prd-images/h84/h97/44564596523038/prd-front-6397536-1_600x600/prd-front-6397536-1-600x600.jpg"
 }

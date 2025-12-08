@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032739",
+  "mmkId": "3032739",
+  "productGroupId": "502354",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-ninjamas-jongens-4-7-jaar-pyjama-pants/p/5951636",
@@ -29,6 +29,5 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - mt 4-7 jaar, 10 stuks",
-  "image": "/medias/sys_master/prd-images/ha9/hbe/28728405590046/prd-front-5951636-1_600x600/prd-front-5951636-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - mt 4-7 jaar, 10 stuks"
 }

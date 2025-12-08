@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032923",
+  "mmkId": "3032923",
+  "productGroupId": "463003",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-baby-startersbox/p/6386063",
@@ -33,6 +33,5 @@
       "name": "Baby bad- en doucheverzorging"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h9d/hca/44315775139870/prd-front-6386063-1_600x600/prd-front-6386063-1-600x600.jpg"
+  "description": ""
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5161 > 5212 > 5401",
   "supplier": "RAVENSBURGER BV",
   "inStock": "outOfStock",
-  "onPromo": "3032695",
-  "mmkId": "3032695",
-  "productGroupId": "500860",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ravensburger-minecraft-heroes-of-the-village-junior/p/6323028",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h9f/hf5/34682244595742/prd-front-6323028-1_600x600/prd-front-6323028-1-600x600.jpg"
+  "description": ""
 }

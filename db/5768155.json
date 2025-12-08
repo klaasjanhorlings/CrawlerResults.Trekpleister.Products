@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olvarit 12+M Knijpfruit Variatiemenu",
   "code": "5768155",
-  "price": "15.0",
-  "priceOriginal": "20.73",
+  "price": "20.73",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032622",
-  "mmkId": "3032622",
-  "productGroupId": "510067",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,73",
+  "discount": "",
   "url": "/olvarit-12m-knijpfruit-variatiemenu/p/5768155",
   "listName": "Lister",
   "brand": "Olvarit",
@@ -37,5 +37,6 @@
       "name": "12 maanden +"
     }
   ],
-  "description": "18 stuks"
+  "description": "18 stuks",
+  "image": "/medias/prd-front-5768155-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAzNTA3fGltYWdlL2pwZWd8YUdRekwyaGtPQzh4TnpFMU56TTJNekEwTURJNE5pOXdjbVF0Wm5KdmJuUXROVGMyT0RFMU5TMHhYell3TUhnMk1EQXw1MTMzZDMxM2I5OGI5YzkwY2ZiMzFmY2U0NTA5ZGFiMThiZGFmNjU4NmRmYWQzZjc3NTAxOTVmZTI4MDI2NGNl"
 }

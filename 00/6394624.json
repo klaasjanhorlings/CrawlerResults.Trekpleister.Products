@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Cantu Avocado Hydrating Shampoo",
   "code": "6394624",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "5.99",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "ORIGINAL ADDITIONS (BP)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032764",
+  "mmkId": "3032764",
+  "productGroupId": "465849",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/cantu-avocado-hydrating-shampoo/p/6394624",
   "listName": "Lister",
   "brand": "Cantu",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "400ml"
 }

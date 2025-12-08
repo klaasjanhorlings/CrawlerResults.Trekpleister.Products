@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Loving Blends Avocado-olie en Karitéboter Intens Voedende Crème",
   "code": "4706969",
-  "price": "3.49",
-  "priceOriginal": "6.99",
+  "price": "6.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 3577",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032573",
-  "mmkId": "3032573",
-  "productGroupId": "506513",
+  "onPromo": "3032878",
+  "mmkId": "3032878",
+  "productGroupId": "506525",
   "brandType": "A of B merk",
-  "discount": "€ 3,50",
+  "discount": "",
   "url": "/garnier-loving-blends-avocado-olie-en-kariteboter-intens-voedende-creme/p/4706969",
   "listName": "Lister",
   "brand": "Loving Blends",
@@ -33,5 +33,6 @@
       "name": "Leave-in conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hf5/h2f/32930457255966/prd-front-4706969-1_600x600/prd-front-4706969-1-600x600.jpg"
 }

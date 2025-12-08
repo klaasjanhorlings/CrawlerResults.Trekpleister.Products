@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3659",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032817",
+  "mmkId": "3032817",
+  "productGroupId": "496344",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tampax-regular-tampons/p/5829101",
@@ -33,6 +33,5 @@
       "name": "Tampons"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/hbd/h76/32108305973278/prd-front-5829101-1_600x600/prd-front-5829101-1-600x600.jpg"
+  "description": "20 stuks"
 }

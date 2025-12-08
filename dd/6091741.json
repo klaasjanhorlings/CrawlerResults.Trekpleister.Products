@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Bach Rescue Nacht Druppels",
   "code": "6091741",
-  "price": "17.75",
-  "priceOriginal": "",
+  "price": "13.31",
+  "priceOriginal": "17.75",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6299",
   "supplier": "TS HEALTH PRODUCTS",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3032824",
+  "mmkId": "3032824",
+  "productGroupId": "497041",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,44",
   "url": "/bach-rescue-nacht-druppels/p/6091741",
   "listName": "Lister",
   "brand": "Bach rescue",
@@ -33,6 +33,5 @@
       "name": "Overige supplementen"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h3b/h07/34836616740894/prd-front-6091741-1_600x600/prd-front-6091741-1-600x600.jpg"
+  "description": "10ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032685",
-  "mmkId": "3032685",
-  "productGroupId": "498287",
+  "onPromo": "3032923",
+  "mmkId": "3032923",
+  "productGroupId": "463003",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-africa-deodorant-bodyspray/p/3100665",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hb6/he3/33408419299358/prd-front-3100665-1_600x600/prd-front-3100665-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fluffy Unicorn Make-Up Boek",
+  "code": "6386084",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 4637 > 4638 > 4639",
+  "supplier": "TREFFINA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/fluffy-unicorn-make-up-boek/p/6386084",
+  "listName": "Lister",
+  "brand": "Casuelle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666589,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb3/hfc/44589750255646/prd-front-6386084-1_600x600/prd-front-6386084-1-600x600.jpg"
+}

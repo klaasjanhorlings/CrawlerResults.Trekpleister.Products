@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Winter Magical Geschenkset",
+  "code": "6341424",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
+  "supplier": "JEAN LASSCHUIT PRODUCTS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/winter-magical-geschenkset/p/6341424",
+  "listName": "Lister",
+  "brand": "Geschenkset",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267049,
+      "name": "Bad- en doucheaccessoires"
+    }
+  ],
+  "description": "goudkleur",
+  "image": "/medias/sys_master/prd-images/h63/hf9/44001605124126/prd-front-6341424-1_600x600/prd-front-6341424-1-600x600.jpg"
+}

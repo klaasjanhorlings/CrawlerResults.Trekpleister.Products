@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "outOfStock",
-  "onPromo": "3032695",
-  "mmkId": "3032695",
-  "productGroupId": "500860",
+  "onPromo": "3032919",
+  "mmkId": "3032919",
+  "productGroupId": "523239",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-botanicals-10349-happy-plants/p/6298444",
@@ -33,5 +33,6 @@
       "name": "LEGO Bloemen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd4/h5e/44038685556766/prd-front-6298444-1_600x600/prd-front-6298444-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032690",
-  "mmkId": "3032690",
-  "productGroupId": "499302",
+  "onPromo": "3032923",
+  "mmkId": "3032923",
+  "productGroupId": "463003",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-pro-nature-shea-strong-repair-shampoo/p/5829241",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h7f/hf3/28573710024734/prd-front-5829241-1_600x600/prd-front-5829241-1-600x600.jpg"
 }

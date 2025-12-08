@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Sudocrem Multi-Expert Crème",
   "code": "1613179",
-  "price": "5.49",
-  "priceOriginal": "",
+  "price": "4.67",
+  "priceOriginal": "5.49",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
   "supplier": "TEVA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032903",
+  "mmkId": "3032903",
+  "productGroupId": "509035",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 0,82",
   "url": "/sudocrem-multi-expert-creme/p/1613179",
   "listName": "Lister",
   "brand": "Sudocrem",
@@ -37,6 +37,5 @@
       "name": "Zinkzalf"
     }
   ],
-  "description": "Medisch hulpmiddel - 60g",
-  "image": "/medias/prd-front-1613179-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzU4OTR8aW1hZ2UvanBlZ3xhRGMxTDJnMVlTOHhOakkxTURRME9EUTNPREl6T0M5d2NtUXRabkp2Ym5RdE1UWXhNekUzT1MweFh6WXdNSGcyTURBfDE1MDIzMTk1ZmQ5Y2UzZDJhZjQ0ZDc1ODU2ODg1ZWUwYjZlMGFiYWQyMmUxOWE0MGZhOGM3ZmZhZjQzZDc4NmE"
+  "description": "Medisch hulpmiddel - 60g"
 }

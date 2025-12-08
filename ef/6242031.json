@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Tattoo Liner 110 Black Track Dip-Ink Liquid Eyeliner",
   "code": "6242031",
-  "price": "9.99",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3032561",
-  "mmkId": "3032561",
-  "productGroupId": "506383",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/maybelline-new-york-tattoo-liner-110-black-track-dip-ink-liquid-eyeliner/p/6242031",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "3,5ml"
+  "description": "3,5ml",
+  "image": "/medias/sys_master/prd-images/h06/h43/44832900120606/prd-front-6242031-1_600x600/prd-front-6242031-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
   "supplier": "SPEELGOEDLAND",
   "inStock": "inStock",
-  "onPromo": "3032695",
-  "mmkId": "3032695",
-  "productGroupId": "500860",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/disney-stitch-tekenset/p/6342110",
@@ -29,6 +29,5 @@
       "name": "Knutselen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h23/h5a/35026103369758/prd-front-6342110-1_600x600/prd-front-6342110-1-600x600.jpg"
+  "description": ""
 }

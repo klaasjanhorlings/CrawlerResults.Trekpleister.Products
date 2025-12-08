@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olvarit 8+M Maaltijd Variatiemenu",
   "code": "4670793",
-  "price": "15.0",
-  "priceOriginal": "17.88",
+  "price": "17.88",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032622",
-  "mmkId": "3032622",
-  "productGroupId": "510067",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,88",
+  "discount": "",
   "url": "/olvarit-8m-maaltijd-variatiemenu/p/4670793",
   "listName": "Lister",
   "brand": "Olvarit",
@@ -37,5 +37,6 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "12 x 200g"
+  "description": "12 x 200g",
+  "image": "/medias/sys_master/prd-images/h4f/h82/44565282160670/prd-front-4670793-1_600x600/prd-front-4670793-1-600x600.jpg"
 }

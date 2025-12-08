@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032571",
-  "mmkId": "3032571",
-  "productGroupId": "506498",
+  "onPromo": "3032875",
+  "mmkId": "3032875",
+  "productGroupId": "506506",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/l-oreal-paris-elvive-extraordinary-oil-krulverzorgende-shampoo/p/3656948",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hb3/hab/33047060316190/prd-front-3656948-1_600x600/prd-front-3656948-1-600x600.jpg"
+  "description": "250ml"
 }

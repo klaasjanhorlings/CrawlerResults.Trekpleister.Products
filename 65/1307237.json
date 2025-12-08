@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032711",
-  "mmkId": "3032711",
-  "productGroupId": "512077",
+  "onPromo": "3032923",
+  "mmkId": "3032923",
+  "productGroupId": "463003",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-men-sensitive-antitranspirant-deodorant-spray/p/1307237",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/ha5/h36/44520511832094/prd-front-1307237-1_600x600/prd-front-1307237-1-600x600.jpg"
 }

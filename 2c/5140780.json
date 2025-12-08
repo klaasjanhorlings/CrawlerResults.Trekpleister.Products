@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3032832",
+  "mmkId": "3032832",
+  "productGroupId": "497407",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/valdispert-nacht-dragees/p/5140780",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "40 stuks"
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/hbc/hde/44923035025438/prd-front-5140780-1_600x600/prd-front-5140780-1-600x600.jpg"
 }

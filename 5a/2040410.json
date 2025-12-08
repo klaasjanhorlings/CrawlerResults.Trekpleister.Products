@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032500",
-  "mmkId": "3032500",
-  "productGroupId": "497268",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gluconcombi-glucosamine-chondroitine-vitamine-c-tabletten/p/2040410",
@@ -33,5 +33,6 @@
       "name": "Glucosamine"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/prd-front-2040410-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTA1Nzl8aW1hZ2UvanBlZ3xhRFkxTDJoa1lpOHhOak0zT0RVeE1UVXlNemczTUM5d2NtUXRabkp2Ym5RdE1qQTBNRFF4TUMweFh6WXdNSGcyTURBfDkyMzBhZjFmOWE2OGMyMGE0OWJjNGFjZGQyNWY3ZmI2ODcyYWU4MzI1MzI3MzZiYTdhZjdhYjNhNzM4YzQwOTA"
 }

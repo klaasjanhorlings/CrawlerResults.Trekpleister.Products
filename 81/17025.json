@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032849",
+  "mmkId": "3032849",
+  "productGroupId": "500791",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/labello-original-lippenbalsem/p/17025",
@@ -33,6 +33,5 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "4,8g",
-  "image": "/medias/sys_master/prd-images/h0c/h47/44554788274206/prd-front-17025-1_600x600/prd-front-17025-1-600x600.jpg"
+  "description": "4,8g"
 }

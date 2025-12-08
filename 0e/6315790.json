@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "3032618",
-  "mmkId": "3032618",
-  "productGroupId": "509469",
+  "onPromo": "3032388",
+  "mmkId": "3032388",
+  "productGroupId": "294599",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-shampoo/p/6315790",
@@ -37,5 +37,6 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hbb/hc7/34426213990430/prd-front-6315790-1_600x600/prd-front-6315790-1-600x600.jpg"
 }

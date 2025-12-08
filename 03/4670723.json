@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olvarit 8+M Fruit Variatiemenu",
   "code": "4670723",
-  "price": "15.0",
-  "priceOriginal": "16.68",
+  "price": "16.68",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032622",
-  "mmkId": "3032622",
-  "productGroupId": "510067",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,68",
+  "discount": "",
   "url": "/olvarit-8m-fruit-variatiemenu/p/4670723",
   "listName": "Lister",
   "brand": "Olvarit",
@@ -37,6 +37,5 @@
       "name": "8 maanden +"
     }
   ],
-  "description": "12 x 200g",
-  "image": "/medias/sys_master/prd-images/hc7/h43/30689291337758/prd-front-4670723-1_600x600/prd-front-4670723-1-600x600.jpg"
+  "description": "12 x 200g"
 }

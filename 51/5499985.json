@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3032485",
-  "mmkId": "3032485",
-  "productGroupId": "483983",
+  "onPromo": "3032940",
+  "mmkId": "3032940",
+  "productGroupId": "483984",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-skin-booster-hydrating-serum/p/5499985",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml - Alle huidtypen"
+  "description": "30ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hde/ha0/34531764240414/prd-front-5499985-1_600x600/prd-front-5499985-1-600x600.jpg"
 }

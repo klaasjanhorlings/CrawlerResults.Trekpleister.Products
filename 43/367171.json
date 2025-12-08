@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Trekpleister Multivitaminen & Mineralen Extra Bruistabletten",
   "code": "367171",
-  "price": "2.72",
-  "priceOriginal": "3.89",
+  "price": "3.89",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6285",
   "supplier": "NUTRILO GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3032641",
-  "mmkId": "3032641",
-  "productGroupId": "513716",
+  "onPromo": "3032388",
+  "mmkId": "3032388",
+  "productGroupId": "294599",
   "brandType": "Eigen merk",
-  "discount": "€ 1,17",
+  "discount": "",
   "url": "/trekpleister-multivitaminen-mineralen-extra-bruistabletten/p/367171",
   "listName": "Lister",
   "brand": "Trekpleister",
@@ -33,6 +33,5 @@
       "name": "Weerstand en of energie"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/hcc/h10/28549330501662/prd-front-367171-1_600x600/prd-front-367171-1-600x600.jpg"
+  "description": "20 stuks"
 }

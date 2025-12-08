@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Denman D300 The Curling Vent Borstel",
   "code": "5949081",
-  "price": "6.49",
-  "priceOriginal": "12.99",
+  "price": "12.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6320",
   "supplier": "DENMAN INTERNATIONAL LTD",
   "inStock": "inStock",
-  "onPromo": "3032475",
-  "mmkId": "3032475",
-  "productGroupId": "473032",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 6,50",
+  "discount": "",
   "url": "/denman-d300-the-curling-vent-borstel/p/5949081",
   "listName": "Lister",
   "brand": "Denman",
@@ -33,6 +33,5 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/h00/hdf/29088409944094/prd-front-5949081-1_600x600/prd-front-5949081-1-600x600.jpg"
+  "description": "zwart"
 }

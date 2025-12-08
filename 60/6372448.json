@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wanderflower Revival Geschenkset",
+  "code": "6372448",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wanderflower-revival-geschenkset/p/6372448",
+  "listName": "Lister",
+  "brand": "Wanderflower",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267049,
+      "name": "Bad- en doucheaccessoires"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h36/hbf/44000515358750/prd-front-6372448-1_600x600/prd-front-6372448-1-600x600.jpg"
+}

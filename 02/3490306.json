@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "ONTEX BVBA",
   "inStock": "inStock",
-  "onPromo": "3032482",
-  "mmkId": "3032482",
-  "productGroupId": "483550",
+  "onPromo": "3032388",
+  "mmkId": "3032388",
+  "productGroupId": "294599",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-long-inlegkruisjes/p/3490306",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "32 stuks"
+  "description": "32 stuks",
+  "image": "/medias/sys_master/prd-images/h6f/h8b/28586459234334/prd-front-3490306-1_600x600/prd-front-3490306-1-600x600.jpg"
 }

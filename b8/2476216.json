@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3032610",
-  "mmkId": "3032610",
-  "productGroupId": "508433",
+  "onPromo": "3032808",
+  "mmkId": "3032808",
+  "productGroupId": "494349",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/parodontax-daily-care-extra-fresh-mondwater/p/2476216",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h58/hc0/34722352431134/prd-front-2476216-1_600x600/prd-front-2476216-1-600x600.jpg"
 }

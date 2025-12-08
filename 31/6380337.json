@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tommy Hilfiger Tommy Forever Eau de Toilette",
   "code": "6380337",
-  "price": "25.99",
-  "priceOriginal": "",
+  "price": "24.99",
+  "priceOriginal": "25.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032857",
+  "mmkId": "3032857",
+  "productGroupId": "501597",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,00",
   "url": "/tommy-hilfiger-tommy-forever-eau-de-toilette/p/6380337",
   "listName": "Lister",
   "brand": "Tommy Hilfiger",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he8/h4d/44188817457182/prd-front-6380337-1_600x600/prd-front-6380337-1-600x600.jpg"
 }

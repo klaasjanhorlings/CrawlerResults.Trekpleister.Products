@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Age Perfect Cell Renaissance Dagcrème",
   "code": "4224389",
-  "price": "16.0",
-  "priceOriginal": "39.99",
+  "price": "39.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032539",
-  "mmkId": "3032539",
-  "productGroupId": "503042",
+  "onPromo": "3032833",
+  "mmkId": "3032833",
+  "productGroupId": "497486",
   "brandType": "A of B merk",
-  "discount": "€ 23,99",
+  "discount": "",
   "url": "/loreal-paris-age-perfect-cell-renaissance-dagcreme/p/4224389",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/hc8/h28/35156604747806/prd-front-4224389-1_600x600/prd-front-4224389-1-600x600.jpg"
 }

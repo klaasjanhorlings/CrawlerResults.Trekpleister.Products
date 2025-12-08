@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032902",
+  "mmkId": "3032902",
+  "productGroupId": "509001",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-facefinity-006-golden-compact-foundation/p/6006579",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "10g",
-  "image": "/medias/sys_master/prd-images/h4f/h0d/29786825752606/prd-front-6006579-1_600x600/prd-front-6006579-1-600x600.jpg"
+  "description": "10g"
 }

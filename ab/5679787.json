@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "3032510",
-  "mmkId": "3032510",
-  "productGroupId": "498886",
+  "onPromo": "3032870",
+  "mmkId": "3032870",
+  "productGroupId": "505234",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-9m-360-beker/p/5679787",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "bruin, 250ml"
+  "description": "bruin, 250ml",
+  "image": "/medias/prd-front-5679787-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTQwMDR8aW1hZ2UvanBlZ3xhRFF4TDJnME1DOHhOekExT1RNMk5URXlOakUzTkM5d2NtUXRabkp2Ym5RdE5UWTNPVGM0TnkweFh6WXdNSGcyTURBfGNmMGNlZmYwZWFiNjliMzViOTE3ZmE5MzU2ZDRkNTU5MzZiMGNjODNjNDY2ODc4NjU5ODc5ZDU1OGFjZGUxZGI"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 6733 > 6734 > 6735",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "3032695",
-  "mmkId": "3032695",
-  "productGroupId": "500860",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/999-games-pick-a-pen-crypten/p/6243501",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/hc3/h59/33104661184542/prd-front-6243501-1_600x600/prd-front-6243501-1-600x600.jpg"
 }

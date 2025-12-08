@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "PIETERCIL BARENDS BV",
   "inStock": "inStock",
-  "onPromo": "3032549",
-  "mmkId": "3032549",
-  "productGroupId": "503784",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fenjal-intensive-douche-creme/p/289358",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hb4/he0/30686298177566/prd-front-289358-1_600x600/prd-front-289358-1-600x600.jpg"
 }
