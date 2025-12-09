@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Ultimate Chrome Champagne Gold Tangle Teezer",
   "code": "6223460",
-  "price": "19.99",
+  "price": "20.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6320",
   "supplier": "NEW FLAG BENELUX BV",
@@ -37,5 +37,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "goudkleur"
+  "description": "goudkleur",
+  "image": "/medias/sys_master/prd-images/h17/h71/32569079332894/prd-front-6223460-1_600x600/prd-front-6223460-1-600x600.jpg"
 }

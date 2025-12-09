@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032836",
   "mmkId": "3032836",
   "productGroupId": "497552",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/prd-front-5540830-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzUxNzZ8aW1hZ2UvanBlZ3xhR001TDJoaU5DOHhOekExT0RNMk56UXdOakV4TUM5d2NtUXRabkp2Ym5RdE5UVTBNRGd6TUMweFh6WXdNSGcyTURBfDUxNTAwZmQwOWUzNzI1NTYzZDA2YzdkYTFkNTIxOWQyNzU5ZGVkZGFjZDY3YTA5MWNhMzUyNGU2Yjk0ZDkwMzE"
 }

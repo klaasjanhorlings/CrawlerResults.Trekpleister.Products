@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Allround 010 Blackest Carbon Black Ever Mascara",
-  "code": "2734369",
-  "price": "2.99",
+  "itemName": "Catrice 080 Dive Love Olive Waterproof Kohl Kajal",
+  "code": "5707836",
+  "price": "1.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-allround-010-blackest-carbon-black-ever-mascara/p/2734369",
+  "url": "/catrice-080-dive-love-olive-waterproof-kohl-kajal/p/5707836",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267133,
-      "name": "Mascara"
+      "id": 30267142,
+      "name": "Oogpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h73/h9b/29926273122334/prd-front-2734369-1_600x600/prd-front-2734369-1-600x600.jpg"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h9d/h24/29938935758878/prd-front-5707836-1_600x600/prd-front-5707836-1-600x600.jpg"
 }
