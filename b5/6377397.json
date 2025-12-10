@@ -25,13 +25,14 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267063,
-      "name": "Sportvoeding"
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
     },
     {
-      "id": 30267312,
-      "name": "Sportaccessoires"
+      "id": 30267301,
+      "name": "Zoetstoffen"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h29/h85/44239947726878/prd-front-6377397-1_600x600/prd-front-6377397-1-600x600.jpg"
 }

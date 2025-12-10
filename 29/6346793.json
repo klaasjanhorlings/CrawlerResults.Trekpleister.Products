@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "LEGO Animal Crossing 77058 Goldies Knusse Huisje",
   "code": "6346793",
-  "price": "17.99",
-  "priceOriginal": "",
+  "price": "10.79",
+  "priceOriginal": "17.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3032919",
-  "mmkId": "3032919",
-  "productGroupId": "523239",
+  "onPromo": "3033458",
+  "mmkId": "3033458",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,20",
   "url": "/lego-animal-crossing-77058-goldies-knusse-huisje/p/6346793",
   "listName": "Lister",
   "brand": "LEGO",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69035760,
-      "name": "LEGO Games"
+      "id": 69045709,
+      "name": "LEGO Verjaardagscadeaus"
     }
   ],
   "description": "",

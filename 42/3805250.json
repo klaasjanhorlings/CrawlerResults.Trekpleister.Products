@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cantu For Kids Nourishing Conditioner",
+  "code": "3805250",
+  "price": "4.49",
+  "priceOriginal": "5.99",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6700",
+  "supplier": "ORIGINAL ADDITIONS (BP)",
+  "inStock": "inStock",
+  "onPromo": "3032764",
+  "mmkId": "3032764",
+  "productGroupId": "465849",
+  "brandType": "Exclusief merk",
+  "discount": "€ 1,50",
+  "url": "/cantu-for-kids-nourishing-conditioner/p/3805250",
+  "listName": "Lister",
+  "brand": "Cantu",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 82417106,
+      "name": "Krullenverzorging"
+    }
+  ],
+  "description": "237ml",
+  "image": "/medias/sys_master/prd-images/h70/he1/44567852449822/prd-front-3805250-1_600x600/prd-front-3805250-1-600x600.jpg"
+}

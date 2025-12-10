@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032790",
   "mmkId": "3032790",
   "productGroupId": "484239",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "119ml"
+  "description": "119ml",
+  "image": "/medias/sys_master/prd-images/h76/h6d/44326221643806/prd-front-6391936-1_600x600/prd-front-6391936-1-600x600.jpg"
 }

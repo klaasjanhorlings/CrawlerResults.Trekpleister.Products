@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sence The Grinch Geschenkset",
+  "code": "6378405",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 2440 > 2935 > 3730",
+  "supplier": "TOPBRANDS EUROPE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/sence-the-grinch-geschenkset/p/6378405",
+  "listName": "Lister",
+  "brand": "SENCE",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666589,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h61/hf4/44591637430302/prd-front-6378405-1_600x600/prd-front-6378405-1-600x600.jpg"
+}

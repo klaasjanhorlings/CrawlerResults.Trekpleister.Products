@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032836",
   "mmkId": "3032836",
   "productGroupId": "497552",
@@ -37,6 +37,5 @@
       "name": "Eczeemcreme"
     }
   ],
-  "description": "Medisch hulpmiddel - 50ml",
-  "image": "/medias/sys_master/prd-images/hff/ha5/44274753110046/prd-front-4431085-1_600x600/prd-front-4431085-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 50ml"
 }

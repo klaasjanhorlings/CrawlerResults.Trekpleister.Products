@@ -7,7 +7,7 @@
   "priceOriginal": "79.99",
   "itemBgbcat": "2006 > 2070 > 2156 > 6463 > 6464 > 6401",
   "supplier": "TRIPLE A MARKETING GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032769",
   "mmkId": "3032769",
   "productGroupId": "473327",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267062,
-      "name": "Seksualiteit"
-    },
-    {
-      "id": 30267304,
-      "name": "Seksspeeltjes"
-    },
-    {
-      "id": 30267554,
-      "name": "Satisfier"
+      "id": 52211379,
+      "name": "Adventskalenders"
     }
   ],
   "description": "",
