@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "e.l.f. Soft Glam 53 Deep Neutral Satin Foundation",
   "code": "6274805",
-  "price": "10.0",
-  "priceOriginal": "",
+  "price": "8.0",
+  "priceOriginal": "10.0",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032938",
+  "mmkId": "3032938",
+  "productGroupId": "509753",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/elf-soft-glam-53-deep-neutral-satin-foundation/p/6274805",
   "listName": "Lister",
   "brand": "ELF",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hc5/h00/34022664896542/prd-front-6274805-1_600x600/prd-front-6274805-1-600x600.jpg"
+  "description": "30ml"
 }

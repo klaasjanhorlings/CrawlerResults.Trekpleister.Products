@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Expert Fondamental Nachtcrème",
+  "code": "4071915",
+  "price": "21.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "3032768",
+  "mmkId": "3032768",
+  "productGroupId": "473166",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-expert-fondamental-nachtcreme/p/4071915",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h9e/h2a/34599588200478/prd-front-4071915-1_600x600/prd-front-4071915-1-600x600.jpg"
+}

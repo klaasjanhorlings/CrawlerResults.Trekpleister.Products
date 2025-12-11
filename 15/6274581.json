@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "e.l.f. Intense H2O Proof Deep Brown Eyeliner Pen",
+  "code": "6274581",
+  "price": "7.2",
+  "priceOriginal": "9.0",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "3032938",
+  "mmkId": "3032938",
+  "productGroupId": "509753",
+  "brandType": "A of B merk",
+  "discount": "€ 1,80",
+  "url": "/elf-intense-h2o-proof-deep-brown-eyeliner-pen/p/6274581",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267143,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "1,2ml",
+  "image": "/medias/sys_master/prd-images/h22/h2f/44325393629214/prd-front-6274581-1_600x600/prd-front-6274581-1-600x600.jpg"
+}

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "e.l.f. Cream & Sugar Bite-Size Oogschaduwpalet",
   "code": "6275645",
-  "price": "6.0",
-  "priceOriginal": "",
+  "price": "4.8",
+  "priceOriginal": "6.0",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "outOfStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032938",
+  "mmkId": "3032938",
+  "productGroupId": "509753",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,20",
   "url": "/elf-cream-sugar-bite-size-oogschaduwpalet/p/6275645",
   "listName": "Lister",
   "brand": "ELF",
@@ -37,6 +37,5 @@
       "name": "Palette oogschaduw"
     }
   ],
-  "description": "3,5g",
-  "image": "/medias/sys_master/prd-images/hf2/hf5/34041225969694/prd-front-6275645-1_600x600/prd-front-6275645-1-600x600.jpg"
+  "description": "3,5g"
 }

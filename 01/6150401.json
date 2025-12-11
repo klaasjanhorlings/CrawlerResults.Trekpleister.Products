@@ -7,7 +7,7 @@
   "priceOriginal": "39.99",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5720 > 3869",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032806",
   "mmkId": "3032806",
   "productGroupId": "494260",
@@ -33,5 +33,6 @@
       "name": "Baardtrimmers"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h80/h88/34048506593310/prd-front-6150401-1_600x600/prd-front-6150401-1-600x600.jpg"
 }

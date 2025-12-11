@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032832",
   "mmkId": "3032832",
   "productGroupId": "497407",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hde/h2d/44937769484318/prd-front-5930566-1_600x600/prd-front-5930566-1-600x600.jpg"
 }

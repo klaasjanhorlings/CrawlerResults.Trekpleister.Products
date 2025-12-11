@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5926 > 6679 > 2146 > 5980 > 5997 > 6732",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Kaarsen"
     }
   ],
-  "description": "rood, 3 stuks"
+  "description": "rood, 3 stuks",
+  "image": "/medias/sys_master/prd-images/ha1/hda/44557384122398/prd-front-6303344-1_600x600/prd-front-6303344-1-600x600.jpg"
 }

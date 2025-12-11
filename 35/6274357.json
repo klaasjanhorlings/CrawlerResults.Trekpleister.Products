@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "e.l.f. Ultra Precise Neutral Brown Brow Pencil",
+  "code": "6274357",
+  "price": "6.4",
+  "priceOriginal": "8.0",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "3032938",
+  "mmkId": "3032938",
+  "productGroupId": "509753",
+  "brandType": "A of B merk",
+  "discount": "€ 1,60",
+  "url": "/elf-ultra-precise-neutral-brown-brow-pencil/p/6274357",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267174,
+      "name": "Make-up kwasten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb3/hf4/34022035324958/prd-front-6274357-1_600x600/prd-front-6274357-1-600x600.jpg"
+}

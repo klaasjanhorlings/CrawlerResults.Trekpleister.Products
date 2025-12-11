@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bruno Banani Vanilla Muse Eau de Parfum",
+  "code": "6382136",
+  "price": "27.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "3032859",
+  "mmkId": "3032859",
+  "productGroupId": "501657",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bruno-banani-vanilla-muse-eau-de-parfum/p/6382136",
+  "listName": "Lister",
+  "brand": "Bruno Banani",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h77/h9c/44148129726494/prd-front-6382136-1_600x600/prd-front-6382136-1-600x600.jpg"
+}

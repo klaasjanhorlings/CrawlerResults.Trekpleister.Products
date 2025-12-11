@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "e.l.f. Waterproof Auburn Instant Lift Brow Pencil",
+  "code": "6274343",
+  "price": "4.8",
+  "priceOriginal": "6.0",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "3032938",
+  "mmkId": "3032938",
+  "productGroupId": "509753",
+  "brandType": "A of B merk",
+  "discount": "€ 1,20",
+  "url": "/elf-waterproof-auburn-instant-lift-brow-pencil/p/6274343",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267174,
+      "name": "Make-up kwasten"
+    }
+  ],
+  "description": "0,24g",
+  "image": "/medias/sys_master/prd-images/h3c/h6e/34312188362782/prd-front-6274343-1_600x600/prd-front-6274343-1-600x600.jpg"
+}

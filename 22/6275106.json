@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "e.l.f. Pout Clout Pinky Out Lip Plumping Pen",
   "code": "6275106",
-  "price": "10.0",
-  "priceOriginal": "",
+  "price": "8.0",
+  "priceOriginal": "10.0",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032938",
+  "mmkId": "3032938",
+  "productGroupId": "509753",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/elf-pout-clout-pinky-out-lip-plumping-pen/p/6275106",
   "listName": "Lister",
   "brand": "ELF",
@@ -37,5 +37,6 @@
       "name": "Lip plumper"
     }
   ],
-  "description": "2g"
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/h3e/h74/34041224265758/prd-front-6275106-1_600x600/prd-front-6275106-1-600x600.jpg"
 }

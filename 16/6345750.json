@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Bluey 11201 Bluey en Chloé In De Speeltuin",
+  "code": "6345750",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "3032919",
+  "mmkId": "3032919",
+  "productGroupId": "523239",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-bluey-11201-bluey-en-chloe-in-de-speeltuin/p/6345750",
+  "listName": "Lister",
+  "brand": "LEGO Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69046935,
+      "name": "LEGO Peuters en Kleuters"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h59/hf5/34956361957406/prd-front-6345750-1_600x600/prd-front-6345750-1-600x600.jpg"
+}
