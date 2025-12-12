@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Gaaskompressen",
   "code": "2889335",
-  "price": "2.49",
+  "price": "2.59",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2930 > 3725",
   "supplier": "GEOCOS BV",
@@ -29,8 +29,8 @@
       "name": "Wondverzorging"
     },
     {
-      "id": 30267293,
-      "name": "Steriele gaasjes"
+      "id": 30267295,
+      "name": "Kompressen"
     }
   ],
   "description": "Medisch hulpmiddel - 8,5cm x 5cm, 16 stuks",

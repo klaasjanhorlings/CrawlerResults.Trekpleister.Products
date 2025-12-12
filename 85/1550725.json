@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032832",
   "mmkId": "3032832",
   "productGroupId": "497407",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267281,
-      "name": "Rust en ontspanning"
+      "id": 49950754,
+      "name": "Natuurlijke supplementen"
     }
   ],
   "description": "20 stuks",

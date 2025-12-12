@@ -3,11 +3,11 @@
   "currency": "EUR",
   "itemName": "Organix Bio Peer & Framboos 6+M Knijpfruit",
   "code": "5639481",
-  "price": "1.45",
+  "price": "1.49",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "HERO NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032884",
   "mmkId": "3032884",
   "productGroupId": "508218",
@@ -37,6 +37,5 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "100g",
-  "image": "/medias/sys_master/prd-images/h1c/h69/32883417186334/prd-front-5639481-1_600x600/prd-front-5639481-1-600x600.jpg"
+  "description": "100g"
 }

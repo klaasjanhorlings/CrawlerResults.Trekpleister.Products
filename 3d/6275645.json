@@ -7,7 +7,7 @@
   "priceOriginal": "6.0",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "ELF BEAUTY UK LIMITED",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032938",
   "mmkId": "3032938",
   "productGroupId": "509753",
@@ -37,5 +37,6 @@
       "name": "Palette oogschaduw"
     }
   ],
-  "description": "3,5g"
+  "description": "3,5g",
+  "image": "/medias/sys_master/prd-images/hf2/hf5/34041225969694/prd-front-6275645-1_600x600/prd-front-6275645-1-600x600.jpg"
 }

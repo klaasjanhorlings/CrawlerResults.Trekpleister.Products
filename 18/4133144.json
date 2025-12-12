@@ -7,7 +7,7 @@
   "priceOriginal": "14.49",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3527",
   "supplier": "OMEGA PHARMA NEDERLAND",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032812",
   "mmkId": "3032812",
   "productGroupId": "495321",
@@ -33,8 +33,8 @@
       "name": "Luchtwegen"
     },
     {
-      "id": 49313535,
-      "name": "Neusreiniger"
+      "id": 30267518,
+      "name": "Neusspray"
     }
   ],
   "description": "Medisch hulpmiddel - 135ml",

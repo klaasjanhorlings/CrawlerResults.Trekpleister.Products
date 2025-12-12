@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Mango Perzik Smaakdruppels",
   "code": "6377397",
-  "price": "3.49",
+  "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6391 > 6392",
   "supplier": "PK BENELUX BV",
@@ -33,5 +33,6 @@
       "name": "Zoetstoffen"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h29/h85/44239947726878/prd-front-6377397-1_600x600/prd-front-6377397-1-600x600.jpg"
 }
