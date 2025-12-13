@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Givenchy L'Interdit Eau de Parfum",
-  "code": "5514006",
-  "price": "59.99",
-  "priceOriginal": "",
-  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "itemName": "Gucci Rush Eau de Toilette",
+  "code": "4259704",
+  "price": "76.99",
+  "priceOriginal": "92.86",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "JTG BV",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
-  "url": "/givenchy-linterdit-eau-de-parfum/p/5514006",
+  "discount": "€ 15,87",
+  "url": "/gucci-rush-eau-de-toilette/p/4259704",
   "listName": "Lister",
-  "brand": "Givenchy",
+  "brand": "Gucci",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h4d/h65/34987914264606/prd-front-5514006-1_600x600/prd-front-5514006-1-600x600.jpg"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hb3/h6c/31904562642974/prd-front-4259704-1_600x600/prd-front-4259704-1-600x600.jpg"
 }
