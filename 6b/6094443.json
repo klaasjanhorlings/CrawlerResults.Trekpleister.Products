@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "3032919",
-  "mmkId": "3032919",
-  "productGroupId": "523239",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-speed-champions-76924-mercedes-amg-g-63-en-mercedes-amg-sl-63/p/6094443",
@@ -33,5 +33,6 @@
       "name": "LEGO Speed Champions"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb9/hc1/30948513939486/prd-front-6094443-1_600x600/prd-front-6094443-1-600x600.jpg"
 }

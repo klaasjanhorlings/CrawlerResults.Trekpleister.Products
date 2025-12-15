@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5161 > 5212 > 5401",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032961",
+  "mmkId": "3032961",
+  "productGroupId": "500857",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/999-games-catan-piraten-ontdekkers-uitbreidingsset/p/6346583",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/hdc/he6/35100719546398/prd-front-6346583-1_600x600/prd-front-6346583-1-600x600.jpg"
 }

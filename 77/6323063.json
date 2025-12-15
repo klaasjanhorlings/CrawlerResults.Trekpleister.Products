@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 6737 > 6736 > 6738",
   "supplier": "RAVENSBURGER BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032961",
+  "mmkId": "3032961",
+  "productGroupId": "500857",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ravensburger-nijntje-wat-hoort-erbij-spel/p/6323063",
@@ -29,5 +29,6 @@
       "name": "Educatief speelgoed"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h1c/hc8/44000727957534/prd-front-6323063-1_600x600/prd-front-6323063-1-600x600.jpg"
 }

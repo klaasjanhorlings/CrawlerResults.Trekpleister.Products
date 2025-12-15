@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 5697 > 2191 > 2512 > 3126 > 3991",
   "supplier": "DP FACTORY BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032961",
+  "mmkId": "3032961",
+  "productGroupId": "500857",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/giet-zelf-een-onderzetter/p/6337000",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6b/h0c/44038359089182/prd-front-6337000-1_600x600/prd-front-6337000-1-600x600.jpg"
 }

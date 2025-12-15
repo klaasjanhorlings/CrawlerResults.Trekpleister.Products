@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "GOLIATH B.V.",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032961",
+  "mmkId": "3032961",
+  "productGroupId": "500857",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/goliath-shit-happens-familie-editie/p/5739980",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h3c/h03/28582064652318/prd-front-5739980-1_600x600/prd-front-5739980-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

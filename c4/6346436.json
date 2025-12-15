@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "outOfStock",
-  "onPromo": "3032919",
-  "mmkId": "3032919",
-  "productGroupId": "523239",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-marvel-76309-spider-man-vs-venoms-klassieke-auto/p/6346436",
@@ -33,5 +33,6 @@
       "name": "LEGO Marvel"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h37/h1d/35038146887710/prd-front-6346436-1_600x600/prd-front-6346436-1-600x600.jpg"
 }

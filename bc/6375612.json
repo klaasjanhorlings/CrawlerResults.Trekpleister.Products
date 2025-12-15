@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032961",
+  "mmkId": "3032961",
+  "productGroupId": "500857",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/clementoni-activity-turn-and-drive-actvity-wheel/p/6375612",
@@ -29,6 +29,5 @@
       "name": "Interactief speelgoed"
     }
   ],
-  "description": "12cm x 20cm x 25cm",
-  "image": "/medias/sys_master/prd-images/h06/ha2/44588153045022/prd-front-6375612-1_600x600/prd-front-6375612-1-600x600.jpg"
+  "description": "12cm x 20cm x 25cm"
 }

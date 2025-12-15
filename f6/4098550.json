@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath That's Life Bondi Beach Puzzel",
+  "code": "4098550",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "3032961",
+  "mmkId": "3032961",
+  "productGroupId": "500857",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goliath-thats-life-bondi-beach-puzzel/p/4098550",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb1/hbb/44518505840670/prd-front-4098550-1_600x600/prd-front-4098550-1-600x600.jpg"
+}

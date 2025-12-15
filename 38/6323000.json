@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032961",
+  "mmkId": "3032961",
+  "productGroupId": "500857",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/999-games-aaau/p/6323000",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h5d/hec/34396942434334/prd-front-6323000-1_600x600/prd-front-6323000-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }
