@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hc6/h87/44071994032158/prd-front-6156232-1_600x600/prd-front-6156232-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h12/h49/45185635221534/prd-front-6156232-1_600x600/prd-front-6156232-1-600x600.jpg"
 }

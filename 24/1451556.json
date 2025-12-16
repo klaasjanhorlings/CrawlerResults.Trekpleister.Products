@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Active Energy Hydraterende Dagcrème",
+  "code": "1451556",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3032770",
+  "mmkId": "3032770",
+  "productGroupId": "473517",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-active-energy-hydraterende-dagcreme/p/1451556",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267167,
+      "name": "Gezichtscreme mannen"
+    }
+  ],
+  "description": "50ml"
+}

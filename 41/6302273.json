@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Tom Tailor Cool Mind For Him Eau de Parfum",
   "code": "6302273",
-  "price": "12.72",
+  "price": "12.71",
   "priceOriginal": "16.95",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "MAURER&WIRTZ GMBH&CO KG",
@@ -12,7 +12,7 @@
   "mmkId": "3032855",
   "productGroupId": "501366",
   "brandType": "A of B merk",
-  "discount": "€ 4,23",
+  "discount": "€ 4,24",
   "url": "/tom-tailor-cool-mind-for-him-eau-de-parfum/p/6302273",
   "listName": "Lister",
   "brand": "Tom Tailor",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h03/h85/33963720769566/prd-front-6302273-1_600x600/prd-front-6302273-1-600x600.jpg"
 }

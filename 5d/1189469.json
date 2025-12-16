@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 3099 > 3962",
   "supplier": "AUROBINDO PHARMA BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Anti-worm"
     }
   ],
-  "description": "Geneesmiddel - 6 stuks",
-  "image": "/medias/sys_master/prd-images/h4d/hf7/32894916952094/prd-front-1189469-1_600x600/prd-front-1189469-1-600x600.jpg"
+  "description": "Geneesmiddel - 6 stuks"
 }

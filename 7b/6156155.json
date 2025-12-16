@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "SANATURE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032804",
   "mmkId": "3032804",
   "productGroupId": "492372",
@@ -33,6 +33,5 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/h32/hf0/31564965806110/prd-front-6156155-1_600x600/prd-front-6156155-1-600x600.jpg"
+  "description": "24 stuks"
 }
