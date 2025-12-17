@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Organic Shop Hyaluron Therapy Sheet Mask",
+  "code": "6049244",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "TRADE SENSE BV",
+  "inStock": "inStock",
+  "onPromo": "3032953",
+  "mmkId": "3032953",
+  "productGroupId": "470582",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/organic-shop-hyaluron-therapy-sheet-mask/p/6049244",
+  "listName": "Lister",
+  "brand": "Organic Shop",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6c/h8b/30565806571550/prd-front-6049244-1_600x600/prd-front-6049244-1-600x600.jpg"
+}

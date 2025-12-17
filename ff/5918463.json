@@ -1,0 +1,46 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alpine Pluggies Kids Oordoppen",
+  "code": "5918463",
+  "price": "10.46",
+  "priceOriginal": "13.95",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
+  "supplier": "ALPINE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3032825",
+  "mmkId": "3032825",
+  "productGroupId": "497046",
+  "brandType": "A of B merk",
+  "discount": "€ 3,49",
+  "url": "/alpine-pluggies-kids-oordoppen/p/5918463",
+  "listName": "Lister",
+  "brand": "Alpine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30267507,
+      "name": "Oordoppen"
+    },
+    {
+      "id": 117396368,
+      "name": "Kinder oordoppen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2c/h38/32542812012574/prd-front-5918463-1_600x600/prd-front-5918463-1-600x600.jpg"
+}

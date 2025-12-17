@@ -1,0 +1,46 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Oordopjes",
+  "code": "4967509",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
+  "supplier": "RIDAM-NOTIONS BV",
+  "inStock": "inStock",
+  "onPromo": "3032388",
+  "mmkId": "3032388",
+  "productGroupId": "294599",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-oordopjes/p/4967509",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30267507,
+      "name": "Oordoppen"
+    },
+    {
+      "id": 117396402,
+      "name": "Schuim oordoppen"
+    }
+  ],
+  "description": "3 paar",
+  "image": "/medias/sys_master/prd-images/h65/h79/34839904288798/prd-front-4967509-1_600x600/prd-front-4967509-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032972",
   "mmkId": "3032972",
   "productGroupId": "509445",
@@ -29,12 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267272,
-      "name": "Mineralen"
+      "id": 30267283,
+      "name": "Vitamines"
     },
     {
-      "id": 50002052,
-      "name": "Calcium"
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
   "description": "60 stuks",

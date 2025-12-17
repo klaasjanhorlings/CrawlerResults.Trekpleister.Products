@@ -1,0 +1,46 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ohropax Gekleurde Oordopjes",
+  "code": "3092895",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ohropax-gekleurde-oordopjes/p/3092895",
+  "listName": "Lister",
+  "brand": "Ohropax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30267507,
+      "name": "Oordoppen"
+    },
+    {
+      "id": 117396402,
+      "name": "Schuim oordoppen"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/sys_master/prd-images/hf8/hb8/34180605575198/prd-front-3092895-1_600x600/prd-front-3092895-1-600x600.jpg"
+}
