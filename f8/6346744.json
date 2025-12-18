@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "LEGO Friends 42642 Filmavond",
-  "code": "6367415",
-  "price": "12.99",
+  "itemName": "LEGO Jurassic World 76970 Babydinosaurus Dolores: Aquilop",
+  "code": "6346744",
+  "price": "22.99",
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/lego-friends-42642-filmavond/p/6367415",
+  "url": "/lego-jurassic-world-76970-babydinosaurus-dolores-aquilop/p/6346744",
   "listName": "Lister",
-  "brand": "LEGO Friends",
+  "brand": "LEGO",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "LEGO"
     },
     {
-      "id": 30267371,
-      "name": "LEGO Friends"
+      "id": 69041468,
+      "name": "LEGO Films"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h8e/hb7/44218785267742/prd-front-6367415-1_600x600/prd-front-6367415-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h77/h9b/35037216178206/prd-front-6346744-1_600x600/prd-front-6346744-1-600x600.jpg"
 }

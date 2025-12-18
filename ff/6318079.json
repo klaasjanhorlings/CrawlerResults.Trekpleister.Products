@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty 4-in-1 Orange Colour Corrector",
   "code": "6318079",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "2.99",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032979",
+  "mmkId": "3032979",
+  "productGroupId": "513947",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/mcobeauty-4-in-1-orange-colour-corrector/p/6318079",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "4,3ml"
+  "description": "4,3ml",
+  "image": "/medias/sys_master/prd-images/h25/h70/34869531148318/prd-front-6318079-1_600x600/prd-front-6318079-1-600x600.jpg"
 }

@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Breaking Bad Puzzel",
-  "code": "6338477",
-  "price": "4.99",
+  "itemName": "Clementoni Dora Maxi Puzzel",
+  "code": "6356558",
+  "price": "7.99",
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5166 > 5237 > 5426",
-  "supplier": "HERMANEX INTERNATIONAL",
+  "supplier": "CLEMENTONI SPA",
   "inStock": "inStock",
   "onPromo": "3032961",
   "mmkId": "3032961",
   "productGroupId": "500857",
   "brandType": "Ander merk",
   "discount": "",
-  "url": "/breaking-bad-puzzel/p/6338477",
+  "url": "/clementoni-dora-maxi-puzzel/p/6356558",
   "listName": "Lister",
-  "brand": "Overig",
+  "brand": "Clementoni",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,6 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": "1000 stukjes",
-  "image": "/medias/sys_master/prd-images/hb3/h37/34891187879966/prd-front-6338477-1_600x600/prd-front-6338477-1-600x600.jpg"
+  "description": "24 stukjes",
+  "image": "/medias/sys_master/prd-images/hbc/h79/35100032565278/prd-front-6356558-1_600x600/prd-front-6356558-1-600x600.jpg"
 }

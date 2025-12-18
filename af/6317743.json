@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Hydrating Face Primer",
   "code": "6317743",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "4.49",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032979",
+  "mmkId": "3032979",
+  "productGroupId": "513947",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 4,50",
   "url": "/mcobeauty-hydrating-face-primer/p/6317743",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h88/h05/34868930904094/prd-front-6317743-1_600x600/prd-front-6317743-1-600x600.jpg"
 }

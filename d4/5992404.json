@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
   "supplier": "TRADE SENSE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032953",
   "mmkId": "3032953",
   "productGroupId": "470582",
@@ -33,5 +33,6 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hc0/h1e/29461387542558/prd-front-5992404-1_600x600/prd-front-5992404-1-600x600.jpg"
 }

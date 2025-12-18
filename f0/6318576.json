@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty MicroBrows Light/Medium Ultra-Fine Wenkbrauwpotlood",
   "code": "6318576",
-  "price": "6.99",
-  "priceOriginal": "",
+  "price": "3.49",
+  "priceOriginal": "6.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3032979",
+  "mmkId": "3032979",
+  "productGroupId": "513947",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 3,50",
   "url": "/mcobeauty-microbrows-light/medium-ultra-fine-wenkbrauwpotlood/p/6318576",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "0.025g"
+  "description": "0.025g",
+  "image": "/medias/sys_master/prd-images/h76/h54/34827738382366/prd-front-6318576-1_600x600/prd-front-6318576-1-600x600.jpg"
 }
