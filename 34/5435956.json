@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "SheaMoisture Jamaican Black Castor Oil Strenghten & Restore Treatement Masker",
   "code": "5435956",
-  "price": "18.49",
-  "priceOriginal": "",
+  "price": "12.0",
+  "priceOriginal": "18.49",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032984",
+  "mmkId": "3032984",
+  "productGroupId": "510923",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,49",
   "url": "/sheamoisture-jamaican-black-castor-oil-strenghten-restore-treatement-masker/p/5435956",
   "listName": "Lister",
   "brand": "SheaMoisture",
@@ -29,8 +29,8 @@
       "name": "Haarverzorging"
     },
     {
-      "id": 49213692,
-      "name": "Haartreatment"
+      "id": 30267254,
+      "name": "Haarmasker"
     }
   ],
   "description": "355ml",

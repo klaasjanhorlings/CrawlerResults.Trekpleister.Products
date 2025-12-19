@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Magnesium Mama & Baby Multi Capsules",
   "code": "6071777",
-  "price": "16.99",
-  "priceOriginal": "",
+  "price": "6.8",
+  "priceOriginal": "16.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6205 > 6223 > 6293",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032837",
-  "mmkId": "3032837",
-  "productGroupId": "497554",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,19",
   "url": "/lucovitaal-magnesium-mama-baby-multi-capsules/p/6071777",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267273,
-      "name": "Zwangerschapssupplementen"
+      "id": 30267272,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50002051,
+      "name": "Magnesium"
     }
   ],
   "description": "30 stuks",

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Melatonine 299Mcg Time Released Tabletten",
   "code": "5653831",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "4.0",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6605",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032836",
-  "mmkId": "3032836",
-  "productGroupId": "497552",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,99",
   "url": "/lucovitaal-melatonine-299mcg-time-released-tabletten/p/5653831",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -25,11 +25,11 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267058,
-      "name": "Voedingssupplementen"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 49950674,
+      "id": 30267270,
       "name": "Melatonine"
     }
   ],

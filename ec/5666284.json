@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "SheaMoisture Manuka Honey & Yoghurt Hydrate & Repare Multi-Action Leave-In Conditioner",
   "code": "5666284",
-  "price": "16.25",
-  "priceOriginal": "",
+  "price": "12.0",
+  "priceOriginal": "16.25",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032984",
+  "mmkId": "3032984",
+  "productGroupId": "510923",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,25",
   "url": "/sheamoisture-manuka-honey-yoghurt-hydrate-repare-multi-action-leave-in-conditioner/p/5666284",
   "listName": "Lister",
   "brand": "SheaMoisture",
@@ -29,8 +29,8 @@
       "name": "Haarverzorging"
     },
     {
-      "id": 30267252,
-      "name": "Conditioner"
+      "id": 49745451,
+      "name": "Leave-in conditioner"
     }
   ],
   "description": "237ml",

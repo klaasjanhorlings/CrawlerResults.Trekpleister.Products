@@ -7,7 +7,7 @@
   "priceOriginal": "39.99",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5720 > 3869",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3032806",
   "mmkId": "3032806",
   "productGroupId": "494260",
@@ -29,8 +29,8 @@
       "name": "Scheren en ontharen"
     },
     {
-      "id": 30267241,
-      "name": "Multigroomers"
+      "id": 30267236,
+      "name": "Scheerapparaten"
     }
   ],
   "description": "zwart",

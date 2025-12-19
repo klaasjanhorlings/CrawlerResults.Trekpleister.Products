@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "SheaMoisture Hydrate & Repair Manuka Honey & Yoghurt Conditioner",
   "code": "5622275",
-  "price": "17.29",
-  "priceOriginal": "",
+  "price": "12.0",
+  "priceOriginal": "17.29",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6700",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032984",
+  "mmkId": "3032984",
+  "productGroupId": "510923",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,29",
   "url": "/sheamoisture-hydrate-repair-manuka-honey-yoghurt-conditioner/p/5622275",
   "listName": "Lister",
   "brand": "SheaMoisture",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "384ml"
+  "description": "384ml",
+  "image": "/medias/sys_master/prd-images/h42/h96/33992952381470/prd-front-5622275-1_600x600/prd-front-5622275-1-600x600.jpg"
 }

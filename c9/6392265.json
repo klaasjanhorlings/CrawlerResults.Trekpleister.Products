@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Nad+ Capsules",
   "code": "6392265",
-  "price": "25.99",
-  "priceOriginal": "",
+  "price": "10.4",
+  "priceOriginal": "25.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6209 > 6227 > 6313",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032836",
-  "mmkId": "3032836",
-  "productGroupId": "497552",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 15,59",
   "url": "/lucovitaal-nad-capsules/p/6392265",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -33,6 +33,5 @@
       "name": "Overige supplementen"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/hc2/h38/44376563548190/prd-front-6392265-1_600x600/prd-front-6392265-1-600x600.jpg"
+  "description": "30 stuks"
 }

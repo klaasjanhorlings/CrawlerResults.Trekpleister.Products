@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Puur Whey Proteïnepoeder",
   "code": "6377355",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "6.4",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032836",
-  "mmkId": "3032836",
-  "productGroupId": "497552",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,59",
   "url": "/lucovitaal-puur-whey-proteinepoeder/p/6377355",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -33,5 +33,6 @@
       "name": "Proteïne (eiwit) poeders"
     }
   ],
-  "description": "250g"
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h84/h9c/44239947071518/prd-front-6377355-1_600x600/prd-front-6377355-1-600x600.jpg"
 }

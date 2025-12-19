@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "SheaMoisture Raw Shea Butter Deep Treatment Masker",
   "code": "5430797",
-  "price": "18.49",
-  "priceOriginal": "",
+  "price": "12.0",
+  "priceOriginal": "18.49",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3032984",
+  "mmkId": "3032984",
+  "productGroupId": "510923",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,49",
   "url": "/sheamoisture-raw-shea-butter-deep-treatment-masker/p/5430797",
   "listName": "Lister",
   "brand": "SheaMoisture",
@@ -33,6 +33,5 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "326ml",
-  "image": "/medias/sys_master/prd-images/hbb/hc1/31861895594014/prd-front-5430797-1_600x600/prd-front-5430797-1-600x600.jpg"
+  "description": "326ml"
 }

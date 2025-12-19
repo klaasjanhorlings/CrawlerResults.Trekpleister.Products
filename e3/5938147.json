@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Visolie & Multi Vitaminen Mineralen Capsules",
   "code": "5938147",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "8.0",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032837",
-  "mmkId": "3032837",
-  "productGroupId": "497554",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,99",
   "url": "/lucovitaal-visolie-multi-vitaminen-mineralen-capsules/p/5938147",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -33,5 +33,6 @@
       "name": "Visolie"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/he8/h86/28567660855326/prd-front-5938147-1_600x600/prd-front-5938147-1-600x600.jpg"
 }

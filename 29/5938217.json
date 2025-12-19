@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Multi Man 50+ Compleet Tabletten",
   "code": "5938217",
-  "price": "17.99",
-  "priceOriginal": "",
+  "price": "7.2",
+  "priceOriginal": "17.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032836",
-  "mmkId": "3032836",
-  "productGroupId": "497552",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,79",
   "url": "/lucovitaal-multi-man-50-compleet-tabletten/p/5938217",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267274,
-      "name": "Weerstand en of energie"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267552,
+      "name": "Multivitamines"
     }
   ],
   "description": "40 stuks",

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal L-Theanine Omega 3 Capsules",
   "code": "4428922",
-  "price": "34.99",
-  "priceOriginal": "",
+  "price": "14.0",
+  "priceOriginal": "34.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032836",
-  "mmkId": "3032836",
-  "productGroupId": "497552",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 20,99",
   "url": "/lucovitaal-l-theanine-omega-3-capsules/p/4428922",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267278,
-      "name": "Overige supplementen"
+      "id": 49793128,
+      "name": "Omega 3"
     }
   ],
   "description": "90 stuks",

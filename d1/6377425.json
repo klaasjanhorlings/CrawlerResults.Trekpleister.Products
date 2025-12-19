@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Magnesium Sport Tabletten",
   "code": "6377425",
-  "price": "17.99",
-  "priceOriginal": "",
+  "price": "7.2",
+  "priceOriginal": "17.99",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6391 > 6392",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032837",
-  "mmkId": "3032837",
-  "productGroupId": "497554",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,79",
   "url": "/lucovitaal-magnesium-sport-tabletten/p/6377425",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h07/h15/44241545789470/prd-front-6377425-1_600x600/prd-front-6377425-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Collageen Marine Pure 2500mg Tabletten",
   "code": "5846958",
-  "price": "29.99",
-  "priceOriginal": "",
+  "price": "12.0",
+  "priceOriginal": "29.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6233",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032836",
-  "mmkId": "3032836",
-  "productGroupId": "497552",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 17,99",
   "url": "/lucovitaal-collageen-marine-pure-2500mg-tabletten/p/5846958",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49363859,
-      "name": "Collageensupplementen"
+      "id": 30267276,
+      "name": "Beautysupplementen"
     }
   ],
   "description": "",

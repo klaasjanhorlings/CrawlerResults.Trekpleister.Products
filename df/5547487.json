@@ -33,9 +33,10 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267551,
-      "name": "Vitamine K"
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h39/hff/29570544304158/prd-front-5547487-1_600x600/prd-front-5547487-1-600x600.jpg"
 }

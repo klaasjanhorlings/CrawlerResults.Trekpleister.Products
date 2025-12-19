@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Probiotica Vitaminen & Mineralen Complex Capsules",
   "code": "5653859",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "6.0",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032836",
-  "mmkId": "3032836",
-  "productGroupId": "497552",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 8,99",
   "url": "/lucovitaal-probiotica-vitaminen-mineralen-complex-capsules/p/5653859",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -33,5 +33,6 @@
       "name": "Bacteriestammen"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/prd-front-5653859-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzg0MzN8aW1hZ2UvanBlZ3xhRE5qTDJoaFpDOHhOekExT0RNNU1UVTFOakV5Tmk5d2NtUXRabkp2Ym5RdE5UWTFNemcxT1MweFh6WXdNSGcyTURBfDg0NTU0ZjE4NDU0MmZiM2I4NWI5NmFlNjhkZTUyOWZhNWMyYTRiYjhhNjYwNTg5NmU1ODA0MzkyNzdjOTNlNjA"
 }

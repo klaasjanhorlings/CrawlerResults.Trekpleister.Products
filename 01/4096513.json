@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Prikkelbare Darm Syndroom Capsules",
   "code": "4096513",
-  "price": "24.99",
-  "priceOriginal": "",
+  "price": "10.0",
+  "priceOriginal": "24.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032836",
-  "mmkId": "3032836",
-  "productGroupId": "497552",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 14,99",
   "url": "/lucovitaal-prikkelbare-darm-syndroom-capsules/p/4096513",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -37,6 +37,5 @@
       "name": "Prikkelbare darm"
     }
   ],
-  "description": "Medisch hulpmiddel - 30 stuks",
-  "image": "/medias/prd-front-4096513-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU2NTd8aW1hZ2UvanBlZ3xhRFV6TDJnMFpTOHhOall3TlRVeU1UZ3dOVE0wTWk5d2NtUXRabkp2Ym5RdE5EQTVOalV4TXkweFh6WXdNSGcyTURBfGVhYTE4NmMzY2NkYWQ3MDcxODYyZmI3Yzc0MjRmN2IxYjQ4YzY5YjZjNTNlMDkxNjEzNDIzMDA5NjNlYTg1NDc"
+  "description": "Medisch hulpmiddel - 30 stuks"
 }

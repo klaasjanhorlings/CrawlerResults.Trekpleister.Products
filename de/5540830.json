@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Multi+ Compleet Vrouw Tabletten",
   "code": "5540830",
-  "price": "29.99",
-  "priceOriginal": "",
+  "price": "12.0",
+  "priceOriginal": "29.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032836",
-  "mmkId": "3032836",
-  "productGroupId": "497552",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 17,99",
   "url": "/lucovitaal-multi-compleet-vrouw-tabletten/p/5540830",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267274,
-      "name": "Weerstand en of energie"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267552,
+      "name": "Multivitamines"
     }
   ],
   "description": "120 stuks",

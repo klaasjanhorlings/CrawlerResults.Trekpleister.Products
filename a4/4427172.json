@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Calcium Magnesium Bot Formule Tabletten",
   "code": "4427172",
-  "price": "22.99",
-  "priceOriginal": "",
+  "price": "9.2",
+  "priceOriginal": "22.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3032837",
-  "mmkId": "3032837",
-  "productGroupId": "497554",
+  "onPromo": "3032982",
+  "mmkId": "3032982",
+  "productGroupId": "509459",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 13,79",
   "url": "/lucovitaal-calcium-magnesium-bot-formule-tabletten/p/4427172",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -33,8 +33,8 @@
       "name": "Mineralen"
     },
     {
-      "id": 50002052,
-      "name": "Calcium"
+      "id": 50002051,
+      "name": "Magnesium"
     }
   ],
   "description": "60 stuks",
