@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 3177 > 3445",
   "supplier": "OMEGA PHARMA NEDERLAND",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Blaren"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks",
-  "image": "/medias/sys_master/prd-images/hc2/he8/31566282391582/prd-front-5872515-1_600x600/prd-front-5872515-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 10 stuks"
 }
