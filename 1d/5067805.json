@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Micro Precise 03 Dark Brown Eyebrow Pencil",
-  "code": "4677863",
-  "price": "1.99",
+  "itemName": "Essence Maximum Definition Waterproof Volume Mascara",
+  "code": "5067805",
+  "price": "2.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-micro-precise-03-dark-brown-eyebrow-pencil/p/4677863",
+  "url": "/essence-maximum-definition-waterproof-volume-mascara/p/5067805",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267149,
-      "name": "Wenkbrauw make-up"
-    },
-    {
-      "id": 30267467,
-      "name": "Wenkbrauwpotlood"
+      "id": 30267133,
+      "name": "Mascara"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h23/h0a/35120818454558/prd-front-4677863-1_600x600/prd-front-4677863-1-600x600.jpg"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/h53/h04/35124720795678/prd-front-5067805-1_600x600/prd-front-5067805-1-600x600.jpg"
 }
