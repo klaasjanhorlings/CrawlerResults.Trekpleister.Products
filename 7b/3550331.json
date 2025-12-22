@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033004",
+  "mmkId": "3033004",
+  "productGroupId": "471000",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/colab-fresh-droogshampoo/p/3550331",
@@ -33,6 +33,5 @@
       "name": "Droogshampoo"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hfd/h56/29308789555230/prd-front-3550331-1_600x600/prd-front-3550331-1-600x600.jpg"
+  "description": "200ml"
 }

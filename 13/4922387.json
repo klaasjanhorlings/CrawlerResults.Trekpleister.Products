@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3032770",
-  "mmkId": "3032770",
-  "productGroupId": "473517",
+  "onPromo": "3033041",
+  "mmkId": "3033041",
+  "productGroupId": "505646",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-q10-power-extra-voedende-anti-rimpel-nachtcreme/p/4922387",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Droge huid"
+  "description": "50ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h19/h90/45027644080158/prd-front-4922387-1_600x600/prd-front-4922387-1-600x600.jpg"
 }

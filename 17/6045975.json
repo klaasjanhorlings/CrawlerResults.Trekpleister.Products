@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3785",
   "supplier": "ROYAL SANDERS JESSENITZ GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033036",
+  "mmkId": "3033036",
+  "productGroupId": "502197",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-extra-dry-sensitive-antitranspirant-spray/p/6045975",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hb0/hce/44327206879262/prd-front-6045975-1_600x600/prd-front-6045975-1-600x600.jpg"
+  "description": "150ml"
 }

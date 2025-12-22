@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "3032762",
-  "mmkId": "3032762",
-  "productGroupId": "456222",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ob-herbruikbaar-menstruatieondergoed/p/6046213",
@@ -33,6 +33,5 @@
       "name": "Menstruatieondergoed"
     }
   ],
-  "description": "zwart, mt M-L",
-  "image": "/medias/sys_master/prd-images/ha3/h3e/44199796965406/prd-front-6046213-1_600x600/prd-front-6046213-1-600x600.jpg"
+  "description": "zwart, mt M-L"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3032853",
-  "mmkId": "3032853",
-  "productGroupId": "500968",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-maxx-power-level-8-styling-gel/p/1618758",
@@ -33,6 +33,5 @@
       "name": "Haargel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h52/h71/33758913429534/prd-front-1618758-1_600x600/prd-front-1618758-1-600x600.jpg"
+  "description": "250ml"
 }

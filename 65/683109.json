@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032848",
-  "mmkId": "3032848",
-  "productGroupId": "500776",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/l-oreal-paris-men-expert-stop-rimpels-dagcreme/p/683109",
@@ -33,6 +33,5 @@
       "name": "Gezichtscreme mannen"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h7d/ha6/33748808237086/prd-front-683109-1_600x600/prd-front-683109-1-600x600.jpg"
+  "description": "50ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "RAVENSBURGER BV",
   "inStock": "outOfStock",
-  "onPromo": "3032961",
-  "mmkId": "3032961",
-  "productGroupId": "500857",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ravensburger-pokemon-labyrinth-pocketspel/p/6339520",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha6/hf9/34757532450846/prd-front-6339520-1_600x600/prd-front-6339520-1-600x600.jpg"
 }

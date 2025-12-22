@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "A.Vogel Echinaforce Junior + Vitamine C Kauwtabletten",
   "code": "5168892",
-  "price": "11.99",
-  "priceOriginal": "",
+  "price": "8.99",
+  "priceOriginal": "11.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3033020",
+  "mmkId": "3033020",
+  "productGroupId": "497535",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/avogel-echinaforce-junior-vitamine-c-kauwtabletten/p/5168892",
   "listName": "Lister",
   "brand": "A.Vogel",
@@ -37,6 +37,5 @@
       "name": "Kindervitamines"
     }
   ],
-  "description": "80 stuks",
-  "image": "/medias/sys_master/prd-images/hb5/he4/32639249317918/prd-front-5168892-1_600x600/prd-front-5168892-1-600x600.jpg"
+  "description": "80 stuks"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3032853",
-  "mmkId": "3032853",
-  "productGroupId": "500968",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-power-activity-styling-gel/p/6021580",
@@ -33,6 +33,5 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h02/hfe/34872726585374/prd-front-6021580-1_600x600/prd-front-6021580-1-600x600.jpg"
+  "description": "150ml"
 }

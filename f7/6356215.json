@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Bausch + Lomb Biotrue Multi-Purpose Solution Lenzenvloeistof",
   "code": "6356215",
-  "price": "11.24",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "3032871",
-  "mmkId": "3032871",
-  "productGroupId": "505506",
+  "onPromo": "3033466",
+  "mmkId": "3033466",
+  "productGroupId": "529000",
   "brandType": "A of B merk",
-  "discount": "€ 3,75",
+  "discount": "",
   "url": "/bausch-lomb-biotrue-multi-purpose-solution-lenzenvloeistof/p/6356215",
   "listName": "Lister",
   "brand": "Bausch & Lomb",
@@ -33,6 +33,5 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel - 300ml",
-  "image": "/medias/sys_master/prd-images/h98/h4c/44599180558366/prd-front-6356215-1_600x600/prd-front-6356215-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 300ml"
 }

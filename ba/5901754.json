@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Baby Calendula Alles-in-één Balsem",
   "code": "5901754",
-  "price": "6.74",
-  "priceOriginal": "8.99",
+  "price": "8.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "3032777",
-  "mmkId": "3032777",
-  "productGroupId": "476414",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,25",
+  "discount": "",
   "url": "/weleda-baby-calendula-alles-in-een-balsem/p/5901754",
   "listName": "Lister",
   "brand": "Weleda",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "25g"
+  "description": "25g",
+  "image": "/medias/sys_master/prd-images/h6f/h5a/29056309559326/prd-front-5901754-1_600x600/prd-front-5901754-1-600x600.jpg"
 }

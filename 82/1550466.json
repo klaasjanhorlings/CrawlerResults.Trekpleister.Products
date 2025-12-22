@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3032899",
-  "mmkId": "3032899",
-  "productGroupId": "508547",
+  "onPromo": "3033065",
+  "mmkId": "3033065",
+  "productGroupId": "508473",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-pro-expert-gevoelige-tanden-tandpasta/p/1550466",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/hc6/hb8/33562582810654/prd-front-1550466-1_600x600/prd-front-1550466-1-600x600.jpg"
+  "description": "75ml"
 }

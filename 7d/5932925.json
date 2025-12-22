@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Granaatappel & Maca Verstevigende Nachtcrème",
   "code": "5932925",
-  "price": "21.74",
-  "priceOriginal": "28.99",
+  "price": "28.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "3032777",
-  "mmkId": "3032777",
-  "productGroupId": "476414",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 7,25",
+  "discount": "",
   "url": "/weleda-granaatappel-maca-verstevigende-nachtcreme/p/5932925",
   "listName": "Lister",
   "brand": "Weleda",
@@ -33,6 +33,5 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "40ml - Rijpe huid",
-  "image": "/medias/sys_master/prd-images/h4f/h48/28567642767390/prd-front-5932925-1_600x600/prd-front-5932925-1-600x600.jpg"
+  "description": "40ml - Rijpe huid"
 }

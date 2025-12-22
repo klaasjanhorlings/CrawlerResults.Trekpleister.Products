@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033047",
+  "mmkId": "3033047",
+  "productGroupId": "506395",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-magic-bb-medium-light-5-in-1-transforming-skin-corrector/p/4763543",
@@ -33,5 +33,6 @@
       "name": "CC cream"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc6/h8d/44112630710302/prd-front-4763543-1_600x600/prd-front-4763543-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Alpine Soft Silicone Oordoppen",
   "code": "5730110",
-  "price": "6.74",
-  "priceOriginal": "8.99",
+  "price": "8.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
   "supplier": "ALPINE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032825",
-  "mmkId": "3032825",
-  "productGroupId": "497046",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,25",
+  "discount": "",
   "url": "/alpine-soft-silicone-oordoppen/p/5730110",
   "listName": "Lister",
   "brand": "Alpine",
@@ -41,5 +41,6 @@
       "name": "Siliconen oordoppen"
     }
   ],
-  "description": "3 paar"
+  "description": "3 paar",
+  "image": "/medias/sys_master/prd-images/hed/h2a/29540944511006/prd-front-5730110-1_600x600/prd-front-5730110-1-600x600.jpg"
 }

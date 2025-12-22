@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6760 > 6762 > 6758 > 6761",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "3032785",
-  "mmkId": "3032785",
-  "productGroupId": "482898",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-droge-huid-zalf/p/5758572",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h7c/hf2/33473349779486/prd-front-5758572-1_600x600/prd-front-5758572-1-600x600.jpg"
+  "description": "100ml"
 }

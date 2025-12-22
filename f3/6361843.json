@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "3032893",
-  "mmkId": "3032893",
-  "productGroupId": "508483",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/listerine-professional-tandvleesbescherming-mondspoeling/p/6361843",
@@ -33,6 +33,5 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml - zonder alcohol",
-  "image": "/medias/sys_master/prd-images/hc2/hd6/44683009130526/prd-front-6361843-1_600x600/prd-front-6361843-1-600x600.jpg"
+  "description": "500ml - zonder alcohol"
 }

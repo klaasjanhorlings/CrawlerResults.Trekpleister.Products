@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "3032790",
-  "mmkId": "3032790",
-  "productGroupId": "484239",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aunt-jackies-quench-leave-in-conditioner/p/3484797",
@@ -33,6 +33,5 @@
       "name": "Leave-in conditioner"
     }
   ],
-  "description": "355ml",
-  "image": "/medias/prd-front-3484797-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjE5MjB8aW1hZ2UvanBlZ3xhRGRtTDJnd01pOHhOak13TkRFek5UVXpOalkzTUM5d2NtUXRabkp2Ym5RdE16UTRORGM1TnkweFh6WXdNSGcyTURBfDNhZTI5ODRlOWFhMzcwZGRjZWYwYjRhY2NkY2JiMjJmNWZkMTA5ODk2NTc2YWFkMTY2YTZjZGFlM2UxMDBjMzE"
+  "description": "355ml"
 }

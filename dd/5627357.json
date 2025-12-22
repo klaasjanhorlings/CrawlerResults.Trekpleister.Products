@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6776 > 6775 > 6777",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "3032783",
-  "mmkId": "3032783",
-  "productGroupId": "481516",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-anti-age-retinol-boost-serum/p/5627357",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "30ml - Normale en rijpe huid",
-  "image": "/medias/sys_master/prd-images/h01/hc6/44799430492190/prd-front-5627357-1_600x600/prd-front-5627357-1-600x600.jpg"
+  "description": "30ml - Normale en rijpe huid"
 }

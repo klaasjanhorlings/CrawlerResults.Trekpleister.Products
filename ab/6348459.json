@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "inStock",
-  "onPromo": "3032961",
-  "mmkId": "3032961",
-  "productGroupId": "500857",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/identity-games-name-that-tune-films-spel/p/6348459",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/hae/hb2/35100292481054/prd-front-6348459-1_600x600/prd-front-6348459-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

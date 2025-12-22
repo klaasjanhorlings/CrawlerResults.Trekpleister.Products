@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3032885",
-  "mmkId": "3032885",
-  "productGroupId": "508274",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tena-lady-discreet-ultra-mini-plus-inlegkruisjes/p/1171822",
@@ -37,5 +37,6 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "Medisch hulpmiddel - 24 stuks"
+  "description": "Medisch hulpmiddel - 24 stuks",
+  "image": "/medias/sys_master/prd-images/h57/hcb/33389954007070/prd-front-1171822-1_600x600/prd-front-1171822-1-600x600.jpg"
 }

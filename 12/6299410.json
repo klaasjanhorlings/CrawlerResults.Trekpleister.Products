@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Luminous630 Skin Glow Liquid Refiner Exfoliant",
   "code": "6299410",
-  "price": "9.49",
-  "priceOriginal": "18.99",
+  "price": "18.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3032775",
-  "mmkId": "3032775",
-  "productGroupId": "474674",
+  "onPromo": "3033041",
+  "mmkId": "3033041",
+  "productGroupId": "505646",
   "brandType": "A of B merk",
-  "discount": "€ 9,50",
+  "discount": "",
   "url": "/nivea-luminous630-skin-glow-liquid-refiner-exfoliant/p/6299410",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h51/h0d/44920702894110/prd-front-6299410-1_600x600/prd-front-6299410-1-600x600.jpg"
+  "description": "100ml"
 }

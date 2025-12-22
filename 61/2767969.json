@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3032809",
-  "mmkId": "3032809",
-  "productGroupId": "494560",
+  "onPromo": "3033023",
+  "mmkId": "3033023",
+  "productGroupId": "498827",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-zero-sensitive-48h-deodorant-spray/p/2767969",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml - Gevoelige huid"
+  "description": "200ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hc9/h4f/31823394373662/prd-front-2767969-1_600x600/prd-front-2767969-1-600x600.jpg"
 }

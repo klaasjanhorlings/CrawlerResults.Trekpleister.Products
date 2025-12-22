@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "LEGO Star Wars 75431 327Th Star Corps Clone Troopers",
   "code": "6346520",
-  "price": "36.99",
-  "priceOriginal": "",
+  "price": "27.74",
+  "priceOriginal": "36.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "3033504",
+  "mmkId": "3033504",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,25",
   "url": "/lego-star-wars-75431-327th-star-corps-clone-troopers/p/6346520",
   "listName": "Lister",
   "brand": "LEGO Star Wars",
@@ -33,5 +33,6 @@
       "name": "LEGO Star Wars"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9c/hde/35042234957854/prd-front-6346520-1_600x600/prd-front-6346520-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032923",
-  "mmkId": "3032923",
-  "productGroupId": "463003",
+  "onPromo": "3033002",
+  "mmkId": "3033002",
+  "productGroupId": "462799",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-body-love-care-radiant-glow-bodylotion/p/5507916",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h5a/h4a/28578934816798/prd-front-5507916-1_600x600/prd-front-5507916-1-600x600.jpg"
 }

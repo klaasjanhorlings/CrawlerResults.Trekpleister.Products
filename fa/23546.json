@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033055",
+  "mmkId": "3033055",
+  "productGroupId": "507018",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-nutrisse-ultra-creme-53-licht-goudbruin-permanente-haarkleuring/p/23546",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd5/hc2/44711054016542/prd-front-23546-1_600x600/prd-front-23546-1-600x600.jpg"
 }

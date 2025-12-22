@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "LEGO DUPLO Peppa Pig 10453 Kermis",
   "code": "6232448",
-  "price": "44.99",
-  "priceOriginal": "",
+  "price": "33.74",
+  "priceOriginal": "44.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "3033504",
+  "mmkId": "3033504",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,25",
   "url": "/lego-duplo-peppa-pig-10453-kermis/p/6232448",
   "listName": "Lister",
   "brand": "LEGO Duplo",
@@ -33,5 +33,6 @@
       "name": "LEGO Duplo"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hee/hfe/33504748044318/prd-front-6232448-1_600x600/prd-front-6232448-1-600x600.jpg"
 }

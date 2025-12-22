@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lenor Zeebries Wasverzachter",
+  "code": "6049741",
+  "price": "9.99",
+  "priceOriginal": "21.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3032985",
+  "mmkId": "3032985",
+  "productGroupId": "504358",
+  "brandType": "A of B merk",
+  "discount": "€ 12,00",
+  "url": "/lenor-zeebries-wasverzachter/p/6049741",
+  "listName": "Lister",
+  "brand": "Lenor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267115,
+      "name": "Wasverzachter"
+    }
+  ],
+  "description": "2646ml, 126 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h5c/h95/44587527831582/prd-front-6049741-1_600x600/prd-front-6049741-1-600x600.jpg"
+}

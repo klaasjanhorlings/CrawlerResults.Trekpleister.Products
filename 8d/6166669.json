@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 6740 > 6739 > 6741",
   "supplier": "RUBY-TOYS BV",
   "inStock": "inStock",
-  "onPromo": "3032961",
-  "mmkId": "3032961",
-  "productGroupId": "500857",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/casino-speelset/p/6166669",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h49/h10/31910525599774/prd-front-6166669-1_600x600/prd-front-6166669-1-600x600.jpg"
 }

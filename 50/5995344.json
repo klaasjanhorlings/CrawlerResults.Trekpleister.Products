@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033047",
+  "mmkId": "3033047",
+  "productGroupId": "506395",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-riche-601-worth-it-satin-nude-lippenstift/p/5995344",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,54g"
+  "description": "4,54g",
+  "image": "/medias/sys_master/prd-images/h54/h8e/45077592932382/prd-front-5995344-1_600x600/prd-front-5995344-1-600x600.jpg"
 }

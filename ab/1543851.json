@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033034",
+  "mmkId": "3033034",
+  "productGroupId": "500972",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-reflex-silver-shampoo/p/1543851",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hba/hda/32038872580126/prd-front-1543851-1_600x600/prd-front-1543851-1-600x600.jpg"
 }

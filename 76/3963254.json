@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3032958",
-  "mmkId": "3032958",
-  "productGroupId": "497401",
+  "onPromo": "3033019",
+  "mmkId": "3033019",
+  "productGroupId": "497402",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dagravit-kids-multivitaminen-minions-gummies/p/3963254",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hcf/h0b/44934637551646/prd-front-3963254-1_600x600/prd-front-3963254-1-600x600.jpg"
 }

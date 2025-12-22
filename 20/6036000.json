@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6700",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "3032790",
-  "mmkId": "3032790",
-  "productGroupId": "484239",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/cg-curl-conditioner-cream/p/6036000",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "355ml"
+  "description": "355ml",
+  "image": "/medias/sys_master/prd-images/hb6/h71/30294284402718/prd-front-6036000-1_600x600/prd-front-6036000-1-600x600.jpg"
 }

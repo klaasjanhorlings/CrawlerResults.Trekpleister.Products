@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "3032918",
-  "mmkId": "3032918",
-  "productGroupId": "519211",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-kids-bath-salt/p/6378090",
@@ -33,5 +33,6 @@
       "name": "Badzout"
     }
   ],
-  "description": "40g"
+  "description": "40g",
+  "image": "/medias/sys_master/prd-images/h7f/h33/44630754721822/prd-front-6378090-1_600x600/prd-front-6378090-1-600x600.jpg"
 }

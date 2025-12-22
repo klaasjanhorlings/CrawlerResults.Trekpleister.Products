@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3032789",
-  "mmkId": "3032789",
-  "productGroupId": "483977",
+  "onPromo": "3033010",
+  "mmkId": "3033010",
+  "productGroupId": "483978",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-collage-peptide-max-hydraterende-dagcreme/p/5701193",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml, rijpe huid",
-  "image": "/medias/sys_master/prd-images/h53/hd3/44843894472734/prd-front-5701193-1_600x600/prd-front-5701193-1-600x600.jpg"
+  "description": "50ml, rijpe huid"
 }

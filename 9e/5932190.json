@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032833",
-  "mmkId": "3032833",
-  "productGroupId": "497486",
+  "onPromo": "3033006",
+  "mmkId": "3033006",
+  "productGroupId": "474671",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-pure-active-hydraterende-gezichtsreiniger/p/5932190",
@@ -37,5 +37,6 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h0d/h3d/44761345818654/prd-front-5932190-1_600x600/prd-front-5932190-1-600x600.jpg"
 }

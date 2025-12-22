@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "HERO NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3032983",
-  "mmkId": "3032983",
-  "productGroupId": "509783",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organix-12m-appel-aardbei-quinoa-knijpfruit/p/4630480",
@@ -33,6 +33,5 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "100g",
-  "image": "/medias/sys_master/prd-images/h10/hd7/32880080191518/prd-front-4630480-1_600x600/prd-front-4630480-1-600x600.jpg"
+  "description": "100g"
 }

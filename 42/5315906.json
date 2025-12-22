@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032854",
-  "mmkId": "3032854",
-  "productGroupId": "500969",
+  "onPromo": "3033049",
+  "mmkId": "3033049",
+  "productGroupId": "506517",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-fructis-watermelon-hair-food-3-in-1-haarmasker/p/5315906",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h5c/h15/35028018593822/prd-front-5315906-1_600x600/prd-front-5315906-1-600x600.jpg"
 }

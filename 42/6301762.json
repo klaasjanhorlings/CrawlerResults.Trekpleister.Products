@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2176 > 2430 > 2915 > 3710",
   "supplier": "SPEELGOEDLAND",
   "inStock": "inStock",
-  "onPromo": "3032961",
-  "mmkId": "3032961",
-  "productGroupId": "500857",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/stitch-gevulde-etui/p/6301762",
@@ -29,6 +29,5 @@
       "name": "Knutselen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hb6/hdd/34520199430174/prd-front-6301762-1_600x600/prd-front-6301762-1-600x600.jpg"
+  "description": ""
 }

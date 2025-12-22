@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 4640 > 5190 > 5369 > 5558",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "outOfStock",
-  "onPromo": "3032961",
-  "mmkId": "3032961",
-  "productGroupId": "500857",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/playing-kids-houten-koffiemachine/p/6323518",
@@ -29,5 +29,6 @@
       "name": "Houten speelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1a/h25/34892586418206/prd-front-6323518-1_600x600/prd-front-6323518-1-600x600.jpg"
 }

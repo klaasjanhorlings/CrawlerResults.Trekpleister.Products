@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3032873",
-  "mmkId": "3032873",
-  "productGroupId": "506497",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-baby-dry-pants-maat-4-luierbroekjes/p/6243767",
@@ -33,6 +33,5 @@
       "name": "Luierbroekjes maat 4"
     }
   ],
-  "description": "mt 4 (9-15kg), 27 stuks",
-  "image": "/medias/sys_master/prd-images/he5/hbb/33746624839710/prd-front-6243767-1_600x600/prd-front-6243767-1-600x600.jpg"
+  "description": "mt 4 (9-15kg), 27 stuks"
 }

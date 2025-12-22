@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Light/Medium Tattoo Brow Microblading Ink Pen",
   "code": "6317519",
-  "price": "3.99",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3032979",
-  "mmkId": "3032979",
-  "productGroupId": "513947",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/mcobeauty-light/medium-tattoo-brow-microblading-ink-pen/p/6317519",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1,5ml"
+  "description": "1,5ml",
+  "image": "/medias/sys_master/prd-images/ha3/h79/34868234944542/prd-front-6317519-1_600x600/prd-front-6317519-1-600x600.jpg"
 }

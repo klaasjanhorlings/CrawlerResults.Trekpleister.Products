@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "WELLA COMPANY",
   "inStock": "outOfStock",
-  "onPromo": "3032807",
-  "mmkId": "3032807",
-  "productGroupId": "494339",
+  "onPromo": "3033083",
+  "mmkId": "3033083",
+  "productGroupId": "510916",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wellaflex-men-all-day-definition-ultra-strong-gel/p/5972636",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h3c/h0c/28819799310366/prd-front-5972636-1_600x600/prd-front-5972636-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Age Perfect Intensief Voedende Dagcrème",
   "code": "1734118",
-  "price": "32.99",
-  "priceOriginal": "",
+  "price": "16.49",
+  "priceOriginal": "32.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3032833",
-  "mmkId": "3032833",
-  "productGroupId": "497486",
+  "onPromo": "3033045",
+  "mmkId": "3033045",
+  "productGroupId": "506224",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 16,50",
   "url": "/loreal-paris-age-perfect-intensief-voedende-dagcreme/p/1734118",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Droge huid"
+  "description": "50ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h51/he7/35155656474654/prd-front-1734118-1_600x600/prd-front-1734118-1-600x600.jpg"
 }
