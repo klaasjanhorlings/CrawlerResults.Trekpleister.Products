@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Plumping 110 Stay Seductive Lip Liner",
-  "code": "5493223",
-  "price": "2.69",
+  "itemName": "Catrice Endless Matte 050 Kiss Me Quick Liquid Lippenstift",
+  "code": "6105041",
+  "price": "4.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-plumping-110-stay-seductive-lip-liner/p/5493223",
+  "url": "/catrice-endless-matte-050-kiss-me-quick-liquid-lippenstift/p/6105041",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -33,10 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30267152,
-      "name": "Lipliner"
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
-  "description": "1g",
-  "image": "/medias/sys_master/prd-images/h93/ha4/35010241691678/prd-front-5493223-1_600x600/prd-front-5493223-1-600x600.jpg"
+  "description": "4,5ml",
+  "image": "/medias/sys_master/prd-images/h6a/h59/35010666430494/prd-front-6105041-1_600x600/prd-front-6105041-1-600x600.jpg"
 }

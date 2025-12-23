@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Excellence Universal 7U Middenblond Permanente Haarverf",
+  "code": "5604663",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3033053",
+  "mmkId": "3033053",
+  "productGroupId": "507015",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-excellence-universal-7u-middenblond-permanente-haarverf/p/5604663",
+  "listName": "Lister",
+  "brand": "Excellence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9a/hfd/44916848001054/prd-front-5604663-1_600x600/prd-front-5604663-1-600x600.jpg"
+}

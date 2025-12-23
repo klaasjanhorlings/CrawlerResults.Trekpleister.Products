@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Sheer Beauties 70 Nail Polish",
-  "code": "5906724",
-  "price": "3.99",
+  "itemName": "Catrice Glam & Doll Sculpt & Volume 010 Black Mascara",
+  "code": "3999703",
+  "price": "4.49",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-sheer-beauties-70-nail-polish/p/5906724",
+  "url": "/catrice-glam-doll-sculpt-volume-010-black-mascara/p/3999703",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -25,14 +25,13 @@
       "name": "Beauty"
     },
     {
-      "id": 72475732,
-      "name": "Nagels"
+      "id": 30267038,
+      "name": "Make-up"
     },
     {
-      "id": 30267141,
-      "name": "Nagellak"
+      "id": 30267133,
+      "name": "Mascara"
     }
   ],
-  "description": "10,5ml",
-  "image": "/medias/sys_master/prd-images/h94/h21/29942036922398/prd-front-5906724-1_600x600/prd-front-5906724-1-600x600.jpg"
+  "description": ""
 }

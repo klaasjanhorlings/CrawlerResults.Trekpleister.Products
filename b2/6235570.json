@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris 118 Cloudy Rose Le Shadow Stick",
+  "code": "6235570",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "3033047",
+  "mmkId": "3033047",
+  "productGroupId": "506395",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-118-cloudy-rose-le-shadow-stick/p/6235570",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267153,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30267469,
+      "name": "Mono oogschaduw"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h98/hc0/44919645569054/prd-front-6235570-1_600x600/prd-front-6235570-1-600x600.jpg"
+}

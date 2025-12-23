@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Max It Up 10 Spicy Plumper Extreme Lip Booster",
-  "code": "5911932",
-  "price": "3.99",
+  "itemName": "Catrice Aqua Ink The Wild One Plumping Lipliner",
+  "code": "5230618",
+  "price": "2.69",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-max-it-up-10-spicy-plumper-extreme-lip-booster/p/5911932",
+  "url": "/catrice-aqua-ink-the-wild-one-plumping-lipliner/p/5230618",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -33,10 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30267139,
-      "name": "Lipstick"
+      "id": 30267152,
+      "name": "Lipliner"
     }
   ],
-  "description": "4ml",
-  "image": "/medias/sys_master/prd-images/h33/h3e/29942037643294/prd-front-5911932-1_600x600/prd-front-5911932-1-600x600.jpg"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/ha6/h7d/33046505947166/prd-front-5230618-1_600x600/prd-front-5230618-1-600x600.jpg"
 }
