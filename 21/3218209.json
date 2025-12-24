@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "LU Naturel Cracottes",
+  "itemName": "Liga Naturel Cracotte Luchtige Crackers",
   "code": "3218209",
   "price": "2.59",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/lu-naturel-cracottes/p/3218209",
+  "url": "/liga-naturel-cracotte-luchtige-crackers/p/3218209",
   "listName": "Lister",
   "brand": "Liga",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Koek"
     }
   ],
-  "description": "250g",
-  "image": "/medias/sys_master/prd-images/hd1/h00/45025959215134/prd-front-3218209-1_600x600/prd-front-3218209-1-600x600.jpg"
+  "description": "250g"
 }

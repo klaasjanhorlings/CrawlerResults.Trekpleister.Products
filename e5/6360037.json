@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033107",
+  "mmkId": "3033107",
+  "productGroupId": "511660",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/baylis-harding-boudoire-tropical-paradise-geschenkset/p/6360037",
@@ -29,5 +29,6 @@
       "name": "Bad- en doucheaccessoires"
     }
   ],
-  "description": "goudkleur"
+  "description": "goudkleur",
+  "image": "/medias/sys_master/prd-images/h4d/ha3/44001863368734/prd-front-6360037-1_600x600/prd-front-6360037-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nutrilon 1 0-6 Maanden Volledige Zuigelingenvoeding",
+  "itemName": "Nutrilon 1 Baby 0-6 Maanden Volledige Zuigelingenvoeding",
   "code": "5974323",
   "price": "10.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nutrilon-1-0-6-maanden-volledige-zuigelingenvoeding/p/5974323",
+  "url": "/nutrilon-1-baby-0-6-maanden-volledige-zuigelingenvoeding/p/5974323",
   "listName": "Lister",
   "brand": "Nutrilon",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Zuigelingenvoeding"
     }
   ],
-  "description": "600g",
-  "image": "/medias/sys_master/prd-images/h36/h54/29186956558366/prd-front-5974323-1_600x600/prd-front-5974323-1-600x600.jpg"
+  "description": "600g"
 }

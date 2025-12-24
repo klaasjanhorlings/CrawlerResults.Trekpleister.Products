@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "David Beckham Instinct 20th Anniversary Edition Geschenkset",
+  "code": "6344084",
+  "price": "23.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 6705 > 6706 > 4114",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "3033107",
+  "mmkId": "3033107",
+  "productGroupId": "511660",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/david-beckham-instinct-20th-anniversary-edition-geschenkset/p/6344084",
+  "listName": "Lister",
+  "brand": "David Beckham",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72655099,
+      "name": "Parfum geschenkset voor hem"
+    }
+  ],
+  "description": "zwart, mt L",
+  "image": "/medias/sys_master/prd-images/h83/h88/34918734233630/prd-front-6344084-1_600x600/prd-front-6344084-1-600x600.jpg"
+}

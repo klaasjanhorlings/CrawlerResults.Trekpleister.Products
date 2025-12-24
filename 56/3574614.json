@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari Glycerine",
+  "code": "3574614",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5920 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-glycerine/p/3574614",
+  "listName": "Lister",
+  "brand": "Yari",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267253,
+      "name": "Haarserum"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-3574614-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjIxNTl8aW1hZ2UvanBlZ3xhR1V4TDJoak1pOHhOak14TkRJeU9EVTNNakU1TUM5d2NtUXRabkp2Ym5RdE16VTNORFl4TkMweFh6WXdNSGcyTURBfGIxZDYyNTkwZGFlOGNlOTFjMjNkMWNlYTRlNjA3OWE5ODQyNGJmZDY3NjkwN2E5NDlhYjQyNzNiMjBhOWUzYmU"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "outOfStock",
+  "onPromo": "3033107",
+  "mmkId": "3033107",
+  "productGroupId": "511660",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-awaken-dragon-fruit-collection-geschenkset/p/6380302",
@@ -19,7 +19,20 @@
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
-  "categories": [],
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666175,
+      "name": "Geschenkset voor haar"
+    }
+  ],
   "description": "",
   "image": "/medias/sys_master/prd-images/h56/h2f/44239943663646/prd-front-6380302-1_600x600/prd-front-6380302-1-600x600.jpg"
 }

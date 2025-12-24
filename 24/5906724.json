@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Glossy Jelly 06 Mini Nail Polish",
-  "code": "6246252",
-  "price": "1.29",
+  "itemName": "Catrice Sheer Beauties 70 Nail Polish",
+  "code": "5906724",
+  "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-glossy-jelly-06-mini-nail-polish/p/6246252",
+  "url": "/catrice-sheer-beauties-70-nail-polish/p/5906724",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h7c/h21/33479665188894/prd-front-6246252-1_600x600/prd-front-6246252-1-600x600.jpg"
+  "description": "10,5ml",
+  "image": "/medias/sys_master/prd-images/h94/h21/29942036922398/prd-front-5906724-1_600x600/prd-front-5906724-1-600x600.jpg"
 }

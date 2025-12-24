@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Organic Shop Christmas Cookie Bodyscrub",
+  "code": "5764648",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 6602 > 6603",
+  "supplier": "TRADE SENSE BV",
+  "inStock": "inStock",
+  "onPromo": "3032953",
+  "mmkId": "3032953",
+  "productGroupId": "470582",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/organic-shop-christmas-cookie-bodyscrub/p/5764648",
+  "listName": "Lister",
+  "brand": "Organic Shop",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267208,
+      "name": "Scrub"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hde/h7a/44484747493406/prd-front-5764648-1_600x600/prd-front-5764648-1-600x600.jpg"
+}

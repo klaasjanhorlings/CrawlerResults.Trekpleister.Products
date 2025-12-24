@@ -7,7 +7,7 @@
   "priceOriginal": "74.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033504",
   "mmkId": "3033504",
   "productGroupId": "",
@@ -25,12 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30267076,
-      "name": "LEGO"
-    },
-    {
-      "id": 30267367,
-      "name": "LEGO City"
+      "id": 30267082,
+      "name": "Voertuigen"
     }
   ],
   "description": "",

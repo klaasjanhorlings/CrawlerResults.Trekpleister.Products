@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536625,
-      "name": "Baby"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 30267074,
-      "name": "Zwangerschap en kraamtijd"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30267362,
-      "name": "Mama verzorgingsproducten"
+      "id": 51216437,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 55926790,
+      "name": "Pigmentverzorging"
     }
   ],
   "description": "30ml",

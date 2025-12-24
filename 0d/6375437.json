@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Oreo Enrobed White",
+  "itemName": "Oreo Koekjes Omhuld met Witte Chocoladesmaak XL Doos",
   "code": "6375437",
   "price": "17.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/oreo-enrobed-white/p/6375437",
+  "url": "/oreo-koekjes-omhuld-met-witte-chocoladesmaak-xl-doos/p/6375437",
   "listName": "Lister",
   "brand": "Oreo",
   "mpOrigin": "Kruidvat",
@@ -29,8 +29,8 @@
       "name": "Snacks en snoep"
     },
     {
-      "id": 30267584,
-      "name": "Koek"
+      "id": 30267585,
+      "name": "Chocolade"
     }
   ],
   "description": "24 x 41g",
