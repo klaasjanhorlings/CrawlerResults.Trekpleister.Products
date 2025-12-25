@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Vitamine C + Aha24 Dagcrème",
   "code": "5583453",
-  "price": "41.99",
-  "priceOriginal": "",
+  "price": "18.9",
+  "priceOriginal": "41.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3033010",
-  "mmkId": "3033010",
-  "productGroupId": "483978",
+  "onPromo": "3033105",
+  "mmkId": "3033105",
+  "productGroupId": "483979",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 23,09",
   "url": "/olay-vitamine-c-aha24-dagcreme/p/5583453",
   "listName": "Lister",
   "brand": "Olay",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h48/hd3/35156392837150/prd-front-5583453-1_600x600/prd-front-5583453-1-600x600.jpg"
+  "description": "50ml - Alle huidtypen"
 }

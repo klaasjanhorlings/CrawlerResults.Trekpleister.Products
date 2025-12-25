@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Cleanse Make-up Oplossende Reinigingsmelk",
   "code": "5097380",
-  "price": "6.99",
-  "priceOriginal": "",
+  "price": "3.15",
+  "priceOriginal": "6.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3889",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3033006",
-  "mmkId": "3033006",
-  "productGroupId": "474671",
+  "onPromo": "3033105",
+  "mmkId": "3033105",
+  "productGroupId": "483979",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,84",
   "url": "/olay-cleanse-make-up-oplossende-reinigingsmelk/p/5097380",
   "listName": "Lister",
   "brand": "Olay",
@@ -37,5 +37,6 @@
       "name": "Reinigingsmelk"
     }
   ],
-  "description": "200ml - Alle huidtypen"
+  "description": "200ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hb2/h49/35131912486942/prd-front-5097380-1_600x600/prd-front-5097380-1-600x600.jpg"
 }
