@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Plump It Up 090 Potentially Scandalous Lip Booster",
-  "code": "5788249",
-  "price": "3.99",
+  "itemName": "L'Oréal Paris Plump Ambition 650 Nude Macaron Hyaluronic Lip Oil",
+  "code": "6235780",
+  "price": "16.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
-  "supplier": "COSNOVA GMBH (BNL)",
+  "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
-  "brandType": "Exclusief merk",
+  "onPromo": "3033047",
+  "mmkId": "3033047",
+  "productGroupId": "506395",
+  "brandType": "A of B merk",
   "discount": "",
-  "url": "/catrice-plump-it-up-090-potentially-scandalous-lip-booster/p/5788249",
+  "url": "/loreal-paris-plump-ambition-650-nude-macaron-hyaluronic-lip-oil/p/6235780",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "L'Oreal",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "3,5ml"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1c/hd9/44505825116190/prd-front-6235780-1_600x600/prd-front-6235780-1-600x600.jpg"
 }

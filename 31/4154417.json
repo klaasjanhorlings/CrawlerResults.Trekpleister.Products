@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "RB HYGIENE HOME NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h52/h0a/33979282489374/prd-front-4154417-1_600x600/prd-front-4154417-1-600x600.jpg"
 }

@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Glossy Jelly 06 Mini Nail Polish",
-  "code": "6246252",
-  "price": "1.29",
+  "itemName": "Essence 100 Skin Tint",
+  "code": "6017387",
+  "price": "3.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-glossy-jelly-06-mini-nail-polish/p/6246252",
+  "url": "/essence-100-skin-tint/p/6017387",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -25,14 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 72475732,
-      "name": "Nagels"
+      "id": 30267038,
+      "name": "Make-up"
     },
     {
-      "id": 30267141,
-      "name": "Nagellak"
+      "id": 30267134,
+      "name": "Foundation"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h7c/h21/33479665188894/prd-front-6246252-1_600x600/prd-front-6246252-1-600x600.jpg"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h89/h42/45077594898462/prd-front-6017387-1_600x600/prd-front-6017387-1-600x600.jpg"
 }
