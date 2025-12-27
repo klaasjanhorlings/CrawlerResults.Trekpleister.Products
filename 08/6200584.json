@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Olay Cleanse Schuimende Reinigingsgel",
-  "code": "5095903",
-  "price": "3.15",
-  "priceOriginal": "6.99",
+  "itemName": "Cosrx Low PH Gel Cleanser",
+  "code": "6200584",
+  "price": "12.0",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
-  "supplier": "PROCTER & GAMBLE NL BV",
+  "supplier": "ORIEN TRADE OU",
   "inStock": "outOfStock",
-  "onPromo": "3033105",
-  "mmkId": "3033105",
-  "productGroupId": "483979",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,84",
-  "url": "/olay-cleanse-schuimende-reinigingsgel/p/5095903",
+  "discount": "",
+  "url": "/cosrx-low-ph-gel-cleanser/p/6200584",
   "listName": "Lister",
-  "brand": "Olay",
+  "brand": "COSRX",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,6 +37,6 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "150ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/hc3/h1e/35131580088350/prd-front-5095903-1_600x600/prd-front-5095903-1-600x600.jpg"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h9c/h2e/32303040954398/prd-front-6200584-1_600x600/prd-front-6200584-1-600x600.jpg"
 }
