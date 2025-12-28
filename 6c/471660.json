@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nicotinell Cool Mint 2mg Kauwgom",
+  "code": "471660",
+  "price": "30.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 3498",
+  "supplier": "DR REDDY'S NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nicotinell-cool-mint-2mg-kauwgom/p/471660",
+  "listName": "Lister",
+  "brand": "Nicotinell",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267266,
+      "name": "Stoppen met roken"
+    },
+    {
+      "id": 30267538,
+      "name": "Nicotinekauwgom"
+    }
+  ],
+  "description": "Geneesmiddel - 96 stuks",
+  "image": "/medias/prd-front-471660-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzAyNTl8aW1hZ2UvanBlZ3xhR0ZoTDJnd05TOHhOakl6TnpBNU16TXlNamM0TWk5d2NtUXRabkp2Ym5RdE5EY3hOall3TFRGZk5qQXdlRFl3TUF8ZjYwZTc1MTUxMGFlNjY4MGU0M2RlNGY5MzhiNzU0MGExOWEyZGRmZTdmMTAxYWFjZWI5MDAzYjg5ZjA4ODVkZQ"
+}

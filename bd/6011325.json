@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Blush Crush 50 Pink Pop Blush",
-  "code": "6017485",
-  "price": "2.69",
+  "itemName": "Catrice Kajal 130 Lime Green Waterproof Kohl Oogpotlood",
+  "code": "6011325",
+  "price": "1.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-blush-crush-50-pink-pop-blush/p/6017485",
+  "url": "/catrice-kajal-130-lime-green-waterproof-kohl-oogpotlood/p/6011325",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267142,
+      "name": "Oogpotlood"
     }
   ],
-  "description": "5g",
-  "image": "/medias/sys_master/prd-images/hc5/hf4/45077596536862/prd-front-6017485-1_600x600/prd-front-6017485-1-600x600.jpg"
+  "description": "8g",
+  "image": "/medias/sys_master/prd-images/h2a/h92/29942043869214/prd-front-6011325-1_600x600/prd-front-6011325-1-600x600.jpg"
 }
