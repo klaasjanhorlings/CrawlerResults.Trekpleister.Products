@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "BLEACH PRODUCTS LIMITED",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033231",
+  "mmkId": "3033231",
+  "productGroupId": "513158",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bleach-london-white-toner-salon-standard-home-toning-kit/p/6316133",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7c/h5b/34836633321502/prd-front-6316133-1_600x600/prd-front-6316133-1-600x600.jpg"
 }

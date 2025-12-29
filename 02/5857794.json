@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwemhulpmiddel met Leeuwenprint",
+  "code": "5857794",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6023 > 4830 > 5178 > 5286 > 5475",
+  "supplier": "THE ESSENTIALS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/zwemhulpmiddel-met-leeuwenprint/p/5857794",
+  "listName": "Lister",
+  "brand": "Swim Essentials",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267084,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30267395,
+      "name": "Zwembaden en accessoires"
+    },
+    {
+      "id": 90160879,
+      "name": "Zwemveiligheid"
+    }
+  ],
+  "description": "2-6 Jaar (15-30kg)",
+  "image": "/medias/sys_master/prd-images/h15/h83/28891523153950/prd-front-5857794-1_600x600/prd-front-5857794-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3033049",
-  "mmkId": "3033049",
-  "productGroupId": "506517",
+  "onPromo": "3033212",
+  "mmkId": "3033212",
+  "productGroupId": "515288",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-fructis-nourishing-banana-hair-food-3-in-1-haarmasker/p/4361904",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hba/hf5/35070879170590/prd-front-4361904-1_600x600/prd-front-4361904-1-600x600.jpg"
 }

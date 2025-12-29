@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3033071",
-  "mmkId": "3033071",
-  "productGroupId": "508827",
+  "onPromo": "3033139",
+  "mmkId": "3033139",
+  "productGroupId": "508986",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-repair-care-creme/p/6125985",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h0f/h5d/44915315048478/prd-front-6125985-1_600x600/prd-front-6125985-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3108 > 3485",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033137",
+  "mmkId": "3033137",
+  "productGroupId": "508066",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-hammam-massage-oil/p/1991669",
@@ -33,6 +33,5 @@
       "name": "Massageolie en massagelotion"
     }
   ],
-  "description": "125ml",
-  "image": "/medias/sys_master/prd-images/he4/h29/28760386273310/prd-front-1991669-1_600x600/prd-front-1991669-1-600x600.jpg"
+  "description": "125ml"
 }

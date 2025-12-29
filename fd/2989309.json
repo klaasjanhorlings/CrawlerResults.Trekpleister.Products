@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Colgate Extra Clean Medium Tandenborstels",
   "code": "2989309",
-  "price": "0.89",
-  "priceOriginal": "1.19",
+  "price": "1.19",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3858",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3033063",
-  "mmkId": "3033063",
-  "productGroupId": "508465",
+  "onPromo": "3033154",
+  "mmkId": "3033154",
+  "productGroupId": "511118",
   "brandType": "A of B merk",
-  "discount": "€ 0,30",
+  "discount": "",
   "url": "/colgate-extra-clean-medium-tandenborstels/p/2989309",
   "listName": "Lister",
   "brand": "Colgate",
@@ -33,5 +33,6 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h3c/hb0/28616295514142/prd-front-2989309-1_600x600/prd-front-2989309-1-600x600.jpg"
 }

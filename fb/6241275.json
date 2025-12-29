@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3059 > 3907",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033234",
+  "mmkId": "3033234",
+  "productGroupId": "512663",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-premium-protection-maat-1-luiers/p/6241275",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 1"
     }
   ],
-  "description": "mt 1 (2-5kg), 39 stuks"
+  "description": "mt 1 (2-5kg), 39 stuks",
+  "image": "/medias/sys_master/prd-images/hfe/h31/33349054529566/prd-front-6241275-1_600x600/prd-front-6241275-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gabby's Dollhouse Gabby's Party Room Speelset",
+  "code": "6319899",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2183 > 5177 > 5271 > 5460",
+  "supplier": "SPIN MASTER INT. SARL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gabbys-dollhouse-gabbys-party-room-speelset/p/6319899",
+  "listName": "Lister",
+  "brand": "Gabby's Dollhouse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267079,
+      "name": "Speelfiguren en speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h62/h1a/44577393311774/prd-front-6319899-1_600x600/prd-front-6319899-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033198",
+  "mmkId": "3033198",
+  "productGroupId": "514771",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-instant-anti-age-perfector-4-in-1-glow-light-medium-concealer/p/5902146",
@@ -33,6 +33,5 @@
       "name": "BB cream"
     }
   ],
-  "description": "20ml",
-  "image": "/medias/sys_master/prd-images/h62/h61/44805698027550/prd-front-5902146-1_600x600/prd-front-5902146-1-600x600.jpg"
+  "description": "20ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033002",
-  "mmkId": "3033002",
-  "productGroupId": "462799",
+  "onPromo": "3033166",
+  "mmkId": "3033166",
+  "productGroupId": "511599",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-ice-chill-deodorant-bodyspray/p/4678276",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hde/h0f/33762501853214/prd-front-4678276-1_600x600/prd-front-4678276-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Alpine PartyPlug Oordoppen",
   "code": "6265887",
-  "price": "14.95",
-  "priceOriginal": "",
+  "price": "11.21",
+  "priceOriginal": "14.95",
   "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6718 > 6719",
   "supplier": "ALPINE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033180",
+  "mmkId": "3033180",
+  "productGroupId": "512732",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,74",
   "url": "/alpine-partyplug-oordoppen/p/6265887",
   "listName": "Lister",
   "brand": "Alpine",
@@ -41,6 +41,5 @@
       "name": "Muziek oordoppen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h5d/hf0/33466220380190/prd-front-6265887-1_600x600/prd-front-6265887-1-600x600.jpg"
+  "description": ""
 }

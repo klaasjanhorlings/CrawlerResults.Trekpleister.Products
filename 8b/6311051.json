@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3679",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033137",
+  "mmkId": "3033137",
+  "productGroupId": "508066",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-forest-flower-meditation-shower-satin/p/6311051",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/he0/hf8/34608956899358/prd-front-6311051-1_600x600/prd-front-6311051-1-600x600.jpg"
 }

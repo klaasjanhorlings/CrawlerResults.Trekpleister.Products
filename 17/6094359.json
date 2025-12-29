@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "LEGO Disney 43247 Jonge Simba de Leeuwenkoning",
   "code": "6094359",
-  "price": "89.99",
+  "price": "59.99",
   "priceOriginal": "119.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
-  "onPromo": "3033504",
-  "mmkId": "3033504",
+  "inStock": "outOfStock",
+  "onPromo": "3033505",
+  "mmkId": "3033505",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 30,00",
+  "discount": "€ 60,00",
   "url": "/lego-disney-43247-jonge-simba-de-leeuwenkoning/p/6094359",
   "listName": "Lister",
   "brand": "LEGO Disney",
@@ -33,5 +33,6 @@
       "name": "LEGO Disney"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc3/h5b/31178402299934/prd-front-6094359-1_600x600/prd-front-6094359-1-600x600.jpg"
 }

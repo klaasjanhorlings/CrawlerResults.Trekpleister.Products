@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Disney Baby 10 Leuke Uitdeelboekjes",
+  "code": "6214094",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4868 > 2092 > 2245 > 2343 > 2743 > 6568",
+  "supplier": "BOOK & SERVICE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/disney-baby-10-leuke-uitdeelboekjes/p/6214094",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267085,
+      "name": "Educatief speelgoed"
+    }
+  ],
+  "description": "Nederlandstalig boek",
+  "image": "/medias/sys_master/prd-images/h0d/h3e/45288282128414/prd-front-6214094-1_600x600/prd-front-6214094-1-600x600.jpg"
+}

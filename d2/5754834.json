@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033132",
+  "mmkId": "3033132",
+  "productGroupId": "505249",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-cotton-protection-normal-plus-maandverband/p/5754834",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "11 stuks"
+  "description": "11 stuks",
+  "image": "/medias/sys_master/prd-images/h57/h35/32028538929182/prd-front-5754834-1_600x600/prd-front-5754834-1-600x600.jpg"
 }

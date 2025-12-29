@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gillette Venus Extra Smooth Swirl Scheersysteem",
   "code": "6261778",
-  "price": "15.0",
+  "price": "12.5",
   "priceOriginal": "19.99",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3033027",
-  "mmkId": "3033027",
-  "productGroupId": "500825",
+  "onPromo": "3033205",
+  "mmkId": "3033205",
+  "productGroupId": "514801",
   "brandType": "A of B merk",
-  "discount": "€ 4,99",
+  "discount": "€ 7,49",
   "url": "/gillette-venus-extra-smooth-swirl-scheersysteem/p/6261778",
   "listName": "Lister",
   "brand": "Gillette Venus",
@@ -33,6 +33,5 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h62/h3c/33340922920990/prd-front-6261778-1_600x600/prd-front-6261778-1-600x600.jpg"
+  "description": ""
 }

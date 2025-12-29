@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NG Dark Cherry Eau de Parfum",
   "code": "6143576",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "2.99",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "NEXT GENERATION PERFUME",
-  "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "outOfStock",
+  "onPromo": "3033190",
+  "mmkId": "3033190",
+  "productGroupId": "514589",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/ng-dark-cherry-eau-de-parfum/p/6143576",
   "listName": "Lister",
   "brand": "NG",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h6a/hc6/31570393661470/prd-front-6143576-1_600x600/prd-front-6143576-1-600x600.jpg"
+  "description": ""
 }

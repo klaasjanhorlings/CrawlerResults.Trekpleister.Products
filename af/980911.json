@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033207",
+  "mmkId": "3033207",
+  "productGroupId": "514810",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/listerine-total-care-anti-tandsteen-mondspoeling/p/980911",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h86/hcc/34436176248862/prd-front-980911-1_600x600/prd-front-980911-1-600x600.jpg"
 }

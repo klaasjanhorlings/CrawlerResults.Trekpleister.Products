@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033002",
-  "mmkId": "3033002",
-  "productGroupId": "462799",
+  "onPromo": "3033166",
+  "mmkId": "3033166",
+  "productGroupId": "511599",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zendium-fresh-white-tandpasta/p/5098458",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hf2/h3f/32403910098974/prd-front-5098458-1_600x600/prd-front-5098458-1-600x600.jpg"
 }

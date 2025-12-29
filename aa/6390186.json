@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "PHARCONA GMBH",
   "inStock": "inStock",
-  "onPromo": "3033103",
-  "mmkId": "3033103",
-  "productGroupId": "477838",
+  "onPromo": "3032388",
+  "mmkId": "3032388",
+  "productGroupId": "294599",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamine-e-hydraterende-nachtcreme/p/6390186",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hcd/h54/44365366820894/prd-front-6390186-1_600x600/prd-front-6390186-1-600x600.jpg"
 }

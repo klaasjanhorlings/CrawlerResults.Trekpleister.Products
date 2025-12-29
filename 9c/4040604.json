@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3033065",
-  "mmkId": "3033065",
-  "productGroupId": "508473",
+  "onPromo": "3033157",
+  "mmkId": "3033157",
+  "productGroupId": "511131",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-3d-white-arctic-fresh-tandpasta/p/4040604",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hf1/h5b/33210785038366/prd-front-4040604-1_600x600/prd-front-4040604-1-600x600.jpg"
 }

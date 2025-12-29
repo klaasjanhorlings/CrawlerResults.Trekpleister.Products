@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "A.Vogel Overgang Famosan Gewichtsbeheersing2* Tabletten",
   "code": "4921505",
-  "price": "17.24",
-  "priceOriginal": "22.99",
+  "price": "22.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "3033020",
-  "mmkId": "3033020",
-  "productGroupId": "497535",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,75",
+  "discount": "",
   "url": "/avogel-overgang-famosan-gewichtsbeheersing2-tabletten/p/4921505",
   "listName": "Lister",
   "brand": "A.Vogel",
@@ -33,5 +33,6 @@
       "name": "Overgang"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h80/h60/32640283181086/prd-front-4921505-1_600x600/prd-front-4921505-1-600x600.jpg"
 }

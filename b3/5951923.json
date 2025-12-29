@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "SUNSTAR BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033158",
+  "mmkId": "3033158",
+  "productGroupId": "511134",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gum-soft-picks-pro-interdentale-tandenstokers/p/5951923",
@@ -33,6 +33,5 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "mt S, 60 stuks",
-  "image": "/medias/sys_master/prd-images/h81/h6b/34509756203038/prd-front-5951923-1_600x600/prd-front-5951923-1-600x600.jpg"
+  "description": "mt S, 60 stuks"
 }

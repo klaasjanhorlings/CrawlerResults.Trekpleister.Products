@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3033060",
-  "mmkId": "3033060",
-  "productGroupId": "508456",
+  "onPromo": "3033154",
+  "mmkId": "3033154",
+  "productGroupId": "511118",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/colgate-max-white-charcoal-whitening-tandpasta/p/4822364",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Whitening"
+  "description": "75ml - Whitening",
+  "image": "/medias/sys_master/prd-images/h09/h7a/33858591359006/prd-front-4822364-1_600x600/prd-front-4822364-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5918",
   "supplier": "COSMOGROUP BRANDS BV",
   "inStock": "inStock",
-  "onPromo": "3032782",
-  "mmkId": "3032782",
-  "productGroupId": "480217",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/umberto-giannini-scrunching-curl-jelly/p/5823116",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hc8/he6/34598137823262/prd-front-5823116-1_600x600/prd-front-5823116-1-600x600.jpg"
 }

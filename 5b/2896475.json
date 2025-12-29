@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2838 > 3578",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3033051",
-  "mmkId": "3033051",
-  "productGroupId": "506537",
+  "onPromo": "3033212",
+  "mmkId": "3033212",
+  "productGroupId": "515288",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-studio-line-special-fx-out-of-bed-fibre-cream/p/2896475",
@@ -33,5 +33,6 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h77/hff/28547552411678/prd-front-2896475-1_600x600/prd-front-2896475-1-600x600.jpg"
 }

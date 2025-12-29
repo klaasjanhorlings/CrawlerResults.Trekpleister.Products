@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3033021",
-  "mmkId": "3033021",
-  "productGroupId": "497556",
+  "onPromo": "3033164",
+  "mmkId": "3033164",
+  "productGroupId": "511301",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-multi-man-50-compleet-tabletten/p/5938217",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "40 stuks"
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/hb8/h6b/30114544451614/prd-front-5938217-1_600x600/prd-front-5938217-1-600x600.jpg"
 }

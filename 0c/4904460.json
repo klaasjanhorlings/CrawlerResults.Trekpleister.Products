@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Philips Essential Series BHD017/40 Haardroger",
   "code": "4904460",
-  "price": "22.49",
-  "priceOriginal": "29.99",
+  "price": "29.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6430",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "outOfStock",
-  "onPromo": "3032710",
-  "mmkId": "3032710",
-  "productGroupId": "510951",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 7,50",
+  "discount": "",
   "url": "/philips-essential-series-bhd017/40-haardroger/p/4904460",
   "listName": "Lister",
   "brand": "Philips",
@@ -37,6 +37,5 @@
       "name": "Föhns"
     }
   ],
-  "description": "wit",
-  "image": "/medias/sys_master/prd-images/h10/h8a/34114192965662/prd-front-4904460-1_600x600/prd-front-4904460-1-600x600.jpg"
+  "description": "wit"
 }

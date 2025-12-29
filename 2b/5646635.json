@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oral-B iO Series 6 Elektrische Tandenborstels",
   "code": "5646635",
-  "price": "429.99",
-  "priceOriginal": "",
+  "price": "214.99",
+  "priceOriginal": "429.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033156",
+  "mmkId": "3033156",
+  "productGroupId": "511126",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 215,00",
   "url": "/oral-b-io-series-6-elektrische-tandenborstels/p/5646635",
   "listName": "Lister",
   "brand": "Oral B",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "zwart, roze, 2 stuks"
+  "description": "zwart, roze, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h96/ha8/44860590522398/prd-front-5646635-1_600x600/prd-front-5646635-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033198",
+  "mmkId": "3033198",
+  "productGroupId": "514771",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-eye-studio-hyper-precise-all-day-liner-001-forest-brown-eyeliner/p/3102520",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h78/hc1/44651778244638/prd-front-3102520-1_600x600/prd-front-3102520-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "TRADE SENSE BV",
   "inStock": "inStock",
-  "onPromo": "3032953",
-  "mmkId": "3032953",
-  "productGroupId": "470582",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/treaclemoon-rouge-love-story-bodybutter/p/6177834",
@@ -33,6 +33,5 @@
       "name": "Bodybutter"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h61/hf6/32402433409054/prd-front-6177834-1_600x600/prd-front-6177834-1-600x600.jpg"
+  "description": "200ml"
 }

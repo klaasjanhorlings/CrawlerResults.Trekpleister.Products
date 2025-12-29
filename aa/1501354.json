@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033047",
-  "mmkId": "3033047",
-  "productGroupId": "506395",
+  "onPromo": "3033198",
+  "mmkId": "3033198",
+  "productGroupId": "514771",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/l-oreal-paris-true-match-1r/1c-rose-ivory-foundation/p/1501354",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h5a/he5/44448510771230/prd-front-1501354-1_600x600/prd-front-1501354-1-600x600.jpg"
 }

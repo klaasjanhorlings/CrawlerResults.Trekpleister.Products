@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3033050",
-  "mmkId": "3033050",
-  "productGroupId": "506534",
+  "onPromo": "3033212",
+  "mmkId": "3033212",
+  "productGroupId": "515288",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-nutri-gloss-conditioner/p/2272453",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/ha2/h3b/33180678488094/prd-front-2272453-1_600x600/prd-front-2272453-1-600x600.jpg"
 }

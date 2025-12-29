@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Teddy Weekendtas",
+  "code": "6334270",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 2244 > 6088 > 6091 > 6095",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-teddy-weekendtas/p/6334270",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267420,
+      "name": "Tassen"
+    }
+  ],
+  "description": "bruin, 54cm x 15cm x 37cm",
+  "image": "/medias/sys_master/prd-images/h14/hdd/35129189564446/prd-front-6334270-1_600x600/prd-front-6334270-1-600x600.jpg"
+}

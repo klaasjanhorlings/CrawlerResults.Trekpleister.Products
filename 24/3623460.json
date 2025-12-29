@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2077 > 2235 > 2537 > 3165 > 3758",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3033074",
-  "mmkId": "3033074",
-  "productGroupId": "509466",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tempo-plus-soft-sensitive-zakdoekjes/p/3623460",
@@ -29,5 +29,6 @@
       "name": "Tissues en zakdoekjes"
     }
   ],
-  "description": "8 x 9 stuks"
+  "description": "8 x 9 stuks",
+  "image": "/medias/sys_master/prd-images/h2e/h45/44328386101278/prd-front-3623460-1_600x600/prd-front-3623460-1-600x600.jpg"
 }

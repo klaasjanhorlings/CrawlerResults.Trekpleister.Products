@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2077 > 2235 > 2537 > 3165 > 3758",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3033074",
-  "mmkId": "3033074",
-  "productGroupId": "509466",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tempo-complete-care-zakdoekjes/p/1532364",
@@ -29,5 +29,6 @@
       "name": "Tissues en zakdoekjes"
     }
   ],
-  "description": "10 x 9 stuks"
+  "description": "10 x 9 stuks",
+  "image": "/medias/sys_master/prd-images/hbd/h8e/34917904285726/prd-front-1532364-1_600x600/prd-front-1532364-1-600x600.jpg"
 }
