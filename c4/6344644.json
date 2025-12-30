@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10,5ml",
-  "image": "/medias/sys_master/prd-images/hc7/h52/35011328507934/prd-front-6344644-1_600x600/prd-front-6344644-1-600x600.jpg"
+  "description": "10,5ml"
 }

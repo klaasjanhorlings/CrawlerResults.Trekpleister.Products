@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "HG INTERNATIONAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/prd-front-230769-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDIxOTB8aW1hZ2UvanBlZ3xhR1l4TDJneU1DOHhOak13T0RrM05UTXdORGN6TkM5d2NtUXRabkp2Ym5RdE1qTXdOelk1TFRGZk5qQXdlRFl3TUF8MWJlNWU1ZWFhMjZiZjEwOTc2ZGJiNWFkOTg3OGMzZWVjM2YxM2I1ZGU3N2UwZGUwZWZiNDhiYjJkODU2MzU2NA"
+  "description": "500ml"
 }
