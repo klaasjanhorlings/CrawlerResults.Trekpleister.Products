@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6156 > 6171",
   "supplier": "HALEON (NOVARTIS)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,8 +33,8 @@
       "name": "Pijn"
     },
     {
-      "id": 30267529,
-      "name": "Pijnstiller"
+      "id": 30267526,
+      "name": "Ibuprofen"
     }
   ],
   "description": "Geneesmiddel - 20 stuks",

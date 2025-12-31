@@ -25,12 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30267039,
-      "name": "Parfum"
+      "id": 30267038,
+      "name": "Make-up"
     },
     {
-      "id": 72654889,
-      "name": "Herenparfum"
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
   "description": "2,8ml",

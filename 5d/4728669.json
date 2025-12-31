@@ -25,9 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267161,
+      "name": "Oogcreme"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h98/h10/31122325176350/prd-front-4728669-1_600x600/prd-front-4728669-1-600x600.jpg"
 }

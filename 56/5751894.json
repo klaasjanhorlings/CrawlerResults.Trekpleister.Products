@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "INEX NV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Dreumesmelk"
     }
   ],
-  "description": "1090g"
+  "description": "1090g",
+  "image": "/medias/sys_master/prd-images/ha3/h30/29480271282206/prd-front-5751894-1_600x600/prd-front-5751894-1-600x600.jpg"
 }

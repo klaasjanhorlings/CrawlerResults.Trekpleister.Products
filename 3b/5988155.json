@@ -7,7 +7,7 @@
   "priceOriginal": "2.99",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 2942 > 3736",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3032834",
   "mmkId": "3032834",
   "productGroupId": "497510",
@@ -29,6 +29,5 @@
       "name": "Afwasmiddel"
     }
   ],
-  "description": "350ml",
-  "image": "/medias/sys_master/prd-images/hb2/h53/29065040658462/prd-front-5988155-1_600x600/prd-front-5988155-1-600x600.jpg"
+  "description": "350ml"
 }

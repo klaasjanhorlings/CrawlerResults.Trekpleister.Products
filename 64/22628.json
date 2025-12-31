@@ -29,10 +29,13 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30267269,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267537,
+      "name": "Spierwrijfmiddelen"
     }
   ],
-  "description": "Homeopathisch geneesmiddel - 150g",
-  "image": "/medias/sys_master/prd-images/hdc/h61/34654876860446/prd-front-22628-1_600x600/prd-front-22628-1-600x600.jpg"
+  "description": "Homeopathisch geneesmiddel - 150g"
 }
