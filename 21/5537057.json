@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Bruno Banani Woman Eau de Toilette",
   "code": "5537057",
-  "price": "15.0",
-  "priceOriginal": "24.49",
+  "price": "24.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "3033192",
-  "mmkId": "3033192",
-  "productGroupId": "514591",
+  "onPromo": "3033248",
+  "mmkId": "3033248",
+  "productGroupId": "514587",
   "brandType": "A of B merk",
-  "discount": "€ 9,49",
+  "discount": "",
   "url": "/bruno-banani-woman-eau-de-toilette/p/5537057",
   "listName": "Lister",
   "brand": "Bruno Banani",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hc8/h6d/28725946253342/prd-front-5537057-1_600x600/prd-front-5537057-1-600x600.jpg"
+  "description": "30ml"
 }

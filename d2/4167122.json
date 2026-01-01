@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033198",
-  "mmkId": "3033198",
-  "productGroupId": "514771",
+  "onPromo": "3033260",
+  "mmkId": "3033260",
+  "productGroupId": "516268",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-7d/w-golden-amber-foundation/p/4167122",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h38/ha5/44952888606750/prd-front-4167122-1_600x600/prd-front-4167122-1-600x600.jpg"
 }

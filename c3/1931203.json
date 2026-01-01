@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Regenerist 2-In-1 Dagcrème & Serum",
   "code": "1931203",
-  "price": "38.99",
-  "priceOriginal": "",
+  "price": "15.6",
+  "priceOriginal": "38.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033249",
+  "mmkId": "3033249",
+  "productGroupId": "509189",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 23,39",
   "url": "/olay-regenerist-2-in-1-dagcreme-serum/p/1931203",
   "listName": "Lister",
   "brand": "Olay",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h68/ha9/44801138130974/prd-front-1931203-1_600x600/prd-front-1931203-1-600x600.jpg"
 }

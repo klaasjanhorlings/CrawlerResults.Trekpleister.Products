@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kneipp Good Night Doucheschuim",
   "code": "5561501",
-  "price": "4.49",
-  "priceOriginal": "",
+  "price": "3.99",
+  "priceOriginal": "4.49",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "outOfStock",
-  "onPromo": "3033138",
-  "mmkId": "3033138",
-  "productGroupId": "508967",
+  "onPromo": "3033255",
+  "mmkId": "3033255",
+  "productGroupId": "514216",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 0,50",
   "url": "/kneipp-good-night-doucheschuim/p/5561501",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hdc/h28/45101550993438/prd-front-5561501-1_600x600/prd-front-5561501-1-600x600.jpg"
 }

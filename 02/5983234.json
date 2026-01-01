@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Chloé By Chloé Naturelle Eau de Parfum",
   "code": "5983234",
-  "price": "74.99",
-  "priceOriginal": "",
+  "price": "48.74",
+  "priceOriginal": "74.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033244",
+  "mmkId": "3033244",
+  "productGroupId": "514588",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 26,25",
   "url": "/chloe-by-chloe-naturelle-eau-de-parfum/p/5983234",
   "listName": "Lister",
   "brand": "Chloe",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h07/he1/29216349978654/prd-front-5983234-1_600x600/prd-front-5983234-1-600x600.jpg"
+  "description": "50ml"
 }

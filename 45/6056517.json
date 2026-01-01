@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3868",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033254",
+  "mmkId": "3033254",
+  "productGroupId": "513270",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-men-clean-protection-3-in-1-showergel/p/6056517",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml - Normale huid"
+  "description": "300ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hc1/h34/44326185697310/prd-front-6056517-1_600x600/prd-front-6056517-1-600x600.jpg"
 }

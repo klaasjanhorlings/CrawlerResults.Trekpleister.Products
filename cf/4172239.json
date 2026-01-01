@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033198",
-  "mmkId": "3033198",
-  "productGroupId": "514771",
+  "onPromo": "3033260",
+  "mmkId": "3033260",
+  "productGroupId": "516268",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-matte-ink-20-pioneer-lipstick/p/4172239",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h58/hd8/44851395559454/prd-front-4172239-1_600x600/prd-front-4172239-1-600x600.jpg"
 }
