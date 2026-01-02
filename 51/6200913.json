@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playing Kids Houten Regenboog",
+  "code": "6200913",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 4640 > 5189 > 5365 > 5554",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/playing-kids-houten-regenboog/p/6200913",
+  "listName": "Lister",
+  "brand": "Playing Kids",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267077,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30267389,
+      "name": "Vormenstoof"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2a/hde/34889478111262/prd-front-6200913-1_600x600/prd-front-6200913-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "999 Games Kiekeboe Kinderkaartspel",
+  "code": "5471313",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
+  "supplier": "999 GAMES",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/999-games-kiekeboe-kinderkaartspel/p/5471313",
+  "listName": "Lister",
+  "brand": "999 Games",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267393,
+      "name": "Reisspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/prd-front-5471313-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjU5NDd8aW1hZ2UvanBlZ3xhR1kxTDJobU5TOHhOekEwTnpjeE5ETTVPREl6T0M5d2NtUXRabkp2Ym5RdE5UUTNNVE14TXkweFh6WXdNSGcyTURBfDZiOWU2YWMyNTg0OGQ2N2UyOTQ4ZDE0NzAwMmVkNTg3MWViNDBiZjQ3ZjQwYWYzMGViZmJlYWM4NzFjNjQ5YmE"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Weleda Skin Food Alles-in-één-Crème",
+  "code": "5898793",
+  "price": "11.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "WELEDA BENELUX SE",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/weleda-skin-food-alles-in-een-creme/p/5898793",
+  "listName": "Lister",
+  "brand": "Weleda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267198,
+      "name": "Bodycremes"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h7e/hc0/45327094284318/prd-front-5898793-1_600x600/prd-front-5898793-1-600x600.jpg"
+}

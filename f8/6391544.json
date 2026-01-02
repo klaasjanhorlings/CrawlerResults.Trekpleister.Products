@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
   "supplier": "BRANDM BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Proteïne (eiwit) poeders"
     }
   ],
-  "description": "900g"
+  "description": "900g",
+  "image": "/medias/sys_master/prd-images/he5/ha8/44274667159582/prd-front-6391544-1_600x600/prd-front-6391544-1-600x600.jpg"
 }

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Davidoff Cool Water Homme Eau de Toilette",
   "code": "31307",
-  "price": "20.99",
+  "price": "26.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/prd-front-31307-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDE1NTN8aW1hZ2UvanBlZ3xhREJoTDJoaVpTOHhOalU1TWpBM01UZzFNakEyTWk5d2NtUXRabkp2Ym5RdE16RXpNRGN0TVY4Mk1EQjROakF3fDg3ZWFkN2M0Zjg0NWNjZDdjZmUxZjY2MThjMzNmZDQ3MDVkZTg0YjhjNTlkZGMwZDljZDFkYTM1M2UzODE3OTI"
 }

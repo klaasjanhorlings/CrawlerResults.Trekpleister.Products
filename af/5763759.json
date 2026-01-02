@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/prd-front-5763759-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTU1ODJ8aW1hZ2UvanBlZ3xhREprTDJneVlpOHhOakU0TlRJMU1EWXhNVEl6TUM5d2NtUXRabkp2Ym5RdE5UYzJNemMxT1MweFh6WXdNSGcyTURBfDc1ZDBjMGVhMDRkMTNmOGI3YjE5YTU1YmNiZmQ0NTk3ZjViNGZhNDgzM2RkYjEwYzdmNTcxZjgzYzU1OGE4MzM"
 }

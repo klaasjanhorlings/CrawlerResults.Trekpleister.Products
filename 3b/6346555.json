@@ -7,7 +7,7 @@
   "priceOriginal": "36.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033505",
   "mmkId": "3033505",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "LEGO Games"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/h28/35043232514078/prd-front-6346555-1_600x600/prd-front-6346555-1-600x600.jpg"
 }

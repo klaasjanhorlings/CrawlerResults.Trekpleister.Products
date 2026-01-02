@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clementoni Bumba Schoolbus",
+  "code": "4905734",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/clementoni-bumba-schoolbus/p/4905734",
+  "listName": "Lister",
+  "brand": "Clementoni",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267077,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30267389,
+      "name": "Vormenstoof"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/haa/31048380776478/prd-front-4905734-1_600x600/prd-front-4905734-1-600x600.jpg"
+}
