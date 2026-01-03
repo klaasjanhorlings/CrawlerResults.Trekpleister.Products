@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033170",
   "mmkId": "3033170",
   "productGroupId": "512141",
@@ -33,6 +33,5 @@
       "name": "Haarlak"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/hbe/hce/33850021511198/prd-front-6236270-1_600x600/prd-front-6236270-1-600x600.jpg"
+  "description": "300ml"
 }

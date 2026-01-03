@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Diadermine Hydraterend Micellair Water voor Alle Huidtypes",
-  "code": "3827447",
-  "price": "7.15",
+  "itemName": "Diadermine Rimpel Expert 3D Pro-Hyaluron Dagcrème",
+  "code": "571592",
+  "price": "7.5",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
   "onPromo": "3033183",
@@ -13,7 +13,7 @@
   "productGroupId": "513257",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/diadermine-hydraterend-micellair-water-voor-alle-huidtypes/p/3827447",
+  "url": "/diadermine-rimpel-expert-3d-pro-hyaluron-dagcreme/p/571592",
   "listName": "Lister",
   "brand": "Diadermine",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Skincare"
     },
     {
-      "id": 30267165,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30267472,
-      "name": "Micellair water"
+      "id": 30267159,
+      "name": "Dagcreme"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hde/h54/28549624168478/prd-front-3827447-1_600x600/prd-front-3827447-1-600x600.jpg"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h5f/h00/28573709369374/prd-front-571592-1_600x600/prd-front-571592-1-600x600.jpg"
 }

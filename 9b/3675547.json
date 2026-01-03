@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Garnier SkinActive Alles-In-1 Micellair Reinigingswater",
-  "code": "2986740",
-  "price": "7.99",
+  "itemName": "Garnier PureActive Micellair Water voor de Gevoelige & Gemengde tot Vette Huid",
+  "code": "3675547",
+  "price": "8.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "LOREAL NED BV",
@@ -13,7 +13,7 @@
   "productGroupId": "514184",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/garnier-skinactive-alles-in-1-micellair-reinigingswater/p/2986740",
+  "url": "/garnier-pureactive-micellair-water-voor-de-gevoelige-gemengde-tot-vette-huid/p/3675547",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
   "mpOrigin": "Kruidvat",
@@ -37,5 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml - Gevoelige huid"
+  "description": "400ml - Gevoelige, gecombineerde en vette huid",
+  "image": "/medias/sys_master/prd-images/h16/hf0/35155192774686/prd-front-3675547-1_600x600/prd-front-3675547-1-600x600.jpg"
 }
