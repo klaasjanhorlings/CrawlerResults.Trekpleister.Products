@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Shine Bomb 060 Pinky Lipstick",
-  "code": "5998242",
-  "price": "4.69",
+  "itemName": "Essence Satin Glow 01 Whole Latte Love Luminous Shine Lipstick",
+  "code": "6349138",
+  "price": "2.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-shine-bomb-060-pinky-lipstick/p/5998242",
+  "url": "/essence-satin-glow-01-whole-latte-love-luminous-shine-lipstick/p/6349138",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "Essence",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,6 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3ml",
-  "image": "/medias/sys_master/prd-images/hde/h25/29940565835806/prd-front-5998242-1_600x600/prd-front-5998242-1-600x600.jpg"
+  "description": "3.5g",
+  "image": "/medias/sys_master/prd-images/h80/h5d/44119403495454/prd-front-6349138-1_600x600/prd-front-6349138-1-600x600.jpg"
 }

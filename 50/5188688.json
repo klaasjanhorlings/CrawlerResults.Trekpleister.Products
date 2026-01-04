@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6410",
   "supplier": "TREFFINA BV",
   "inStock": "inStock",
-  "onPromo": "3032388",
-  "mmkId": "3032388",
-  "productGroupId": "294599",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-dubbelzijdige-spiegel/p/5188688",
@@ -33,5 +33,6 @@
       "name": "Make-up spiegels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha6/h2a/28578165555230/prd-front-5188688-1_600x600/prd-front-5188688-1-600x600.jpg"
 }

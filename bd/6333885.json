@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3679",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033139",
   "mmkId": "3033139",
   "productGroupId": "508986",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hf1/hf4/44212924907550/prd-front-6333885-1_600x600/prd-front-6333885-1-600x600.jpg"
+  "description": "250ml"
 }

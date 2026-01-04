@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Skincyclopedia Niacinamide Gezichtsserum",
-  "code": "5933618",
-  "price": "9.99",
+  "itemName": "Cosrx The 6 Peptide Skin Booster Serum",
+  "code": "6200031",
+  "price": "25.0",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
-  "supplier": "REBRO COSMETICS BV",
+  "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/skincyclopedia-niacinamide-gezichtsserum/p/5933618",
+  "url": "/cosrx-the-6-peptide-skin-booster-serum/p/6200031",
   "listName": "Lister",
-  "brand": "SKINCYCLOPEDIA",
+  "brand": "COSRX",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hcd/hb1/28848632954910/prd-front-5933618-1_600x600/prd-front-5933618-1-600x600.jpg"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/he0/h48/34536076378142/prd-front-6200031-1_600x600/prd-front-6200031-1-600x600.jpg"
 }

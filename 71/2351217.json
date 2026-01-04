@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2634 > 3298 > 4197",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Keelpastilles"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/prd-front-2351217-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODg3NzB8aW1hZ2UvanBlZ3xhRFF6TDJoa09TOHhOalUxTWpNeU9ETTJOREEyTWk5d2NtUXRabkp2Ym5RdE1qTTFNVEl4TnkweFh6WXdNSGcyTURBfGIwZDExYTU1ODM2YzAwNGY5YTcwMDE4ODdkZjQzNGNiMzg5OTE5OGRhZGIwYzE5NDFmMWMwOTI4YzVjOWE3MDQ"
+  "description": "24 stuks"
 }

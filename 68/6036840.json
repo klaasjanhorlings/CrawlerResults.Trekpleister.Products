@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nip + Fab Hydrate Hyaluronic Fix Cleansing Cream",
+  "code": "6036840",
+  "price": "14.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
+  "supplier": "NIP + FAB",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nip-fab-hydrate-hyaluronic-fix-cleansing-cream/p/6036840",
+  "listName": "Lister",
+  "brand": "NIP+FAB",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267476,
+      "name": "Reinigingscreme"
+    }
+  ],
+  "description": "150ml, droge huid",
+  "image": "/medias/sys_master/prd-images/h51/h7c/30113806057502/prd-front-6036840-1_600x600/prd-front-6036840-1-600x600.jpg"
+}

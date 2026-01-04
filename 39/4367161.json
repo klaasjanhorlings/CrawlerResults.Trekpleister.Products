@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
   "supplier": "PRIMMED BV",
   "inStock": "inStock",
-  "onPromo": "3032388",
-  "mmkId": "3032388",
-  "productGroupId": "294599",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-20-deet-anti-insect-spray/p/4367161",
@@ -37,5 +37,6 @@
       "name": "Voor de beet"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h8f/h19/28550835470366/prd-front-4367161-1_600x600/prd-front-4367161-1-600x600.jpg"
 }

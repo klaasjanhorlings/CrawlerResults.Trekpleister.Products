@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty Mega Balm Original All-Over Ointment",
+  "code": "6317757",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-mega-balm-original-all-over-ointment/p/6317757",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 88118416,
+      "name": "Lip balm"
+    }
+  ],
+  "description": "14g",
+  "image": "/medias/sys_master/prd-images/hd7/h83/34829427638302/prd-front-6317757-1_600x600/prd-front-6317757-1-600x600.jpg"
+}

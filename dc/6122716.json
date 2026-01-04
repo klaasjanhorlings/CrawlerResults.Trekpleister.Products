@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "WELEDA BENELUX SE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hac/hd1/31231841468446/prd-front-6122716-1_600x600/prd-front-6122716-1-600x600.jpg"
 }

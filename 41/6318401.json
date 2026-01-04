@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty Lip Shimmer Diva Hydrating Oil",
+  "code": "6318401",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "inStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-lip-shimmer-diva-hydrating-oil/p/6318401",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 88118400,
+      "name": "Lip oil"
+    }
+  ],
+  "description": "3.8ml",
+  "image": "/medias/sys_master/prd-images/h7d/hb3/34827739037726/prd-front-6318401-1_600x600/prd-front-6318401-1-600x600.jpg"
+}

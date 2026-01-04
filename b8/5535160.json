@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6330",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "3032388",
-  "mmkId": "3032388",
-  "productGroupId": "294599",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-zandvijlen/p/5535160",
@@ -37,6 +37,5 @@
       "name": "Nagelvijlen"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-5535160-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTMwOTJ8aW1hZ2UvanBlZ3xhRFEyTDJnMk1TOHhOekEyT0RneE56VTRNREEyTWk5d2NtUXRabkp2Ym5RdE5UVXpOVEUyTUMweFh6WXdNSGcyTURBfGNjNmMzNDViZGVlNGVjNjZjMzliZTZiYzlhZjY4YTdhZTU2ZmJiMWU3YmE0OTgxZjQ5NDAzZmEzNjRiNWYzNWY"
+  "description": ""
 }

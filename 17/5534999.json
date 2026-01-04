@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6329",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "3032388",
-  "mmkId": "3032388",
-  "productGroupId": "294599",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-gebogen-pincet/p/5534999",
@@ -33,6 +33,5 @@
       "name": "Pincetten"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-5534999-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTY1MzZ8aW1hZ2UvanBlZ3xhR00zTDJoalpDOHhOekEyT0RneE5UWXhNems0TWk5d2NtUXRabkp2Ym5RdE5UVXpORGs1T1MweFh6WXdNSGcyTURBfDYwODUwNmE2OGU5NDJjM2ZlMWQ5OWZmNTMyZWJhMjYwNGZjMTA0YjUwNDllZTA4NjkyZjc2OTYwYzkxYjRhMTQ"
+  "description": ""
 }
