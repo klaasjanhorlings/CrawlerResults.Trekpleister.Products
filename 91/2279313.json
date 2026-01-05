@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier SkinActive Classic Medium BB Cream",
   "code": "2279313",
-  "price": "13.99",
-  "priceOriginal": "",
+  "price": "6.99",
+  "priceOriginal": "13.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3033189",
-  "mmkId": "3033189",
-  "productGroupId": "514184",
+  "onPromo": "3033384",
+  "mmkId": "3033384",
+  "productGroupId": "514188",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,00",
   "url": "/garnier-skinactive-classic-medium-bb-cream/p/2279313",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -33,5 +33,6 @@
       "name": "BB cream"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h47/hfc/35155753467934/prd-front-2279313-1_600x600/prd-front-2279313-1-600x600.jpg"
 }

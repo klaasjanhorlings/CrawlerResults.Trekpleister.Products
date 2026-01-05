@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3033182",
-  "mmkId": "3033182",
-  "productGroupId": "513213",
+  "onPromo": "3033368",
+  "mmkId": "3033368",
+  "productGroupId": "513217",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-sensitive-gezichtscreme/p/5104016",
@@ -33,5 +33,6 @@
       "name": "Gezichtscreme mannen"
     }
   ],
-  "description": "50ml - Gevoelige en droge huid"
+  "description": "50ml - Gevoelige en droge huid",
+  "image": "/medias/sys_master/prd-images/h47/hca/45056290095134/prd-front-5104016-1_600x600/prd-front-5104016-1-600x600.jpg"
 }

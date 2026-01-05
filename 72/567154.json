@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris True Match 3.R/3.C Rose Beige Foundation",
   "code": "567154",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033260",
-  "mmkId": "3033260",
-  "productGroupId": "516268",
+  "onPromo": "3033407",
+  "mmkId": "3033407",
+  "productGroupId": "514775",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/loreal-paris-true-match-3r/3c-rose-beige-foundation/p/567154",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h0f/h29/35070872879134/prd-front-567154-1_600x600/prd-front-567154-1-600x600.jpg"
+  "description": "30ml"
 }

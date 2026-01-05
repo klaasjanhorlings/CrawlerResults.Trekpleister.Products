@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "3033231",
-  "mmkId": "3033231",
-  "productGroupId": "513158",
+  "inStock": "outOfStock",
+  "onPromo": "3033440",
+  "mmkId": "3033440",
+  "productGroupId": "516820",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-olia-415-ijs-kastanje-middenbruin-permanente-haarkleuring/p/2745401",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hca/h47/44725045657630/prd-front-2745401-1_600x600/prd-front-2745401-1-600x600.jpg"
 }

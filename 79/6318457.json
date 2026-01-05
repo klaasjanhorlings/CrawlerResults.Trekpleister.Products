@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Candy Overnight Lip Mask",
   "code": "6318457",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "6.0",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033442",
+  "mmkId": "3033442",
+  "productGroupId": "516968",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 1,99",
   "url": "/mcobeauty-candy-overnight-lip-mask/p/6318457",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Lip mask"
     }
   ],
-  "description": "20g"
+  "description": "20g",
+  "image": "/medias/sys_master/prd-images/h49/h92/34870208430110/prd-front-6318457-1_600x600/prd-front-6318457-1-600x600.jpg"
 }

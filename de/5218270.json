@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 6602 > 6603",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3033137",
-  "mmkId": "3033137",
-  "productGroupId": "508066",
+  "onPromo": "3033296",
+  "mmkId": "3033296",
+  "productGroupId": "508069",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-mystic-rose-shower-scrub/p/5218270",
@@ -33,5 +33,6 @@
       "name": "Scrub"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hb5/hef/45309012377630/prd-front-5218270-1_600x600/prd-front-5218270-1-600x600.jpg"
 }

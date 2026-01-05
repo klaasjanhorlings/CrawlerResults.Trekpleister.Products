@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033166",
-  "mmkId": "3033166",
-  "productGroupId": "511599",
+  "onPromo": "3033359",
+  "mmkId": "3033359",
+  "productGroupId": "512934",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-men-antiroosshampoo/p/6299550",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h17/h5e/34249018277918/prd-front-6299550-1_600x600/prd-front-6299550-1-600x600.jpg"
 }

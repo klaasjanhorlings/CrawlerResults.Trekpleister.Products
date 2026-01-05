@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3033385",
+  "mmkId": "3033385",
+  "productGroupId": "514255",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/durex-play-aloe-vera-2-in-1-massageolie-en-glijmiddel/p/1376103",
@@ -33,5 +33,6 @@
       "name": "Glijmiddelen en massagegels"
     }
   ],
-  "description": "Medisch hulpmiddel - 200ml"
+  "description": "Medisch hulpmiddel - 200ml",
+  "image": "/medias/sys_master/prd-images/haf/h47/28551258439710/prd-front-1376103-1_600x600/prd-front-1376103-1-600x600.jpg"
 }

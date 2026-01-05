@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3328 > 4232",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033428",
+  "mmkId": "3033428",
+  "productGroupId": "515587",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/carmex-cherry-lippenbalsem/p/4323782",
@@ -33,6 +33,5 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h2d/h51/29427796344862/prd-front-4323782-1_600x600/prd-front-4323782-1-600x600.jpg"
+  "description": ""
 }

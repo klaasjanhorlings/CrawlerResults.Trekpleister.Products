@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "SUNSTAR BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "3033158",
-  "mmkId": "3033158",
-  "productGroupId": "511134",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gum-trav-ler-interdentale-ragers/p/3539670",
@@ -33,6 +33,5 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "1,6mm, 6 stuks",
-  "image": "/medias/sys_master/prd-images/h42/h75/34509389824030/prd-front-3539670-1_600x600/prd-front-3539670-1-600x600.jpg"
+  "description": "1,6mm, 6 stuks"
 }

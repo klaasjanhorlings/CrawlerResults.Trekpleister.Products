@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 6704",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033387",
+  "mmkId": "3033387",
+  "productGroupId": "514281",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biore-invisible-liquid-spot-patch/p/6356908",
@@ -33,5 +33,6 @@
       "name": "Pimple patches"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8f/h81/35037868621854/prd-front-6356908-1_600x600/prd-front-6356908-1-600x600.jpg"
 }

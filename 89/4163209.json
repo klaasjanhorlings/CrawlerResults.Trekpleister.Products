@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3033182",
-  "mmkId": "3033182",
-  "productGroupId": "513213",
+  "onPromo": "3033368",
+  "mmkId": "3033368",
+  "productGroupId": "513217",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-q10-energy-healthy-glow-anti-rimpel-dagcreme/p/4163209",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Normale en vermoeide huid"
+  "description": "50ml - Normale en vermoeide huid",
+  "image": "/medias/sys_master/prd-images/h11/h89/35130148585502/prd-front-4163209-1_600x600/prd-front-4163209-1-600x600.jpg"
 }

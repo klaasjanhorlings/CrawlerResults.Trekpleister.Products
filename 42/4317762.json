@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033166",
-  "mmkId": "3033166",
-  "productGroupId": "511599",
+  "onPromo": "3033321",
+  "mmkId": "3033321",
+  "productGroupId": "511123",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-original-0-aluminiumzouten-deodorant-roller/p/4317762",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/ha5/h80/29203961937950/prd-front-4317762-1_600x600/prd-front-4317762-1-600x600.jpg"
 }

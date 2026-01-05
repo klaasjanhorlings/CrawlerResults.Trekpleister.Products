@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Difrax Natural 3+M Medium Flessenspenen",
   "code": "1126035",
-  "price": "5.24",
-  "priceOriginal": "6.99",
+  "price": "6.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "3033187",
-  "mmkId": "3033187",
-  "productGroupId": "513914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,75",
+  "discount": "",
   "url": "/difrax-natural-3m-medium-flessenspenen/p/1126035",
   "listName": "Lister",
   "brand": "Difrax",
@@ -33,5 +33,6 @@
       "name": "Flessenspenen"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/hb1/h8f/44154715275294/prd-front-1126035-1_600x600/prd-front-1126035-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 4327 > 4328 > 4329",
   "supplier": "CURATEX GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033358",
+  "mmkId": "3033358",
+  "productGroupId": "512713",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-baby-wattenstaafjes/p/1168644",
@@ -33,6 +33,5 @@
       "name": "Verschonen"
     }
   ],
-  "description": "72 stuks",
-  "image": "/medias/sys_master/prd-images/hce/h3a/28737081737246/prd-front-1168644-1_600x600/prd-front-1168644-1-600x600.jpg"
+  "description": "72 stuks"
 }

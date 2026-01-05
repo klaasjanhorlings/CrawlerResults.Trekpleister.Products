@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 5717 > 5718 > 5719",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "outOfStock",
-  "onPromo": "3033202",
-  "mmkId": "3033202",
-  "productGroupId": "514791",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/satin-care-huid-schaamhaar-zachte-huid-exfoliant/p/5634371",
@@ -33,5 +33,6 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "177ml"
+  "description": "177ml",
+  "image": "/medias/sys_master/prd-images/h78/h94/28581883805726/prd-front-5634371-1_600x600/prd-front-5634371-1-600x600.jpg"
 }

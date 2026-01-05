@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Infaillible 320 Caramel SPF25 32H Fresh Wear Foundation",
   "code": "3005703",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033260",
-  "mmkId": "3033260",
-  "productGroupId": "516268",
+  "onPromo": "3033407",
+  "mmkId": "3033407",
+  "productGroupId": "514775",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/loreal-paris-infaillible-320-caramel-spf25-32h-fresh-wear-foundation/p/3005703",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h75/hf2/44722103451678/prd-front-3005703-1_600x600/prd-front-3005703-1-600x600.jpg"
 }

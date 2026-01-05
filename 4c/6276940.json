@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Finish Powerball Ultimate Plus Vaatwascapsules",
+  "code": "6276940",
+  "price": "26.99",
+  "priceOriginal": "74.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "3033313",
+  "mmkId": "3033313",
+  "productGroupId": "509541",
+  "brandType": "A of B merk",
+  "discount": "€ 48,00",
+  "url": "/finish-powerball-ultimate-plus-vaatwascapsules/p/6276940",
+  "listName": "Lister",
+  "brand": "Finish",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267114,
+      "name": "Vaatwas"
+    },
+    {
+      "id": 30267439,
+      "name": "Vaatwastabletten"
+    }
+  ],
+  "description": "120 stuks"
+}

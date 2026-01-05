@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L Oréal Paris True Match 4.N Beige Foundation",
   "code": "1501361",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033260",
-  "mmkId": "3033260",
-  "productGroupId": "516268",
+  "onPromo": "3033407",
+  "mmkId": "3033407",
+  "productGroupId": "514775",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/l-oreal-paris-true-match-4n-beige-foundation/p/1501361",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h92/h93/44447938969630/prd-front-1501361-1_600x600/prd-front-1501361-1-600x600.jpg"
 }

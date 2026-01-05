@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3033139",
-  "mmkId": "3033139",
-  "productGroupId": "508986",
+  "onPromo": "3033302",
+  "mmkId": "3033302",
+  "productGroupId": "508989",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-dry-impact-antitranspirant-spray/p/5641742",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h81/hcb/34395560640542/prd-front-5641742-1_600x600/prd-front-5641742-1-600x600.jpg"
 }

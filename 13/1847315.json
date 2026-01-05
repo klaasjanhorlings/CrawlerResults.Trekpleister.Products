@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Amiset Berry Blaster Detox Drink",
   "code": "1847315",
-  "price": "18.49",
-  "priceOriginal": "",
+  "price": "14.99",
+  "priceOriginal": "18.49",
   "itemBgbcat": "2006 > 5048 > 2280 > 6201 > 6219 > 6271",
   "supplier": "INLB LIMITED",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3033404",
+  "mmkId": "3033404",
+  "productGroupId": "514763",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 3,50",
   "url": "/amiset-berry-blaster-detox-drink/p/1847315",
   "listName": "Lister",
   "brand": "Amiset",
@@ -33,5 +33,6 @@
       "name": "Leversuppplementen"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h02/h7d/28546157150238/prd-front-1847315-1_600x600/prd-front-1847315-1-600x600.jpg"
 }

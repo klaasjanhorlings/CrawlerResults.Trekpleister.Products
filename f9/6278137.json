@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Palmolive Men Refreshing 3-in-1 Douchegel met Pomp",
+  "code": "6278137",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "outOfStock",
+  "onPromo": "3033453",
+  "mmkId": "3033453",
+  "productGroupId": "510360",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/palmolive-men-refreshing-3-in-1-douchegel-met-pomp/p/6278137",
+  "listName": "Lister",
+  "brand": "Palmolive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267251,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "750ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h0c/h86/33567732826142/prd-front-6278137-1_600x600/prd-front-6278137-1-600x600.jpg"
+}

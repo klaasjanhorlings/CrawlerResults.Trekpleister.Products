@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2902 > 3695 > 6467",
   "supplier": "GEOCOS BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3033445",
+  "mmkId": "3033445",
+  "productGroupId": "518564",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-eerste-hulp-verbanddoos/p/450086",
@@ -33,5 +33,6 @@
       "name": "EHBO-doos"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h22/h2c/28549335810078/prd-front-450086-1_600x600/prd-front-450086-1-600x600.jpg"
 }

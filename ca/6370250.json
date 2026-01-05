@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "My Nailcandy Wine Red 2.0 Gellak Stickers",
   "code": "6370250",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "5.99",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6505 > 6506",
   "supplier": "LITTLE CONCEPTS NETTO",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033433",
+  "mmkId": "3033433",
+  "productGroupId": "516253",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/my-nailcandy-wine-red-20-gellak-stickers/p/6370250",
   "listName": "Lister",
   "brand": "MY NAILCANDY",
@@ -33,5 +33,6 @@
       "name": "Nagelstickers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

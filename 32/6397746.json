@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Handwarmers",
+  "code": "6397746",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 2813 > 3555",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-handwarmers/p/6397746",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267065,
+      "name": "Hulpmiddelen"
+    },
+    {
+      "id": 30267323,
+      "name": "Hulpmiddelen"
+    }
+  ],
+  "description": "3 x 2 stuks",
+  "image": "/medias/sys_master/prd-images/h6a/h90/44329287155742/prd-front-6397746-1_600x600/prd-front-6397746-1-600x600.jpg"
+}

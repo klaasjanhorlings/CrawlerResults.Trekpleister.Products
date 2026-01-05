@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Organix 6+M Appel, Aardbei & Bosbes Knijpfruit",
   "code": "5126542",
-  "price": "1.49",
-  "priceOriginal": "",
+  "price": "1.12",
+  "priceOriginal": "1.49",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "HERO NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033448",
+  "mmkId": "3033448",
+  "productGroupId": "521804",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 0,37",
   "url": "/organix-6m-appel-aardbei-bosbes-knijpfruit/p/5126542",
   "listName": "Lister",
   "brand": "Organix",
@@ -37,6 +37,5 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "100g",
-  "image": "/medias/sys_master/prd-images/hc8/he9/32828360982558/prd-front-5126542-1_600x600/prd-front-5126542-1-600x600.jpg"
+  "description": "100g"
 }

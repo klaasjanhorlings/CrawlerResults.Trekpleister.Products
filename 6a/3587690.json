@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3033160",
-  "mmkId": "3033160",
-  "productGroupId": "511137",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ecosym-dag-gel/p/3587690",
@@ -33,6 +33,5 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": "200ml - Kunstgebit",
-  "image": "/medias/sys_master/prd-images/hd3/hf1/30995101089822/prd-front-3587690-1_600x600/prd-front-3587690-1-600x600.jpg"
+  "description": "200ml - Kunstgebit"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Retinol24 MAX Nachtserum",
   "code": "5589858",
-  "price": "17.8",
-  "priceOriginal": "44.49",
+  "price": "44.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "outOfStock",
-  "onPromo": "3033249",
-  "mmkId": "3033249",
-  "productGroupId": "509189",
+  "onPromo": "3033386",
+  "mmkId": "3033386",
+  "productGroupId": "514276",
   "brandType": "A of B merk",
-  "discount": "€ 26,69",
+  "discount": "",
   "url": "/olay-retinol24-max-nachtserum/p/5589858",
   "listName": "Lister",
   "brand": "Olay",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "40ml - Rijpe huid",
-  "image": "/medias/sys_master/prd-images/hc2/h64/44846109851678/prd-front-5589858-1_600x600/prd-front-5589858-1-600x600.jpg"
+  "description": "40ml - Rijpe huid"
 }

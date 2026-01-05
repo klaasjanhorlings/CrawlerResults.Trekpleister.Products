@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 3163 > 4034",
   "supplier": "HENKEL NEDERLAND BV U-W",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033307",
+  "mmkId": "3033307",
+  "productGroupId": "509370",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dylon-smoke-grey-machinewas-textielverf/p/4210242",
@@ -33,6 +33,5 @@
       "name": "Textielverf"
     }
   ],
-  "description": "350g",
-  "image": "/medias/sys_master/prd-images/hb0/hac/29288667775006/prd-front-4210242-1_600x600/prd-front-4210242-1-600x600.jpg"
+  "description": "350g"
 }

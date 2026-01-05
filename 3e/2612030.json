@@ -8,9 +8,9 @@
   "itemBgbcat": "5926 > 6679 > 2146 > 2631 > 2889 > 3664",
   "supplier": "SPAAS KAARSEN NV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033430",
+  "mmkId": "3033430",
+  "productGroupId": "515936",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-8-uurs-theelichten/p/2612030",
@@ -33,6 +33,5 @@
       "name": "Kaarsen"
     }
   ],
-  "description": "35 stuks",
-  "image": "/medias/sys_master/prd-images/h9b/hcc/44375578902558/prd-front-2612030-1_600x600/prd-front-2612030-1-600x600.jpg"
+  "description": "35 stuks"
 }

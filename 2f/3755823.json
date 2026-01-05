@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3868",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033138",
-  "mmkId": "3033138",
-  "productGroupId": "508967",
+  "onPromo": "3033315",
+  "mmkId": "3033315",
+  "productGroupId": "510485",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kneipp-kick-start-doucheschuim/p/3755823",
@@ -33,6 +33,5 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/hc4/h11/34238175150110/prd-front-3755823-1_600x600/prd-front-3755823-1-600x600.jpg"
+  "description": "200ml - Normale huid"
 }
