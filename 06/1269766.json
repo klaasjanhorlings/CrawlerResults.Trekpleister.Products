@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "WELLA COMPANY",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033364",
   "mmkId": "3033364",
   "productGroupId": "513052",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/ha5/ha5/28550276710430/prd-front-1269766-1_600x600/prd-front-1269766-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6155 > 6170",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Pijnstiller"
     }
   ],
-  "description": "Geneesmiddel - 10 stuks"
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h1f/h60/32167944847390/prd-front-5541509-1_600x600/prd-front-5541509-1-600x600.jpg"
 }

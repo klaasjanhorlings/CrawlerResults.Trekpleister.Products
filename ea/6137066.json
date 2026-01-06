@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3034 > 3887",
   "supplier": "ZURU NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033346",
   "mmkId": "3033346",
   "productGroupId": "512392",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 3"
     }
   ],
-  "description": "mt 3 (6-11kg)< 34 stuks"
+  "description": "mt 3 (6-11kg)< 34 stuks",
+  "image": "/medias/sys_master/prd-images/ha2/he9/33983710101534/prd-front-6137066-1_600x600/prd-front-6137066-1-600x600.jpg"
 }

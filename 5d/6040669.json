@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Collections Tropical Wasverzachter",
+  "code": "6040669",
+  "price": "3.49",
+  "priceOriginal": "7.29",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3033040",
+  "mmkId": "3033040",
+  "productGroupId": "504457",
+  "brandType": "A of B merk",
+  "discount": "€ 3,80",
+  "url": "/robijn-collections-tropical-wasverzachter/p/6040669",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267115,
+      "name": "Wasverzachter"
+    }
+  ],
+  "description": "765ml, 38 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h1c/hac/34899996508190/prd-front-6040669-1_600x600/prd-front-6040669-1-600x600.jpg"
+}

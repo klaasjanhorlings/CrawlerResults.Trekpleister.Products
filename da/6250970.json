@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kids Fotocamera",
+  "code": "6250970",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4870 > 6031 > 2243 > 2408 > 2849 > 3588",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/kids-fotocamera/p/6250970",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267108,
+      "name": "Smarthome"
+    },
+    {
+      "id": 30267436,
+      "name": "Camera’s"
+    }
+  ],
+  "description": "groen",
+  "image": "/medias/sys_master/prd-images/h7b/hb1/33989995626526/prd-front-6250970-1_600x600/prd-front-6250970-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033414",
   "mmkId": "3033414",
   "productGroupId": "514837",
@@ -33,6 +33,5 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "zwart, 2 stuks",
-  "image": "/medias/sys_master/prd-images/hac/hfe/35033151209502/prd-front-5321037-1_600x600/prd-front-5321037-1-600x600.jpg"
+  "description": "zwart, 2 stuks"
 }

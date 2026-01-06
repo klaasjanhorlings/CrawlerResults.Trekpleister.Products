@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Color Your World Geschenkset",
+  "code": "6341277",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 2440 > 2935 > 3730",
+  "supplier": "JEAN LASSCHUIT PRODUCTS",
+  "inStock": "inStock",
+  "onPromo": "3033129",
+  "mmkId": "3033129",
+  "productGroupId": "504588",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/color-your-world-geschenkset/p/6341277",
+  "listName": "Lister",
+  "brand": "Geschenkset",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267040,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666589,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": ""
+}
