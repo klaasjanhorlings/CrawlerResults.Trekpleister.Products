@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6696",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "100ml - Droog en beschadigd haar"
+  "description": "100ml - Droog en beschadigd haar",
+  "image": "/medias/sys_master/prd-images/had/h74/32280342200350/prd-front-5401537-1_600x600/prd-front-5401537-1-600x600.jpg"
 }

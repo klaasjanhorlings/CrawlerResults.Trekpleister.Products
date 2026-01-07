@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033386",
   "mmkId": "3033386",
   "productGroupId": "514276",
@@ -33,6 +33,5 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hd7/h44/44853186625566/prd-front-5583355-1_600x600/prd-front-5583355-1-600x600.jpg"
+  "description": "50ml - Alle huidtypen"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033453",
   "mmkId": "3033453",
   "productGroupId": "510360",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h9d/h74/44218775109662/prd-front-6311394-1_600x600/prd-front-6311394-1-600x600.jpg"
+  "description": "250ml - Normale huid"
 }

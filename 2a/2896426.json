@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Studio Line Essentials Go Create Precise Super Strong Gelspray",
+  "code": "2896426",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2933 > 3728",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "3033423",
+  "mmkId": "3033423",
+  "productGroupId": "515308",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-studio-line-essentials-go-create-precise-super-strong-gelspray/p/2896426",
+  "listName": "Lister",
+  "brand": "Studioline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267487,
+      "name": "Haargel"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/ha8/hf3/28547552083998/prd-front-2896426-1_600x600/prd-front-2896426-1-600x600.jpg"
+}
