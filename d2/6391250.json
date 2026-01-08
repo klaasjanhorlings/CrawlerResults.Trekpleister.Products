@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Oorspray",
+  "code": "6391250",
+  "price": "0.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3033327",
+  "mmkId": "3033327",
+  "productGroupId": "511309",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-oorspray/p/6391250",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30267505,
+      "name": "Oorspray"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20ml",
+  "image": "/medias/sys_master/prd-images/h3e/hbc/44274337021982/prd-front-6391250-1_600x600/prd-front-6391250-1-600x600.jpg"
+}

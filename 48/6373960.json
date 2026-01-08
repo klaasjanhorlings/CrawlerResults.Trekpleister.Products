@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Elotrans O.R.S. Plus Sachets",
+  "code": "6373960",
+  "price": "0.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2765 > 3638",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elotrans-ors-plus-sachets/p/6373960",
+  "listName": "Lister",
+  "brand": "Elotrans",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267290,
+      "name": "ORS"
+    }
+  ],
+  "description": "15 stuks",
+  "image": "/medias/sys_master/prd-images/he3/ha8/44276248346654/prd-front-6373960-1_600x600/prd-front-6373960-1-600x600.jpg"
+}

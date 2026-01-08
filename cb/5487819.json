@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6647",
   "supplier": "NUTRITION&SANTE BENELX",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033389",
   "mmkId": "3033389",
   "productGroupId": "514529",
@@ -33,5 +33,6 @@
       "name": "Koolhydraatarm"
     }
   ],
-  "description": "110g"
+  "description": "110g",
+  "image": "/medias/sys_master/prd-images/he3/h66/31686158647326/prd-front-5487819-1_600x600/prd-front-5487819-1-600x600.jpg"
 }

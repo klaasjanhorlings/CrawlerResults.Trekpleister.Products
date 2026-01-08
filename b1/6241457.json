@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033272",
   "mmkId": "3033272",
   "productGroupId": "512651",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4 (9-15kg), 140 stuks",
-  "image": "/medias/sys_master/prd-images/hbd/h23/34795740659742/prd-front-6241457-1_600x600/prd-front-6241457-1-600x600.jpg"
+  "description": "mt 4 (9-15kg), 140 stuks"
 }

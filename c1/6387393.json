@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mixa Niacinamide Bright Moisturizing Anti-Dark Spot Cream",
+  "code": "6387393",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mixa-niacinamide-bright-moisturizing-anti-dark-spot-cream/p/6387393",
+  "listName": "Lister",
+  "brand": "Mixa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267198,
+      "name": "Bodycremes"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h34/hfd/45327480913950/prd-front-6387393-1_600x600/prd-front-6387393-1-600x600.jpg"
+}

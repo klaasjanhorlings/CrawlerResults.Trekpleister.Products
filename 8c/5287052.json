@@ -7,7 +7,7 @@
   "priceOriginal": "25.9",
   "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033129",
   "mmkId": "3033129",
   "productGroupId": "504588",
@@ -33,5 +33,6 @@
       "name": "Geschenkset voor hem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hac/hd1/29133961101342/prd-front-5287052-1_600x600/prd-front-5287052-1-600x600.jpg"
 }

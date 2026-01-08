@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal 3-in-1 Hoestsiroop",
+  "code": "6196097",
+  "price": "0.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3033327",
+  "mmkId": "3033327",
+  "productGroupId": "511309",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-3-in-1-hoestsiroop/p/6196097",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30267523,
+      "name": "Hoestsiropen"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 120ml",
+  "image": "/medias/sys_master/prd-images/hb6/h49/44274661982238/prd-front-6196097-1_600x600/prd-front-6196097-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "KNEIPP NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033129",
   "mmkId": "3033129",
   "productGroupId": "504588",
@@ -33,5 +33,6 @@
       "name": "Geschenkset voor haar"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf6/hdc/32438326198302/prd-front-6152172-1_600x600/prd-front-6152172-1-600x600.jpg"
 }
