@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Casting Crème Gloss 400 Middenbruin Semi-Permanente Haarkleuring",
   "code": "1217399",
-  "price": "15.99",
+  "price": "16.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4a/h13/34364919447582/prd-front-1217399-1_600x600/prd-front-1217399-1-600x600.jpg"
 }

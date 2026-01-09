@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "NIVEA Fresh Pure Deodorant Roller",
   "code": "2746864",
-  "price": "5.59",
+  "price": "5.79",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "BEIERSDORF NV NL",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hc2/h25/35128217370654/prd-front-2746864-1_600x600/prd-front-2746864-1-600x600.jpg"
 }

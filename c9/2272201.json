@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Elvive Total Repair 5 Herstellende Conditioner",
   "code": "2272201",
-  "price": "6.59",
+  "price": "6.79",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h9b/hb7/33046501031966/prd-front-2272201-1_600x600/prd-front-2272201-1-600x600.jpg"
 }

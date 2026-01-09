@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Roter Paracetamol 500mg Tabletten",
   "code": "6392622",
-  "price": "4.39",
+  "price": "4.59",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6157 > 6176",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
@@ -37,6 +37,5 @@
       "name": "Paracetamol"
     }
   ],
-  "description": "Geneesmiddel - 50 stuks",
-  "image": "/medias/sys_master/prd-images/h85/hbd/44701251829790/prd-front-6392622-1_600x600/prd-front-6392622-1-600x600.jpg"
+  "description": "Geneesmiddel - 50 stuks"
 }

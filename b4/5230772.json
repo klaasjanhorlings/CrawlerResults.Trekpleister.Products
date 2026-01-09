@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "4,5ml"
+  "description": "4,5ml",
+  "image": "/medias/sys_master/prd-images/h2a/h14/33044354334750/prd-front-5230772-1_600x600/prd-front-5230772-1-600x600.jpg"
 }

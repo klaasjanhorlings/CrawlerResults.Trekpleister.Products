@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Durex Play Aloë Vera 2-In-1 Massageolie en Glijmiddel",
   "code": "1376103",
-  "price": "11.99",
+  "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "RECKITT BENCKISER B.V",
@@ -33,5 +33,6 @@
       "name": "Glijmiddelen en massagegels"
     }
   ],
-  "description": "Medisch hulpmiddel - 200ml"
+  "description": "Medisch hulpmiddel - 200ml",
+  "image": "/medias/sys_master/prd-images/haf/h47/28551258439710/prd-front-1376103-1_600x600/prd-front-1376103-1-600x600.jpg"
 }

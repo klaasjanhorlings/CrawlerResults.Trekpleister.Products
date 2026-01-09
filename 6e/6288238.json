@@ -25,17 +25,14 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 30267059,
+      "name": "Wondverzorging"
     },
     {
-      "id": 30267268,
-      "name": "Insecten"
-    },
-    {
-      "id": 30267546,
-      "name": "Na de beet"
+      "id": 49950787,
+      "name": "Wondzalven"
     }
   ],
-  "description": "15g"
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/h2d/h65/44932496752670/prd-front-6288238-1_600x600/prd-front-6288238-1-600x600.jpg"
 }

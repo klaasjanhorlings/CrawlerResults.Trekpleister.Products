@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Dampo Inhaler en 2-in-1 Inhalatiedruppels",
   "code": "4967306",
-  "price": "5.19",
+  "price": "5.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 4100",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
@@ -37,5 +37,6 @@
       "name": "Neusdruppels"
     }
   ],
-  "description": "2ml"
+  "description": "2ml",
+  "image": "/medias/sys_master/prd-images/h83/hde/29032539455518/prd-front-4967306-1_600x600/prd-front-4967306-1-600x600.jpg"
 }

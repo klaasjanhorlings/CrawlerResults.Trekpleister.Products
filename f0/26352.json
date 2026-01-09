@@ -4,15 +4,15 @@
   "itemName": "Ferrero Rocher",
   "code": "26352",
   "price": "4.99",
-  "priceOriginal": "5.49",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
   "supplier": "FERRERO BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3031325",
   "mmkId": "3031325",
   "productGroupId": "482013",
   "brandType": "A of B merk",
-  "discount": "€ 0,50",
+  "discount": "€ 1,00",
   "url": "/ferrero-rocher/p/26352",
   "listName": "Lister",
   "brand": "Ferrero",
@@ -37,5 +37,6 @@
       "name": "Chocoladegeschenken"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h2a/hf0/28549188157470/prd-front-26352-1_600x600/prd-front-26352-1-600x600.jpg"
 }

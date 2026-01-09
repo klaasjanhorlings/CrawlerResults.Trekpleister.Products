@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,9 +29,10 @@
       "name": "LEGO"
     },
     {
-      "id": 69041468,
-      "name": "LEGO Films"
+      "id": 69046935,
+      "name": "LEGO Peuters en Kleuters"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h59/hf5/34956361957406/prd-front-6345750-1_600x600/prd-front-6345750-1-600x600.jpg"
 }

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Hansaplast Sensitive Pleisters",
   "code": "2500940",
-  "price": "4.19",
+  "price": "4.39",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4110",
   "supplier": "BEIERSDORF NV NL",
@@ -37,6 +37,5 @@
       "name": "Sensitive pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/he6/h81/44518502826014/prd-front-2500940-1_600x600/prd-front-2500940-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 20 stuks"
 }

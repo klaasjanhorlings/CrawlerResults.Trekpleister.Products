@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "L Oréal Paris Elvive Total Repair 5 Haarmasker",
   "code": "1816529",
-  "price": "9.99",
+  "price": "10.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h97/hcd/35026379178014/prd-front-1816529-1_600x600/prd-front-1816529-1-600x600.jpg"
 }

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Davitamon Vitamine K en D Olie",
   "code": "3535498",
-  "price": "17.29",
+  "price": "17.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "OMEGA PHARMA NEDERLAND",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267286,
-      "name": "Botten en gewrichten"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
   "description": "10ml + 25ml",

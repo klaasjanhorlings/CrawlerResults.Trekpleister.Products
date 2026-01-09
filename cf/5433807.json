@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Roter Immuun Bruistabletten",
   "code": "5433807",
-  "price": "10.99",
+  "price": "11.29",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267274,
-      "name": "Weerstand en of energie"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
   "description": "2 x 20 stuks",

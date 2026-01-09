@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Rhino Caps Inhalatiecapsules",
   "code": "36008",
-  "price": "10.79",
+  "price": "10.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 3949",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
@@ -37,5 +37,6 @@
       "name": "Inhalatieproducten"
     }
   ],
-  "description": "16 stuks"
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/hbf/hf8/44937554395166/prd-front-36008-1_600x600/prd-front-36008-1-600x600.jpg"
 }

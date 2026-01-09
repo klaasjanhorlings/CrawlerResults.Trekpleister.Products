@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Hansaplast Wondspray",
   "code": "4381000",
-  "price": "7.29",
+  "price": "7.39",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
   "supplier": "BEIERSDORF NV NL",
@@ -29,8 +29,8 @@
       "name": "Wondverzorging"
     },
     {
-      "id": 30267297,
-      "name": "Wondontsmetting"
+      "id": 30267292,
+      "name": "EHBO-doos"
     }
   ],
   "description": "Medisch hulpmiddel - 100ml",

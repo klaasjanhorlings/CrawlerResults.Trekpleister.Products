@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Inhaleerbalsem",
+  "code": "6391264",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 4100",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "3033327",
+  "mmkId": "3033327",
+  "productGroupId": "511309",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-inhaleerbalsem/p/6391264",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 48657202,
+      "name": "Inhalatieproducten"
+    }
+  ],
+  "description": "100g"
+}

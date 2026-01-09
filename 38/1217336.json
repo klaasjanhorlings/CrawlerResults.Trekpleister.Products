@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Garnier Nutrisse Ultra Crème 6 Natuurlijk Donkerblond Permanente Haarkleuring",
   "code": "1217336",
-  "price": "15.99",
+  "price": "16.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h34/h6b/32303657549854/prd-front-1217336-1_600x600/prd-front-1217336-1-600x600.jpg"
 }

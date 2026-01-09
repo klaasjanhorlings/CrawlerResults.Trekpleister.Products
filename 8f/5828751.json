@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Préférence Le Blonding 11.21 Ultra Licht Parelmoer Asblond Permanente Haarkleuring",
+  "code": "5828751",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "3033365",
+  "mmkId": "3033365",
+  "productGroupId": "513164",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-preference-le-blonding-1121-ultra-licht-parelmoer-asblond-permanente-haarkleuring/p/5828751",
+  "listName": "Lister",
+  "brand": "Preference",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5a/h19/45327165358110/prd-front-5828751-1_600x600/prd-front-5828751-1-600x600.jpg"
+}

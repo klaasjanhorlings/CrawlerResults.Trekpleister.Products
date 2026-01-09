@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Davitamon Actifit 50+ Tabletten",
   "code": "1888125",
-  "price": "28.49",
+  "price": "28.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "OMEGA PHARMA NEDERLAND",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267274,
-      "name": "Weerstand en of energie"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267552,
+      "name": "Multivitamines"
     }
   ],
   "description": "90 stuks",

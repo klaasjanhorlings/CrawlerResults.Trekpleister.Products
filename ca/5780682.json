@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Garnier SkinActive Alles-in-1 Micellair Reinigingswater met Milde Peeling",
   "code": "5780682",
-  "price": "4.49",
-  "priceOriginal": "8.99",
+  "price": "4.99",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "3033384",
   "productGroupId": "514188",
   "brandType": "A of B merk",
-  "discount": "€ 4,50",
+  "discount": "€ 5,00",
   "url": "/garnier-skinactive-alles-in-1-micellair-reinigingswater-met-milde-peeling/p/5780682",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -37,6 +37,5 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h65/hb3/34612290519070/prd-front-5780682-1_600x600/prd-front-5780682-1-600x600.jpg"
+  "description": "400ml"
 }

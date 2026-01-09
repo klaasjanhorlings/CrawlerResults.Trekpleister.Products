@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Excellence Pure Blonde 01 Ultra Licht Natuurlijk Blond Permanente Haarverf",
   "code": "16750",
-  "price": "19.99",
+  "price": "20.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h19/h72/44711104806942/prd-front-16750-1_600x600/prd-front-16750-1-600x600.jpg"
+  "description": ""
 }

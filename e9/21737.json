@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Antigrippine Tabletten",
   "code": "21737",
-  "price": "6.19",
+  "price": "6.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2758 > 3927",
   "supplier": "OMEGA PHARMA NEDERLAND",
@@ -33,8 +33,8 @@
       "name": "Pijn"
     },
     {
-      "id": 30267529,
-      "name": "Pijnstiller"
+      "id": 30267525,
+      "name": "Paracetamol"
     }
   ],
   "description": "Geneesmiddel - 20 stuks",

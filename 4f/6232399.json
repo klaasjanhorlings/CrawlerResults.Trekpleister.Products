@@ -7,7 +7,7 @@
   "priceOriginal": "37.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033504",
   "mmkId": "3033504",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 30267377,
-      "name": "LEGO Disney"
+      "id": 69041468,
+      "name": "LEGO Films"
     }
   ],
   "description": "",

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Deoleen Regular Antitranspirant Roller",
   "code": "3453808",
-  "price": "7.99",
+  "price": "8.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3675",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h78/h52/44933767168030/prd-front-3453808-1_600x600/prd-front-3453808-1-600x600.jpg"
 }

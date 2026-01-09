@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Elnett Satin Normale Fixatie Hairspray",
   "code": "16993",
-  "price": "11.99",
+  "price": "11.87",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
   "supplier": "LOREAL NED BV",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hd8/h89/34686319525918/prd-front-16993-1_600x600/prd-front-16993-1-600x600.jpg"
 }

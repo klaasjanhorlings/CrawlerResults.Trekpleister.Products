@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sinaspril Gel Voor Eerste Tandjes",
+  "code": "6391866",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sinaspril-gel-voor-eerste-tandjes/p/6391866",
+  "listName": "Lister",
+  "brand": "Sinaspril",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30267508,
+      "name": "Doorkomende tandjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 15ml",
+  "image": "/medias/sys_master/prd-images/hfa/h9a/44623912730654/prd-front-6391866-1_600x600/prd-front-6391866-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Préférence Les Vivids 9.112 Smokey Grey Permanente Haarkleuring",
+  "code": "5604628",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "3033365",
+  "mmkId": "3033365",
+  "productGroupId": "513164",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-preference-les-vivids-9112-smokey-grey-permanente-haarkleuring/p/5604628",
+  "listName": "Lister",
+  "brand": "Preference",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h86/he4/45327582199838/prd-front-5604628-1_600x600/prd-front-5604628-1-600x600.jpg"
+}

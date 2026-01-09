@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "NIVEA Fresh Natural Antitranspirant Roller",
   "code": "2746647",
-  "price": "5.69",
+  "price": "5.79",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "BEIERSDORF NV NL",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h7a/h66/34568324284446/prd-front-2746647-1_600x600/prd-front-2746647-1-600x600.jpg"
+  "description": "50ml"
 }

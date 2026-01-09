@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Syoss Oleo Intense 4-86 Fluweelbruin Haarkleuring",
   "code": "3569553",
-  "price": "17.99",
+  "price": "18.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h89/hfc/45372980297758/prd-front-3569553-1_600x600/prd-front-3569553-1-600x600.jpg"
 }

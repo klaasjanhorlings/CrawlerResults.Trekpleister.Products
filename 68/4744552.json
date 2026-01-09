@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Isostar Mass Gainer Proteïnepoeder met Vanillesmaak",
   "code": "4744552",
-  "price": "12.29",
+  "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
   "supplier": "NUTRITION&SANTE BENELX",
@@ -33,6 +33,5 @@
       "name": "Proteïne (eiwit) poeders"
     }
   ],
-  "description": "700g",
-  "image": "/medias/sys_master/prd-images/h35/h0a/28592082747422/prd-front-4744552-1_600x600/prd-front-4744552-1-600x600.jpg"
+  "description": "700g"
 }

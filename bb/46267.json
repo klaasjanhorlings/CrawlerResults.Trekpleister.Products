@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Trekpleister Baby Lotiondoekjes",
   "code": "46267",
-  "price": "2.29",
+  "price": "2.69",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "CODI INTERNATIONAL BV",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "80 stuks"
+  "description": "80 stuks",
+  "image": "/medias/sys_master/prd-images/he2/h24/28861439246366/prd-front-46267-1_600x600/prd-front-46267-1-600x600.jpg"
 }

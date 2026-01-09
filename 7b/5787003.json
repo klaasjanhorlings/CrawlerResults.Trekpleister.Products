@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Elvive Bond Repair Conditioner",
   "code": "5787003",
-  "price": "12.99",
+  "price": "13.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h50/hb8/28950695673886/prd-front-5787003-1_600x600/prd-front-5787003-1-600x600.jpg"
 }

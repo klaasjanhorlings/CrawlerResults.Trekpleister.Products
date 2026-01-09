@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Roter Cranberry Vitamine C en Echinacea Tabletten",
   "code": "300477",
-  "price": "15.99",
+  "price": "16.19",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6228 > 6318",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267549,
-      "name": "Vitamine C"
+      "id": 30267291,
+      "name": "Cranberrysupplementen"
     }
   ],
   "description": "30 stuks",
