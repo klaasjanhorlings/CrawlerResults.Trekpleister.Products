@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Harmonie Aqua Paw Patrol Babydoekjes",
+  "code": "6240148",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "3033294",
+  "mmkId": "3033294",
+  "productGroupId": "505252",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-harmonie-aqua-paw-patrol-babydoekjes/p/6240148",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "3 x 48 stuks",
+  "image": "/medias/sys_master/prd-images/hcc/h48/33348177395742/prd-front-6240148-1_600x600/prd-front-6240148-1-600x600.jpg"
+}

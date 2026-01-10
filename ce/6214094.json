@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "4868 > 2092 > 2245 > 2343 > 2743 > 6568",
   "supplier": "BOOK & SERVICE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Educatief speelgoed"
     }
   ],
-  "description": "Nederlandstalig boek",
-  "image": "/medias/sys_master/prd-images/h73/hba/45372997533726/prd-front-6214094-1_600x600/prd-front-6214094-1-600x600.jpg"
+  "description": "Nederlandstalig boek"
 }

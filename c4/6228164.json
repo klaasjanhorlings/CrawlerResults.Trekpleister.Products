@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "LEGO DUPLO 10442 Families van Wilde Dieren: Pinguïns en Leeuwen",
-  "code": "6226925",
-  "price": "8.99",
-  "priceOriginal": "",
+  "itemName": "LEGO DUPLO 10426 Treinbrug en Rails Uitbreidingsset",
+  "code": "6228164",
+  "price": "28.49",
+  "priceOriginal": "37.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "3033504",
+  "mmkId": "3033504",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
-  "url": "/lego-duplo-10442-families-van-wilde-dieren-pinguins-en-leeuwen/p/6226925",
+  "discount": "€ 9,50",
+  "url": "/lego-duplo-10426-treinbrug-en-rails-uitbreidingsset/p/6228164",
   "listName": "Lister",
   "brand": "LEGO Duplo",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hb7/h5e/33143606738974/prd-front-6226925-1_600x600/prd-front-6226925-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1c/h7e/33145864323102/prd-front-6228164-1_600x600/prd-front-6228164-1-600x600.jpg"
 }
