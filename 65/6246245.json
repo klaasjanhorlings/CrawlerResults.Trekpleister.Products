@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Magic Filter 20 Medium Glow Booster",
-  "code": "6000594",
-  "price": "3.99",
+  "itemName": "Essence 75 Wave Breaker Gel Nail Colour",
+  "code": "6246245",
+  "price": "1.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-magic-filter-20-medium-glow-booster/p/6000594",
+  "url": "/essence-75-wave-breaker-gel-nail-colour/p/6246245",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -25,13 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30267038,
-      "name": "Make-up"
+      "id": 72475732,
+      "name": "Nagels"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267141,
+      "name": "Nagellak"
     }
   ],
-  "description": "14ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/hab/hc9/33481003892766/prd-front-6246245-1_600x600/prd-front-6246245-1-600x600.jpg"
 }

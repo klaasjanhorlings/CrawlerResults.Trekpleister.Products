@@ -7,7 +7,7 @@
   "priceOriginal": "40.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033504",
   "mmkId": "3033504",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "LEGO Star Wars"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h03/hff/33140754481182/prd-front-6232168-1_600x600/prd-front-6232168-1-600x600.jpg"
 }
