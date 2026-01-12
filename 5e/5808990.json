@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn White Wasmiddeldoekjes",
+  "code": "5808990",
+  "price": "4.99",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3033482",
+  "mmkId": "3033482",
+  "productGroupId": "509851",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/robijn-white-wasmiddeldoekjes/p/5808990",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/hb6/h12/34901422997534/prd-front-5808990-1_600x600/prd-front-5808990-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "3033321",
-  "mmkId": "3033321",
-  "productGroupId": "511123",
+  "inStock": "outOfStock",
+  "onPromo": "3033496",
+  "mmkId": "3033496",
+  "productGroupId": "518693",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-advanced-care-antitranspirant-original-deodorant-spray/p/23585",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h78/h6e/33390336966686/prd-front-23585-1_600x600/prd-front-23585-1-600x600.jpg"
 }

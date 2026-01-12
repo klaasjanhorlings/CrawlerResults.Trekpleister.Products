@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Bio-Oil Huidverzorgingsolie",
   "code": "2888145",
-  "price": "32.49",
-  "priceOriginal": "",
+  "price": "22.49",
+  "priceOriginal": "32.49",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "outOfStock",
+  "onPromo": "3033490",
+  "mmkId": "3033490",
+  "productGroupId": "513304",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/bio-oil-huidverzorgingsolie/p/2888145",
   "listName": "Lister",
   "brand": "Bio-Oil",
@@ -33,5 +33,6 @@
       "name": "Bodyolie"
     }
   ],
-  "description": "200ml - Alle huidtypen"
+  "description": "200ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h0f/hb4/34595165208606/prd-front-2888145-1_600x600/prd-front-2888145-1-600x600.jpg"
 }

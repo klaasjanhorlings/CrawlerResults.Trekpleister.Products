@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dr. Brown's Options+ Antikoliekfles met Smalle Hals",
   "code": "3918230",
-  "price": "14.41",
-  "priceOriginal": "",
+  "price": "12.97",
+  "priceOriginal": "14.41",
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "BABY CASE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033494",
+  "mmkId": "3033494",
+  "productGroupId": "516237",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,44",
   "url": "/dr-browns-options-antikoliekfles-met-smalle-hals/p/3918230",
   "listName": "Lister",
   "brand": "Dr. Brown's",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h26/ha8/28576332513310/prd-front-3918230-1_600x600/prd-front-3918230-1-600x600.jpg"
 }

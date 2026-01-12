@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033440",
   "mmkId": "3033440",
   "productGroupId": "516820",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h34/h6b/32303657549854/prd-front-1217336-1_600x600/prd-front-1217336-1-600x600.jpg"
+  "description": ""
 }

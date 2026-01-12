@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Gebreide Sjaal",
+  "code": "6372042",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4869 > 2048 > 2225 > 5069 > 5071 > 5096",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-gebreide-sjaal/p/6372042",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536627,
+      "name": "Fashion"
+    },
+    {
+      "id": 30267097,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30267423,
+      "name": "Winteraccessoires"
+    }
+  ],
+  "description": "roze, 40cm x 200cm",
+  "image": "/medias/sys_master/prd-images/hcd/hd1/44327219593246/prd-front-6372042-1_600x600/prd-front-6372042-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 3905",
   "supplier": "ZENNER NIEUW VENNEP BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Nagelknippers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h6b/h21/29679706308638/prd-front-5964173-1_600x600/prd-front-5964173-1-600x600.jpg"
+  "description": ""
 }

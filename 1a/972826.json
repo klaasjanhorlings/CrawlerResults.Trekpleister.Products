@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Otalgan Oorsmeer",
   "code": "972826",
-  "price": "11.49",
-  "priceOriginal": "",
+  "price": "8.62",
+  "priceOriginal": "11.49",
   "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3033483",
+  "mmkId": "3033483",
+  "productGroupId": "511698",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,87",
   "url": "/otalgan-oorsmeer/p/972826",
   "listName": "Lister",
   "brand": "Otalgan",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 10ml",
-  "image": "/medias/sys_master/prd-images/hda/h86/45401103630366/prd-front-972826-1_600x600/prd-front-972826-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd0/h7c/45411121659934/prd-front-972826-1_600x600/prd-front-972826-1-600x600.jpg"
 }

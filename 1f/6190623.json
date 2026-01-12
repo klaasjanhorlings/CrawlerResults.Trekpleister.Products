@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Verduisterend Gordijn",
+  "code": "6190623",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 2060 > 2192 > 5964 > 5981 > 5998",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-verduisterend-gordijn/p/6190623",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267450,
+      "name": "Decoratieve accessoires"
+    }
+  ],
+  "description": "140cm x 260cm",
+  "image": "/medias/sys_master/prd-images/h0c/hbc/33775426175006/prd-front-6190623-1_600x600/prd-front-6190623-1-600x600.jpg"
+}
