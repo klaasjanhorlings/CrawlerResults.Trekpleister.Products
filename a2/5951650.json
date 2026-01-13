@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033269",
   "mmkId": "3033269",
   "productGroupId": "512636",
@@ -29,6 +29,5 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - mt 8-12 jaar, 9 stuks",
-  "image": "/medias/sys_master/prd-images/h1c/hc9/28725951561758/prd-front-5951650-1_600x600/prd-front-5951650-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - mt 8-12 jaar, 9 stuks"
 }

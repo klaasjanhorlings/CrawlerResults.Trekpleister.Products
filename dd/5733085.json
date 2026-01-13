@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3112 > 3978",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033294",
   "mmkId": "3033294",
   "productGroupId": "505252",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakartikelen"
     }
   ],
-  "description": "1 handvat + 3 navullingen"
+  "description": "1 handvat + 3 navullingen",
+  "image": "/medias/sys_master/prd-images/h89/h2a/34125130334238/prd-front-5733085-1_600x600/prd-front-5733085-1-600x600.jpg"
 }

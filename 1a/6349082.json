@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "2,5g",
-  "image": "/medias/sys_master/prd-images/h9c/h7d/45412776935454/prd-front-6349082-1_600x600/prd-front-6349082-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfa/h8f/45421815398430/prd-front-6349082-1_600x600/prd-front-6349082-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3675",
   "supplier": "ROYAL SANDERS JESSENITZ GMBH",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033297",
   "mmkId": "3033297",
   "productGroupId": "508671",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h7e/hd8/44329045983262/prd-front-6045996-1_600x600/prd-front-6045996-1-600x600.jpg"
 }

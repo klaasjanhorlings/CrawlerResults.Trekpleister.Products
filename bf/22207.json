@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033347",
   "mmkId": "3033347",
   "productGroupId": "512430",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/ha5/hd8/44588954845214/prd-front-22207-1_600x600/prd-front-22207-1-600x600.jpg"
+  "description": "100ml"
 }
