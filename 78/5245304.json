@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Q10 Energy Recharge Anti-rimpel Nachtcrème",
+  "code": "5245304",
+  "price": "27.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3033368",
+  "mmkId": "3033368",
+  "productGroupId": "513217",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-q10-energy-recharge-anti-rimpel-nachtcreme/p/5245304",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h3a/hdc/45203561349150/prd-front-5245304-1_600x600/prd-front-5245304-1-600x600.jpg"
+}

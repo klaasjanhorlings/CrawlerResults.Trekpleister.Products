@@ -7,7 +7,7 @@
   "priceOriginal": "7.29",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
   "supplier": "UNILEVER NEDERLAND",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033040",
   "mmkId": "3033040",
   "productGroupId": "504457",
@@ -29,5 +29,6 @@
       "name": "Wasverzachter"
     }
   ],
-  "description": "765ml, 38 wasbeurten"
+  "description": "765ml, 38 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h1c/hac/34899996508190/prd-front-6040669-1_600x600/prd-front-6040669-1-600x600.jpg"
 }

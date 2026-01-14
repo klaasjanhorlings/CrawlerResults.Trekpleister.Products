@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -33,8 +33,8 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 88118407,
-      "name": "Lip tint"
+      "id": 30267140,
+      "name": "Lipgloss"
     }
   ],
   "description": "4ml",

@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Soft Touch 02 Berry Crush Duo Eyeshadow",
-  "code": "6123122",
-  "price": "2.49",
+  "itemName": "Essence What the Fake! Glass Shine 01 Oh So Glassy Plumping Lip Filler",
+  "code": "6232371",
+  "price": "3.69",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "3005772",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-soft-touch-02-berry-crush-duo-eyeshadow/p/6123122",
+  "url": "/essence-what-the-fake-glass-shine-01-oh-so-glassy-plumping-lip-filler/p/6232371",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267153,
-      "name": "Oogschaduw"
+      "id": 88118383,
+      "name": "Lipmake-up"
     },
     {
-      "id": 30267469,
-      "name": "Mono oogschaduw"
+      "id": 30267140,
+      "name": "Lipgloss"
     }
   ],
-  "description": "1,8g",
-  "image": "/medias/sys_master/prd-images/h64/hdc/45080547098654/prd-front-6123122-1_600x600/prd-front-6123122-1-600x600.jpg"
+  "description": "4,2ml",
+  "image": "/medias/sys_master/prd-images/hf5/hde/33485016694814/prd-front-6232371-1_600x600/prd-front-6232371-1-600x600.jpg"
 }

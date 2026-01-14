@@ -25,12 +25,16 @@
       "name": "Gezondheid"
     },
     {
-      "id": 48237361,
-      "name": "Voetongemakken"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 48237626,
-      "name": "Voetschimmel"
+      "id": 30267256,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 49946980,
+      "name": "Schimmelinfectie"
     }
   ],
   "description": "Geneesmiddel - 20g",

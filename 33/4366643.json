@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Baby Lotion Billendoekjes",
+  "code": "4366643",
+  "price": "0.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
+  "supplier": "UNILEVER BELGIUM",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-baby-lotion-billendoekjes/p/4366643",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "3 x 65 stuks",
+  "image": "/medias/sys_master/prd-images/h39/h16/45437508026398/temp-prd-front-4366643-1_600x600/temp-prd-front-4366643-1-600x600.jpg"
+}

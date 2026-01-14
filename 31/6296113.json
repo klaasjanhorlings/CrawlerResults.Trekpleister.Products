@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033271",
   "mmkId": "3033271",
   "productGroupId": "512646",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 4"
     }
   ],
-  "description": "mt 4 (9-15kg), 74 stuks"
+  "description": "mt 4 (9-15kg), 74 stuks",
+  "image": "/medias/sys_master/prd-images/he7/h47/34862092320798/prd-front-6296113-1_600x600/prd-front-6296113-1-600x600.jpg"
 }
