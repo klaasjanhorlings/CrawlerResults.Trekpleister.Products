@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Epitact Hallux Valgus Knobbelbeschermer",
+  "code": "6237481",
+  "price": "21.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 6475 > 6476 > 6477 > 6481",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/epitact-hallux-valgus-knobbelbeschermer/p/6237481",
+  "listName": "Lister",
+  "brand": "Epitact",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48237361,
+      "name": "Voetongemakken"
+    },
+    {
+      "id": 48238526,
+      "name": "Hulpmiddelen voetproblemen"
+    }
+  ],
+  "description": "mt 39-41",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

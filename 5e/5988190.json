@@ -7,7 +7,7 @@
   "priceOriginal": "54.99",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
   "supplier": "GREEN SOAP COMPANY BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033277",
   "mmkId": "3033277",
   "productGroupId": "519469",
@@ -33,5 +33,6 @@
       "name": "Vaatwastabletten"
     }
   ],
-  "description": "4 x 25 stuks"
+  "description": "4 x 25 stuks",
+  "image": "/medias/sys_master/prd-images/h10/h41/35136641040414/prd-front-5988190-1_600x600/prd-front-5988190-1-600x600.jpg"
 }

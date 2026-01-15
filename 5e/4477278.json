@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2909 > 3706",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/prd-front-4477278-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTg2ODN8aW1hZ2UvanBlZ3xhRGN4TDJnd09DOHhOamN6TWpBek9ESTVPVFkzT0M5d2NtUXRabkp2Ym5RdE5EUTNOekkzT0MweFh6WXdNSGcyTURBfDEyOWY1ZDMyYWJmNmVlZTI0YjZjYWUwOTUyODRlOTRiYTQxMDM5NDQ2OWRiYzgwMmY4NDhhNGU1OGMxMmMwZDg"
+  "description": "250ml"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2963 > 3764",
   "supplier": "JACOBS DOUWE EGBERTS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Oploskoffie"
     }
   ],
-  "description": "200g",
-  "image": "/medias/sys_master/prd-images/h3c/h7a/28546144469022/prd-front-1665455-1_600x600/prd-front-1665455-1-600x600.jpg"
+  "description": "200g"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml - Normaal tot vet haar",
-  "image": "/medias/sys_master/prd-images/h43/hc9/32281081053214/prd-front-3201458-1_600x600/prd-front-3201458-1-600x600.jpg"
+  "description": "250ml - Normaal tot vet haar"
 }

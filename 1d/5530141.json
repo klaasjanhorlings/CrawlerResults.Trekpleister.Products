@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Epitact Knie Medical Physiostrap",
+  "code": "5530141",
+  "price": "42.45",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 6475 > 6476 > 6477 > 6481",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/epitact-knie-medical-physiostrap/p/5530141",
+  "listName": "Lister",
+  "brand": "Epitact",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267298,
+      "name": "Sport, -blessures en herstel"
+    }
+  ],
+  "description": "mt M",
+  "image": "/medias/prd-front-5530141-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzE4MTl8aW1hZ2UvanBlZ3xhREUxTDJoalpTOHhOekEyT0Rjek5ESTRNemd3Tmk5d2NtUXRabkp2Ym5RdE5UVXpNREUwTVMweFh6WXdNSGcyTURBfGM5MTI3ZTE2YWFmNTg5NWM0MmEyZDk3ODMxODBmNTY5OWFjN2ZlZDJlYTNjNGM5YWE2Njc5ODQyNWRmMjA3OTY"
+}
