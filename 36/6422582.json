@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Big Hair Day Refreshing Volume Spray",
+  "code": "6422582",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6697",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "3033421",
+  "mmkId": "3033421",
+  "productGroupId": "515297",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-big-hair-day-refreshing-volume-spray/p/6422582",
+  "listName": "Lister",
+  "brand": "Elvive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267492,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hbb/h94/45517607174174/temp-prd-front-6422582-1_600x600/temp-prd-front-6422582-1-600x600.jpg"
+}

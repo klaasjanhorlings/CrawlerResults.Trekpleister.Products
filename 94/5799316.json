@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Loving Blends Argan & Cameliaolie Haarmasker",
+  "code": "5799316",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3033422",
+  "mmkId": "3033422",
+  "productGroupId": "515301",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-loving-blends-argan-cameliaolie-haarmasker/p/5799316",
+  "listName": "Lister",
+  "brand": "Loving Blends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267254,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "340ml",
+  "image": "/medias/sys_master/prd-images/hf5/hea/29798401441822/prd-front-5799316-1_600x600/prd-front-5799316-1-600x600.jpg"
+}

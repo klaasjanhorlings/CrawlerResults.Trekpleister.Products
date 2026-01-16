@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Daro Kind Vloeibaar Paracetamol",
   "code": "369446",
-  "price": "7.49",
+  "price": "7.69",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6155 > 6166",
   "supplier": "REMARK GROEP",
@@ -37,5 +37,6 @@
       "name": "Paracetamol"
     }
   ],
-  "description": "Geneesmiddel - 100ml"
+  "description": "Geneesmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/h42/h25/34736194813982/prd-front-369446-1_600x600/prd-front-369446-1-600x600.jpg"
 }

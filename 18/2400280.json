@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rexona Women Maximum Protection Confidence Antitranspirant Stick",
+  "code": "2400280",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3796",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rexona-women-maximum-protection-confidence-antitranspirant-stick/p/2400280",
+  "listName": "Lister",
+  "brand": "Rexona",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267047,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30267202,
+      "name": "Deostick"
+    }
+  ],
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/h8d/h96/44518500270110/prd-front-2400280-1_600x600/prd-front-2400280-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6643 > 6644",
   "supplier": "JACOBS DOUWE EGBERTS",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Koffiebonen"
     }
   ],
-  "description": "4 x 500g"
+  "description": "4 x 500g",
+  "image": "/medias/sys_master/prd-images/h9f/h7f/28787438649374/prd-front-5184894-1_600x600/prd-front-5184894-1-600x600.jpg"
 }

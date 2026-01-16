@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Aloe Boost Hold 4 Styling Cream",
+  "code": "6236298",
+  "price": "6.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2838 > 3578",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3033342",
+  "mmkId": "3033342",
+  "productGroupId": "512145",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-aloe-boost-hold-4-styling-cream/p/6236298",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267485,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h7d/h02/33765085642782/prd-front-6236298-1_600x600/prd-front-6236298-1-600x600.jpg"
+}

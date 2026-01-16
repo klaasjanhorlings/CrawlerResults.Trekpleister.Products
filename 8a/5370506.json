@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jordan Junior 6-12 Jaar Tandpasta",
+  "code": "5370506",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3532",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jordan-junior-6-12-jaar-tandpasta/p/5370506",
+  "listName": "Lister",
+  "brand": "Jordan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hdc/hc5/45534745264158/temp-prd-front-5370506-1_600x600/temp-prd-front-5370506-1-600x600.jpg"
+}

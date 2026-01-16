@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "2TH Coniflex 1,9 - 2,2 mm X-Small Ragers",
   "code": "6065673",
-  "price": "6.89",
+  "price": "6.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "RSDW BEHEER BV",
@@ -29,9 +29,10 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 64454079,
-      "name": "Beugelverzorging"
+      "id": 30267226,
+      "name": "Tandenragers"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h07/hf0/31056809099294/prd-front-6065673-1_600x600/prd-front-6065673-1-600x600.jpg"
 }

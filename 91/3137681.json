@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Pink Collection Heat Protect Spray",
+  "code": "3137681",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3698",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "3033359",
+  "mmkId": "3033359",
+  "productGroupId": "512934",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-pink-collection-heat-protect-spray/p/3137681",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267490,
+      "name": "Heat protectors"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h59/hc9/44365218349086/prd-front-3137681-1_600x600/prd-front-3137681-1-600x600.jpg"
+}
