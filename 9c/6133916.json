@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Adidas Vibes Get Comfy Eau de Parfum",
   "code": "6133916",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "17.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033507",
+  "mmkId": "3033507",
+  "productGroupId": "515914",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/adidas-vibes-get-comfy-eau-de-parfum/p/6133916",
   "listName": "Lister",
   "brand": "Adidas",
@@ -29,8 +29,8 @@
       "name": "Parfum"
     },
     {
-      "id": 72654953,
-      "name": "Unisex parfum"
+      "id": 72654889,
+      "name": "Herenparfum"
     }
   ],
   "description": "30ml",

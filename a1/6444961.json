@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "House of Thêom Heaven's Reserve Eau de Parfum",
+  "code": "6444961",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/house-of-theom-heavens-reserve-eau-de-parfum/p/6444961",
+  "listName": "Lister",
+  "brand": "House of Thêom",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h09/h22/45586697289758/temp-prd-front-6444961-2_600x600/temp-prd-front-6444961-2-600x600.jpg"
+}

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Sabrina Carpenter Caramel Dream Bodymist",
   "code": "6194445",
-  "price": "14.49",
-  "priceOriginal": "",
+  "price": "13.04",
+  "priceOriginal": "14.49",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "CARE COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033507",
+  "mmkId": "3033507",
+  "productGroupId": "515914",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,45",
   "url": "/sabrina-carpenter-caramel-dream-bodymist/p/6194445",
   "listName": "Lister",
   "brand": "SABRINA CARPENTER",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "236ml"
+  "description": "236ml",
+  "image": "/medias/sys_master/prd-images/hca/hc2/32930267824158/prd-front-6194445-1_600x600/prd-front-6194445-1-600x600.jpg"
 }

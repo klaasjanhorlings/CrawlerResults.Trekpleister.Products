@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L’Oréal Paris 9.5N True Match Foundation",
   "code": "5753070",
-  "price": "9.99",
+  "price": "8.0",
   "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033407",
-  "mmkId": "3033407",
-  "productGroupId": "514775",
+  "onPromo": "3033511",
+  "mmkId": "3033511",
+  "productGroupId": "518609",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "€ 11,99",
   "url": "/loreal-paris-95n-true-match-foundation/p/5753070",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h61/hf5/44106884677662/prd-front-5753070-1_600x600/prd-front-5753070-1-600x600.jpg"
 }

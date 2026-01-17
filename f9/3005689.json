@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Infaillible 235 Honey SPF25 32H Fresh Wear Foundation",
   "code": "3005689",
-  "price": "9.99",
+  "price": "8.0",
   "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033407",
-  "mmkId": "3033407",
-  "productGroupId": "514775",
+  "onPromo": "3033511",
+  "mmkId": "3033511",
+  "productGroupId": "518609",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "€ 11,99",
   "url": "/loreal-paris-infaillible-235-honey-spf25-32h-fresh-wear-foundation/p/3005689",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h4f/h17/44725046312990/prd-front-3005689-1_600x600/prd-front-3005689-1-600x600.jpg"
+  "description": "30ml"
 }

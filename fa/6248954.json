@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gucci Guilty Femme Eau de Parfum",
   "code": "6248954",
-  "price": "64.99",
-  "priceOriginal": "",
+  "price": "58.49",
+  "priceOriginal": "64.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "MAINSTEIN GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033507",
+  "mmkId": "3033507",
+  "productGroupId": "515914",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,50",
   "url": "/gucci-guilty-femme-eau-de-parfum/p/6248954",
   "listName": "Lister",
   "brand": "Gucci",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "50ml"
 }

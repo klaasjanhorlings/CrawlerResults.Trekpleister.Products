@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Hugo Boss Femme Eau de Parfum",
   "code": "4552472",
-  "price": "29.99",
+  "price": "26.99",
   "priceOriginal": "110.0",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033507",
+  "mmkId": "3033507",
+  "productGroupId": "515914",
   "brandType": "A of B merk",
-  "discount": "€ 80,01",
+  "discount": "€ 83,01",
   "url": "/hugo-boss-femme-eau-de-parfum/p/4552472",
   "listName": "Lister",
   "brand": "Hugo Boss",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h80/hcb/45293048266782/prd-front-4552472-1_600x600/prd-front-4552472-1-600x600.jpg"
+  "description": "75ml"
 }

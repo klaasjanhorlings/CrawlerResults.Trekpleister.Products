@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Elvive Glycolic Gloss Shampoo",
+  "itemName": "Elvive Ultimate Glycolic Gloss Shampoo",
   "code": "6024478",
   "price": "13.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-elvive-glycolic-gloss-shampoo/p/6024478",
+  "url": "/elvive-ultimate-glycolic-gloss-shampoo/p/6024478",
   "listName": "Lister",
   "brand": "Elvive",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h7b/hcf/30657463713822/prd-front-6024478-1_600x600/prd-front-6024478-1-600x600.jpg"
 }

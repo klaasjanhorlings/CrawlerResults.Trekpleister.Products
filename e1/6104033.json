@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033493",
   "mmkId": "3033493",
   "productGroupId": "515748",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "100g - Droge en gevoelige huid"
+  "description": "100g - Droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hea/hb9/32272992731166/prd-front-6104033-1_600x600/prd-front-6104033-1-600x600.jpg"
 }

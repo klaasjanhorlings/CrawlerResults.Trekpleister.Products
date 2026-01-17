@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Magic CC 5-In-1 Anti-Roodheidscrème",
   "code": "2736070",
-  "price": "8.49",
+  "price": "6.8",
   "priceOriginal": "16.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033407",
-  "mmkId": "3033407",
-  "productGroupId": "514775",
+  "onPromo": "3033511",
+  "mmkId": "3033511",
+  "productGroupId": "518609",
   "brandType": "A of B merk",
-  "discount": "€ 8,50",
+  "discount": "€ 10,19",
   "url": "/loreal-paris-magic-cc-5-in-1-anti-roodheidscreme/p/2736070",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,5 +33,6 @@
       "name": "BB cream"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h0f/h9a/44107746869278/prd-front-2736070-1_600x600/prd-front-2736070-1-600x600.jpg"
 }

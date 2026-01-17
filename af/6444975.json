@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "House of Thêom Endless Love Eau de Parfum",
+  "code": "6444975",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/house-of-theom-endless-love-eau-de-parfum/p/6444975",
+  "listName": "Lister",
+  "brand": "House of Thêom",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654953,
+      "name": "Unisex parfum"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h45/h67/45025939488798/prd-front-6444975-1_600x600/prd-front-6444975-1-600x600.jpg"
+}

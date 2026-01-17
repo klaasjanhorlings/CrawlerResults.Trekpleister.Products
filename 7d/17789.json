@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Paco Rabanne Pour Homme Aftershave",
   "code": "17789",
-  "price": "26.99",
-  "priceOriginal": "",
+  "price": "24.29",
+  "priceOriginal": "26.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3395",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033507",
+  "mmkId": "3033507",
+  "productGroupId": "515914",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,70",
   "url": "/paco-rabanne-pour-homme-aftershave/p/17789",
   "listName": "Lister",
   "brand": "Paco Rabanne",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
+      "id": 30267039,
+      "name": "Parfum"
     },
     {
-      "id": 30267169,
-      "name": "Aftershave"
+      "id": 72654889,
+      "name": "Herenparfum"
     }
   ],
   "description": "100ml",

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Pretty Me Pimple Patches",
   "code": "6113693",
-  "price": "1.49",
-  "priceOriginal": "",
+  "price": "0.6",
+  "priceOriginal": "1.49",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033506",
+  "mmkId": "3033506",
+  "productGroupId": "509191",
   "brandType": "Ander merk",
-  "discount": "",
+  "discount": "€ 0,89",
   "url": "/pretty-me-pimple-patches/p/6113693",
   "listName": "Lister",
   "brand": "Pretty me",
@@ -29,8 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 81073392,
-      "name": "Pimple patches"
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
     }
   ],
   "description": "24 stuks",

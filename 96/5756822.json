@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tommy Hilfiger Tommy Men Now Eau de Toilette",
   "code": "5756822",
-  "price": "21.99",
-  "priceOriginal": "",
+  "price": "19.79",
+  "priceOriginal": "21.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033507",
+  "mmkId": "3033507",
+  "productGroupId": "515914",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,20",
   "url": "/tommy-hilfiger-tommy-men-now-eau-de-toilette/p/5756822",
   "listName": "Lister",
   "brand": "Tommy Hilfiger",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h48/h27/29828885970974/prd-front-5756822-1_600x600/prd-front-5756822-1-600x600.jpg"
 }
