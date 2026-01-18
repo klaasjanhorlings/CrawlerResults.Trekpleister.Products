@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3033510",
-  "mmkId": "3033510",
-  "productGroupId": "516657",
+  "onPromo": "3033305",
+  "mmkId": "3033305",
+  "productGroupId": "509208",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-littekencreme/p/6100183",
@@ -37,5 +37,6 @@
       "name": "Littekencremes"
     }
   ],
-  "description": "25ml"
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/h84/h0c/31028041187358/prd-front-6100183-1_600x600/prd-front-6100183-1-600x600.jpg"
 }

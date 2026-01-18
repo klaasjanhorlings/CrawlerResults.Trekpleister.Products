@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "The Master Perfumer Nr.53 Amber Eau de Toilette",
   "code": "6119139",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "5.0",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "MORE LABELS GROUP BV",
   "inStock": "inStock",
-  "onPromo": "3033507",
-  "mmkId": "3033507",
-  "productGroupId": "515914",
+  "onPromo": "3033399",
+  "mmkId": "3033399",
+  "productGroupId": "514621",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 3,99",
   "url": "/the-master-perfumer-nr53-amber-eau-de-toilette/p/6119139",
   "listName": "Lister",
   "brand": "The Master Perfumer",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h26/h2d/32700243476510/prd-front-6119139-1_600x600/prd-front-6119139-1-600x600.jpg"
 }

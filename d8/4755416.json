@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Paco Rabanne Invictus Eau de Toilette",
   "code": "4755416",
-  "price": "46.8",
-  "priceOriginal": "52.0",
+  "price": "52.0",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "MAINSTEIN GMBH",
   "inStock": "inStock",
-  "onPromo": "3033507",
-  "mmkId": "3033507",
-  "productGroupId": "515914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,20",
+  "discount": "",
   "url": "/paco-rabanne-invictus-eau-de-toilette/p/4755416",
   "listName": "Lister",
   "brand": "Paco Rabanne",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hdd/hdf/45558423748638/temp-prd-front-4755416-1_600x600/temp-prd-front-4755416-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8e/h32/45594949877790/temp-prd-front-4755416-1_600x600/temp-prd-front-4755416-1-600x600.jpg"
 }

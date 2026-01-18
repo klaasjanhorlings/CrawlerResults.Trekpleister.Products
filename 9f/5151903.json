@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Hugo Boss Orange Ladies Eau de Toilette",
   "code": "5151903",
-  "price": "18.0",
-  "priceOriginal": "20.0",
+  "price": "20.0",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "3033507",
-  "mmkId": "3033507",
-  "productGroupId": "515914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/hugo-boss-orange-ladies-eau-de-toilette/p/5151903",
   "listName": "Lister",
   "brand": "Hugo Boss",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/prd-front-5151903-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTMzOTJ8aW1hZ2UvanBlZ3xhRGt3TDJneU5pOHhOekEwT0RnMU5qY3lNelE0Tmk5d2NtUXRabkp2Ym5RdE5URTFNVGt3TXkweFh6WXdNSGcyTURBfDNjZWUzYzU3MDI2NmJiNzI3ODZhODE4ZGFkMzUyNzE3MDc4ZjA5YjI2ZDU3OGNjNTg0NjRhYzk3NTJjZWYzNjI"
+  "description": "30ml"
 }

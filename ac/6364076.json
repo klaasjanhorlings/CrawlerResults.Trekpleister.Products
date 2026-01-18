@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Versace Eros Pour Homme Eau de Parfum",
   "code": "6364076",
-  "price": "46.06",
-  "priceOriginal": "51.18",
+  "price": "51.18",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "JTG BV",
   "inStock": "outOfStock",
-  "onPromo": "3033507",
-  "mmkId": "3033507",
-  "productGroupId": "515914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,12",
+  "discount": "",
   "url": "/versace-eros-pour-homme-eau-de-parfum/p/6364076",
   "listName": "Lister",
   "brand": "Versace",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h70/hbe/35176031846430/prd-front-6364076-1_600x600/prd-front-6364076-1-600x600.jpg"
 }

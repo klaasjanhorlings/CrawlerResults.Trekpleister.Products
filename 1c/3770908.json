@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Paco Rabanne Lady Million Eau de Parfum",
   "code": "3770908",
-  "price": "64.0",
-  "priceOriginal": "71.11",
+  "price": "71.11",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "MAINSTEIN GMBH",
   "inStock": "outOfStock",
-  "onPromo": "3033507",
-  "mmkId": "3033507",
-  "productGroupId": "515914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 7,11",
+  "discount": "",
   "url": "/paco-rabanne-lady-million-eau-de-parfum/p/3770908",
   "listName": "Lister",
   "brand": "Paco Rabanne",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h82/h33/31057645666334/prd-front-3770908-1_600x600/prd-front-3770908-1-600x600.jpg"
 }

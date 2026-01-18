@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lattafa Yara Eau de Parfum",
   "code": "6173039",
-  "price": "19.15",
-  "priceOriginal": "21.28",
+  "price": "21.28",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "3033507",
-  "mmkId": "3033507",
-  "productGroupId": "515914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,13",
+  "discount": "",
   "url": "/lattafa-yara-eau-de-parfum/p/6173039",
   "listName": "Lister",
   "brand": "Lattafa",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hdf/h11/45565579198494/temp-prd-front-6173039-1_600x600/temp-prd-front-6173039-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc9/hdb/45603329474590/temp-prd-front-6173039-1_600x600/temp-prd-front-6173039-1-600x600.jpg"
 }

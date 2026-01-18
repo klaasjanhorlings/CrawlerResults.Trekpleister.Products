@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Afnan Pm9 Eau de Parfum",
   "code": "6364006",
-  "price": "24.98",
-  "priceOriginal": "27.76",
+  "price": "27.76",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "3033507",
-  "mmkId": "3033507",
-  "productGroupId": "515914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,78",
+  "discount": "",
   "url": "/afnan-pm9-eau-de-parfum/p/6364006",
   "listName": "Lister",
   "brand": "Afnan",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/he3/heb/45565462249502/temp-prd-front-6364006-1_600x600/temp-prd-front-6364006-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7d/h5a/45601815330846/temp-prd-front-6364006-1_600x600/temp-prd-front-6364006-1-600x600.jpg"
 }

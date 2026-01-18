@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Matte Liner Water Activated Eyeliner",
-  "code": "6233428",
-  "price": "5.69",
+  "itemName": "Catrice Allround 010 Blackest Carbon Black Ever Mascara",
+  "code": "2734369",
+  "price": "2.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-matte-liner-water-activated-eyeliner/p/6233428",
+  "url": "/catrice-allround-010-blackest-carbon-black-ever-mascara/p/2734369",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267143,
-      "name": "Eyeliner"
+      "id": 30267133,
+      "name": "Mascara"
     }
   ],
-  "description": "8,5g",
-  "image": "/medias/sys_master/prd-images/had/h43/33046566699038/prd-front-6233428-1_600x600/prd-front-6233428-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h73/h9b/29926273122334/prd-front-2734369-1_600x600/prd-front-2734369-1-600x600.jpg"
 }

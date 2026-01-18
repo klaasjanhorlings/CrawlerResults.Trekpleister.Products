@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty No.4 Vanilla & Macadamia Fragrance Mist",
   "code": "6317302",
-  "price": "7.19",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3033507",
-  "mmkId": "3033507",
-  "productGroupId": "515914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 0,80",
+  "discount": "",
   "url": "/mcobeauty-no4-vanilla-macadamia-fragrance-mist/p/6317302",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "90ml"
+  "description": "90ml",
+  "image": "/medias/sys_master/prd-images/hde/hca/34919356399646/prd-front-6317302-1_600x600/prd-front-6317302-1-600x600.jpg"
 }

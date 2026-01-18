@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Narciso For Her Eau de Parfum",
   "code": "5201897",
-  "price": "41.39",
-  "priceOriginal": "45.99",
+  "price": "45.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "SAR TRADING BV",
   "inStock": "outOfStock",
-  "onPromo": "3033507",
-  "mmkId": "3033507",
-  "productGroupId": "515914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,60",
+  "discount": "",
   "url": "/narciso-for-her-eau-de-parfum/p/5201897",
   "listName": "Lister",
   "brand": "Narciso",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h7b/hba/28787347554334/prd-front-5201897-1_600x600/prd-front-5201897-1-600x600.jpg"
+  "description": "30ml"
 }

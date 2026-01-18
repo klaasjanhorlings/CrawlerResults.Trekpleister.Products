@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Calvin Klein Man Eau de Toilette",
   "code": "2804180",
-  "price": "21.71",
-  "priceOriginal": "24.12",
+  "price": "24.12",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "3033507",
-  "mmkId": "3033507",
-  "productGroupId": "515914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,41",
+  "discount": "",
   "url": "/calvin-klein-man-eau-de-toilette/p/2804180",
   "listName": "Lister",
   "brand": "Calvin Klein",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-2804180-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIyMTF8aW1hZ2UvanBlZ3xhRFEzTDJneE1TOHhOalU1TWpBNE1UZ3hNelV6TkM5d2NtUXRabkp2Ym5RdE1qZ3dOREU0TUMweFh6WXdNSGcyTURBfGIyNjlmZjAyN2U3ZDZkZjIyNjFiNzE1M2YwMDJjYTYwN2E5OGE2ZDM0OWY4NGE2YTZhMGQyYzVlNGZiMTMyNTM"
+  "description": "100ml"
 }

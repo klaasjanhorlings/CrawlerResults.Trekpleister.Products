@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Guess Metallique Gold Champagne Bodymist",
   "code": "6158948",
-  "price": "10.79",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "3033507",
-  "mmkId": "3033507",
-  "productGroupId": "515914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,20",
+  "discount": "",
   "url": "/guess-metallique-gold-champagne-bodymist/p/6158948",
   "listName": "Lister",
   "brand": "Guess",
@@ -33,6 +33,5 @@
       "name": "Bodymist"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h3f/ha9/31842004434974/prd-front-6158948-1_600x600/prd-front-6158948-1-600x600.jpg"
+  "description": "250ml"
 }
