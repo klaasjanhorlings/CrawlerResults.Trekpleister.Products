@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fa Caribbean Wave Deodorant Spray",
   "code": "633717",
-  "price": "1.5",
-  "priceOriginal": "4.19",
+  "price": "4.19",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3033340",
-  "mmkId": "3033340",
-  "productGroupId": "512094",
+  "onPromo": "3033605",
+  "mmkId": "3033605",
+  "productGroupId": "512095",
   "brandType": "A of B merk",
-  "discount": "€ 2,69",
+  "discount": "",
   "url": "/fa-caribbean-wave-deodorant-spray/p/633717",
   "listName": "Lister",
   "brand": "Fa",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf2/hf2/44264398749726/prd-front-633717-1_600x600/prd-front-633717-1-600x600.jpg"
 }

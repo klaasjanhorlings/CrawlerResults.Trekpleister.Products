@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-halo-glow-spf50-6-light-cool-skin-tint/p/6275764",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h7b/h05/34282357653534/prd-front-6275764-1_600x600/prd-front-6275764-1-600x600.jpg"
 }

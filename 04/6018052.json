@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3033302",
-  "mmkId": "3033302",
-  "productGroupId": "508989",
+  "onPromo": "3033586",
+  "mmkId": "3033586",
+  "productGroupId": "511471",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-luminous630-anti-striae-bodycreme/p/6018052",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h33/h05/34395562278942/prd-front-6018052-1_600x600/prd-front-6018052-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3033500",
-  "mmkId": "3033500",
-  "productGroupId": "513576",
+  "onPromo": "3033586",
+  "mmkId": "3033586",
+  "productGroupId": "511471",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-sport-antitranspirant-spray/p/2746332",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf1/h45/33176106237982/prd-front-2746332-1_600x600/prd-front-2746332-1-600x600.jpg"
 }

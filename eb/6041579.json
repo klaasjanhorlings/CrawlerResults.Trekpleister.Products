@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "NIP + FAB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nip-fab-vitamin-c-concentrate-extreme-15/p/6041579",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml, alle huidtypes"
+  "description": "30ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h4a/hec/30124487507998/prd-front-6041579-1_600x600/prd-front-6041579-1-600x600.jpg"
 }

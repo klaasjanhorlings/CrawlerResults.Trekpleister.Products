@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033418",
-  "mmkId": "3033418",
-  "productGroupId": "514952",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-8m-wortel-kip-aardappel/p/3824122",
@@ -37,6 +37,5 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "200g",
-  "image": "/medias/sys_master/prd-images/h84/h89/30687989497886/prd-front-3824122-1_600x600/prd-front-3824122-1-600x600.jpg"
+  "description": "200g"
 }

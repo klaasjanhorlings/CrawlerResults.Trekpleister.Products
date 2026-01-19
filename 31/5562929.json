@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033321",
-  "mmkId": "3033321",
-  "productGroupId": "511123",
+  "onPromo": "3033579",
+  "mmkId": "3033579",
+  "productGroupId": "511129",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-body-love-light-hydration-one-cream/p/5562929",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/he0/h2e/44377022169118/prd-front-5562929-1_600x600/prd-front-5562929-1-600x600.jpg"
 }

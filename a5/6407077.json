@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Second Skin Liquid Concentrate Pleister",
+  "code": "6407077",
+  "price": "6.24",
+  "priceOriginal": "12.49",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 3775",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3033687",
+  "mmkId": "3033687",
+  "productGroupId": "515842",
+  "brandType": "A of B merk",
+  "discount": "€ 6,25",
+  "url": "/hansaplast-second-skin-liquid-concentrate-pleister/p/6407077",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267296,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414144,
+      "name": "Klassieke pleisters"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h8b/he9/45637961777182/temp-prd-front-6407077-1_600x600/temp-prd-front-6407077-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3033331",
-  "mmkId": "3033331",
-  "productGroupId": "511365",
+  "onPromo": "3033591",
+  "mmkId": "3033591",
+  "productGroupId": "511627",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-pro-sensitive-clean-opzetborstels/p/4207400",
@@ -33,6 +33,5 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 4 stuks",
-  "image": "/medias/sys_master/prd-images/hc2/h39/31464727511070/prd-front-4207400-1_600x600/prd-front-4207400-1-600x600.jpg"
+  "description": "wit, 4 stuks"
 }

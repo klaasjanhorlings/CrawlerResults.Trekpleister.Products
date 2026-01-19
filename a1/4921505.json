@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3033572",
+  "mmkId": "3033572",
+  "productGroupId": "510629",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-overgang-famosan-gewichtsbeheersing2-tabletten/p/4921505",
@@ -33,6 +33,5 @@
       "name": "Overgang"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h80/h60/32640283181086/prd-front-4921505-1_600x600/prd-front-4921505-1-600x600.jpg"
+  "description": "60 stuks"
 }

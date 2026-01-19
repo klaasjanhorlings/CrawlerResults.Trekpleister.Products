@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Gevulde Paaseitjes",
+  "code": "33471",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3648",
+  "supplier": "BARONIE - DE HEER BV",
+  "inStock": "inStock",
+  "onPromo": "3033530",
+  "mmkId": "3033530",
+  "productGroupId": "503120",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-gevulde-paaseitjes/p/33471",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267589,
+      "name": "Paaseitjes"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h61/h0a/29712594534430/prd-front-33471-1_600x600/prd-front-33471-1-600x600.jpg"
+}

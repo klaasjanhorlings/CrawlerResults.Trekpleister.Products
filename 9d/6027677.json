@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-2-millions-probiotics-tissuemasker/p/6027677",
@@ -33,6 +33,5 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": "22g, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/h47/hc3/30293364834334/prd-front-6027677-1_600x600/prd-front-6027677-1-600x600.jpg"
+  "description": "22g, alle huidtypes"
 }

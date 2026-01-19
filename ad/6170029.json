@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "My Nailcandy Mini Uv-ledlamp",
   "code": "6170029",
-  "price": "5.99",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6505 > 6506",
   "supplier": "LITTLE CONCEPTS NETTO",
   "inStock": "inStock",
-  "onPromo": "3033433",
-  "mmkId": "3033433",
-  "productGroupId": "516253",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/my-nailcandy-mini-uv-ledlamp/p/6170029",
   "listName": "Lister",
   "brand": "MY NAILCANDY",
@@ -33,5 +33,6 @@
       "name": "Gellak"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd5/h4e/32468931084318/prd-front-6170029-1_600x600/prd-front-6170029-1-600x600.jpg"
 }

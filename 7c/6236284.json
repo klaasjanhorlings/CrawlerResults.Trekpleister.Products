@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3033342",
-  "mmkId": "3033342",
-  "productGroupId": "512145",
+  "onPromo": "3033593",
+  "mmkId": "3033593",
+  "productGroupId": "511671",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-3-in-1-styling-care-strength-hold-4-molding-paste/p/6236284",
@@ -33,5 +33,6 @@
       "name": "Haarpasta"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hf9/h9b/33775429910558/prd-front-6236284-1_600x600/prd-front-6236284-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "HG Vloeibare Ontstopper",
   "code": "4458014",
-  "price": "5.19",
-  "priceOriginal": "",
+  "price": "3.89",
+  "priceOriginal": "5.19",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "HG INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033540",
+  "mmkId": "3033540",
+  "productGroupId": "507434",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,30",
   "url": "/hg-vloeibare-ontstopper/p/4458014",
   "listName": "Lister",
   "brand": "HG",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/h8d/hb1/31176812527646/prd-front-4458014-1_600x600/prd-front-4458014-1-600x600.jpg"
+  "description": "500ml"
 }

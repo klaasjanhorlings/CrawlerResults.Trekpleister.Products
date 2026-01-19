@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3033343",
-  "mmkId": "3033343",
-  "productGroupId": "512146",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-elke-dag-shampoo/p/2099497",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hf7/hf2/45597833658398/temp-prd-front-2099497-1_600x600/temp-prd-front-2099497-1-600x600.jpg"
+  "description": "400ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033603",
+  "mmkId": "3033603",
+  "productGroupId": "511966",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-casting-creme-gloss-700-middenblond-verzorgende-haarkleuring/p/983081",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1c/h5b/45053379313694/prd-front-983081-1_600x600/prd-front-983081-1-600x600.jpg"
+  "description": ""
 }

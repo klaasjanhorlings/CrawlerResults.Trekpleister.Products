@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3880",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033538",
+  "mmkId": "3033538",
+  "productGroupId": "506932",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wilkinson-sword-hydro-5-scheersysteem/p/3288545",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0f/hf6/31695440805918/prd-front-3288545-1_600x600/prd-front-3288545-1-600x600.jpg"
 }

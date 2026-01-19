@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Marcel's Green Soap Orange & Jasmine Afwasmiddel",
   "code": "6225245",
-  "price": "10.49",
-  "priceOriginal": "20.99",
+  "price": "20.99",
+  "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 2942 > 3736",
   "supplier": "GREEN SOAP COMPANY BV",
   "inStock": "outOfStock",
-  "onPromo": "3033277",
-  "mmkId": "3033277",
-  "productGroupId": "519469",
+  "onPromo": "3021955",
+  "mmkId": "3021955",
+  "productGroupId": "",
   "brandType": "Ander merk",
-  "discount": "€ 10,50",
+  "discount": "",
   "url": "/marcels-green-soap-orange-jasmine-afwasmiddel/p/6225245",
   "listName": "Lister",
   "brand": "Marcel's Green Soap",
@@ -29,6 +29,5 @@
       "name": "Afwasmiddel"
     }
   ],
-  "description": "6 x 500ml",
-  "image": "/medias/sys_master/prd-images/h61/h00/35138298904606/prd-front-6225245-1_600x600/prd-front-6225245-1-600x600.jpg"
+  "description": "6 x 500ml"
 }

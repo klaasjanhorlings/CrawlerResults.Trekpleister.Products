@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/adidas-vibes-wonder-force-eau-de-parfum/p/6384530",
@@ -33,5 +33,6 @@
       "name": "Unisex parfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h1d/h24/44144083206174/prd-front-6384530-1_600x600/prd-front-6384530-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3033485",
-  "mmkId": "3033485",
-  "productGroupId": "512245",
+  "onPromo": "3033706",
+  "mmkId": "3033706",
+  "productGroupId": "517222",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-zilverglans-verzorging-anti-geel-2-in-1-masker-en-conditioner/p/3643214",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h15/h4c/44264109473822/prd-front-3643214-1_600x600/prd-front-3643214-1-600x600.jpg"
 }

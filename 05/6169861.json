@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "My Nailcandy Babyboom",
   "code": "6169861",
-  "price": "5.99",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6505 > 6506",
   "supplier": "LITTLE CONCEPTS NETTO",
   "inStock": "inStock",
-  "onPromo": "3033433",
-  "mmkId": "3033433",
-  "productGroupId": "516253",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/my-nailcandy-babyboom/p/6169861",
   "listName": "Lister",
   "brand": "MY NAILCANDY",
@@ -33,6 +33,5 @@
       "name": "Nagelstickers"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/h62/h80/32343221370910/prd-front-6169861-1_600x600/prd-front-6169861-1-600x600.jpg"
+  "description": "20 stuks"
 }

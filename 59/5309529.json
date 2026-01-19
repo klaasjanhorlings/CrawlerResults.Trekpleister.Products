@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6327",
   "supplier": "EMA COMPANY BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/real-techniques-artist-essentials-set/p/5309529",
@@ -33,5 +33,6 @@
       "name": "Make-up kwasten"
     }
   ],
-  "description": "5 stuks"
+  "description": "5 stuks",
+  "image": "/medias/sys_master/prd-images/hb2/ha6/30237342138398/prd-front-5309529-1_600x600/prd-front-5309529-1-600x600.jpg"
 }

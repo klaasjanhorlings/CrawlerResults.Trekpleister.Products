@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-warm-honey-instant-concealer-camouflage-contour/p/6317932",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/hde/he2/34829426982942/prd-front-6317932-1_600x600/prd-front-6317932-1-600x600.jpg"
 }

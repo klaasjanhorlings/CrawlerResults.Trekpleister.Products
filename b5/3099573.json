@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033321",
-  "mmkId": "3033321",
-  "productGroupId": "511123",
+  "onPromo": "3033580",
+  "mmkId": "3033580",
+  "productGroupId": "511130",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-musk-deodorant-bodyspray/p/3099573",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hdd/h73/33199839117342/prd-front-3099573-1_600x600/prd-front-3099573-1-600x600.jpg"
 }

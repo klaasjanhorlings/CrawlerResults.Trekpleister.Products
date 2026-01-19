@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4315",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-white-lotus-body-butter/p/5803012",
@@ -33,6 +33,5 @@
       "name": "Bodybutter"
     }
   ],
-  "description": "75g",
-  "image": "/medias/sys_master/prd-images/h09/h79/34881627750430/prd-front-5803012-1_600x600/prd-front-5803012-1-600x600.jpg"
+  "description": "75g"
 }

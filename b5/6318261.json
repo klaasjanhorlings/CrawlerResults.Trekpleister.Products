@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Rose Saturn Crème Matte Luxe Lipstick",
   "code": "6318261",
-  "price": "6.0",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3033442",
-  "mmkId": "3033442",
-  "productGroupId": "516968",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "Exclusief merk",
-  "discount": "€ 3,99",
+  "discount": "",
   "url": "/mcobeauty-rose-saturn-creme-matte-luxe-lipstick/p/6318261",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3,5g",
-  "image": "/medias/sys_master/prd-images/h46/hd4/34826674176030/prd-front-6318261-1_600x600/prd-front-6318261-1-600x600.jpg"
+  "description": "3,5g"
 }

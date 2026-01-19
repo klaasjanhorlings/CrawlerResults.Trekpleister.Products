@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Bepanthen Eczeem Crème voor Baby's",
   "code": "5187274",
-  "price": "9.34",
-  "priceOriginal": "10.99",
+  "price": "10.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "BAYER BV",
   "inStock": "inStock",
-  "onPromo": "3033373",
-  "mmkId": "3033373",
-  "productGroupId": "513526",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,65",
+  "discount": "",
   "url": "/bepanthen-eczeem-creme-voor-babys/p/5187274",
   "listName": "Lister",
   "brand": "Bepanthen",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 20g",
-  "image": "/medias/sys_master/prd-images/he4/h84/45601776664606/temp-prd-front-5187274-1_600x600/temp-prd-front-5187274-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h68/h78/45637902893086/temp-prd-front-5187274-1_600x600/temp-prd-front-5187274-1-600x600.jpg"
 }

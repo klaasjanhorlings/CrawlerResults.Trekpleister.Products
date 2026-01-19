@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3033678",
+  "mmkId": "3033678",
+  "productGroupId": "515178",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/weleda-ogentroost-oogdruppels/p/1150493",
@@ -33,6 +33,5 @@
       "name": "Oogdruppels"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h7d/h67/34604184207390/prd-front-1150493-1_600x600/prd-front-1150493-1-600x600.jpg"
+  "description": "10ml"
 }

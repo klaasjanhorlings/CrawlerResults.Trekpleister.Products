@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "NIP + FAB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nip-fab-illuminate-vitamin-c-fix-serum/p/6041572",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "50ml, alle huidtypes"
+  "description": "50ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/hfd/ha0/30114801188894/prd-front-6041572-1_600x600/prd-front-6041572-1-600x600.jpg"
 }

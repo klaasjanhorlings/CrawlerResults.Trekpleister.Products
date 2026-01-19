@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033347",
-  "mmkId": "3033347",
-  "productGroupId": "512430",
+  "onPromo": "3033612",
+  "mmkId": "3033612",
+  "productGroupId": "512435",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vaseline-cocoa-butter-moisturising-jelly/p/4680348",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/ha5/h28/44375403528222/prd-front-4680348-1_600x600/prd-front-4680348-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 4354 > 4355",
   "supplier": "E-SHOP LEVERINGEN",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033604",
+  "mmkId": "3033604",
+  "productGroupId": "511994",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/douwe-egberts-senseo-cafe-latte-coffee-pads/p/2800680",
@@ -33,6 +33,5 @@
       "name": "Koffiepads"
     }
   ],
-  "description": "8 stuks",
-  "image": "/medias/prd-front-2800680-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk5Nzh8aW1hZ2UvanBlZ3xhREJsTDJneVlpOHhOelEwTlRrNU9ESTJORE0xTUM5d2NtUXRabkp2Ym5RdE1qZ3dNRFk0TUMweFh6WXdNSGcyTURBfGI2MWRkMWIyZWFmMzJhZTNjNGVhMTMyZTcxNTQ0NmRkNGE5ZjdlN2FmYzI3YjlkYzdkYjkyYmE2MGUzYTkxMGY"
+  "description": "8 stuks"
 }

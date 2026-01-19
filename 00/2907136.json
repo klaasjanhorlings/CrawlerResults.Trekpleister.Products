@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tommy Hilfiger Boy Eau de Toilette",
   "code": "2907136",
-  "price": "34.99",
+  "price": "26.24",
   "priceOriginal": "73.0",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033648",
+  "mmkId": "3033648",
+  "productGroupId": "514628",
   "brandType": "A of B merk",
-  "discount": "€ 38,01",
+  "discount": "€ 46,76",
   "url": "/tommy-hilfiger-boy-eau-de-toilette/p/2907136",
   "listName": "Lister",
   "brand": "Tommy Hilfiger",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hde/h5e/34359395647518/prd-front-2907136-1_600x600/prd-front-2907136-1-600x600.jpg"
+  "description": "100ml"
 }

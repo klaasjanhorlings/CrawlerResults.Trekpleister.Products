@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/yves-saint-laurent-black-opium-eau-de-parfum/p/5443446",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "90ml"
+  "description": "90ml",
+  "image": "/medias/prd-front-5443446-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTM3Njl8aW1hZ2UvanBlZ3xhREV3TDJnM05pOHhOekEyTURnd056VTBNRGMyTmk5d2NtUXRabkp2Ym5RdE5UUTBNelEwTmkweFh6WXdNSGcyTURBfGE0YTA1YTUzNGQyNDFmMzc5ODUyNmYwZjNmYjk0OWQyMjNkYTgxMzExMTQ5YTRlNjA2YjkzYzZhMGMwYTk2OWU"
 }

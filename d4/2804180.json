@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/calvin-klein-man-eau-de-toilette/p/2804180",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-2804180-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIyMTF8aW1hZ2UvanBlZ3xhRFEzTDJneE1TOHhOalU1TWpBNE1UZ3hNelV6TkM5d2NtUXRabkp2Ym5RdE1qZ3dOREU0TUMweFh6WXdNSGcyTURBfGIyNjlmZjAyN2U3ZDZkZjIyNjFiNzE1M2YwMDJjYTYwN2E5OGE2ZDM0OWY4NGE2YTZhMGQyYzVlNGZiMTMyNTM"
 }

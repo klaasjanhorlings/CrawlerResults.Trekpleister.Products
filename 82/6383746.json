@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Classics Passiebloem & Bergamot Wasverzachter",
+  "code": "6383746",
+  "price": "3.49",
+  "priceOriginal": "6.79",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3033561",
+  "mmkId": "3033561",
+  "productGroupId": "509873",
+  "brandType": "A of B merk",
+  "discount": "€ 3,30",
+  "url": "/robijn-classics-passiebloem-bergamot-wasverzachter/p/6383746",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267115,
+      "name": "Wasverzachter"
+    }
+  ],
+  "description": "780ml, 38 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h0f/h7d/44254636343326/prd-front-6383746-1_600x600/prd-front-6383746-1-600x600.jpg"
+}

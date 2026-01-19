@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Medium Dark Magic Brows",
   "code": "6317869",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "7.19",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033702",
+  "mmkId": "3033702",
+  "productGroupId": "516971",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 1,80",
   "url": "/mcobeauty-medium-dark-magic-brows/p/6317869",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwgel"
     }
   ],
-  "description": "3.5ml"
+  "description": "3.5ml",
+  "image": "/medias/sys_master/prd-images/had/h5a/34826096345118/prd-front-6317869-1_600x600/prd-front-6317869-1-600x600.jpg"
 }

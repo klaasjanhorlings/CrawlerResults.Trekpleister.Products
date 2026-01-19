@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-wimperkruller/p/3506721",
@@ -33,5 +33,6 @@
       "name": "Wimperkrullers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/hbc/29938026315806/prd-front-3506721-1_600x600/prd-front-3506721-1-600x600.jpg"
 }

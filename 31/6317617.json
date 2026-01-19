@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Buttercream Peptide Lip Treatment",
   "code": "6317617",
-  "price": "6.0",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3033442",
-  "mmkId": "3033442",
-  "productGroupId": "516968",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "Exclusief merk",
-  "discount": "€ 3,99",
+  "discount": "",
   "url": "/mcobeauty-buttercream-peptide-lip-treatment/p/6317617",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,6 +37,5 @@
       "name": "Lip balm"
     }
   ],
-  "description": "15g",
-  "image": "/medias/sys_master/prd-images/hb9/h87/34870208102430/prd-front-6317617-1_600x600/prd-front-6317617-1-600x600.jpg"
+  "description": "15g"
 }

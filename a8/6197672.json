@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Hansaplast Expert+ Second Skin Protection XL Pleisters",
   "code": "6197672",
-  "price": "6.49",
-  "priceOriginal": "",
+  "price": "3.24",
+  "priceOriginal": "6.49",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4247",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3033687",
+  "mmkId": "3033687",
+  "productGroupId": "515842",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,25",
   "url": "/hansaplast-expert-second-skin-protection-xl-pleisters/p/6197672",
   "listName": "Lister",
   "brand": "Hansaplast",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 3 stuks",
-  "image": "/medias/sys_master/prd-images/h15/hee/45593662291998/temp-prd-front-6197672-1_600x600/temp-prd-front-6197672-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/heb/hef/45630391943198/temp-prd-front-6197672-1_600x600/temp-prd-front-6197672-1-600x600.jpg"
 }

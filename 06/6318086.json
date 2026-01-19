@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Light/Medium Brow Fill & Set",
   "code": "6318086",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "7.99",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033702",
+  "mmkId": "3033702",
+  "productGroupId": "516971",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/mcobeauty-light/medium-brow-fill-set/p/6318086",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf7/h1c/34868930248734/prd-front-6318086-1_600x600/prd-front-6318086-1-600x600.jpg"
+  "description": ""
 }

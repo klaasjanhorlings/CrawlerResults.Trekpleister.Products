@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033603",
+  "mmkId": "3033603",
+  "productGroupId": "511966",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-plump-ambition-510-la-nuit-sparkle-hyaluronic-lip-oil/p/6235717",
@@ -37,6 +37,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h70/h4d/44505111330846/prd-front-6235717-1_600x600/prd-front-6235717-1-600x600.jpg"
+  "description": ""
 }

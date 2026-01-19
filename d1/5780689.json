@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L’Oréal Paris Revitalift Clinical SPF50+ Vitamine C Anti-UV Fluid",
   "code": "5780689",
-  "price": "14.99",
-  "priceOriginal": "29.99",
+  "price": "29.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3033383",
-  "mmkId": "3033383",
-  "productGroupId": "514186",
+  "onPromo": "3033603",
+  "mmkId": "3033603",
+  "productGroupId": "511966",
   "brandType": "A of B merk",
-  "discount": "€ 15,00",
+  "discount": "",
   "url": "/loreal-paris-revitalift-clinical-spf50-vitamine-c-anti-uv-fluid/p/5780689",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/he4/hbf/35138287763486/prd-front-5780689-1_600x600/prd-front-5780689-1-600x600.jpg"
 }

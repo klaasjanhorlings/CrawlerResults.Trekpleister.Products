@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033683",
+  "mmkId": "3033683",
+  "productGroupId": "515715",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-beckmann-super-wit-intensieve-witmaker/p/2234877",
@@ -29,6 +29,5 @@
       "name": "Vlekverwijderaars"
     }
   ],
-  "description": "4 x 40g",
-  "image": "/medias/sys_master/prd-images/h7d/hed/34352081666078/prd-front-2234877-1_600x600/prd-front-2234877-1-600x600.jpg"
+  "description": "4 x 40g"
 }

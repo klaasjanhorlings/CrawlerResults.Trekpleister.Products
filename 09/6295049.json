@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/goodal-vita-c-cleansing-foam/p/6295049",
@@ -37,5 +37,6 @@
       "name": "Reinigingsmousse"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf6/h33/34111315345438/prd-front-6295049-1_600x600/prd-front-6295049-1-600x600.jpg"
 }

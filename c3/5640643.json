@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3033452",
-  "mmkId": "3033452",
-  "productGroupId": "510353",
+  "onPromo": "3033567",
+  "mmkId": "3033567",
+  "productGroupId": "510381",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-zero-extra-control-48h-deodorant-roller/p/5640643",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml - Normale huid"
+  "description": "50ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h77/h11/31823727722526/prd-front-5640643-1_600x600/prd-front-5640643-1-600x600.jpg"
 }

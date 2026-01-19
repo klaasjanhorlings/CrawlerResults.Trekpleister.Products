@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "No Bleach London Cherry Red Permanent Vegan Dye Kit",
   "code": "6316168",
-  "price": "23.0",
-  "priceOriginal": "",
+  "price": "17.25",
+  "priceOriginal": "23.0",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "BLEACH PRODUCTS LIMITED",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033711",
+  "mmkId": "3033711",
+  "productGroupId": "524019",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,75",
   "url": "/no-bleach-london-cherry-red-permanent-vegan-dye-kit/p/6316168",
   "listName": "Lister",
   "brand": "BLEACH LONDON",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h99/hcb/34840017764382/prd-front-6316168-1_600x600/prd-front-6316168-1-600x600.jpg"
+  "description": ""
 }

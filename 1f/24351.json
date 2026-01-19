@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3033371",
-  "mmkId": "3033371",
-  "productGroupId": "513285",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davitamon-b-complex-forte-dragees/p/24351",
@@ -37,5 +37,6 @@
       "name": "Vitamine B"
     }
   ],
-  "description": "100 stuks"
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h4f/h0a/33359580758046/prd-front-24351-1_600x600/prd-front-24351-1-600x600.jpg"
 }

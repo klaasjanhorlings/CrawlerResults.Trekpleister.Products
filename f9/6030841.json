@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6441",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3033447",
-  "mmkId": "3033447",
-  "productGroupId": "520769",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-huid-en-schaamhaar-trimmer/p/6030841",
@@ -33,5 +33,6 @@
       "name": "Haartrimmers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf8/h1f/31168146079774/prd-front-6030841-1_600x600/prd-front-6030841-1-600x600.jpg"
 }

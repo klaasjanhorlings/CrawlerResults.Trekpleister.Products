@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6320",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tangle-teezer-the-original-mini-detangling-haarborstel/p/5416349",
@@ -33,5 +33,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "lichtroze"
+  "description": "lichtroze",
+  "image": "/medias/sys_master/prd-images/hdb/hec/31295063097374/prd-front-5416349-1_600x600/prd-front-5416349-1-600x600.jpg"
 }
