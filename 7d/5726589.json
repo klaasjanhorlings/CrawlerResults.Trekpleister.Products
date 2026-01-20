@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yeauty Beauty Boost Eye Pad Mask",
+  "code": "5726589",
+  "price": "1.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/yeauty-beauty-boost-eye-pad-mask/p/5726589",
+  "listName": "Lister",
+  "brand": "Yeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/prd-front-5726589-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTEwODh8aW1hZ2UvanBlZ3xhRFJtTDJnd05DOHhOelEwTkRZMU5UWTVNemcxTkM5d2NtUXRabkp2Ym5RdE5UY3lOalU0T1MweFh6WXdNSGcyTURBfDVlODBhOGYzNjE4OThlOGE3ODEzOTE1MGE4ODkzNzkwOTAxYmUwMDYxNGUyNzJjYTUxZTgzN2FlZGE4OGU1ZTM"
+}

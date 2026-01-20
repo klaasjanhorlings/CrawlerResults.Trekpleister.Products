@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Finish Powerball All-In-1 Vaatwastabletten",
+  "code": "5651304",
+  "price": "27.99",
+  "priceOriginal": "79.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 52,00",
+  "url": "/finish-powerball-all-in-1-vaatwastabletten/p/5651304",
+  "listName": "Lister",
+  "brand": "Finish",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267114,
+      "name": "Vaatwas"
+    },
+    {
+      "id": 30267439,
+      "name": "Vaatwastabletten"
+    }
+  ],
+  "description": "2 x 100 stuks",
+  "image": "/medias/sys_master/prd-images/h83/h6c/31764793491486/prd-front-5651304-1_600x600/prd-front-5651304-1-600x600.jpg"
+}

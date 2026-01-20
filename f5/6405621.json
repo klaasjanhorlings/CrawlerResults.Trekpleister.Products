@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Aroma Rood Snelfilterkoffie",
+  "code": "6405621",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2810 > 3551",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "3033361",
+  "mmkId": "3033361",
+  "productGroupId": "513005",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/douwe-egberts-aroma-rood-snelfilterkoffie/p/6405621",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267443,
+      "name": "Koffie"
+    },
+    {
+      "id": 113108424,
+      "name": "Filterkoffie"
+    }
+  ],
+  "description": "2 x 225g"
+}

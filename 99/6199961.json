@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cosrx Ultimate Nourishing Rice Overnight Spa Mask",
+  "code": "6199961",
+  "price": "21.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "inStock",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cosrx-ultimate-nourishing-rice-overnight-spa-mask/p/6199961",
+  "listName": "Lister",
+  "brand": "COSRX",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/hb6/h68/32224279527454/prd-front-6199961-1_600x600/prd-front-6199961-1-600x600.jpg"
+}

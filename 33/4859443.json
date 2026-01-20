@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Sensitive SPF30 Dagcrème",
+  "code": "4859443",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-sensitive-spf30-dagcreme/p/4859443",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h15/h9a/34455313055774/prd-front-4859443-1_600x600/prd-front-4859443-1-600x600.jpg"
+}

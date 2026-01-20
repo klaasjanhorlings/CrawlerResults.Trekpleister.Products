@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Prodent Kids 0-6 Jaar Tandpasta",
   "code": "6070062",
-  "price": "3.19",
+  "price": "3.29",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3532",
   "supplier": "UNILEVER NEDERLAND BV",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h4b/h7c/45627559018526/temp-prd-front-6070062-1_600x600/temp-prd-front-6070062-1-600x600.jpg"
+  "description": "75ml"
 }
