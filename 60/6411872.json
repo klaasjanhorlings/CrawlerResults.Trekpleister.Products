@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence The Jeans Club Headband",
+  "code": "6411872",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-the-jeans-club-headband/p/6411872",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267044,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30267184,
+      "name": "Haarbanden"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcb/h0f/45112883019806/prd-front-6411872-1_600x600/prd-front-6411872-1-600x600.jpg"
+}

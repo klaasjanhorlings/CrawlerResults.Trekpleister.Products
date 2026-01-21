@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Joop! Homme Eau de Toilette",
+  "code": "5427738",
+  "price": "35.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "SAR TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/joop-homme-eau-de-toilette/p/5427738",
+  "listName": "Lister",
+  "brand": "Joop!",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h2a/ha6/31057667620894/prd-front-5427738-1_600x600/prd-front-5427738-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Narciso Rodriguez For Her Eau de Toilette",
+  "code": "4151876",
+  "price": "39.99",
+  "priceOriginal": "50.21",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
+  "brandType": "A of B merk",
+  "discount": "€ 10,22",
+  "url": "/narciso-rodriguez-for-her-eau-de-toilette/p/4151876",
+  "listName": "Lister",
+  "brand": "Narciso",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h9d/h92/31057646321694/prd-front-4151876-1_600x600/prd-front-4151876-1-600x600.jpg"
+}

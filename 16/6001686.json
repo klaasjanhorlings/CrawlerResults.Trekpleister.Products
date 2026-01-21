@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Blush Affair 010 Pink Feelings Liquid Blush",
+  "code": "6001686",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-blush-affair-010-pink-feelings-liquid-blush/p/6001686",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267147,
+      "name": "Blush"
+    }
+  ],
+  "description": "10,5ml",
+  "image": "/medias/sys_master/prd-images/ha1/hd8/29953325695006/prd-front-6001686-1_600x600/prd-front-6001686-1-600x600.jpg"
+}

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Volume Hair Plus Donker Bruin Verdikkende Hairspray",
+  "itemName": "Volume Hair Plus Donker Bruin Verdikkende Haarspray",
   "code": "2499890",
   "price": "17.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/volume-hair-plus-donker-bruin-verdikkende-hairspray/p/2499890",
+  "url": "/volume-hair-plus-donker-bruin-verdikkende-haarspray/p/2499890",
   "listName": "Lister",
   "brand": "Volume hair",
   "mpOrigin": "Kruidvat",
@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267041,
-      "name": "Haarverf"
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267492,
+      "name": "Haarlak"
     }
   ],
   "description": "150ml",

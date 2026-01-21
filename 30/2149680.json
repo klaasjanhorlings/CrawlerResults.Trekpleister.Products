@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Proset Classic Mega Strong Hairspray Mini",
+  "itemName": "Proset Classic Mega Strong Mini-Haarspray",
   "code": "2149680",
   "price": "1.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "516941",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/proset-classic-mega-strong-hairspray-mini/p/2149680",
+  "url": "/proset-classic-mega-strong-mini-haarspray/p/2149680",
   "listName": "Lister",
   "brand": "Proset",
   "mpOrigin": "Kruidvat",
@@ -25,8 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 91613031,
-      "name": "Mini reisverpakkingen"
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267492,
+      "name": "Haarlak"
     }
   ],
   "description": "50ml",
