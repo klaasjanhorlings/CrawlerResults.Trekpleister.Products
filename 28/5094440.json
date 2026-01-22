@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "NEW VALMAR BV",
   "inStock": "outOfStock",
-  "onPromo": "3033693",
-  "mmkId": "3033693",
-  "productGroupId": "516435",
+  "onPromo": "3033736",
+  "mmkId": "3033736",
+  "productGroupId": "516909",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nuby-flip-it-beker/p/5094440",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "roze, 360ml"
+  "description": "roze, 360ml",
+  "image": "/medias/prd-front-5094440-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA4MDF8aW1hZ2UvanBlZ3xhREprTDJoaU55OHhOelF5TURRMk1qUTRPVFl6TUM5d2NtUXRabkp2Ym5RdE5UQTVORFEwTUMweFh6WXdNSGcyTURBfGM0Nzg2MmQ5NGZkNTE0ZjY4N2E1NTIwZGI0MDVmMzAzNTJkYTczNmU1MWViNTgyZjk0MjBlZTA0Y2NkNjIxNjU"
 }

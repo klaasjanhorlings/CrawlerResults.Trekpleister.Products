@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Flora & Curl Rose Water Cream Shampoo",
-  "code": "6243571",
-  "price": "17.99",
+  "itemName": "Bleach London Pearlescent Purple Shampoo",
+  "code": "6426376",
+  "price": "11.5",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
-  "supplier": "REBRO COSMETICS BV",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
+  "supplier": "BLEACH PRODUCTS LIMITED",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/flora-curl-rose-water-cream-shampoo/p/6243571",
+  "url": "/bleach-london-pearlescent-purple-shampoo/p/6426376",
   "listName": "Lister",
-  "brand": "Flora & Curl",
+  "brand": "BLEACH LONDON",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/hc0/haa/33103503851550/prd-front-6243571-1_600x600/prd-front-6243571-1-600x600.jpg"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hf9/h67/45215355666462/prd-front-6426376-1_600x600/prd-front-6426376-1-600x600.jpg"
 }
