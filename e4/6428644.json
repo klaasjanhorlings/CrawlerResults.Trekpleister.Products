@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Gabby's Poppenhuis 11215 Gabby’s Bouwbare Kattenvriendjes",
+  "code": "6428644",
+  "price": "45.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-gabbys-poppenhuis-11215-gabbys-bouwbare-kattenvriendjes/p/6428644",
+  "listName": "Lister",
+  "brand": "LEGO Gabby's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69049055,
+      "name": "LEGO Gabby’s Dollhouse"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/haa/h38/45707137482782/temp-prd-front-6428644-1_600x600/temp-prd-front-6428644-1-600x600.jpg"
+}

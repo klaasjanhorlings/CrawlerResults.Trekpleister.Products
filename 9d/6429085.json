@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO The Botanical Collection 11504 Lepelplant",
+  "code": "6429085",
+  "price": "54.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-the-botanical-collection-11504-lepelplant/p/6429085",
+  "listName": "Lister",
+  "brand": "LEGO Botanicals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69044050,
+      "name": "LEGO Bloemen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h47/hae/45718048178206/temp-prd-front-6429085-1_600x600/temp-prd-front-6429085-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "ELF BEAUTY UK LIMITED",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033699",
   "mmkId": "3033699",
   "productGroupId": "516941",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "6,3ml"
+  "description": "6,3ml",
+  "image": "/medias/sys_master/prd-images/h14/he5/45200117104670/prd-front-6415120-1_600x600/prd-front-6415120-1-600x600.jpg"
 }

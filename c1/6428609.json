@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Disney 43286 De Aristokatten: Schattige Marie",
+  "code": "6428609",
+  "price": "36.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-disney-43286-de-aristokatten-schattige-marie/p/6428609",
+  "listName": "Lister",
+  "brand": "LEGO Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267377,
+      "name": "LEGO Disney"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1a/h11/45708629409822/temp-prd-front-6428609-1_600x600/temp-prd-front-6428609-1-600x600.jpg"
+}

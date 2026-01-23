@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Harry Potter 76470 Betoverde Vliegende Ford Anglia",
+  "code": "6428651",
+  "price": "74.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-harry-potter-76470-betoverde-vliegende-ford-anglia/p/6428651",
+  "listName": "Lister",
+  "brand": "LEGO Harry Potter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267373,
+      "name": "LEGO Harry Potter"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf8/h4d/45707085512734/temp-prd-front-6428651-1_600x600/temp-prd-front-6428651-1-600x600.jpg"
+}

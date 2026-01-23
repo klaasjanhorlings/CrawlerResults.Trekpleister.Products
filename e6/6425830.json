@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Marvel 76335 Spider-Man vs. Ghost Rider Motor",
+  "code": "6425830",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-marvel-76335-spider-man-vs-ghost-rider-motor/p/6425830",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69038863,
+      "name": "LEGO Superhelden"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/had/hca/45710163345438/temp-prd-front-6425830-1_600x600/temp-prd-front-6425830-1-600x600.jpg"
+}

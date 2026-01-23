@@ -33,9 +33,10 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267553,
-      "name": "Kindervitamines"
+      "id": 30267550,
+      "name": "Vitamine D"
     }
   ],
-  "description": "25ml"
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/haa/hb3/44937754411038/prd-front-1692650-1_600x600/prd-front-1692650-1-600x600.jpg"
 }

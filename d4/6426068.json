@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Harry Potter 76459 Hagrid en Harry's Ligusterlaan Ontsnapping",
+  "code": "6426068",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-harry-potter-76459-hagrid-en-harrys-ligusterlaan-ontsnapping/p/6426068",
+  "listName": "Lister",
+  "brand": "LEGO Harry Potter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267373,
+      "name": "LEGO Harry Potter"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h18/hfb/45712208789534/temp-prd-front-6426068-1_600x600/temp-prd-front-6426068-1-600x600.jpg"
+}

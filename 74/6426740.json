@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Voetbadbruistabletten",
+  "code": "6426740",
+  "price": "3.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2914 > 3708 > 6784",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-voetbadbruistabletten/p/6426740",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 101932115,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 49314254,
+      "name": "Voetbad"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/sys_master/prd-images/h58/h38/45026187018270/prd-front-6426740-1_600x600/prd-front-6426740-1-600x600.jpg"
+}

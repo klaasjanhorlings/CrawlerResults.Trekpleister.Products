@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Friends 42687 Lianns Huis",
+  "code": "6428616",
+  "price": "64.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-friends-42687-lianns-huis/p/6428616",
+  "listName": "Lister",
+  "brand": "LEGO Friends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267371,
+      "name": "LEGO Friends"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1b/hc7/45713694818334/temp-prd-front-6428616-1_600x600/temp-prd-front-6428616-1-600x600.jpg"
+}

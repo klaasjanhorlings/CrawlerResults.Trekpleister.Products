@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Nutrilon 3 Opvolgmelk Baby Flesvoeding 10-12 maanden",
   "code": "4441403",
-  "price": "17.99",
+  "price": "18.49",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
@@ -37,6 +37,5 @@
       "name": "Opvolgmelk"
     }
   ],
-  "description": "800g",
-  "image": "/medias/sys_master/prd-images/h8a/h39/33884467036190/prd-front-4441403-1_600x600/prd-front-4441403-1-600x600.jpg"
+  "description": "800g"
 }

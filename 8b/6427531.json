@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO The Botanical Collection 11501 Boeket met Tulpen",
+  "code": "6427531",
+  "price": "54.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-the-botanical-collection-11501-boeket-met-tulpen/p/6427531",
+  "listName": "Lister",
+  "brand": "LEGO Botanicals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69044050,
+      "name": "LEGO Bloemen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4d/hb8/45712220323870/temp-prd-front-6427531-1_600x600/temp-prd-front-6427531-1-600x600.jpg"
+}

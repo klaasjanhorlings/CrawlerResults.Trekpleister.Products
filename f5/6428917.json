@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO One Piece 75639 Het Piratenschip Going Merry",
+  "code": "6428917",
+  "price": "119.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-one-piece-75639-het-piratenschip-going-merry/p/6428917",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69041468,
+      "name": "LEGO Films"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h64/ha7/45715436634142/temp-prd-front-6428917-1_600x600/temp-prd-front-6428917-1-600x600.jpg"
+}

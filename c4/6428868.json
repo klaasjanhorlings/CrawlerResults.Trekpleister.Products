@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Technic 42223 1966 Ford GT40 MKII Racewagen",
+  "code": "6428868",
+  "price": "69.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-technic-42223-1966-ford-gt40-mkii-racewagen/p/6428868",
+  "listName": "Lister",
+  "brand": "LEGO Technic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267381,
+      "name": "LEGO Technic"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfd/h30/45707145347102/temp-prd-front-6428868-1_600x600/temp-prd-front-6428868-1-600x600.jpg"
+}

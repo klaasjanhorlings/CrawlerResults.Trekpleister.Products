@@ -6,7 +6,7 @@
   "price": "20.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
-  "supplier": "MAYBELLINE MAKE-UP",
+  "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
   "onPromo": "3033640",
   "mmkId": "3033640",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "10ml, Gezien op TikTok"
+  "description": "10ml, Gezien op TikTok",
+  "image": "/medias/sys_master/prd-images/ha5/h5c/44843897094174/prd-front-5805749-1_600x600/prd-front-5805749-1-600x600.jpg"
 }

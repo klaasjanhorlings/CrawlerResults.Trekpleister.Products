@@ -21,21 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30267262,
-      "name": "Luchtwegen"
-    },
-    {
-      "id": 30267520,
-      "name": "Keelpastilles"
+      "id": 75860503,
+      "name": "Baby en Kind gezondheid"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks"
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/hff/h0b/34732568641566/prd-front-4213952-1_600x600/prd-front-4213952-1-600x600.jpg"
 }

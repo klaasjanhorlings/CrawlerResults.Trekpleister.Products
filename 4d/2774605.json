@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Nutrilon Omneo 1 Baby Dieetvoeding 0-6 Maanden",
   "code": "2774605",
-  "price": "22.89",
+  "price": "23.59",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
@@ -33,6 +33,5 @@
       "name": "Zuigelingenvoeding"
     }
   ],
-  "description": "800g",
-  "image": "/medias/sys_master/prd-images/h01/h99/33884452487198/prd-front-2774605-1_600x600/prd-front-2774605-1-600x600.jpg"
+  "description": "800g"
 }

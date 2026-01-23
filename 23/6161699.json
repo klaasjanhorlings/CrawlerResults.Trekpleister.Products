@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033584",
   "mmkId": "3033584",
   "productGroupId": "511312",
@@ -29,13 +29,10 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267548,
-      "name": "Vitamine B"
+      "id": 49793128,
+      "name": "Omega 3"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hc7/hfe/31696241524766/prd-front-6161699-1_600x600/prd-front-6161699-1-600x600.jpg"
 }
