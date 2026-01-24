@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Blush Crush 50 Pink Pop Blush",
-  "code": "6017485",
-  "price": "2.69",
+  "itemName": "Essence Magic All in One Cream",
+  "code": "5608576",
+  "price": "3.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "outOfStock",
   "onPromo": "3033699",
@@ -13,7 +13,7 @@
   "productGroupId": "516941",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-blush-crush-50-pink-pop-blush/p/6017485",
+  "url": "/essence-magic-all-in-one-cream/p/5608576",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267136,
+      "name": "Primer"
     }
   ],
-  "description": "5g",
-  "image": "/medias/sys_master/prd-images/hc5/hf4/45077596536862/prd-front-6017485-1_600x600/prd-front-6017485-1-600x600.jpg"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/had/h11/45056293371934/prd-front-5608576-1_600x600/prd-front-5608576-1-600x600.jpg"
 }
