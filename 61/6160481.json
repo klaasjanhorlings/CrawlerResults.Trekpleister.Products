@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6202 > 6220 > 6278",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033584",
   "mmkId": "3033584",
   "productGroupId": "511312",
@@ -33,5 +33,6 @@
       "name": "Overige supplementen"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h33/h5d/31700207403038/prd-front-6160481-1_600x600/prd-front-6160481-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Belgian Harvest Chocolate Hearts",
+  "code": "3648919",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2751 > 3463",
+  "supplier": "BELGIAN CHOCOLATE GROUP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/belgian-harvest-chocolate-hearts/p/3648919",
+  "listName": "Lister",
+  "brand": "Belgian",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267585,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107467253,
+      "name": "Bonbons en pralines"
+    }
+  ],
+  "description": "400g",
+  "image": "/medias/sys_master/prd-images/ha4/h38/45665711816734/temp-prd-front-3648919-1_600x600/temp-prd-front-3648919-1-600x600.jpg"
+}

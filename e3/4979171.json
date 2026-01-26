@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Barbie Pop met Accessoires",
+  "code": "4979171",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2183 > 4933 > 4980 > 5026",
+  "supplier": "HERMANEX INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/barbie-pop-met-accessoires/p/4979171",
+  "listName": "Lister",
+  "brand": "Barbie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267080,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9f/hb6/44919454203934/prd-front-4979171-1_600x600/prd-front-4979171-1-600x600.jpg"
+}

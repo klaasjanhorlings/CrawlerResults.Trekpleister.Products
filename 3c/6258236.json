@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Nestlé Little Steps 2 6+ Maanden Standaard Opvolgmelk",
   "code": "6258236",
-  "price": "9.99",
-  "priceOriginal": "13.49",
+  "price": "13.49",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
   "supplier": "NESTLE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033739",
-  "mmkId": "3033739",
-  "productGroupId": "517147",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,50",
+  "discount": "",
   "url": "/nestle-little-steps-2-6-maanden-standaard-opvolgmelk/p/6258236",
   "listName": "Lister",
   "brand": "Nestle",
@@ -37,6 +37,5 @@
       "name": "Opvolgmelk"
     }
   ],
-  "description": "800g",
-  "image": "/medias/sys_master/prd-images/h8f/h41/35082386309150/prd-front-6258236-1_600x600/prd-front-6258236-1-600x600.jpg"
+  "description": "800g"
 }

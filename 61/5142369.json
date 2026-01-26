@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
   "supplier": "MAE PHARMA BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3033764",
+  "mmkId": "3033764",
+  "productGroupId": "515754",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-menthol-zoutoplossing-neusspray/p/5142369",
@@ -37,5 +37,6 @@
       "name": "Neusdruppels"
     }
   ],
-  "description": "Medisch hulpmiddel - 15ml"
+  "description": "Medisch hulpmiddel - 15ml",
+  "image": "/medias/sys_master/prd-images/ha6/h5b/34800214867998/prd-front-5142369-1_600x600/prd-front-5142369-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3033737",
-  "mmkId": "3033737",
-  "productGroupId": "517031",
+  "onPromo": "3033624",
+  "mmkId": "3033624",
+  "productGroupId": "513173",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-nutrisse-ultra-color-660-vurig-rood-permanente-haarkleuring/p/2145592",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5a/he2/31776267894814/prd-front-2145592-1_600x600/prd-front-2145592-1-600x600.jpg"
 }

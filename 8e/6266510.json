@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Schwarzkopf Creme Supreme 4-0 Natuurlijk Donkerbruin Verzorgende Crèmekleuring",
   "code": "6266510",
-  "price": "20.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "20.99",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3033737",
-  "mmkId": "3033737",
-  "productGroupId": "517031",
+  "onPromo": "3033636",
+  "mmkId": "3033636",
+  "productGroupId": "513731",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,00",
   "url": "/schwarzkopf-creme-supreme-4-0-natuurlijk-donkerbruin-verzorgende-cremekleuring/p/6266510",
   "listName": "Lister",
   "brand": "Schwarzkopf creme supreme",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "182g",
-  "image": "/medias/sys_master/prd-images/hbf/hdb/45941709275166/temp-prd-front-6266510-1_600x600/temp-prd-front-6266510-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he0/h49/45988675026974/temp-prd-front-6266510-1_600x600/temp-prd-front-6266510-1-600x600.jpg"
 }

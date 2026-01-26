@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h4d/hc0/45941712093214/temp-prd-front-5605349-1_600x600/temp-prd-front-5605349-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf0/h93/45988677320734/temp-prd-front-5605349-1_600x600/temp-prd-front-5605349-1-600x600.jpg"
 }

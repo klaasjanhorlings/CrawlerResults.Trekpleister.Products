@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Schwarzkopf Creme Supreme 7-57 Donker Koperblond Verzorgende Crèmekleuring",
   "code": "6263878",
-  "price": "20.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "20.99",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3033737",
-  "mmkId": "3033737",
-  "productGroupId": "517031",
+  "onPromo": "3033636",
+  "mmkId": "3033636",
+  "productGroupId": "513731",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,00",
   "url": "/schwarzkopf-creme-supreme-7-57-donker-koperblond-verzorgende-cremekleuring/p/6263878",
   "listName": "Lister",
   "brand": "Schwarzkopf creme supreme",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "182g",
-  "image": "/medias/sys_master/prd-images/h5d/hbd/45916603187230/temp-prd-front-6263878-1_600x600/temp-prd-front-6263878-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf6/hc1/45964282560542/temp-prd-front-6263878-1_600x600/temp-prd-front-6263878-1-600x600.jpg"
 }

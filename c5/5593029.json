@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3033 > 3886",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3033727",
-  "mmkId": "3033727",
-  "productGroupId": "512719",
+  "onPromo": "3033620",
+  "mmkId": "3033620",
+  "productGroupId": "512709",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-maat-3-midi-valuepack-luiers/p/5593029",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 3"
     }
   ],
-  "description": "64 stuks",
-  "image": "/medias/sys_master/prd-images/hef/h0c/28579307061278/prd-front-5593029-1_600x600/prd-front-5593029-1-600x600.jpg"
+  "description": "64 stuks"
 }

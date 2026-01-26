@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Men+Care Refreshing Extra Fresh Douchegel",
+  "code": "6070951",
+  "price": "5.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "3033761",
+  "mmkId": "3033761",
+  "productGroupId": "514846",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-mencare-refreshing-extra-fresh-douchegel/p/6070951",
+  "listName": "Lister",
+  "brand": "Dove Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "700ml",
+  "image": "/medias/sys_master/prd-images/h72/hb4/44859119796254/prd-front-6070951-1_600x600/prd-front-6070951-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "3033736",
-  "mmkId": "3033736",
-  "productGroupId": "516909",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-handgreepfles/p/5751607",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "oranje, 240ml"
+  "description": "oranje, 240ml",
+  "image": "/medias/prd-front-5751607-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDMyNTZ8aW1hZ2UvanBlZ3xhRGd6TDJnM05TOHhOamd4TmpRNU1ETXhOVGd3Tmk5d2NtUXRabkp2Ym5RdE5UYzFNVFl3TnkweFh6WXdNSGcyTURBfDBjNzIzMmRlYjMyOGNkYzdiYjA2ZTU3ZjZlZjNmMDJjNmJkNjY1Zjg1ZWZlN2U5Y2VlZWQxZDQ2NWMzODNlZjg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Merci Finest Selection Luxe Geschenkdoos",
   "code": "23798",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "7.99",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
   "supplier": "STORCK BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033750",
+  "mmkId": "3033750",
+  "productGroupId": "508084",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,00",
   "url": "/merci-finest-selection-luxe-geschenkdoos/p/23798",
   "listName": "Lister",
   "brand": "Merci",
@@ -37,5 +37,6 @@
       "name": "Chocoladegeschenken"
     }
   ],
-  "description": "400g"
+  "description": "400g",
+  "image": "/medias/sys_master/prd-images/hf4/h47/45042330075166/prd-front-23798-1_600x600/prd-front-23798-1-600x600.jpg"
 }
