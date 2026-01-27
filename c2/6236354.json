@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033593",
   "mmkId": "3033593",
   "productGroupId": "511671",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h16/h39/33848090886174/prd-front-6236354-1_600x600/prd-front-6236354-1-600x600.jpg"
 }

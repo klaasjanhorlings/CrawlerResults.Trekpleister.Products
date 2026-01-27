@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Paco Rabanne Invictus Eau de Toilette",
+  "code": "5758845",
+  "price": "99.99",
+  "priceOriginal": "130.0",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
+  "brandType": "A of B merk",
+  "discount": "€ 30,01",
+  "url": "/paco-rabanne-invictus-eau-de-toilette/p/5758845",
+  "listName": "Lister",
+  "brand": "Paco Rabanne",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h91/h29/30975647285278/prd-front-5758845-1_600x600/prd-front-5758845-1-600x600.jpg"
+}
