@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Skincyclopedia 2% Salicylic Acid Tea Tree Gezichtsserum",
+  "code": "5933541",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "3033699",
+  "mmkId": "3033699",
+  "productGroupId": "516941",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/skincyclopedia-2-salicylic-acid-tea-tree-gezichtsserum/p/5933541",
+  "listName": "Lister",
+  "brand": "SKINCYCLOPEDIA",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h36/h37/29833714991134/prd-front-5933541-1_600x600/prd-front-5933541-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "9.95",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 4100",
   "supplier": "SALVEO PHARMA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033533",
   "mmkId": "3033533",
   "productGroupId": "505953",
@@ -33,5 +33,6 @@
       "name": "Neuszalf"
     }
   ],
-  "description": "Medisch hulpmiddel - 10g"
+  "description": "Medisch hulpmiddel - 10g",
+  "image": "/medias/sys_master/prd-images/h68/h66/28630953525278/prd-front-4133109-1_600x600/prd-front-4133109-1-600x600.jpg"
 }
