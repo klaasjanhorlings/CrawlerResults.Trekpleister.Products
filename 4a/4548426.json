@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
   "supplier": "BEIERSDORF NV BL",
   "inStock": "inStock",
-  "onPromo": "3033586",
-  "mmkId": "3033586",
-  "productGroupId": "511471",
+  "onPromo": "3033779",
+  "mmkId": "3033779",
+  "productGroupId": "513223",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-3-in-1-verzachtende-reinigingsdoekjes/p/4548426",
@@ -37,5 +37,6 @@
       "name": "Reinigingsdoekjes"
     }
   ],
-  "description": "40 stuks"
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/h26/hff/44588369281054/prd-front-4548426-1_600x600/prd-front-4548426-1-600x600.jpg"
 }

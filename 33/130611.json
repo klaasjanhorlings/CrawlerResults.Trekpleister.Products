@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Biodermal P-CL-E Crème",
   "code": "130611",
-  "price": "55.99",
-  "priceOriginal": "",
+  "price": "22.4",
+  "priceOriginal": "55.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3033763",
-  "mmkId": "3033763",
-  "productGroupId": "515625",
+  "onPromo": "3033784",
+  "mmkId": "3033784",
+  "productGroupId": "515502",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 33,59",
   "url": "/biodermal-p-cl-e-creme/p/130611",
   "listName": "Lister",
   "brand": "Biodermal",
@@ -29,8 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30267159,
-      "name": "Dagcreme"
+      "id": 30267160,
+      "name": "Nachtcreme"
     }
   ],
   "description": "100ml - Droge huid",

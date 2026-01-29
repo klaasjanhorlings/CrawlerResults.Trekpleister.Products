@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Biodermal Pigment SPF50 Dagcrème",
   "code": "6021811",
-  "price": "19.99",
+  "price": "16.0",
   "priceOriginal": "39.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3033629",
-  "mmkId": "3033629",
-  "productGroupId": "513247",
+  "onPromo": "3033784",
+  "mmkId": "3033784",
+  "productGroupId": "515502",
   "brandType": "A of B merk",
-  "discount": "€ 20,00",
+  "discount": "€ 23,99",
   "url": "/biodermal-pigment-spf50-dagcreme/p/6021811",
   "listName": "Lister",
   "brand": "Biodermal",
@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30267159,
-      "name": "Dagcreme"
+      "id": 51216437,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 55926790,
+      "name": "Pigmentverzorging"
     }
   ],
   "description": "50ml",

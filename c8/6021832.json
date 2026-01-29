@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Biodermal Pigment Nachtcrème",
   "code": "6021832",
-  "price": "19.99",
+  "price": "16.0",
   "priceOriginal": "39.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3033629",
-  "mmkId": "3033629",
-  "productGroupId": "513247",
+  "onPromo": "3033784",
+  "mmkId": "3033784",
+  "productGroupId": "515502",
   "brandType": "A of B merk",
-  "discount": "€ 20,00",
+  "discount": "€ 23,99",
   "url": "/biodermal-pigment-nachtcreme/p/6021832",
   "listName": "Lister",
   "brand": "Biodermal",
@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30267160,
-      "name": "Nachtcreme"
+      "id": 51216437,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 55926790,
+      "name": "Pigmentverzorging"
     }
   ],
   "description": "50ml",

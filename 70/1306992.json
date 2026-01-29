@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Vital Anti-Rimpel Herstellende Nachtcrème",
   "code": "1306992",
-  "price": "22.99",
-  "priceOriginal": "",
+  "price": "9.2",
+  "priceOriginal": "22.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3033586",
-  "mmkId": "3033586",
-  "productGroupId": "511471",
+  "onPromo": "3033784",
+  "mmkId": "3033784",
+  "productGroupId": "515502",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 13,79",
   "url": "/nivea-vital-anti-rimpel-herstellende-nachtcreme/p/1306992",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Rijpe en droge huid"
+  "description": "50ml - Rijpe en droge huid",
+  "image": "/medias/sys_master/prd-images/h1c/h47/45051589754910/prd-front-1306992-1_600x600/prd-front-1306992-1-600x600.jpg"
 }

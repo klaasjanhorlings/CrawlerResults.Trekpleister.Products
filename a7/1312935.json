@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Vital Anti-Rimpel 65+ Versterkende Dagcrème",
   "code": "1312935",
-  "price": "18.49",
-  "priceOriginal": "",
+  "price": "7.4",
+  "priceOriginal": "18.49",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV BL",
   "inStock": "inStock",
-  "onPromo": "3033586",
-  "mmkId": "3033586",
-  "productGroupId": "511471",
+  "onPromo": "3033784",
+  "mmkId": "3033784",
+  "productGroupId": "515502",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,09",
   "url": "/nivea-vital-anti-rimpel-65-versterkende-dagcreme/p/1312935",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hab/h82/45052600254494/prd-front-1312935-1_600x600/prd-front-1312935-1-600x600.jpg"
 }

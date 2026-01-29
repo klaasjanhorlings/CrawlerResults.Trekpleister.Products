@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 3775",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267059,
-      "name": "Wondverzorging"
-    },
-    {
-      "id": 30267296,
-      "name": "Pleisters"
-    },
-    {
-      "id": 73414173,
-      "name": "Kinderpleisters"
+      "id": 75860503,
+      "name": "Baby en Kind gezondheid"
     }
   ],
   "description": "Medisch hulpmiddel - 20 stuks",

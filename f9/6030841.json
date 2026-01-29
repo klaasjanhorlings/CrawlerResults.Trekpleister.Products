@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6441",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h09/h09/46037498888222/temp-prd-front-6030841-1_600x600/temp-prd-front-6030841-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h97/h15/46083281551390/temp-prd-front-6030841-1_600x600/temp-prd-front-6030841-1-600x600.jpg"
 }

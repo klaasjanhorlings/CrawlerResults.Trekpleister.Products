@@ -33,9 +33,10 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267553,
-      "name": "Kindervitamines"
+      "id": 30267552,
+      "name": "Multivitamines"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/ha7/h38/33359991472158/prd-front-428568-1_600x600/prd-front-428568-1-600x600.jpg"
 }

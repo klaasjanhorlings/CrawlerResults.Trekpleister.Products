@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4163",
   "supplier": "EUROFOUR BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Vochtig toiletpapier"
     }
   ],
-  "description": "50 stuks"
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/h07/h91/28579078012958/prd-front-5555257-1_600x600/prd-front-5555257-1-600x600.jpg"
 }
