@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "NEW VALMAR BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033693",
   "mmkId": "3033693",
   "productGroupId": "516435",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h40/he3/32354329919518/prd-front-6143310-1_600x600/prd-front-6143310-1-600x600.jpg"
 }

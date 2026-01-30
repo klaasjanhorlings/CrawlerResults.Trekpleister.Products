@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Infaillible 24H Power Glow Universal Loose Powder",
+  "code": "6427797",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "3033603",
+  "mmkId": "3033603",
+  "productGroupId": "511966",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-infaillible-24h-power-glow-universal-loose-powder/p/6427797",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267144,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hec/h7d/46141013491742/temp-prd-front-6427797-1_600x600/temp-prd-front-6427797-1-600x600.jpg"
+}

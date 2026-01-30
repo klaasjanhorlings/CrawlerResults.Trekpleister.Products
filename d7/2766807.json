@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/calvin-klein-obsession-night-men-eau-de-toilette/p/2766807",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/he7/h7c/30615056515102/prd-front-2766807-1_600x600/prd-front-2766807-1-600x600.jpg"
 }

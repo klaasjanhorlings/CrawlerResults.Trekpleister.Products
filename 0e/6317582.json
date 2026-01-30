@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-fairy-floss-peptide-lip-treatment/p/6317582",
@@ -37,5 +37,6 @@
       "name": "Lip balm"
     }
   ],
-  "description": "15g"
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/hef/h1d/34871383818270/prd-front-6317582-1_600x600/prd-front-6317582-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6410",
   "supplier": "TREFFINA BV",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-tasspiegel/p/5192174",
@@ -33,6 +33,5 @@
       "name": "Make-up spiegels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hba/h9b/28578167193630/prd-front-5192174-1_600x600/prd-front-5192174-1-600x600.jpg"
+  "description": ""
 }

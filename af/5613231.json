@@ -3,14 +3,14 @@
   "currency": "EUR",
   "itemName": "Sensodyne Repair & Protect Deep Repair Mini-Tandpasta",
   "code": "5613231",
-  "price": "1.79",
+  "price": "1.89",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4310 > 4311 > 4312 > 4313 > 4316",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sensodyne-repair-protect-deep-repair-mini-tandpasta/p/5613231",
@@ -29,5 +29,6 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h2e/hb1/44752604004382/prd-front-5613231-1_600x600/prd-front-5613231-1-600x600.jpg"
 }

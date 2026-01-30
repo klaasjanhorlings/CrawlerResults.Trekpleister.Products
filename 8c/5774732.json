@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hermes-h24-eau-de-toilette/p/5774732",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-5774732-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzc2Mjl8aW1hZ2UvanBlZ3xhR1kxTDJobE1TOHhOekV6T0RVM05qRTJNamcwTmk5d2NtUXRabkp2Ym5RdE5UYzNORGN6TWkweFh6WXdNSGcyTURBfDFhY2RkYTNiNTY3NGJkMzk3MzMwMTIwODYzOWM5MjI0ODU3OWYwZDMyZTNmZDI4ZjdmNjdjMTEwMjdjMDhlZDU"
+  "description": "100ml"
 }

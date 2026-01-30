@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mixsoon-mung-bean-seed-essence/p/6304016",
@@ -29,12 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30267165,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30267478,
-      "name": "Reinigingstonic"
+      "id": 30267162,
+      "name": "Serum"
     }
   ],
   "description": "30ml",

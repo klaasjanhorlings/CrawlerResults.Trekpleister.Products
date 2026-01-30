@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-brighten-perfect-medium-125-buff-cream-concealer/p/6317792",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "5,5ml"
+  "description": "5,5ml",
+  "image": "/medias/sys_master/prd-images/h72/h9a/34826358259742/prd-front-6317792-1_600x600/prd-front-6317792-1-600x600.jpg"
 }

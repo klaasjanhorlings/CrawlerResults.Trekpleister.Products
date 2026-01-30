@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice 010 Green, Shift, Go! CC Skin Perfector",
+  "code": "6468628",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-010-green-shift-go-cc-skin-perfector/p/6468628",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267138,
+      "name": "CC cream"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h94/hed/46135959158814/temp-prd-front-6468628-1_600x600/temp-prd-front-6468628-1-600x600.jpg"
+}

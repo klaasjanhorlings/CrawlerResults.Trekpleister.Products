@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Sanex Men Skin Health Sensitive Care Douchegel",
   "code": "6068522",
-  "price": "5.99",
+  "price": "6.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3868",
   "supplier": "COLGATE PALMOLIVE NLD",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml - Gevoelige huid"
+  "description": "400ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hcd/h08/31655384121374/prd-front-6068522-1_600x600/prd-front-6068522-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Telescopic Extensionist Waterproof Mascara",
+  "code": "6427839",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "3033603",
+  "mmkId": "3033603",
+  "productGroupId": "511966",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-telescopic-extensionist-waterproof-mascara/p/6427839",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267133,
+      "name": "Mascara"
+    }
+  ],
+  "description": "9,9ml",
+  "image": "/medias/sys_master/prd-images/hc4/hb1/46140959195166/temp-prd-front-6427839-1_600x600/temp-prd-front-6427839-1-600x600.jpg"
+}

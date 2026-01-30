@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "ORIEN TRADE OU",
   "inStock": "outOfStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/stay-well-98-aloe-soothing-gel/p/6199954",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267050,
-      "name": "Zonbescherming"
+      "id": 30267042,
+      "name": "Skincare"
     },
     {
-      "id": 30267215,
-      "name": "Aftersun"
+      "id": 30267159,
+      "name": "Dagcreme"
     }
   ],
   "description": "55ml",

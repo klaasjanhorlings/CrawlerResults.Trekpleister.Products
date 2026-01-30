@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2714 > 3417",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-baby-kids-spf50-mineral-sunscreen-zonnebrandcreme/p/5806750",
@@ -33,5 +33,6 @@
       "name": "Baby zonnebrand"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hcc/h9a/46135942381598/temp-prd-front-5806750-1_600x600/temp-prd-front-5806750-1-600x600.jpg"
 }

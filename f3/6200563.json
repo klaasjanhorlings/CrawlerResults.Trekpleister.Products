@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/skin1004-madagascar-centella-hyalu-cica-sun-serum/p/6200563",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267050,
-      "name": "Zonbescherming"
+      "id": 30267042,
+      "name": "Skincare"
     },
     {
-      "id": 30267214,
-      "name": "Zonnebrand"
+      "id": 30267159,
+      "name": "Dagcreme"
     }
   ],
   "description": "50ml",

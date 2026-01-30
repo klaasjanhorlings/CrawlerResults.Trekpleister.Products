@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033633",
   "mmkId": "3033633",
   "productGroupId": "513496",
@@ -25,12 +25,8 @@
       "name": "Baby"
     },
     {
-      "id": 30267067,
-      "name": "Babyverzorging"
-    },
-    {
-      "id": 30267338,
-      "name": "Baby vochtige washandjes"
+      "id": 30267069,
+      "name": "Billendoekjes"
     }
   ],
   "description": "20 stuks",

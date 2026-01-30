@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Elmex Sensitivity + Gum Care Tandpasta",
   "code": "6284878",
-  "price": "6.79",
+  "price": "6.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "COLGATE PALMOLIVE NLD",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Gevoelige tanden en tandvlees"
+  "description": "75ml - Gevoelige tanden en tandvlees",
+  "image": "/medias/sys_master/prd-images/h1a/hd1/34152574713886/prd-front-6284878-1_600x600/prd-front-6284878-1-600x600.jpg"
 }

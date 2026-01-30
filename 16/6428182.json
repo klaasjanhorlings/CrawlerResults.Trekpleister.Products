@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Lash Sensational Body Mascara",
+  "code": "6428182",
+  "price": "20.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "3033640",
+  "mmkId": "3033640",
+  "productGroupId": "513897",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-lash-sensational-body-mascara/p/6428182",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267133,
+      "name": "Mascara"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf1/h70/46140969582622/temp-prd-front-6428182-1_600x600/temp-prd-front-6428182-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-lazy-day-all-in-one-serum/p/6344875",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "28ml"
+  "description": "28ml",
+  "image": "/medias/sys_master/prd-images/hff/h14/35007976079390/prd-front-6344875-1_600x600/prd-front-6344875-1-600x600.jpg"
 }

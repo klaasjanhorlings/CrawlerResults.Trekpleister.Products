@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Aura Drop 010 Sparkle Served Lip Elixir",
+  "code": "6384012",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-aura-drop-010-sparkle-served-lip-elixir/p/6384012",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 88118400,
+      "name": "Lip oil"
+    }
+  ],
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h67/ha2/46166582067230/temp-prd-front-6384012-1_600x600/temp-prd-front-6384012-1-600x600.jpg"
+}

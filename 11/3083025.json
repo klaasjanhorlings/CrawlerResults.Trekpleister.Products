@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "MAINSTEIN GMBH",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 25,61",
   "url": "/hugo-boss-bottled-eau-de-toilette/p/3083025",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/ha1/h06/44554810884126/prd-front-3083025-1_600x600/prd-front-3083025-1-600x600.jpg"
+  "description": "200ml"
 }

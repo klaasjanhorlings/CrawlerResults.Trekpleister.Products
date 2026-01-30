@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6765 > 6764",
   "supplier": "HEALTHCARE BRANDS GROUP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dermolin-facewash/p/5807716",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30267042,
-      "name": "Skincare"
-    },
-    {
-      "id": 30267165,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30267474,
-      "name": "Reinigingsgel"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "100ml",

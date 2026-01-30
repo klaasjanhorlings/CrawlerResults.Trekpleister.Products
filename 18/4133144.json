@@ -21,21 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30267262,
-      "name": "Luchtwegen"
-    },
-    {
-      "id": 30267518,
-      "name": "Neusspray"
+      "id": 75860503,
+      "name": "Baby en Kind gezondheid"
     }
   ],
-  "description": "Medisch hulpmiddel - 135ml"
+  "description": "Medisch hulpmiddel - 135ml",
+  "image": "/medias/sys_master/prd-images/h33/h26/34377526083614/prd-front-4133144-1_600x600/prd-front-4133144-1-600x600.jpg"
 }

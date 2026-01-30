@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "ORIEN TRADE OU",
   "inStock": "outOfStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodance-bio-collagen-real-deep-mask/p/6388247",
@@ -33,5 +33,6 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf7/h9f/45031236796446/prd-front-6388247-1_600x600/prd-front-6388247-1-600x600.jpg"
 }

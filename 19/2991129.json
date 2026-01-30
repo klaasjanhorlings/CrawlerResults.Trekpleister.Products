@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/calvin-klein-beauty-eau-de-parfum/p/2991129",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-2991129-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjM1ODJ8aW1hZ2UvanBlZ3xhRGd6TDJoa015OHhOalUzTnpJNE5EY3dNakl6T0M5d2NtUXRabkp2Ym5RdE1qazVNVEV5T1MweFh6WXdNSGcyTURBfGJlZDkzMGFhOWRkN2UxMDhmYTE3ZTJkNmExY2JiZjhlNzZlM2I3MzA1MDE3MzkzZTlmNjMwZGFiOTgxNjVlYWE"
+  "description": "100ml"
 }

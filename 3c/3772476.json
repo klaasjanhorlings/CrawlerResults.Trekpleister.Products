@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 37,81",
   "url": "/calvin-klein-be-eau-de-toilette/p/3772476",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hbc/hcf/28576265666590/prd-front-3772476-1_600x600/prd-front-3772476-1-600x600.jpg"
+  "description": "200ml"
 }

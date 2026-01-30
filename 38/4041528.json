@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Corega Triple Action Dagelijkse Reiniger Tabletten",
   "code": "4041528",
-  "price": "5.29",
+  "price": "7.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "HALEON NETHERLANDS BV",
@@ -33,5 +33,6 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": "Medisch hulpmiddel - 66 stuks"
+  "description": "Medisch hulpmiddel - 66 stuks",
+  "image": "/medias/sys_master/prd-images/hda/h43/33887507218462/prd-front-4041528-1_600x600/prd-front-4041528-1-600x600.jpg"
 }

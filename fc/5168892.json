@@ -21,13 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536625,
-      "name": "Baby"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 75860503,
-      "name": "Baby en Kind gezondheid"
+      "id": 30267058,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30267274,
+      "name": "Weerstand en of energie"
     }
   ],
-  "description": "80 stuks"
+  "description": "80 stuks",
+  "image": "/medias/sys_master/prd-images/hb5/he4/32639249317918/prd-front-5168892-1_600x600/prd-front-5168892-1-600x600.jpg"
 }

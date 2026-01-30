@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "outOfStock",
-  "onPromo": "3033699",
-  "mmkId": "3033699",
-  "productGroupId": "516941",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-fine-fragrance-duo/p/6164212",
@@ -33,5 +33,6 @@
       "name": "Geschenkset voor hem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h28/he3/32030094950430/prd-front-6164212-1_600x600/prd-front-6164212-1-600x600.jpg"
 }
