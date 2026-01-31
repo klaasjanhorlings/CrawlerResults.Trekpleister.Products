@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L Oréal Paris True Match 10.D/10.W Deep Golden Foundation",
+  "code": "4167136",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "3033603",
+  "mmkId": "3033603",
+  "productGroupId": "511966",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/l-oreal-paris-true-match-10d/10w-deep-golden-foundation/p/4167136",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267134,
+      "name": "Foundation"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h59/h58/44108935462942/prd-front-4167136-1_600x600/prd-front-4167136-1-600x600.jpg"
+}

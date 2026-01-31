@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "3033640",
+  "mmkId": "3033640",
+  "productGroupId": "513897",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-maybe-its-104-serum-lipstick/p/6428420",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h3c/hd2/46154623713310/temp-prd-front-6428420-1_600x600/temp-prd-front-6428420-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha4/h22/46201233670174/temp-prd-front-6428420-1_600x600/temp-prd-front-6428420-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "KNEIPP NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033534",
   "mmkId": "3033534",
   "productGroupId": "506243",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Droge huid"
+  "description": "200ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h09/h1b/45786781155358/temp-prd-front-4385760-1_600x600/temp-prd-front-4385760-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h64/hce/46201249923102/temp-prd-front-6468166-2_600x600/temp-prd-front-6468166-2-600x600.jpg"
 }

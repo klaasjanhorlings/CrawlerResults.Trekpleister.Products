@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Magic Filter 10 Light Glow Booster",
-  "code": "5998921",
-  "price": "3.99",
+  "itemName": "Catrice Shine Bomb 060 Pinky Lipstick",
+  "code": "5998242",
+  "price": "4.69",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "outOfStock",
   "onPromo": "3005772",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-magic-filter-10-light-glow-booster/p/5998921",
+  "url": "/catrice-shine-bomb-060-pinky-lipstick/p/5998242",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267139,
+      "name": "Lipstick"
     }
   ],
-  "description": "14ml",
-  "image": "/medias/sys_master/prd-images/h8b/hc4/45077053571102/prd-front-5998921-1_600x600/prd-front-5998921-1-600x600.jpg"
+  "description": "3ml",
+  "image": "/medias/sys_master/prd-images/hde/h25/29940565835806/prd-front-5998242-1_600x600/prd-front-5998242-1-600x600.jpg"
 }
