@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Versace Eros Pour Homme Eau de Toilette",
+  "code": "5546878",
+  "price": "44.99",
+  "priceOriginal": "68.0",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "JTG BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 23,01",
+  "url": "/versace-eros-pour-homme-eau-de-toilette/p/5546878",
+  "listName": "Lister",
+  "brand": "Versace",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h60/ha5/34988419776542/prd-front-5546878-1_600x600/prd-front-5546878-1-600x600.jpg"
+}
