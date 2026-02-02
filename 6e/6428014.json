@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Maybe It's 002 Maybe It's... Matte Serum Lipstick",
   "code": "6428014",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033640",
-  "mmkId": "3033640",
-  "productGroupId": "513897",
+  "onPromo": "3033892",
+  "mmkId": "3033892",
+  "productGroupId": "514776",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/maybelline-new-york-maybe-its-002-maybe-its-matte-serum-lipstick/p/6428014",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h62/he3/46234904231966/temp-prd-front-6428014-1_600x600/temp-prd-front-6428014-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha5/h15/46279507279902/temp-prd-front-6428014-1_600x600/temp-prd-front-6428014-1-600x600.jpg"
 }

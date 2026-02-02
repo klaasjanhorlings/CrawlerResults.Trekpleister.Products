@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "VSM Kind Chamodent Tandgel",
   "code": "4227014",
-  "price": "6.96",
-  "priceOriginal": "8.19",
+  "price": "8.19",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
   "supplier": "HEEL BIOLOGISCHE GENEES",
   "inStock": "inStock",
-  "onPromo": "3033684",
-  "mmkId": "3033684",
-  "productGroupId": "515720",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,23",
+  "discount": "",
   "url": "/vsm-kind-chamodent-tandgel/p/4227014",
   "listName": "Lister",
   "brand": "VSM",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/hc6/h1c/34769086545950/prd-front-4227014-1_600x600/prd-front-4227014-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3033603",
-  "mmkId": "3033603",
-  "productGroupId": "511966",
+  "onPromo": "3033870",
+  "mmkId": "3033870",
+  "productGroupId": "513177",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-preference-73-goud-middenblond-haarkleuring/p/16692",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4a/h71/31766052208670/prd-front-16692-1_600x600/prd-front-16692-1-600x600.jpg"
 }

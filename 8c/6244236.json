@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "ORIGINAL ADDITIONS (BP)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033857",
+  "mmkId": "3033857",
+  "productGroupId": "512122",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/cantu-weightless-daily-leave-in-cream/p/6244236",
@@ -33,5 +33,6 @@
       "name": "Leave-in conditioner"
     }
   ],
-  "description": "236ml"
+  "description": "236ml",
+  "image": "/medias/sys_master/prd-images/h82/h63/33323914657822/prd-front-6244236-1_600x600/prd-front-6244236-1-600x600.jpg"
 }

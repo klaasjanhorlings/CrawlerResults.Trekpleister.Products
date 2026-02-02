@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kneipp Derma Protect Intensive Balm",
   "code": "6394393",
-  "price": "12.99",
-  "priceOriginal": "",
+  "price": "9.09",
+  "priceOriginal": "12.99",
   "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033534",
-  "mmkId": "3033534",
-  "productGroupId": "506243",
+  "onPromo": "3033816",
+  "mmkId": "3033816",
+  "productGroupId": "508977",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,90",
   "url": "/kneipp-derma-protect-intensive-balm/p/6394393",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/hfc/h76/44641853112350/prd-front-6394393-1_600x600/prd-front-6394393-1-600x600.jpg"
+  "description": "75ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3679",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3033567",
-  "mmkId": "3033567",
-  "productGroupId": "510381",
+  "onPromo": "3033823",
+  "mmkId": "3033823",
+  "productGroupId": "510352",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-expert-skin-health-pro-hydrate-douchecreme/p/6068536",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "400ml - Droge huid"
+  "description": "400ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hd9/h0a/30835245678622/prd-front-6068536-1_600x600/prd-front-6068536-1-600x600.jpg"
 }

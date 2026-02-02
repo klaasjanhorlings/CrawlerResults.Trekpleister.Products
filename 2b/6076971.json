@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oral-B iO Series 9 Duo Elektrische Tandenborstels",
   "code": "6076971",
-  "price": "729.99",
-  "priceOriginal": "",
+  "price": "437.99",
+  "priceOriginal": "729.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033847",
+  "mmkId": "3033847",
+  "productGroupId": "511872",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 292,00",
   "url": "/oral-b-io-series-9-duo-elektrische-tandenborstels/p/6076971",
   "listName": "Lister",
   "brand": "Oral B",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart, roze, 2 stuks",
-  "image": "/medias/sys_master/prd-images/h0a/h29/46226844123166/temp-prd-front-6076971-1_600x600/temp-prd-front-6076971-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h59/he5/46266284933150/temp-prd-front-6076971-1_600x600/temp-prd-front-6076971-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3532",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033590",
-  "mmkId": "3033590",
-  "productGroupId": "511625",
+  "onPromo": "3033843",
+  "mmkId": "3033843",
+  "productGroupId": "511673",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/prodent-junior-super-mario-6-13-jaar-tandpasta/p/6070069",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hdf/h01/45276315353118/prd-front-6070069-1_600x600/prd-front-6070069-1-600x600.jpg"
 }

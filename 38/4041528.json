@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033851",
+  "mmkId": "3033851",
+  "productGroupId": "511880",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/corega-triple-action-dagelijkse-reiniger-tabletten/p/4041528",
@@ -33,6 +33,5 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": "Medisch hulpmiddel - 66 stuks",
-  "image": "/medias/sys_master/prd-images/hda/h43/33887507218462/prd-front-4041528-1_600x600/prd-front-4041528-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 66 stuks"
 }

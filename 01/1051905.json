@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3033895",
+  "mmkId": "3033895",
+  "productGroupId": "514780",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-multi-a-z-compleet-tabletten/p/1051905",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/hec/hd7/33574853836830/prd-front-1051905-1_600x600/prd-front-1051905-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Brighten & Perfect Light 3 - Beige Cream Concealer",
   "code": "6317939",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "5.99",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033927",
+  "mmkId": "3033927",
+  "productGroupId": "516974",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/mcobeauty-brighten-perfect-light-3-beige-cream-concealer/p/6317939",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "5,5ml",
-  "image": "/medias/sys_master/prd-images/h44/h85/34826678435870/prd-front-6317939-1_600x600/prd-front-6317939-1-600x600.jpg"
+  "description": "5,5ml"
 }

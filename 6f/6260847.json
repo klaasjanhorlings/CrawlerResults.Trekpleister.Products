@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6776 > 6775 > 6777",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "3033602",
-  "mmkId": "3033602",
-  "productGroupId": "511819",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-10-niacinamide-parfumvrij-serum/p/6260847",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "30ml - Alle huidtypen en gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h43/hbc/34038755098654/prd-front-6260847-1_600x600/prd-front-6260847-1-600x600.jpg"
+  "description": "30ml - Alle huidtypen en gevoelige huid"
 }

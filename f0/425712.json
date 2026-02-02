@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3033593",
-  "mmkId": "3033593",
-  "productGroupId": "511671",
+  "onPromo": "3033842",
+  "mmkId": "3033842",
+  "productGroupId": "511414",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-color-protect-shine-shampoo/p/425712",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h54/h3a/34027958206494/prd-front-425712-1_600x600/prd-front-425712-1-600x600.jpg"
 }

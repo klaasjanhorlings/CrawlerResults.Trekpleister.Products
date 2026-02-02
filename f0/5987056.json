@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Lash Sensational Sky High Burgundy Haze Mascara",
   "code": "5987056",
-  "price": "20.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "20.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033640",
-  "mmkId": "3033640",
-  "productGroupId": "513897",
+  "onPromo": "3033892",
+  "mmkId": "3033892",
+  "productGroupId": "514776",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,00",
   "url": "/maybelline-new-york-lash-sensational-sky-high-burgundy-haze-mascara/p/5987056",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "7,2ml"
+  "description": "7,2ml",
+  "image": "/medias/sys_master/prd-images/h23/had/44843033821214/prd-front-5987056-1_600x600/prd-front-5987056-1-600x600.jpg"
 }

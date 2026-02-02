@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5918",
   "supplier": "COSMOGROUP BRANDS BV",
   "inStock": "inStock",
-  "onPromo": "3033675",
-  "mmkId": "3033675",
-  "productGroupId": "515080",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/umberto-giannini-curl-whip-activating-mousse/p/5823123",
@@ -33,6 +33,5 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h1f/h13/45808001122334/temp-prd-front-5823123-1_600x600/temp-prd-front-5823123-1-600x600.jpg"
+  "description": "200ml"
 }

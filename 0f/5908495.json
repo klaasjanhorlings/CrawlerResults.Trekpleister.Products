@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fisher Price Leer Afstandsbediening",
+  "code": "5908495",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "outOfStock",
+  "onPromo": "3033919",
+  "mmkId": "3033919",
+  "productGroupId": "516293",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fisher-price-leer-afstandsbediening/p/5908495",
+  "listName": "Lister",
+  "brand": "Fisher Price",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 49281783,
+      "name": "Interactief speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h70/hb8/28568463278110/prd-front-5908495-1_600x600/prd-front-5908495-1-600x600.jpg"
+}

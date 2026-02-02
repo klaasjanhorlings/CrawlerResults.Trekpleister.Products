@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "3033586",
-  "mmkId": "3033586",
-  "productGroupId": "511471",
+  "onPromo": "3033817",
+  "mmkId": "3033817",
+  "productGroupId": "508990",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-skin-recharge-micellair-water/p/6082284",
@@ -37,5 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml - Gevoelige huid"
+  "description": "400ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h76/h87/35066117390366/prd-front-6082284-1_600x600/prd-front-6082284-1-600x600.jpg"
 }

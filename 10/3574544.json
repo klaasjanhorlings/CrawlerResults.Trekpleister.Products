@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033857",
+  "mmkId": "3033857",
+  "productGroupId": "512122",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-100-natural-argan-oil/p/3574544",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/prd-front-3574544-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTc3NzR8aW1hZ2UvanBlZ3xhR0ZsTDJoak9DOHhOak14TkRJNU5UWTRNVEExTkM5d2NtUXRabkp2Ym5RdE16VTNORFUwTkMweFh6WXdNSGcyTURBfDFmMWUxOTI0YWI4ODdiNGFlMjc2ZWJhOWRmNzczZjY3MTVhZmZhMDVjODMyYTllNGExZjYxZDdmYzNkNzNkOWI"
 }

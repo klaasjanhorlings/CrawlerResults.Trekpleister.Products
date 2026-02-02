@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3698",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3033603",
-  "mmkId": "3033603",
-  "productGroupId": "511966",
+  "onPromo": "3033908",
+  "mmkId": "3033908",
+  "productGroupId": "515319",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elnett-satin-heat-protection-glad-haarspray/p/2639932",
@@ -33,5 +33,6 @@
       "name": "Heat protectors"
     }
   ],
-  "description": "170ml"
+  "description": "170ml",
+  "image": "/medias/sys_master/prd-images/h34/h81/34869014986782/prd-front-2639932-1_600x600/prd-front-2639932-1-600x600.jpg"
 }

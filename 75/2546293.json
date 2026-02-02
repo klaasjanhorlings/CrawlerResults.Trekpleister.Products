@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Elvive Extraordinary Oil Haarolie",
   "code": "2546293",
-  "price": "12.99",
-  "priceOriginal": "",
+  "price": "6.49",
+  "priceOriginal": "12.99",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6696 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3033603",
-  "mmkId": "3033603",
-  "productGroupId": "511966",
+  "onPromo": "3033909",
+  "mmkId": "3033909",
+  "productGroupId": "515320",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,50",
   "url": "/loreal-paris-elvive-extraordinary-oil-haarolie/p/2546293",
   "listName": "Lister",
   "brand": "Elvive",
@@ -33,5 +33,6 @@
       "name": "Haarserum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h58/h10/33984319356958/prd-front-2546293-1_600x600/prd-front-2546293-1-600x600.jpg"
 }

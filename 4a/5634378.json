@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 5717 > 5718 > 5719",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033900",
+  "mmkId": "3033900",
+  "productGroupId": "514823",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/satin-care-huid-schaamhaar-2-in-1-reiniger-en-scheergel/p/5634378",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "190ml",
-  "image": "/medias/sys_master/prd-images/h4c/h99/46223837593630/temp-prd-front-5634378-6_600x600/temp-prd-front-5634378-6-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h02/hc9/46263072915486/temp-prd-front-5634378-1_600x600/temp-prd-front-5634378-1-600x600.jpg"
 }

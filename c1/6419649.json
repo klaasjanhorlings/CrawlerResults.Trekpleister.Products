@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dickie Toys RC Volvo Mini Excavator",
+  "code": "6419649",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2140 > 4929 > 4975 > 5021",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "3033919",
+  "mmkId": "3033919",
+  "productGroupId": "516293",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dickie-toys-rc-volvo-mini-excavator/p/6419649",
+  "listName": "Lister",
+  "brand": "Dickie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267082,
+      "name": "Voertuigen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h35/h7f/45667206856734/temp-prd-front-6419649-1_600x600/temp-prd-front-6419649-1-600x600.jpg"
+}

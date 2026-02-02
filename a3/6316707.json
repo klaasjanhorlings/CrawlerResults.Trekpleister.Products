@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty 0.5-2 Very Light Miracle Hyaluronic Tinted Serum",
   "code": "6316707",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "11.99",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033927",
+  "mmkId": "3033927",
+  "productGroupId": "516974",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 4,00",
   "url": "/mcobeauty-05-2-very-light-miracle-hyaluronic-tinted-serum/p/6316707",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h69/h4f/34829429604382/prd-front-6316707-1_600x600/prd-front-6316707-1-600x600.jpg"
+  "description": "30ml"
 }

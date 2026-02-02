@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Molton",
+  "code": "5774557",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 2196 > 2453 > 2738 > 5803 > 6020",
+  "supplier": "BEDDING HOUSE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-molton/p/5774557",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267458,
+      "name": "Huishoudelijk textiel"
+    }
+  ],
+  "description": "wit, 90cm x 200cm",
+  "image": "/medias/sys_master/prd-images/h1c/ha4/45248936607774/prd-front-5774557-1_600x600/prd-front-5774557-1-600x600.jpg"
+}

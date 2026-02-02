@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033633",
-  "mmkId": "3033633",
-  "productGroupId": "513496",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-goedemorgen-vochtige-washandjes/p/976172",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/hd8/hba/44641822474270/prd-front-976172-1_600x600/prd-front-976172-1-600x600.jpg"
+  "description": "20 stuks"
 }

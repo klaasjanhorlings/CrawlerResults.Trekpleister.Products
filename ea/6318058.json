@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Ruby Rouge Perfect Pout Lipliner",
   "code": "6318058",
-  "price": "4.99",
-  "priceOriginal": "",
+  "price": "3.74",
+  "priceOriginal": "4.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033927",
+  "mmkId": "3033927",
+  "productGroupId": "516974",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 1,25",
   "url": "/mcobeauty-ruby-rouge-perfect-pout-lipliner/p/6318058",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "1,2g"
+  "description": "1,2g",
+  "image": "/medias/sys_master/prd-images/h49/h18/34829465649182/prd-front-6318058-1_600x600/prd-front-6318058-1-600x600.jpg"
 }

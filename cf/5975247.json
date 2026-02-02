@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033761",
-  "mmkId": "3033761",
-  "productGroupId": "514846",
+  "onPromo": "3033835",
+  "mmkId": "3033835",
+  "productGroupId": "511142",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-advanced-protection-invisible-aqua-antitranspirant-roller/p/5975247",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h3b/h2c/34690773385246/prd-front-5975247-1_600x600/prd-front-5975247-1-600x600.jpg"
 }

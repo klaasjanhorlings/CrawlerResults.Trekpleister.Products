@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Regenerist Parfumvrije Dagcrème",
   "code": "5373824",
-  "price": "16.0",
-  "priceOriginal": "39.99",
+  "price": "39.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "3033784",
-  "mmkId": "3033784",
-  "productGroupId": "515502",
+  "inStock": "outOfStock",
+  "onPromo": "3033885",
+  "mmkId": "3033885",
+  "productGroupId": "514279",
   "brandType": "A of B merk",
-  "discount": "€ 23,99",
+  "discount": "",
   "url": "/olay-regenerist-parfumvrije-dagcreme/p/5373824",
   "listName": "Lister",
   "brand": "Olay",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h29/h8c/33630215012382/prd-front-5373824-1_600x600/prd-front-5373824-1-600x600.jpg"
 }

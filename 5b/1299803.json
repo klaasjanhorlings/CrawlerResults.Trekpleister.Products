@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3246 > 4137",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "3033589",
-  "mmkId": "3033589",
-  "productGroupId": "511611",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/john-frieda-volume-lift-root-booster-blow-dry-lotion/p/1299803",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h7c/hc5/46266227687454/temp-prd-front-1299803-1_600x600/temp-prd-front-1299803-1-600x600.jpg"
 }

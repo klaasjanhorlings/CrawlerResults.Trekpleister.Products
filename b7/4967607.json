@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3033658",
-  "mmkId": "3033658",
-  "productGroupId": "514785",
+  "onPromo": "3033895",
+  "mmkId": "3033895",
+  "productGroupId": "514780",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamine-b-complex-100mg-tabletten/p/4967607",
@@ -37,5 +37,6 @@
       "name": "Vitamine B"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h1a/h0f/28553860939806/prd-front-4967607-1_600x600/prd-front-4967607-1-600x600.jpg"
 }

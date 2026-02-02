@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033919",
+  "mmkId": "3033919",
+  "productGroupId": "516293",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/identity-games-dubbeldate-spel/p/6348368",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h84/h38/35005035380766/prd-front-6348368-1_600x600/prd-front-6348368-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

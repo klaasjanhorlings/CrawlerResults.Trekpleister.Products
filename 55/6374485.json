@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3033567",
-  "mmkId": "3033567",
-  "productGroupId": "510381",
+  "onPromo": "3033823",
+  "mmkId": "3033823",
+  "productGroupId": "510352",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-men-sensitive-72h-antitranspirant-spray/p/6374485",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hd8/h48/44131418308638/prd-front-6374485-1_600x600/prd-front-6374485-1-600x600.jpg"
 }

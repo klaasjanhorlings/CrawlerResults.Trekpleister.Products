@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Lifter Stix 5 Foundation Stick",
   "code": "6241758",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "7.49",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033640",
-  "mmkId": "3033640",
-  "productGroupId": "513897",
+  "onPromo": "3033893",
+  "mmkId": "3033893",
+  "productGroupId": "514777",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,50",
   "url": "/maybelline-new-york-lifter-stix-5-foundation-stick/p/6241758",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6e/heb/44804471357470/prd-front-6241758-1_600x600/prd-front-6241758-1-600x600.jpg"
 }

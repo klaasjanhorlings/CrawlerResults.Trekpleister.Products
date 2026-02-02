@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Hot Berry Hot Lip Plump",
   "code": "6318114",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "5.99",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033927",
+  "mmkId": "3033927",
+  "productGroupId": "516974",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/mcobeauty-hot-berry-hot-lip-plump/p/6318114",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,6 +37,5 @@
       "name": "Lip plumper"
     }
   ],
-  "description": "4ml",
-  "image": "/medias/sys_master/prd-images/h59/hf8/34868233306142/prd-front-6318114-1_600x600/prd-front-6318114-1-600x600.jpg"
+  "description": "4ml"
 }

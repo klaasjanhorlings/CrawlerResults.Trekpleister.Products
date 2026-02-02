@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kneipp Relaxing Lavendel Badschuim",
   "code": "1849912",
-  "price": "10.99",
-  "priceOriginal": "",
+  "price": "7.69",
+  "priceOriginal": "10.99",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033534",
-  "mmkId": "3033534",
-  "productGroupId": "506243",
+  "onPromo": "3033816",
+  "mmkId": "3033816",
+  "productGroupId": "508977",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,30",
   "url": "/kneipp-relaxing-lavendel-badschuim/p/1849912",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,5 +33,6 @@
       "name": "Badschuim"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/prd-front-1849912-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTI2Njl8aW1hZ2UvanBlZ3xhRGN4TDJneE1pOHhOalUyT1RjeE5URTVOVGt6TkM5d2NtUXRabkp2Ym5RdE1UZzBPVGt4TWkweFh6WXdNSGcyTURBfDBiMGFmNWU5MTk4NWU0ZTc3ZTZmOTlkZjBiNWU3MDkzOWU3N2MxNjc1ZWViYjQzZGU0YjllNzdhMzU3Mzk0YzI"
 }

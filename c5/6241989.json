@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Instant Eraser 159 Orange Color Correcting Concealer",
   "code": "6241989",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "7.99",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033640",
-  "mmkId": "3033640",
-  "productGroupId": "513897",
+  "onPromo": "3033893",
+  "mmkId": "3033893",
+  "productGroupId": "514777",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 8,00",
   "url": "/maybelline-new-york-instant-eraser-159-orange-color-correcting-concealer/p/6241989",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4d/h18/44801630765086/prd-front-6241989-1_600x600/prd-front-6241989-1-600x600.jpg"
 }

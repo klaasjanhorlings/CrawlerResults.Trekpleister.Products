@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "3033895",
+  "mmkId": "3033895",
+  "productGroupId": "514780",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-magnesium-tabletten/p/1583975",
@@ -37,6 +37,5 @@
       "name": "Magnesium"
     }
   ],
-  "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/ha8/hb8/28819416186910/prd-front-1583975-1_600x600/prd-front-1583975-1-600x600.jpg"
+  "description": "90 stuks"
 }

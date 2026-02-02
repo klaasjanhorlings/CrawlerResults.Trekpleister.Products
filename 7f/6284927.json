@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oral-B iO My Way Teens Elektrische Tandenborstel",
   "code": "6284927",
-  "price": "129.99",
-  "priceOriginal": "",
+  "price": "77.99",
+  "priceOriginal": "129.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033847",
+  "mmkId": "3033847",
+  "productGroupId": "511872",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 52,00",
   "url": "/oral-b-io-my-way-teens-elektrische-tandenborstel/p/6284927",
   "listName": "Lister",
   "brand": "Oral B",
@@ -33,6 +33,5 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "1 handvat + 2 opzetborstels - blauw",
-  "image": "/medias/sys_master/prd-images/h62/hca/44791438049310/prd-front-6284927-1_600x600/prd-front-6284927-1-600x600.jpg"
+  "description": "1 handvat + 2 opzetborstels - blauw"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2958 > 3753",
   "supplier": "ANVIRI COSMETICS BV",
   "inStock": "outOfStock",
-  "onPromo": "3033691",
-  "mmkId": "3033691",
-  "productGroupId": "516255",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kiss-accent-just-kidding-nagelstickers/p/4201058",
@@ -33,6 +33,5 @@
       "name": "Nagelstickers"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-4201058-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDIzMjZ8aW1hZ2UvanBlZ3xhR0psTDJnek5DOHhOak0xT0RFME5UQTJORGs1TUM5d2NtUXRabkp2Ym5RdE5ESXdNVEExT0MweFh6WXdNSGcyTURBfDZlMGQ0MjA3NTg4NWNlMTZjNDQwYTQ4MWZlYmZhZmEzMzI3YzgwOTJmOWJjM2Y4ZDY2MzBlYzlmNjI5ODg2MWY"
+  "description": ""
 }

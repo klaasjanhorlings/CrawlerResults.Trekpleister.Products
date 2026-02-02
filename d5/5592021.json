@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3033710",
-  "mmkId": "3033710",
-  "productGroupId": "522467",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-creme-puff-013-pressed-powder/p/5592021",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "14g"
+  "description": "14g",
+  "image": "/medias/prd-front-5592021-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjAwNTd8aW1hZ2UvanBlZ3xhRGt4TDJnMFpTOHhOekEzTURReU56VTNNREl3Tmk5d2NtUXRabkp2Ym5RdE5UVTVNakF5TVMweFh6WXdNSGcyTURBfDQ1YTg4NGZhOWU1NzJkOTU4ODBmNDRmOGVjNjIwMmU3MDAyN2UwYjNlZDFmZjUxYjM3NjgzZmU4OTMzNDc2MmQ"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dermolin Zeer Droge Huid Dagcrème",
   "code": "5807786",
-  "price": "14.95",
-  "priceOriginal": "",
+  "price": "11.96",
+  "priceOriginal": "14.95",
   "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "HEALTHCARE BRANDS GROUP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033907",
+  "mmkId": "3033907",
+  "productGroupId": "515117",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,99",
   "url": "/dermolin-zeer-droge-huid-dagcreme/p/5807786",
   "listName": "Lister",
   "brand": "Dermolin",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/prd-front-5807786-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTkyNDV8aW1hZ2UvanBlZ3xhR05rTDJobFl5OHlOalE1T1RRNE5ESXlNVFEzTUM5d2NtUXRabkp2Ym5RdE5UZ3dOemM0TmkweFh6WXdNSGcyTURBfDM0NzlmNmE3MjQyN2Y0YjIwYzc1MmQ0MjZmYjUxOWUzZWY5YTI4YmQ0YjllMzE3MjlkMzU1OWE1ZWM4MzJjMGI"
+  "description": "50ml"
 }

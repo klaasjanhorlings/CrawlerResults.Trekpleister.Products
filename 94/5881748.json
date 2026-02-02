@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Colgate Max White Overnight Whitening Serum",
   "code": "5881748",
-  "price": "12.49",
-  "priceOriginal": "24.99",
+  "price": "24.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3033599",
-  "mmkId": "3033599",
-  "productGroupId": "511797",
+  "onPromo": "3033844",
+  "mmkId": "3033844",
+  "productGroupId": "511864",
   "brandType": "A of B merk",
-  "discount": "€ 12,50",
+  "discount": "",
   "url": "/colgate-max-white-overnight-whitening-serum/p/5881748",
   "listName": "Lister",
   "brand": "Colgate",
@@ -33,5 +33,6 @@
       "name": "Whitening producten"
     }
   ],
-  "description": "2,5ml - Whitening"
+  "description": "2,5ml - Whitening",
+  "image": "/medias/sys_master/prd-images/h78/hf1/44070332268574/prd-front-5881748-1_600x600/prd-front-5881748-1-600x600.jpg"
 }

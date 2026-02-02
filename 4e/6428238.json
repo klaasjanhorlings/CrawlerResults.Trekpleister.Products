@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "inStock",
-  "onPromo": "3033603",
-  "mmkId": "3033603",
-  "productGroupId": "511966",
+  "inStock": "outOfStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-hyaluron-tint-lip-stain-serum/p/6428238",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h83/hd5/46234819297310/temp-prd-front-6428238-1_600x600/temp-prd-front-6428238-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6e/h7d/46276277993502/temp-prd-front-6428238-1_600x600/temp-prd-front-6428238-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Fairy Floss Overnight Lip Mask",
   "code": "6318387",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "5.99",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "3033927",
+  "mmkId": "3033927",
+  "productGroupId": "516974",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/mcobeauty-fairy-floss-overnight-lip-mask/p/6318387",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Lip mask"
     }
   ],
-  "description": "20g"
+  "description": "20g",
+  "image": "/medias/sys_master/prd-images/h67/he7/34827056939038/prd-front-6318387-1_600x600/prd-front-6318387-1-600x600.jpg"
 }

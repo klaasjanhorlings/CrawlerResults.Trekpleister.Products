@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dampo Inhalatiepleisters",
   "code": "2639701",
-  "price": "5.54",
-  "priceOriginal": "7.39",
+  "price": "7.39",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 3949",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "3033583",
-  "mmkId": "3033583",
-  "productGroupId": "511223",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,85",
+  "discount": "",
   "url": "/dampo-inhalatiepleisters/p/2639701",
   "listName": "Lister",
   "brand": "Dampo",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "6 stuks",
-  "image": "/medias/sys_master/prd-images/h6d/hfd/46231062118430/temp-prd-front-2639701-1_600x600/temp-prd-front-2639701-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1c/h2a/46272608501790/temp-prd-front-2639701-1_600x600/temp-prd-front-2639701-1-600x600.jpg"
 }

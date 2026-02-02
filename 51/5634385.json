@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 5717 > 5718 > 5719",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "3033900",
+  "mmkId": "3033900",
+  "productGroupId": "514823",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/satin-care-huid-schaamhaar-shave-serum/p/5634385",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h19/hc1/46234806059038/temp-prd-front-5634385-1_600x600/temp-prd-front-5634385-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h53/h01/46276263706654/temp-prd-front-5634385-1_600x600/temp-prd-front-5634385-1-600x600.jpg"
 }

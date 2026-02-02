@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "3033630",
-  "mmkId": "3033630",
-  "productGroupId": "513260",
+  "inStock": "outOfStock",
+  "onPromo": "3033875",
+  "mmkId": "3033875",
+  "productGroupId": "513261",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/diadermine-hydraterend-micellair-water-voor-alle-huidtypes/p/3827447",
@@ -37,6 +37,5 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hde/h54/28549624168478/prd-front-3827447-1_600x600/prd-front-3827447-1-600x600.jpg"
+  "description": "400ml"
 }
