@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Senseo Cappuccino Koffiepads",
+  "code": "2628263",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 4354 > 4355",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "3033604",
+  "mmkId": "3033604",
+  "productGroupId": "511994",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/douwe-egberts-senseo-cappuccino-koffiepads/p/2628263",
+  "listName": "Lister",
+  "brand": "Senseo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267443,
+      "name": "Koffie"
+    },
+    {
+      "id": 113108123,
+      "name": "Koffiepads"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/prd-front-2628263-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njc4NDF8aW1hZ2UvanBlZ3xhRFZpTDJnMk9DOHhOelEwTkRRek1UVXlOemsyTmk5d2NtUXRabkp2Ym5RdE1qWXlPREkyTXkweFh6WXdNSGcyTURBfDgyY2RjZGQ4YTViZjkyZmYzYzVmNGJmN2RiYTUzNTA1NjY2Y2IzZmZlOTFmMGU1ZDQyNjA1YWZhM2MzNWFhZGQ"
+}

@@ -5,7 +5,7 @@
   "code": "6348368",
   "price": "6.99",
   "priceOriginal": "",
-  "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
+  "itemBgbcat": "5921 > 2181 > 5162 > 5217 > 5406 > 6040",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "inStock",
   "onPromo": "3033919",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h84/h38/35005035380766/prd-front-6348368-1_600x600/prd-front-6348368-1-600x600.jpg"
 }

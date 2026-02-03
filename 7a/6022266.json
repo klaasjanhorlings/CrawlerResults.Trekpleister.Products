@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033842",
   "mmkId": "3033842",
   "productGroupId": "511414",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h5e/h26/44327788347422/prd-front-6022266-1_600x600/prd-front-6022266-1-600x600.jpg"
+  "description": "250ml"
 }

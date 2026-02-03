@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "52 stuks",
-  "image": "/medias/sys_master/prd-images/ha4/h7d/28858044514334/prd-front-5973175-1_600x600/prd-front-5973175-1-600x600.jpg"
+  "description": "52 stuks"
 }

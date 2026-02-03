@@ -5,7 +5,7 @@
   "code": "6243501",
   "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "5921 > 6018 > 2181 > 6733 > 6734 > 6735",
+  "itemBgbcat": "5921 > 2181 > 6733 > 6734 > 6735 > 6040",
   "supplier": "999 GAMES",
   "inStock": "inStock",
   "onPromo": "3033919",
@@ -29,8 +29,8 @@
       "name": "Spellen"
     },
     {
-      "id": 49281487,
-      "name": "Kaartspellen"
+      "id": 30267392,
+      "name": "Bordspellen"
     }
   ],
   "description": "Nederlandstalig spel",

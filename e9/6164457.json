@@ -5,7 +5,7 @@
   "code": "6164457",
   "price": "6.99",
   "priceOriginal": "",
-  "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
+  "itemBgbcat": "5921 > 2181 > 5162 > 5217 > 5406 > 6040",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "inStock",
   "onPromo": "3033919",
@@ -25,8 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 49281783,
-      "name": "Interactief speelgoed"
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281487,
+      "name": "Kaartspellen"
     }
   ],
   "description": "Nederlandstalig spel",

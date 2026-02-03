@@ -7,7 +7,7 @@
   "priceOriginal": "12.49",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033929",
   "mmkId": "3033929",
   "productGroupId": "517151",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hf8/h6d/44189138714654/prd-front-6162882-1_600x600/prd-front-6162882-1-600x600.jpg"
+  "description": "400ml"
 }

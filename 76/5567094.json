@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nescafé Dolce Gusto Café Au Lait Koffiecups",
+  "code": "5567094",
+  "price": "14.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
+  "supplier": "NESTLE NEDERLAND B.V",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nescafe-dolce-gusto-cafe-au-lait-koffiecups/p/5567094",
+  "listName": "Lister",
+  "brand": "Nescafe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267443,
+      "name": "Koffie"
+    },
+    {
+      "id": 113108306,
+      "name": "Koffiecups"
+    }
+  ],
+  "description": "2 x 30 stuks"
+}
