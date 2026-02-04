@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kinderearpods",
+  "code": "6377439",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6014 > 2153 > 2503 > 3113 > 3979",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/kinderearpods/p/6377439",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267459,
+      "name": "Telefoonaccessoires"
+    },
+    {
+      "id": 49258617,
+      "name": "Koptelefoons en oordopjes"
+    }
+  ],
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/ha2/h6c/45077962424350/prd-front-6377439-1_600x600/prd-front-6377439-1-600x600.jpg"
+}

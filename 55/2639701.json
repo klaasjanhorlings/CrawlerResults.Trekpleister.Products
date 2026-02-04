@@ -21,14 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536625,
-      "name": "Baby"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 75860503,
-      "name": "Baby en Kind gezondheid"
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267262,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 48657202,
+      "name": "Inhalatieproducten"
     }
   ],
   "description": "6 stuks",
-  "image": "/medias/sys_master/prd-images/hfb/h3c/46318982922270/temp-prd-front-2639701-4_600x600/temp-prd-front-2639701-4-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf8/he4/46352999645214/temp-prd-front-2639701-1_600x600/temp-prd-front-2639701-1-600x600.jpg"
 }

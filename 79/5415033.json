@@ -21,12 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536625,
-      "name": "Baby"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 75860503,
-      "name": "Baby en Kind gezondheid"
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267296,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414206,
+      "name": "Sensitive pleisters"
     }
   ],
   "description": "Medisch hulpmiddel - 20 stuks",

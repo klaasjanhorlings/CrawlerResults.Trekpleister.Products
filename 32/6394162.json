@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Velours Dekbedovertrek",
+  "code": "6394162",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 2196 > 2453 > 2738 > 3440 > 6020",
+  "supplier": "BEDDING HOUSE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-velours-dekbedovertrek/p/6394162",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267458,
+      "name": "Huishoudelijk textiel"
+    }
+  ],
+  "description": "oudroze, 240cm x 220cm",
+  "image": "/medias/sys_master/prd-images/h4c/h25/44267211882526/prd-front-6394162-1_600x600/prd-front-6394162-1-600x600.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Freeman Facial Peel-Off Mask Cucumber Gezichtsmasker",
+  "code": "257786",
+  "price": "4.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "3033751",
+  "mmkId": "3033751",
+  "productGroupId": "509185",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/freeman-facial-peel-off-mask-cucumber-gezichtsmasker/p/257786",
+  "listName": "Lister",
+  "brand": "Freeman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "175ml"
+}

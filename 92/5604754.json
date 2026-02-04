@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Protect & Hydrate Pocket Size SPF30 Zonnebrandcrème",
+  "code": "5604754",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "3033932",
+  "mmkId": "3033932",
+  "productGroupId": "519620",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-sun-protect-hydrate-pocket-size-spf30-zonnebrandcreme/p/5604754",
+  "listName": "Lister",
+  "brand": "Nivea Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h21/hda/45486996389918/temp-prd-front-5604754-1_600x600/temp-prd-front-5604754-1-600x600.jpg"
+}
