@@ -5,7 +5,7 @@
   "code": "5451118",
   "price": "2.89",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3303 > 3660",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3659 > 3043",
   "supplier": "KENVUE",
   "inStock": "inStock",
   "onPromo": "",
@@ -33,5 +33,6 @@
       "name": "Tampons"
     }
   ],
-  "description": "16 stuks"
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h58/ha6/35128395169822/prd-front-5451118-1_600x600/prd-front-5451118-1-600x600.jpg"
 }

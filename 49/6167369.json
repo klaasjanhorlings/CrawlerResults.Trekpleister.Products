@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Guess Amore Venezia Eau de Toilette",
   "code": "6167369",
-  "price": "18.74",
-  "priceOriginal": "24.99",
+  "price": "24.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "3033933",
-  "mmkId": "3033933",
-  "productGroupId": "521665",
+  "onPromo": "8000237",
+  "mmkId": "8000237",
+  "productGroupId": "534964",
   "brandType": "A of B merk",
-  "discount": "€ 6,25",
+  "discount": "",
   "url": "/guess-amore-venezia-eau-de-toilette/p/6167369",
   "listName": "Lister",
   "brand": "Guess",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/ha5/hc6/31843253583902/prd-front-6167369-1_600x600/prd-front-6167369-1-600x600.jpg"
 }

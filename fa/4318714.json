@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Discreet Long Verband+ voor Urineverlies en Incontinentie",
+  "code": "4318714",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "3033805",
+  "mmkId": "3033805",
+  "productGroupId": "505270",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-discreet-long-verband-voor-urineverlies-en-incontinentie/p/4318714",
+  "listName": "Lister",
+  "brand": "Always Discreet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267217,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30267482,
+      "name": "Incontinentieverband"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/hd5/hac/32027794276382/prd-front-4318714-1_600x600/prd-front-4318714-1-600x600.jpg"
+}

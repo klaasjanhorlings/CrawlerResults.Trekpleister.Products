@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "LEGO Volwassenen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h21/h2b/45713735122974/temp-prd-front-6428903-1_600x600/temp-prd-front-6428903-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Hugo Boss Vapo Bottled Eau de Toilette",
   "code": "1322560",
-  "price": "59.99",
-  "priceOriginal": "",
+  "price": "53.99",
+  "priceOriginal": "59.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000237",
+  "mmkId": "8000237",
+  "productGroupId": "534964",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,00",
   "url": "/hugo-boss-vapo-bottled-eau-de-toilette/p/1322560",
   "listName": "Lister",
   "brand": "Hugo Boss",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h50/hf0/35099537309726/prd-front-1322560-1_600x600/prd-front-1322560-1-600x600.jpg"
 }

@@ -5,7 +5,7 @@
   "code": "27780",
   "price": "1.99",
   "priceOriginal": "2.89",
-  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
   "supplier": "ESSITY",
   "inStock": "inStock",
   "onPromo": "3033814",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "14 stuks"
+  "description": "14 stuks",
+  "image": "/medias/sys_master/prd-images/h9f/hfb/34720686374942/prd-front-27780-1_600x600/prd-front-27780-1-600x600.jpg"
 }

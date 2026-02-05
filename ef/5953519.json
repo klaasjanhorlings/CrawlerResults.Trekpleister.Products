@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Calvin Klein Sheer Beauty Eau de Toilette",
   "code": "5953519",
-  "price": "24.99",
-  "priceOriginal": "",
+  "price": "22.49",
+  "priceOriginal": "24.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000237",
+  "mmkId": "8000237",
+  "productGroupId": "534964",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,50",
   "url": "/calvin-klein-sheer-beauty-eau-de-toilette/p/5953519",
   "listName": "Lister",
   "brand": "Calvin Klein",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hc4/h94/28725561753630/prd-front-5953519-1_600x600/prd-front-5953519-1-600x600.jpg"
 }

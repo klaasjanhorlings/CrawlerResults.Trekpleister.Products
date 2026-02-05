@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oral-B Pro Sensitive Clean Opzetborstels",
   "code": "5305238",
-  "price": "31.19",
-  "priceOriginal": "51.99",
+  "price": "51.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "3033849",
-  "mmkId": "3033849",
-  "productGroupId": "511874",
+  "onPromo": "8000006",
+  "mmkId": "8000006",
+  "productGroupId": "511906",
   "brandType": "A of B merk",
-  "discount": "€ 20,80",
+  "discount": "",
   "url": "/oral-b-pro-sensitive-clean-opzetborstels/p/5305238",
   "listName": "Lister",
   "brand": "Oral B",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "wit, 8 stuks",
-  "image": "/medias/sys_master/prd-images/he8/had/31464728821790/prd-front-5305238-1_600x600/prd-front-5305238-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hed/hdc/46408987475998/temp-prd-front-5305238-1_600x600/temp-prd-front-5305238-1-600x600.jpg"
 }
