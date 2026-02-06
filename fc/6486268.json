@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Got2b Un-Glued Styling Remover Foam",
+  "code": "6486268",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3033842",
+  "mmkId": "3033842",
+  "productGroupId": "511414",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/got2b-un-glued-styling-remover-foam/p/6486268",
+  "listName": "Lister",
+  "brand": "Got2B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267491,
+      "name": "Haarmousse"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/ha5/h8b/46452848001054/temp-prd-front-6486268-1_600x600/temp-prd-front-6486268-1-600x600.jpg"
+}

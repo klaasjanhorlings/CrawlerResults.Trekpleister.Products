@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Curalyn Medicijn Opbergbox",
+  "code": "6269954",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2902 > 3695 > 6467",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/curalyn-medicijn-opbergbox/p/6269954",
+  "listName": "Lister",
+  "brand": "Curalyn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267292,
+      "name": "EHBO-doos"
+    }
+  ],
+  "description": "grijs, 22cm x 15cm x 16cm",
+  "image": "/medias/sys_master/prd-images/h2f/hd5/34099379339294/prd-front-6269954-1_600x600/prd-front-6269954-1-600x600.jpg"
+}

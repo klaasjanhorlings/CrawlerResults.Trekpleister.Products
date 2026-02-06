@@ -5,7 +5,7 @@
   "code": "4772580",
   "price": "14.45",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2065 > 2516 > 3131 > 3996 > 2205",
+  "itemBgbcat": "2003 > 2065 > 6838 > 6840 > 6839 > 2205",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -33,5 +33,6 @@
       "name": "Intieme hygiëne"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h9d/hd4/32826445660190/prd-front-4772580-1_600x600/prd-front-4772580-1-600x600.jpg"
 }

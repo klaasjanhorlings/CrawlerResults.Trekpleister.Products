@@ -5,7 +5,7 @@
   "code": "4967306",
   "price": "5.49",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 4100",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 3949",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
   "onPromo": "3007554",
@@ -33,9 +33,10 @@
       "name": "Luchtwegen"
     },
     {
-      "id": 30267519,
-      "name": "Neusdruppels"
+      "id": 30267524,
+      "name": "Neusinhaler"
     }
   ],
-  "description": "2ml"
+  "description": "2ml",
+  "image": "/medias/sys_master/prd-images/h83/hde/29032539455518/prd-front-4967306-1_600x600/prd-front-4967306-1-600x600.jpg"
 }

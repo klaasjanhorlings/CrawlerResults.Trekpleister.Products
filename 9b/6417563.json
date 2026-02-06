@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Silk Hechtpleister",
+  "code": "6417563",
+  "price": "1.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2690 > 3390 > 2332",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-silk-hechtpleister/p/6417563",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 49259483,
+      "name": "Hechtpleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 5m x 2,5cm",
+  "image": "/medias/sys_master/prd-images/hc4/h4f/46052382965790/temp-prd-front-6417563-1_600x600/temp-prd-front-6417563-1-600x600.jpg"
+}

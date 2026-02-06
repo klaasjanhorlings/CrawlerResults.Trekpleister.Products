@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Naïf Baby & Kids Verzachtende Bodylotion",
   "code": "5961219",
-  "price": "15.99",
+  "price": "16.99",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "NAIF CARE BV",
@@ -37,5 +37,6 @@
       "name": "Babylotion"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h91/h0f/28810336534558/prd-front-5961219-1_600x600/prd-front-5961219-1-600x600.jpg"
 }

@@ -5,7 +5,7 @@
   "code": "2016925",
   "price": "6.69",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3934",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
   "supplier": "HEALTHYPHARM BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -37,5 +37,6 @@
       "name": "Neusspray"
     }
   ],
-  "description": "Geneesmiddel - 10ml"
+  "description": "Geneesmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h14/h30/34692264460318/prd-front-2016925-1_600x600/prd-front-2016925-1-600x600.jpg"
 }

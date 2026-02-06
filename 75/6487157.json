@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Got2B Glued Brow Lift",
+  "code": "6487157",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3007 > 3832",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3033842",
+  "mmkId": "3033842",
+  "productGroupId": "511414",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/got2b-glued-brow-lift/p/6487157",
+  "listName": "Lister",
+  "brand": "Got2B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267149,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30267464,
+      "name": "Wenkbrauwgel"
+    }
+  ],
+  "description": "43g",
+  "image": "/medias/sys_master/prd-images/hc5/h88/46447635005470/temp-prd-front-6487157-1_600x600/temp-prd-front-6487157-1-600x600.jpg"
+}

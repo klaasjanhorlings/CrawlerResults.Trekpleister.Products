@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Got2b Glued Spiking Wax",
+  "code": "3027403",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3033842",
+  "mmkId": "3033842",
+  "productGroupId": "511414",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/got2b-glued-spiking-wax/p/3027403",
+  "listName": "Lister",
+  "brand": "Got2B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267486,
+      "name": "Haarwax"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hee/hf6/45712253943838/temp-prd-front-3027403-1_600x600/temp-prd-front-3027403-1-600x600.jpg"
+}

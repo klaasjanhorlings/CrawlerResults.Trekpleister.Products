@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Plaid met Blokpatroon",
+  "code": "6340493",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 5860 > 2195 > 5964 > 5981 > 5998",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-plaid-met-blokpatroon/p/6340493",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267458,
+      "name": "Huishoudelijk textiel"
+    }
+  ],
+  "description": "grijs",
+  "image": "/medias/sys_master/prd-images/hf2/h6e/45189241176094/prd-front-6340493-1_600x600/prd-front-6340493-1-600x600.jpg"
+}

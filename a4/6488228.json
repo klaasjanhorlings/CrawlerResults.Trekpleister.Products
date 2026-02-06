@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Carmen CHD1895B Föhn",
+  "code": "6488228",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6430",
+  "supplier": "INVENTUM HUISHOUDELIJKE",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/carmen-chd1895b-fohn/p/6488228",
+  "listName": "Lister",
+  "brand": "Carmen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267493,
+      "name": "Föhns"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd0/h7a/46104385290270/temp-prd-front-6488228-1_600x600/temp-prd-front-6488228-1-600x600.jpg"
+}

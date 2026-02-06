@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Proset Classic Mega Strong Haarspray",
+  "code": "826995",
+  "price": "4.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
+  "supplier": "ROYAL SANDERS JESSENITZ GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/proset-classic-mega-strong-haarspray/p/826995",
+  "listName": "Lister",
+  "brand": "Proset",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267492,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hb7/he9/32673933328414/prd-front-826995-1_600x600/prd-front-826995-1-600x600.jpg"
+}

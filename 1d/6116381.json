@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Elnett Shine Haarspray<br>",
+  "code": "6116381",
+  "price": "7.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "3033908",
+  "mmkId": "3033908",
+  "productGroupId": "515319",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-elnett-shine-haarspraybr/p/6116381",
+  "listName": "Lister",
+  "brand": "Elnett",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267492,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h6d/h94/45715475136542/temp-prd-front-6116381-1_600x600/temp-prd-front-6116381-1-600x600.jpg"
+}

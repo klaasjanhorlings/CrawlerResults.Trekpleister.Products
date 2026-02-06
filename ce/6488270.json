@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Carmen CCT2520B Krultang",
+  "code": "6488270",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6427",
+  "supplier": "INVENTUM HUISHOUDELIJKE",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/carmen-cct2520b-krultang/p/6488270",
+  "listName": "Lister",
+  "brand": "Carmen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267496,
+      "name": "Krultangen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha7/hb4/46452867334174/temp-prd-front-6488270-1_600x600/temp-prd-front-6488270-1-600x600.jpg"
+}
