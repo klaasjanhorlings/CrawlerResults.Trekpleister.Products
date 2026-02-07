@@ -5,7 +5,7 @@
   "code": "4329914",
   "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 6816 > 6817",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h69/hb2/34375671971870/prd-front-4329914-1_600x600/prd-front-4329914-1-600x600.jpg"
+  "description": "50ml"
 }
