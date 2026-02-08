@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Prioderm Dimeticon Anti-Luislotion",
+  "code": "1949928",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3103 > 4116",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/prioderm-dimeticon-anti-luislotion/p/1949928",
+  "listName": "Lister",
+  "brand": "Prioderm",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267260,
+      "name": "Hoofdluis"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/hd1/hdf/44933082152990/prd-front-1949928-1_600x600/prd-front-1949928-1-600x600.jpg"
+}

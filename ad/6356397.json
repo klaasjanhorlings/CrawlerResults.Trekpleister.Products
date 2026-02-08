@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Fit Me SPF50 60 Nude BB Cream",
+  "code": "6356397",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-fit-me-spf50-60-nude-bb-cream/p/6356397",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267137,
+      "name": "BB cream"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h91/h31/46523025063966/temp-prd-front-6356397-1_600x600/temp-prd-front-6356397-1-600x600.jpg"
+}

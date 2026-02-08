@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Prevalin Direct",
+  "code": "3091425",
+  "price": "17.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 4146",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/prevalin-direct/p/3091425",
+  "listName": "Lister",
+  "brand": "Prevalin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267258,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30267511,
+      "name": "Hooikoorts neussprays"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20ml",
+  "image": "/medias/sys_master/prd-images/h9e/h9d/30148006805534/prd-front-3091425-1_600x600/prd-front-3091425-1-600x600.jpg"
+}

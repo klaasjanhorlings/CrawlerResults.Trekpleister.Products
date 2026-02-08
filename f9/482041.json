@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Vroege Zwangerschapstest",
+  "code": "482041",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2553 > 3187 > 4122",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-vroege-zwangerschapstest/p/482041",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267267,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30267542,
+      "name": "Zwangerschapstesten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-482041-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjM1Mjh8aW1hZ2UvanBlZ3xhRE14TDJoaFlTOHhOak13TnpVeE1EUXhNVEk1TkM5d2NtUXRabkp2Ym5RdE5EZ3lNRFF4TFRGZk5qQXdlRFl3TUF8OWVjODhmYmE3MGEwZDg5NjQyYTBhZjc2NzIzYmY0Zjg1YTI3YWM1ZDU4NWRkYWQzZWZiYjkwMzI0Zjk5Y2M1YQ"
+}

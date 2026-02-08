@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Modifast Protein Shape Pure & Witte Chocolade Snackreep",
+  "code": "920921",
+  "price": "8.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3435",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/modifast-protein-shape-pure-witte-chocolade-snackreep/p/920921",
+  "listName": "Lister",
+  "brand": "Modifast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30267303,
+      "name": "Verantwoorde tussendoortjes"
+    }
+  ],
+  "description": "6 x 31g",
+  "image": "/medias/sys_master/prd-images/he3/h19/28575673679902/prd-front-920921-1_600x600/prd-front-920921-1-600x600.jpg"
+}
