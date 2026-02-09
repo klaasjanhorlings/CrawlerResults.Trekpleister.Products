@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Toffifee",
+  "code": "5208288",
+  "price": "3.99",
+  "priceOriginal": "5.79",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "TD VALUE4U",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,80",
+  "url": "/toffifee/p/5208288",
+  "listName": "Lister",
+  "brand": "Toffifee",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267585,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107467253,
+      "name": "Bonbons en pralines"
+    }
+  ],
+  "description": "400g",
+  "image": "/medias/sys_master/prd-images/hde/h2d/32011959074846/prd-front-5208288-1_600x600/prd-front-5208288-1-600x600.jpg"
+}

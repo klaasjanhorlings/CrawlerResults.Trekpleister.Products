@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Pampers Harmonie Pants Maat 4 Luierbroekjes",
   "code": "6296113",
-  "price": "32.0",
-  "priceOriginal": "54.99",
+  "price": "54.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "3033793",
-  "mmkId": "3033793",
-  "productGroupId": "513825",
+  "onPromo": "8000191",
+  "mmkId": "8000191",
+  "productGroupId": "512643",
   "brandType": "A of B merk",
-  "discount": "€ 22,99",
+  "discount": "",
   "url": "/pampers-harmonie-pants-maat-4-luierbroekjes/p/6296113",
   "listName": "Lister",
   "brand": "Pampers",
@@ -33,6 +33,5 @@
       "name": "Luierbroekjes maat 4"
     }
   ],
-  "description": "mt 4 (9-15kg), 74 stuks",
-  "image": "/medias/sys_master/prd-images/he7/h47/34862092320798/prd-front-6296113-1_600x600/prd-front-6296113-1-600x600.jpg"
+  "description": "mt 4 (9-15kg), 74 stuks"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Witte Reus Color Reus Waspoeder",
+  "code": "6048019",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 6078",
+  "supplier": "HENKEL NEDERLAND BV U-W",
+  "inStock": "inStock",
+  "onPromo": "8000231",
+  "mmkId": "8000231",
+  "productGroupId": "516200",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/witte-reus-color-reus-waspoeder/p/6048019",
+  "listName": "Lister",
+  "brand": "Witte Reus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "3250g, 65 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hf7/h51/44334935441438/prd-front-6048019-1_600x600/prd-front-6048019-1-600x600.jpg"
+}

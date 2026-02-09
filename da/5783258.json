@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "8000218",
+  "mmkId": "8000218",
+  "productGroupId": "514779",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-prime-lab-primer-24h-matte-setter/p/5783258",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/heb/h39/45051971698718/prd-front-5783258-1_600x600/prd-front-5783258-1-600x600.jpg"
 }

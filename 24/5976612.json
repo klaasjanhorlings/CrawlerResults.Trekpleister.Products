@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jumbo Mens Erger Je Niet",
+  "code": "5976612",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2181 > 5161 > 5212 > 5401 > 6040",
+  "supplier": "JUMBO NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jumbo-mens-erger-je-niet/p/5976612",
+  "listName": "Lister",
+  "brand": "Jumbo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2a/h72/29186958196766/prd-front-5976612-1_600x600/prd-front-5976612-1-600x600.jpg"
+}

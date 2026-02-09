@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oral-B Pro 3D White Opzetborstels",
   "code": "2427762",
-  "price": "27.99",
-  "priceOriginal": "",
+  "price": "16.79",
+  "priceOriginal": "27.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "8000006",
-  "mmkId": "8000006",
-  "productGroupId": "511906",
+  "onPromo": "3033849",
+  "mmkId": "3033849",
+  "productGroupId": "511874",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,20",
   "url": "/oral-b-pro-3d-white-opzetborstels/p/2427762",
   "listName": "Lister",
   "brand": "Oral B",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "wit, 4 stuks",
-  "image": "/medias/sys_master/prd-images/h2b/hf5/46533062557726/temp-prd-front-2427762-1_600x600/temp-prd-front-2427762-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h93/h4d/46581269921822/temp-prd-front-2427762-1_600x600/temp-prd-front-2427762-1-600x600.jpg"
 }

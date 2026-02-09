@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York SuperStay Matte Ink 130 Self-Starter Lipstick",
   "code": "4648015",
-  "price": "9.99",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3033892",
-  "mmkId": "3033892",
-  "productGroupId": "514776",
+  "onPromo": "8000218",
+  "mmkId": "8000218",
+  "productGroupId": "514779",
   "brandType": "A of B merk",
-  "discount": "€ 6,00",
+  "discount": "",
   "url": "/maybelline-new-york-superstay-matte-ink-130-self-starter-lipstick/p/4648015",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h82/h06/44848583114782/prd-front-4648015-1_600x600/prd-front-4648015-1-600x600.jpg"
+  "description": "5ml"
 }

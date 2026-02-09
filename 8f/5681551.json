@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oral-B Spiderman Kids Opzetborstels",
   "code": "5681551",
-  "price": "23.99",
-  "priceOriginal": "",
+  "price": "14.39",
+  "priceOriginal": "23.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "8000006",
-  "mmkId": "8000006",
-  "productGroupId": "511906",
+  "onPromo": "3033849",
+  "mmkId": "3033849",
+  "productGroupId": "511874",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,60",
   "url": "/oral-b-spiderman-kids-opzetborstels/p/5681551",
   "listName": "Lister",
   "brand": "Oral B",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h5c/h5e/46526704287774/temp-prd-front-5681551-1_600x600/temp-prd-front-5681551-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb7/h19/46585007767582/temp-prd-front-5681551-2_600x600/temp-prd-front-5681551-2-600x600.jpg"
 }

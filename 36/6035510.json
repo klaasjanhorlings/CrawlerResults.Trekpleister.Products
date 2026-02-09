@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Sunkissed 8 Shades On Liquid Glow Blush",
+  "code": "6035510",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "8000218",
+  "mmkId": "8000218",
+  "productGroupId": "514779",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-sunkissed-8-shades-on-liquid-glow-blush/p/6035510",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267147,
+      "name": "Blush"
+    }
+  ],
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/hdf/ha9/44805215682590/prd-front-6035510-1_600x600/prd-front-6035510-1-600x600.jpg"
+}

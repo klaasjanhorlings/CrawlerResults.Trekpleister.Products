@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Frisse Reus Aromatherapie Bloemensensatie Orchidee Vloeibaar Wasmiddel",
+  "code": "5851242",
+  "price": "12.99",
+  "priceOriginal": "45.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "HENKEL NEDERLAND BV U-W",
+  "inStock": "inStock",
+  "onPromo": "8000231",
+  "mmkId": "8000231",
+  "productGroupId": "516200",
+  "brandType": "A of B merk",
+  "discount": "€ 33,00",
+  "url": "/frisse-reus-aromatherapie-bloemensensatie-orchidee-vloeibaar-wasmiddel/p/5851242",
+  "listName": "Lister",
+  "brand": "Witte Reus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "4,5L, 100 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hc0/h57/44335462613022/prd-front-5851242-1_600x600/prd-front-5851242-1-600x600.jpg"
+}

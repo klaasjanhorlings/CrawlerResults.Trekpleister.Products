@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kiss Ab Fab Gel Fantasy Kunstnagels",
+  "code": "4420837",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6502 > 6503",
+  "supplier": "ANVIRI COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kiss-ab-fab-gel-fantasy-kunstnagels/p/4420837",
+  "listName": "Lister",
+  "brand": "Kiss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267187,
+      "name": "Kunstnagels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/had/h30/33211917631518/prd-front-4420837-1_600x600/prd-front-4420837-1-600x600.jpg"
+}

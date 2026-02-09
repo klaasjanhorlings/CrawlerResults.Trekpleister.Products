@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Skin Recharge Micellair Water",
   "code": "6082284",
-  "price": "4.0",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "8000007",
-  "mmkId": "8000007",
-  "productGroupId": "515503",
+  "onPromo": "8000202",
+  "mmkId": "8000202",
+  "productGroupId": "509197",
   "brandType": "A of B merk",
-  "discount": "€ 5,99",
+  "discount": "",
   "url": "/nivea-skin-recharge-micellair-water/p/6082284",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -37,5 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml - Gevoelige huid"
+  "description": "400ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h76/h87/35066117390366/prd-front-6082284-1_600x600/prd-front-6082284-1-600x600.jpg"
 }

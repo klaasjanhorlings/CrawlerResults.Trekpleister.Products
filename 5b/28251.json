@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tabac Original Aftershave Natural Spray",
+  "code": "28251",
+  "price": "11.96",
+  "priceOriginal": "15.95",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3395",
+  "supplier": "MAURER&WIRTZ GMBH&CO KG",
+  "inStock": "inStock",
+  "onPromo": "3033917",
+  "mmkId": "3033917",
+  "productGroupId": "515941",
+  "brandType": "A of B merk",
+  "discount": "€ 3,99",
+  "url": "/tabac-original-aftershave-natural-spray/p/28251",
+  "listName": "Lister",
+  "brand": "Tabac",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267169,
+      "name": "Aftershave"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h38/hf2/30701974323230/prd-front-28251-1_600x600/prd-front-28251-1-600x600.jpg"
+}

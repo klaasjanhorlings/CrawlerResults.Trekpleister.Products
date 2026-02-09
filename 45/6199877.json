@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cosrx Propolis Synergy Toner",
+  "code": "6199877",
+  "price": "21.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cosrx-propolis-synergy-toner/p/6199877",
+  "listName": "Lister",
+  "brand": "COSRX",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267478,
+      "name": "Reinigingstonic"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf1/h7e/32246830202910/prd-front-6199877-1_600x600/prd-front-6199877-1-600x600.jpg"
+}

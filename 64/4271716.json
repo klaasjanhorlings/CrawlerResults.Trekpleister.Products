@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guess Seductive Bodymist",
+  "code": "4271716",
+  "price": "8.99",
+  "priceOriginal": "11.99",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "3033933",
+  "mmkId": "3033933",
+  "productGroupId": "521665",
+  "brandType": "A of B merk",
+  "discount": "€ 3,00",
+  "url": "/guess-seductive-bodymist/p/4271716",
+  "listName": "Lister",
+  "brand": "Guess",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 30267158,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h1f/h11/28550518636574/prd-front-4271716-1_600x600/prd-front-4271716-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 2181 > 5161 > 5212 > 5401 > 6040",
   "supplier": "RAVENSBURGER BV",
   "inStock": "inStock",
-  "onPromo": "3033919",
-  "mmkId": "3033919",
-  "productGroupId": "516293",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ravensburger-scotland-yard-junior/p/6323014",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h32/h13/34687714459678/prd-front-6323014-1_600x600/prd-front-6323014-1-600x600.jpg"
+  "description": ""
 }

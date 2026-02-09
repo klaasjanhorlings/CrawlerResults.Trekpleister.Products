@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Fit Me Matte + Poreless 124 Soft Sand Foundation",
   "code": "4422622",
-  "price": "5.99",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "outOfStock",
-  "onPromo": "3033893",
-  "mmkId": "3033893",
-  "productGroupId": "514777",
+  "onPromo": "8000218",
+  "mmkId": "8000218",
+  "productGroupId": "514779",
   "brandType": "A of B merk",
-  "discount": "€ 6,00",
+  "discount": "",
   "url": "/maybelline-new-york-fit-me-matte-poreless-124-soft-sand-foundation/p/4422622",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h9e/h87/44789588033566/prd-front-4422622-1_600x600/prd-front-4422622-1-600x600.jpg"
+  "description": ""
 }

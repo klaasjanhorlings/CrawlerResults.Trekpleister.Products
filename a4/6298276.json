@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3033905",
   "mmkId": "3033905",
   "productGroupId": "514901",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 2 stuks"
+  "description": "wit, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h98/hb2/34872072699934/prd-front-6298276-1_600x600/prd-front-6298276-1-600x600.jpg"
 }

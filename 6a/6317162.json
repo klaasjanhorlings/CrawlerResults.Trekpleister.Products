@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty Miracle Nude Beige Flawless Skin Foundation",
+  "code": "6317162",
+  "price": "11.24",
+  "priceOriginal": "14.99",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "inStock",
+  "onPromo": "3033927",
+  "mmkId": "3033927",
+  "productGroupId": "516974",
+  "brandType": "Exclusief merk",
+  "discount": "€ 3,75",
+  "url": "/mcobeauty-miracle-nude-beige-flawless-skin-foundation/p/6317162",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267134,
+      "name": "Foundation"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hbe/h61/34868931887134/prd-front-6317162-1_600x600/prd-front-6317162-1-600x600.jpg"
+}
