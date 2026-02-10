@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Second Skin Spray Pleister",
+  "code": "6407098",
+  "price": "4.99",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 3742",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "8000222",
+  "mmkId": "8000222",
+  "productGroupId": "515844",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/hansaplast-second-skin-spray-pleister/p/6407098",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30267296,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414262,
+      "name": "Waterbestendige pleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 40ml",
+  "image": "/medias/sys_master/prd-images/hec/h55/45668880580638/temp-prd-front-6407098-1_600x600/temp-prd-front-6407098-1-600x600.jpg"
+}

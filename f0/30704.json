@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leukoplast Traditionele Hechtpleister",
+  "code": "30704",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2690 > 3390 > 2332",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/leukoplast-traditionele-hechtpleister/p/30704",
+  "listName": "Lister",
+  "brand": "Leukoplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267059,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 49259483,
+      "name": "Hechtpleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 500cm x 1,25cm",
+  "image": "/medias/sys_master/prd-images/h9c/h5d/45032797995038/prd-front-30704-1_600x600/prd-front-30704-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Huidirritatie"
     }
   ],
-  "description": "30g"
+  "description": "30g",
+  "image": "/medias/sys_master/prd-images/h25/h41/44937797140510/prd-front-6288595-1_600x600/prd-front-6288595-1-600x600.jpg"
 }
