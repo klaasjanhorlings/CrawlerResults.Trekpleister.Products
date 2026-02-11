@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schwarzkopf Blonde M1 Coupe de Soleil Super Haarverf",
+  "code": "16302",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "3033842",
+  "mmkId": "3033842",
+  "productGroupId": "511414",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schwarzkopf-blonde-m1-coupe-de-soleil-super-haarverf/p/16302",
+  "listName": "Lister",
+  "brand": "Schwarzkopf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7c/h9c/44701028745246/prd-front-16302-1_600x600/prd-front-16302-1-600x600.jpg"
+}

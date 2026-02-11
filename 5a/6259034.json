@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "4869 > 2048 > 2225 > 5069 > 5071 > 5096",
   "supplier": "HVEG ACCES. GROUP BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Winteraccessoires"
     }
   ],
-  "description": "zwart, 50cm x 180cm"
+  "description": "zwart, 50cm x 180cm",
+  "image": "/medias/sys_master/prd-images/haa/h2f/34285015564318/prd-front-6259034-1_600x600/prd-front-6259034-1-600x600.jpg"
 }

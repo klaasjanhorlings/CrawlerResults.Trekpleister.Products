@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 6457 > 6458 > 6788",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -25,16 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
+      "id": 48237361,
+      "name": "Voetongemakken"
     },
     {
-      "id": 30267256,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 30267501,
-      "name": "Wrattenbehandeling"
+      "id": 101931906,
+      "name": "Voetwratten"
     }
   ],
   "description": "50ml",

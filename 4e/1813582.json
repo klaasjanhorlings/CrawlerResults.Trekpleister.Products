@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "MC BRIDE NV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "750ml",
-  "image": "/medias/sys_master/prd-images/h84/h42/30868400635934/prd-front-1813582-1_600x600/prd-front-1813582-1-600x600.jpg"
+  "description": "750ml"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033910",
   "mmkId": "3033910",
   "productGroupId": "515330",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "350ml",
-  "image": "/medias/sys_master/prd-images/hf1/h87/30139775582238/prd-front-5802522-1_600x600/prd-front-5802522-1-600x600.jpg"
+  "description": "350ml"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "4.89",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033812",
   "mmkId": "3033812",
   "productGroupId": "508701",
@@ -37,5 +37,6 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks"
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/he2/h04/33390337949726/prd-front-2518440-1_600x600/prd-front-2518440-1-600x600.jpg"
 }

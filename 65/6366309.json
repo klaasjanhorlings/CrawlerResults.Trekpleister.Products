@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Babyliss Shape & Smooth AS82E Föhnborstel",
+  "code": "6366309",
+  "price": "39.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6428",
+  "supplier": "CONAIR COOPERATIEF UA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/babyliss-shape-smooth-as82e-fohnborstel/p/6366309",
+  "listName": "Lister",
+  "brand": "Babyliss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267495,
+      "name": "Haarborstels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he4/hbb/44631949639710/prd-front-6366309-1_600x600/prd-front-6366309-1-600x600.jpg"
+}
