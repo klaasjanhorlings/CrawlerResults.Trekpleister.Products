@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fa Passion Fruit Douchegel",
   "code": "6026305",
-  "price": "4.29",
-  "priceOriginal": "",
+  "price": "1.5",
+  "priceOriginal": "4.29",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3033842",
-  "mmkId": "3033842",
-  "productGroupId": "511414",
+  "onPromo": "8000244",
+  "mmkId": "8000244",
+  "productGroupId": "514377",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,79",
   "url": "/fa-passion-fruit-douchegel/p/6026305",
   "listName": "Lister",
   "brand": "Fa",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hcf/h64/46690177581086/temp-prd-front-6026305-1_600x600/temp-prd-front-6026305-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h14/h44/46730479239198/temp-prd-front-6026305-1_600x600/temp-prd-front-6026305-1-600x600.jpg"
 }

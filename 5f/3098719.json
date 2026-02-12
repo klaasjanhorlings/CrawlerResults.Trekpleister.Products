@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2076 > 2227 > 2509 > 3120 > 3985",
   "supplier": "UNILEVER NEDERLAND",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Soep"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h3d/hec/44842369220638/prd-front-3098719-1_600x600/prd-front-3098719-1-600x600.jpg"
 }

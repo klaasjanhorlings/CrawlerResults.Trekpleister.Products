@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000251",
+  "mmkId": "8000251",
+  "productGroupId": "516404",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-avent-natural-response-scy903/67-1m-koala-babyfles-met-natuurlijke-zuigreflex-flesspeen/p/5841050",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "260ml"
+  "description": "260ml",
+  "image": "/medias/sys_master/prd-images/h1c/hc3/44388796629022/prd-front-5841050-1_600x600/prd-front-5841050-1-600x600.jpg"
 }

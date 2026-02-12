@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "The Master Perfumer Nr.26 White Lily Eau de Toilette",
   "code": "6119181",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "6.74",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "MORE LABELS GROUP BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000246",
+  "mmkId": "8000246",
+  "productGroupId": "514682",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 2,25",
   "url": "/the-master-perfumer-nr26-white-lily-eau-de-toilette/p/6119181",
   "listName": "Lister",
   "brand": "The Master Perfumer",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hdd/h89/32700242821150/prd-front-6119181-1_600x600/prd-front-6119181-1-600x600.jpg"
 }

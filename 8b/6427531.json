@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000250",
+  "mmkId": "8000250",
+  "productGroupId": "516305",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-the-botanical-collection-11501-boeket-met-tulpen/p/6427531",
@@ -33,5 +33,6 @@
       "name": "LEGO Bloemen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4d/hb8/45712220323870/temp-prd-front-6427531-1_600x600/temp-prd-front-6427531-1-600x600.jpg"
 }

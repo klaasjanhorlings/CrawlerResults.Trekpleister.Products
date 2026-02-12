@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3033885",
   "mmkId": "3033885",
   "productGroupId": "514279",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/hac/hbf/44852187463710/prd-front-5612776-1_600x600/prd-front-5612776-1-600x600.jpg"
+  "description": "50ml, alle huidtypes"
 }

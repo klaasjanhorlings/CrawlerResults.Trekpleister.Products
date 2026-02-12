@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Guess Seductive Red Bodymist",
   "code": "5546339",
-  "price": "8.99",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "3033933",
-  "mmkId": "3033933",
-  "productGroupId": "521665",
+  "onPromo": "8000247",
+  "mmkId": "8000247",
+  "productGroupId": "514688",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/guess-seductive-red-bodymist/p/5546339",
   "listName": "Lister",
   "brand": "Guess",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h73/h94/28579075719198/prd-front-5546339-1_600x600/prd-front-5546339-1-600x600.jpg"
 }

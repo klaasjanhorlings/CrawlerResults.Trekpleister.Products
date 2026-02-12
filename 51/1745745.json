@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "10 ml"
+  "description": "10 ml",
+  "image": "/medias/sys_master/prd-images/h95/heb/33749666988062/prd-front-1745745-1_600x600/prd-front-1745745-1-600x600.jpg"
 }

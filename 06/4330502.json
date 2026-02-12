@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fa Watermelon Waves Douchegel",
   "code": "4330502",
-  "price": "4.29",
-  "priceOriginal": "",
+  "price": "1.5",
+  "priceOriginal": "4.29",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3033842",
-  "mmkId": "3033842",
-  "productGroupId": "511414",
+  "onPromo": "8000244",
+  "mmkId": "8000244",
+  "productGroupId": "514377",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,79",
   "url": "/fa-watermelon-waves-douchegel/p/4330502",
   "listName": "Lister",
   "brand": "Fa",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h76/h30/44856234049566/prd-front-4330502-1_600x600/prd-front-4330502-1-600x600.jpg"
 }

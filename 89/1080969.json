@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fa Men Perfect Wave Deodorant & Bodyspray",
   "code": "1080969",
-  "price": "4.49",
-  "priceOriginal": "",
+  "price": "1.5",
+  "priceOriginal": "4.49",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "3033842",
-  "mmkId": "3033842",
-  "productGroupId": "511414",
+  "onPromo": "8000244",
+  "mmkId": "8000244",
+  "productGroupId": "514377",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,99",
   "url": "/fa-men-perfect-wave-deodorant-bodyspray/p/1080969",
   "listName": "Lister",
   "brand": "Fa",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h32/h41/46690229092382/temp-prd-front-1080969-1_600x600/temp-prd-front-1080969-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb2/hd0/46718970757150/temp-prd-front-1080969-1_600x600/temp-prd-front-1080969-1-600x600.jpg"
 }
