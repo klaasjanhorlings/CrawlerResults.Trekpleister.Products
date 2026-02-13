@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ravensburger Nijntje Mini Memory",
+  "code": "6123990",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2181 > 5162 > 5217 > 5406 > 6040",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ravensburger-nijntje-mini-memory/p/6123990",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281487,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf7/h9f/33817518440478/prd-front-6123990-1_600x600/prd-front-6123990-1-600x600.jpg"
+}

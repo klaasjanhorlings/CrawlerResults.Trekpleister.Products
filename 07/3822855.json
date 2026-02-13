@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA 3-In-1 Micellair Skin Breathe Reinigingsdoekjes",
+  "code": "3822855",
+  "price": "5.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "8000202",
+  "mmkId": "8000202",
+  "productGroupId": "509197",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-3-in-1-micellair-skin-breathe-reinigingsdoekjes/p/3822855",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267471,
+      "name": "Reinigingsdoekjes"
+    }
+  ],
+  "description": "25 stuks",
+  "image": "/medias/sys_master/prd-images/h48/he3/44001277411358/prd-front-3822855-1_600x600/prd-front-3822855-1-600x600.jpg"
+}

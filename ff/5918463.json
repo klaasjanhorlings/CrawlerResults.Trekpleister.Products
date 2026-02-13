@@ -21,12 +21,24 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536625,
-      "name": "Baby"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 75860503,
-      "name": "Baby en Kind gezondheid"
+      "id": 30267057,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30267257,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30267507,
+      "name": "Oordoppen"
+    },
+    {
+      "id": 117396368,
+      "name": "Kinder oordoppen"
     }
   ],
   "description": "",

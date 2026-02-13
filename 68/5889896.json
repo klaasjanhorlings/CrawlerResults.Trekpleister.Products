@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clementoni Disney Ganzenbordspel",
+  "code": "5889896",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2181 > 5161 > 5212 > 5401 > 6040",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/clementoni-disney-ganzenbordspel/p/5889896",
+  "listName": "Lister",
+  "brand": "Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": ""
+}

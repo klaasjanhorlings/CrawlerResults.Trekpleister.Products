@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Anua Heartleaf 77 Soothing Toner",
+  "code": "6394694",
+  "price": "22.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/anua-heartleaf-77-soothing-toner/p/6394694",
+  "listName": "Lister",
+  "brand": "ANUA",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267474,
+      "name": "Reinigingsgel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h60/h43/46380132565022/temp-prd-front-6394694-1_600x600/temp-prd-front-6394694-1-600x600.jpg"
+}

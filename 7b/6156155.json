@@ -6,7 +6,7 @@
   "price": "3.79",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 2979 > 3805",
-  "supplier": "SANATURE BV",
+  "supplier": "SANATURE OPERATIONS B.V.",
   "inStock": "inStock",
   "onPromo": "3033920",
   "mmkId": "3033920",
@@ -33,6 +33,5 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/h32/hf0/31564965806110/prd-front-6156155-1_600x600/prd-front-6156155-1-600x600.jpg"
+  "description": "24 stuks"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Biodermal Gevoelige Huid SPF30 Zonnemelk",
+  "code": "4059308",
+  "price": "36.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "3033874",
+  "mmkId": "3033874",
+  "productGroupId": "513249",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/biodermal-gevoelige-huid-spf30-zonnemelk/p/4059308",
+  "listName": "Lister",
+  "brand": "Biodermal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h5a/ha4/33163876368414/prd-front-4059308-1_600x600/prd-front-4059308-1-600x600.jpg"
+}

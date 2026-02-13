@@ -21,17 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267050,
-      "name": "Zonbescherming"
+      "id": 30267067,
+      "name": "Babyverzorging"
     },
     {
-      "id": 30267214,
-      "name": "Zonnebrand"
+      "id": 30267335,
+      "name": "Baby zonnebrand"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hda/h40/46389979086878/temp-prd-front-5806750-1_600x600/temp-prd-front-5806750-1-600x600.jpg"
 }

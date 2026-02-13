@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jumbo Pisa Spel",
+  "code": "6345092",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2181 > 6740 > 6739 > 6741 > 6040",
+  "supplier": "JUMBO NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jumbo-pisa-spel/p/6345092",
+  "listName": "Lister",
+  "brand": "Jumbo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267077,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 49281783,
+      "name": "Interactief speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hae/h5f/34898775277598/prd-front-6345092-1_600x600/prd-front-6345092-1-600x600.jpg"
+}

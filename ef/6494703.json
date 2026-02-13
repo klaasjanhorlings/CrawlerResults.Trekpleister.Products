@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Rose Care Hydraterende Gezichtsgel",
+  "code": "6494703",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "3033873",
+  "mmkId": "3033873",
+  "productGroupId": "513224",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-rose-care-hydraterende-gezichtsgel/p/6494703",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hbc/h21/46786582642718/temp-prd-front-6494703-1_600x600/temp-prd-front-6494703-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "St. Ives Fresh Skin Apricot Scrub",
+  "code": "5780556",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/st-ives-fresh-skin-apricot-scrub/p/5780556",
+  "listName": "Lister",
+  "brand": "St. Ives",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 84946008,
+      "name": "Exfoliant"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-5780556-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQ2MTd8aW1hZ2UvanBlZ3xhREV5TDJneVlpOHhOelExTXpFd056QTROVE0wTWk5d2NtUXRabkp2Ym5RdE5UYzRNRFUxTmkweFh6WXdNSGcyTURBfDllOGY2NmUxYmE4MTVlYTMyNDU2ZGMzZWQ1YmZiZDljZjNmODI1MThlZGM3MTNhZDU5ODEzZWUyNjUwZGFiZDA"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bluey Activity Case",
+  "code": "6268624",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 3710 > 2191 > 6822 > 6823",
+  "supplier": "SPEELGOEDLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bluey-activity-case/p/6268624",
+  "listName": "Lister",
+  "brand": "Bluey",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267081,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h02/h51/35031471489054/prd-front-6268624-1_600x600/prd-front-6268624-1-600x600.jpg"
+}

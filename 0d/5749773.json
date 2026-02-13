@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Avent SCF135/06 Reisbox Voor Melkpoeder",
+  "code": "5749773",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "8000251",
+  "mmkId": "8000251",
+  "productGroupId": "516404",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-avent-scf135/06-reisbox-voor-melkpoeder/p/5749773",
+  "listName": "Lister",
+  "brand": "Philips Avent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267358,
+      "name": "Flesvoedingsaccessoires"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h73/h02/28796119023646/prd-front-5749773-1_600x600/prd-front-5749773-1-600x600.jpg"
+}

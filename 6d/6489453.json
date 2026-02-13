@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bioré Aqua Rich Uv SPF50 Glowy Weightless Moisturizer",
+  "code": "6489453",
+  "price": "23.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/biore-aqua-rich-uv-spf50-glowy-weightless-moisturizer/p/6489453",
+  "listName": "Lister",
+  "brand": "Bioré",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb5/h28/46786587361310/temp-prd-front-6489453-1_600x600/temp-prd-front-6489453-1-600x600.jpg"
+}

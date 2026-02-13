@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Stitch XXL Puzzel",
+  "code": "6319325",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2181 > 5166 > 5237 > 5426 > 6040",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/stitch-xxl-puzzel/p/6319325",
+  "listName": "Lister",
+  "brand": "Stitch",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "100 stukjes",
+  "image": "/medias/sys_master/prd-images/he1/hbc/34680450875422/prd-front-6319325-1_600x600/prd-front-6319325-1-600x600.jpg"
+}

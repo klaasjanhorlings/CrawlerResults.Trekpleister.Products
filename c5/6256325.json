@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Minecraft Gevulde Etui",
+  "code": "6256325",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 3710 > 2191 > 6822 > 6823",
+  "supplier": "SPEELGOEDLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/minecraft-gevulde-etui/p/6256325",
+  "listName": "Lister",
+  "brand": "Minecraft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267081,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1f/h5d/35062855368734/prd-front-6256325-1_600x600/prd-front-6256325-1-600x600.jpg"
+}

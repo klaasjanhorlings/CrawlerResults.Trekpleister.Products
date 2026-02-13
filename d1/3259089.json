@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bio-Oil",
+  "code": "3259089",
+  "price": "20.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bio-oil/p/3259089",
+  "listName": "Lister",
+  "brand": "Bio-Oil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267046,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30267196,
+      "name": "Bodyolie"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/hae/hd9/32404140228638/prd-front-3259089-1_600x600/prd-front-3259089-1-600x600.jpg"
+}

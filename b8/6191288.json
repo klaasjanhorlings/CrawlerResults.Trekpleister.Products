@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Anti-Mee-Eters 0,5% Salicylzuur Toner",
+  "code": "6191288",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-anti-mee-eters-0-5-salicylzuur-toner/p/6191288",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267163,
+      "name": "Dermacare"
+    }
+  ],
+  "description": "200ml - Onzuivere huid",
+  "image": "/medias/sys_master/prd-images/h96/hc6/32596555759646/prd-front-6191288-1_600x600/prd-front-6191288-1-600x600.jpg"
+}

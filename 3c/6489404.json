@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zarqa Sensitive Clear Skin Dag- & Nachtcrème",
+  "code": "6489404",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "REMARK GROEP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zarqa-sensitive-clear-skin-dag-nachtcreme/p/6489404",
+  "listName": "Lister",
+  "brand": "Zarqa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267160,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/he5/h62/46379422351390/temp-prd-front-6489404-1_600x600/temp-prd-front-6489404-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zarqa Sensitive Clear Skin Reinigingsgel",
+  "code": "6491679",
+  "price": "15.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "REMARK GROEP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zarqa-sensitive-clear-skin-reinigingsgel/p/6491679",
+  "listName": "Lister",
+  "brand": "Zarqa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267474,
+      "name": "Reinigingsgel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hd7/h67/46378634149918/temp-prd-front-6491679-1_600x600/temp-prd-front-6491679-1-600x600.jpg"
+}

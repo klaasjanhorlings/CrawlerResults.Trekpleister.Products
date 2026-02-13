@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medicube Deep Vita C Pads",
+  "code": "6494976",
+  "price": "27.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medicube-deep-vita-c-pads/p/6494976",
+  "listName": "Lister",
+  "brand": "medicube",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 84946008,
+      "name": "Exfoliant"
+    }
+  ],
+  "description": "70 stuks",
+  "image": "/medias/sys_master/prd-images/hc5/hfd/46380208914462/temp-prd-front-6494976-1_600x600/temp-prd-front-6494976-1-600x600.jpg"
+}

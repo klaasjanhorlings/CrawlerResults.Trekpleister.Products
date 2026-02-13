@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tsururi Ghassoul Mineral Clay Pack Masker",
+  "code": "6340430",
+  "price": "14.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tsururi-ghassoul-mineral-clay-pack-masker/p/6340430",
+  "listName": "Lister",
+  "brand": "Tsururi",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "150g",
+  "image": "/medias/sys_master/prd-images/hd9/h96/45418589159454/prd-front-6340430-1_600x600/prd-front-6340430-1-600x600.jpg"
+}

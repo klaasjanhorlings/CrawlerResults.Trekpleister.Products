@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hada Labo Tokyo White Line No.1 Lotion",
+  "code": "6381100",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hada-labo-tokyo-white-line-no1-lotion/p/6381100",
+  "listName": "Lister",
+  "brand": "Hada Labo Tokyo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/ha8/h1e/45418431545374/prd-front-6381100-1_600x600/prd-front-6381100-1-600x600.jpg"
+}
