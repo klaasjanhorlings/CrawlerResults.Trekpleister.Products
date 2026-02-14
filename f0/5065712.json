@@ -29,9 +29,10 @@
       "name": "Skincare"
     },
     {
-      "id": 30267160,
-      "name": "Nachtcreme"
+      "id": 30267159,
+      "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Gevoelige huid"
+  "description": "50ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hba/h8b/28578033860638/prd-front-5065712-1_600x600/prd-front-5065712-1-600x600.jpg"
 }

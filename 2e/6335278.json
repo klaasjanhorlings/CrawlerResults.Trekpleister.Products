@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Squishmotion Spinmaster Kinetic Sand Set",
+  "code": "6335278",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2191 > 3710 > 6822 > 6823",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/squishmotion-spinmaster-kinetic-sand-set/p/6335278",
+  "listName": "Lister",
+  "brand": "Spinmaster",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267084,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 61683060,
+      "name": "Waterspeelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hba/hbc/45180649668638/prd-front-6335278-1_600x600/prd-front-6335278-1-600x600.jpg"
+}

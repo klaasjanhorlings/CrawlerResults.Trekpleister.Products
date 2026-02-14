@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Cellular Expert Finish 02 Medium SPF15 3-in-1 Care Cushion Foundation",
+  "code": "4992394",
+  "price": "35.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "BEIERSDORF NV BL",
+  "inStock": "outOfStock",
+  "onPromo": "3033873",
+  "mmkId": "3033873",
+  "productGroupId": "513224",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-cellular-expert-finish-02-medium-spf15-3-in-1-care-cushion-foundation/p/4992394",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267134,
+      "name": "Foundation"
+    }
+  ],
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/h08/hb5/32902527680542/prd-front-4992394-1_600x600/prd-front-4992394-1-600x600.jpg"
+}

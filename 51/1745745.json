@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30267161,
-      "name": "Oogcreme"
+      "id": 30267167,
+      "name": "Gezichtscreme mannen"
     }
   ],
   "description": "10 ml",

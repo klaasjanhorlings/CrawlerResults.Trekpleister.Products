@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Verzachtende Reinigingsmelk",
+  "code": "6051820",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3889",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "8000202",
+  "mmkId": "8000202",
+  "productGroupId": "509197",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-verzachtende-reinigingsmelk/p/6051820",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267473,
+      "name": "Reinigingsmelk"
+    }
+  ],
+  "description": "200ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h34/h22/44753067802654/prd-front-6051820-1_600x600/prd-front-6051820-1-600x600.jpg"
+}

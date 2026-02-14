@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutrilon 1 Baby Opvolgmelk 0-6M Tabs",
+  "code": "6362067",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutrilon-1-baby-opvolgmelk-0-6m-tabs/p/6362067",
+  "listName": "Lister",
+  "brand": "Nutrilon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267559,
+      "name": "Zuigelingenvoeding"
+    }
+  ],
+  "description": "6 x 5 stuks",
+  "image": "/medias/sys_master/prd-images/h64/ha0/44316827123742/prd-front-6362067-1_600x600/prd-front-6362067-1-600x600.jpg"
+}

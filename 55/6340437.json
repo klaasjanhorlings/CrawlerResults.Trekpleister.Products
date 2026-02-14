@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,12 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30267165,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30267471,
-      "name": "Reinigingsdoekjes"
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
     }
   ],
   "description": "",
