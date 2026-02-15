@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Douwe Egberts Espresso Intenso Koffiecapsules",
   "code": "6389983",
-  "price": "4.49",
-  "priceOriginal": "",
+  "price": "2.99",
+  "priceOriginal": "4.49",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
   "supplier": "JACOBS DOUWE EGBERTS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "8000731",
+  "mmkId": "8000731",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,50",
   "url": "/douwe-egberts-espresso-intenso-koffiecapsules/p/6389983",
   "listName": "Lister",
   "brand": "Douwe Egberts",
@@ -33,6 +33,5 @@
       "name": "Koffiecups"
     }
   ],
-  "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/h22/hc2/44390495584286/prd-front-6389983-1_600x600/prd-front-6389983-1-600x600.jpg"
+  "description": "16 stuks"
 }
