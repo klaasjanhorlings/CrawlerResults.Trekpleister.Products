@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000371",
+  "mmkId": "8000371",
+  "productGroupId": "519932",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-3-in-1-face-body-lotion/p/6391439",
@@ -33,5 +33,6 @@
       "name": "Handlotion"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h17/h94/44642318909470/prd-front-6391439-1_600x600/prd-front-6391439-1-600x600.jpg"
 }

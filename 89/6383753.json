@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
   "supplier": "UNILEVER NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3033561",
-  "mmkId": "3033561",
-  "productGroupId": "509873",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 3,30",
   "url": "/robijn-classics-pink-sensation-wasverzachter-/p/6383753",
@@ -29,6 +29,5 @@
       "name": "Wasverzachter"
     }
   ],
-  "description": "780ml, 38 wasbeurten",
-  "image": "/medias/sys_master/prd-images/h72/h4e/44254405034014/prd-front-6383753-1_600x600/prd-front-6383753-1-600x600.jpg"
+  "description": "780ml, 38 wasbeurten"
 }

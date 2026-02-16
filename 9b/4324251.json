@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Elvive Dream Lengths No Haircut Cream",
   "code": "4324251",
-  "price": "4.49",
-  "priceOriginal": "8.99",
+  "price": "8.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2838 > 3578",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "3033909",
-  "mmkId": "3033909",
-  "productGroupId": "515320",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,50",
+  "discount": "",
   "url": "/loreal-paris-elvive-dream-lengths-no-haircut-cream/p/4324251",
   "listName": "Lister",
   "brand": "Elvive",
@@ -33,6 +33,5 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/ha7/h41/33044350271518/prd-front-4324251-1_600x600/prd-front-4324251-1-600x600.jpg"
+  "description": "200ml"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kneipp Relaxing Lavendel Badolie",
   "code": "17972",
-  "price": "8.74",
-  "priceOriginal": "12.49",
+  "price": "12.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033816",
-  "mmkId": "3033816",
-  "productGroupId": "508977",
+  "onPromo": "8000285",
+  "mmkId": "8000285",
+  "productGroupId": "508978",
   "brandType": "A of B merk",
-  "discount": "€ 3,75",
+  "discount": "",
   "url": "/kneipp-relaxing-lavendel-badolie/p/17972",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,5 +33,6 @@
       "name": "Badolie"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hc4/he9/28548727832606/prd-front-17972-1_600x600/prd-front-17972-1-600x600.jpg"
 }

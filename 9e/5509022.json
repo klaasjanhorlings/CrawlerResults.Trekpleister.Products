@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Midalgan Warm Spray",
   "code": "5509022",
-  "price": "10.87",
-  "priceOriginal": "14.49",
+  "price": "14.49",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "3033531",
-  "mmkId": "3033531",
-  "productGroupId": "504303",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,62",
+  "discount": "",
   "url": "/midalgan-warm-spray/p/5509022",
   "listName": "Lister",
   "brand": "Midalgan",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h52/h12/46859984961566/temp-prd-front-5509022-1_600x600/temp-prd-front-5509022-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2b/h8b/46901689679902/temp-prd-front-5509022-1_600x600/temp-prd-front-5509022-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Soft Matte Peach Bellini Blush Beauty Wand",
   "code": "6316651",
-  "price": "8.99",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3033927",
-  "mmkId": "3033927",
-  "productGroupId": "516974",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/mcobeauty-soft-matte-peach-bellini-blush-beauty-wand/p/6316651",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "12ml"
+  "description": "12ml",
+  "image": "/medias/sys_master/prd-images/h1d/hc1/34826092740638/prd-front-6316651-1_600x600/prd-front-6316651-1-600x600.jpg"
 }

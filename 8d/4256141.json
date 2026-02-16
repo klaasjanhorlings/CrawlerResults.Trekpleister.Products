@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tena Men Active Fit Pants Plus Incontinentiebroekjes",
   "code": "4256141",
-  "price": "5.99",
-  "priceOriginal": "10.99",
+  "price": "10.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2199 > 6829 > 6830 > 6831",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3033813",
-  "mmkId": "3033813",
-  "productGroupId": "508703",
+  "onPromo": "8000280",
+  "mmkId": "8000280",
+  "productGroupId": "508708",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/tena-men-active-fit-pants-plus-incontinentiebroekjes/p/4256141",
   "listName": "Lister",
   "brand": "Tena",
@@ -37,5 +37,6 @@
       "name": "Incontinentiebroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - mt L-XL, 8 stuks"
+  "description": "Medisch hulpmiddel - mt L-XL, 8 stuks",
+  "image": "/medias/sys_master/prd-images/h29/he4/29089027588126/prd-front-4256141-1_600x600/prd-front-4256141-1-600x600.jpg"
 }

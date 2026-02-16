@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Davitamon Vitamine D Olie voor Baby en Kind",
   "code": "21531",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "4.99",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6239",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "8000214",
-  "mmkId": "8000214",
-  "productGroupId": "513315",
+  "onPromo": "8000342",
+  "mmkId": "8000342",
+  "productGroupId": "518657",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/davitamon-vitamine-d-olie-voor-baby-en-kind/p/21531",
   "listName": "Lister",
   "brand": "Davitamon",
@@ -37,5 +37,6 @@
       "name": "Kindervitamines"
     }
   ],
-  "description": "25ml"
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/h01/hda/33360236412958/prd-front-21531-1_600x600/prd-front-21531-1-600x600.jpg"
 }

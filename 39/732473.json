@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 3137 > 4003",
   "supplier": "SUNSTAR BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000363",
+  "mmkId": "8000363",
+  "productGroupId": "519818",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gum-halicontrol-tongreiniger/p/732473",
@@ -33,6 +33,5 @@
       "name": "Tongreinigers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h02/h94/34508648611870/prd-front-732473-1_600x600/prd-front-732473-1-600x600.jpg"
+  "description": ""
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Biodermal SPF30 Matterende Zonnefluïde voor je Gezicht",
   "code": "5806778",
-  "price": "27.49",
-  "priceOriginal": "",
+  "price": "13.74",
+  "priceOriginal": "27.49",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3033874",
-  "mmkId": "3033874",
-  "productGroupId": "513249",
+  "onPromo": "8000382",
+  "mmkId": "8000382",
+  "productGroupId": "520150",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 13,75",
   "url": "/biodermal-spf30-matterende-zonnefluide-voor-je-gezicht/p/5806778",
   "listName": "Lister",
   "brand": "Biodermal",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h4c/h81/34365161635870/prd-front-5806778-1_600x600/prd-front-5806778-1-600x600.jpg"
 }

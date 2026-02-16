@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2052 > 2175 > 2701 > 3404 > 6784",
   "supplier": "PIETERCIL BARENDS BV",
   "inStock": "inStock",
-  "onPromo": "3033915",
-  "mmkId": "3033915",
-  "productGroupId": "515886",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-scholls-schoendeodorant/p/593068",
@@ -33,6 +33,5 @@
       "name": "Zweetvoeten"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h30/hc6/46786661416990/temp-prd-front-593068-1_600x600/temp-prd-front-593068-1-600x600.jpg"
+  "description": "150ml"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Therme Aqua Wellness Shower Satin Douchecrème",
   "code": "5494875",
-  "price": "3.49",
-  "priceOriginal": "6.99",
+  "price": "6.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "8000242",
-  "mmkId": "8000242",
-  "productGroupId": "513812",
+  "onPromo": "8000277",
+  "mmkId": "8000277",
+  "productGroupId": "508081",
   "brandType": "A of B merk",
-  "discount": "€ 3,50",
+  "discount": "",
   "url": "/therme-aqua-wellness-shower-satin-douchecreme/p/5494875",
   "listName": "Lister",
   "brand": "Therme",
@@ -33,6 +33,5 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "200ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/hc8/h86/28870644727838/prd-front-5494875-1_600x600/prd-front-5494875-1-600x600.jpg"
+  "description": "200ml - Normale huid"
 }

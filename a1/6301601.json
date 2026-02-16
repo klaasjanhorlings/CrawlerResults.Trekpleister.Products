@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dermolin Face Oil",
   "code": "6301601",
-  "price": "11.96",
-  "priceOriginal": "14.95",
+  "price": "14.95",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "HEALTHCARE BRANDS GROUP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033907",
-  "mmkId": "3033907",
-  "productGroupId": "515117",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,99",
+  "discount": "",
   "url": "/dermolin-face-oil/p/6301601",
   "listName": "Lister",
   "brand": "Dermolin",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h2f/ha6/44001855176734/prd-front-6301601-1_600x600/prd-front-6301601-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "8000434",
+  "mmkId": "8000434",
+  "productGroupId": "524144",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-masterpiece-nude-003-rose-nudes-oogschaduwpalet/p/3662261",
@@ -37,5 +37,6 @@
       "name": "Palette oogschaduw"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he1/h68/28609107361822/prd-front-3662261-1_600x600/prd-front-3662261-1-600x600.jpg"
 }

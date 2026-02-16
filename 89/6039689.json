@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "outOfStock",
-  "onPromo": "3033835",
-  "mmkId": "3033835",
-  "productGroupId": "511142",
+  "onPromo": "8000297",
+  "mmkId": "8000297",
+  "productGroupId": "511746",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-men-advanced-protection-sport-cool-antitranspirant-spray/p/6039689",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h73/h69/33200966893598/prd-front-6039689-1_600x600/prd-front-6039689-1-600x600.jpg"
 }

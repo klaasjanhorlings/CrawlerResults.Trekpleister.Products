@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3519",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "3033844",
-  "mmkId": "3033844",
-  "productGroupId": "511864",
+  "onPromo": "8000340",
+  "mmkId": "8000340",
+  "productGroupId": "518640",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elmex-0-3-jaar-kinder-tandenborstel/p/4373391",
@@ -33,5 +33,6 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha1/h02/45053292970014/prd-front-4373391-1_600x600/prd-front-4373391-1-600x600.jpg"
 }

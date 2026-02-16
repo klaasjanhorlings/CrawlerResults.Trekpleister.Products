@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Everyday Perfect Light/Medium Brow Pencil",
   "code": "6317890",
-  "price": "3.74",
-  "priceOriginal": "4.99",
+  "price": "4.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3033927",
-  "mmkId": "3033927",
-  "productGroupId": "516974",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 1,25",
+  "discount": "",
   "url": "/mcobeauty-everyday-perfect-light/medium-brow-pencil/p/6317890",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "0,8g"
+  "description": "0,8g",
+  "image": "/medias/sys_master/prd-images/hdb/h43/34827053006878/prd-front-6317890-1_600x600/prd-front-6317890-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000392",
+  "mmkId": "8000392",
+  "productGroupId": "520877",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-casting-creme-gloss-810-parelmoer-blond-semi-permanente-haarkleuring/p/6079834",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hc3/h70/44841952411678/prd-front-6079834-1_600x600/prd-front-6079834-1-600x600.jpg"
+  "description": "50ml"
 }

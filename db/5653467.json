@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 3270 > 4171",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3033851",
-  "mmkId": "3033851",
-  "productGroupId": "511880",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/corega-triple-action-kleefcreme/p/5653467",
@@ -33,5 +33,6 @@
       "name": "Kleefpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 70g"
+  "description": "Medisch hulpmiddel - 70g",
+  "image": "/medias/sys_master/prd-images/h61/hb7/44264877817886/prd-front-5653467-1_600x600/prd-front-5653467-1-600x600.jpg"
 }

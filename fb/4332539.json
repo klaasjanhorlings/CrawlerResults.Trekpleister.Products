@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "8000218",
-  "mmkId": "8000218",
-  "productGroupId": "514779",
+  "onPromo": "8000347",
+  "mmkId": "8000347",
+  "productGroupId": "519195",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-fit-me-15-fair-concealer/p/4332539",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h01/h59/44806483148830/prd-front-4332539-1_600x600/prd-front-4332539-1-600x600.jpg"
 }

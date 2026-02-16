@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3786",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "8000241",
-  "mmkId": "8000241",
-  "productGroupId": "513575",
+  "onPromo": "8000315",
+  "mmkId": "8000315",
+  "productGroupId": "515851",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-derma-control-defend-antitranspirant-stick/p/6324876",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h50/hb1/44039604076574/prd-front-6324876-1_600x600/prd-front-6324876-1-600x600.jpg"
 }

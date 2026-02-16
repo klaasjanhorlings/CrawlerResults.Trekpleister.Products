@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Friends 30721 Flower Stand With Roses",
+  "code": "6450008",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "8000325",
+  "mmkId": "8000325",
+  "productGroupId": "518057",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-friends-30721-flower-stand-with-roses/p/6450008",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267371,
+      "name": "LEGO Friends"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd2/hea/45125846794270/prd-front-6450008-1_600x600/prd-front-6450008-1-600x600.jpg"
+}

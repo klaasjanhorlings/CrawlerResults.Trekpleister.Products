@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Naïf Kids Bath Bomb",
   "code": "6377824",
-  "price": "4.99",
-  "priceOriginal": "",
+  "price": "3.49",
+  "priceOriginal": "4.99",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000299",
+  "mmkId": "8000299",
+  "productGroupId": "511917",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,50",
   "url": "/naif-kids-bath-bomb/p/6377824",
   "listName": "Lister",
   "brand": "Naïf",
@@ -33,5 +33,6 @@
       "name": "Bruisballen"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h5e/h40/44630754394142/prd-front-6377824-1_600x600/prd-front-6377824-1-600x600.jpg"
 }

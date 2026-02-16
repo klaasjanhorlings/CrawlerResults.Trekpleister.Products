@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000370",
+  "mmkId": "8000370",
+  "productGroupId": "519920",
   "brandType": "A of B merk",
   "discount": "€ 14,99",
   "url": "/head-shoulders-apple-fresh-shampoo-met-pomp/p/6306963",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "1L"
+  "description": "1L",
+  "image": "/medias/sys_master/prd-images/hdd/h86/34049118797854/prd-front-6306963-1_600x600/prd-front-6306963-1-600x600.jpg"
 }

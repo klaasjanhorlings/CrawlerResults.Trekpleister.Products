@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fa Men Kick Off Douchegel & Shampoo",
   "code": "1089971",
-  "price": "1.5",
-  "priceOriginal": "4.29",
+  "price": "4.29",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "outOfStock",
-  "onPromo": "8000244",
-  "mmkId": "8000244",
-  "productGroupId": "514377",
+  "onPromo": "8000300",
+  "mmkId": "8000300",
+  "productGroupId": "512097",
   "brandType": "A of B merk",
-  "discount": "€ 2,79",
+  "discount": "",
   "url": "/fa-men-kick-off-douchegel-shampoo/p/1089971",
   "listName": "Lister",
   "brand": "Fa",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hc0/he3/44365152878622/prd-front-1089971-1_600x600/prd-front-1089971-1-600x600.jpg"
 }

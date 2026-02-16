@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "DIFRAX BV",
   "inStock": "outOfStock",
-  "onPromo": "8000251",
-  "mmkId": "8000251",
-  "productGroupId": "516404",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-natural-0m-s-fles/p/4317083",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "blauw, grijs, 2 x 250ml"
+  "description": "blauw, grijs, 2 x 250ml",
+  "image": "/medias/prd-front-4317083-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjYwMjV8aW1hZ2UvanBlZ3xhREV6TDJnNVppOHhOalF4TXprek1qYzBPRGd6TUM5d2NtUXRabkp2Ym5RdE5ETXhOekE0TXkweFh6WXdNSGcyTURBfDc1OGRhNjQyMzIxOTFlNmFlMjQxODJjMDNmM2IwMmYyNjgwZTBjNzhhZTM3NTgxMDM5MjQwYmY4Mzk3ZjIzNWY"
 }

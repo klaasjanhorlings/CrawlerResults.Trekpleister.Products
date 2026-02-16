@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033835",
-  "mmkId": "3033835",
-  "productGroupId": "511142",
+  "onPromo": "8000297",
+  "mmkId": "8000297",
+  "productGroupId": "511746",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-mencare-clean-comfort-antitranspirant-spray/p/4317769",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h4a/h29/44520517074974/prd-front-4317769-1_600x600/prd-front-4317769-1-600x600.jpg"
 }

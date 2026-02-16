@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 6710 > 6709",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000277",
+  "mmkId": "8000277",
+  "productGroupId": "508081",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-blooming-selfcare-foaming-shower-gel/p/6122786",
@@ -33,6 +33,5 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h53/hd6/31438639431710/prd-front-6122786-1_600x600/prd-front-6122786-1-600x600.jpg"
+  "description": "200ml"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "My Nailcandy Mother of Pearl Gelnagels",
   "code": "6175146",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "5.0",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6505 > 6506",
   "supplier": "LITTLE CONCEPTS NETTO",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000398",
+  "mmkId": "8000398",
+  "productGroupId": "521109",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,99",
   "url": "/my-nailcandy-mother-of-pearl-gelnagels/p/6175146",
   "listName": "Lister",
   "brand": "MY NAILCANDY",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "22 stuks",
-  "image": "/medias/sys_master/prd-images/hfd/h78/33705131769886/prd-front-6175146-1_600x600/prd-front-6175146-1-600x600.jpg"
+  "description": "22 stuks"
 }

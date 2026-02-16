@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
   "supplier": "HERO NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000421",
+  "mmkId": "8000421",
+  "productGroupId": "521805",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organix-bio-6m-melty-baby-biscuits/p/6152158",
@@ -33,6 +33,5 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h1c/h8f/32878065582110/prd-front-6152158-1_600x600/prd-front-6152158-1-600x600.jpg"
+  "description": "4 stuks"
 }

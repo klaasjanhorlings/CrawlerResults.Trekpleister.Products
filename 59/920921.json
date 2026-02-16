@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3435",
   "supplier": "NUTRITION&SANTE BENELX",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "8000314",
+  "mmkId": "8000314",
+  "productGroupId": "514530",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/modifast-protein-shape-pure-witte-chocolade-snackreep/p/920921",
@@ -33,5 +33,6 @@
       "name": "Verantwoorde tussendoortjes"
     }
   ],
-  "description": "6 x 31g"
+  "description": "6 x 31g",
+  "image": "/medias/sys_master/prd-images/he3/h19/28575673679902/prd-front-920921-1_600x600/prd-front-920921-1-600x600.jpg"
 }

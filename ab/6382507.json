@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kneipp Good Energy Douchefoam",
   "code": "6382507",
-  "price": "6.99",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033816",
-  "mmkId": "3033816",
-  "productGroupId": "508977",
+  "onPromo": "8000285",
+  "mmkId": "8000285",
+  "productGroupId": "508978",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/kneipp-good-energy-douchefoam/p/6382507",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hfd/he7/44752613081118/prd-front-6382507-1_600x600/prd-front-6382507-1-600x600.jpg"
 }

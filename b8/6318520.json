@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Miracle Natural Medium BB Cream",
   "code": "6318520",
-  "price": "7.49",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3033927",
-  "mmkId": "3033927",
-  "productGroupId": "516974",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,50",
+  "discount": "",
   "url": "/mcobeauty-miracle-natural-medium-bb-cream/p/6318520",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "BB cream"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h4a/h30/34827054317598/prd-front-6318520-1_600x600/prd-front-6318520-1-600x600.jpg"
 }

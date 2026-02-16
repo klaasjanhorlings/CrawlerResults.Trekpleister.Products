@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "inStock",
-  "onPromo": "3033818",
-  "mmkId": "3033818",
-  "productGroupId": "509296",
+  "onPromo": "8000428",
+  "mmkId": "8000428",
+  "productGroupId": "522379",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamin-c-micellair-water/p/6284360",
@@ -37,5 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h93/h67/34112809828382/prd-front-6284360-1_600x600/prd-front-6284360-1-600x600.jpg"
 }

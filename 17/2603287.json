@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath That's Life Pub Puzzel",
+  "code": "2603287",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2181 > 5166 > 5237 > 5426 > 6040",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goliath-thats-life-pub-puzzel/p/2603287",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "68cm x 48cm",
+  "image": "/medias/sys_master/prd-images/h29/hd7/46187491065886/temp-prd-front-2603287-1_600x600/temp-prd-front-2603287-1-600x600.jpg"
+}

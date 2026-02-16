@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Zwitsal Bodylotion",
   "code": "6327025",
-  "price": "53.94",
-  "priceOriginal": "",
+  "price": "26.97",
+  "priceOriginal": "53.94",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000254",
+  "mmkId": "8000254",
+  "productGroupId": "516738",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 26,97",
   "url": "/zwitsal-bodylotion/p/6327025",
   "listName": "Lister",
   "brand": "Zwitsal",
@@ -37,6 +37,5 @@
       "name": "Babylotion"
     }
   ],
-  "description": "6 x 400 ml",
-  "image": "/medias/sys_master/prd-images/h42/h58/34485023965214/prd-front-6327025-1_600x600/prd-front-6327025-1-600x600.jpg"
+  "description": "6 x 400 ml"
 }

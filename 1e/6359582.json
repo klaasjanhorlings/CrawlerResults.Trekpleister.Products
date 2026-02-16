@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "8000434",
+  "mmkId": "8000434",
+  "productGroupId": "524144",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-masterpiece-wow-liner-300-eyeliner/p/6359582",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1,2g"
+  "description": "1,2g",
+  "image": "/medias/sys_master/prd-images/h63/h3d/35008206340126/prd-front-6359582-1_600x600/prd-front-6359582-1-600x600.jpg"
 }

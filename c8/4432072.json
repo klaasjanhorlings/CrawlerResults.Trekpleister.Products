@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 4129",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000340",
+  "mmkId": "8000340",
+  "productGroupId": "518640",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jordan-individual-reach-soft-tandenborstel/p/4432072",
@@ -33,6 +33,5 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/hd1/hb0/28576790380574/prd-front-4432072-1_600x600/prd-front-4432072-1-600x600.jpg"
+  "description": "2 stuks"
 }

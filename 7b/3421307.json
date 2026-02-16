@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tena Lights Sensitive Normal Inlegkruisjes",
   "code": "3421307",
-  "price": "3.49",
-  "priceOriginal": "3.89",
+  "price": "3.89",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2199 > 6828 > 6826 > 6827",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3033812",
-  "mmkId": "3033812",
-  "productGroupId": "508701",
+  "onPromo": "8000281",
+  "mmkId": "8000281",
+  "productGroupId": "508709",
   "brandType": "A of B merk",
-  "discount": "€ 0,40",
+  "discount": "",
   "url": "/tena-lights-sensitive-normal-inlegkruisjes/p/3421307",
   "listName": "Lister",
   "brand": "Lights by Tena",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 24 stuks",
-  "image": "/medias/sys_master/prd-images/hd7/h0d/46862964523038/temp-prd-front-3421307-1_600x600/temp-prd-front-3421307-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hbb/h26/46905440993310/temp-prd-front-3421307-1_600x600/temp-prd-front-3421307-1-600x600.jpg"
 }

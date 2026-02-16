@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kneipp Goodbye Stress Doucheschuim",
   "code": "5000976",
-  "price": "6.99",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033816",
-  "mmkId": "3033816",
-  "productGroupId": "508977",
+  "onPromo": "8000285",
+  "mmkId": "8000285",
+  "productGroupId": "508978",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/kneipp-goodbye-stress-doucheschuim/p/5000976",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Droge huid"
+  "description": "200ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hb4/h05/28577967243294/prd-front-5000976-1_600x600/prd-front-5000976-1-600x600.jpg"
 }

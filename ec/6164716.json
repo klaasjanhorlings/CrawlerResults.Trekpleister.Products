@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3033895",
-  "mmkId": "3033895",
-  "productGroupId": "514780",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-slaap-3-in-1-tabletten/p/6164716",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h96/hdd/31701071298590/prd-front-6164716-1_600x600/prd-front-6164716-1-600x600.jpg"
+  "description": "60 stuks"
 }

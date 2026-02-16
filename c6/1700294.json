@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "3033846",
-  "mmkId": "3033846",
-  "productGroupId": "511870",
+  "onPromo": "8000364",
+  "mmkId": "8000364",
+  "productGroupId": "519820",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aquafresh-whitening-intense-white-tandpasta/p/1700294",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hcf/hd8/46905367592990/temp-prd-front-1700294-1_600x600/temp-prd-front-1700294-1-600x600.jpg"
 }

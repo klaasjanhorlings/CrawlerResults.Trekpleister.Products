@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6780",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "8000218",
-  "mmkId": "8000218",
-  "productGroupId": "514779",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-lumi-glotion-904-deep-glow-natural-glow-enhancer/p/6040781",
@@ -33,6 +33,5 @@
       "name": "Highlighter"
     }
   ],
-  "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h46/h21/45080235835422/prd-front-6040781-1_600x600/prd-front-6040781-1-600x600.jpg"
+  "description": "40ml"
 }

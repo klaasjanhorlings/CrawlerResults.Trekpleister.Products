@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "BAYER BV",
   "inStock": "inStock",
-  "onPromo": "3033830",
-  "mmkId": "3033830",
-  "productGroupId": "510757",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/supradyn-vital-50-tabletten/p/1290115",
@@ -37,6 +37,5 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "95 stuks",
-  "image": "/medias/sys_master/prd-images/hfc/ha1/33349256773662/prd-front-1290115-1_600x600/prd-front-1290115-1-600x600.jpg"
+  "description": "95 stuks"
 }

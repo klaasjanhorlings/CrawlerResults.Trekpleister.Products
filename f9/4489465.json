@@ -8,9 +8,9 @@
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2963 > 6640",
   "supplier": "SA NESTLE BELGILUX",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000418",
+  "mmkId": "8000418",
+  "productGroupId": "521445",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nescafe-caramel-latte-oploskoffie/p/4489465",
@@ -33,5 +33,6 @@
       "name": "Oploskoffie"
     }
   ],
-  "description": "6 stuks"
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/h82/h43/31695620898846/prd-front-4489465-1_600x600/prd-front-4489465-1-600x600.jpg"
 }

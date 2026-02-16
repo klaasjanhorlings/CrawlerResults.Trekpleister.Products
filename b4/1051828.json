@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "3033895",
-  "mmkId": "3033895",
-  "productGroupId": "514780",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-vitamine-c-1000-tabletten/p/1051828",
@@ -37,5 +37,6 @@
       "name": "Vitamine C"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/prd-front-1051828-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ5OTl8aW1hZ2UvanBlZ3xhRFl3TDJnNVlpOHhOek16TURrMk1EYzVNell6TUM5d2NtUXRabkp2Ym5RdE1UQTFNVGd5T0MweFh6WXdNSGcyTURBfDEyNjEwNDg1OWY2ZDYwYjdhODdmMTBlNjczYTU4M2YzNzBmMThlYTliMmFiZGU0Mzk2MjBjZWRhODdhYzkxMTA"
 }

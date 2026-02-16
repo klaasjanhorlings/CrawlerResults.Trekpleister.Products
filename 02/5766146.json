@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "DIFRAX BV",
   "inStock": "outOfStock",
-  "onPromo": "8000251",
-  "mmkId": "8000251",
-  "productGroupId": "516404",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-antilektuitbeker/p/5766146",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5766146-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDIwNzF8aW1hZ2UvanBlZ3xhRE0zTDJnNE15OHhOelV4TURJd09EVTJPVE0zTkM5d2NtUXRabkp2Ym5RdE5UYzJOakUwTmkweFh6WXdNSGcyTURBfDA2YWI3MzFhNzIzMDA1NzBjOGFjZTlmZDFmOGUyYzc1NjY4YTdjYzg1M2ExNzc4NGM1YWNjNjBjOTNmZTM4NjY"
 }

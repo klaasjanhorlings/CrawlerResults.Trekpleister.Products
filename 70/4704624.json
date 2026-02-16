@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "3033875",
-  "mmkId": "3033875",
-  "productGroupId": "513261",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/diadermine-expert-active-glow-dagcreme/p/4704624",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid",
-  "image": "/medias/sys_master/prd-images/h27/hc5/34598124224542/prd-front-4704624-1_600x600/prd-front-4704624-1-600x600.jpg"
+  "description": "50ml - Rijpe huid"
 }

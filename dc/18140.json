@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Ambre Solaire Soothing Aftersun",
   "code": "18140",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "7.49",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000382",
+  "mmkId": "8000382",
+  "productGroupId": "520150",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,50",
   "url": "/garnier-ambre-solaire-soothing-aftersun/p/18140",
   "listName": "Lister",
   "brand": "Garnier Ambre Solaire",
@@ -33,6 +33,5 @@
       "name": "Aftersun"
     }
   ],
-  "description": "175ml",
-  "image": "/medias/sys_master/prd-images/h20/h3b/34369122172958/prd-front-18140-1_600x600/prd-front-18140-1-600x600.jpg"
+  "description": "175ml"
 }

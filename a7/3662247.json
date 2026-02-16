@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "outOfStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "8000434",
+  "mmkId": "8000434",
+  "productGroupId": "524144",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-masterpiece-nude-001-cappucino-nudes-oogschaduwpalet/p/3662247",
@@ -37,5 +37,6 @@
       "name": "Palette oogschaduw"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4e/h9f/28616331919390/prd-front-3662247-1_600x600/prd-front-3662247-1-600x600.jpg"
 }

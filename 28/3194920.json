@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "3033861",
-  "mmkId": "3033861",
-  "productGroupId": "512442",
+  "onPromo": "8000424",
+  "mmkId": "8000424",
+  "productGroupId": "522098",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vaseline-healthy-hands-stronger-nails-handlotion/p/3194920",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/prd-front-3194920-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTc2ODN8aW1hZ2UvanBlZ3xhR1kyTDJoa1lpOHhOakk1T1RreE5ERTVPVEEzTUM5d2NtUXRabkp2Ym5RdE16RTVORGt5TUMweFh6WXdNSGcyTURBfGU0MjI1NmVjOWIwNTQ5NWY1NjllMjVkNzhmODNiYTQwZTkzZDJmZTg2YjljZWIxZTAyYTYwZmRlOWFhMjM2MjI"
 }

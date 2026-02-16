@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "8000434",
+  "mmkId": "8000434",
+  "productGroupId": "524144",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-10-nude-mauve-blush-creme-puff/p/4238781",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/hb0/hfd/30916028825630/prd-front-4238781-1_600x600/prd-front-4238781-1-600x600.jpg"
 }

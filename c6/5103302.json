@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tena Discreet Extra Incontinentieverband",
   "code": "5103302",
-  "price": "5.99",
-  "priceOriginal": "8.99",
+  "price": "8.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "3033813",
-  "mmkId": "3033813",
-  "productGroupId": "508703",
+  "onPromo": "8000279",
+  "mmkId": "8000279",
+  "productGroupId": "508707",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/tena-discreet-extra-incontinentieverband/p/5103302",
   "listName": "Lister",
   "brand": "Tena",
@@ -37,5 +37,6 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks"
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h91/h6f/31089527717918/prd-front-5103302-1_600x600/prd-front-5103302-1-600x600.jpg"
 }

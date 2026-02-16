@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "8000434",
+  "mmkId": "8000434",
+  "productGroupId": "524144",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-lipfinity-lip-colour-200-caffeinated-2-step-longlasting-lipstick/p/96718",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "2,3ml"
+  "description": "2,3ml",
+  "image": "/medias/prd-front-96718-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDk5NTZ8aW1hZ2UvanBlZ3xhRFJrTDJnd055OHhOekl3TWpjeU1ESTBNemMwTWk5d2NtUXRabkp2Ym5RdE9UWTNNVGd0TVY4Mk1EQjROakF3fGIyZjI4N2Q3NWIxYTI3NTU5Yjg2ZWExYmFkODY0NzlmZTY2NmRlYWUyMzU1NTEyOGMwZTdlNTFkNDY0OTAyNTM"
 }

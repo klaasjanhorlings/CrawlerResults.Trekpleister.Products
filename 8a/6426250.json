@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dreft Platinum Miracle All in One Vaatwascapsules",
   "code": "6426250",
-  "price": "31.49",
+  "price": "33.49",
   "priceOriginal": "84.99",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "8000692",
-  "mmkId": "8000692",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 53,50",
+  "discount": "€ 51,50",
   "url": "/dreft-platinum-miracle-all-in-one-vaatwascapsules/p/6426250",
   "listName": "Lister",
   "brand": "Dreft",
@@ -33,5 +33,6 @@
       "name": "Vaatwastabletten"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/hdc/h83/45521275191326/temp-prd-front-6426250-1_600x600/temp-prd-front-6426250-1-600x600.jpg"
 }
