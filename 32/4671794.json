@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Head & Shoulders Classic 2-in-1 Antiroosshampoo",
+  "code": "4671794",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "8000370",
+  "mmkId": "8000370",
+  "productGroupId": "519920",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/head-shoulders-classic-2-in-1-antiroosshampoo/p/4671794",
+  "listName": "Lister",
+  "brand": "Head & Shoulders",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267252,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h31/hb2/46946551201822/temp-prd-front-4671794-1_600x600/temp-prd-front-4671794-1-600x600.jpg"
+}

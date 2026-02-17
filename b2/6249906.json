@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Elvive Fiber Booster Anti-Haaruitval Serum",
+  "code": "6249906",
+  "price": "9.99",
+  "priceOriginal": "19.99",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 6696",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "8000378",
+  "mmkId": "8000378",
+  "productGroupId": "520103",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/loreal-paris-elvive-fiber-booster-anti-haaruitval-serum/p/6249906",
+  "listName": "Lister",
+  "brand": "Elvive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267253,
+      "name": "Haarserum"
+    }
+  ],
+  "description": "102ml",
+  "image": "/medias/sys_master/prd-images/h71/he5/33119568953374/prd-front-6249906-1_600x600/prd-front-6249906-1-600x600.jpg"
+}

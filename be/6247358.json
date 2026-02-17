@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B Advanced Gezonde Whitening Arctic Fresh Tandpasta",
+  "code": "6247358",
+  "price": "6.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "8000339",
+  "mmkId": "8000339",
+  "productGroupId": "518634",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-advanced-gezonde-whitening-arctic-fresh-tandpasta/p/6247358",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h78/h12/33456204382238/prd-front-6247358-1_600x600/prd-front-6247358-1-600x600.jpg"
+}

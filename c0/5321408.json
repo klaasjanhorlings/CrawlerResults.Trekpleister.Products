@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister AA- en AAA-Batterijen",
+  "code": "5321408",
+  "price": "7.99",
+  "priceOriginal": "13.49",
+  "itemBgbcat": "6013 > 2134 > 6145 > 6146 > 6147 > 2007",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "€ 5,50",
+  "url": "/trekpleister-aa-en-aaa-batterijen/p/5321408",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536630,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30267106,
+      "name": "Batterijen"
+    }
+  ],
+  "description": "36 stuks",
+  "image": "/medias/sys_master/prd-images/h96/h13/46140999008286/temp-prd-front-5321408-1_600x600/temp-prd-front-5321408-1-600x600.jpg"
+}

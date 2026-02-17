@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 2884 > 4161",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "8000321",
   "mmkId": "8000321",
   "productGroupId": "516675",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "20ml, 3 stuks"
+  "description": "20ml, 3 stuks",
+  "image": "/medias/sys_master/prd-images/hd2/hdd/34583558848542/prd-front-5542482-1_600x600/prd-front-5542482-1-600x600.jpg"
 }

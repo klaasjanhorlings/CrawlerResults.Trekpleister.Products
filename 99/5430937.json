@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari Green Curls Light-Weight Detangler",
+  "code": "5430937",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "8000371",
+  "mmkId": "8000371",
+  "productGroupId": "519932",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-green-curls-light-weight-detangler/p/5430937",
+  "listName": "Lister",
+  "brand": "Yari Green Curls",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 82417106,
+      "name": "Krullenverzorging"
+    }
+  ],
+  "description": "240ml",
+  "image": "/medias/sys_master/prd-images/hdf/h0b/28802070151198/prd-front-5430937-1_600x600/prd-front-5430937-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Essential Fresh Care Douchegel",
+  "code": "6059786",
+  "price": "5.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "UNILEVER BELGIUM",
+  "inStock": "inStock",
+  "onPromo": "8000297",
+  "mmkId": "8000297",
+  "productGroupId": "511746",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-essential-fresh-care-douchegel/p/6059786",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267205,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "720ml",
+  "image": "/medias/sys_master/prd-images/h44/h13/44918715645982/prd-front-6059786-1_600x600/prd-front-6059786-1-600x600.jpg"
+}

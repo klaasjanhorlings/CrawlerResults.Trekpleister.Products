@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "KENVUE",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "50ml - Normale en rijpe huid",
-  "image": "/medias/sys_master/prd-images/hc3/hf1/44796620800030/prd-front-5627350-1_600x600/prd-front-5627350-1-600x600.jpg"
+  "description": "50ml - Normale en rijpe huid"
 }
