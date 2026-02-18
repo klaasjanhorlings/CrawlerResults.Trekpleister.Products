@@ -21,18 +21,13 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267058,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30267281,
-      "name": "Rust en ontspanning"
+      "id": 75860503,
+      "name": "Baby en Kind gezondheid"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h22/ha4/44921905479710/prd-front-5722389-1_600x600/prd-front-5722389-1-600x600.jpg"
+  "description": "30 stuks"
 }

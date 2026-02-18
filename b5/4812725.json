@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Tea Tree Wasgel",
+  "code": "4812725",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "PHARCONA GMBH",
+  "inStock": "inStock",
+  "onPromo": "8000428",
+  "mmkId": "8000428",
+  "productGroupId": "522379",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-tea-tree-wasgel/p/4812725",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267474,
+      "name": "Reinigingsgel"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h78/h96/46993219518494/temp-prd-front-4812725-1_600x600/temp-prd-front-4812725-1-600x600.jpg"
+}

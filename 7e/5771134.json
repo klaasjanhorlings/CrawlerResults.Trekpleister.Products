@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath Ganzenbord Bordspel",
+  "code": "5771134",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2181 > 5161 > 5212 > 5401 > 6040",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goliath-ganzenbord-bordspel/p/5771134",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267078,
+      "name": "Spellen"
+    },
+    {
+      "id": 30267392,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5771134-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTMwMTQyfGltYWdlL2pwZWd8YURjekwyZzVaaTh4TmpnM05UUTBNRGcyTlRNeE1DOXdjbVF0Wm5KdmJuUXROVGMzTVRFek5DMHhYell3TUhnMk1EQXxkMTNhZGM3ZjdjZTgyYmI3OWJjMDZhMWIxM2E0YjQ3ZjhiYmJlMjc5MjA2MzMyNDQ4Yjg5OTZjMzI1NzBjZDQ3"
+}

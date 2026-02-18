@@ -29,9 +29,14 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267274,
-      "name": "Weerstand en of energie"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267552,
+      "name": "Multivitamines"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/hec/hd7/33574853836830/prd-front-1051905-1_600x600/prd-front-1051905-1-600x600.jpg"
 }

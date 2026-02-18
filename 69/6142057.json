@@ -7,7 +7,7 @@
   "priceOriginal": "39.99",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 2816 > 3789",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "8000394",
   "mmkId": "8000394",
   "productGroupId": "520939",
@@ -29,8 +29,8 @@
       "name": "Scheren en ontharen"
     },
     {
-      "id": 30267236,
-      "name": "Scheerapparaten"
+      "id": 30267241,
+      "name": "Multigroomers"
     }
   ],
   "description": "1 stuk",

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Colour Elixir 030 Lip Liner",
+  "code": "5592245",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "8000434",
+  "mmkId": "8000434",
+  "productGroupId": "524144",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-colour-elixir-030-lip-liner/p/5592245",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267152,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "1g",
+  "image": "/medias/prd-front-5592245-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODUyOHxpbWFnZS9qcGVnfGFHTmlMMmhpTmk4eE56QTNNRFEyT0RBM01UUTFOQzl3Y21RdFpuSnZiblF0TlRVNU1qSTBOUzB4WHpZd01IZzJNREF8YzdhMjZjNmNjMzgyNTI5Yjg3OGQzMTY0ZDFlMzBhY2EyZjYyZTMyODhhMzdmNTc3OWY2YjRjZjQ5NTE5YmM3NA"
+}

@@ -29,10 +29,13 @@
       "name": "Snacks en snoep"
     },
     {
-      "id": 30267587,
-      "name": "Snoep"
+      "id": 100652040,
+      "name": "Trakteren"
+    },
+    {
+      "id": 107468081,
+      "name": "Lollies"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/h39/h9e/44631549509662/prd-front-6381366-1_600x600/prd-front-6381366-1-600x600.jpg"
+  "description": "24 stuks"
 }

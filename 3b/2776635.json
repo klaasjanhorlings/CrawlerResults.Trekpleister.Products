@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Protect & Dry Touch SPF50 Verfrissende Zonnebrandmist",
+  "code": "2776635",
+  "price": "11.6",
+  "priceOriginal": "28.99",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "8000438",
+  "mmkId": "8000438",
+  "productGroupId": "533060",
+  "brandType": "A of B merk",
+  "discount": "€ 17,39",
+  "url": "/nivea-sun-protect-dry-touch-spf50-verfrissende-zonnebrandmist/p/2776635",
+  "listName": "Lister",
+  "brand": "Nivea Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h42/h44/34393655115806/prd-front-2776635-1_600x600/prd-front-2776635-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Elmex Sensitive Professional Repair & Prevent Tandpasta",
+  "code": "3839711",
+  "price": "7.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "8000331",
+  "mmkId": "8000331",
+  "productGroupId": "518589",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elmex-sensitive-professional-repair-prevent-tandpasta/p/3839711",
+  "listName": "Lister",
+  "brand": "Elmex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml - Gevoelige tanden",
+  "image": "/medias/sys_master/prd-images/h0b/h3f/33906147491870/prd-front-3839711-1_600x600/prd-front-3839711-1-600x600.jpg"
+}

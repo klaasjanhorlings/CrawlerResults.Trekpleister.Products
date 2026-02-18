@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pretty Me Heart Pimple Patches",
+  "code": "6215487",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/pretty-me-heart-pimple-patches/p/6215487",
+  "listName": "Lister",
+  "brand": "Pretty me",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 81073392,
+      "name": "Pimple patches"
+    }
+  ],
+  "description": "24stuks",
+  "image": "/medias/sys_master/prd-images/h4e/h58/34282920706078/prd-front-6215487-1_600x600/prd-front-6215487-1-600x600.jpg"
+}

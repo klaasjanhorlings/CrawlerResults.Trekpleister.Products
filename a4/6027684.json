@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier PureActive BHA+ Niacinamide SPF50+ Anti-Imperfections Fluid",
+  "code": "6027684",
+  "price": "23.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 6704",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "8000393",
+  "mmkId": "8000393",
+  "productGroupId": "520882",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-pureactive-bha-niacinamide-spf50-anti-imperfections-fluid/p/6027684",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267159,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "40ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/he1/h9e/30118061277214/prd-front-6027684-1_600x600/prd-front-6027684-1-600x600.jpg"
+}

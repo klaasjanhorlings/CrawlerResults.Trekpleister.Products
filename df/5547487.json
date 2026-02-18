@@ -29,13 +29,14 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267272,
-      "name": "Mineralen"
+      "id": 30267283,
+      "name": "Vitamines"
     },
     {
-      "id": 50002052,
-      "name": "Calcium"
+      "id": 30267551,
+      "name": "Vitamine K"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h39/hff/29570544304158/prd-front-5547487-1_600x600/prd-front-5547487-1-600x600.jpg"
 }

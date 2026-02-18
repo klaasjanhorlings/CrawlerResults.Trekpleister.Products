@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ralph Lauren Polo Blue Eau de Toilette",
+  "code": "6363635",
+  "price": "51.18",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ralph-lauren-polo-blue-eau-de-toilette/p/6363635",
+  "listName": "Lister",
+  "brand": "Ralph Lauren",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654889,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/hf5/h68/35102360436766/prd-front-6363635-1_600x600/prd-front-6363635-1-600x600.jpg"
+}

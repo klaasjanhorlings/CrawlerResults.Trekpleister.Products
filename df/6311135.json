@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Zen White Lotus Shower Flower",
+  "code": "6311135",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-zen-white-lotus-shower-flower/p/6311135",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267207,
+      "name": "Doucheschuim"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h10/ha1/34238194810910/prd-front-6311135-1_600x600/prd-front-6311135-1-600x600.jpg"
+}
