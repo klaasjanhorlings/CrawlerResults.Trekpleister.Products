@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York SuperStay Teddy Tint 25 Baby Tee Lippenstift",
+  "code": "6200815",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "8000347",
+  "mmkId": "8000347",
+  "productGroupId": "519195",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-superstay-teddy-tint-25-baby-tee-lippenstift/p/6200815",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267139,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h67/h99/44842789732382/prd-front-6200815-1_600x600/prd-front-6200815-1-600x600.jpg"
+}

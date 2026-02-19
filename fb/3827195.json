@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Fit Me Matte & Poreless 110 Porcelain Foundation",
+  "code": "3827195",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "8000347",
+  "mmkId": "8000347",
+  "productGroupId": "519195",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-fit-me-matte-poreless-110-porcelain-foundation/p/3827195",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267134,
+      "name": "Foundation"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf2/hc1/44651832868894/prd-front-3827195-1_600x600/prd-front-3827195-1-600x600.jpg"
+}

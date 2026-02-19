@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cetaphil Optimal Hydration 48H Activation Serum",
+  "code": "6027313",
+  "price": "25.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6776 > 6775 > 6777",
+  "supplier": "GALDERMA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cetaphil-optimal-hydration-48h-activation-serum/p/6027313",
+  "listName": "Lister",
+  "brand": "Cetaphil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267163,
+      "name": "Dermacare"
+    }
+  ],
+  "description": "30ml, vochtarme en vermoeide huid",
+  "image": "/medias/sys_master/prd-images/hbc/hc8/32313431949342/prd-front-6027313-1_600x600/prd-front-6027313-1-600x600.jpg"
+}

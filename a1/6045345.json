@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Lifter Liner 07 Big Lift Lippotlood",
+  "code": "6045345",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "8000347",
+  "mmkId": "8000347",
+  "productGroupId": "519195",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-lifter-liner-07-big-lift-lippotlood/p/6045345",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267152,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "1,2g",
+  "image": "/medias/sys_master/prd-images/h21/h53/44846119157790/prd-front-6045345-1_600x600/prd-front-6045345-1-600x600.jpg"
+}

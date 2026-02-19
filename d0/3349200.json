@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Vision SPF30 Zonnebrand Spray",
+  "itemName": "Vision SPF30 Zonnebrandspray",
   "code": "3349200",
   "price": "16.29",
   "priceOriginal": "32.59",
@@ -13,7 +13,7 @@
   "productGroupId": "520150",
   "brandType": "A of B merk",
   "discount": "€ 16,30",
-  "url": "/vision-spf30-zonnebrand-spray/p/3349200",
+  "url": "/vision-spf30-zonnebrandspray/p/3349200",
   "listName": "Lister",
   "brand": "Vision",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "180ml",
-  "image": "/medias/sys_master/prd-images/h0f/h43/47019720343582/temp-prd-front-3349200-1_600x600/temp-prd-front-3349200-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb6/h1e/47046071484446/temp-prd-front-3349200-1_600x600/temp-prd-front-3349200-1-600x600.jpg"
 }

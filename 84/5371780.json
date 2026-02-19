@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Lifter Gloss 5 Petal Lipgloss",
+  "code": "5371780",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "8000347",
+  "mmkId": "8000347",
+  "productGroupId": "519195",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-lifter-gloss-5-petal-lipgloss/p/5371780",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30267140,
+      "name": "Lipgloss"
+    }
+  ],
+  "description": "5,4ml",
+  "image": "/medias/sys_master/prd-images/h5d/h43/44842769416222/prd-front-5371780-1_600x600/prd-front-5371780-1-600x600.jpg"
+}

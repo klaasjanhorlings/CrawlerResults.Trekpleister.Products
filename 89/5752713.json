@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "7th Heaven Nutriactive Retinol Rejuvenating Sheet Mask",
+  "code": "5752713",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "3033751",
+  "mmkId": "3033751",
+  "productGroupId": "509185",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/7th-heaven-nutriactive-retinol-rejuvenating-sheet-mask/p/5752713",
+  "listName": "Lister",
+  "brand": "7th Heaven",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267164,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "19g"
+}

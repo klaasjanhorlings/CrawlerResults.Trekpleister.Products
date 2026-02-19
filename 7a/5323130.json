@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Préférence Cool Blondes 7.1 As Middenblond Permanente Haarkleuring",
+  "code": "5323130",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "8000392",
+  "mmkId": "8000392",
+  "productGroupId": "520877",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-preference-cool-blondes-71-as-middenblond-permanente-haarkleuring/p/5323130",
+  "listName": "Lister",
+  "brand": "Preference",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h94/hc2/45327999205406/prd-front-5323130-1_600x600/prd-front-5323130-1-600x600.jpg"
+}
