@@ -21,21 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267249,
-      "name": "Haarstylingproducten"
+      "id": 30267044,
+      "name": "Haaraccessoires"
     },
     {
-      "id": 30267255,
-      "name": "Haarstylers"
-    },
-    {
-      "id": 30267496,
-      "name": "Krultangen"
+      "id": 30267184,
+      "name": "Haarbanden"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1e/h58/32568064344094/prd-front-6223432-1_600x600/prd-front-6223432-1-600x600.jpg"
 }

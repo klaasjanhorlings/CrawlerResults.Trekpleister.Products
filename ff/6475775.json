@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hugo Boss Femme Ma Vie Eau de Parfum",
+  "code": "6475775",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "SAR TRADING BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hugo-boss-femme-ma-vie-eau-de-parfum/p/6475775",
+  "listName": "Lister",
+  "brand": "Hugo Boss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hba/h4c/46311249084446/temp-prd-front-6475775-1_600x600/temp-prd-front-6475775-1-600x600.jpg"
+}

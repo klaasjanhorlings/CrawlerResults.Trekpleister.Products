@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "8000393",
   "mmkId": "8000393",
   "productGroupId": "520882",
@@ -33,5 +33,6 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "120ml"
+  "description": "120ml",
+  "image": "/medias/sys_master/prd-images/hea/ha0/44316822667294/prd-front-6236984-1_600x600/prd-front-6236984-1-600x600.jpg"
 }

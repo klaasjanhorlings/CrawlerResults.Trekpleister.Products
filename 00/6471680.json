@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence The Super Peptide 07 Sugardorable Glossy Lip Treatment",
+  "code": "6471680",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-the-super-peptide-07-sugardorable-glossy-lip-treatment/p/6471680",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 88118383,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 88118416,
+      "name": "Lip balm"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h17/hac/46669196820510/temp-prd-front-6471680-1_600x600/temp-prd-front-6471680-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Olia Gloss Sunkissed Blond Getint Haarmasker",
+  "code": "6485974",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-olia-gloss-sunkissed-blond-getint-haarmasker/p/6485974",
+  "listName": "Lister",
+  "brand": "Olia",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/he6/h20/46214740738078/temp-prd-front-6485974-1_600x600/temp-prd-front-6485974-1-600x600.jpg"
+}

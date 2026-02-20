@@ -6,7 +6,7 @@
   "price": "9.99",
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2191 > 3710 > 6822 > 6823",
-  "supplier": "DUMMY EXTERN",
+  "supplier": "SPIN MASTER INT. SARL",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
@@ -33,5 +33,6 @@
       "name": "Waterspeelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hba/hbc/45180649668638/prd-front-6335278-1_600x600/prd-front-6335278-1-600x600.jpg"
 }

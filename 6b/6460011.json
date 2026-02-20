@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "House of Thêom Epic Elegance Eau de Parfum",
+  "code": "6460011",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/house-of-theom-epic-elegance-eau-de-parfum/p/6460011",
+  "listName": "Lister",
+  "brand": "House of Thêom",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654953,
+      "name": "Unisex parfum"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/ha6/hfe/46215234060318/temp-prd-front-6460011-1_600x600/temp-prd-front-6460011-1-600x600.jpg"
+}

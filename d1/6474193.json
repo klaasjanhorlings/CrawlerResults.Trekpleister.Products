@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Juicy Nail 01 Nail Balm",
+  "code": "6474193",
+  "price": "2.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 5690 > 5691 > 5692",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "3005772",
+  "mmkId": "3005772",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-juicy-nail-01-nail-balm/p/6474193",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475732,
+      "name": "Nagels"
+    },
+    {
+      "id": 30267045,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30267188,
+      "name": "Nagelbehandeling"
+    }
+  ],
+  "description": "12,8ml",
+  "image": "/medias/sys_master/prd-images/hd9/hcc/46679902814238/temp-prd-front-6474193-1_600x600/temp-prd-front-6474193-1-600x600.jpg"
+}

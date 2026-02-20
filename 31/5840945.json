@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Dove Original Compressed Deodorant Spray",
   "code": "5840945",
-  "price": "6.49",
+  "price": "6.69",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hd5/h3d/33196806832158/prd-front-5840945-1_600x600/prd-front-5840945-1-600x600.jpg"
 }
