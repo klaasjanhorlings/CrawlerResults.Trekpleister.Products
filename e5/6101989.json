@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clementoni Disney Stitch Puzzel",
+  "code": "6101989",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2181 > 5166 > 5237 > 5426 > 6040",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/clementoni-disney-stitch-puzzel/p/6101989",
+  "listName": "Lister",
+  "brand": "Stitch",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "104 stukjes",
+  "image": "/medias/sys_master/prd-images/h61/hd1/31329900265502/prd-front-6101989-1_600x600/prd-front-6101989-1-600x600.jpg"
+}

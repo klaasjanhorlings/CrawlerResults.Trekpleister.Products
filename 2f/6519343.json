@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jumbo Jan Van Haasteren De Kattenshow Puzzel",
+  "code": "6519343",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2181 > 5166 > 5237 > 5426",
+  "supplier": "JUMBO NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jumbo-jan-van-haasteren-de-kattenshow-puzzel/p/6519343",
+  "listName": "Lister",
+  "brand": "Jumbo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "2000 stukjes",
+  "image": "/medias/sys_master/prd-images/hb0/h7a/46981518721054/temp-prd-front-6519343-1_600x600/temp-prd-front-6519343-1-600x600.jpg"
+}

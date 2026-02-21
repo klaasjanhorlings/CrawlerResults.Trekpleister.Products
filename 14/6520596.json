@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clementoni Marvel Spiderman Puzzel",
+  "code": "6520596",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2181 > 5162 > 5217 > 5406",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/clementoni-marvel-spiderman-puzzel/p/6520596",
+  "listName": "Lister",
+  "brand": "Clementoni",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "2 x 60 stukjes",
+  "image": "/medias/sys_master/prd-images/he6/ha2/46981513084958/temp-prd-front-6520596-1_600x600/temp-prd-front-6520596-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 3710 > 6822 > 6823 > 2191",
   "supplier": "CLEMENTONI SPA",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he3/hd0/46669112868894/temp-prd-front-6380190-1_600x600/temp-prd-front-6380190-1-600x600.jpg"
 }

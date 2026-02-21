@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Trekpleister Toilettas",
+  "code": "6374793",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2271 > 2637 > 3320 > 4224",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/trekpleister-toilettas/p/6374793",
+  "listName": "Lister",
+  "brand": "Trekpleister",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267043,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30267177,
+      "name": "Toilettassen"
+    }
+  ],
+  "description": "zwart,11,5cm x 42cm x 21cm",
+  "image": "/medias/sys_master/prd-images/h1b/h66/44916381286430/prd-front-6374793-1_600x600/prd-front-6374793-1-600x600.jpg"
+}

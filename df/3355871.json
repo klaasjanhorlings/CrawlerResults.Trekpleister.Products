@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schwarzkopf BR1 Middenblond Uitgroeiset",
+  "code": "3355871",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "8000346",
+  "mmkId": "8000346",
+  "productGroupId": "518972",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schwarzkopf-br1-middenblond-uitgroeiset/p/3355871",
+  "listName": "Lister",
+  "brand": "Schwarzkopf Color",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "11ml",
+  "image": "/medias/sys_master/prd-images/h41/h90/47127283171358/temp-prd-front-3355871-1_600x600/temp-prd-front-3355871-1-600x600.jpg"
+}

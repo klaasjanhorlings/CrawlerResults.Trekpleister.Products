@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clementoni Gabby's Dollhouse Super Color Puzzel",
+  "code": "6213177",
+  "price": "2.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "5921 > 6040 > 2181 > 5166 > 5237 > 5426",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/clementoni-gabbys-dollhouse-super-color-puzzel/p/6213177",
+  "listName": "Lister",
+  "brand": "Gabby's Dollhouse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90172085,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "104 stukjes",
+  "image": "/medias/sys_master/prd-images/hd8/hdb/46981388533790/temp-prd-front-6213177-1_600x600/temp-prd-front-6213177-1-600x600.jpg"
+}

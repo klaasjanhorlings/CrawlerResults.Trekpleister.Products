@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Syoss Salonplex 3-28 Pure Chocolade Permanente Haarkleuring",
+  "code": "3569609",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "outOfStock",
+  "onPromo": "8000346",
+  "mmkId": "8000346",
+  "productGroupId": "518972",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-salonplex-3-28-pure-chocolade-permanente-haarkleuring/p/3569609",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1c/h4a/45481154510878/temp-prd-front-3569609-1_600x600/temp-prd-front-3569609-1-600x600.jpg"
+}

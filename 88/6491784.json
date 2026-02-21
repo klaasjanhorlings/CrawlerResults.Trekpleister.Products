@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000390",
+  "mmkId": "8000390",
+  "productGroupId": "520791",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-revitalift-hyaluron-spf30-aqua-fluid/p/6491784",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h16/hda/47091736969246/temp-prd-front-6491784-1_600x600/temp-prd-front-6491784-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h51/hfb/47139714498590/temp-prd-front-6491784-1_600x600/temp-prd-front-6491784-1-600x600.jpg"
 }

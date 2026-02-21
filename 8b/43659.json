@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schwarzkopf Blonde M3+ Coupe de Soleil Easy Highlighter",
+  "code": "43659",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "8000346",
+  "mmkId": "8000346",
+  "productGroupId": "518972",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schwarzkopf-blonde-m3-coupe-de-soleil-easy-highlighter/p/43659",
+  "listName": "Lister",
+  "brand": "Schwarzkopf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267041,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h32/h76/44834308325406/prd-front-43659-1_600x600/prd-front-43659-1-600x600.jpg"
+}
