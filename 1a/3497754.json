@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000470",
+  "mmkId": "8000470",
+  "productGroupId": "519658",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-purelan-lanoline-tepelzalf/p/3497754",
@@ -33,6 +33,5 @@
       "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "37g",
-  "image": "/medias/sys_master/prd-images/he5/h5e/28576164741150/prd-front-3497754-1_600x600/prd-front-3497754-1-600x600.jpg"
+  "description": "37g"
 }

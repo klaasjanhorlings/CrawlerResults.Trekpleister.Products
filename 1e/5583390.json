@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "40 ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h5d/he9/47179885641758/temp-prd-front-5583390-1_600x600/temp-prd-front-5583390-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf9/hd0/47223095164958/temp-prd-front-5583390-1_600x600/temp-prd-front-5583390-1-600x600.jpg"
 }
