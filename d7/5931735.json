@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Treaclemoon Creamy Shea Butterfly Bodyscrub",
+  "code": "5931735",
+  "price": "6.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
+  "supplier": "TRADE SENSE BV",
+  "inStock": "inStock",
+  "onPromo": "8000435",
+  "mmkId": "8000435",
+  "productGroupId": "526181",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/treaclemoon-creamy-shea-butterfly-bodyscrub/p/5931735",
+  "listName": "Lister",
+  "brand": "Treaclemoon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267048,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30267208,
+      "name": "Scrub"
+    }
+  ],
+  "description": "225ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h93/h93/30695946682398/prd-front-5931735-1_600x600/prd-front-5931735-1-600x600.jpg"
+}

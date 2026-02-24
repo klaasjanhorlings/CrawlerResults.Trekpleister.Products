@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "UNILEVER BELGIUM",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "8000297",
   "mmkId": "8000297",
   "productGroupId": "511746",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "720ml",
-  "image": "/medias/sys_master/prd-images/h8e/hd4/44916363460638/prd-front-6059800-1_600x600/prd-front-6059800-1-600x600.jpg"
+  "description": "720ml"
 }

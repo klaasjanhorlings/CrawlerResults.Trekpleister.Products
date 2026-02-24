@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Skincyclopedia Hyaluronic Acid Complex SPF50 Face Cream-Serum",
+  "code": "6085315",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/skincyclopedia-hyaluronic-acid-complex-spf50-face-cream-serum/p/6085315",
+  "listName": "Lister",
+  "brand": "SKINCYCLOPEDIA",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267162,
+      "name": "Serum"
+    }
+  ],
+  "description": "30ml, normale en vette huid",
+  "image": "/medias/sys_master/prd-images/hee/h35/30835863683102/prd-front-6085315-1_600x600/prd-front-6085315-1-600x600.jpg"
+}

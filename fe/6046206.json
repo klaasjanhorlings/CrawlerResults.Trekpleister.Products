@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "o.b. Herbruikbaar Menstruatieondergoed",
+  "code": "6046206",
+  "price": "14.99",
+  "priceOriginal": "24.99",
+  "itemBgbcat": "2003 > 2065 > 6835 > 6836 > 6837 > 2205",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "8000263",
+  "mmkId": "8000263",
+  "productGroupId": "520226",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/ob-herbruikbaar-menstruatieondergoed/p/6046206",
+  "listName": "Lister",
+  "brand": "Ob",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267223,
+      "name": "Menstruatieondergoed"
+    }
+  ],
+  "description": "zwart, mt XS-S",
+  "image": "/medias/sys_master/prd-images/he1/hdd/44241535991838/prd-front-6046206-1_600x600/prd-front-6046206-1-600x600.jpg"
+}

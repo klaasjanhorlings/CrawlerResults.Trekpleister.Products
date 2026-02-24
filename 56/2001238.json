@@ -7,7 +7,7 @@
   "priceOriginal": "5.99",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
   "supplier": "STORCK BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "8000201",
   "mmkId": "8000201",
   "productGroupId": "507948",
@@ -37,5 +37,6 @@
       "name": "Bonbons en pralines"
     }
   ],
-  "description": "400g"
+  "description": "400g",
+  "image": "/medias/sys_master/prd-images/had/h02/34368391905310/prd-front-2001238-1_600x600/prd-front-2001238-1-600x600.jpg"
 }

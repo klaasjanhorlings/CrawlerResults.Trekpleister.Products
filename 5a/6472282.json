@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "3005772",
   "mmkId": "3005772",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h2c/h88/46669092978718/temp-prd-front-6472282-1_600x600/temp-prd-front-6472282-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/had/hf5/47288617500702/temp-prd-front-6472282-1_600x600/temp-prd-front-6472282-1-600x600.jpg"
 }
