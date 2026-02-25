@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "MAINSTEIN GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h87/he5/47262404542494/temp-prd-front-5758838-1_600x600/temp-prd-front-5758838-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1f/h87/47306231808030/temp-prd-front-5758838-1_600x600/temp-prd-front-5758838-1-600x600.jpg"
 }

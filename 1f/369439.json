@@ -21,21 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536624,
-      "name": "Gezondheid"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267057,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30267262,
-      "name": "Luchtwegen"
-    },
-    {
-      "id": 49313535,
-      "name": "Neusreiniger"
+      "id": 75860503,
+      "name": "Baby en Kind gezondheid"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks"
+  "description": "Medisch hulpmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h48/h1b/28549330829342/prd-front-369439-1_600x600/prd-front-369439-1-600x600.jpg"
 }

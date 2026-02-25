@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Giorgio Beverly Hills Yellow Eau de Toilette Spray",
+  "code": "17683",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/giorgio-beverly-hills-yellow-eau-de-toilette-spray/p/17683",
+  "listName": "Lister",
+  "brand": "Giorgio Beverly Hills",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654765,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-17683-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA0NDF8aW1hZ2UvanBlZ3xhRGc1TDJobE9TOHhOalUzTnprM05qUTJOelE0Tmk5d2NtUXRabkp2Ym5RdE1UYzJPRE10TVY4Mk1EQjROakF3fGJiZGI0ZjJjMzZmNzRkODZhYWI5NzA5ZGQ1OGEyZGMxODUyOGRlYTFiZDdhMDZhMDNlMDY3ZmU5MWQ3YzI4N2M"
+}

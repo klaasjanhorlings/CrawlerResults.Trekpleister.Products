@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Speed Champions 77255 Lightning McQueen",
+  "code": "6448132",
+  "price": "25.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-speed-champions-77255-lightning-mcqueen/p/6448132",
+  "listName": "Lister",
+  "brand": "LEGO Speed Champs.",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267375,
+      "name": "LEGO Speed Champions"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4a/hf0/45077614985246/prd-front-6448132-1_600x600/prd-front-6448132-1-600x600.jpg"
+}

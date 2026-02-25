@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Elmex Sensitive Tandpasta",
+  "code": "2839124",
+  "price": "12.49",
+  "priceOriginal": "24.99",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "8000257",
+  "mmkId": "8000257",
+  "productGroupId": "518217",
+  "brandType": "A of B merk",
+  "discount": "€ 12,50",
+  "url": "/elmex-sensitive-tandpasta/p/2839124",
+  "listName": "Lister",
+  "brand": "Elmex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267052,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30267231,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "4 x 75ml - Gevoelige tanden",
+  "image": "/medias/sys_master/prd-images/h5f/h9f/33907747520542/prd-front-2839124-1_600x600/prd-front-2839124-1-600x600.jpg"
+}
