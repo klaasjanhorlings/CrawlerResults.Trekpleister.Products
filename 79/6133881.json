@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Adidas Vibes Energy Drive Eau de Parfum",
   "code": "6133881",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000486",
+  "mmkId": "8000486",
+  "productGroupId": "521337",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/adidas-vibes-energy-drive-eau-de-parfum/p/6133881",
   "listName": "Lister",
   "brand": "Adidas",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h4a/ha3/32415770673182/prd-front-6133881-1_600x600/prd-front-6133881-1-600x600.jpg"
+  "description": "30ml"
 }
