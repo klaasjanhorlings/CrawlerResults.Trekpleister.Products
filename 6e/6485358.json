@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO The Botanical Collection 11510 Magnoliatakken",
+  "code": "6485358",
+  "price": "45.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-the-botanical-collection-11510-magnoliatakken/p/6485358",
+  "listName": "Lister",
+  "brand": "LEGO Botanicals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 69044050,
+      "name": "LEGO Bloemen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h43/hdf/47127287431198/temp-prd-front-6485358-1_600x600/temp-prd-front-6485358-1-600x600.jpg"
+}

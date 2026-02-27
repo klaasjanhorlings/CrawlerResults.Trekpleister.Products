@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea Men Sensitive Scheergel",
+  "itemName": "NIVEA Men Sensitive Scheergel",
   "code": "1466578",
   "price": "5.29",
   "priceOriginal": "",
@@ -33,6 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "200ml",
+  "description": "200ml - Gevoelige huid",
   "image": "/medias/sys_master/prd-images/h7c/he2/32313419825182/prd-front-1466578-1_600x600/prd-front-1466578-1-600x600.jpg"
 }

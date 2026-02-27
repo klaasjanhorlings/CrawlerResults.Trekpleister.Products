@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Drs Leenarts Baby Bergzalf",
   "code": "5766706",
-  "price": "15.85",
+  "price": "16.49",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "DR LEENARTS BV",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536625,
-      "name": "Baby"
+      "id": 29536622,
+      "name": "Beauty"
     },
     {
-      "id": 30267067,
-      "name": "Babyverzorging"
-    },
-    {
-      "id": 30267333,
-      "name": "Baby huidverzorging"
-    },
-    {
-      "id": 30267575,
-      "name": "Babycreme"
+      "id": 30267163,
+      "name": "Dermacare"
     }
   ],
   "description": "50ml",

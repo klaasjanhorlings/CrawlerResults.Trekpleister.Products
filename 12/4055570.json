@@ -7,7 +7,7 @@
   "priceOriginal": "26.99",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "8000438",
   "mmkId": "8000438",
   "productGroupId": "533060",
@@ -33,6 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml",
+  "description": "200ml - Alle huidtypen",
   "image": "/medias/sys_master/prd-images/h4a/h28/45327577219102/prd-front-4055570-1_600x600/prd-front-4055570-1-600x600.jpg"
 }

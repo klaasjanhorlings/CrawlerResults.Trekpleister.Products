@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Disney 43300 Winnie de Poeh",
+  "code": "6485386",
+  "price": "139.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-disney-43300-winnie-de-poeh/p/6485386",
+  "listName": "Lister",
+  "brand": "LEGO Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267377,
+      "name": "LEGO Disney"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb2/h3f/47127280549918/temp-prd-front-6485386-1_600x600/temp-prd-front-6485386-1-600x600.jpg"
+}

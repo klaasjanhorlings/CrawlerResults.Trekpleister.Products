@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Premium Protection Maat 4 Luiers",
+  "code": "6476818",
+  "price": "68.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-premium-protection-maat-4-luiers/p/6476818",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267344,
+      "name": "Luiers maat 4"
+    }
+  ],
+  "description": "mt 4 (9-14kg), 116 stuks",
+  "image": "/medias/sys_master/prd-images/h61/hd1/46522154811422/temp-prd-front-6476818-1_600x600/temp-prd-front-6476818-1-600x600.jpg"
+}

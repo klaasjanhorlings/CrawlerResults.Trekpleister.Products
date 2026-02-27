@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Baby-Dry Pants Maat 8 Luierbroekjes",
+  "code": "6475243",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-baby-dry-pants-maat-8-luierbroekjes/p/6475243",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267070,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 49321240,
+      "name": "Luierbroekjes maat 8"
+    }
+  ],
+  "description": "mt 8 (17+kg), 16 stuks",
+  "image": "/medias/sys_master/prd-images/h3b/h5d/46521270566942/temp-prd-front-6475243-1_600x600/temp-prd-front-6475243-1-600x600.jpg"
+}

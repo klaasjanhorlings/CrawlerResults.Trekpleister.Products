@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medela Harmony Essential Set",
+  "code": "6499708",
+  "price": "36.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "MEDELA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medela-harmony-essential-set/p/6499708",
+  "listName": "Lister",
+  "brand": "Medela",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30267361,
+      "name": "Borstvoedingsaccessoires"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hff/h5f/47306323296286/temp-prd-front-6499708-1_600x600/temp-prd-front-6499708-1-600x600.jpg"
+}

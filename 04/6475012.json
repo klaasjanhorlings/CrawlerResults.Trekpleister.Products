@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Baby-Dry Maat 4 Luiers",
+  "code": "6475012",
+  "price": "62.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-baby-dry-maat-4-luiers/p/6475012",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267344,
+      "name": "Luiers maat 4"
+    }
+  ],
+  "description": "mt 4 (9-14kg), 136 stuks",
+  "image": "/medias/sys_master/prd-images/h74/ha3/46520823906334/temp-prd-front-6475012-1_600x600/temp-prd-front-6475012-1-600x600.jpg"
+}

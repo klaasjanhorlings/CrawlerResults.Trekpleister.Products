@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Frigg Rope Maat 2 (6-18M) Fopspeen",
+  "code": "6503999",
+  "price": "10.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3381",
+  "supplier": "MAMELOU BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/frigg-rope-maat-2-6-18m-fopspeen/p/6503999",
+  "listName": "Lister",
+  "brand": "Frigg",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267073,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30267354,
+      "name": "Fopspenen"
+    }
+  ],
+  "description": "beige, grijs, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h78/h2f/47426283962398/temp-prd-front-6503999-1_600x600/temp-prd-front-6503999-1-600x600.jpg"
+}

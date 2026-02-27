@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Technic 42226 BMW M4 GT3 EVO Racewagen",
+  "code": "6485435",
+  "price": "59.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-technic-42226-bmw-m4-gt3-evo-racewagen/p/6485435",
+  "listName": "Lister",
+  "brand": "LEGO Technic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267381,
+      "name": "LEGO Technic"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd0/h7b/47130572357662/temp-prd-front-6485435-1_600x600/temp-prd-front-6485435-1-600x600.jpg"
+}

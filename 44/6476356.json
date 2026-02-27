@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Premium Protection Maat 0 Luiers",
+  "code": "6476356",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3059 > 3907",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-premium-protection-maat-0-luiers/p/6476356",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267068,
+      "name": "Luiers"
+    },
+    {
+      "id": 30267340,
+      "name": "Luiers maat 0"
+    }
+  ],
+  "description": "mt 0 (tot circa 3kg), 30 stuks",
+  "image": "/medias/sys_master/prd-images/hb1/he3/46520625659934/temp-prd-front-6476356-1_600x600/temp-prd-front-6476356-1-600x600.jpg"
+}

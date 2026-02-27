@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Baby-Dry Pants Maat 5 Luierbroekjes",
+  "code": "6475285",
+  "price": "37.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-baby-dry-pants-maat-5-luierbroekjes/p/6475285",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267070,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 30267351,
+      "name": "Luierbroekjes maat 5"
+    }
+  ],
+  "description": "mt 5 (11-17kg), 114 stuks",
+  "image": "/medias/sys_master/prd-images/hbc/h90/46521529073694/temp-prd-front-6475285-1_600x600/temp-prd-front-6475285-1-600x600.jpg"
+}

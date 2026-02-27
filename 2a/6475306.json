@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Baby-Dry Pants Maat 7 Luierbroekjes",
+  "code": "6475306",
+  "price": "66.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2892 > 3667",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-baby-dry-pants-maat-7-luierbroekjes/p/6475306",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267070,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 30267353,
+      "name": "Luierbroekjes maat 7"
+    }
+  ],
+  "description": "mt 7 (15+kg), 78 stuks",
+  "image": "/medias/sys_master/prd-images/h1d/hfc/46520939184158/temp-prd-front-6475306-1_600x600/temp-prd-front-6475306-1-600x600.jpg"
+}

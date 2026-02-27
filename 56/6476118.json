@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Night Pants Maat 5 Luierbroekjes",
+  "code": "6476118",
+  "price": "64.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-night-pants-maat-5-luierbroekjes/p/6476118",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267070,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 30267351,
+      "name": "Luierbroekjes maat 5"
+    }
+  ],
+  "description": "mt 5 (11-17kg), 92 stuks",
+  "image": "/medias/sys_master/prd-images/h14/h31/46520952881182/temp-prd-front-6476118-1_600x600/temp-prd-front-6476118-1-600x600.jpg"
+}

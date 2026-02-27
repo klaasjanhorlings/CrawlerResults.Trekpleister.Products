@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO DUPLO 10465 Mickey Mouse Clubhuis met Minnie en Pluto",
+  "code": "6485414",
+  "price": "45.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-duplo-10465-mickey-mouse-clubhuis-met-minnie-en-pluto/p/6485414",
+  "listName": "Lister",
+  "brand": "LEGO Duplo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267380,
+      "name": "LEGO Duplo"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5e/h88/47144080539678/temp-prd-front-6485414-1_600x600/temp-prd-front-6485414-1-600x600.jpg"
+}
