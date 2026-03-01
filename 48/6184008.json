@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tampax Compak Super Tampons met Inbrenghuls",
+  "code": "6184008",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3755",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "8000388",
+  "mmkId": "8000388",
+  "productGroupId": "520488",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tampax-compak-super-tampons-met-inbrenghuls/p/6184008",
+  "listName": "Lister",
+  "brand": "Tampax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267051,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30267218,
+      "name": "Tampons"
+    }
+  ],
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/he9/h45/33764329127966/prd-front-6184008-1_600x600/prd-front-6184008-1-600x600.jpg"
+}
