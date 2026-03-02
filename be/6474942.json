@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000492",
+  "mmkId": "8000492",
+  "productGroupId": "519649",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-baby-dry-maat-3-luiers/p/6474942",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 3"
     }
   ],
-  "description": "mt 3 (6-10kg), 84 stuks"
+  "description": "mt 3 (6-10kg), 84 stuks",
+  "image": "/medias/sys_master/prd-images/h83/hcf/46521272533022/temp-prd-front-6474942-1_600x600/temp-prd-front-6474942-1-600x600.jpg"
 }

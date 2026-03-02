@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "8000392",
-  "mmkId": "8000392",
-  "productGroupId": "520877",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-magic-retouch-zwart-camouflerende-uitgroeispray/p/3697898",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hd3/hfc/44883732758558/prd-front-3697898-1_600x600/prd-front-3697898-1-600x600.jpg"
 }

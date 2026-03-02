@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2903 > 3700",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000669",
+  "mmkId": "8000669",
+  "productGroupId": "525966",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jordan-3-in-1-flossers/p/3034291",
@@ -33,6 +33,5 @@
       "name": "Flosdraad"
     }
   ],
-  "description": "36 stuks",
-  "image": "/medias/sys_master/prd-images/hef/hab/44599168106526/prd-front-3034291-1_600x600/prd-front-3034291-1-600x600.jpg"
+  "description": "36 stuks"
 }

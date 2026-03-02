@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000670",
+  "mmkId": "8000670",
+  "productGroupId": "526501",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-6m-appel-banaan-knijpfruit/p/5750459",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100g",
-  "image": "/medias/sys_master/prd-images/hbd/h69/47519815073822/temp-prd-front-5750459-1_600x600/temp-prd-front-5750459-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h29/had/47562085367838/temp-prd-front-5750459-1_600x600/temp-prd-front-5750459-1-600x600.jpg"
 }

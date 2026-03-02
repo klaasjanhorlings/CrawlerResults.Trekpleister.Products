@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "8000557",
+  "mmkId": "8000557",
+  "productGroupId": "513901",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-lash-paradise-waterproof-zwarte-volume-mascara/p/5798364",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h47/h66/45079462412318/prd-front-5798364-1_600x600/prd-front-5798364-1-600x600.jpg"
 }

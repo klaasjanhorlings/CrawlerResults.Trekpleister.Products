@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Sensodyne Fresh Mint Tandpasta",
   "code": "5715837",
-  "price": "9.99",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "8000258",
-  "mmkId": "8000258",
-  "productGroupId": "518230",
+  "onPromo": "8000503",
+  "mmkId": "8000503",
+  "productGroupId": "536316",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "",
   "url": "/sensodyne-fresh-mint-tandpasta/p/5715837",
   "listName": "Lister",
   "brand": "Sensodyne",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "4 x 75ml",
-  "image": "/medias/sys_master/prd-images/hee/hff/47515470430238/temp-prd-front-5715837-1_600x600/temp-prd-front-5715837-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1c/h5d/47557357862942/temp-prd-front-5715837-1_600x600/temp-prd-front-5715837-1-600x600.jpg"
 }

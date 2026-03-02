@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2707 > 3891",
   "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "8000567",
+  "mmkId": "8000567",
+  "productGroupId": "514654",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-banaan-haver-maaltijdshake/p/6260077",
@@ -33,5 +33,6 @@
       "name": "Maaltijdvervangers"
     }
   ],
-  "description": "434g"
+  "description": "434g",
+  "image": "/medias/sys_master/prd-images/h90/hea/34868238221342/prd-front-6260077-1_600x600/prd-front-6260077-1-600x600.jpg"
 }

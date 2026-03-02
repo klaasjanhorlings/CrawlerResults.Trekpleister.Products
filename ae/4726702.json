@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Neutrogena Hydro Boost Aqua Gel Dagcrème",
   "code": "4726702",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 6759 > 6758 > 6769 > 6770 > 6771",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000541",
+  "mmkId": "8000541",
+  "productGroupId": "511824",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/neutrogena-hydro-boost-aqua-gel-dagcreme/p/4726702",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "50ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h9d/hab/34375317127198/prd-front-4726702-1_600x600/prd-front-4726702-1-600x600.jpg"
+  "description": "50ml - Alle huidtypen"
 }

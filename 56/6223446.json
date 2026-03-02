@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Ultimate Fine & Fragile Tangle Teezer",
   "code": "6223446",
-  "price": "11.99",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6320",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "8000432",
-  "mmkId": "8000432",
-  "productGroupId": "523472",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/ultimate-fine-fragile-tangle-teezer/p/6223446",
   "listName": "Lister",
   "brand": "Tangle Teezer",
@@ -37,6 +37,5 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "lila",
-  "image": "/medias/sys_master/prd-images/h70/hc1/32572424355870/prd-front-6223446-1_600x600/prd-front-6223446-1-600x600.jpg"
+  "description": "lila"
 }

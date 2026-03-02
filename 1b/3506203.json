@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000612",
+  "mmkId": "8000612",
+  "productGroupId": "519827",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/corega-3-minutes-dagelijkse-reiniger-tabletten/p/3506203",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 30 stuks",
-  "image": "/medias/sys_master/prd-images/hcc/h71/47511187128350/temp-prd-front-3506203-1_600x600/temp-prd-front-3506203-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb1/h57/47557190713374/temp-prd-front-3506203-1_600x600/temp-prd-front-3506203-1-600x600.jpg"
 }

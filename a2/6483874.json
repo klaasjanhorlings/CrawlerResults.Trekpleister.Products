@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Janneke Brinkman 2-Persoons Dekbedovertrek met Bloemenprint",
+  "code": "6483874",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5926 > 2196 > 2453 > 2738 > 3440 > 6020",
+  "supplier": "VESPO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/janneke-brinkman-2-persoons-dekbedovertrek-met-bloemenprint/p/6483874",
+  "listName": "Lister",
+  "brand": "Janneke Brinkman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267129,
+      "name": "Wonen"
+    },
+    {
+      "id": 30267458,
+      "name": "Huishoudelijk textiel"
+    }
+  ],
+  "description": "220cm x 240cm",
+  "image": "/medias/sys_master/prd-images/h77/h5f/45418621599774/prd-front-6483874-1_600x600/prd-front-6483874-1-600x600.jpg"
+}

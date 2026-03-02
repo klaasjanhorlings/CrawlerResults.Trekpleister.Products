@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "8000382",
-  "mmkId": "8000382",
-  "productGroupId": "520150",
+  "onPromo": "8000632",
+  "mmkId": "8000632",
+  "productGroupId": "520891",
   "brandType": "A of B merk",
   "discount": "€ 11,75",
   "url": "/garnier-ambre-solaire-hydra-24h-protect-spf30-zonnemelk/p/6243312",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "175ml",
-  "image": "/medias/sys_master/prd-images/hd0/h7d/47431456489502/temp-prd-front-6243312-1_600x600/temp-prd-front-6243312-1-600x600.jpg"
+  "description": "175ml"
 }

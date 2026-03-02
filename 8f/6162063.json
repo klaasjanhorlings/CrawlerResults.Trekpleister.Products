@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Sensodyne Rapid Relief Tandpasta voor Gevoelige Tanden",
   "code": "6162063",
-  "price": "13.69",
-  "priceOriginal": "27.39",
+  "price": "27.39",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "8000258",
-  "mmkId": "8000258",
-  "productGroupId": "518230",
+  "onPromo": "8000503",
+  "mmkId": "8000503",
+  "productGroupId": "536316",
   "brandType": "A of B merk",
-  "discount": "€ 13,70",
+  "discount": "",
   "url": "/sensodyne-rapid-relief-tandpasta-voor-gevoelige-tanden/p/6162063",
   "listName": "Lister",
   "brand": "Sensodyne",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 4 x 75ml",
-  "image": "/medias/sys_master/prd-images/h0e/h58/47505165713438/temp-prd-front-6162063-1_600x600/temp-prd-front-6162063-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hec/h05/47548970598430/temp-prd-front-6162063-1_600x600/temp-prd-front-6162063-1-600x600.jpg"
 }

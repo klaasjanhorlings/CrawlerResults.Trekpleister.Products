@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Mexx Inspired Nature Eau de Parfum",
   "code": "6268722",
-  "price": "13.74",
-  "priceOriginal": "27.49",
+  "price": "27.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "8000486",
-  "mmkId": "8000486",
-  "productGroupId": "521337",
+  "onPromo": "8000535",
+  "mmkId": "8000535",
+  "productGroupId": "511446",
   "brandType": "A of B merk",
-  "discount": "€ 13,75",
+  "discount": "",
   "url": "/mexx-inspired-nature-eau-de-parfum/p/6268722",
   "listName": "Lister",
   "brand": "Mexx",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h4a/h39/33469812539422/prd-front-6268722-1_600x600/prd-front-6268722-1-600x600.jpg"
 }

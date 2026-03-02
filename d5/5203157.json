@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "outOfStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "8000557",
+  "mmkId": "8000557",
+  "productGroupId": "513901",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-riche-2010-sil-vous-plait-richest-lipliner/p/5203157",
@@ -37,6 +37,5 @@
       "name": "Lipliner"
     }
   ],
-  "description": "4g",
-  "image": "/medias/sys_master/prd-images/h0d/hfc/44111046967326/prd-front-5203157-1_600x600/prd-front-5203157-1-600x600.jpg"
+  "description": "4g"
 }

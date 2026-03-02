@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3070 > 3684",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "8000289",
-  "mmkId": "8000289",
-  "productGroupId": "510445",
+  "onPromo": "8000527",
+  "mmkId": "8000527",
+  "productGroupId": "510351",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-dermo-care-protector-48-uur-deodorant-stick/p/3133558",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "65ml - Alle huidtypes"
+  "description": "65ml - Alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h02/hc8/44640916176926/prd-front-3133558-1_600x600/prd-front-3133558-1-600x600.jpg"
 }

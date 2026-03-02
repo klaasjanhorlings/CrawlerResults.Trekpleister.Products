@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "8000315",
-  "mmkId": "8000315",
-  "productGroupId": "515851",
+  "onPromo": "8000536",
+  "mmkId": "8000536",
+  "productGroupId": "511473",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-derma-skin-clear-scrub/p/5757340",
@@ -37,5 +37,6 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "150ml - Acnegevoelige huid"
+  "description": "150ml - Acnegevoelige huid",
+  "image": "/medias/sys_master/prd-images/hd3/h16/35066619396126/prd-front-5757340-1_600x600/prd-front-5757340-1-600x600.jpg"
 }

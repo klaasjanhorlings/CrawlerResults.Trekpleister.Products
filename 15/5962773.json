@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000670",
+  "mmkId": "8000670",
+  "productGroupId": "526501",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-12m-appel-blauwe-bes-knijpfruit/p/5962773",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100g",
-  "image": "/medias/sys_master/prd-images/hbe/hee/47511343857694/temp-prd-front-5962773-1_600x600/temp-prd-front-5962773-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc4/h7d/47557249826846/temp-prd-front-5962773-1_600x600/temp-prd-front-5962773-1-600x600.jpg"
 }

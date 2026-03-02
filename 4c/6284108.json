@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oral-B Pro Junior Frozen Elektrische Tandenborstel",
   "code": "6284108",
-  "price": "79.99",
-  "priceOriginal": "",
+  "price": "39.99",
+  "priceOriginal": "79.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000522",
+  "mmkId": "8000522",
+  "productGroupId": "509095",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 40,00",
   "url": "/oral-b-pro-junior-frozen-elektrische-tandenborstel/p/6284108",
   "listName": "Lister",
   "brand": "Oral B",
@@ -33,6 +33,5 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "1 Frozen-handvat + 2 opzetborstels",
-  "image": "/medias/sys_master/prd-images/hc3/hee/44790217932830/prd-front-6284108-1_600x600/prd-front-6284108-1-600x600.jpg"
+  "description": "1 Frozen-handvat + 2 opzetborstels"
 }

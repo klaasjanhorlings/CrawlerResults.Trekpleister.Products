@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000670",
+  "mmkId": "8000670",
+  "productGroupId": "526501",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-12m-banaan-kiwi-aardbei-knijpfruit/p/5750452",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100g",
-  "image": "/medias/sys_master/prd-images/hcc/hb2/47510917677086/temp-prd-front-5750452-1_600x600/temp-prd-front-5750452-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h93/h68/47553149009950/temp-prd-front-5750452-1_600x600/temp-prd-front-5750452-1-600x600.jpg"
 }

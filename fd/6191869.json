@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Neutrogena Clear & Defend 2% Salicylzuur Gezichtsscrub",
   "code": "6191869",
-  "price": "12.99",
-  "priceOriginal": "",
+  "price": "6.49",
+  "priceOriginal": "12.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
   "supplier": "KENVUE",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000541",
+  "mmkId": "8000541",
+  "productGroupId": "511824",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,50",
   "url": "/neutrogena-clear-defend-2-salicylzuur-gezichtsscrub/p/6191869",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -33,6 +33,5 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "150ml - Onzuivere huid",
-  "image": "/medias/sys_master/prd-images/h46/h91/32595940311070/prd-front-6191869-1_600x600/prd-front-6191869-1-600x600.jpg"
+  "description": "150ml - Onzuivere huid"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "8000370",
-  "mmkId": "8000370",
-  "productGroupId": "519920",
+  "onPromo": "8000546",
+  "mmkId": "8000546",
+  "productGroupId": "512214",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/head-shoulders-classic-2-in-1-antiroosshampoo/p/4672074",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml - Alle haar- en hoofdhuidtypen"
+  "description": "300ml - Alle haar- en hoofdhuidtypen",
+  "image": "/medias/sys_master/prd-images/he4/h48/47553149992990/temp-prd-front-4672074-1_600x600/temp-prd-front-4672074-1-600x600.jpg"
 }

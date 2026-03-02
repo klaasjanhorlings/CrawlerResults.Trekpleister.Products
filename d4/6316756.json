@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Soft Matte Flushed Blush Beauty Wand",
   "code": "6316756",
-  "price": "11.99",
-  "priceOriginal": "",
+  "price": "10.0",
+  "priceOriginal": "11.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "8000577",
+  "mmkId": "8000577",
+  "productGroupId": "516975",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 1,99",
   "url": "/mcobeauty-soft-matte-flushed-blush-beauty-wand/p/6316756",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,6 +33,5 @@
       "name": "Blush"
     }
   ],
-  "description": "12ml",
-  "image": "/medias/sys_master/prd-images/hd5/hbd/34827390353438/prd-front-6316756-1_600x600/prd-front-6316756-1-600x600.jpg"
+  "description": "12ml"
 }

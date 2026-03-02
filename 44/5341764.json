@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Trekpleister Hair Gummies",
   "code": "5341764",
-  "price": "5.0",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6233",
   "supplier": "2THINGS",
   "inStock": "inStock",
-  "onPromo": "8000374",
-  "mmkId": "8000374",
-  "productGroupId": "520093",
+  "onPromo": "8000610",
+  "mmkId": "8000610",
+  "productGroupId": "519788",
   "brandType": "Eigen merk",
-  "discount": "€ 2,99",
+  "discount": "",
   "url": "/trekpleister-hair-gummies/p/5341764",
   "listName": "Lister",
   "brand": "Trekpleister",
@@ -33,6 +33,5 @@
       "name": "Beautysupplementen"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h5c/hda/29570890170398/prd-front-5341764-1_600x600/prd-front-5341764-1-600x600.jpg"
+  "description": "60 stuks"
 }

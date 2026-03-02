@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hugo Boss Bottled Geschenkset",
+  "code": "6485778",
+  "price": "58.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 6705 > 6706 > 4114",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hugo-boss-bottled-geschenkset/p/6485778",
+  "listName": "Lister",
+  "brand": "Hugo Boss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267039,
+      "name": "Parfum"
+    },
+    {
+      "id": 72655099,
+      "name": "Parfum geschenkset voor hem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h89/hb3/46659457056798/temp-prd-front-6485778-1_600x600/temp-prd-front-6485778-1-600x600.jpg"
+}

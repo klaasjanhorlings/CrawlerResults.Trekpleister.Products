@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Fructis Color Repairing Papaya Hair Food 3-in-1 Haarmasker",
   "code": "4361925",
-  "price": "4.99",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "8000379",
-  "mmkId": "8000379",
-  "productGroupId": "520104",
+  "onPromo": "8000553",
+  "mmkId": "8000553",
+  "productGroupId": "512930",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/garnier-fructis-color-repairing-papaya-hair-food-3-in-1-haarmasker/p/4361925",
   "listName": "Lister",
   "brand": "Fructis",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h53/hcd/35026382782494/prd-front-4361925-1_600x600/prd-front-4361925-1-600x600.jpg"
 }

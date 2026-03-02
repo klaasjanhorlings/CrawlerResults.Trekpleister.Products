@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
   "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "8000569",
+  "mmkId": "8000569",
+  "productGroupId": "514686",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-34-problast-cookies-caramel-proteinereep/p/6260063",
@@ -33,5 +33,6 @@
       "name": "Sportrepen"
     }
   ],
-  "description": "60g"
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/h80/hfd/33578418929694/prd-front-6260063-1_600x600/prd-front-6260063-1-600x600.jpg"
 }

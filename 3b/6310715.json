@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "8000358",
-  "mmkId": "8000358",
-  "productGroupId": "519742",
+  "onPromo": "8000608",
+  "mmkId": "8000608",
+  "productGroupId": "519743",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-conditioner/p/6310715",
@@ -37,6 +37,5 @@
       "name": "Baby cremespoeling"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hc3/h50/34737523916830/prd-front-6310715-1_600x600/prd-front-6310715-1-600x600.jpg"
+  "description": "200ml"
 }

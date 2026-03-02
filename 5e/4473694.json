@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "3005772",
-  "mmkId": "3005772",
-  "productGroupId": "",
+  "onPromo": "8000557",
+  "mmkId": "8000557",
+  "productGroupId": "513901",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-20-ivory-spf25-32h-fresh-wear-foundation/p/4473694",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h4f/hbd/45055000084510/prd-front-4473694-1_600x600/prd-front-4473694-1-600x600.jpg"
 }
