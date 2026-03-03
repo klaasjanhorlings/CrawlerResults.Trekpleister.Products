@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Olvarit 6-8M Drie Granen Pap",
+  "itemName": "Olvarit 6+M Drie Granen Pap",
   "code": "6312038",
   "price": "2.45",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/olvarit-6-8m-drie-granen-pap/p/6312038",
+  "url": "/olvarit-6m-drie-granen-pap/p/6312038",
   "listName": "Lister",
   "brand": "Olvarit",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200g",
-  "image": "/medias/sys_master/prd-images/hc5/ha5/47552998408222/temp-prd-front-6312038-1_600x600/temp-prd-front-6312038-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf0/hdd/47618735800350/temp-prd-front-6312038-1_600x600/temp-prd-front-6312038-1-600x600.jpg"
 }

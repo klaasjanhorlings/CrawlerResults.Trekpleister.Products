@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Huggies Extra Care Sensitive Babydoekjes",
+  "code": "6382542",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
+  "supplier": "KIMBERLY-CLARK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/huggies-extra-care-sensitive-babydoekjes/p/6382542",
+  "listName": "Lister",
+  "brand": "Huggies",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "8 x 48 stuks",
+  "image": "/medias/sys_master/prd-images/hc5/h6e/44497310351390/prd-front-6382542-1_600x600/prd-front-6382542-1-600x600.jpg"
+}

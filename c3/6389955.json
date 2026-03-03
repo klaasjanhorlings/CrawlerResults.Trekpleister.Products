@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Lungo Koffiecapsules",
+  "code": "6389955",
+  "price": "2.99",
+  "priceOriginal": "4.49",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "8000731",
+  "mmkId": "8000731",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,50",
+  "url": "/douwe-egberts-lungo-koffiecapsules/p/6389955",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267443,
+      "name": "Koffie"
+    },
+    {
+      "id": 113108306,
+      "name": "Koffiecups"
+    }
+  ],
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/hd6/h07/44390498336798/prd-front-6389955-1_600x600/prd-front-6389955-1-600x600.jpg"
+}

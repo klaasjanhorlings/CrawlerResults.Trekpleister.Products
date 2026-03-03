@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3527",
   "supplier": "HALEON (NOVARTIS)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "3007554",
   "mmkId": "3007554",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Neusdruppels"
     }
   ],
-  "description": "Medisch hulpmiddel - 18 x 5ml"
+  "description": "Medisch hulpmiddel - 18 x 5ml",
+  "image": "/medias/sys_master/prd-images/h24/hd4/44936498544670/prd-front-6392377-1_600x600/prd-front-6392377-1-600x600.jpg"
 }

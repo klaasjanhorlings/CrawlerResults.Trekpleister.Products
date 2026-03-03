@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Organix Melty Tomato Slices",
+  "code": "6111166",
+  "price": "1.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
+  "supplier": "HERO NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/organix-melty-tomato-slices/p/6111166",
+  "listName": "Lister",
+  "brand": "Organix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267066,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30267331,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "20g",
+  "image": "/medias/sys_master/prd-images/hfb/h0d/30994853265438/prd-front-6111166-1_600x600/prd-front-6111166-1-600x600.jpg"
+}
