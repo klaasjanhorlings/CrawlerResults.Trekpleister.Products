@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Corega Fresh Cleanse Reinigingsmousse",
+  "itemName": "Corega Fresh Cleanse Kunstgebitreiniger",
   "code": "1467453",
   "price": "6.29",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "519827",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/corega-fresh-cleanse-reinigingsmousse/p/1467453",
+  "url": "/corega-fresh-cleanse-kunstgebitreiniger/p/1467453",
   "listName": "Lister",
   "brand": "Corega",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 125ml",
-  "image": "/medias/sys_master/prd-images/h75/hc3/47605406957598/temp-prd-front-1467453-1_600x600/temp-prd-front-1467453-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4d/h21/47646102454302/temp-prd-front-1467453-1_600x600/temp-prd-front-1467453-1-600x600.jpg"
 }

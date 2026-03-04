@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Sensodyne Fresh & Cool Mondwater voor Gevoelige Tanden",
+  "itemName": "Sensodyne Fresh & Cool Mondwater",
   "code": "3354793",
   "price": "6.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/sensodyne-fresh-cool-mondwater-voor-gevoelige-tanden/p/3354793",
+  "url": "/sensodyne-fresh-cool-mondwater/p/3354793",
   "listName": "Lister",
   "brand": "Sensodyne",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/hec/h0a/47591237746718/temp-prd-front-3354793-1_600x600/temp-prd-front-3354793-1-600x600.jpg"
+  "description": "500ml - Gevoelige tanden",
+  "image": "/medias/sys_master/prd-images/h29/h8d/47640762843166/temp-prd-front-3354793-1_600x600/temp-prd-front-3354793-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "LEGO Art 31215 Vincent van Gogh Zonnebloemen",
   "code": "6345981",
-  "price": "189.99",
-  "priceOriginal": "",
+  "price": "142.49",
+  "priceOriginal": "189.99",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "8001230",
+  "mmkId": "8001230",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 47,50",
   "url": "/lego-art-31215-vincent-van-gogh-zonnebloemen/p/6345981",
   "listName": "Lister",
   "brand": "LEGO Art",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69044050,
-      "name": "LEGO Bloemen"
+      "id": 69027504,
+      "name": "LEGO Volwassenen"
     }
   ],
   "description": "",

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robijn Advanced Quickwash Spring Blossom Wasmiddel",
+  "code": "6458443",
+  "price": "56.97",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/robijn-advanced-quickwash-spring-blossom-wasmiddel/p/6458443",
+  "listName": "Lister",
+  "brand": "Robijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267117,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "3 x 837ml, 2 x 22 wasbeurten",
+  "image": "/medias/sys_master/prd-images/he4/h5c/45265198415902/prd-front-6458443-1_600x600/prd-front-6458443-1-600x600.jpg"
+}

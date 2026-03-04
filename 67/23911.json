@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Aquafresh Freshmint Frisse Adem Mondspray",
+  "itemName": "Aquafresh Freshmint Mondspray",
   "code": "23911",
   "price": "4.69",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/aquafresh-freshmint-frisse-adem-mondspray/p/23911",
+  "url": "/aquafresh-freshmint-mondspray/p/23911",
   "listName": "Lister",
   "brand": "Aquafresh",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "15ml",
+  "description": "15ml - Alcoholvrij",
   "image": "/medias/sys_master/prd-images/h99/h25/47042372567070/temp-prd-front-23911-1_600x600/temp-prd-front-23911-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Corega Triple Action Dagelijkse Reiniger Tabletten",
+  "itemName": "Corega Triple Action Kunstgebitreiniger Tabletten",
   "code": "4041528",
   "price": "7.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "519827",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/corega-triple-action-dagelijkse-reiniger-tabletten/p/4041528",
+  "url": "/corega-triple-action-kunstgebitreiniger-tabletten/p/4041528",
   "listName": "Lister",
   "brand": "Corega",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 66 stuks",
-  "image": "/medias/sys_master/prd-images/h56/h39/47613120905246/temp-prd-front-4041528-1_600x600/temp-prd-front-4041528-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4e/h91/47652631150622/temp-prd-front-4041528-1_600x600/temp-prd-front-4041528-1-600x600.jpg"
 }

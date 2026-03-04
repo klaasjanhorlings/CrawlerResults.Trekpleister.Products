@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Sensodyne Proglasur Daily Protection Multi-Action Tandpasta",
+  "itemName": "Sensodyne Proglasur Daily Protection Tandpasta",
   "code": "2868615",
   "price": "6.29",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/sensodyne-proglasur-daily-protection-multi-action-tandpasta/p/2868615",
+  "url": "/sensodyne-proglasur-daily-protection-tandpasta/p/2868615",
   "listName": "Lister",
   "brand": "Sensodyne",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml",
+  "description": "75ml - Glazuurbescherming",
   "image": "/medias/sys_master/prd-images/hf9/h98/45715444301854/temp-prd-front-2868615-1_600x600/temp-prd-front-2868615-1-600x600.jpg"
 }

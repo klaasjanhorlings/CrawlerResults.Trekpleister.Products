@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Huggies Natural Care Billendoekjes",
+  "code": "6505490",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
+  "supplier": "KIMBERLY-CLARK BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/huggies-natural-care-billendoekjes/p/6505490",
+  "listName": "Lister",
+  "brand": "Huggies",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267069,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "10 x 56 stuks",
+  "image": "/medias/sys_master/prd-images/hab/h91/46521626624030/temp-prd-front-6505490-1_600x600/temp-prd-front-6505490-1-600x600.jpg"
+}

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Wilkinson Sword Classic Scheermes",
+  "itemName": "Wilkinson Sword Classic Double Edge Scheermes",
   "code": "6251642",
   "price": "6.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/wilkinson-sword-classic-scheermes/p/6251642",
+  "url": "/wilkinson-sword-classic-double-edge-scheermes/p/6251642",
   "listName": "Lister",
   "brand": "Wilkinson Sword",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": "Inclusief 5 scheermesjes"
+  "description": "Inclusief 5 scheermesjes",
+  "image": "/medias/sys_master/prd-images/hcb/h8c/47426277179422/temp-prd-front-6251642-1_600x600/temp-prd-front-6251642-1-600x600.jpg"
 }

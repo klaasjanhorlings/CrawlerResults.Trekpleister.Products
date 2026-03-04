@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Corega 3 Minutes Dagelijkse Reiniger Tabletten",
+  "itemName": "Corega 3 Minutes Kunstgebitreiniger Tabletten",
   "code": "3506203",
   "price": "3.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "519827",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/corega-3-minutes-dagelijkse-reiniger-tabletten/p/3506203",
+  "url": "/corega-3-minutes-kunstgebitreiniger-tabletten/p/3506203",
   "listName": "Lister",
   "brand": "Corega",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 30 stuks",
-  "image": "/medias/sys_master/prd-images/h1f/hd1/47605004042270/temp-prd-front-3506203-1_600x600/temp-prd-front-3506203-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8b/hf3/47640608473118/temp-prd-front-3506203-1_600x600/temp-prd-front-3506203-1-600x600.jpg"
 }

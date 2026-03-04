@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Pink Big Volume Droogshampoo",
+  "code": "4129574",
+  "price": "6.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "8000538",
+  "mmkId": "8000538",
+  "productGroupId": "511600",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-pink-big-volume-droogshampoo/p/4129574",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267056,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30267250,
+      "name": "Droogshampoo"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-4129574-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDI5MzN8aW1hZ2UvanBlZ3xhRFUwTDJnME1DOHhOelUzTnpVek9EWTFNREUwTWk5d2NtUXRabkp2Ym5RdE5ERXlPVFUzTkMweFh6WXdNSGcyTURBfDk2YzQyODBlYzY4OGNiODk1YjA4ZGIyMzg0MDZhMWJjOTQ0MzY1OTNjNjU1YmE2MzA3MzFhNmYxYWQ3N2MxNzU"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lansinoh HPA Lanoline Tepelzalf",
+  "code": "4916304",
+  "price": "18.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "LANSINOH LABORATORIES",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lansinoh-hpa-lanoline-tepelzalf/p/4916304",
+  "listName": "Lister",
+  "brand": "Lansinoh",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267074,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30267362,
+      "name": "Mama verzorgingsproducten"
+    }
+  ],
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h68/hc5/28809676390430/prd-front-4916304-1_600x600/prd-front-4916304-1-600x600.jpg"
+}

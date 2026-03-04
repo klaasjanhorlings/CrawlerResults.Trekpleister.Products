@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536623,
+      "name": "Verzorging"
     },
     {
-      "id": 30267044,
-      "name": "Haaraccessoires"
+      "id": 30267249,
+      "name": "Haarstylingproducten"
     },
     {
-      "id": 30267184,
-      "name": "Haarbanden"
+      "id": 30267255,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30267496,
+      "name": "Krultangen"
     }
   ],
   "description": "",

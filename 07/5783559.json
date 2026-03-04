@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "8000557",
   "mmkId": "8000557",
   "productGroupId": "513901",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30267134,
-      "name": "Foundation"
+      "id": 30267144,
+      "name": "Gezichtspoeder"
     }
   ],
   "description": "9g, Gezien op TikTok",

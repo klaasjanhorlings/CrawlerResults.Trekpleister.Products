@@ -29,10 +29,13 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267274,
-      "name": "Weerstand en of energie"
+      "id": 30267283,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267552,
+      "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h08/ha1/47413500674078/temp-prd-front-1051898-1_600x600/temp-prd-front-1051898-1-600x600.jpg"
+  "description": "60 stuks"
 }

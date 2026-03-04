@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Sensodyne Repair & Protect Deep Repair Mini-Tandpasta",
+  "itemName": "Sensodyne Repair & Protect Cool Mint Mini-Tandpasta",
   "code": "5613231",
   "price": "1.89",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/sensodyne-repair-protect-deep-repair-mini-tandpasta/p/5613231",
+  "url": "/sensodyne-repair-protect-cool-mint-mini-tandpasta/p/5613231",
   "listName": "Lister",
   "brand": "Sensodyne",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/h2e/hb1/44752604004382/prd-front-5613231-1_600x600/prd-front-5613231-1-600x600.jpg"
+  "description": "15ml"
 }

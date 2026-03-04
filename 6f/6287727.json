@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Aquafresh White Reverse Long Lasting Strengthening Tandpasta",
+  "itemName": "Aquafresh White Reverse Long Lasting Whitening Tandpasta",
   "code": "6287727",
   "price": "4.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/aquafresh-white-reverse-long-lasting-strengthening-tandpasta/p/6287727",
+  "url": "/aquafresh-white-reverse-long-lasting-whitening-tandpasta/p/6287727",
   "listName": "Lister",
   "brand": "Aquafresh",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml",
+  "description": "75ml - Whitening",
   "image": "/medias/sys_master/prd-images/h6e/h9c/47035408121886/temp-prd-front-6287727-1_600x600/temp-prd-front-6287727-1-600x600.jpg"
 }

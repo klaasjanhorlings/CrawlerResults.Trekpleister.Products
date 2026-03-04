@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nexium Control Maagsapresistente Tabletten",
+  "itemName": "Nexium Control 20mg Maagsapresistente Tabletten",
   "code": "3278430",
   "price": "16.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nexium-control-maagsapresistente-tabletten/p/3278430",
+  "url": "/nexium-control-20mg-maagsapresistente-tabletten/p/3278430",
   "listName": "Lister",
   "brand": "Nexium Control",
   "mpOrigin": "Kruidvat",
@@ -37,5 +37,6 @@
       "name": "Maagzuurremmers"
     }
   ],
-  "description": "Geneesmiddel - 14 stuks"
+  "description": "Geneesmiddel - 14 stuks",
+  "image": "/medias/sys_master/prd-images/h27/h63/28629953511454/prd-front-3278430-1_600x600/prd-front-3278430-1-600x600.jpg"
 }

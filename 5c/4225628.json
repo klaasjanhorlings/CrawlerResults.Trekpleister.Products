@@ -29,10 +29,13 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30267269,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30267265,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30267537,
+      "name": "Spierwrijfmiddelen"
     }
   ],
-  "description": "Geneesmiddel - 120 stuks",
-  "image": "/medias/sys_master/prd-images/h71/h7c/33347943071774/prd-front-4225628-1_600x600/prd-front-4225628-1-600x600.jpg"
+  "description": "Geneesmiddel - 120 stuks"
 }
