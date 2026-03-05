@@ -21,18 +21,17 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536624,
+      "name": "Gezondheid"
     },
     {
-      "id": 101932115,
-      "name": "Voetverzorging"
+      "id": 48237361,
+      "name": "Voetongemakken"
     },
     {
-      "id": 48238489,
-      "name": "Voetcrème"
+      "id": 49316313,
+      "name": "Voetkloven"
     }
   ],
-  "description": "60ml",
-  "image": "/medias/sys_master/prd-images/hee/h13/47262396940318/temp-prd-front-1583429-1_600x600/temp-prd-front-1583429-1-600x600.jpg"
+  "description": "60ml"
 }

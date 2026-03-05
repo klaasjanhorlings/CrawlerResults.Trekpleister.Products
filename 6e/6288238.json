@@ -25,12 +25,16 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30267059,
-      "name": "Wondverzorging"
+      "id": 30267057,
+      "name": "Zelfzorg"
     },
     {
-      "id": 49950787,
-      "name": "Wondzalven"
+      "id": 30267268,
+      "name": "Insecten"
+    },
+    {
+      "id": 30267546,
+      "name": "Na de beet"
     }
   ],
   "description": "15g",

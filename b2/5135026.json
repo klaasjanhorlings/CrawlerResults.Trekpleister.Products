@@ -7,7 +7,7 @@
   "priceOriginal": "63.0",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-5135026-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQ2MjR8aW1hZ2UvanBlZ3xhR015TDJobU5pOHhOelF4TURJNU5ESXhPRGM0TWk5d2NtUXRabkp2Ym5RdE5URXpOVEF5TmkweFh6WXdNSGcyTURBfDA3MTNhY2IxNTc5NjFhN2EwMjJlZmRmZjk2NTc3MjBhNjY3MWVjMzM5OThjODcyYjZjZTI0ZDM3NGNhNTVjNzc"
 }

@@ -29,13 +29,10 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30267283,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267548,
-      "name": "Vitamine B"
+      "id": 30267274,
+      "name": "Weerstand en of energie"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/prd-front-3549050-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTExODF8aW1hZ2UvanBlZ3xhRGczTDJnNE5DOHhOalUzTnpnME9URXpNVEF6T0M5d2NtUXRabkp2Ym5RdE16VTBPVEExTUMweFh6WXdNSGcyTURBfDAwNDQ0YzVlNTNmZDNhYjM2OThmMGRkNjUzZjIyMzFkZmNlYmI1NmRkYmQ4MDk5YjZlNGM4OTEyM2U3MjU2MTY"
 }

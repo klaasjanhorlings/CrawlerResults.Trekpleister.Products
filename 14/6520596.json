@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2181 > 5162 > 5217 > 5406",
   "supplier": "CLEMENTONI SPA",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000695",
+  "mmkId": "8000695",
+  "productGroupId": "529510",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/clementoni-marvel-spiderman-puzzel/p/6520596",
@@ -29,6 +29,5 @@
       "name": "Puzzels"
     }
   ],
-  "description": "2 x 60 stukjes",
-  "image": "/medias/sys_master/prd-images/he6/ha2/46981513084958/temp-prd-front-6520596-1_600x600/temp-prd-front-6520596-1-600x600.jpg"
+  "description": "2 x 60 stukjes"
 }

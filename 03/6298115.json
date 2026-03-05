@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 2181 > 5162 > 5217 > 5406 > 6040",
   "supplier": "ASMODEE THE NETHERLANDS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000695",
+  "mmkId": "8000695",
+  "productGroupId": "529510",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pokemon-trading-card-game-verzamelmap/p/6298115",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4b/hf1/34721209745438/prd-front-6298115-1_600x600/prd-front-6298115-1-600x600.jpg"
 }

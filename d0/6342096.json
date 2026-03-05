@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2191 > 3710 > 6822 > 6823",
   "supplier": "SPEELGOEDLAND",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000695",
+  "mmkId": "8000695",
+  "productGroupId": "529510",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pokemon-tekenset/p/6342096",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h09/h2f/47640590647326/temp-prd-front-6342096-1_600x600/temp-prd-front-6342096-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h00/h0c/47686915031070/temp-prd-front-6342096-1_600x600/temp-prd-front-6342096-1-600x600.jpg"
 }

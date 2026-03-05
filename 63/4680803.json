@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Cellular Expert Lift Anti-Age Nachtcrème",
   "code": "4680803",
-  "price": "34.99",
-  "priceOriginal": "",
+  "price": "19.99",
+  "priceOriginal": "34.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "8000536",
-  "mmkId": "8000536",
-  "productGroupId": "511473",
+  "onPromo": "8000694",
+  "mmkId": "8000694",
+  "productGroupId": "519979",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 15,00",
   "url": "/nivea-cellular-expert-lift-anti-age-nachtcreme/p/4680803",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen en rijpe huid"
+  "description": "50ml - Alle huidtypen en rijpe huid",
+  "image": "/medias/sys_master/prd-images/hc9/h54/45053293297694/prd-front-4680803-1_600x600/prd-front-4680803-1-600x600.jpg"
 }
