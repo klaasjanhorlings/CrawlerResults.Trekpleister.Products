@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Uv Specialist SPF50+ Silky Uv Stick",
+  "code": "6496145",
+  "price": "9.99",
+  "priceOriginal": "19.99",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "8000632",
+  "mmkId": "8000632",
+  "productGroupId": "520891",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/nivea-uv-specialist-spf50-silky-uv-stick/p/6496145",
+  "listName": "Lister",
+  "brand": "Nivea Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131895698,
+      "name": "Zonnebrand stick"
+    }
+  ],
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/hba/h19/47623848362014/temp-prd-front-6496145-1_600x600/temp-prd-front-6496145-1-600x600.jpg"
+}

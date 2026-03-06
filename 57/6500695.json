@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Byron Bay Aloë Vera Aftersun Gel",
+  "code": "6500695",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "CARESSE COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/byron-bay-aloe-vera-aftersun-gel/p/6500695",
+  "listName": "Lister",
+  "brand": "Byron Bay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267215,
+      "name": "Aftersun"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h7b/hf9/46854176112670/temp-prd-front-6500695-1_600x600/temp-prd-front-6500695-1-600x600.jpg"
+}

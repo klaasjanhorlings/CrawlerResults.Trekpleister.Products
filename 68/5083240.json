@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Ambre Solaire Kids Sensitive Expert+ SPF50+ Zonnemelk",
+  "code": "5083240",
+  "price": "11.49",
+  "priceOriginal": "22.99",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "8000632",
+  "mmkId": "8000632",
+  "productGroupId": "520891",
+  "brandType": "A of B merk",
+  "discount": "€ 11,50",
+  "url": "/garnier-ambre-solaire-kids-sensitive-expert-spf50-zonnemelk/p/5083240",
+  "listName": "Lister",
+  "brand": "Garnier Ambre Solaire",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267335,
+      "name": "Baby zonnebrand"
+    }
+  ],
+  "description": "175ml",
+  "image": "/medias/sys_master/prd-images/hfe/h64/47727654043678/temp-prd-front-5083240-1_600x600/temp-prd-front-5083240-1-600x600.jpg"
+}

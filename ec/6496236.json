@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Breathable Uv Face Anti-Age Q10 SPF50+ Zonnecrème",
+  "code": "6496236",
+  "price": "8.99",
+  "priceOriginal": "17.99",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "8000632",
+  "mmkId": "8000632",
+  "productGroupId": "520891",
+  "brandType": "A of B merk",
+  "discount": "€ 9,00",
+  "url": "/nivea-sun-breathable-uv-face-anti-age-q10-spf50-zonnecreme/p/6496236",
+  "listName": "Lister",
+  "brand": "Nivea Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131894966,
+      "name": "Zonnebrand crème"
+    }
+  ],
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h10/h79/47623839547422/temp-prd-front-6496236-1_600x600/temp-prd-front-6496236-1-600x600.jpg"
+}

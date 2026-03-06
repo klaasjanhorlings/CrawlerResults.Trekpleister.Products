@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yfood This is Food Classic Choco Drinkmaaltijd",
+  "code": "6508087",
+  "price": "4.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3600",
+  "supplier": "YFOOD LABS GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "3007554",
+  "mmkId": "3007554",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/yfood-this-is-food-classic-choco-drinkmaaltijd/p/6508087",
+  "listName": "Lister",
+  "brand": "Yfood",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267060,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30267299,
+      "name": "Maaltijdrepen, drinkmaaltijden"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h7e/h42/46854145769502/temp-prd-front-6508087-1_600x600/temp-prd-front-6508087-1-600x600.jpg"
+}

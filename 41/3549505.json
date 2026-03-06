@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Strepfen 8,75 Mg Keelspray",
+  "itemName": "Strepfen 8,75mg Keelspray",
   "code": "3549505",
   "price": "10.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/strepfen-8-75-mg-keelspray/p/3549505",
+  "url": "/strepfen-8-75mg-keelspray/p/3549505",
   "listName": "Lister",
   "brand": "Strepfen",
   "mpOrigin": "Kruidvat",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Geneesmiddel - 15ml",
-  "image": "/medias/sys_master/prd-images/hfd/he0/47700426784798/temp-prd-front-3549505-1_600x600/temp-prd-front-3549505-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h66/h31/47748983554078/temp-prd-front-3549505-1_600x600/temp-prd-front-3549505-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Pantene Pro-V Repair & Protect Beschermende Keratine Haarolie",
+  "itemName": "Pantene Pro-V Repair & Protect Beschermende Haarolie",
   "code": "5401537",
   "price": "10.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/pantene-pro-v-repair-protect-beschermende-keratine-haarolie/p/5401537",
+  "url": "/pantene-pro-v-repair-protect-beschermende-haarolie/p/5401537",
   "listName": "Lister",
   "brand": "Pantene",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100ml - Droog en beschadigd haar",
-  "image": "/medias/sys_master/prd-images/ha8/h33/47682647097374/temp-prd-front-5401537-1_600x600/temp-prd-front-5401537-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hac/hb3/47727672852510/temp-prd-front-5401537-1_600x600/temp-prd-front-5401537-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dove Advanced Care Anti-Transpirant Deodorant Roller Invisible Dry",
+  "itemName": "Dove Advanced Care Invisible Dry Antitranspirant Deodorant Roller",
   "code": "1307629",
   "price": "5.79",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "511749",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dove-advanced-care-anti-transpirant-deodorant-roller-invisible-dry/p/1307629",
+  "url": "/dove-advanced-care-invisible-dry-antitranspirant-deodorant-roller/p/1307629",
   "listName": "Lister",
   "brand": "Dove",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h35/h00/47587053895710/temp-prd-front-1307629-1_600x600/temp-prd-front-1307629-1-600x600.jpg"
+  "description": "50ml"
 }

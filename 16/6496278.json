@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Ambre Solaire Kids Sensitive Expert+ SPF50+ Roll-on",
+  "code": "6496278",
+  "price": "7.49",
+  "priceOriginal": "14.99",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "8000632",
+  "mmkId": "8000632",
+  "productGroupId": "520891",
+  "brandType": "A of B merk",
+  "discount": "€ 7,50",
+  "url": "/garnier-ambre-solaire-kids-sensitive-expert-spf50-roll-on/p/6496278",
+  "listName": "Lister",
+  "brand": "Garnier Ambre Solaire",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131894676,
+      "name": "Zonnebrand kids"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb6/h99/47674473676830/temp-prd-front-6496278-1_600x600/temp-prd-front-6496278-1-600x600.jpg"
+}

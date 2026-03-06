@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dove Advanced Care Anti-Transpirant Deodorant Roller Pomegranate & Lemon",
+  "itemName": "Dove Advanced Care Pomegranate & Lemon Antitranspirant Deodorant Roller",
   "code": "2405607",
   "price": "5.79",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "511749",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dove-advanced-care-anti-transpirant-deodorant-roller-pomegranate-lemon/p/2405607",
+  "url": "/dove-advanced-care-pomegranate-lemon-antitranspirant-deodorant-roller/p/2405607",
   "listName": "Lister",
   "brand": "Dove",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h5e/h38/47613104717854/temp-prd-front-2405607-1_600x600/temp-prd-front-2405607-1-600x600.jpg"
+  "description": "50ml"
 }
