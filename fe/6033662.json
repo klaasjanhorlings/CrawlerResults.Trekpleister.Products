@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "8000622",
   "mmkId": "8000622",
   "productGroupId": "520358",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 4, 14 stuks",
-  "image": "/medias/sys_master/prd-images/h8b/h83/47742555652126/temp-prd-front-6033662-1_600x600/temp-prd-front-6033662-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf2/h91/47796612169758/temp-prd-front-6033662-1_600x600/temp-prd-front-6033662-1-600x600.jpg"
 }

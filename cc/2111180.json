@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Protect & Dry Touch SPF50 Transparante Zonnebrandspray",
+  "code": "2111180",
+  "price": "13.99",
+  "priceOriginal": "27.99",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "8000632",
+  "mmkId": "8000632",
+  "productGroupId": "520891",
+  "brandType": "A of B merk",
+  "discount": "€ 14,00",
+  "url": "/nivea-sun-protect-dry-touch-spf50-transparante-zonnebrandspray/p/2111180",
+  "listName": "Lister",
+  "brand": "Nivea Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131895222,
+      "name": "Zonnebrand spray"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h58/h06/47783710228510/temp-prd-front-2111180-1_600x600/temp-prd-front-2111180-1-600x600.jpg"
+}
