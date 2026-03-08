@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "B.Tan I Don't Want Tan On My Hands Tan Mitt",
+  "code": "6050056",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
+  "supplier": "MARQUE OF BRANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/btan-i-dont-want-tan-on-my-hands-tan-mitt/p/6050056",
+  "listName": "Lister",
+  "brand": "B.TAN",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267216,
+      "name": "Zelfbruiners"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h29/h5f/44812578783262/prd-front-6050056-1_600x600/prd-front-6050056-1-600x600.jpg"
+}

@@ -21,22 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536623,
-      "name": "Verzorging"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267050,
-      "name": "Zonbescherming"
+      "id": 30267067,
+      "name": "Babyverzorging"
     },
     {
-      "id": 30267214,
-      "name": "Zonnebrand"
-    },
-    {
-      "id": 131894676,
-      "name": "Zonnebrand kids"
+      "id": 30267335,
+      "name": "Baby zonnebrand"
     }
   ],
   "description": "175ml",
-  "image": "/medias/sys_master/prd-images/hb7/h53/47774365712414/temp-prd-front-5083240-1_600x600/temp-prd-front-5083240-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdd/hfd/47822201258014/temp-prd-front-5083240-1_600x600/temp-prd-front-5083240-1-600x600.jpg"
 }
