@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Ambre Solaire Kids Sensitive Expert+ SPF50+ Roll-on",
   "code": "6496278",
-  "price": "7.49",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "outOfStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 7,50",
+  "discount": "",
   "url": "/garnier-ambre-solaire-kids-sensitive-expert-spf50-roll-on/p/6496278",
   "listName": "Lister",
   "brand": "Garnier Ambre Solaire",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h14/h16/47826860507166/temp-prd-front-6496278-1_600x600/temp-prd-front-6496278-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf8/h22/47871172313118/temp-prd-front-6496278-1_600x600/temp-prd-front-6496278-1-600x600.jpg"
 }

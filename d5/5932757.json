@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Davitamon Multi Vrouw 50+ Tabletten",
   "code": "5932757",
-  "price": "22.99",
-  "priceOriginal": "",
+  "price": "11.49",
+  "priceOriginal": "22.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "3007554",
-  "mmkId": "3007554",
-  "productGroupId": "",
+  "onPromo": "8000706",
+  "mmkId": "8000706",
+  "productGroupId": "518654",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,50",
   "url": "/davitamon-multi-vrouw-50-tabletten/p/5932757",
   "listName": "Lister",
   "brand": "Davitamon",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h34/h24/45308222242846/prd-front-5932757-1_600x600/prd-front-5932757-1-600x600.jpg"
 }

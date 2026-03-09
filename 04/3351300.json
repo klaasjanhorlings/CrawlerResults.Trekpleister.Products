@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Ambre Solaire Hydra 24H Protect SPF50+ Beschermende Zonnemelk",
   "code": "3351300",
-  "price": "12.24",
-  "priceOriginal": "24.49",
+  "price": "24.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 12,25",
+  "discount": "",
   "url": "/garnier-ambre-solaire-hydra-24h-protect-spf50-beschermende-zonnemelk/p/3351300",
   "listName": "Lister",
   "brand": "Garnier Ambre Solaire",
@@ -37,6 +37,5 @@
       "name": "Zonnebrand crème"
     }
   ],
-  "description": "175ml",
-  "image": "/medias/sys_master/prd-images/hc9/hf7/44794409910302/prd-front-3351300-1_600x600/prd-front-3351300-1-600x600.jpg"
+  "description": "175ml"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Sun Kids Daily Uv Protect SPF50+ Zonnebrandcrème",
   "code": "6496229",
-  "price": "10.99",
-  "priceOriginal": "21.99",
+  "price": "21.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "outOfStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "8000536",
+  "mmkId": "8000536",
+  "productGroupId": "511473",
   "brandType": "A of B merk",
-  "discount": "€ 11,00",
+  "discount": "",
   "url": "/nivea-sun-kids-daily-uv-protect-spf50-zonnebrandcreme/p/6496229",
   "listName": "Lister",
   "brand": "Nivea Sun",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h31/h99/47826839797790/temp-prd-front-6496229-1_600x600/temp-prd-front-6496229-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h41/h84/47871150882846/temp-prd-front-6496229-1_600x600/temp-prd-front-6496229-1-600x600.jpg"
 }

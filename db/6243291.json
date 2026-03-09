@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Ambre Solaire Hydra 24H SPF50 Zonnespray",
   "code": "6243291",
-  "price": "12.74",
-  "priceOriginal": "25.49",
+  "price": "25.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 12,75",
+  "discount": "",
   "url": "/garnier-ambre-solaire-hydra-24h-spf50-zonnespray/p/6243291",
   "listName": "Lister",
   "brand": "Garnier Ambre Solaire",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h40/h84/47838101635102/temp-prd-front-6243291-1_600x600/temp-prd-front-6243291-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6e/h82/47876405887006/temp-prd-front-6243291-1_600x600/temp-prd-front-6243291-1-600x600.jpg"
 }

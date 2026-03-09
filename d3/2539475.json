@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 2181 > 5161 > 5212 > 5401 > 6040",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "8000695",
-  "mmkId": "8000695",
-  "productGroupId": "529510",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/999-games-halli-galli-junior/p/2539475",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/prd-front-2539475-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTkzOTd8aW1hZ2UvanBlZ3xhRFJqTDJoa1lTOHhOakkxTkRjd056Z3lOamN4T0M5d2NtUXRabkp2Ym5RdE1qVXpPVFEzTlMweFh6WXdNSGcyTURBfDYxNjc3YzkxMWVjNzAxNTM0YTI0YWYzYjg2ZWQ2OGM1NmMzNjFjZTBjY2YxMTFkZjQ5NTY0YTFlYjViMTg2ZDU"
 }

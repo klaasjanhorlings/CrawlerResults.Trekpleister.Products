@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Sun Protect & Dry Touch SPF30 Transparante Zonnebrandspray",
   "code": "1584794",
-  "price": "13.24",
-  "priceOriginal": "26.49",
+  "price": "26.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "outOfStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "8000536",
+  "mmkId": "8000536",
+  "productGroupId": "511473",
   "brandType": "A of B merk",
-  "discount": "€ 13,25",
+  "discount": "",
   "url": "/nivea-sun-protect-dry-touch-spf30-transparante-zonnebrandspray/p/1584794",
   "listName": "Lister",
   "brand": "Nivea Sun",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h81/hb8/47833090752542/temp-prd-front-1584794-1_600x600/temp-prd-front-1584794-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb8/hf6/47876150919198/temp-prd-front-1584794-1_600x600/temp-prd-front-1584794-1-600x600.jpg"
 }

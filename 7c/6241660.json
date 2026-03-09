@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Tattoo Liner 823 Aurora Flip Gel Pencil",
   "code": "6241660",
-  "price": "9.99",
+  "price": "10.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "L'OREAL MAKE-UP",
@@ -33,6 +33,5 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h63/h4e/44848689741854/prd-front-6241660-1_600x600/prd-front-6241660-1-600x600.jpg"
+  "description": ""
 }

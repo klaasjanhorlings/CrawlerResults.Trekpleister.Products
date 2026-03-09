@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Sun Sensitive After Sun Gel",
   "code": "6496152",
-  "price": "8.99",
-  "priceOriginal": "17.99",
+  "price": "17.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "8000536",
+  "mmkId": "8000536",
+  "productGroupId": "511473",
   "brandType": "A of B merk",
-  "discount": "€ 9,00",
+  "discount": "",
   "url": "/nivea-sun-sensitive-after-sun-gel/p/6496152",
   "listName": "Lister",
   "brand": "Nivea Sun",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h3e/hdc/47822293270558/temp-prd-front-6496152-1_600x600/temp-prd-front-6496152-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hff/h24/47865651757086/temp-prd-front-6496152-1_600x600/temp-prd-front-6496152-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Australian Gold Aftersun Moisturizer met Bronzer",
   "code": "6242416",
-  "price": "9.97",
-  "priceOriginal": "19.95",
+  "price": "19.95",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BRADFORD & HAMILTON BV",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
-  "discount": "€ 9,98",
+  "discount": "",
   "url": "/australian-gold-aftersun-moisturizer-met-bronzer/p/6242416",
   "listName": "Lister",
   "brand": "Australian Gold",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "237ml",
-  "image": "/medias/sys_master/prd-images/h7f/ha8/47838103601182/temp-prd-front-6242416-1_600x600/temp-prd-front-6242416-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hde/h77/47876405559326/temp-prd-front-6242416-1_600x600/temp-prd-front-6242416-1-600x600.jpg"
 }

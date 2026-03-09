@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "DERMCOS GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000720",
+  "mmkId": "8000720",
+  "productGroupId": "530430",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-transparent-high-spf50-sun-spray/p/4059686",
@@ -37,6 +37,5 @@
       "name": "Zonnebrand spray"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h04/hdf/45672345960478/temp-prd-front-4059686-1_600x600/temp-prd-front-4059686-1-600x600.jpg"
+  "description": "200ml"
 }

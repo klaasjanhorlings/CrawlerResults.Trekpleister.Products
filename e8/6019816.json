@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Ambre Solaire Ideal Bronze SPF50 Beschermende Melkspray",
   "code": "6019816",
-  "price": "12.99",
-  "priceOriginal": "25.99",
+  "price": "25.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 13,00",
+  "discount": "",
   "url": "/garnier-ambre-solaire-ideal-bronze-spf50-beschermende-melkspray/p/6019816",
   "listName": "Lister",
   "brand": "Garnier Ambre Solaire",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hdc/h7e/47822359068702/temp-prd-front-6019816-1_600x600/temp-prd-front-6019816-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/had/h34/47865663815710/temp-prd-front-6019816-1_600x600/temp-prd-front-6019816-1-600x600.jpg"
 }

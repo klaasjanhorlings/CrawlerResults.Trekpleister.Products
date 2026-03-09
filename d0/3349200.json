@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Vision SPF30 Zonnebrandspray",
   "code": "3349200",
-  "price": "16.29",
-  "priceOriginal": "32.59",
+  "price": "32.59",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 16,30",
+  "discount": "",
   "url": "/vision-spf30-zonnebrandspray/p/3349200",
   "listName": "Lister",
   "brand": "Vision",
@@ -37,6 +37,5 @@
       "name": "Zonnebrand spray"
     }
   ],
-  "description": "180ml",
-  "image": "/medias/sys_master/prd-images/h8a/h27/47306248257566/temp-prd-front-3349200-1_600x600/temp-prd-front-3349200-1-600x600.jpg"
+  "description": "180ml"
 }

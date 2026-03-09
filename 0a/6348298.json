@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ajax Comforting by Fête des Fleurs Allesreiniger",
+  "code": "6348298",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ajax-comforting-by-fete-des-fleurs-allesreiniger/p/6348298",
+  "listName": "Lister",
+  "brand": "Ajax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536631,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30267118,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64430563,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "750ml",
+  "image": "/medias/sys_master/prd-images/h44/h06/34815271829534/prd-front-6348298-1_600x600/prd-front-6348298-1-600x600.jpg"
+}

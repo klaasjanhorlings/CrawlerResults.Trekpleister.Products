@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Sun Breathable Uv Specialist Luminous630 Anti-Spot SPF50+ Zonnefluïde",
   "code": "5604761",
-  "price": "13.99",
-  "priceOriginal": "27.99",
+  "price": "27.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "8000536",
+  "mmkId": "8000536",
+  "productGroupId": "511473",
   "brandType": "A of B merk",
-  "discount": "€ 14,00",
+  "discount": "",
   "url": "/nivea-sun-breathable-uv-specialist-luminous630-anti-spot-spf50-zonnefluide/p/5604761",
   "listName": "Lister",
   "brand": "Nivea Sun",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "40ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hba/h67/47822192476190/temp-prd-front-5604761-1_600x600/temp-prd-front-5604761-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0c/h96/47861240266782/temp-prd-front-5604761-1_600x600/temp-prd-front-5604761-1-600x600.jpg"
 }

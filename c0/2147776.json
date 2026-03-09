@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "EUROFOUR BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "8000720",
+  "mmkId": "8000720",
+  "productGroupId": "530430",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/trekpleister-aloe-vera-aftersun-lotion/p/2147776",
@@ -33,6 +33,5 @@
       "name": "Aftersun"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h1c/hae/45327570665502/prd-front-2147776-1_600x600/prd-front-2147776-1-600x600.jpg"
+  "description": "200ml"
 }

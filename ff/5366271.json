@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Australian Gold Bronzer SPF30 Spray Gel",
   "code": "5366271",
-  "price": "7.47",
-  "priceOriginal": "14.95",
+  "price": "14.95",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BRADFORD & HAMILTON BV",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
-  "discount": "€ 7,48",
+  "discount": "",
   "url": "/australian-gold-bronzer-spf30-spray-gel/p/5366271",
   "listName": "Lister",
   "brand": "Australian Gold",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h4c/h06/47833179750430/temp-prd-front-5366271-1_600x600/temp-prd-front-5366271-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h12/h97/47876206723102/temp-prd-front-5366271-1_600x600/temp-prd-front-5366271-1-600x600.jpg"
 }

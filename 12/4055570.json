@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Sun Kids Protect & Hydrate SPF50+ Zonnebrandspray",
   "code": "4055570",
-  "price": "13.49",
-  "priceOriginal": "26.99",
+  "price": "26.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "8000536",
+  "mmkId": "8000536",
+  "productGroupId": "511473",
   "brandType": "A of B merk",
-  "discount": "€ 13,50",
+  "discount": "",
   "url": "/nivea-sun-kids-protect-hydrate-spf50-zonnebrandspray/p/4055570",
   "listName": "Lister",
   "brand": "Nivea Sun",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h51/ha6/47838185553950/temp-prd-front-4055570-1_600x600/temp-prd-front-4055570-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he6/h11/47881426108446/temp-prd-front-4055570-1_600x600/temp-prd-front-4055570-1-600x600.jpg"
 }

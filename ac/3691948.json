@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Australian Gold Bronzing Intensifier Dry Oil Spray",
   "code": "3691948",
-  "price": "11.75",
-  "priceOriginal": "23.5",
+  "price": "23.5",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BRADFORD & HAMILTON BV",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
-  "discount": "€ 11,75",
+  "discount": "",
   "url": "/australian-gold-bronzing-intensifier-dry-oil-spray/p/3691948",
   "listName": "Lister",
   "brand": "Australian Gold",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "237ml",
-  "image": "/medias/sys_master/prd-images/h13/h23/47838196498462/temp-prd-front-3691948-1_600x600/temp-prd-front-3691948-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7e/h01/47881502457886/temp-prd-front-3691948-1_600x600/temp-prd-front-3691948-1-600x600.jpg"
 }

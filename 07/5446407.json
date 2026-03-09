@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 2181 > 5162 > 5217 > 5406 > 6040",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "8000695",
-  "mmkId": "8000695",
-  "productGroupId": "529510",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/999-games-jakkiebak-gehakketak-kinderkaartspel/p/5446407",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/prd-front-5446407-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzI2NTV8aW1hZ2UvanBlZ3xhR0U1TDJneU55OHhOekExTURFMU5qQTBNREl5TWk5d2NtUXRabkp2Ym5RdE5UUTBOalF3TnkweFh6WXdNSGcyTURBfDdiM2Q4OWEzODdiODA1MjU4NmIzY2Q0YTg3NjJmNmJlODMwMWZiYzQ2YTgwZjYzNGFmYTcxY2FmYmE1MWUwYzI"
 }

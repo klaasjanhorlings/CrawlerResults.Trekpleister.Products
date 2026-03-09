@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Celebrations Geschenkdoos",
+  "code": "6251943",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "BVM-TRADE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/celebrations-geschenkdoos/p/6251943",
+  "listName": "Lister",
+  "brand": "Celebrations",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30267127,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30267441,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267585,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107467260,
+      "name": "Chocoladegeschenken"
+    }
+  ],
+  "description": "500g",
+  "image": "/medias/sys_master/prd-images/h25/hc2/33550727708702/prd-front-6251943-1_600x600/prd-front-6251943-1-600x600.jpg"
+}

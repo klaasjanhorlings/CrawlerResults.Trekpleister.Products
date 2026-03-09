@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Biodermal Ultralichte Zonnefluïde SPF50+ met Hyaluronzuur",
   "code": "5604782",
-  "price": "13.99",
-  "priceOriginal": "27.99",
+  "price": "27.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "8000606",
+  "mmkId": "8000606",
+  "productGroupId": "519625",
   "brandType": "A of B merk",
-  "discount": "€ 14,00",
+  "discount": "",
   "url": "/biodermal-ultralichte-zonnefluide-spf50-met-hyaluronzuur/p/5604782",
   "listName": "Lister",
   "brand": "Biodermal",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h81/had/47833192529950/temp-prd-front-5604782-1_600x600/temp-prd-front-5604782-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha9/h9f/47876216553502/temp-prd-front-5604782-1_600x600/temp-prd-front-5604782-1-600x600.jpg"
 }

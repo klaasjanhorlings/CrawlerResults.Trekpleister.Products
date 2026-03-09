@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Sun Kids Protect & Hydrate SPF50+ Zonnebrand Roll-on",
   "code": "4055493",
-  "price": "7.49",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "8000536",
+  "mmkId": "8000536",
+  "productGroupId": "511473",
   "brandType": "A of B merk",
-  "discount": "€ 7,50",
+  "discount": "",
   "url": "/nivea-sun-kids-protect-hydrate-spf50-zonnebrand-roll-on/p/4055493",
   "listName": "Lister",
   "brand": "Nivea Sun",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "50ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h32/h02/47826810273822/temp-prd-front-4055493-1_600x600/temp-prd-front-4055493-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hbd/ha0/47865895813150/temp-prd-front-4055493-1_600x600/temp-prd-front-4055493-1-600x600.jpg"
 }

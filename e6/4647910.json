@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Tattoo Liner 900 Deep Onyx Automatic Gel Pencil",
   "code": "4647910",
-  "price": "9.99",
+  "price": "10.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "L'OREAL MAKE-UP",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha6/h01/44834331394078/prd-front-4647910-1_600x600/prd-front-4647910-1-600x600.jpg"
 }

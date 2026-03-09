@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Ambre Solair Super Uv SPF50 Onzichtbare Waterfluid Zonbescherming",
   "code": "6496313",
-  "price": "11.99",
-  "priceOriginal": "23.99",
+  "price": "23.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "outOfStock",
-  "onPromo": "8000632",
-  "mmkId": "8000632",
-  "productGroupId": "520891",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 12,00",
+  "discount": "",
   "url": "/garnier-ambre-solair-super-uv-spf50-onzichtbare-waterfluid-zonbescherming/p/6496313",
   "listName": "Lister",
   "brand": "Garnier Ambre Solaire",
@@ -42,5 +42,5 @@
     }
   ],
   "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h6e/h7d/47826861490206/temp-prd-front-6496313-1_600x600/temp-prd-front-6496313-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he2/hf5/47871170379806/temp-prd-front-6496313-1_600x600/temp-prd-front-6496313-1-600x600.jpg"
 }

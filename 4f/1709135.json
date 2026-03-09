@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L Oréal Paris True Match 6.N Honey Foundation",
+  "code": "1709135",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "8000557",
+  "mmkId": "8000557",
+  "productGroupId": "513901",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/l-oreal-paris-true-match-6n-honey-foundation/p/1709135",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267134,
+      "name": "Foundation"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h0d/h3f/44449128415262/prd-front-1709135-1_600x600/prd-front-1709135-1-600x600.jpg"
+}

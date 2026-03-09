@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Creator 31380 3-in-1 Retro Spelcomputer",
+  "code": "6460025",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-creator-31380-3-in-1-retro-spelcomputer/p/6460025",
+  "listName": "Lister",
+  "brand": "LEGO Creator",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267372,
+      "name": "LEGO Creator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h33/hcb/45155835936798/prd-front-6460025-1_600x600/prd-front-6460025-1-600x600.jpg"
+}
