@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Baby & Kids Mineral Sunscreen SPF50 Zonnespray",
+  "code": "6496166",
+  "price": "26.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-baby-kids-mineral-sunscreen-spf50-zonnespray/p/6496166",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536625,
+      "name": "Baby"
+    },
+    {
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267335,
+      "name": "Baby zonnebrand"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h97/hb7/47944345354270/temp-prd-front-6496166-1_600x600/temp-prd-front-6496166-1-600x600.jpg"
+}

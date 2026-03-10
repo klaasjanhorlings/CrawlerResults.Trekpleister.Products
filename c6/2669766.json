@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "BENCKMAR BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h8a/h3e/33991183237150/prd-front-2669766-1_600x600/prd-front-2669766-1-600x600.jpg"
+  "description": "200ml"
 }

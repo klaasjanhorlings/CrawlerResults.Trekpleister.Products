@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2642 > 3327 > 4231",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Reisziekte"
     }
   ],
-  "description": "Geneesmiddel - 10 stuks"
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h46/h33/29038338080798/prd-front-4108896-1_600x600/prd-front-4108896-1-600x600.jpg"
 }
