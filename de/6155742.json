@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "EasyGlide Anaal Glijmiddel",
+  "code": "6155742",
+  "price": "3.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
+  "supplier": "ONE-DC B.V.",
+  "inStock": "inStock",
+  "onPromo": "8000714",
+  "mmkId": "8000714",
+  "productGroupId": "521512",
+  "brandType": "A of B merk",
+  "discount": "€ 4,00",
+  "url": "/easyglide-anaal-glijmiddel/p/6155742",
+  "listName": "Lister",
+  "brand": "Easyglide",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536624,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30267062,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30267305,
+      "name": "Glijmiddelen en massagegels"
+    }
+  ],
+  "description": "150ml"
+}

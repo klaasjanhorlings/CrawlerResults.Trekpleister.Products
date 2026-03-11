@@ -7,7 +7,7 @@
   "priceOriginal": "7.59",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 2835 > 3577",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "8000613",
   "mmkId": "8000613",
   "productGroupId": "519882",
@@ -33,6 +33,5 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/ha4/had/34925466157086/prd-front-6292760-1_600x600/prd-front-6292760-1-600x600.jpg"
+  "description": "200ml"
 }

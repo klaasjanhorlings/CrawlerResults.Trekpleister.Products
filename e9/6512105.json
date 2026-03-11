@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Altruist Dermatologist SPF50 Sunscreen",
+  "code": "6512105",
+  "price": "6.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "WESTMARK INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/altruist-dermatologist-spf50-sunscreen/p/6512105",
+  "listName": "Lister",
+  "brand": "Altruist",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131894966,
+      "name": "Zonnebrand crème"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h57/h9e/47994422263838/temp-prd-front-6512105-1_600x600/temp-prd-front-6512105-1-600x600.jpg"
+}

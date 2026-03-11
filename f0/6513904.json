@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Altruist Dermatologist SPF50 Primer",
+  "code": "6513904",
+  "price": "10.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "WESTMARK INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/altruist-dermatologist-spf50-primer/p/6513904",
+  "listName": "Lister",
+  "brand": "Altruist",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267038,
+      "name": "Make-up"
+    },
+    {
+      "id": 30267136,
+      "name": "Primer"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hb3/ha6/47994412892190/temp-prd-front-6513904-1_600x600/temp-prd-front-6513904-1-600x600.jpg"
+}

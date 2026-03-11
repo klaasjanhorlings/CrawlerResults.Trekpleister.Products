@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO City 60493 F1 Displaytruck met Audi F1 Racewagen",
+  "code": "6485393",
+  "price": "41.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-city-60493-f1-displaytruck-met-audi-f1-racewagen/p/6485393",
+  "listName": "Lister",
+  "brand": "LEGO City",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536626,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30267076,
+      "name": "LEGO"
+    },
+    {
+      "id": 30267367,
+      "name": "LEGO City"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h51/h83/47995061207070/temp-prd-front-6485393-1_600x600/temp-prd-front-6485393-1-600x600.jpg"
+}

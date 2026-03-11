@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3659 > 3043",
   "supplier": "KENVUE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/h2e/hc3/47946174005278/temp-prd-front-5451181-1_600x600/temp-prd-front-5451181-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h63/h79/47970333523998/temp-prd-front-5451181-1_600x600/temp-prd-front-5451181-1-600x600.jpg"
 }

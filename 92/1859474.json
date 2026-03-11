@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA Sun Hydraterende & Kalmerende Aftersun Lotion",
+  "itemName": "NIVEA Sun Hydraterende Aftersun Lotion",
   "code": "1859474",
   "price": "16.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "511473",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-sun-hydraterende-kalmerende-aftersun-lotion/p/1859474",
+  "url": "/nivea-sun-hydraterende-aftersun-lotion/p/1859474",
   "listName": "Lister",
   "brand": "Nivea Sun",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h6a/h0f/47928572018718/temp-prd-front-1859474-1_600x600/temp-prd-front-1859474-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h87/h6b/47970233909278/temp-prd-front-1859474-1_600x600/temp-prd-front-1859474-1-600x600.jpg"
 }

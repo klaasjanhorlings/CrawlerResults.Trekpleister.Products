@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Momo Puri Moist Barrier Lotion",
+  "code": "6340290",
+  "price": "14.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/momo-puri-moist-barrier-lotion/p/6340290",
+  "listName": "Lister",
+  "brand": "Momo Puri",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536622,
+      "name": "Beauty"
+    },
+    {
+      "id": 30267042,
+      "name": "Skincare"
+    },
+    {
+      "id": 30267165,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30267478,
+      "name": "Reinigingstonic"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hb8/heb/45420103499806/prd-front-6340290-1_600x600/prd-front-6340290-1-600x600.jpg"
+}

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Elvive Glycolic Gloss Conditioner",
+  "itemName": "Elvive Ultimate Glycolic Gloss Ultimate Conditioner",
   "code": "6024464",
   "price": "13.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "512930",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-elvive-glycolic-gloss-conditioner/p/6024464",
+  "url": "/elvive-ultimate-glycolic-gloss-ultimate-conditioner/p/6024464",
   "listName": "Lister",
   "brand": "Elvive",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h50/h49/47914683531294/temp-prd-front-6024464-1_600x600/temp-prd-front-6024464-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5a/h69/47958634987550/temp-prd-front-6024464-1_600x600/temp-prd-front-6024464-1-600x600.jpg"
 }

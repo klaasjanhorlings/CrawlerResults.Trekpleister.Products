@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "DERMCOS GMBH",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h10/h9d/47920901455902/temp-prd-front-6506638-1_600x600/temp-prd-front-6506638-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h9e/h2e/47964188639262/temp-prd-front-6506638-1_600x600/temp-prd-front-6506638-1-600x600.jpg"
 }

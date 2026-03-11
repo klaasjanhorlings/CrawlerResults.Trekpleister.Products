@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cantu Shea Butter Coconut Curling Cream",
+  "code": "3259915",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "ORIGINAL ADDITIONS (BP)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/cantu-shea-butter-coconut-curling-cream/p/3259915",
+  "listName": "Lister",
+  "brand": "Cantu",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267249,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30267485,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "340g",
+  "image": "/medias/prd-front-3259915-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzQ2NzV8aW1hZ2UvanBlZ3xhREZqTDJoaVlpOHhOelUzTnpVek1qWTFNelU1T0M5d2NtUXRabkp2Ym5RdE16STFPVGt4TlMweFh6WXdNSGcyTURBfGZhNTkyYmU0NDAyOTBjNjE5OWUyOGFjOGZjZmFmNGYzYjFhNDZlNmYxMGI4MDQzNGM3NjgxOGZiNzgwNDc3OGQ"
+}

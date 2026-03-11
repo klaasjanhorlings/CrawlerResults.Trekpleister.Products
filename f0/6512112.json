@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Altruist Dermatologist SPF50 Face Fluid",
+  "code": "6512112",
+  "price": "12.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "WESTMARK INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/altruist-dermatologist-spf50-face-fluid/p/6512112",
+  "listName": "Lister",
+  "brand": "Altruist",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131894966,
+      "name": "Zonnebrand crème"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h51/h46/47994416627742/temp-prd-front-6512112-1_600x600/temp-prd-front-6512112-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Altruist Dermatologist SPF50 Family Sunspray",
+  "code": "6512084",
+  "price": "14.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "WESTMARK INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/altruist-dermatologist-spf50-family-sunspray/p/6512084",
+  "listName": "Lister",
+  "brand": "Altruist",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131895222,
+      "name": "Zonnebrand spray"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hf8/hfd/47994426064926/temp-prd-front-6512084-1_600x600/temp-prd-front-6512084-1-600x600.jpg"
+}

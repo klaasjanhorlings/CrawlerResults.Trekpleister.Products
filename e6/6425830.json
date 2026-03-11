@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69038863,
-      "name": "LEGO Superhelden"
+      "id": 30267376,
+      "name": "LEGO Marvel"
     }
   ],
   "description": "",

@@ -31,7 +31,12 @@
     {
       "id": 30267231,
       "name": "Tandpasta"
+    },
+    {
+      "id": 132837182,
+      "name": "Kindertandpasta"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hc1/h62/47091739918366/temp-prd-front-5368042-1_600x600/temp-prd-front-5368042-1-600x600.jpg"
 }

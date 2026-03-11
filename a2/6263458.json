@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Always Platinum Super Maandverband",
+  "itemName": "Always Platinum Maat 2 Maandverband",
   "code": "6263458",
   "price": "9.99",
   "priceOriginal": "16.62",
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 2979 > 3805",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "8000622",
   "mmkId": "8000622",
   "productGroupId": "520358",
   "brandType": "A of B merk",
   "discount": "€ 6,63",
-  "url": "/always-platinum-super-maandverband/p/6263458",
+  "url": "/always-platinum-maat-2-maandverband/p/6263458",
   "listName": "Lister",
   "brand": "Always",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "6 x 12 stuks",
-  "image": "/medias/sys_master/prd-images/h83/hd9/47935673630750/temp-prd-front-6263458-1_600x600/temp-prd-front-6263458-1-600x600.jpg"
+  "description": "mt 2, 6 x 12 stuks",
+  "image": "/medias/sys_master/prd-images/h04/h42/47964197978142/temp-prd-front-6263458-1_600x600/temp-prd-front-6263458-1-600x600.jpg"
 }

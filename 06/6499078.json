@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Byron Bay Instant Bronzer SPF30 Tinted Sun Lotion",
+  "code": "6499078",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "CARESSE COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/byron-bay-instant-bronzer-spf30-tinted-sun-lotion/p/6499078",
+  "listName": "Lister",
+  "brand": "Byron Bay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536623,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30267050,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30267214,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131895222,
+      "name": "Zonnebrand spray"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/ha6/h67/47970231943198/temp-prd-front-6499078-1_600x600/temp-prd-front-6499078-1-600x600.jpg"
+}

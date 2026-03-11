@@ -21,12 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536622,
-      "name": "Beauty"
+      "id": 29536625,
+      "name": "Baby"
     },
     {
-      "id": 30267163,
-      "name": "Dermacare"
+      "id": 30267067,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30267333,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267577,
+      "name": "Luierzalf"
     }
   ],
   "description": "50ml",

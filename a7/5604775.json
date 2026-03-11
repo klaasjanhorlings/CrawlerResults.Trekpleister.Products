@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA Sun Kids Protect & Hydrate SPF50+ Zonnecrème",
+  "itemName": "NIVEA Sun Kids Protect & Hydrate To Go Size SPF50+ 5-In-1 Zonnecrème",
   "code": "5604775",
   "price": "9.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "511473",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-sun-kids-protect-hydrate-spf50-zonnecreme/p/5604775",
+  "url": "/nivea-sun-kids-protect-hydrate-to-go-size-spf50-5-in-1-zonnecreme/p/5604775",
   "listName": "Lister",
   "brand": "Nivea Sun",
   "mpOrigin": "Kruidvat",
@@ -25,18 +25,10 @@
       "name": "Verzorging"
     },
     {
-      "id": 30267050,
-      "name": "Zonbescherming"
-    },
-    {
-      "id": 30267214,
-      "name": "Zonnebrand"
-    },
-    {
-      "id": 131894676,
-      "name": "Zonnebrand kids"
+      "id": 91613031,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h20/hb1/47920917577758/temp-prd-front-5604775-1_600x600/temp-prd-front-5604775-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb1/h3c/47964196339742/temp-prd-front-5604775-1_600x600/temp-prd-front-5604775-1-600x600.jpg"
 }

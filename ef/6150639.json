@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "15+ maanden"
     }
   ],
-  "description": "250g",
-  "image": "/medias/sys_master/prd-images/h04/hda/47907130277918/temp-prd-front-6150639-1_600x600/temp-prd-front-6150639-1-600x600.jpg"
+  "description": "250g"
 }
